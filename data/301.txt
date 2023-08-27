@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1481927663 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-25-2011  
+<h2> review.text </h2>
+
+ <p> I was very disappointed when I was comparing this edition of this book I bought with another edition a friend of mine had purchased some years before me..... I learned that THIS EDITION OMITS 70+ PAGES FROM THE ORIGINAL WORK by "Che" Guevara.  If you're interested in the history of this era, I suggest you search for another edition. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rip Off Edited Edition (missing 70+ pages of the original!) </p>
+
+
+<h2> review.date </h2>
+  04-27-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this book because I live on the margin of the wilderness in the Pacific Northwest .. and wanted to know just how feasible &#34;Guerrilla Warfare&#34; might be in defense of the Obama catastrophy, if invaded.  I learned some pointers if forced into such an unwanted confrontation .. but I also learned how unrealistic it is to consider winning under such conditions.  To me, the book was a success. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Guerrilla Warfare is more than a classic .. </p>
+
+
+<h2> review.date </h2>
+  03-02-2009  
+<h2> review.text </h2>
+
+ <p> At the beginning of January, 1959, in a rapid consideration and synthesis of the guerrilla Cuban process, newly reached, Fidel Castro, got enthusiastic with his social military operational "discovery", was defining categorical: "Without training, without war tactics, we manage to conquer that Army ..." "No professional Army (in America) would have forces to offset the activities of revolutionary guerrillas". "In any other (geographical) stage, with the same political conditions that ours, the popular guerrillas are invincible". See Carlos Franqui. Diario de la Revoluci&oacute;n Cubana. Ediciones R. Torres. Barcelona, 1976. Pages, 703 and 704. Simultaneously published in France and Italy.With all this statement, he was who first established the social ideological operational theoretic basis of the Spanish-American guerrilla warfare. Afterwards Guevara developed, with more scientific than doctrinaire aspirations, its military guerrillas lived ideology. It was wrote in his "Guerrilla Warfare" book. He centered it on two postulates. That he was claiming the Cuban guerrilla warfare had absolutely (undoubtedly and without variation) demonstrated in practice. "The popular forces can win a war against the Army" Indeed, this has happened in other occasions. "Not always it is necessary to wait that all the conditions for the revolution are present. (He was thinking in Mao's theory of protracted warfare). The rebel revolutionary focus can create and develop them". His tragic end in Bolivia, where he lived as a "wandering irregular rebel", without supporting popular bases, would give the "relative, local character, questionable, particular and conditioned" real measure of his military theory "discovery".Guevara dedicated great part of the forty thousand words of "The Guerrilla Warfare", to the study of the men who were forming the guerrillas and to giving advises on the life in the mount. But the work is slightly extensive in the study of the guerrilla tactics and strategies. As for his technical "offers" in his "Guerrilla Warfare" book, we only have to look at any photo, even of 2 or 3 decades ago, of armed irregular military rebels in some uneasy country in the World. They all generally have an assault rifle and an antitank rocket launcher. That usually are an AK-47 and a RPG-2 or RPG-7, all of Soviet design. Guevara speaks about a "grenade-launcher" designed by the Cuban guerrillas. Its propellant is a hunting cartridge, without pellets, adjusted to a wood rod. In its free end is adjusted a proper tin, full with gunpowder and grapeshot, and provided with a time fuse. It is fired off with a cut away shotgun, adequately inclined. Their guerrillas rifles were Springfield 1903 cal. .3006, with some North American M-1 cal. .30 and Dominican San Crist&oacute;bal carbines and few semiautomatic Garands. A superficial examination of the American FM Improvised Ammunition Devices, will give you better and abundant ideas to use in an undeveloped, hostile and without logistics support rebel environment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useful Only for Historical Personal Purpose. </p>
+
+
+<h2> review.date </h2>
+  03-14-2010  
+<h2> review.text </h2>
+
+ <p> When one of Castor's commanders in the field asked him for instructions Che himself admitted that "he knew nothing about military tactics." He said so himself!  This book is more myth than reality. It is nothing more than a compilation of Castro propaganda for those enthralled by the cult of Che.For a real picture of what Che was like read the accounts of people that actually served under him in Humberto Fontova's book: "Exposing the real Che Guevara and the useful idiots who idolize him."Exposing the Real Che Guevara: And the Useful Idiots Who Idolize Him </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Che (an incompentent commander) didn't even write this book! </p>
+
+
+<h2> review.date </h2>
+  02-11-2011  
+<h2> review.text </h2>
+
+ <p> Can't believe how much this book contains hypes and over glamorizing for the " Every Cuban's  No.1 evil Dictator.The book is based on failed ideology, not practicality at all. By the way there is no "Equal justice" like those communist's lies. Once the country turns into a communism, only few "Elite Communist Party members get the special treatment( food, health care, all of the supplies), but the rest of the majority live in dirt poor. Don't get deceived. Any deceived insist, maybe someone should arrange the special "Exchange Living System in communist countries" for these ignorant, deceived "Communism Lovers". These deceived Americans should live not as a American citizen, who have all the protections and privileges internationally, but just to live as same citizens of that particular communism countries.1989, Tinamen square, a million chines college students marched to protest against their communist government of oppression: it was broadcasted all over the world, they were asking communist government to give them ;freedom for speech, media, business, religion, but true-democracy ( not like few communist party people controlling) by election. Sooner the communist government sent them tanks and guns and indiscriminately shoot them and ran over with tank. Whole world watched through television broadcast and shocked by their brutality. Because communism view human as intellectual animal, not as god made by His image. So they kill many like killing cows or dogs, without feeling bad nor horrible.Now some ignorant Americans already forgot about this just 20 years ago's brutality that we watched with our own eyes, want to change this great nation into communist?Now some ignorant Americans already forgot about this just 20 years ago's brutality that we watched with our own eyes, want to change this great nation into communist?Please study the real history. I mean the "real history" not just that stupid "ideology of communist" of communism lies. In a word, if you study the real history, communist repeatedly failed over last 150 years.and it's the most evil regime in the history. Why?: Stalin communist government killed over 90 millions including the vicinity nations that were turned into communism, Macha-tong communist killed over 100 millions, 2 millions by North Korea, by Cambodia each, 2 millions in Africa, over 400,000 latin America..so on . But most of all they all became terribly poor after communist regime, oppressing the free capitalism,individual productivity. Well, small exception of  China, because they started to adapt the partial capitalism from 10 years ago after they realized the devestating poor,  harsh economic state afetr conversion into communism. Now history tells also other totalitarianistic evil regime; Hitler killed 6 million jews with other 4 million of Europeans; Japan' imperialism killed 20 million Asians during WWII till atomic bombs stopped their brutal invasion& colonization, ..so on.When communism and socialism oppress people's creativity and force them to work for "common good", the productivity drops automatically. Why? men were not made to work for common good. Maybe some aliens from different planets or maybe Jesus will do for  common good. But not the men's nature. That's why communism make every one poorer and poorer from their establishments throughout the history. When men get prosperous by working w their own hards, with their creativity, they eventually help others if they are normal. because normal people appreciate God's wisdom of love and peace and goodness. But if the much power goes to God-hating communist, socialists or totalitarianistic government, you will see the corruption everywhere in their regime, instead of trying to help others or common good. Because of those who basically don't know, or appreciate God's wisdom of love and peace for all, they will fully manifest their selfishness and brutality  filling only their throats. Why? that's the human nature w/o god. Human nature could be most brutal and selfish if they don't learn the true love from the creator as history repeatedly teach us.Men can't govern themselves.They are naturally selfish, greedy and evil w/o god. If  any political party, government have too much power, they will certainly hurt others unless they truly know jesus who always teach love and peace. That's why our America's constitution is truly great, because it was written by the God's fairness and wisdom protecting basic human rights that is originated from God , over any political unbalance. I realized only those who hate God fall into these"denying the constitution, or "let's change it cause the constitution is outdated"theory saying they are too old or whatever that nonsense. Too old constitution?  Then why the whole world always look upon America when it comes, most well practiced freedom and human right? Please have  reasons people!.If USA turned into communism, the power will shift to only those who hate the existing American system. They secretly controlling medias ( I already see it happened ) and brainwashing the youth with distorted facts in textbooks last 20 years. They keep change their names, their activity, and theory. Why? if they openly speak up, they know that they will fail because any normal minded people will see the deception and its perversion. Look at these behind scenes' of the  head members. They are not normal mind, full of hatred, and causing always divisions, manipulations. Sadly this government &  Soro' socialistic, communistic head people and leaders of many union party people hired many "paid bloggers from 4 years ago intensively promoting hatreds & division and lies. Real sad thing is most American publics are so ignorant, not knowing the behind scenes, get brain washed step by step through facebook, twitters, googles' net traffic, paid bloggers.Many good people's web site had been already blocked from public access from 2010. Do u know who r the major donors to all the ivy league schools in America? Middle Eastern Islamic terrorists sponsoring extremists. We pour our oil money into these middle eastern countries' hand, these islamic extremists train terrorists w our oil money, sending them back to USA to brain wash college kids, funding mosques, intensively from 1960' pouring into American textbook committees to distort our history, fanning the Anti-america propaganda w socialists, communism  movementtogether to destroy this great nation, but Americans are sleeping. While these trillion's forein oil money are eating up our nation, last prolonged corrupted Democratic congress, government prohibit our own new oil production saying "environmental protection". No wonder our debt is no more controllable. To any nation to be strong, they have to have their own provision of power sources. Get it? Can't go on like this with debts, Though we  fully develop all forms of  green energy, it  is still less than 40% of our energy sources. Before polar bears or dolphins eyes, we are getting total broke, can't even protect them from international slaughters. Please think people & wake up from those hired bloggers & medias who were own by few extreme liberal, one-world government directed bosses.Collect the real historic facts, separate from the author's propaganda. Lineup the real facts, then you will see the history more accurately. Always develop the "reasoning power" of your own, this way, you will not swayed by many false propagandas in most books, medias, schools out there. If you don't have your own reasoning power, you will be always vulnerable and will get deceived.Interestingly always angry, poor people seem becoming the front line of the deceived victims of these evil ideology. So instead, ask God to enlighten your heart to live with love and peace & goodness with others and ask your personal blessing instead of trying to destroy others who seems have.If you believe somebody or some classes hurt your own people since so much racial tentions are rising, look at this. Bible says: forgive your enemy, don't live with your past: Don't covet your neighbors: work diligently on your own hands so you don't steal or becoming a burden to others. And lastly, love your neighbors as yourself. Then you will live in the true blessing of God, the creator. Those citizens of china and all the other communist countries, including north korean, and those who are brutally oppressed in the middle Eastern Islam tyrannies, all still wants their human freedom and hope  the destruction of the oppressing totalitarianistic regime still today. So why move to backward of mistakes people? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wake up, have a cup of coffee! </p>
+
+
+<h2> review.date </h2>
+  12-10-2013  
+<h2> review.text </h2>
+
+ <p> It is important to remember that as effective as he was at what he did, he is dead because he ignored most of his own rules in Bolivia! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Che </p>
+
+
+<h2> review.date </h2>
+  11-30-2010  
+<h2> review.text </h2>
+
+ <p> I thought that this was going to be a memoir of sorts with all the praise that it recieved, upon ordering it and reading it i now have in my head a university level understanding of guerrilla warfare. This is in no wa yshape or form is a novel or memoir or anything other than a text book written by a guerrilla mastermind. It gives you no insight to the author's mind nor any stories about his life or the war, it is straight up a manual for engaging in war. If you wanna read a book that has anything to do with Che or the cuban revolutionary war (other than tactics used) than i would suggest that you look into one of his diary's as I gave him one more chance with Reminiscences of the Cuban Revolutionary War by the same author, which gave me both a play by play and a little bit of what was going on inside the head of Che during these rough times, and was a really awesome book! Not a book i would suggest reading unless you plan on starting a war against all odds. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Eh...not the book i thought </p>
+
+
+<h2> review.date </h2>
+  07-17-2010  
+<h2> review.text </h2>
+
+ <p> Che Guevara has gone down in history as almost the symbol of geurilla insurgency.  This is actually kind of ironic considering that most of his efforts were disasterous and ultimately cost him his life.  However both my interest in military history and a desire to read one of Che's books convinced me to give this one a try.  I was not disapointed.The main expanded essay on guerilla organization, tactics, strategy, and weapons was interesting.  At times, Che gives some suggestions which are likely quite important but not what one would think of immediately with the subject.  For example, making shoes and producing salt should be some of the first cottage industries established by a revolutionary force.  Historically speaking, this makes sense.  One only has to remember General Lee's soldiers short of food and shoes in the American Civil War.  At other times, Che actually illustrates certain improvised implements ranging from anti-armored vechicle traps to modifiying a shotgun to launch molotov cocktails.Certain aspects of the book appear either dated or pertaining to a situation very much like Cuba's in the late 1950s.  For example, Che advocated using single shot rifles in mountainous terrain to save ammunition although he felt the M-1 Garand could be used very effectively in open country where volume of fire is important.  Weapons have certainly advanced since then.  Likewise, I doubt the molotov shotgun would be that effective against modern tanks which for that matter are increasingly well protected against RPGs.  Also, one has the impression that Batista did not have a terribly effective military.  Obviously the level of air power that Batista could use in Cuba or even the French in Indochina is almost nothing compared to the power say that America or Russia could currently deploy.  Che felt that the enemies' captured weapons would be the greatest source of guerilla arms.  History seems to suggest that really successful guerilla/insurgency forces either have the support of a target nation's military or have significant aide from foreign powers.  The Viet Minh had massive Chinese weapons support.  The Mujahadeen had U.S. Stinger missiles to use against Soviet helicopters.  Hezbollah has Iranian support.  However, to my understanding Malaysian insurgents against the British did not have some of the advantages of other guerilla groups and failed.  Indeed guerilla warfare is perhaps sometimes overrated as too invincible.  The Tamil Tigers and Chechnyan rebels found that out the hard way.  So did numerous anti-Communist resistence groups in Europe.  The Shining Path to my understanding has essentially been defeated in Peru and FARC has seen better days in Columbia.One gets the impression from the volume that Guevara was fanatically sincere in his beliefs, but one must also read between the lines of propaganda.  In particular Guevara's 1967 address to the Tricontinental reveals a truely disturbing belief in revolution across Latin America to create one Vietnam after another.  Guevara praises the North Vietnamese and North Koreans.  Now South Korea and South Vietnam as well as the U.S. were far from innocent, but did he really think the way to free the economically oppressed was to establish oppressive dictatorships?  Was he that gullible or did power get to him as well?  Reeducation camps, religious persecution, political killings/torture, and often cults of personality developed during Communist takeovers.  Actually, all of the above occured in the government Che himself helped to launch in Cuba.  I think the message to the Tricontental is one good reason we should unfortunantely be relieved Che was shot by the Bolivian army in 1967 in a failed insurgency scheme.  Had he lived and continued his activities who knows the damage that could have resulted.  Perhaps he was an idealist in a particular way, but idealists themselves often do the wrong thing with catastrophic results.Overall an interesting read.  I would also recommend the book "Congo Mercenary" by Col. Mike Hoare, one of the men who defeated Che.  This might provide readers somewhat of a comparison of leadership styles.  Mao Ze Tung also wrote a short book on guerilla warfare which may interest some readers who enjoy military history. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dated, propagandistic, but historically fascinating </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> Here is an interesting and fairly motivating little book.  It is a good glimpse inside Che, and worth reading, from a historical standpoint, even if you aren't ready to build a Molotov.  The accomplishment of the men and women fighting for the liberation of Cuba was an amazing moment in history.Sadly, by its nature, the guerrilla war is not a formula, but something which will arise out of the material conditions of every place where it becomes necessary.  It cannot be imposed, but must arise when the time is right.  Che learned these lessons later in life.We see the differences in resistance insurgencies in our world today, just between the example of Iraq and Afghanistan, for instance.  But, still, there are principles and guidelines, some of which Che shares here, and some of which he forgot, himself, when he went to The Congo and Bolivia.One can tell that Che spent some time in bad shoes, in the mountains of Cuba.  The number of times he mentions the necessity of good shoes to the success of the revolution is enough for your own feet to begin to hurt.There are a few tactical gems here, but they are really few, and mostly, what Che seems to want to get across, and this is important, is the attitude and qualifications of a successful revolutionary.  I think a lot of reviewers miss this.  Revolution is a heart thing, and when all else fails, it is the heart of the revolutionary that will carry them through.Two things are really at the center of what remains relevant about this book today. First, the emphasis on and discussion of the types of sabotage, and secondly, the very real and VERY important difference between sabotage and terrorism.  It was a massive factor in the eventual defeat of the Middle Eastern insurgencies that they continued to rely on terrorism, which undermines all that a successful revolutionary stands for.A note on women - I think Che shows some fairly progressive ideas about women here, for the context of his time and place.  However, any reader today will notice that he does tend to resort to sexist stereotypes and language.  I have no doubt he would have readily admitted his shortcomings in this area in another context, at another time.I have read many reviews of this book that call it dated and useless.  I have to disagree.  While it is true that the armies of imperialism have spent the last 50-60 years learning to fight insurgency, their technology cannot defeat a dedicated revolution of the people.The people, and this Che gets very right, are the beating heart of the revolution. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting and still valuable </p>
+
+
+<h2> review.date </h2>
+  03-17-2013  
+<h2> review.text </h2>
+
+ <p> I ordered this book on a request of a friend. This book was a basic manual in order to conduct guerrilla warfare, I figured it would discuss the history of the Cuban revolution ...nothing of the sort...it's an ok read at best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not what I expected </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

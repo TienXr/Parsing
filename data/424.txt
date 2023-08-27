@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B009NLU80Y <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-31-2013  
+<h2> review.text </h2>
+
+ <p> The font is sooo smaaallll. The information contained is good, but you should take a magnifier along with you if you think you will need the info on a photo shoot </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Canon Cheat Sheet </p>
+
+
+<h2> review.date </h2>
+  11-19-2013  
+<h2> review.text </h2>
+
+ <p> Even with my reading glasses I have a hard time seeing the information crowded onto this sheet. It's a good idea but just not very useful when you're trying to make decisions &#34;in the field&#34;. The colors should have helped, but it still seemed too busy to actually be useful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Idea But Organization and Size are a Problem </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> This is an excellent tool to be kept with a Canon Powershot SX50 HS camera. The print is small, but to make it larger would defeat the purpose of making it to fit inside a camera case.  Bert Sirkin, the provider, did an excellent job;  my first one did not come and he mailed me another on the day I reported the problem.  I would do business with him again if the occasion arose. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Canon Powershot SX50 HS CheatSheet </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> This cheat sheet resides in the camera bag. There is no way I can remember all the bells and whistles on my Power shot SX50. As many have said, the print is small, but it has to be to get all the setting information on one sheet. Laminated to help with stand the use of the sheet. Have recommended it to others on photography forums, and do so here as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Power shot SX50 cheat sheet is great. </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> I under stand the need for a small font in order to get a lot of information on the sheet but this is too much. I would rather be able to read it even if the sheet had to be larger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> small print </p>
+
+
+<h2> review.date </h2>
+  07-19-2013  
+<h2> review.text </h2>
+
+ <p> It is hard to remember all features and settings for the SX50 HS camera. After studying the user manual, the SC50 HS CheatSheet is a compact and easy to carry reminder of all settings and features of the camera. There are a few items on the sheet that are not instant reminders for me. The  print is necessarily rather small, but it is a very useful tool. I like it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Reminder of SX50 HS settings </p>
+
+
+<h2> review.date </h2>
+  12-19-2013  
+<h2> review.text </h2>
+
+ <p> This is a quick reference that can be carried around in my camera bag.  I printed the manual for my camera; it's 284 pages long.  Carrying it around with me isn't feasible, and it takes a while to find the info.  The print is very small, but my 68 years old eyes were able to read it with my regular reading glasses.  It's a quick reference to find a setting I want to use but can't remember how to get to it.  The seller's service was excellent.  I received it 3 days after ordering it, 6 days before the promised date.  I wouldn't hesitate to purchase from this seller in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> INVALUABLE TOOL </p>
+
+
+<h2> review.date </h2>
+  04-17-2013  
+<h2> review.text </h2>
+
+ <p> This Canon Powershot SX50 cheatsheet is great. I ordered it so I'd have something in print to take with me in my camera bag since the camera itself only came with a pdf guide.  It exceeded my expectations on two counts 1) the amount of information detailed on the sheet covers all the basics and then some so I'll have quick reference when out taking pictures and 2) after reading the reviews I thought the print size would be so small that I'd need a magnifying glass to read it but it's not.  I can read it easily, not so much as a squint needed.  Convenient tri-fold size fits well at the bottom of my camera bag and it's laminated for long-term use protection. Highly recommend this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Canon Powershot SX50 HS CheatSheet </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> This sheet print is really too tiny to use unless you have rime to use a magnifying glass.  I Would not repurchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poorly printed </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> I'm older and wear glasses. The print on this sheet was so small and packed together that it was unreadable for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Waste of my money </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> This camera is an elaborate point and shoot camera, with multiple nested user settings. The cheat sheet helps you find that function you sort of remember. It's worth it. Go ahead and buy one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useful help for the Powershot SX50 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

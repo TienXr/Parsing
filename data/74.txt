@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0044TVYWG <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great sound quality and comfort </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-26-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I don't know why,  but in my household we seem to collect earphones.  Everyone has an ipod and we use different earphones for different needs.  I must have 10 different ones lying around.This one is the first noise cancelling one I've used,  and it's really very effective. Almost too effective if you are not used to it.  I couldn't hear any of the comments on the subway and felt odd drifting through the busy streets, my head full of music but cut off from everyone else.  I did worry that I would miss a warning car horn or shout, but when i used it on the plane,  it was excellent!  I often find it hard to watch movies on planes because of the sound quality,  but this time I heard everything perfectly.  When I went for a walk late at night,  I only used one ear,  because I wanted to hear the street sounds for safety - so it really depends where and when you use them,  but they are omfortable,  noise cancelling and give really good quality sound,  so it's a winner here. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Comfortable, but pricey </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-07-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> One of the most frustrating things is to find a pair of headphones/earbuds that not only work for more than a few weeks, but that are also comfortable, affordable and sound decent.TheKlipsch Image S3 Noise-Isolating Earphonesmeet all but one of those requirements.COMFORTThey feel great. I couldn't stand the earbuds that came with my iPod. They were extremely uncomfortable and the sound quality was atrocious. These are extremely comfortable to wear, even for long periods of time. The cords are long enough to wear my iPod while working out or walking - or just sitting at the computer. But they aren't so long that they try to twist together.QUALITYEvery headset I buy tends to short out within a few weeks. The last pair shorted out the same day. The Klipsch set is made in such a way that I don't think it will short out anytime soon. The wires have this smooth, flexible casing that seems to bend more easily than most earbuds. I think the flexibility will also keep the casing from ripping apart after only a few uses. I love the gel earbuds. They are so comfy. I wish the set came with an extra pair, just in case they get lost or need to be replaced.SOUNDThe quality is good. I wouldn't call it stereo, but it is clear. I can hear the music and podcasts very well and, for the most part, outside noises cannot be heard. Obviously if there is a loud noise - like a police car passing by or a stack of books falling thanks to the cat - it will come through, but not quite as loud as you'd expect. With these buds, I was able to listen to the music at a lower level than with the other earbuds and phones.COSTI would never pay $50 for these headphones - no matter how great they are. If I'm going to spend that much, I'd start checking out wireless headsets that I could use with both my Macs and my sound board.I will admit, though, that it would be worth paying to have a comfortable set of earbuds to wear while working out, or while commuting. If you listen to tunes on an mp3 player, or need a set to listen to items on the computer, it might be worth it.And if these actually lasted for a LONG time, they'd make a good investment. That, however, remains to be seen. I'll update this review after I use them longer.The Klipsch head set is pretty great - except for the price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Less Noise, More Music </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Summary:  Effective noise reduction.  Good music reproduction.My guesstimate is that half the ambient noise is blocked by these plugs.  Better than I had expected and pretty good for plain 'ol plugs!  It takes a few trials to get used to twisting them into place.  Once inserted properly, you hardly feel them.The music reproduction is at least ok.  Probably better than ok but my hearing isn't the best so I can't review this like an audiophile.  But it sounds good to me.I noticed the claimed frequency response is 12hz to 18khz.  12hz!  That's amazingly low.  I tested it with the 1812 overture (cannons!).  First with some decent headphones - Panasonic RP-HS27s.  In the ear models but not plugs.  I've had these for years and they're solid performers.  The cannons from 1812 sounded like weak firecrackers.  You could hear them but it was just another sound.  Then I tried the Klipschs.  Oooh!  A little bit of BOOM-BOOM in my head!  Nothing like listening to 1812 with a decent sub-woofer but a lot more than I expected from these tiny little plugs.  (The non-cannon music sounded the same on both the Panasonics and the Klipschs).  EXCELLENT bass reproduction.Sensitivity is 1mw/106db so they can output a lot of sound on weak inputs.The plugs come with a nifty carrying case and TWO sets of replacement ear tips.It's claimed the cables are tangle resistant and durable.  Yup to the anti-tangle.  Can't vouch for the durability - haven't had these long enough. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very meh. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-10-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Not a whole lot can be expected at this price point, but I have found other earbuds in near this price which perform much better: the Koss KE29 earbuds, to be exact.  I have heard good things about Klipsch products and hoped that these would prove to be a bargain.  Unfortunately, they are just too, too tinny.  All highs, no mids, and very little bass.  I think part of the reason is that I could never really get these sealed in my ears, even using the largest tips.  I just don't think I like the cone-shaped tips that Klipsch is so proud of.  If you are looking at these, my recommendation is to buy the Koss buds, though those have some drawbacks too, such as different-sized chord lengths for the ears and poor build quality.  But I'd rather sacrifice somewhere besides sound quality, personally. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For my motorcycle helmet </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought for radar detector and noise isolation. They pull out every time I turn my head so therefore useless. Silicone tips simply don't work. I shelved them for awhile but knew there's gotta be a way to make them stay in the only place they are ever intended to work... So I bought some aftermarket foam tips and now they are perfect; exactly what I was seeking. They isolate as good as earplugs now but still let me know when radar predators are afoot. I only use them for beeps and blips so I can't remark on their ability to play music. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> They're OK but not great </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought my first set of S3's a few months ago and they recently broke. I really liked them so I just bought another pair for my new iPhone 5 and luckily I decided to test them against the new Apple Earpods (which I almost threw away thinking the were cheap like the older version).I do like the fact that the S3's fit flush in the ear and block outside noise, but besides that they just sound terrible compared to the Earpods. I never realized how weak the bass was until now. The Earpods have such a full and clear sound that the S3's can't even come close to.You can buy the S3's for around $25 if you shop around...they should probably sell for around $15 to be honest. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Absolutely NO low end :-( </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought these on impulse because 1) they were Klipsch, 2) they were "noise isolating" and 3) they were on sale. $30. Sorry to say they aren't worth half that.They are NOT noise canceling. They are noise "isolating" because they are the ear bud design that seals into the ear canal, like millions of other ear buds. Nothing special. Any descent set of silicon earbuds will do the same noise isolation.I knew in 30 seconds these earbuds lacked any low end. No bass at all. The specs say they go down to 12 Hz. Hah. No way. The music is simply not full and rich. The highs are excellent, but with no bass, the music is really thin.I'm amazed how many reviews say how nice the music is. My throwaway Creative earbuds are much fuller and more sensitive.With the S3's I have to turn the volume up more and there's still no bass. I would consider this somewhat dangerous. You crank up the volume to get more bass and you burn your ears out with the excessive treble.I tried all three sizes of earbuds, too, just to see if it was a sealing problem. But no matter which size earbud I tried, the music sucked.I tried all the EQ settings on my iPhone 4. None added any noticeable bass. Maybe it's an impedance mismatchThis concerns me about other things Klipsch.I did like the way you can turn them upside down and drape the wires over you ears to hold them in place for running, but I didn't actually try them before putting them away. Might work. Might not. My initial feeling with any of the bud sizes is that they tended to fall out of my ears.Strangely, the buds that came with an old Creative MP3 player are far superior.If I had paid the full $49 for these things I would be really upset. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> headphone </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> These work very nice and have tremendous bass response.  I am a bass player and am kind of critical on speakers.  These are very nice and appear to be better quality than you would expect. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fits well for Noise-Isolating </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> One of the best noise isolating earphone I've bought.  Fits my ears better than any of the others I've had, which comes in handy on airplane flights. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> not as good as i thought </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-11-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased these after noting the sale price. They arrived in a timely manner and I put them on as quickly as I could open the box hoping for a miraculous sound.  Nope...didn't happen and the ear plugs themselves are uncomfortable no matter what size rubber cover I place on them.  The noise isolating capability is what one would expect from earbuds in this price range.  But I'll wear them anyway since my BOSE ear phones are a bit too bulky on my head. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 5 star because of price/quality balance </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> These are great earbuds once you replace the tips with some memory foam based tips. Seriously, do it. They are good gym workhorses that I don't feel bad about when they go through the laundry. Sound Q is good, not great. Bass is a bit emphasized which for me is good. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great sound / Excellent sealing and staying in </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> These DO have excellent sound quality...will stay in your ears when you excercise and/or run...Because the wires are robust and the sealing is excellent...you can &#34;hear&#34; the wires rub on your clothes with the sound low... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pretty but Bitty </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-15-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> It seems I get some small sound from these small ear buds. A quality build and a nice finish do enhance the value of this light, comfortably fitting set. As for noise cancellation, I guess it's fairly decent; however, when the rubber cord chafes, the noise travels up to be amplified into your ears, so unless I sit perfectly still I'm going to hear the cord echoing in the music.I can't tell much of a difference in audio quality between these and a typical inexpensive set, aside from the fact that these are beautifully designed and they look very nice. Also, a compact, zippered nylon carry case is included, with a Velcro strap to hold the ear buds in place, and a netted pocket on the other half to hold the two included sets of spare ear plugs.I think they're priced just a little bit more than what they should be. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> If I didn't think it was too late to return them I would </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-07-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased these to work out with. I usually run 4 miles or so and my old Apple headphones were dying out on me when I sweat too much. I was hoping that these would do the trick. While the sound quality is very good, they don't stay in my ears very long. Even when I'm not running and I'm lifting weights I find myself constantly adjusting them. The directions tell you to place the cord behind the ear and insert the earbuds a certain way for active use - I do, and they still don't work. I tried each of the 3 earbuds that came with it and none of them seem to work very well. If you are doing anything more than sitting while using these I would not recommend them. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Value </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought these to replace earphones on an old CD player. They work great. Now we use them on anything that has a compatible jack. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Oustanding solution for private listening </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you are like me, you will find the Klipsch headphone to be an outstanding solution for your private listening needs. The key is the ergonomic design of the ear piece which comfortably embeds the speaker as close to your inner ear as possible, meaning that your listening preferences are maximized while distracting outside noises are minimized. The rich sonic experience is what you might expect from Klipsch, who is a world leader in manufacturing high quality audio products.The package includes extra ear pieces and a zip case for storage. Thoughtful in its design and superb in its execution, I highly recommend this innovative and useful headphone product to everyone! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wow, a good pair of reasonably priced earphones that don't break in 3 months! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> For years I've been frustrated as I bought one pair of earphones after another, only to have them fail within a few months, usually as one side or the other dies.  I've probably bought from a half dozen manufacturers and suffered the same problem with all of them, and I am not hard on earphones.  I mostly use them when I take long walks and listen to podcasts.What makes these earphones especially good, apart from the fact that they have lasted for several months now, is that the sound quality is excellent - no compromise or tradeoff between durability and sound.  The fit in my ears is also very comfortable, blocking out a lot of unwanted external noise and allowing me to run my device at a much lower volume than with other earphones.  These Klipsch are especially helpful on airplanes, cancelling out most of the external noise and giving me a good listening experience, even when plugged in to the plane's sound system.  The only downside to such good noise cancellation is that I have to be very alert to my surroundings when I'm walking on the street, using my eyes more to avoid hazards than I might if outside sounds weren't so muffled.These earphones have only one significant drawback and it is somewhat annoying, which is why I can't give them a 5 star rating.  When I walk, the wires bounce or rub against my clothing, and the wires then conduct the bouncing or rubbing sound into my ears.  Depending on what I am wearing and how much I can reduce the contact, the sound can be distracting, though often I think I just mentally tune it out.  But in all other respects, these are good earphones at a reasonable price and they have lasted longer than any others I can remember. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Failed after 6 months </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> After 6 months of use the left driver went almost completely out. It makes a little bit of sound. I checked to make sure the sound tube wasn't plugged. They have been played at low volume. The sound wasn't nearly as good as some less expensive models when they were working. They have a pretty cheap feel also. I have a pair of GOgroove audiOHM earbuds that sound a whole lot better and are more durable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> save your money </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-20-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought these buds about three weeks ago; there is no bass reproduction whatsoever. I could almost live with that; however, the other day they stopped working on one side altogether. Nothing. And the other side sound was awful. Like I said, save your money. I bought Panasonic RPHJE 350 Slimz buds to replace the garbage Klipsch buds. The Panasonic are true sound reproducers, bass, midrange and highs are terrific. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fine for an auxiliary/emergency pair, but not going to use these much. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-23-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Klipsch has a wonderful and well-deserved reputation in the audio world - I feel these earphones don't really live up to that. I'd try another style before writing their earbuds off entirely.Ease of use? No problem. Comfort? &lt;fail buzzer here> I get that the unique shape of the ear pieces is to help with noise cancellation, and they do cancel SOME noise, just not a lot. Not providing more than one size earbud (the silicone part) means if you have medium-sized earholes, these don't fit too well. In fact, they hurt.The sound & range is perfectly fine, but not outstanding. (Think one or two steps above Apple's standard earbuds, one  below SkullCandy.) For what they're being billed as, I'm disappointed. For a pair of decent headphones, they are just that, DECENT. I will, however, for now, be sticking with SkullCandys, as they are far cheaper and far more comfortable.If Klipsch decides to throw in more ear pieces, I'd rethink. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> From a parent of five children, FanTAStic! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I gave these to my hubby as a gift - he's ALWAYS looking for better ear buds. His only complaint is that he can't use them to speak on the phone - which is not something they're designed for! So I'm pleased that the sounds quality is great, he definitely can't hear when he's listening to his music - I literally have to tap him on the shoulder, and he has to pull them out, not just turn down the music - so these are excellent. Cool color too, and easy to be sure that the kiddos don't accidentally grab daddy's  set! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Earphones, But Probably Not For Everyone </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-15-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> These earphones have three rubber covers that help them fit into the ear. For the most part, they cancel out almost all of outside noises. You will hear a little background noise, but only if you do not have anything playing. The instructions say to turn the volume all the way down before you first use the earphones then slowly turn it up. Remember to do this. You will not have to turn the volume up as high as you would normally.I admit that I have trouble using bud earphones; they don't fit right and tend to hurt my ears. These did too. To me, they feel like they are about to fall out of my ear. I tried the other rubber covers that come with the earphones and that helped. But just having them in my ears had my ears hurting after a short amount of time.They are good earphones. But, if you have trouble using normal bud earphones, then I doubt that these will feel comfortable to you, but if you don't, you will probably absolutely love them.Shawn KovacichAuthor of the Achieving Kicking Excellence book and DVD series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> No bass makes the sound quite tinny </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-06-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm a former consumer columnist, and my husband is a freelance television soundman, who has worked on shows like Good Morning America and an Emmy-nominated PBS series on American music. I know how to test products, and my husband knows more about audio equipment than virtually anyone. We tested these ear buds with a variety of audio devices, and our conclusion is that they fall short in only one area: sound quality.They're attractive. They fit very comfortably into the ear, and they come with different sized ear pieces for a precise fit. They're light and easy to use. They block outside noise extremely well. And they come with an attractive and convenient carrying case. But the range of sound they can produce is only at the top end of the scale. There's no bass or mid-range whatsoever, so anything played through them sounds quite tinny. And while all those other features are very nice to have, the main reason you might buy a set of ear buds is to get better sound quality than you already get from the ear buds that came with whatever mobile device you own. These buds won't give you that.While we only tested the different sized ear pieces to find a comfortable fit, the ear pieces were snug enough to block almost all outside noise, which would lead us to believe that they were the correct ear pieces. It seems unlikely that a less comfortable, less secure fit would get better audio results. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Heavy, Didn't Fit Well, Didn't Sound Good </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was very surprised what I was sent was a Klipsch.  I switched to the smallest earbuds and the fit was still not perfect.  The weight of the earphones itself was enough to tug it and make it droop while in my ears.  That made for an uncomfortable experience of having to constantly adjust or, at least, reach up to make sure it isn't slipping all the way out.  Then I played the same songs on the same settings and compared it with the earbuds that came with my iPhone and another cheap pair I had purchased.  The Klipsch was, unfortunately, soft and tinny.  When I raised the volume, the tinny sound was ear-piercing.  I changed the equalizer setting, I turned off the equalizer, I changed the volume, I changed the song but to no avail.  Either I was sent a lemon or Klipsch just does not equal quality sound anymore.  In any case, I returned it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love them </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've tried about half a dozen ear phones during my workouts, from ear buds to over the head, to behind the neck.  I've finally found a keeper.  I was amazed at how comfortable they are, and how tightly they fit.  Granted, I'm at the gym, not cross-country running, but they stay in great.  And the noise cancellation is wonderful.  My music is no longer barely edging out the club's music.  I love being able to go through a whole hour plus workout without having to adjust the ear buds even once.  I also like the little travel pouch that comes with them.  No more spending a couple minutes untangling the cords.  I'm not an audiophile by any means, so can't comment with any authority on the sound, but it was great for my purposes. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Value </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-12-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I haven't had these that long, but I'm impressed.  I haven't put these through a burn-in period yet, but right out of the box I was impressed with the overall sound quality and performance.  The first thing I noticed is that the fit is superb.  I have problems with a lot of earbuds falling out of my ears, and this hasn't happened with these yet. I think part of the reason for this is the oval shaped tips, they seem to conform better to your ear canal.  As some other reviews have said, after a while (a few hours at least) they can begin to become slightly uncomfortable.  It's not a huge issue, and only happens with extended use.  I should also mention that it takes longer for these to become uncomfortable than any other headphones I've owned.  The noise isolation is great, although it doesn't block out everything when playing music at a low volume level, but this is expected.  I'm not an audiophile by any means, but I can tell the sound quality from these are significantly better than stock earbuds and better than skullcandy earbuds.  I don't use headphones every day, so I didn't want to spend that much on a pair.  If you're fine spending more money, I'm sure there are better earbuds out there, but you'd be hard pressed to find a pair this good under $25 </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I like these so much I bought a second pair </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-01-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> These headphones are perfect for so many reasons:* the earpieces they come with are the perfect size for my ears; a happy change from others I've tried (EarCandy, Sony)* they're angled so there's no undue pressure in my ears. I can wear these for hours!* they sound really good, especially for the price* they come with a great little carrying case which includes a couple different sized earpieces, in case the ones they ship with are not comfy for youCan you find better headphones? Probably, and pay a bunch more for them. I haven't really found anything to not like about these. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> WHAT DID YOU SAY?  ISOLATION... indeed. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-27-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yep... that is what Mom kept on repeating to her kids while wearing these around the house.  I have never tried "noise isolating" earphones before so this was truly an experience for me!  At first glance... they look simple and I didn't understand what would warrant the MSRP, but after actually trying them out they have made a believer out of me and future buyer (unfortunately because they aren't cheap).  I am not an audiophile in any sense... SAHM of 3 kiddies that likes to listen to music while working around the home or working out on the bike.  At times I can't blast the surround sound because of the kiddies doing their homework & neighbor's newborn.  These came at a perfect time in my life and I patiently waited for their arrival.Upon arrival, I discovered that there were other sized oval ear-tips provided.  This is a great perk considering there are 5 different pairs of ears in our home.  When I initially put them in my ear, they were in the wrong ears and I couldn't seem to find the little L & R labels (they are labeled on the underside).  Even though they were in the wrong ears they still felt ok (like typical cheap ear phones) but there was any noise "cancellation".  I decided to switch them and they fit like a glove!!  They sort of suction and when they are in place properly, I could not hear ONE THING!  It was funny being able to watch the children speak but not actually hear what they were saying.  It was a silent outside world... which ended up feeling a tad claustrophobic.  Even speaking to myself I felt the low rumble of my voice and it felt so far and away.  If you are looking for peace and quiet, then these will fit that bill.  Studying, working out or any scenario where you would like to get in the zone- these accomplish that feat.The sound is great... at least for my untrained ear.When removing, I felt the suction feeling that I described above.  With other ear phones my ears and the piece of cartilage that holds them into place would have a dull ache.  I am happily reporting that with this pair you do not feel anything just the beats of the music & adrenaline rush that it provides.The bad: You CAN'T HEAR ANYTHING!  Right above I just praised how wonderfully the "noise isolation" function performed; it is very much like a double-edged sword.  I love that I can't hear anything, but it is also scary to realize that I indeed cannot hear anything.  You should not wear these while jogging outside or even walking alone.  You will not be able to hear a horn honking or anyone screaming.  I had my husband try them out and he too could not hear anything.  Another bad point which is probably user error was the fact that my ears/drums hurt afterward.  I didn't think I had them loud, but after removing, my ears were hurting a bit.  Maybe the isolation truly makes it a quiet world with everything amplified.  I don't know...Highly recommend because they are comfortable, sound great and block out the outside world.  If you need a quiet environment then I highly suggest this brand with the understanding that they should be used in certain situations where you do not need to be as alert.  Don't forget how silly you look rocking out to a song and singing LOUDLY.... true story! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

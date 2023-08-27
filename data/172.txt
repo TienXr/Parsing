@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 6303957293 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Where's Col. Sanders when you need him? </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-27-2002  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yet another homage to 50s sf/horror flicks. The movie predictably opens with a woman being eaten by the monster of the title (Kevin Peter Hall). No prizes for guessing where it's hiding. Being a PG movie there is no blood, just clothes being thrown out of the door. Strange considering this is a Troma production. But soon the monster, which resembles a man-sized chicken wing breaks out of the closet and as in all B movies wrecks havoc on the townspeople. Soon a biological technician and a small town obituary columnist(?!) are assigned to investigate the strange diappearance while the police, army and every man and his dog are called in to eradicate the chicken. This isn't one of Troma's best, or one of their "Best Worst" but you get to see Stella Stevens in the shower, so that's god enough for me to rate this 2 stars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Stelllaaaa!!!... </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-13-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> MONSTER IN THE CLOSET, as everyone has said, is a wonderful monster / sci-fi movie parody. The humor is well-placed, the creature is decently realized, and the characters are just nutty enough to not be stupid. As a 1950s-80s sci-fi maniac, I love all of the references and satire, especially the CLOSE ENCOUNTERS and THING elements! My favorite parts in the movie are John Carradine as the blind old guy, and Stella Stevens (whom I've loved ever since the original Nutty Professor) in the shower scene! Oh my! I watched that sequence several times in order to observe her tremendous acting technique. Whew! Anyway, I recommend MITC to any / all horror spoof addicts... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Twas Beauty that Killed the Beast </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-18-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I grew up watching all those fifties SCI-FI flicks that this movie handily lampooned.  (THEM! is one of my all time favorite monster movies.)Every aspect of those cheesy movies was faithfully rendered in this low budget homage.  They had me roped and tied from the start with a blind John Carradine trying to get his Seeing Eye dog to respond.  The cast in general was great: Claude Akins spitting everywhere, Howard Duff with a really big cross and a very strange eulogy, Henry Gibson and his weird fascination with frogs, but especially Donald Moffat as the obligatory commander of the army (his best line, "I don't give a monkey's fart!").I loved this movie.  There wasn't a false note, start to finish.  I couldn't stop smiling.  It reinforced all the reasons I loved (and still love) those crazy monster movies from the fifties.As for someone not familar with movies like Tarantula, The Deadly Mantis, or Monster on the Campus, I don't know how you'd respond to a movie like this.Love them or hate them, they are what they are and if you "get" them, you'll get this.Oh come on, IT WAS FUNNY! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Monster In The Closet. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yes it's a spoof and I still don't care for it, it is mildly entertaining. worth a watch but I was bored. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> B-Film Tribute and Lots of Troma Extras </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-09-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Monster in the Closet is a wonderful send up of classic man-in-a-rubber-suit b-movies of the 50's.  In this one, a mysterious monster suddenly appears in a closet in a small town North of San Francisco and proceeds to start killing people.  It is able to move from closet to closet unseen.Richard Clark is a hopeless reporter who is sent out to cover the nutty story. What he finds is a true story of horror and terror that can shock the world.  He is suddenly in the middle of the biggest story ever.A wonderful cast helps keep the movie right on track.  Claude Akins is the tobacco-spitting Sherif and Henry Gibson is an Einstein-like scientist plus many others.The movie is rated PG although Stella Stevens has a nude scene and many of the disks extras (there are dozens) are obviously R rated.  But if you have ever loved those campy B flicks, you will really want to see this one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A masterpeice from Troma </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-19-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> Troma king of indie films has another great find here. It's a horror Movie with a lot of dark humor. I thought it was great, plus there are a lot a fimilar faces in it that you wouldn't expect to be in a low budget movie  such as this. A real treat for adults and kids alike. A monster that  travels around only through closets. What's not to like. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beware: this movie will make you want to watch more crappy movies. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you enjoy b movies and monsters that look like poop, this one's for you.  It has a solid cast, and a comedic subtlety that you just don't find in other movies. The monster is one of the slowest moving monsters in cinema history, but everyone insists that it's going to kill all of mankind. There are many scenes that will leave you with a smile and a deep appreciation for the effort it took to create this piece of crap. The xylophone scene is classic! If you're looking for gore look elsewhere, but if you like cheesy 80's monster movies, you won't be disappointed. If you mix a case of beer, a few friends, and Hard Rock Zombies, you have the recipe for one mighty glorious evening. 4.5 stars </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Quick! Grab The Xylophone And The Kazoo! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> This rare film, made with lots of personal sacrifice from the cast and crew, is well worth the effort to seek out. &quot;Monster In The Closet&quot; is a satire of formulaic monster movies, and is done with great wit and charm on a low budget. The story concerns a mysterious set of serial murders in which all victims are killed in their closets. Early victims include the horror movie institution, John Carradine, this time as a cranky blind man who gets eaten.A spittoon-toting Sheriff (Claude Akins) tries to defeat the monster while ignoring scientific counsel from scientists Denise Dubarry and Henry Gibson. Gibson is particularly entertaining as a half-baked forgetful professor who thinks he can communicate with the creature via a xylophone (he can, as it turns out, not that it does him any good), and is forever prattling on about a frog he once found. The male lead is Donald Grant, who does a great job as the naive 'Pretty Boy' reporter sent to cover the story as harassment by veteran reporter &quot;Scoop&quot; played by Frank Ashmore. I have never been as pleased in a movie as when Grant stands up to Ashmore.When the creature finally does show up it is a gross looking kind of excrement monster with a second sub-head in a spoof of &quot;Alien&quot;, which actually can be communicated with. In the end not only does Gibson get to chat with the creature via the xylophone, but Grant gets to chat via kazoo, as well. The Army seems powerless to do anything, a romance subplot flourishes, and we get to what would seem to be the climactic scene of the film. There is a great twist in the last 15 minutes, which I did not see coming, and probably most other people won't either. Suffice it to say, it is silly, involves a lot of property mutilation that I would not want to explain to my Homeowner's policy issuer, love, self-sacrifice (sort of), and hope springing eternal. (And ultimately a lot of expensive remodeling.)The film is a great, cheesy, fun movie to watch (best with friends) and I highly recommend it. Troma distributes it, but did not produce it, so it is not typical Troma fare. It is not particularly violent (except the scenes of violent closet disruption and some Army efforts at the grade school) or gory (well, OK, the monster mouth is pretty nasty), has little objectionable except one fairly gratuitous scene of Stella Stevens in an excellent &quot;Psycho&quot; parody, and is just plain fun.Watch a great low budget movie and see why B Movies can be so much fun. Grab &quot;Monster In The Closet&quot; today! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Monster Kong </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-11-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie is the parallel of what it would be like if a gay person would become if kept in the closet all his life, to become a monster. During the movie, there is a Clark Kent/Superman type of thing going between the main leads, cause whenever the macho lead has his glasses taken off, the woman falls hopelessly in a love like trance, until he immediately puts them back on to his former Clark Kent state, and she is again, normal. The monster rampages throughout the movie with no hope in sight of destroying in my any scientific means or army approach, but it takes the lovelorn look of the monster to view the leading man by accident without his specs to fall head over heels. This makes the monster travel on a doomed trek to the capital of homosexuality, San Francisco, where he finally runs out of steam, and collapses with the continuing seductive eyes of a very unafraid male captive who suddenly becomes released back to heterosexual freedom.Apart from the gay innuendo of a tortured monster not being able to find true love until the end, this movie ranks as your local station channel fodder. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> IT WAS AN OKAY MOVIE!!!!!!!!!!!!!!!!!!!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> PAUL WALKER WAS A REAL CUTIE WHEN HE WAS YOUNGER. I'M A HUGE FAN OF HIS AND I DON'T CARE WHAT ANYONE SAYS ABOUT HIM OR THE ACCIDENT THAT HE WAS IN. EVERYBODY CAN BLAME HIM ABOUT IT BUT HE WASN'T DRIVING THE CAR HE WAS A PASSENGER. EVERYBODY HAS HOBBIES AND THINGS THAT THEY LOVE TO DO WHETHER IT'S DANGEROUS OR NOT. YOU CAN EVEN GET KILLED DOING A MOVIE OR WALKING ACROSS A STREET OR EVEN IN YOUR OWN HOME. ANYWAY THE MOVIE WAS OKAY AFTER I GOT IT DOWN. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

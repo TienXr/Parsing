@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0040T72XA <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-12-2012  
+<h2> review.text </h2>
+
+ <p> Konstigt att produktbeskrivningen inte lista Angela Kovacs, stj&auml;rnan i showen! Sorry, back into English mode... I simply want to 'ditto' the reviews here.  I really like Angela Kovacs' Det. Huss.  She is a smart detective and a pretty good mom to boot.  Not being familier with the series (only one book), I decided to order only the first three episodes.  Now that I have watched them, the rest of the Irene Huss series has quickly been added to my wish list. Let me also say that it's great so much of the excellent Swedish TV series and films are making it into region 1, FINALLY, with English subtitles vice dubbed, and at reasonable price!' </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jetta Bra!  (Very Good!) </p>
+
+
+<h2> review.date </h2>
+  06-25-2011  
+<h2> review.text </h2>
+
+ <p> I recently finished the Danish crime series THE KILLING.  That was an absolutely perfect series which we (Americans) recently remade.  We started out well on the remake but then completely mangled it by rewriting it to fit our kind of series tv.  I'm really glad I stuck with the Danish version because everyone is pitching a fit about the American version's ending with a cliff hanger instead of a resolution.  So I vaulted right into that part of the world again, this time with this series, which is Swedish, and like THE KILLING, also has a female lead.  This is every bit as good as THE KILLING, although it involves more than one crime.The female lead for this series as well as the one for the Danish one, are very believable as working women and working police.  Although the picture you see here is very attractive, this is Irene at her best.  She just as often looks bedraggled and heading for middle age.  She has two teenage daughters who drive her nuts, a husband who may or may not be straying (he's a chef) and there's no doubt that she likes the gritty cases.  This gal, like her Danish counterpart, will never be sitting behind a desk for the police. In her spare time she masters the marital arts but, just like an American cop, she really likes her gun.  Frankly, I prefer these police shows where the police are allowed to confront some ruthless, deadly criminal with a gun.  I don't understand the countries where they are not allowed to carry guns.  Who in their right mind would try to bring in a multiple murderer with no gun to use as protection?  I certainly wouldn't attempt it. And Irene certainly encounters some very nasty criminals.What is it about Sweden and sex crimes?  If you are a MILLENIUM fan, you are very aware of Sweden's violent sexual crime.  This show is every bit as knee deep into it and the opening episode involves not only murder but evisceration plus head and limb removal. The show also deals with the daughter being recruited to the whites for Sweden movement, which is an enormous backlash against people of all colors from elsewhere in the world flooding into Sweden.  This movement is of course not unique to Sweden.  However, Sweden is known as being so tolerant, so enlightened, so socialist, that it is with a shock one discovers the kinds of crimes going on there and that there is an Arayan movement afoot.Give this one a look. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These Nordic crime shows are wonderful! </p>
+
+
+<h2> review.date </h2>
+  05-07-2014  
+<h2> review.text </h2>
+
+ <p> Theres something missing in Huss. Maybe its a basic honesty. When one of her daughters comes home with Nazi stuff on and screaming at her mom to get a grip because she disaproves, she just tries to hug it out with her daughter and some how everything will be OK. Just doesnt come off right. It would have been any parents horror that their kid came home wanted to become a a nazi with, get this....a SS pin on her lapel. Her room has posters of it.My mother on the other hand had been explaining the horrors of WW2 since birth. It was never to happen again. She was Danish and moved to Austrailia before the war with her mother and married a US officer...... Dont get me started on the Japanese... If me or my brothers and sisters EVER came home with that crap on...they would have found us burried under the basement. OH hey...theres a plot they could have had for free..bald headed kid found burried in basement. These types of things happen all to much with the Huss kids and distracts form the main plot line. Perfect husband with no backbone...lets the kids talk to Huss like shes the perp.... and kids running wild...who could ask for more. Really cant remember the plots because of these kinds of distractions...dang it,  really wanted this to be good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sorry...just dont like superwoman </p>
+
+
+<h2> review.date </h2>
+  05-20-2014  
+<h2> review.text </h2>
+
+ <p> I'm glad that this well produced series has been continued. Good story lines with a great cast. I can't get enough of these excellent Scandinavian detective shows. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great watching. </p>
+
+
+<h2> review.date </h2>
+  02-25-2013  
+<h2> review.text </h2>
+
+ <p> This Swedish detective series has a superior cast and great suspense as well as a wonderful Swedish setting. The solution to the murder cases is always complicated and inventive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Swedish Female Detective Series </p>
+
+
+<h2> review.date </h2>
+  01-14-2012  
+<h2> review.text </h2>
+
+ <p> This series was not on our menu, nor anywhere on our entertaainment radar.But we shut up and tried to tough it out since it was paid for, and returning things during a holiday season is very difficcult.Then we could not get to see the subtitles. An e-mail to MHz, the DVD gurus get a detailed bur clear lesson in fixingthe problem. So we watched. Out-freaaking-standing. Story, sympathetic characters, excellent acting and direction and a terrific evenings entertainment.The entire series is outstanding.Get this gem. No guarentees because different people have different taste, but.....try this series.Highest recommendations from us. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tripped and fell across this gem </p>
+
+
+<h2> review.date </h2>
+  02-27-2014  
+<h2> review.text </h2>
+
+ <p> I won't go into gory detail about our love for Nordic Noir but I will say, whether you want to or not, the comparison to the Danish series Forbrydelsen (The Killing) is impossible to avoid. Both series came out around the same time, both involved lead detectives that were women and both were in Scandinavian (or Scandinavia-Adjacent!) settings.The series isn't terrible but compared to The Killing, we much preferred the latter.Irene Huss is a detective in Gothenburg (or Goteborg I guess in Swedish though I'm missing the umlaut), a city on the West coast of Sweden that's been around for quite a while (almost 400 years old!). She's happily married to a great guy, has two generally great daughters, is a black belt, and, well, she's a detective.I'm trying to figure out what exactly makes this series not quite as good as The Killing and other DR series. The characters aren't terrible or too cliche. I suppose the biggest hurdle is getting a sense for how special the main character is. You get a sense from The Killing or The Bridge that the detectives involved have a gift of sorts. Whether from experience or keen senses, they demonstrate from the get-go that they've got something interesting. With Irene Huss, the main character is...normal. She's a working mom that just happens to hunt down psychos and the like.Now, I'm not saying that makes a bad series. This isn't a bad series. It's also not a great one. It's good. There are interesting mysteries and there are, at times, interesting characters. But, there are also odd probabilities, which I can't really go into without spoiling the plots. It's just coincidences and the likelihood that some things happen seem artificial rather than realistic.In the end, there's definitely some entertainment here (and some familiar faces if you've watched The Killing or The Bridge). Just don't expect the same production levels as the DR series out there and expect characters to be a bit less real than you'd probably like if you wanted to really get into the series. I think there's still something to enjoy (I personally love the foreign setting and language/culture) especially if you've burned through all the good stuff already and are looking for something else to scratch that Nordic Noir itch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not another The Killing but decent </p>
+
+
+<h2> review.date </h2>
+  06-07-2012  
+<h2> review.text </h2>
+
+ <p> If you are OK with subtitles, this is an amazing complex series of stories, with real and interesting investigators and criminals.Nothing is lost in its setting, and fascinating to see the way the Northern Europeans think, but in the core issues of love, security and valued loved ones they are obviously like us.I appreciate the use of actors that look like people we know, and not people with 50,000 of plastic surgery.Well written and very well acted. It was as if I was walking with them. The acting is utterly invisible.If you like very high quality police drams, these are rich and with amusing moments.I deal with many nasty and unusually bitter people for work, so these are an escape. :) And grade A escapes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> REAL PEOPLE. Amazing acting and plots </p>
+
+
+<h2> review.date </h2>
+  03-17-2012  
+<h2> review.text </h2>
+
+ <p> I'd noticed Angela Kovacs playing a subsidiary character, policewoman Ann-Britt, on the truly superb Swedish version of WALLANDER, and gave a passing thought to the possibility of this actress getting a more noticeable role in some other series now that WALLANDER seems to be retired.  I was pleased that she got the starring role in the IRENE HUSS series as Huss herself.  I'll bet Kovacs once was a model or a dancer, for she carries herself youthfully although close-ups indicate she's getting close to middle age.  Her facial expressions are emotionally revealing, with a subtlety most professional actresses yearn for--although much of that is probably because of outstanding direction.  Still, she could almost take the lead in a silent film without titles, and, although I know no more than ten words in Swedish, when the camera zooms in on her, I sometimes don't bother with the subtitles.  Kovacs is that good.The somewhat unlikely soap opera subplot of a woman cop happily married to a non-cop and the mother of two teens, creeps in now & then, and sometimes Irene Huss does things that seem dumb, but in general there's enough real emotion and genuine logic to please the most vehement soap opera hater, like me. The actor playing her husband is eye candy, too, and his character has a working life of his own.  Although we still don't know much about Krister, we'd like to know more.  Same for her daughters, who painfully remind me of how impossibly impossible my 40-year-old son was at that age.The other actors in her police team still haven't quite come to life for me, but this series is just starting.  More, please!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> High tension police procedural with great acting & directing </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> Irene portrays today's gutsy, intuitive detective while dealing with a variety of chauvanistic, horny, clueless peers in a Swedish police station.  Irene shares parenting responsibilities with her faithful husband and accepts too much back talk from her own often bratty daughters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Truly a winner </p>
+
+
+<h2> review.date </h2>
+  06-10-2011  
+<h2> review.text </h2>
+
+ <p> I admit it. I am a bit surprised by how much I like this series.  I was prepared for another cliche-ridden plot, peopled with stock characters and predictable conclusions, etc. After all, who hasn't seen this sort of series in some other iteration before?  Let's face it, the concept of a female detective, going toe-to-toe with chauvinistic colleagues and hardened criminals -- while simultaneously juggling the demands of a family -- is not exactly a new theme. And yes, the series has some flaws. Irene has a improbably supportive (not to mention, gorgeous) husband who not only does all the cooking, but sets out vintage wine with cheese and fruit when she come home after a long and stressful day(Really? In my house, I'd be lucky to be pointed in the direction of the bag of chips); her teenaged daughters are pretty, talented, and generally well-behaved; Irene moves effortlessly between languages (she even has a smattering of Chinese); she has earned a black belt and spends hours in the dojo; still, she manages to fit in her morning run and apprehend the bad guys.  Where does she find the hours in the day? Further, she is surrounded by some fairly stock characters: for example, the hard-bitten Jonny, a cop of the "old school" who, despite his predictable run of politically incorrect declarations, still seems to respect Irene and works well with her; the gruff but supportive boss, the ambitious younger female, just waiting to step into Irene's shoes, etc. Somehow, though, this series is ultimately compelling. It rises above the cliches that have weighed many another series down. Irene does have doubts (worrying that her husband is a bit too good to be true). She loses her cool demeanor occasionally. She doesn't always get things right -- at home or at work. Angela Kovacs plays Irene with great subtlety and that goes a long way in making her character seem real, despite the improbabilities. Furthermore, the ensemble acting is equally excellent; the plots are inventive; and the settings are fresh and intriguing. Overall, it's a very good series, indeed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly good </p>
+
+
+<h2> review.date </h2>
+  02-26-2012  
+<h2> review.text </h2>
+
+ <p> I didn't read all the review so I did not know that these movies were not in English but had English subtitles.  I like to do things while watching movies and because I had to read the movie, I could do nothing else.  This show came up in response to my search for BRITISH MYSTERIES, so naturally, I thought it was produced by the British, like Wallander.  That being said, it was a good story; although, it made both Sweden and Denmark look dismally bleak.  From what little I knew about these two countries, they are very temperate and lovely.  You wouldn't know that from this movie.  I've only watched the first one and the story was quite compelling so I'm not altogether displeased, but the other two episodes will be something I save for a rainy day. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Subtitled </p>
+
+
+<h2> review.date </h2>
+  03-22-2013  
+<h2> review.text </h2>
+
+ <p> An example of the sloppy stories: Irene Huss is portrayed in every opening credit as a serious practicer of martial arts (I believe it's Ju Jiutsu). Yet, twice in Series 1, she is attacked from the rear by different perps and goes right down to the floor, helpless. She doesn't even make an effort to subdue the villains.I found the storylines dull, which is surprising for a Nordic Noir series, and the acting only fair, for which I must place responsibility on the director, since the actors are all good ones.Perhaps I've been spoiled by the Swedish Wallanders, the Beck series, The Killing (the Danish version only The U.S. version was dreadful), The Bridge, Sebastian Bergman, Borgen series 1 & 2, etc. One can get spoiled by such superior acting, writing, and productions. Next to them, Irene Huss seems poorly executed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doesn't Compare to Good Detective Stories </p>
+
+
+<h2> review.date </h2>
+  09-28-2011  
+<h2> review.text </h2>
+
+ <p> A well-written mystery by Helen Thursten taking place in Sweden.  The female detective is believable and top rate.  It is interesting to understand what a woman has to confront being married with children and holding down a very good job as detective on a police force.  The dvd cannot cover all the details that a book can cover, but the editing and time-restraint is quite well done.  It is well-worth the time to read the book before you see the film just to give you an insight into detective Huss's psychic and approach to her complicated life and the murders she confronts.  I would recommend this film -- very interesting and very little, if any, swearing/bad language. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Swedish Mystery -- a different slant </p>
+
+
+<h2> review.date </h2>
+  10-04-2011  
+<h2> review.text </h2>
+
+ <p> A very compelling series featuring one of the only two genuinely believable women detectives I have ever seen in video (the other is Helen Mirren's character in 'Prime Suspects').  I was quite interested in seeing how these Swedish videos tastefully handled the inevitable gore that a Violent Crimes Unit might occasionally encounter, in contrast to the over-the-top, gratuitous, gross-out, ewww factor that is so prevalent in American films.My wife became fluent in Swedish during a year as an exchange student in Uppsala, and she takes great delight in hearing the various regional accents of the various characters. Relying on subtitles did not diminish my own pleasure in watching this wonderful series.  I WILL BE ORDERING THE NEXT THREE EPISODES AS SOON AS I FINISH POSTING THIS REVIEW! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very compelling top-notch series </p>
+
+
+<h2> review.date </h2>
+  05-28-2012  
+<h2> review.text </h2>
+
+ <p> I am always on the lookout for a police/procedural/mystery series, and if it is found in Europe, all the better. I came across the 'Irene Huss' series by chance, and it is a winner!Taken from the writings of Helene Tursten, this crime thriller series lends its way to film very well. Set in Gotenberg, Sweden,  gritty seaside port city, the crimes are varied and some quite unusual. The star of this series is Angela Kovacs, who plays Irene Huss. A more natural actor you will not find. She lends herself to the simplicity of intelligent thought and careful mastery of detective work. She is a wife, mother of twin daughters, and a full time detective. From the get go, we can tell she is the go to detective of her department. The others are all intelligent, but have some sort of personality quirk. Irene is quick to pick up clues, quick to win trust of the victims and quick to go off on her own into unsettled and violent areas. However, with her quick wit and physical acuity she is able to sidestep most  of the problems she runs into. We are privy to her family life with her chef husband and teenage daughters.Irene is a real person, a real woman with wants, desires and the ability to manipulate her environment. Angela Kovacs is this series, and it is apparent to everyone.I have not read any of Helene Tursten's books, but I will be on the lookout for them. This is a series of an intelligent and attractive woman, and often that is an enigma.Highly Recommended. prisrob 05-28-12The Barrister's Gavel: A Daxton Longhorn NovelNight Rounds: A Detective Inspector Irene Huss Investigation </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweden In The Raw </p>
+
+
+<h2> review.date </h2>
+  05-12-2012  
+<h2> review.text </h2>
+
+ <p> This is another wonderful show in the current series of NORDIC police dramas that have been produced the past few years. It contains suspense, drama, action and great original stories. Looking forward to the next set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ANOTHER SWEDISH GEM </p>
+
+
+<h2> review.date </h2>
+  05-24-2013  
+<h2> review.text </h2>
+
+ <p> I don't care for this series because Detective Irene Huss spends as much or more time dealing with family problems as she does her job. The first episode was excellent, even though it involved one of her teen daughters. It was logical and seemed appropriate. But when eps 2 and 3 also revolved around her daughters, neither one of whom seemed to have experienced any of the tragic situations from the previous eps, then, to me, it became more of a soap opera than a detective drama. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the best example of Swedish detective stories. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

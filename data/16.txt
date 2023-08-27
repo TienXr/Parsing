@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0003MLSMY <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> its great, does what its suppose to do and provides a fresh clean install.  Would recommend for anyone with a dodge or jeep with the same type opening. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fits like a glove </p>
+
+
+<h2> review.date </h2>
+  12-24-2012  
+<h2> review.text </h2>
+
+ <p> I ended up buying an installation kit from Crutchfield, much higher quality and only a few dollars more.  This piece was a disappointment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very cheaply made </p>
+
+
+<h2> review.date </h2>
+  02-12-2013  
+<h2> review.text </h2>
+
+ <p> I bought this to install a single din in dash DVD player. The trim piece that fills in the holes with for the old radio knobs broke as I was installing it, more specifically, the pin that you push the trim into the main piece broke, rendering the trim piece useless.EDIT: I purchased one from Crutchfield and theirs was MUCH better quality and it was cheaper too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheap </p>
+
+
+<h2> review.date </h2>
+  05-17-2013  
+<h2> review.text </h2>
+
+ <p> Easy to install and I love the extra cubby hole it provides. Fits in my 05 Dodge magnum perfectly. Only negative I can think of is the snap on plastic pieces (bottom right of the image) can come off kind of easily if you're not careful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> Pros: It holds my radio well.Cons: There are two fillings for the front panel of the dash board that may not fit depending on the Radio's face. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It fits good and does the job. </p>
+
+
+<h2> review.date </h2>
+  02-25-2013  
+<h2> review.text </h2>
+
+ <p> This adapter allowed be to slide my aftermarket car stereo right into place. No modification were needed. I went with this model simply because it has the storage area built into it as where most of the others I found did not. I intend on using this extra space to install an equalizer in the future so this was very important. Came with everything I needed for a quick simple and speedy installation. Great product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple. Easy. Perfect Fit. </p>
+
+
+<h2> review.date </h2>
+  12-25-2012  
+<h2> review.text </h2>
+
+ <p> fits, cheap, installs easy, what more do you want? OMG it seriously wants me to type 11 more words. It holds up my pants. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fits </p>
+
+
+<h2> review.date </h2>
+  06-22-2011  
+<h2> review.text </h2>
+
+ <p> Got this for my 2008 dodge ram 1500 and it fits perfect with my stereo, and looks actually better then I thought. Its a must buy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits like a glove </p>
+
+
+<h2> review.date </h2>
+  10-23-2013  
+<h2> review.text </h2>
+
+ <p> I knew I'd need a kit for my 2008 PT Cruiser when I decided to remove the crap factory radio.  This does the job but assembly is a little... odd.  It's not difficult by any means, it just snaps together where I'd assume there would be a little more to do.  If you want to use the pictured plastic ears to hold the radio in place then you'll either need to get a radio that includes the screws or buy them separately.  If you use a DIN mounting sleeve then there's no need for those ears.  One thing that isn't mentioned on the product page is that the radio will be recessed in the dash and therefore the factory trim ring won't be needed.As far as the items in the product description go:Product FeaturesInstall dash kit for Single DIN/ISO Radios - TrueIncludes a storage pocket below the radio - TruePatented snap-in ISO Support system - I'm guessing this is referring to the ears, if so then you'll need screws to attach them to the radio.Designed and manufactured with precision tolerances, resulting in a gapless fit between the dash and the kit - True, it fits perfectly and leaves very, very little open space around the radio.Painted to match factory dash color - Shenanigans.  The kit is black, most of the consoles I've seen around the radio are silver.Overall, no complaints.  I'd buy it again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works and the price was right </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> Needed this particular item for install on a 07 jeep compass along with a pac c2r-chy4, rockford fosgate 8 inch subwoofers, pioneer deh 6600 bt, California amplifier 1,000 watt, and a cr410 antenna adapter all from amazon </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks good in my jeep </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

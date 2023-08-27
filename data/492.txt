@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00K5ZHAWQ <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I Do. . . or Die review </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I Do. . . Or Die by author Donna Cummings is one of the funniest books that I've read in a while. I highly recommend it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not my style </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I couldn't finish this book without skimming through a lot of it. A person can only take so much humor in one sitting before the one hit wonders becoming annoying instead of funny. It's really disappointing because Ryan was a yummy hero - I really loved his character and wonder if I would have enjoyed this book much more if it had alternating POV. While Shelby had great qualities too, I just couldn't take the inner monologue non-stop. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Four Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fun read, embedded with lots of humor </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Heavy on the comedy </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Shelby is a delight.  She has a quick wit and the mouth to get it out there.  While the language is not gutter-style, it is explicit enough to get her points across to the reader.  While most of the scenes between Ryan and Shelby lean heavily to the erotica side of life, they fit both Ryan and Shelby's personalities to a tee.  The mystery is handled in a believable and light manner.  I would have given the book five stars if less body part involved had occurred! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What the #@$&  ???? </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> If this wasn't the stupidest book I ever read, it was surely in the top 3!  I only made it to the 3rd chapter.  This could've been written by a 14 yr old!  I shudder to think what all the readers who gave it 5 stars are comparing it to.  Don't waste your time or your money, please!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very nice book. Lots of laughs </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I read this book in a couple of hours. Started reading and fnished it. It was a very nice book. I liked Shelby and Ryan and loved their story.  I am glad I bought this one and will check for other books ot this author. Very funny story. It was more about the romance, there was not much of a mystery but that is actually fine. Romantic comedy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> LOL Funny </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this ebook when it first released from Crimson Romance and I'm kicking myself for just now getting it transferred from my TBR shelf to my Read/Keeper shelf. Full disclosure: The author, Donna Cummings, and I are "twitter friends." We trade quips. She steals my coffee fae (a purely figment of my imagination but everyone needs a sexy guy in no shirt who delivers coffee, right?). I lure him back. We're good. And anyone who knows me understands that I'm honest--sometimes brutally so--when it comes to reviews. You'll notice this book got 5 stars from me. Why? Because the first night I started reading it, I was up until 3 a.m. The only reason I stopped reading was because I could no longer make out the words on my Kindle due to blurry eyes. And also, because I scared my Newfoundlands AND my cat because I was laughing so hard. Donna's voice reminds me of Darynda Jones' only in a sexy contemporary romantic comedy not a sexy paranormal...comedy/thriller."Always a bridesmaid, never a bride" is Shelby Atwood's personal credo. She's managed to avoid commitment all her life - no pets, no plants, not even a long-term lease. Heck, she's had colds last longer than her romantic relationships. How could she be any other way when she has a gigolo for a father?"Shelby is adorable. Ryan is sexy, funny, caring, protective...did I mention sexy. And funny? I had a blast reading this book. If you're looking for something to lighten your mood, this just might do it for you! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great romantic adventure and the ending is great too. I loved the suspense and family love story. Funny and suspenseful.  I loved the great writing. Keep up the great work </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Laughter Creates Public Disturbance! Great Book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The clinic area at the Captain James A. Lovell Federal Health Care Center is shaped somewhat like a ship with a four-story atrium, and sound echoes there. So you can imagine how many people were perplexed by the peals of laughter wafting up from the basement level outside the endocrine clinic one Monday at 08:30 hours (or 8:30 a.m. to civilians), and later from the My Health eVet kiosk in the Pharmacy area on the first floor, as I reveled in the exploits of &#8220;Detective Smirky Pants&#8221; and &#8220;Shotgun,&#8221; as they try to track down the killer.  Especially when they accidentally call the groom &#8220;Gusher&#8221; to his face. Shelby privately calls him that because of the way he gushes all over the bride. It was extremely difficult to put down I Do&#8230;Or Die&#8212;first when the docs called me, and then to help veterans who had questions about the My Health eVet program, or who wanted to sign up for it, and finally when I finished it. [&#8220;Aw me-ann! Is it done already?&#8221;] I may even have sold a few copies to people who asked what I was laughing at.If you want a book with a heroine who has a wonderfully snarky sense of humor that makes you laugh so loudly you don&#8217;t dare read it in public (or after ten p.m. if you live in a Seniors building with designated quiet hours), by all means, grab I Do&#8230;Or Die.  I fervently hope we&#8217;ll see more of Shot&#8230;, uh, Shelby and Chip&#8230;, uh, Ryan.  Ya gotta read the book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved this story and loved the characters! I hope this becomes a series. it is definitely a must read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> No go </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is purely erotica. Now that is okay if that is what you are buying, but I thought I was buying a mystery. There is absolutely no mystery. The heroine is one of the most immature people ever. I gave it two stars because MS Cummings has reasonable command of language and grammar and the editing was good; few errors. I couldn't get past the first few chapters as complete, I started skimming to get to the &#34;mystery&#34; and out of the silly erotica, but found that is all it was. Useless. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004Y09IFA <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-19-2012  
+<h2> review.text </h2>
+
+ <p> Does not fit properly. Overlaps the screen and must be cut to fit. Applies very easy and gives good protection. Wouldn't purchase again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Galaxy screen protectors </p>
+
+
+<h2> review.date </h2>
+  08-05-2011  
+<h2> review.text </h2>
+
+ <p> Some people mentioned in the previous comments that the size of this protector is for 10.1v. Actually, the one I received does just fit my Galaxy Tab 10.1 (US thin version). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice. No  size problem </p>
+
+
+<h2> review.date </h2>
+  07-09-2012  
+<h2> review.text </h2>
+
+ <p> I bought the anti-glare version for my Galaxy Tab 2.It is a bit too big, overlapping part of the speakers, and off the edge of the glass which prevents it from lying flat at the edges.I made the mistake of cutting it with an Exacto knife while installed, making a small cut on the gray plastic frame.Do your cutting before installing! It will be easier and come out better. Not much to trim, 1.5mm, .05".  Scissors are easier than an Exacto unless you have a steady hand, a good straightedge, and suitable clamping.The material is very tough and gets rid of the annoying glare and fingerprints, while still maintaining a clear view.It's easy to remove the few bubbles with your finger nail. Make sure the area is dust free.  Use a microfiber cloth during the installation to remove dust. Try to roll the film out evenly and back up until there are no bubbles in the curl as it is being applied. Keep the curl in a straight line.I removed a point for the fit on the Tab 2, but I would not hesitate to buy again, understanding that a bit of trimming is required for the Tab 2.  At some point, there will probably be a version for the Tab 2, but I wouldn't wait.  Still an excellent protector. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great protector, but too big for Tab 2 </p>
+
+
+<h2> review.date </h2>
+  11-07-2012  
+<h2> review.text </h2>
+
+ <p> I have had problems installing screen protectors in the past but this one went on very easily and only took a few minutes. The price is really great, no need to spend more on other name brand protectors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great, easy install, great price. </p>
+
+
+<h2> review.date </h2>
+  01-15-2012  
+<h2> review.text </h2>
+
+ <p> Very good product fits the samsung galaxy tab just right and the price is just right I would recommend this product. It comes with a card to help take out bubbles. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits just right </p>
+
+
+<h2> review.date </h2>
+  01-20-2012  
+<h2> review.text </h2>
+
+ <p> I received the screen-protector and installation was pretty much easy. Only thing that I don't like about it is that it makes screen look blurry. It is not transparent, you can see the screen-protector and then reflection along with very odd feeling of looking at it although it is not sticky to fingers at all and is very smooth when you do anything like playing game, typing or slinding your fingers on the screen. Shipping was on time as one can expect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to Use but blurry </p>
+
+
+<h2> review.date </h2>
+  08-13-2012  
+<h2> review.text </h2>
+
+ <p> Item came packaged in a polyethylene rubber ,that i think was made by amazon itself when packaging. The sad part is it did not fit my Galaxy Tab 2. All in all i would give it 2stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Impressed </p>
+
+
+<h2> review.date </h2>
+  05-24-2012  
+<h2> review.text </h2>
+
+ <p> Okay, as many people have, I've installed a ton of these on many different devices - I'm something of a Samsung junkie, so I own lots of Samsung phones, tablets, and the like.I came to this product from a previous screen protector that didn't work out so well, and I was *very* pleasantly surprised by this one!  As I often do, I bought several of them, just to be safe, and this is one of only two instances ever where the first one went on perfectly the first time!This protector - the one I purchased anyway - is the MATTE finish protector.  It is not crystal clear, it is not invisible, and if you're a perfect-vision, wants-to-see-everything-vibrantly kind of person, then you need to buy the clear version, NOT the matte version.  I'm reviewing the MATTE version here.For me, I don't care so much about seeing vibrantly, because I've found that with many crystal clear protectors, the films not only show but actually attract and hold on to the oils in our skin, resulting in even worse fingerprinting than the screen alone - my guess is three times worse, fwiw.  With fingerprints, the screen looks really bad, so I chose to go with the matte version to avoid that problem, and I was not disappointed.This particular film is great!  First, the matte finish shows the screen quite acceptably, and resists gathering and holding fingerprints.  So you can actually use your tab for hours without wiping the screen every five minutes.  LOVELY!Second, the film is slightly thicker than average.  This means it is much easier to handle and apply, and it goes on more firmly and resists bubbles better than your average film.But best of all - and this is the first time I've ever seen this - the film is actually just slightly smaller than the screen - maybe 0.5mm on each side.  If you've ever tried to line up a screen protector, you know that if you don't get it just right, then one edge won't seal, being slightly held by the bezel it is just barely overlapping.  This results in many retries, more dust, and more frustration.  By making the film slightly smaller, they give us just enough "wiggle room" to, well, "wiggle" - and it's therefore much easier to get the film to align and seal.Because of these factors, as I said above, my first try went on perfectly, and although I can tell that I just *barely* BARELY misaligned it, the wiggle room means that the film still went down and sealed, and I'm am totally thrilled with that!I must say that the name "Generiks" didn't fill me with confidence... but having seen their product, I'll be looking for this brand going forward.  Thanks for a great product! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect!  You're gonna love this protector. </p>
+
+
+<h2> review.date </h2>
+  03-05-2012  
+<h2> review.text </h2>
+
+ <p> i purchased this product hoping that it would fit my coby kyros 10.1 tablet.of course, it did not.It arrived ahead of estimated arrival time and was packed securely.Even though i did not use it they did a 5 star job with the order.That's why i gave them 5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> screen protector </p>
+
+
+<h2> review.date </h2>
+  12-18-2012  
+<h2> review.text </h2>
+
+ <p> I was really disappointed with these screen protectors. First of all, they were advertised to fit the Galaxy Tab 10.1, but they are about 1/4 to 1/3 inch too big to fit the new Samsung Galaxy Tab 2 10.1 tablet so I had to cut it to size which makes it so the edges don't stay down. Second, they may hide finger prints, but they are not clear at all. I thought I had to remove another plastic protective layer or something, but no - it's just that the protector is not clear. When the tablet is turned off, it looks like there is a cheap piece of plastic covering the front. I should have taken pictures to post before I took it off and disposed of it. Really disappointed with this. Some may like it for its non-glare qualities, but I prefer a crisp clear screen protector that is invisible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not fit the Samsung Galaxy Tab 2 10.1 and is not clear!!! </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> I wanted something reasonably priced to protect my tablet screen.  This is reasonably priced, but a waste of money. No way to install it without bubbles under the film.  I followed the instructions, but no matter how I tried, it had bubbles I could not remove. Now I'll have to find a better one and try again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Many Bubbles </p>
+
+
+<h2> review.date </h2>
+  02-13-2013  
+<h2> review.text </h2>
+
+ <p> A little hard to put on and prone to some slight scratching but over all it is decent. The camera cutout was just barely out of the way. I was able to put the protector on with little difficulty. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent screen protector </p>
+
+
+<h2> review.date </h2>
+  08-04-2012  
+<h2> review.text </h2>
+
+ <p> I wish I could say that these worked great for our tablet - I probably would have been able to had they fit. These screen protectors are not for the NEW Samsung Galaxy 2 tablets and will not fit them - they're larger than the screen. Make sure you are buying the appropriate product for your tablet!!I must say though that the company quickly refunded us for the product and we were able to return it. We had GREAT customer service so we were pleased with that but unfortunately not with the product! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not fit NEW Samsung Galaxy Tablets </p>
+
+
+<h2> review.date </h2>
+  01-17-2013  
+<h2> review.text </h2>
+
+ <p> Received on time, application was easy but had to trim a little off for the speakers. I would recommend this for your Samsung  Galaxy Tab 2 10.1 ( IPOD killer). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent screen cover </p>
+
+
+<h2> review.date </h2>
+  11-20-2012  
+<h2> review.text </h2>
+
+ <p> Even though i followed the instructions i was not able to get it right. The film got lots of dust-particles in there... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NOt easy to install but ok in general </p>
+
+
+<h2> review.date </h2>
+  03-08-2013  
+<h2> review.text </h2>
+
+ <p> plus they were rather cheap looking.  I tried to apply, but wound up just throwing them away.  They caused more interference with the tablet than they protected it.  Don't buy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Didn't fit... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

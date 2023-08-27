@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BTPZRIK <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-19-2013  
+<h2> review.text </h2>
+
+ <p> Oh who can resist the fluffy bunny on the cover. My daughter was so excited to get right into this story she just knew it was going to be great. VOILA she did love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bunnies </p>
+
+
+<h2> review.date </h2>
+  05-23-2013  
+<h2> review.text </h2>
+
+ <p> While some of the words are challenging for new readers, overall my 5 year old daughter loved being able to read the book to me. All the cute bunny pictures kept her engaged. The Kindle version works well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for new readers </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> We raise lop rabbits, so my younger children love this book. Even my 9-year-old daughter enjoys reading this book because of the cute photographs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for my Bunny-loving Children </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> This is a very simply book for 1-2 year old children. It was ok and my son liked looking at it for a little while but soon became bored with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very simply </p>
+
+
+<h2> review.date </h2>
+  03-19-2013  
+<h2> review.text </h2>
+
+ <p> This book has very nice pictures and rhymes to go with them. The hidden bunny on each page is a nice touch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice rhymes & pictures </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> This book was nicely done! It has such cute pictures and a good flow to the words. My family and I enjoyed reading it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Such an adorable book! </p>
+
+
+<h2> review.date </h2>
+  07-15-2014  
+<h2> review.text </h2>
+
+ <p> This book was super CUTE!! My kids loved the content, ryming and graphics. I base my reviews on the total package, and I always try to be fair. First I look at content and what my kids actually said about the book. I also judge a book by its cover and graphics. I see plenty of books on Kindle with great content and okay graphics and sometimes I see books with super cover graphics and sub-par content. You did a GREAT job with this book! 5 STARS! GREAT content and GREAT graphics too. :) I told my children I would buy more of your books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My boys love this book! :) </p>
+
+
+<h2> review.date </h2>
+  03-18-2013  
+<h2> review.text </h2>
+
+ <p> Awesome Easter book for little ones..I read it to my son everyday. He loves it and wants more all the time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rhyming </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> I read this book to my preschool special ed. class over and over again around Easter time.  They really enjoyed it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My special needs students loved this book </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> Pictures of a variety of rabbits which was what I liked and was expecting.  There is a little bunny on each page to find.  The idea is good but it is not hidden too cleverly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pictures are very good. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

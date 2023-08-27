@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0051RW1SQ <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-20-2013  
+<h2> review.text </h2>
+
+ <p> I bought one of these for my dad's friend who let me crash at his house in california. He loves it as much as i do. If you don't know how to tie all the knots they teach you in boyscouts, your ipod headphones in your pocket do. this clamshell case is the perfect compact solution to the annoyance of tangled cords. make this your gift to yourself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Use it everyday. </p>
+
+
+<h2> review.date </h2>
+  03-03-2012  
+<h2> review.text </h2>
+
+ <p> The case itself is very firm and durable. Unfortunately, that isn't enough to make it worthwhile. This is because the zipper won't stay closed: no sooner do I zip this case shut that the zipper starts coming undone. So if you don't mind a case you can't actually close, by all means buy this one. Otherwise, look elsewhere. I returned mine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Zipper so weak that case is unusable </p>
+
+
+<h2> review.date </h2>
+  12-10-2011  
+<h2> review.text </h2>
+
+ <p> Just what I wanted, something small and neat to put my earphones. Now they will be easily/readily available and tangle free. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great lill'  earphone case </p>
+
+
+<h2> review.date </h2>
+  12-03-2011  
+<h2> review.text </h2>
+
+ <p> I use the Nike SHJ080 ear buds, and they fit in this very well. It's sturdy, so there is no worry of it being smushed in my laptop bag. Highly recommend for those who travel, and hate leaving earbuds in your bag because the cords are difficult to manage.Giving it 5 stars, because I don't see anything wrong with it yet. And price was great on Amazon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for Travel </p>
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> This thing is nothing fancy but a pretty handy piece of gear for traveling. It keeps your earbuds from getting tangled up in your backpack. Worth the money for people who travel with their earbuds quite a bit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty handy little case for ear buds </p>
+
+
+<h2> review.date </h2>
+  07-06-2013  
+<h2> review.text </h2>
+
+ <p> I like to keep the wires of my various electronics organized when I travel and purchased this specific item to hold my iPhone earbuds.  It's the right size and is actually quite sturdy (more so than it needs to be).  If I had a iPod Nano or Shuffle, I wouldn't hesitate putting those in this as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Bad </p>
+
+
+<h2> review.date </h2>
+  03-16-2013  
+<h2> review.text </h2>
+
+ <p> I always know where my head phones are in my car so that I can be safe using hand free while driving. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great storage. </p>
+
+
+<h2> review.date </h2>
+  02-03-2012  
+<h2> review.text </h2>
+
+ <p> There is nothing really to say, it does what it suposed to protect your headphones. Also, it does not say so but it feels like it is crush-proof. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case </p>
+
+
+<h2> review.date </h2>
+  12-17-2013  
+<h2> review.text </h2>
+
+ <p> It will hold the charging cord and headphones to a Galaxy S4. Have to kind of fight it to get it to fit. I don't use it as much as I thought I would. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thought I would use it more. </p>
+
+
+<h2> review.date </h2>
+  01-12-2013  
+<h2> review.text </h2>
+
+ <p> If you are like me, I was sick of pulling out my ear buds for my phone only to have them knotted up. This little case keeps them knot-free and ready to use. I find the non-net side is easier to store the ear buds in rather than the netted side, but you can use either one. You can probably fit 2 pairs in the case.The carabiner isn't very good... It didn't stay closed, but I wasn't going to use it anyway. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case for your ear buds. </p>
+
+
+<h2> review.date </h2>
+  04-12-2014  
+<h2> review.text </h2>
+
+ <p> I am very happy with this case as it does a great job of protecting my earbuds when I travel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case for earbuds when you travel </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> I wanted a case that would keep my earphones somewhat organized. This product does just that but I am just not overly excited about it and would not purchase it again. Just a personal preference. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Headphone </p>
+
+
+<h2> review.date </h2>
+  05-25-2012  
+<h2> review.text </h2>
+
+ <p> This little pod/case can hold our ipod shuffle 4th gen (little square inch one), the usb charger that comes with it and earbuds comfortably. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> perfect for earbuds and the ipod shufle 4th gen </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> Bought this one to replace and old case of a Bose Triport earphones that was peeling off. This one is a perfect size. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for Bose Triport </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> This earphone case can definitely take a beating with its hard exterior. Not once has my earphones been squashed despite it being one of the larger in ear earphones around. It also provides extra space inside to store a split adaptor for me to share what I'm listening to with someone else when the need arises, which is a great convenience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Use it to store UE triplefi 10 with a split adaptor. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

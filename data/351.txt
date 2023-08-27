@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1612421369 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> Reading anything by Joe Haldeman is always a pleasure, but despite the praise this novella gathered, it's one of Haldeman's lesser works.The starting point of the story is fun: a Hemingway scholar meets a con artist, and the two men, together with the scholar's wife, hatch a plan to write a phony "lost manuscript" supposedly by Ernest Hemingway.  Little do they know that writing the phony story could upset the space-time continuum!Haldeman is a facile writer, and he uses this story to show off, among other things, his interest in and ability to imitate Hemingway's prose -- a rather unusual feature in a science fiction setting.  And as always, Haldeman's approach to the story, unlike a lot of sci-fi, is character driven.  The main characters in the story are well-drawn, and their motivations drive the story along.Unfortunately, the tale peters out at the end.  The last couple of chapters veer off in a completely different direction.  They also raise the stakes of the story -- usually a good thing in any novel, but Haldeman then ends the story so fast that it almost seems as if he tacked on the ending so that he could be done with the novella and move on to something else.  Overall, the story ending is abrupt, jarring and unsatisfying. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun, but ultimately disappointing </p>
+
+
+<h2> review.date </h2>
+  06-13-2013  
+<h2> review.text </h2>
+
+ <p> Always a fan of Joe Haldeman this one doesn't disappoint. Perfect for a train ride anywhere.... Or anywhen, for that matter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fun read </p>
+
+
+<h2> review.date </h2>
+  07-16-2013  
+<h2> review.text </h2>
+
+ <p> I have read almost everything Joe Haldeman has written. As I have mentioned before, I was lucky enough to have him as a professor for the classes Writing Science Fiction and Genre Fiction Workshop at MIT.Well, I had read almost everything. The Hemingway Hoax is a novella, which is why I hadn't gotten around to reading it. Plus, I thought the story would be about Hemingway, and I wasn't all that interested in reading a story about Hemingway. Still, Joe wrote the story, which means it had to be good, so I gave it go.What a fast read. True, it's a novella, but Joe's writing is simple, crisp and clean. Whenever I read his stories I am reminded of the pure science fiction writers like Heinlein and Asimov who got their point across without too much fluff. Raymond Carver was the same way. They can write powerful sentences with one or two brushstrokes.The Hemingway Hoax is about Hemingway, but there is much more to the story: time travel, interdimensional travel, beautiful women, and a main character who experiences different realities for his life while remembering each of the other ones.I could see some of Joe in John Baird, and at the end of the novella Joe even admits that one of the incarnations of John Baird is based on himself, but personally I think that Joe is in every incarnation of John Baird.If I have one criticism, it's the ending. The story ended in such a way that I had to re-read it a few times in order to understand what had happened, and I hate when I have to do that, especially when the rest of the story had been so engaging.Still, a good, fast, short read. Haldeman's writing always whisks me along while spinning a good yarn. That's why I like to read his stories.If you are going to give Haldeman a try, and I recommend that you do, read The Forever War. It's a novel, but it's short, to the point, and deals with a topic most science fiction writers can't penetrate. War. Joe experienced the Vietnam War, and the grittiness comes through in The Forever War.christopherleedeards.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fast paced novella. Well worth the read. </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> Hemingway Hoax by Joe Haldeman is a very interesting novella. A conman engages a University literature professor in a bar and encourages him to talk about himself and his work. The professor is particularly knowledgeable about Earnest Hemingway. He mentions that a brief case full of Hemingway's early works had been stolen before Hemingway had become successful and those works were never recovered. The conman then suggests that the Professor and he could make some big money by "finding" some of these missing Hemingway works. Eventually the Professor and his wife agree to the scam and the professor attempts to write a pastiche of one of the missing works. However, there are unthinkable consequences that result from trying to change history, and powerful entities that deal with those consequences when necessary. I liked the concept of the scam, but it became overshadowed by the consequences that resulted. The Hemingway Hoax won both the Hugo and Nebula Awards for Best Novella of the Year in 1991. It is definitely worth reading, but I didn't like it as much as I have liked many other books by Mr. Haldeman. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Interesting Award-Winning Novella </p>
+
+
+<h2> review.date </h2>
+  11-20-2013  
+<h2> review.text </h2>
+
+ <p> Descended in part from Anderson's &#34;Time Patrol&#34; stories, in other part from Heinlein's &#34;All You Zombies,&#34; in yet other part from Leinster's &#34;Sideways In Time,&#34; and (of course) quite heavily from Hemingway himself, The Hemingway Hoax is quite the story.John Baird, a Hemingway scholar, finds himself involved in a plot to forge Hemingway's lost early stories. A nameless guardian of the omniverse comes to convince him that this is a bad idea, that important things in the future ride on his not doing this. (The explanation of why it's so important, when it finally comes, is the least convincing part of the book. Fortunately, it isn't really important to the story.)Parts of the book are cod-Hemingway, but good cod-Hemingway, if you can imagine such a thing. Other parts aren't. The whole is excellent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good fun </p>
+
+
+<h2> review.date </h2>
+  10-18-2013  
+<h2> review.text </h2>
+
+ <p> This is my first Joe Haldeman book.  I've been missing a very good author. This is a good read and I will read more of his stories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First Haldeman </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> I have been steadily making my way through Joe Haldeman's books and stories (an endeavor more than worthy for any sci-fi fan) and though I have yet to run into much negative I do have to say his endings really stink sometimes. This is made all the worse by how much I enjoy everything up to those endings. Still, worth a read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A solid Story with a Weak Ending </p>
+
+
+<h2> review.date </h2>
+  06-19-2013  
+<h2> review.text </h2>
+
+ <p> If you like Robert A. Heinlein's work, you will appreciate Joe Haldeman's work as well. Same craftsmanship, same vantage point, same skill at persuading the reader to not only suspend disbelief but dispense with it entirely.Beyond that caveat, I read this book because I will read any Joe Haldeman's book that turns up unread. His books always bring me much reading pleasure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Entertaining, funny, an excellent read </p>
+
+
+<h2> review.date </h2>
+  08-09-2013  
+<h2> review.text </h2>
+
+ <p> Too many notes. But apparently I need to add fourteen more words to qualify as a review? Really. thirteen, fourteen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kinda busy </p>
+
+
+<h2> review.date </h2>
+  02-11-2014  
+<h2> review.text </h2>
+
+ <p> I loved the way the author proceeded to capture my attention, then told a story within a story. All very good entertainment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrific Tale </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

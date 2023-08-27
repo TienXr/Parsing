@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004QTOTD0 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-23-2013  
+<h2> review.text </h2>
+
+ <p> A friend recommended this author to me and while this isn't my normal genre I was glad I took a chance. My reward was a riveting read. Author D.F Laborde writes smart, compelling prose. He has created a convincing universe in this novel with impressive, realistic detail. I was blown away by some of the descriptive passages. This was a smart but also very entertaining read. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Riveting and Intense </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> This is an epic sci-fi adventure written by a true storyteller with a command of the world he has created. There is a great description and Kirkus review on the amazon listing page for this book. I completely agree with the folks from Kirkus when they called Won Race big and brash. There is so much going on in this book and Laborde keeps peeling back the layers like a galactic onion. He has a way of writing characters that we can easily picture and understand - we get their motivations. Good vs evil certainly charts the course for the storyline, but the quest for discovery wraps it all up in a dramatic sense of urgency that keeps the pages turning. This book is an exciting ride and I can't wait to read more form this author. Recommended - five (shooting) stars! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Earth is threatened! </p>
+
+
+<h2> review.date </h2>
+  01-25-2014  
+<h2> review.text </h2>
+
+ <p> &#34;Won Race&#34; by D.F. Laborde is a great piece of science fiction writing that really took me by surprise with its forceful action, excellent suspense and interesting characters.The author instantly draws you in with a heavy and ominous prologue about the rise and falls of eras and civilizations of the world that gripped my attention and rose my curiosity. It felt more mythological than scifi/ fantasy territory.What followed however is the bitter war of two worlds, two races if you will which are both highly imaginative creations and could easily have been the subject of a book each. Said fighting parties end up in the well thought out setting of life on a futuristic Earth.The Puratist World, where there are no different races, the swarm with its Queen and the great lead characters on Earth make for an excellent science fiction read, one that is innovative, inspired and a fascinating world to dive into.The plot and the action are superb. The futuristic war fare, the fighter scenes and military jargon are incredibly convincing and detailed and make you feel as if you were part of their army.A change of perspective in the narrative allows the conflict to be experienced from several sides.Like many science fiction stories this book is full of subtle philosophy as it shows us the purpose and ideals of different races. A lot can probably be read as symbolic and metaphoric for present human kind, which makes this enjoyable on more than one level.This is the first in a series and leaves us with a glimpse of what will be the plot of book 2.Well written, fast paced and with excellent suspense this is a very impressive work of art. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent science fiction writing </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> This is a must read for sci-fi adventure fans. The novel Won Race begins with an interstellar war that really transcends both time and place. D.F. Laborde does an excellent job of integrating the lore of his fantasy world through out the fast-paced story. There is a lot of gripping and shocking action. What I appreciated the most from the battle scenes, for example, was the combination of both technical details and heart. The author shows both sides of the conflicts and you feel as if you are right there in the middle. I could really see and feel the action. During some of the earlier confrontations between warring Lycerene and Neferan spaceships, I was literally on the edge of my bed as I read from the Kindle. Later on in the book, I could feel the fear in the characters as they struggled to survive tenuous circumstances.The book is a brisk read and I couldn&#8217;t put it down. There are many shocking and unexpected twists in the story. Whenever I expected that it would go into familiar Sci-Fi territory, a new development would complicate the story. The tale would be thrown into jarring, but satisfying new directions. I really appreciated that the author showed the different sides to the massive conflicts in his universe; which Earth ends up being at the center of. This book, as the title would suggest, makes some really poignant observations about race relations and global conflicts in the world today. The title itself seems to have multiple meanings. Rather than tell you what I mean by that, you should pick up the book!However, there are a few things that I wished D.F. Laborde would have done differently. There are many characters and races to follow in this book and the transitions from different character perspectives often come in the middle of chapters. At times, this was challenging for me to follow, as there weren&#8217;t always clear indications of when the perspectives had shifted. I also had to re-read certain parts several times to keep track of all the names as well as the ever expanding number of races.Overall, I was thoroughly impressed by the novel. I think fans of sci-fi, military adventures, and even horror should definitely pick up Laborde&#8217;s book. Be prepared for an entertaining read, but also a journey that probes you philosophically and makes you think. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A gripping and thought provoking sci-fi novel </p>
+
+
+<h2> review.date </h2>
+  02-03-2014  
+<h2> review.text </h2>
+
+ <p> I had a great time with this book. Filled with wonderful details about the martial cultures that the novel revolves around, &#34;Won Race&#34; is tense and atmospheric military sci-fi at its finest. It starts in the midst of a battle and never lets up. Really, the author has done a great job of making the various war gear and tactics seem realistic and viable, and the warriors themselves are likable and interesting.The novel is about the conflict between two peoples that couldn't be more different, and yet I found myself caring about characters on both sides and hoping they would be the ones to succeed, although I knew both sides couldn't both prevail. An enthralling read from start to finish. Can't wait for the next one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrific epic science fiction! </p>
+
+
+<h2> review.date </h2>
+  11-09-2013  
+<h2> review.text </h2>
+
+ <p> This is my first time reading this sci-fi novel by D.F. Laborde. As I was reading this story, there is a quote that I reading like to share, "All that one generation experiences, so too will the next. Love is Love. Fear is fear. Hate is hate and War is war. Save but technology is all that divides the generations. And technology rises. And technology falls." ~ D.F. LabordeThis novel is about the future where the destiny unfolds between warring planets and their inhabitants. The author also displayed exceptional skills in describing futuristic weaponary and warfare. I see lots of chaos within this novel. There is this character that I really like, Prowler. This character is fearsome as he bring upon fear onto their enemies plants. Sometimes, they appreared overconfident on their battles which led to their defeat. However, his resourcefulness did saved him from his enemies attacks.What this storyline attracts me is that the author cleverly describes the various scenes of space warface with ease. I do not have much problems reading it. There is a constant contrasting between the Good vs Evil as the author builds a climax that encourages me to keeps on turning the pages. This book is a great book with lots of surprises, twists. This book is not only for sci-fi fans, but also great for teens, young adults, and for even mature readers like myself. If you like unconventional sci-fi action thriller, you'll definitely get lots of entertainment and enjoyment out of this novel.If you like :- Joe Haldeman's The Forever War- Jasper T. Scott's Dark Space- Ender's Game's Orson Scott Card- B.V. Larson's Steel Worldyou'll definitely get lots of entertainment out of this novel!Before you read this book, you may want to check outEnder's Game: 1 (The Ender Quintet)andProject Mimic - (A Sci-Fi Action Thriller Novel).If there's one thing I'd change about this book, it would be to create the images of the space war scenes more vividly. This book looked great on my Kindle app on my iPad. It has good formatting and layout.If you found this review useful, let the community know by clicking "YES" on the Helpful Vote. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hmm... Where To Start... This Book Resonates With My Thoughts.. </p>
+
+
+<h2> review.date </h2>
+  02-24-2014  
+<h2> review.text </h2>
+
+ <p> I was raised on a staple diet of science fiction, and do you know what I love about it? The diversity.Take military sci-fi, for example. In my humble opinion that&#8217;s the sub-genre where this book belongs, and it can be a pretty difficult one in which to write. One major aspect that makes it so difficult is the application of advanced, future weaponry in a war being conducted between rival races/planets. All too often, authors overlook the details of how and why such weaponry can turn the tide of a war, and, in most cases, win it for them. What I liked about D.F. Laborde&#8217;s Won Race is that he didn&#8217;t just assert the use of cutting-edge weapons in a superior war, he supplemented their purpose with an explanation behind his technology. Well done, Mr. Laborde. You&#8217;ve aimed where many have not even tried.A steady, debut effort by this new author, Won Race explores a conflict from each faction involved, offering insights into their struggles, their reasons, their objectives, and how far they&#8217;ll go to achieve them. Very interesting when you want an understanding of the minds and machinations behind those who value conflict as the accomplishment, the means to their end.With every new race introduced (and there are a few!), every now and then I kind of strained to understand whose perspective I was following, and I had to re-read certain passages again to get the gist of what was occurring, something that... well... it does make my right eye go a bit twitchy at times!Generally, though, this a good, entertaining, thoughtful read, with an array of colorful characters and enough intrigue to satisfy all you military sci-fi enthusiasts! I&#8217;m sure you&#8217;ll enjoy the elements involved here, but far be it from me to give away or even outline any plot details. You&#8217;re just going to have to read it yourself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read from a new author </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> Swarming across the universe, an intelligent race of aggressive Xenomorphs are dead set on conquering all, but of course they are put in check by the inhabitants of Earth.  Well written, Laborde  paints a vivid picture of what a good science fiction is all about.  And what I truly loved about this story was the fantastic dialogue and one liners.  "...Apes? Is that where you Earth people come from? The Neferan do not evolve, we are born from the Gods..." D.F. Laborde.  I highly recommend this Science Fiction read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Xenomorphic Fun Read! </p>
+
+
+<h2> review.date </h2>
+  10-23-2013  
+<h2> review.text </h2>
+
+ <p> Won Race by D. F. Laborde ia an amazing story. Sci-fi adventure fans be prepared to travel into a world where the author has created fantastic characters and planets and races.I wasn't always sure which side to be on in the book as you get both interpretations of the Lycera and Nefera so it was a love/hate with so many of these stand-out characters and their races. Very well done. I love this type of writing.There are also many turns and twists that keep the reader on the edge of your seat. The battle scenes and the void are no less than brilliant. My favorite part of the book with the Chodugon Kon and Chodugon Kai and the ancient artifacts that lead to the truth of who is the Won Race, was so interesting that I couldn't put it down.This would make an awesome movie or television series and I look forward to the next book in this series as there will probably be so much more to explore. Exciting and fast paced, I highly recommend this book that is very well written.5 stars D. F. Laborde for an amazing read and for leaving me wanting more! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Must Read </p>
+
+
+<h2> review.date </h2>
+  11-16-2013  
+<h2> review.text </h2>
+
+ <p> Won Race is a spectacle of suspense and thrilling Sci-fi action. The writing and imagination flows off of the page and into the mind of the reader. It was an effortless book to read - and a pleasure. A fine novel indeed! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> The epic grandeur of Dune, the sinister robotic savagery of Terminator and the warring worlds and space battles reminiscent of Star Trek combine to make D F Laborde's Won Race a very engaging and entertaining read. If you are a fan of any of the classics just described, you will thoroughly enjoy this sci-fi novel. A well-thought out and well-crafted story, with thought provoking depths, it will have you turning pages and looking forward to the sequel (hopefully out soon), this piece of work gets a deserved 5 galactic stars! Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 5 Galactic Stars!! </p>
+
+
+<h2> review.date </h2>
+  01-27-2014  
+<h2> review.text </h2>
+
+ <p> I was given a copy of this book for an honest review: If you like Sci Fi then you&#8217;re going to love this book because the characters are so well crafted that you can&#8217;t help but to be drawn into this story. The author has done a great job of creating an emotional and mental masterpiece that keeps you compelled to read all the way until the end. The intense action that fills the pages of this book takes you on a thrill ride that you can actually identify with. The author is very detailed with every aspect of this book so that you feel that you have been transported into this world. If you&#8217;re looking for a great read then this book is for you. These details are all the more reason to read the book. I highly recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You will really like reading this book </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

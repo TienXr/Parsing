@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000R7I44K <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> jennifer love hewitt does a great job in these series. I watched her Ghost Whisper show for years and loved it. I was also disappointed when her show was cancelled. This series shows the possibles with the after life and how she helps them cross over. I would highly recommend this Ghost Whisper series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HEARTWARMING </p>
+
+
+<h2> review.date </h2>
+  11-10-2012  
+<h2> review.text </h2>
+
+ <p> Always keeping you on your toes. Much better than season 1. It just gets better as the seasons goes on. I love the difference angles of the stories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good family show </p>
+
+
+<h2> review.date </h2>
+  09-15-2007  
+<h2> review.text </h2>
+
+ <p> The best part of The Ghost Whisperer is that it doesn't try to be anything other than what is; fun, entertaining escapism. That's what TV should be. No show on the air is for everyone, I couldn't stand 'Friends' the entire time it was on the air. We need more shows like this. No Issues, No statements just escapism......remember those days? Threes Company, Frasier, My Wife and Kids, Cheers..........So many great shows.There is too much mindless junk on TV these days and shows like The Ghost Whisperer are, for me anyway, an oasis in a desert of low brow programming. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good,Clean, Fun entertainment </p>
+
+
+<h2> review.date </h2>
+  03-03-2010  
+<h2> review.text </h2>
+
+ <p> My DVDs arrived in the mail three days after ordered.  All disks looked and played perfectly.  Closed captions are important to the hearing impaired, and each program's worked without a problem.  Jennifer Love Hewitt and the upbeat ghost stories are excellent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost Whisperer - The Second Season </p>
+
+
+<h2> review.date </h2>
+  07-09-2013  
+<h2> review.text </h2>
+
+ <p> As an Amazon Prime customer, I viewed season 1 for free. Season 2 required payment. I didn't hesitate long before purchasing. The cliff hanger from season 1 left me no choice... I had to know!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ... gotta have MORE! </p>
+
+
+<h2> review.date </h2>
+  02-19-2008  
+<h2> review.text </h2>
+
+ <p> after the death of her best friend, Andrea.  She has to help her cross over as well which turns into a task in of itself as there are dark forces growing stronger with each day.  Trying to stop Melinda from crossing over the ghosts that come to her, some will even refuse her help and choose to stay in the world of the living.  I was saddened by the death of Andrea, but it was handled well and we also get to see her brother play a role in things.  Finally finding peace over his sister's death and Andrea crossing over.  Things start to ramp up towards of the middle of the season.With more than a few difficult ghosts and more powerful forces that are growing ever present and trying to block Melinda from ultimate goal.  Let's just say that with a couple episodes left at the end of season 2, you'll be more than pleasantly surprised at the new developments and characters that come to Grandview to reak havoc on things.Enjoyed Season 2 very much and am looking forward to more of this excellent TV show that can and continues to do it all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> continues where it left off. </p>
+
+
+<h2> review.date </h2>
+  03-20-2010  
+<h2> review.text </h2>
+
+ <p> This series has some validity in its presentations, though some theatrical license is taken to make it more "Hollywoodish" The basic message of respect for those persons with no body is dealt with in a good manner. Where it departs from reality, there is still merit in watching the work with Spirit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost Whisperer Season </p>
+
+
+<h2> review.date </h2>
+  06-26-2011  
+<h2> review.text </h2>
+
+ <p> I found the second season rather boring and repetitive. There are no new ideas. My wife and I stopped watching after the third disk. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boring and repetetive </p>
+
+
+<h2> review.date </h2>
+  07-03-2007  
+<h2> review.text </h2>
+
+ <p> This season of Ghost Whisperer, continues to be a very good family friendly scare, just scary enough to make it interesting, but not enough that I don't let my youngest (tween-ager) watch it with my wife and me.Although it is a bit edgier than the first season, a necessity to the continuity of the plot, and I do miss her partner from last season, we continue to look forward to each episode during the school year, and the DVD marathons when home for a weekend.If you already have season one, then this is a must have! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Friday Nights with the Family </p>
+
+
+<h2> review.date </h2>
+  11-15-2013  
+<h2> review.text </h2>
+
+ <p> Okay just finished season 2 of ghost whisperer and I'm in shock this season was just plain epic. I'm sad about what happened to andrea but we have a new cast member delia banks and professor payne awesome new characters. What an exciting season on to season 3. 5/5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ive found my guilty pleasure </p>
+
+
+<h2> review.date </h2>
+  06-09-2007  
+<h2> review.text </h2>
+
+ <p> I had previously written a review of Ghost Whisperer Season 1 and I'm proud to say it's still a great guilty pleasure for me on a Friday night.Ghost Whisperer Season 2 resolves the cliffhanger from last season, wherein Melinda Gordon (the gorgeous Jennifer Love Hewitt) began "seeing" the passengers of a plane who had become "earth-bound sprirts" just before the plane crashed in the town of Grandview, where the series is set. She then has the task of sending all 200 passengers into the afterlife, or crossing-over. As well as convincing them not to follow the advice of a man in black with a wide-brimmed hat (guess who?) who clearly has other plans for them. She's also faced with the knowledge of why the plane crashed and trying to tell investigators in such a way that doesn't reveal her ability to talk with the dead. All this comes at a personal cost to her, in the aftermath of the plane crash it was revealed one of the victims on the ground was her best friend and business partner Andrea (Aisha Tyler) whom she must also guide into the afterworld.As sesason 2 begins, Melinda has apparently won her battle with the man in the wide-brimmed hat, she's said her final goodbye to Andrea, things slowly get back to normal around Grandview. But the plane crash and its aftermath continue to figure in Season 2. Throughout this season subtle hints are given that a bigger story is coming. And what a story it is.In Season 2, Camryn Manheim is introuduced as single mom Delia Banks who becomes Melinda's new business partner and brings with her a 12 year old son who accidentally discovers Melinda's abilities. And Jay Mohr becomes a recurring character as an eccentric Professor with a great interest in the spirit world and Melinda herself. The "ghost stories" continue to have that sorta-scary edge to them when first encountered. And we begin to find out little bits about Melinda's life too. I'd like to see more episodes like this, might sound dumb but they give Jennifer a chance to show she's more than just a hot brunette with a rack (note to CBS wardrobe designers, get this girl some better clothes please! As a guy, it does make Fridays a little more enjoyable, but that's another story!). She's got some acting abilities too, people. Let's see more of those! Just remember that one episode showed a flashback to her high school days get someone else to play her at that age. Sorry Jen but your 27, not 16! That one really stretched the belivability envelope.And as for the big story, I said that throughout this season small hints were dropped as to what was coming in nearly ever episode. Mohr's charcter brings it all into focus showing how the number 5 and a man with similar abilites named Gabriel plays into several signs of a coming event, and it isn't a good one. I won't reveal too much but in the season finale Melinda crosses over, if only for a moment, and the tone for Season 3 is set! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still my Friday night guilty pleasure </p>
+
+
+<h2> review.date </h2>
+  07-22-2007  
+<h2> review.text </h2>
+
+ <p> Ghost Whisperer is still a favourite of mine even though it's dropped from Australian TV radar (for whatever reason).  Through the magic of technology, I've now seen this whole season and I found it as great as the first season.My favourite episodes are Love Still Won't Die (where Melinda has to deal with an ex, plus a shoplifting teen who's not sure why he's committing the crime), The Woman Of His Dreams (where a dream sends Melinda to her mother on the eve of surgery, but the dream transfers to Jim and he must find a way to help a ghost he can't see while Melinda is out of town) and also The Collector (Melinda comes across another ghost whisperer, and he may have some answers for her about shifts in the spirit world, but the information comes at a price).You definately have to suspend your belief of reality when you watch this.  It's good escapism (although it's not always best to watch it right before bedtime), and I love the characters and I also love her husband Jim.  Overall, it's such a fun show to watch and I can't wait to get my copy ASAP. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this show :-) </p>
+
+
+<h2> review.date </h2>
+  04-03-2013  
+<h2> review.text </h2>
+
+ <p> it's a good series to watch, have to start at the beginning and work your way up.Enjoy Ghost Whisperer! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love it </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> like all the seasons of ghost whisperer i love them and they are the tip of show that u cant stop watch and they always leave in suspence. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love it </p>
+
+
+<h2> review.date </h2>
+  04-05-2008  
+<h2> review.text </h2>
+
+ <p> Again another great series on DVD. A must have if you like anything to do with ghosts. I am going to buy every single season they put out of this show. I watch it on TV and now have it on DVD to re-watch when I want. Wonderful stories to each show and great actors. I recommend these highly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost Whisper Second Season </p>
+
+
+<h2> review.date </h2>
+  05-04-2008  
+<h2> review.text </h2>
+
+ <p> I'd rate this one 4 1/2 stars if that was allowed by the system. I started watching the 1st season of The Ghost Whisperer on DVD while season 2 was in progress; I couldn't wait for this one to be released after where season 1 left me hanging! As addictive as the first; the relationships on the show are fantastic. Have to admit I do miss Andrea - she was a great character. But her new friends bring some other angles to the show with fantastic results. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic show continues to impress </p>
+
+
+<h2> review.date </h2>
+  06-07-2008  
+<h2> review.text </h2>
+
+ <p> I really like the plot.  Yes, I believe in spirits and other world.  Kind of in philosophy.  The plots were good, sometime very spooky.  The bad thing for what I feel with this series was the costumes. I think it was ugly. Everytime that I've seen the series, I feel so cross.  It like I was watching Melinda got up from the bed with that fluppy dress and hardly contain chest and done her shore with all the ghosts. It's really annoy me.  Will she dress properly next season? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Plot but Need to hire new wardrobe lady </p>
+
+
+<h2> review.date </h2>
+  02-16-2013  
+<h2> review.text </h2>
+
+ <p> Great set recommend anyone getting it and all the other as well.  If you like ghosts this is a good set to buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost Whisperer - Second Seasson </p>
+
+
+<h2> review.date </h2>
+  02-20-2013  
+<h2> review.text </h2>
+
+ <p> Shipping was great and the overall condition of the dvd's were in great shape too. I did not receive the original box or the original dvd cases for each 1-2 disc's. I do not recall it saying they were not included in the description. I am ok with it and I plan to keep the set. Thanks for the fast shipping. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No box.. No cases.. Dvd's good shape </p>
+
+
+<h2> review.date </h2>
+  06-19-2008  
+<h2> review.text </h2>
+
+ <p> I love Jennifer Love Hewitt.  I love this show.  It's dark yet funny, creepy yet usually has a happy ending when the ghost passes over.  I have the 1st and 2nd season and will buy the next seasons when they come out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great show! </p>
+
+
+<h2> review.date </h2>
+  08-18-2012  
+<h2> review.text </h2>
+
+ <p> I mostly decided to purchase this season as I already had the first and just wanted to see the followup of season ones finale,  while the series overall is enjoyable you can obviously tell it's meant for the lighter drama family viewing as opposed to shows like Supernatural.That's not to say there aren't some serious sides to the show but you don't feel the same angst or suspense as you do with the previous mentioned series. There's really not much the tell the series premise is you have a young woman with the gift to speak to the dead and after awhile decides it's her fate to help those lost souls find peace and closure so that they can go to the other side. The series is entertaining but if you want to the more action packed supernatural shows then I'd suggest getting the series Supernatural or the series Grimm. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable But Somewhat Bland Series </p>
+
+
+<h2> review.date </h2>
+  08-13-2012  
+<h2> review.text </h2>
+
+ <p> Clever story lines, interesting plots, and twists that you never see coming. If you love all things ghosts, this is the show for you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best shows ever </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> yes love it the series should come back with her son all grown up I love the collection Christmas gift </p>
+
+
+<h2> review.summary </h2>
+
+ <p> collection </p>
+
+
+<h2> review.date </h2>
+  01-17-2013  
+<h2> review.text </h2>
+
+ <p> I was hooked on Netflix and had to buy it for my own possession. Jim and Melinda are absolutely adorable together! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this show! </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> This is an amazing show that usually gets me in tears by the end of it, but keeps you jumping now and then esp in the beginning of the show. Def would buy this again and from the same seller </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  11-16-2007  
+<h2> review.text </h2>
+
+ <p> Great Series Again With This Show But A Bit Wierd With This,I Think It Was Wrong For How Long It Took Before Melinda Told Her New Friend Delia ( Who Now Works For Her )About She See's Ghosts & Then Delia Says She Does Not Believe Her As She See's Melinda Standing Around Talking Too Herself For A Long Part Of Each Show,If She Does Not Believe She Should Be Calling A Mental Hospital For Melinda & Get A New Job Somewhere Else,How The Show Handled Professor Payne Finding Out About Seeing Ghosts Was Really Good,Seeing Jennifer Love Hewitt ( Hot Hot Hot)For About 40 Minutes Each Episode Makes Up For Part Of The Storyline...... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost Whisperer Season 2 </p>
+
+
+<h2> review.date </h2>
+  02-15-2011  
+<h2> review.text </h2>
+
+ <p> love this series of shows it was in great shape i recevied the product on time.thank you, </p>
+
+
+<h2> review.summary </h2>
+
+ <p> melissa </p>
+
+
+<h2> review.date </h2>
+  12-11-2009  
+<h2> review.text </h2>
+
+ <p> This is a Very Good show I keep watching over and over This is a must get. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost show </p>
+
+
+<h2> review.date </h2>
+  07-12-2007  
+<h2> review.text </h2>
+
+ <p> BROUGHT IT FOR MY SISTER I'M STILL WAITING FOR IT BECAUSE IT OUT ON SEPTEMBER. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GHOST WHISPERER SEASON 2 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

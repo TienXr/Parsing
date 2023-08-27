@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00DX52DZO <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> It was good but a little to short for me I needed more bout to read part two now hope it's as good as book one </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> This story was crazy as hell. I can't believe he cheat on his wife. I can't believe old girl real have sex with a married man. But can't for pt.2 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Snake eyes part one </p>
+
+
+<h2> review.date </h2>
+  07-14-2013  
+<h2> review.text </h2>
+
+ <p> I thought that this story was really short but it was still pretty good! Once you get the characters down they story will flow! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Short but good! </p>
+
+
+<h2> review.date </h2>
+  09-01-2013  
+<h2> review.text </h2>
+
+ <p> Snake Eyes 1 ReviewCan't believe Madiosn won't sex her husband because of stuff that she feels would make her mother mad.Your grown get over it.Its time for you to be a wife and make your husband happy.I knew Borick was going to end up walking out and stuff with his boys.As soon as he walked out I said to myself he was going to cheat.Now on this chat line I knew he was going to end up with Damaya lol.Wow that shit with Damaya mother is crazy I'm glad my mother isn't like that.Now I knew she was going to end up finding Borick something told me that lol.She is all about one night stands </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> I really didn't care for the book at all, it was way too short. Please don't make a part two, I hope the author just leave it alone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Snake Eyes </p>
+
+
+<h2> review.date </h2>
+  07-17-2013  
+<h2> review.text </h2>
+
+ <p> This novella held my attention, I need to know what happens next!! The lives of Madison and Bori will never be the same!! Madison's world is turned upside down, and Bori at a loss as to how to help, does the unthinkable!! Not giving away any secrets...you have to ONE CLICK TO FIND OUT!!!  I recommend this book and have already!! :DReady for part 2... come with it!!Nice job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it!! </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> Wow! THIS short story took me on a ride.  I can't believe Madison would neglect her man like that and Damaya has some serious issues. I would definitely recommend this short story! Now on to Part 2! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Snakes Eyes Part 1 </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> We'll this was straight to the point.with 40 something pages it did a good job starting giving you a middle and a ending making you want to find out more... I will recommend this one but I'm going to read prt to so that I can give my full review . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So far pretty good </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> Let me tell yall  something quit reading these reviews and go get this book nuff said </p>
+
+
+<h2> review.summary </h2>
+
+ <p> in love </p>
+
+
+<h2> review.date </h2>
+  08-28-2013  
+<h2> review.text </h2>
+
+ <p> I really liked this book. At first I was kinda confused as to where the story was going, but I kept on reading and of course I ended up enjoying this midnight novella! Damaya know she scared me! I just knew that her promiscuous ways was going to get her into some trouble. Poor thing she was so damage by her childhood that she used casual sex to mask all that pain. Her mother really did a number on her. Madison has some issues as well, and those little things that she had going on in her mind was interfering with her wifely duties. She finally drove her husband, Borick, over the edge. He said enough was enough and he left. For the most part Borick was a good guy, but that dang Chat Line got him. I wonder will he be able to spring back, and make things right with Madison? It may be over for those two. Will Damaya straighten up and fly right, or will her undiscriminating habits, send her down a deadly road where there is no turning back. I guess I will have to see in part two. I rated this book 4 stars, because it started out a little slow, and there were a few editing issues. Nothing a good editor couldn't fix. If you looking for a quick short and sweet story, with a twist, then I'd recommend it. Nice job, Chocolate Boss Chick! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Snake Eyes Part I </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> A decent start and probably the potential for a great story line,  however it ends before a real plot develops. In all fairness, it was free so I guess you get what you pay for. I would have to wait for part 2 to really determine this book's worth. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Way too short </p>
+
+
+<h2> review.date </h2>
+  09-09-2013  
+<h2> review.text </h2>
+
+ <p> I never thought that someone would write a book similar to real life. I'm shocked that Brior would cheat on his wife, like wtf. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> Just when it got good,it ended. Madison should have known that what she won't do the next one will. Not condoning what Bori did, but I understand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but too short </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> Not impressed with this piece of work.Hard to follow,charater's not well developed. I get the whole HOOD effect but it just DID NOT play out well at ALL. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hope to read BETTER work from this author </p>
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> This book is short but great. I can't wait to read part 2. This book is interesting from beginning to the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow! </p>
+
+
+<h2> review.date </h2>
+  09-26-2013  
+<h2> review.text </h2>
+
+ <p> ,,, Okay so yeah m most definitely finna read the other two.I'm about to cum myself,lbvfs.This Shameka from our book club on Facebook.U one of the good writers frfr I c...That's wats up! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MORE! </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> I know it said it was a novella but hell I think I only read 5-7 pages before it was over. I see there are 3 parts to this story, which that  tends to be a turn off for me. There is no need to sell such short stories when you could have made it into ONE book!I really don't have much to judge off on to say whether I like the story or not because it was that short! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Way too short </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

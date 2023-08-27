@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00AK1J4H4 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It is good </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am addicted to this series. I can not wait until the next book comes out. I sat down and read the first 3 books over the weekend. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Jennifer has another hit! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love, Love, Love this series..The characters are so interesting. Keep up the great work! Waiting anxiously for your next book! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Read all books in less then 3 weeks.  I love love love the story.  I can't wait until book 4 comes out! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Really?! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Took this character three books to have growth and then the book ended. I was disappointed in that but when you look at the book pages. I believe this is one book that was split in three pieces so then the growth maybe on target. I did pay what I would a popular author with the last two book prices. But it is done and it did hold my interest enough for me to want to purchase. But... would I recommend it.. NO! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GREAT </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I cant wait for book 4 :)) I have read all 3 books in one month and they're amazing. :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Impossible to put down! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> When I finished book 2 in the series, I couldn't stand not knowing what happened next, so I immediately ordered it thanks to Kindle. I read the book in two days and then ordered book 4 while in the hospital, after major surgery. I haven't been able to read it yet, but will as soon as the doctor releases me to do things I enjoy.Everyone who enjoys a good vampire story with a twist will fall in love with this series. It lets you ask the questions are our lives ruled by fate or can we change them? Have we lived previous lives? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very good read. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am very happy to hear this story will continue. I really enjoyed this trilogy. I can't wait for the next one! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another great... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another example of a great story of the den and their future development in their future lives of changes they will undergo in the saga.Jo-Ann D. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great series so far </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was great a little out there at times but overall great it deffinataly ended with me wanting to get the next book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> book 3 </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> story was great, just wish it was all in one book. three short stories. Where is Steve is finally answered. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Vampires Witch Saga is amazing!!!!!!! I love love it! I couldn't put it down and very good series to read! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A very awesome book. Can't wait for the fourth book. I recommend that everyone that's read book 1,2,3 of this series please read 4 and enjoy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Seventh Day </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another excellent book in the Vampire with series.  As with all the others, parts of this book are extremely weird and hard to visualize, but then wouldn't dealing with witches or vampires be exactly that, and would you really trust them.  I enjoy the setting of these books in New Orleans, the city that holds appeal for the paranormal.  If this would happen anywhere it would be New Orleans.  The characters have changed throughout the series as they delve more deeply into the darkness that is vampire and witch.  A trip through the Louisiana swamp was sinister, as I think it would be.  This book is definitely a good escape from every day life. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great story line! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I read all three (3) books: #1The Den, #2 In the Blood and #3The Seventh Day.  The story line kept your attention and it was hard to put the book down.  Once you finish with one of the books you have a desperate need to get the next book in the series to continue on with the story.  I am waiting for book #4 to be released to continue enjoying the characters and story line in the book.  I enjoy vampire books and would recommend this series. The down side is waiting for the next book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Huh? </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was kind of dumb. It could have been better. Plot is getting crazy. I'm not sure I will read the 4th book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This series blew me away! Once I started reading I couldnt put it down. I read all three books in 3 days!  If you love Vampire type books give this one a shot! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I brought it as soon as I read book 2 couldn't wait to get to it and I'm sorry there isn't more </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

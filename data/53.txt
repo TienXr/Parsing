@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002CT0YQW <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> decent cooler </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is ok if your needs are basic and either you didn't get a stock cooler or yours failed. It doesn't perform a great deal better than stock cooling though. I wouldn't recommend it to overclockers. I bought this a long time ago with an OEM CPU, it works for my needs. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> like a tornado of air! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> it a cooling fan, it cool the processor, so far no problems.  I am going to build a chicken plucking machine out of an old washing machine, should be pretty interesting. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> replacement heat sink </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> it fits my PC and it is quiet.  It cools the processor well.  I don't care much for all the gimmicky processor coolers.  this is a good basic processor heat sink. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not a total loss. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-20-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The heatsink and fan I received was supposed have copper core, and suspension mounted blue colored fan with a four pin power connector. Now amazon lists what I thought I had ordered as this Rose Swill thing. (O_o)? The mounting hardware on this thing will work on an AM3 retention bracket, but since it does not have the proper 3 point latch it is not recommended for use on newer processors. The included fan speed controller was 100% non-essential.Regarding the copper base, this Rose Swill assemblage was supposed to have a copper base, mine did not. It's just a very large hunk of aluminum.This was a weird order that somehow went wrong, and for 9 bucks it's really not worth the hassle of sending it back. It's not a total loss though. I will surely find a use for it on an older Socket 754 or AM2 system. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great as advertised. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Easy to install, comes with everything you need. Seems to be decent quality, at least as much as any other air cooler I have used (Zalman, stock etc...).I would buy again and recommend to friends if needed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best fan for $15 </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got this fan for an old Athlon X2 with 939 socket. It really blasts air outside and even have a speed regulator </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Its Alright </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It serves its purpose but it is a little loud, fan runs fast which makes it loud which is normal, but you can find a lot quieter coolers, I bought a water cooler and that is 100x quieter and more effective. Also, you need to seat this JUST RIGHT or the cpu temp will get real hot, it is real picky to seat it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very nice for the price! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> After installing this sucker I got significant improvement over the stock cooler from AMD usually runs 10C cooler on full power, 5C cooler when set to Medium power and about the same temps with this fan set on the lowest power setting.Overall very glad I got this and an awesome buy for the price! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good basic cooler. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've used this in a few basic AM3 builds and to replace a handful of broken stock coolers, and I don't have any complaints. It does a good job keeping temperatures where they ought to be and is more quiet than the stock AMD fans. If comes with a dial to manually change fan speed, but for what I was using it for, that wasn't a necessity. It's a good cooler at a good price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cool. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've gotten 2 of these in 2 different systems.  This runs quietly, and works great for non-enthusiast computing needs.  Would buy again. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

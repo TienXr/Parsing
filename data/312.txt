@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1560254424 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-25-2005  
+<h2> review.text </h2>
+
+ <p> I want to congratulate Mr. Fisk for crafting perhaps the most anti-semitic (by this I mean anti-Israel) and biased piece of journalism in a very distinguished field (2nd place goes to daily coverage of the conflict to the BBC).  To his credit, and it is the only positive thing I can say about the book, Mr. Fisk clearly states that his editors, or I should say his increasingly "right wing" editors, were not pleased with his coverage but continued it due to the conditions in the war-torn region.You know when a "journalist" will only write terrorist as "terrorist", (similarly, Reuters refuses to use the word.  Instead, they use the word militants to describe the beheaders in Iraq) the tone for the rest of the book is set.  Sadly, but revealingly, Mr. Fisk makes it appear that most of the journalists covering the conflict share his anti-Israel pro-"freedom fighers" views (the eventually kidnapped Terry Anderson said all the parties should be called terrorists).Amazingly, at least in the copy I received, there were no pictures at all.Mr. Fisk at every opportunity diminishes the threat Israel faced with the UN/Arab backed PLO operating in Beirut.A truly horrific case of biased journalism from a writer from the country that brought us "sexed-up" lies and other media (MSM) distortions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pity the reader...pity the anti-semitic journalist </p>
+
+
+<h2> review.date </h2>
+  01-18-2007  
+<h2> review.text </h2>
+
+ <p> As Fisk tells us this book is not an academic history of the wars in Lebanon but rather a personal narrative of a news reporter based on his mountain of notes, a profession in which he is just the best. This leads to some confusion for a reader who has to stay with him as he jumps from place to place, army to army, party to party, and even time to time. It also takes a strong stomach as he forces us to read about the reality of modern "war", the ugly brutality of what modern weapons can do in dismembering pitiful, innocent human beings. Over and over. As he says, "So far as armies and militias go, there are no good guys in Lebanon." While none of them including the PLO come out as heroes the Israelis certainly do not look good, not just in the brutality inflicted on the Lebanese but in their racist arrogance and lies they often told to cover up their actions. For exposing these Fisk was, as usual, subject to attack by the ubiquitous Israeli lobby in the US including the dreary and false charges of "anti-Semitsm". He is one of the few foreign reporters who has called attention to the Israeli practice of falling back on "the Holocaust" or accusations of anti-Semitism when caught out in one of their military outrages.This book although a difficult read is particularly educational for Americans who may have opinions about Lebanon formed by the usually inadequate US media.Fisk is British but lives in Lebanon. He was educated in Ireland and has somewhat Irish outlooks which I think give him a certain sympathy for those without power. I note that when on leave he went to the remote west of Ireland rather than the fleshpots of Europe!Lastly, his bravery in reporting literally under fire is unique as far as I know, except for a few of his other companions such as his friend the kidnapped Terry Anderson and a few others from several nations and the brave United Nations soldiers. His final chapter about the Israeli attack on the UN base at Qana with its Fiji soldiers and many civilians is shocking and a fitting finale to the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not an easy read </p>
+
+
+<h2> review.date </h2>
+  07-09-2005  
+<h2> review.text </h2>
+
+ <p> Robert Fisk does an amazing job at describing with great details the life of a foreign correspondent in Beirut during the 80s. While early in the book the flurry of details could seem overwhelming, it then appears as essential to try to make a sense of what happened then, and more importantly why. Having witnessed a great deal of horrors Robert Fisk still manages to put things in perspective, including his own understanding of the situation then (such as his not foreseeing the wake of suicide bombings in the early 80s).The book is all the more exceptional that Fisk makes additional efforts to make sure that whatever bias he may have (as all individual are wont to have) is counter-balanced by getting as much sides of the story as possible and avoiding spin. The essence of journalism one would say but all too forgotten today. His sympathies definitely transcend political or national boundaries to go to the people who are suffering. And in trying to understand the motives behind all the atrocities (which all "sides" committed) he epitomizes the search for a clearer, less angry view of a world that's too complex to grasp.Indeed a refreshing departure from the usual 15-second-long, "terrorist-this, terrorist-that" sound-bites. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Extremely moving, personal account of the lebanese Civil War </p>
+
+
+<h2> review.date </h2>
+  10-02-2005  
+<h2> review.text </h2>
+
+ <p> No better account of Lebanese civil war and Israeli invasion exists. Tom Friedman (also worth reading) is a pale and inadequate substitute. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> well worth reading </p>
+
+
+<h2> review.date </h2>
+  09-27-2007  
+<h2> review.text </h2>
+
+ <p> Robert Fisk, a journalist who is still living in Beirut, Lebanon gives and excellent journalistic account of the Lebanese Civil war and the Israeli invasion of Lebanon in 1982.  He doesn't pull punches and is quite accurate in his assessment.  He is perhaps one of the few journalists who are stuck in the mainstream mode of reporting news in the Middle East.  This book is an excellent resource for those who want to learn about this part of Lebanese history from the eyes of an in-the-trench journalist such as Robert Fisk. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Journalistic Account of the Civil War and Israeli invasion of Lebanon </p>
+
+
+<h2> review.date </h2>
+  03-18-2003  
+<h2> review.text </h2>
+
+ <p> Robert Fisk is so adept at asking the tough questions that virtually everyone accuses him of being sympathetic to the other side.  In _Pity the Nation_, he exposes their savage and brutal behavior of the parties in the Lebanon conflict.  The list of people who Fisk challenges reads like a who's who of the killers in the Middle East: Assad, Begin, Sharon, Arafat, Gemayel, Haddad - the list goes on.  In a time when everyone's reporting seems so colored by ideology and loyalties, Fisk is refreshingly honest and even-handed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fisk is riveting and enthralling </p>
+
+
+<h2> review.date </h2>
+  02-09-2005  
+<h2> review.text </h2>
+
+ <p> This book is by a journalist who is part of the problem.Suppose I were to write a book about the Mafia.  And suppose I showed that the Mafia broke the law sometimes, and even went so far as to say that the Mafia was more interested in its cause than in being law-abiding!  And suppose that, in an effort to be fair, I also explained that the real problem happened to be those who had the temerity to go after the Mafia and try to bring those in the Mafia to justice.  Well, if I did that, I would expect some criticism.  And Fisk got some when he explained that the PLO was more interested in its cause than in Lebanon.  And he got more when he simply condemned Israeli responses to PLO attacks out of hand.  As well as when he dismissed such criticism as Israeli propaganda.Fisk mentions in his book that journalists in Lebanon started to get some criticism for their unbalanced and inaccurate reporting.  As he admits, "Slowly, but with ever-increasing frequency, the Israelis suggested that we were anti-semitic.  Like Hitler and Arafat."  Well, I don't know if some of the critics he mentions, such as Conor Cruise O'Brien and Martin Peretz, actually quite said that.  But O'Brien and Peretz did write about Lebanon and the reporting from there, and O'Brien and Peretz were basically right, while Fisk is basically wrong.  Of course, Fisk says it is the other way around.Part of Fisk's problem is political.  That is, he feels it is a counterproductive crime to attack terrorists who have been murdering one's people and who promise to do more of the same.  He does realize that some people will attack terrorists anyway.  But I think he fails to realize that we ought to expect terrorists to be attacked and that it is a good idea to try to stop terrorism.  Still, that is just a political problem.  The bigger problem is his misrepresentation of the victims of terror, and his misleading reporting.Is this book good enough to be worth a star?  Not really.  But I couldn't find a way to give it zero stars.  Just avoid it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Read something honest instead </p>
+
+
+<h2> review.date </h2>
+  07-29-2003  
+<h2> review.text </h2>
+
+ <p> Mr. Fisk's account of the wars that have ravaged the Lebanese society is peerless. Rarely have I read a book that so realistically depicted the sundry horrors of armed conflict. Further, the books provides the much-needed context to the current situation in the Middle East, and finally exposes all the suffering, the double standards, and key players that have made the region such a complex riddle. And while it covers a conflict that, for one reason or another, has long been forgotten, it successfully makes the reader aware of the fact that the seeds of discontent that were sown in 1948 are still growing to this day.Besides a number of realistic depictions of the horrors of war, the book also dissects the notions of "terrorism" we generally take for granted and thereby shows how the use of language, as well as the manipulation of the media, will inevitably bias our understanding of what is, unarguably, an emotionally-charged situation. As with many a conflict, the book leads the reader to the conclusion that "solving" the Israeli-Palestinian issue will ultimately require nothing less than a region-wide (and honest) effort. Found many echoes of current US policy as well, where the "honest broker" gets sucked into a culture it does not fully comprehend. There are lessons to be learned from this book-lessons with immediate applicability-but somehow I have doubts that the powers that be in Washington have enough cognitive staying power, if not a sense of moral probity, to read it.Absolutely brilliant, daunting in size but altogether satisfying. Anyone who wishes to reach a better understanding of the headlines emerging from the Middle East simply cannot afford not to read this book. Made me wanting more, horrors notwithstanding. If only Mr. Fisk could be more prolific... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heart-wrenching Journey to Hell </p>
+
+
+<h2> review.date </h2>
+  09-07-2006  
+<h2> review.text </h2>
+
+ <p> Chock-full of information and rare insights that is rarely seen.  I must say he is quite exhaustive in his dealings of each side of the various conflicts he discusses and lays everything out on the table so that you see the best and worst of all worlds.  I am ordering his new book as we speak. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must-Read </p>
+
+
+<h2> review.date </h2>
+  05-30-2005  
+<h2> review.text </h2>
+
+ <p> "Pity the Nation" is more a diary of Fisk's travels and experiences in Lebanon than a history of the Lebanese Civil War.  Fisk vividly describes events he sees, but what occurs beyond his literal field of vision is undocumented. As an example, Fisk spends four chapters discussing the 1982 Sabra and Chatila massacre, but only two pages on the 1985-1988 War of the Camps (where Amal killed more Palestinians than Elie Hobeika).Fisk brings to life a few of his reporter friends, but the main political actors of the war are only described from a distance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An impressionistic account, not history </p>
+
+
+<h2> review.date </h2>
+  02-08-2010  
+<h2> review.text </h2>
+
+ <p> Robert Fisk is renowned as one of the world's best foreign correspondents today, in particular on Middle Eastern issues. He has lived in Lebanon for a long time, and in "Pity the Nation" he has written the second of his magisterial chronicles which set out to describe and explain the devastation and strife in the region of the last decades. (The other one isThe Great War for Civilisation: The Conquest of the Middle East.) The title is based on a poem by Khalil Gibran, which describes wonderfully well the degeneration of the great states and civilizations of that area under the pressures of imperialism, religious sectarianism and poverty. Pity the nation that acclaims the bully as a hero, and that deems the glittering conqueror bountiful...Fisk's narrative is about the three great successive wars that have struck Lebanon like biblical plagues in the past period: The first civil war, the Israeli invasion of Lebanon, and the second civil war. All of these followed each other in rapid succession as the multireligious and multicultural state of Lebanon tore itself to shreds, destroyed its unity and its dignity, and in the end barely left one stone standing on the other in what had been a relatively developed and cosmopolitan part of the Middle East. Fisk applies the stylistic techniques and attitude that make his other works so impressive as well: his refusal to take sides, his utter lack of excusing cruelties and violence as being justified by the ends, his dry observing style which allows his indignance to come forth when truly deserved all the stronger, and his careful attitude towards his own position in the whole as a foreigner and a journalist. The people of Lebanon and their destruction of each other and their country are central to the story, not the opinions or ego of Western journalists and the foreign desks of newspapers, as is so often the case with 'popular' reporting by foreign correspondents. This means necessarily that the focus is in particular on the warring parties, and that as a result other groups, whether simply nonbelligerents or (say) the Armenian diaspora in Lebanon, get less attention. But Fisk's greatest asset, his humanity including his refusal to be cynical, allow the damage done to the civilian population to be ever present in the background as the real tragedy, regardless of who wins or loses the political battle.Like Fisk's other works, this is not for the faint of heart: he describes a great amount of cruelty, violence and destruction with very little hope or improvement in sight at any point of the book, and pulls no punches. Whether it be the massacres at Sabra and Chatila or the wars between Druze and Falangists, or the many bombardments of Beirut, Fisk holds nothing back and limbs fly about. Yet he never indulges the violence or enjoys it: he consistently maintains a clear perspective, showing the reader the true meaning of the wars and struggles that opportunistic politicians and religious sectarians unleash on the world when they declare that one simply needs to defeat the enemy and then all the good things will happen. He clearly has very little sympathy for the Israeli invasion of Lebanon and perhaps a deal more for the Palestinian perspective, and this has been controversial. But it is nonetheless fully justified by the course of events since 1947, as long as one does not forget that Palestinian 'leaders' are just strongmen and crooks too for the most part, something many pro-Palestinian authors are inclined to neglect, but which Fisk does not. This is yet another indication of how (relatively) trustworthy and balanced his perspective on events tends to be. That he has a tendency to risk his life by staying in dangerous areas to report, without exaggerating his own heroism in the process, just adds to this.The book is of course very long and detailed, and some people may find it getting repetitive over time. The whole basically reads as neverending hatred and war, and this can wear out even the most inveterate fan of international politics, as long as she still has a working conscience. Nonetheless, it is highly worth it. There is no better history of the Lebanese wars, and a great number of people and organisations mentioned in it are still relevant and affecting events today, often even posthumously. The book ends around 1990, and that makes it somewhat dated of necessity, but the compromise in Lebanon is led by many of the sons and followers of the leaders in this book, and it is undermined by great instability and a range of assassinations. If in the future war breaks out there again, which is not inconceivable at all, many people will look for a guide, and should find it in this book. A thorough index of names will help dispel some of the difficulty with remembering all the different parties and individuals, but it helps while reading to try and keep a list of who belongs to whom and which alliances exist - these shift easily in the dust of the Levant. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pity the nation </p>
+
+
+<h2> review.date </h2>
+  03-22-2007  
+<h2> review.text </h2>
+
+ <p> It is difficult to know what to say about this book. I believe it to be a genuine effort to chronicle Lebanon's civil war and Israel's 1982 invasion of the country in as objective a tone as possible.  For everything written has a "tone" no matter how objective the author tries to be.I believe the facts speak for themselves.  Robert Fisk had first-hand experience of the invasion and subsequent events so this is primary source material and should be read as such.  I read the book originally in order to verify certain historical events as they are presented in a novel "The Scar of David".  When I found these events to be confirmed by Fisk's narrative, I investigated further by searching the Internet for additional verification and found it.  All three sources do not present Israel in a particularly flattering light.  Is this the result of bias, of anti-Semitism, or simply evidence that the country has behaved badly on occasions?The massacres at Sabra and Chatilla and the shelling of United Nations headquarters in Lebanon in 1996 are historical fact, as is the Holocaust.To deny that they happened, or to accuse Fisk of anti-Semitism because he focuses on these events, is to approach the evidence with a biased eye in favor of Israel.Is Fisk critical of Israel? Yes, he is.  Is the criticism justified? I believe so.  The horror of the Holocaust has made something of a sacred cow of Israel and with good reason.  Six million dead is a figure that is difficult to ignore.  But Lebanese and Palestinians are human beings too, and they have suffered as well.  If Fisk had any intention in writing this book other than pure journalistic coverage, I believe it to be to point this out.I have read no other books on the subject other than the aforementioned novel, so I cannot compare Fisk's book to anyone else's coverage of events.  Is he thorough? Certainly.  Is the reporting comprehensive? Possibly.  Is the graphic depiction of the carnage necessary? Probably not.  But it is effective. Is the U.S. complicit in its unwavering support for Israel?  Almost certainly.Is the Palestinian terrorism justified?  Are Israel's responses to it proportionate to the offense?  These are difficult questions to answer, and  I can only offer something I read recently in another venue; "ideal justice, however yearned for, is beyond direct human experience".We can only pity the innocent, and yes, pity the nation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not for the faint of heart </p>
+
+
+<h2> review.date </h2>
+  08-31-2003  
+<h2> review.text </h2>
+
+ <p> This is a wonderful book and one of its kind.  No other book deals with the entire Lebanese Civil war from 1975-1989.  Other books like 'From Beirut to Jerusalum' and 'Israels Lebanon War' deal with segments of the conflict.  This is an important work and all the more so because of Mr. Fisks first hand accounts.Unfortunatly like all the other books on the mideast this book does contain bias and hypocrisy.  Once again Mr. Fisk whines about the hardship of the palistinians.  We must understand that Mr. Fisk, like all Jurnalists covering the civil war, was taken in by the Palistinian propoganda machine.  Mr. FIsk does not level the same criticism at the Syrians that he does of the Israels when both of these countries where involved in similar incidents in the Lebanon.  Mr. Fisk like so many biased authors also overlooks the virtual ethnic cleansing of the christians of Lebanon. But for these flaws this book is far less biased and sugarcoats the Palistinians far less then many similar works.  I truly recommend this read to anyone who can stumach the 700 pages. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read, informative, some hypocrisy </p>
+
+
+<h2> review.date </h2>
+  01-08-2004  
+<h2> review.text </h2>
+
+ <p> This book is a heroic account of the suffering and tragedy of this small but historically significant nation.  I have read several other books regarding events in Lebanon in the last thirty years including &quot;Israel's Lebanon War&quot; and &quot;From Beirut to Jerusalem&quot;.  I appreciate the author's commitment to journalism and to the people of Lebanon.  The main complaint I have is that his years in Lebanon have biased his outlook and clouded his judgement.  I find that many Westerners tend to hold Israel to higher standards than her Arab neighbors.  This is a racist point of view to take. Why is it understandable for us to hear of Arabs slaughtering Arabs (and un-newsworthy as well), yet if Israel has the slightest involvement even as bystanders in a war crime they are smeared all over the media?  One walks away from this book with the belief that most of Lebanon's tragedies never would have occurred had it not been for Israel.  Read &quot;From Beirut to Jerusalem&quot; to get a view less biased of Israeli involvement and this book for the scale of the horror that has occurred in Lebanon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tragedy of Lebanon effectively blamed mainly on Israel </p>
+
+
+<h2> review.date </h2>
+  10-11-2012  
+<h2> review.text </h2>
+
+ <p> Robert Fish aspires to be a totally objective reporter, so after reading the book one gets the impression that no side is really that good and no one is really that bad in the Lebanese War, although the Israelis show a propensity to lie about their own killing of civilians. But Fisk reminds us that there are some good Jews who deplore the mistreatment of those in Lebanon while the Israeli army occupied it. He is against the use of the word terrorist for any group in the war and thinks Israel is delusional about terrorists, which has lead to more slaughters of the innocent.Different ethnic groups we're fighting each other during the war who were allied to Islam, Christianity, or Zionism. There was also a multi-national force of French, Italians and Americans and UN troops trying to keep the peace. The Christians wanted to dominate Lebanon, but they were a minority in that country and could not hold on to power. The Christian Philangists also had some elements of German National Socialism because its founder, Pierre Gemayel, was impressed with the discipline on display during Hitler's 1936 Olympics. He wanted to replicate such discipline in his own country. The Zionists allied with the Christian Philangists during the Israeli occupation of Lebanon. The Israeli troops allowed the Christian Philangists to slaughter the Palestinian civilians in the refugee camps of Lebanon. The most logical thing happened: Syria took over Lebanon in all but name, since it is predominately Arab and used to be part of the Ottoman Empire.The Israelis are sitting on what used to be Palestinian land. Israelis bought the land or moved them out through terrorism. The Palestinians have been in the refugee camps for decades waiting to return to the land and they will not take monetary compensation for it. It seems that the Palestinians have not been assimilated in Lebanon. It may have been an option just to take the compensation and become Lebanese. Fisk does not explain why they have been left in a refugee camps for so long. But many Lebanese look down on Palestinians.Fisk mentions the Israelis' obsession with terrorists and to them just about every Arab man, woman, and child is a terrorist. They would bomb in civilian areas because Hezbollah would often locate their weaponry near there. The United States provides Israel with a lot of its weaponry. Fisk has one harrowing account of phosphorous burning into bodies which cannot be put out easily. Israelis use the phosphorous to inhibit anti-aircraft guns.  In Sabra and Chintilla, he smelled the dead bodies of the victims which could not get out of his clothes. In Qana, he found out that the Israelis used a drone before an attack on a UN refugee camp. The Israelis knew they were bombing in a civilian area but denied it. The surgical precision of bombs is a myth; they are often off the mark and kill innocent civilians and end up bombing places like hospitals and schools.The book is engaging in some places and others not. It is a really long book with fine print. Sometimes I wished that Fisk would summarize more and just hit the highlights. It's nearly 700  pages, with regular print it would have easily been a thousand. I had a moderate interest in the subject and had heard that Fisk was a respected journalist. It is not a book for the casual reader, but one for those who want every detail of the war. I usually like books that around 200 to 350 pages. I got bored with all the blood and killing with no villains and no heroes and sometimes took a vacation from the book and then found enough discipline to work my way to the finish line.Fisk is not a lazy journalist. He didn't sit in the Commodore Hotel waiting for news over the wire like some other journalists. He believes that you need to go around the country to the battlefronts and the fighters to actually find out what's going on. It's dangerous work to bring real news from the front. He was one of the few journalists to stay in Lebanon after journalists were being kidnapped. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Deep Inside the Hellhole </p>
+
+
+<h2> review.date </h2>
+  06-09-2013  
+<h2> review.text </h2>
+
+ <p> I started reading this book because my grandparents are from Lebanon. However, as a read the preface and looked over the time line I realized that the author left out some pretty amazing events - like the invasion of Lebanon from Iran's Hezbollah.That event and the jihad called on Lebanon by Yassar Arafat are important events that has lebanon it the state it is today. I was hoping for an unbiased point pf view of the author, but that is not the case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Book told from a certain point of view </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

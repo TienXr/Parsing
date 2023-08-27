@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002N60BKS <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Long range and long life </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-08-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought one of these three years ago and have never had an issue with it. This is the best remote I have ever used! I haven't even needed to change a battery yet. This thing is hooked to my camera for 60% of the time I have used my camera. Buy more expensive remotes and you're paying too much. This one will do what most people need.I use it on my D300 and it will work with any camera that has a multi pin plug-in. Its wireless range is pretty long. I used it once with the camera 60 feet away outside while I was inside snapping shots of birds.I also use this for studio macro shots where the camera must be absolutely still. I don't use the wireless feature in this case since the curly cord buffers vibration. So you actually get two remotes in one: one for long range wireless and the other for direct wired remote.This thing is very simple to set up and use. I barely read the directions and figured it out in no time.The best thing this remote has over other wireless remotes is that it uses radio frequency instead of infrared. This means it works well with a wall or obstacle in the way, where infrared needs a clear line of sight. Infrared also does not have as long of a range.Durability has been great. I pack in in my backpack and take it on trips; never broken on me. I have also stretched the cable and it never came loose. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Better Remote </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like this remote a lot. It plugs in easily to my Nikon D700 and I mostly use the cable rather than the remote since it is on a wire that extends. It fires every time and is not tempermental like some remotes tend to be.  There is occasion where the cable will become detached from the camera from the bottom plug if you in advertly put pressure on it. This is more my fault than the manufactor because I like to carry my camera on a tripod over my shoulder when hiking rather than use a backpack or camera case. I highly recommend this product. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exactly as described. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Looks a little silly on a D700, but for shooting at night, or for self-portraiture with the family, the device works perfectly.  If it looked a little &#34;sexier&#34;, I'd give it 5 stars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Usefull, but buggy </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-23-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This device works well for single shots, but when I put it on continuous, it had a lag, and then it kept taking a picture every 2 seconds, I had to finally unplug it from the camera to get it to stop. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> By Trial and Error and in spite of the "manual" </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-05-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The product comes bundled with a 10 page "manual" the size of a credit card. Perhaps I'm giving this product a bad rap IF it shipped in the broken state, let me explain:My problem is with the receiver, that unit that mounts on the camera's hot shoe. Assume that I have observed polarity when installing the battery. The interconnecting cable can only attach one way and the connectors are fully inserted to their mates. The receiver has three controls, (1) slide switch that is labeled "ON". (2) pushbutton switches, one labeled "Set/and a symbol that suggests a timer" No description is offered, and the third pushbutton is labeled "Hold" ..... or is that label associated with the "On" slide switch?Nothing worked when I made all of the connections and provided battery power. Incidentally the battery tested fully charged. The "manual" suggests that the unit ships in the "synchronized" condition ready for use with my Canon EOS 50D. No lights were illuminated. So I run the components through the "Sync" mode to resynchronize the entire system. Finally the two lights on the receiver came on as designed and the unit worked.How do I shut this unit off? Using the slide switch and moving it away from the "On" position did nothing, the light continued to glow. The unit continued to operate. Removing the battery from the receiver was the only way I could turn power off.What happens when you reinstall the battery in the receiver and move the slide switch to the "On" position? I'm back to square one having to follow the step by step actions I've described above.I called the seller. I'll be kind and not disclose his name. His literature boosts of outstanding customer service that sets him apart from the rest. WRONG. Three calls to the seller were a waste of time. Call the manufacturer they suggested or just send the product back. Do I need a return authorization? "Nope, just send it back and we'll give you credit." Who pays the freight?I called Vivitar tech support and got someone with an accent so thick I couldn't understand much of what he said. He suggested I remove the batteries from my camera to resync the marriage of camera to wireless remote.So once I know what the 3 button controls are to be used for on the receiver, and how to turn the unit off I'll be in tall cotton..... no doubt.UPDATE 12/21/2012It took a while to determine what the controls actually did on this wireless remote. IF it continued to work it would have been a useful piece of equipment for my photography business however it no longer works I'm sad to report. After attaching the receiver to the hot shoe mount on the camera and powering up the shutter release and depressing the transmitter to trigger the shutter the shutter will fire continually until you either power off the receiver or depress the transmitter trigger again. I've put a total of perhaps one hour on this unit. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Remote control for my Nikon D300 </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Although I have yet to use it, the design and manufacture seems to be well thought out.  I would recommend it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My second one. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought one for myself for my D700 it works famously. Moved up the the D800 and again functions well. When the wife got the D800 her IR remote she had for the D7000 would not work on the D800 so we purchased another Vivitar and would recommend it if you are looking for a reasonable wireless remote. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent value for the cost </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Took me a few minutes to figure out how to get it to work wit the camera, but once I did, there is no looking back. I originally thought the transmitter HAD to be on the hot shoe attachment, but it doesn't. Only challenge is the inconvenience of having the wire hanging from the front of the camera if you don't remove it when you are not using the remote, but worth the hassle of removing if it bothers you. I just recently read a suggestion to velcro the receiver to your tripod leg and I think it is a great idea and will do that so that the receiver does not just hang there when I am using a flash AND the remote. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This is a great remote </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-21-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> EDIT:  I have now had this Wireless Shutter Release over 3 years. It is still going strong. I use it all the time for HDR photography and haven't had one bit of problem. I paid just under fifty bucks for this back in 2010 and I would pay that again even though it's going for twenty less than that now. Haven't had to replace the battery yet. I have probably used it for 20,000 to 30,000 photos. Also use instead of camera timer when taking family photos and I'm in the picture. I can trigger the camera when ready as the remote is small in your hand. I have triggered the remote from a couple hundred feet away.  Still recommend.Original Review:  I bought to use with my Nikon D300s.  I use this camera mostly for HDR and this remote is perfect.  I like that I can use wired or wireless, sort of a bonus.  I am never more than a few feet away from my camera while shooting so I don't have any real distance tests.* Will work with auto-bracketing!  Small and tucks into small pocket in camera bag. Would be nice to have a case.  Transmitter is about the side of a bic lighter.  Receiver is the size of a zippo lighter. Cord that connects the receiver to the camera is coiled nicely.  You can stretch it about 3 feet (1M) before it pulls on the camera.  It screws to the camera, and fits tightly.If this receiver had Nikon instead of Vivitar, it would cost $200 more.  This thing is an extreme value for what it does and what you pay.Just get it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This one worked </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'd purchased one of Vivitar's wireless remote shutters for my Nikon D700 and the first one I received didn't work -  I think the battery must have been dead. This worked and it's a great addition to my camera gear for those shots that are too awkward to take because the cameras on a tripod and too high or low to make being behind it comfortable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A handy tool for tripod shooting </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This remote works as it is advertised to do.  The receiver is light and is able to be put on your flash shoe but it is also made of plastic so it can be a bit rough going in.  The transmitter is also light weight and compact unless you pull out the antenna.  It works fairly well from about 30 feet away without the antenna pulled out but much farther than that you will want to extend the antenna.  This really only comes into play when you have a large group that you need to photograph and you are part of the shot, but some careful planning and placement will help you hide the antenna.  Once you get it set up the first time you should be able to "plug and play" and it's an easy thing to throw into your camera bag or pocket and carry with you. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've had several different types of remotes for DSLRs, on three different cameras. The best one by far is the one that came with my D7000, but it will not work with the D300 or D800. The D7000 gave up the ghost a while back, so I went for the upgrade to the D800 because as a professional photographer I figured I should have more professional gear. You would think they would have built that functionality into such an advanced camera, but no, you must purchase devices that plug into the 10 pin jack like the D300 has. The Nikon version of this costs about $150 bucks, and the wired one about $60. This Vivitar Wireless Shutter Release does most of what the Nikon part does for about half of a wired remote shutter release. I use this thing everyday, all day and have for a few weeks now - the battery has not worn out in either the receiver or transmitter. It has not failed me yet. I will let you know if it does! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Does it work? </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-27-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Arrived in a perfect package.The transmitter appears to function - the LEDs come on.The receiver will not activate.  The new battery for the receiver is OK.Returned for refund.  Will try something else. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works Great with Nikon D300S </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-29-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This remote works great with our Nikon D300s and for much less than the "Nikon" version of a remote trigger this is a great deal. Definately recommend. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great wireless shutter release </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Vivitar remote is an excellent addition to my camera bag.  The remote is easy to setup and use.  It makes portrait work with my grandkids easier, and a must have for night photography. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Working great for a year now, but... </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love it, it works well, and I don't see why people campaign about the build. I use it on a D300. My one complaint is that it needs to go somewhere, so it sits in the hotshot - which makes it a pain when you want to use a flash! But it can just hang down in those (for me) rare times. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

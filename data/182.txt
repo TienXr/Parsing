@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00005094J <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A must see anime </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> There's not many things that can make me laugh, stare in awe, live to the actionful events, and almost cry seeing a favorite character sacrifice himself for the one he loves.This is probably one of my favorite animes just because I found myself fighting to watch a little at a time rather than the whole thing at once. The best part is that they show everything that happens, no slashes across the screen, and it's very bloody with incredible ideas for enemies and battle tactics. I strongly recommend this anime for your collection. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> AWESOME HIGH BUDGET ACTION-PACKED SHORT ANIME SERIES!!! but the dub was... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-14-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> A fantasy horror anime that will touch your heart!!!!Not only that! there is also love, a little comedy, BLOOD and GORE, adventure, suspense, dark settings and ACTION!Note: The first four episodes are kind of "low budget" but there are gory and action-packed! The last three episodes are POWERFULLY  HIGH BUDGET but there are kind of childist and the blood and gore were tuned down a little.About the dub:I preffer the original dub! this one is not so powerfully emotional as the original and the voices were not THAT great. I think that the acting and dialoge were better but the emotions and voices were not SOO great!!Pai voice could be a LOT better!!! So I preffer to heart it in japanese.adios. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It is the most enjoyable anime that I have. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-06-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I only have the VHS from Streamline/Orion Video. That story is the Immortals,the 1st half of the collection. One must remember how old this story is(the first 1/2 is 17 years old)so the "Anime" is what you should expect from that era.As for myself...It is the most enjoyable anime that I have. I am sure that numerous people would disagree with me. When I first started to watch it I just went...crap this is going to suck...yet after about 15 minutes I was drawn in and it did not let up from there on out. I am not a huge fan of anime but after coming across & watching 3x3 Eyes(which had sat in my closet for many,many years)I have recently gotten back into it. In my opinion it is far better than Akira. I have ordered the Collectors Edition and am looking forward to it.There is on thing that I wonder about....if the other two disc's that are sold seperately are the same story what makes this so expensive? I have read nothing about massive extras that come with the Collectors Edition. Is it all about the dubbing? Does anyone know? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Two stories, two goals (and monsters in the way) </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> 3x3 Eyes was one of those not so 'normal relationship stories between a boy and a girl' from the early 90's.  The set is a compilation of all 3x3 Eyes anime to date.  This is definitely a region 1 DVD so those out of the US stuck with a non-region 1 DVD are out of luck.Immortals is the first half of the story, and is about Pai's (the triclops) quest to becoming human, but she needs the help from a boy called Yakumo; who she has been looking for, for four years; and an ancient statue.  I just so happens that an evil cult is also in search of this statue at the same time.  The main characters are loveable.  Yakumo is a silly character, but means well.  He is also a hopeless hero does his damnedest to protect Pai in times of danger.  Pai is a dual personality character.  Most times cute and innocent, but the triclops character the opposite, but rational.  The art from Immortals is dated, and perhaps slightly inconsistant.  It was made at a time just before the use of bright and bold colours which is common in current day anime.  The story it self has a good mix of action, monsters, comedy and drama.The Legend of the Divine Demon is the second part of the series, and takes place some four years after the end of the first part.  First of all, the style of art is noticeably different to the Immortals, but it does not alter the fact that it is a continuation of the original story.  This time the story starts with Yakumo in search for Pai.  When Yakumo does find her, Pai does not remember him, or the events from four years back.  The original plot from Immortals takes a back seat in this installment of the story, which is basically about regaining Pai's memory, which in turn uncovers some other, perhaps unnecessary, convolutions in story.  I would suggest people start the second disc with no expectations for it to be like the first disc. This part is certainly less comical, the characters are less likeable, but the action remains about the same.  Yakumo is much more confident in fighting, although his adversaries have also gotten stronger.Over all it is a good story to watch, there are strong themes of devotion and friendship, so it's not the regular mindless action  for no-reason story. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Strong in story and mood </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-16-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> This anime appears at first to be a typical horror genre film, but reveals itself over time to be a remarkably good story. Don't let reviews from people who fail to follow the story through mislead you, there is a cohesive and well-written story here. Imagery can be very violent and bloody, be forewarned. Classic storytelling themes are well played here - the heroes are determined to move forward to meet their fates, victories come with their price, the "heavies" are truly frightening yet the true battle occurs (as with any good story) within the characters themselves. Imagery is well done but dated, editing is excellent, the english voice acting and translation is awful (I ordinarily prefer the english translations but in this case suggest watching these DVDs subtitled, as the translations of the subtitles carry the story far better than the english dub.) Overall I would say that this is a relatively unknown series to english-speaking audiences and that it shouldn't be so. Fans of anime classics like Akira, Armitage etc will enjoy this, as will fans of American supernatural-themed stories (Buffy, etc.) I'm comfortable saying that the people who take a chance and purchase this series will probably be glad they did so. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> awesome </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-23-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> The two-disc Collector's Edition unites two linked stories, although the appearance of the characters and the style of direction change between them. Pai is the last Sanjiyan or holy demon: the rest were exterminated 300 years ago when their king, Kaiyanwang, turned to evil. She's spent the last three centuries trying to become human. In Japan, Pai meets Yakumo Fujii, whose scientist father discovered that transforming a Sanjiyan into a human requires the "Statue of Humanity." The evil creatures who hope to resurrect Kaiyanwang also want the Statue: Pai and Yakumo challenge them in a series of bloody battles. Pai turns Yakumo into a Wu, a spirit whose soul is bound to her own and who cannot be killed while she lives. Yakumo falls in love with her, although it's difficult to understand why. Immortals ends when Pai and Benares, Kaiyanwang's chief henchman, disappear in a violent explosion. Realizing that Pai must still be alive, Yakumo vows to search until he finds her again.Divine Demon picks up the story four years later: Pa-Bo Ayanokoji believes she's a typical high school girl who likes to hang out with her friends. Her world is shattered when Yakumo reveals she is not a human, but Pai. Kaiyanwang is about to rise again, and his servants are trying to kill Pai, who can challenge his power. Pai's memories of her life in the blessed realm of Kunlun have been blocked by a spell; Yakumo takes her to Tibet to break it. Along the way, he fights assorted villains led by the sniggering Choukai. Pai and Yakumo cross the barrier to Kunlun with the aid of treasure hunter Jake Macdonald. There they battle both Choukai and Benares. Both stories end on weak notes, with enough plot strings left hanging to form a fringe. In Immortals, the viewer never learns what becomes of the sinister Mrs. Wong, the Statue of Humanity, or Yakumo's group of friends. In Divine Demon the expected confrontation between Pai and Kaiyanwang fails to materialize. Contains these episodes: 1. "Transmigration," 2. "Yakumo," 3. "Sacrifice," 4. "Straying," 5. "Descent," 6. "The Key," 7. "The Return." Rated 16+: considerable violence, minor profanity, and nudity. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Boring for quite a while. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-01-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> Those who have seen this, you can probably agree. The characters in this film are weak. They are bland and lack any real interesting motives. Seriously. Everyone just shows up and bands together to open some demon portal which then leads them to caves and crap.The animation is fine. The japanese version is okay to my recollection. The English Dub is horrible though. I have never heard such terrible voice acting. Who did the laughs for these characters?The dubbing obviously doesn't do the series justice. I also think it is relatively boring throughout most. Once it gets near the end things start to pick up. Watch the Japanese version though. Unless you wanna hear that laugh 50 billion times. You know.... HAAAA hahahaa. HAAAA hahahahaha. HAAAA hahahahha. That one, the annoying one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing on one hand; disappointing on the other </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-06-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had been waiting for the release of the second half of 3x3 eyes like FOREVER.  I love the story between Yakumo and Pai, the monsters, the sanjian... the first part of the series is very much worth owning.The second half... well, the animation style changed, the characters changed and nothing came close enough to the manga for my tastes.  It's like they waited so long to get to the second half that they lost track of the story.  Plus, it honestly doesn't seem to end there, so the ending is depressingly vague.Still, the soundtrack is pretty good, and you have to love cute little Yakumo. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Plot? What plot? </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> This fantasy, horror anime is average. Due to its lack of plot. Cute girl with strange powers. An immortal servant who protects her. Demons and fighting and loads of action. Even a slice of comedy. This should be a classic, right? Wrong.Those of you that said CLASSIC. Not Really, yet we're not drenched bad either. They retold the story of the manga. Well, didn't really retell...they just animated what they thought were the best parts of the manga. The plot often jumps and then says bye, bye! If your planning on purchasing this DVD, I'd recommend reading the manga first.That being said, this is STILL good anime we have here. While the original episodes of this title are over a decade old. The main disappointment of 3x3 Eyes was the disjunctive nature of the plot, but the ending was anti-climactic and very disappointing, but a good excuse for a second OAV series to occur. The setting was hard to distinguish. (Am I in Japan, Hong Kong, or California?3x3 Eyes would probably have been better served as a television series, instead of 4 episodes that are 30 min long.Gory, action-packed anime that could've used more of the plot that the manga originally had. Not recommended, but if you read the manga...go right ahead. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> amazingly creepy </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-06-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> i recently saw this title and let me tell you, it is weird, gory creepy, and very very cool! this is a true horror/love story classic that redefines the term "horror". the animation was incredible, the gore is just perfect for all you blood fans, and the twisted monsters are enough to make you s#&t; your pants! a must see for fans of dark, demon busting anime.rating 13 up: considerable violence, minor profanity, and nudity </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It could have been many things... </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> 3x3 Eyes is driven by a very strong and original plot, but the overall atmosphere is just too gloomy for my taste. Even daytime scenes come off as dark and brooding, somewhat reminiscent of Batman films.The main character Pai is a sweet young girl who wants nothing else but to become a full-fledged human being. She doesn't even know that like the Incredible Hulk, she's just scary when she's angry. A third eye appears on her forehead, and the incredible powers of the Sanjiyan become manifest. In her Sanjiyan form, Pai is merciless -- the total opposite of her usual self. Helping Pai on her quest for humanity is Yakumo, an ordinary guy with a not-so-ordinary job (which involves cross-dressing). A romance between Pai and Yakumo develops in a realistic and believable pace, and the innocence of the two characters is a great contrast with the violent setting, giving 3x3 Eyes a certain freshness and distinctive twist.3x3 Eyes is one hell of a blood and gore fest, and the scenes are shown in their full, horrific glory. There are also a lot of occult elements like demons, evil spirits, and possession. What ruined this series for me is the artwork. None of the characters look any good. Faces are drawn in a pudgy manner that's just annoying to look at... which is a far cry from creator Yuzo Takada's original artwork. The English dubbing is quite satisfactory though, and I didn't notice anything amiss.3x3 Eyes could've been a great series. In fact, there are a lot of things it could've been -- if only the visuals were better. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 3 X 3 Eyes (Collector's Edition) </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love the series but wish main characters would finally meet when Pai finally becomes human so Yakumo can convert back to being human and they marry. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What's there's awesome. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-05-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've got the original VHS of the first part of the story, and what's there I love.Problem is what's NOT there.  Any resolution at all.  I understand the thematic reasons for doing this, they were planning on more to follow.  Yet apart from one more series with the same ambiguous ending nothing HAS followed.That's the biggest flaw here, they were banking on a continuation that never appeared.  It's like DaVinci's unfinished paintings, 3x3 Eyes may be beautiful, but it's not completed and so not worth nearly as much.If ya don't mind having no ending to a story you get involved in, check it out.  The disjointed parts ARE very good, but that doesn't detract from the fact that they are disjointed.You may really want to rethink buying this if you were doing so hoping it resolved anything.  They've been quiet on this for so long it's doubtful we'll ever get a complete story.  I'd just go buy the manga series, or just get Visions of Escaflowne.  They actually bothered to FINISH Visions. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

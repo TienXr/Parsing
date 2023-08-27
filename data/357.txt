@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 162030421X <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> I have  never worked in a high education establishment but I am getting a glimpse through Ariffa's book that this is how life would be there. Full of queens, scholars and obedience, where grammar and foreign languages matter. This is a beautiful metaphor of a castle of knowledge and its internal struggles during a not-very-successful reign of Delilah. Helena will be the only one to see that the empress has no clothes and will say so. And she becomes queen and we are left to believe that the darkness is lifted from this kingdom forever. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A creative metaphor for education </p>
+
+
+<h2> review.date </h2>
+  12-31-2013  
+<h2> review.text </h2>
+
+ <p> Kingdom of the Sun by Ariffa Bevin is a modern day Kingdom story set in fictitious country Sooryan.  This people of Sooryan historically value education, knowledge, and independence above all else, but little do they know that another country has taken over their country long ago.  Scholars Assistant Helena has decided that she is not going to take it anymore.  The Queens provided by other countries, Daisy and then Dalliah, are both incompetent and do not have the best interest of Sooryun&#8217;s people in mind.  Helena quickly decides that she has to do something about it.The most intriguing aspect of this story was how Sooryan handles education.  In Sooryan the people value the different skills of all people and believe that each career is as important as the others because they all help the community as a whole be successful.  As a result the educators (A.K.A. Scholars) gear their classes towards that goal.  Kingdom of the Sun is a great short story.  Add it to your list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful short story </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> Truth, hope, honor and happiness are great ideals to build and maintain a kingdom.  Kingdom of the Sun is a great novella where these ideals are challenged when confronted with deceit, greed and deception.  One scholar, Helena, recognizes the importance of standing up for these ideals, even if she stands alone.  Her journey is a lonely one, but very worthy of the kingdom she loves.Ariffa Bevin is masterful with her words and the fantasy she creates in Kingdom of the Sun.  This was a well-written and intriguing story that left me searching for more.  I hope to come across more of her works because I certainly enjoyed this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantasy novella </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> New author Ariffa Bevin was born in the Virgin Islands and now lives and writes, thinks and shares her solid concepts of education in Binghamton, New York.  Her beautiful first name Ariffa `means one who loves God, to know what God has done for us, mature, and one who is well educated. All of the above describe me well, and I hope that His light is able to shine through me and my words.' From her childhood we learn that before she even started kindergarten, she knew how to read, write, and spell at a level well above kids her age. That now spills into this novella, her debut work as a bonafide author.KINGDOM OF THE SUN opens with a ceremony instating Delilah as the new Queen of Sooryan as observed by The Scholars and those who would become Scholar Apprentice, Helena and Sadine. We are not privy to the origin of Sooryan, nor do we have very strong impressions of the details of characterization of Helena and Sadine. At this point it is easy to lose interest in the story, but the seeds of a fine idea are present. The author summarizes her tale best: `Kingdom of the Sun, tells a story about the modern-day kingdom of Sooryan that was founded and built upon the belief that education and its teachers are the key for a successful and triumphant kingdom. Although Sooryan indeed becomes a powerful kingdom, these ideals become less of a priority as the kingdom gets older and receives new leaders. As a result, the story opens with Sooryan in economic, political, and educational turmoil. The story follows the protagonist, Helena, who finds herself in an unfavorable societal status but is still the one person brave enough to make a change. The central message of hope, honor, and happiness ties into the book's many themes that include history, education, compassion, and of course, change. Kingdom of the Sun signifies hope out of turmoil and struggle and hope in one's self. It honors educators and also represents how honor is given and reflected when someone is seen and respected for who they are on the inside. It finally signifies the happiness that comes from enlightenment and it defines the meaning of true joy.'Reading this short novella is rather like passing by a doorway where something indistinct is happening but we only catch brief particles. Ariffa Bevin writes from her heart and her motivations are sound. With time she will likely be able to describe her characters in a more three dimensional sense and in doing so gain the reader's ability to identify with people rather that simply ideas attempting to become actors in a play. The sincerity is there, and Bevin certainly has valid philosophical and practical points to her writing and those are compelling. Perhaps placing her next novel in a real place rather than an ambiguous `otherland' will help to resolve this challenge. Grady Harp, February 14 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Truth, hope, honor, and happiness </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> I don't know exactly what drew me to this book, perhaps the title, or the fact that it was a new author, which I always find exciting. I wasn't even sure what it would be about, but by the end of the first page, I could tell that it would be an exposition-heavy adventure into a strange world that oddly reflects our own in traditions and beliefs, but little else. I love fantasy, and this world of Sooryan held some promise in the early parts of the book. As I moved forward, however, I found that the author spent too much time, perhaps, trying to make the fictional world real and populated by facts, characters, and details, which weren't necessarily essential to the plot. Helena is a strong and well-written character, but there were moments when I lost track of what the real plot progression was because Bevin was trying to solidify the thorough creation of her fictional kingdom. All of that aside, I found Sadine to be an interesting foil, Helena to be an unlikely but likable heroine, and the underlying messages and themes to be quite thought-provoking.The book touched on ideas that are relevant to our world, including gender roles, challenging authority, political systems, anachronistic beliefs and the struggles to overturn them, and a number of other subtle themes that delicately wove into the plot. I am sure this was intentional, and as juvenile as some of the prose and dialogue was (as well as slightly too modern for the fantasy landscape of castles and kingdoms), it was still an enjoyable, short novella that shows real promise. I hope that Arrifa Bevin continues to write, because she does have a gift for words, but perhaps focus more on developing a strong plot supported by believable characters. From there, any fictional world will seem more believable, regardless of how many intricate details you explain, particularly in a novella that should be more plot-focused to begin with. Overall, nicely done. I look forward to seeing more from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thought-Provoking and Creative </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> In the fantasy kingdom of Sooryan, one scholarly assistant steps out from the shadows and rises up.  The kingdom historically prides itself on scholarly pursuit and personal freedoms.  Over time, the pillars of the past are slowly crumbling, at such a rate that it's fairly subtle.  The reality becomes more apparent as the political and economic turmoil progress.At roughly 100 pages, the novella is perfect to finish in one sitting.  I enjoyed the fantasy created by Bevin as it provided a great intro into this wonderful place.  I look forward to other works by the author because I appreciate her talent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantasy kingdom </p>
+
+
+<h2> review.date </h2>
+  06-30-2014  
+<h2> review.text </h2>
+
+ <p> &#8220;Don't limit a child to your own learning, for he was born in another time&#8221; - Rabindranath Tagore&#8216;Knowledge is power&#8217; this centuries old thought has always held weight to support its claim, continues to do so and will be the cornerstone on which our future will be established. The statement has lost nothing in terms of relevance or significance; and what can impart good knowledge in society? It&#8217;s education, for education is the constant prerequisite for political development, democracy and social justice. Education empowers all, and education promotes greater participation from amongst the many manmade and naturally occurring differences in humankind.Now only if the education we were imparting to our younger generation through schools and colleges could fully deliver the message discussed in the lines above. In today&#8217;s world, the one thing that unites developed and developing nations is ironically, the voices of dissent with the education sector and the quality of knowledge imparted. And it&#8217;s the same thing everywhere, everyone knows that a problem exists and gets together to address the matter in an almost uncanny manner everywhere. There will be meeting and conferences attended by a few educators and a lot of panellists and spokespersons representing the government, there will be keynote speeches, power point presentations, food and recreational breaks, a media op towards the end with a promise to return soon for a revisit of this circus act.But the woes that afflict education, the falling standards, incompetent & absentee teachers, the out of touch with reality syllabuses, which all contribute towards the mediocrity of the next generation who can&#8217;t be employed or can be counted upon to contribute towards the cause of nation building, are all but ignored and remains incurable in spite of the many &#8216;ideas&#8217; that sprout out of such aforementioned educational meetings.But this wasn&#8217;t the case with our education sector in the past; we&#8217;ve had some pretty bright and impressive centres of learning imparting knowledge in such a detailed and disciplined manner that it would leave today&#8217;s teaching administrators tongue tied and embarrassed with their supposed &#8216;modern&#8217; ways. One among the jewels in the advanced centres of learning of the past was the Takshashila University in ancient India. In its hey days it was more famous and known for its teaching prowess than all of today&#8217;s top universities put together. It used to host students from all parts of the world who could specialize in over sixty four areas of study ranging from learning about philosophy and literature to warfare, astronomy and decryption of ancient languages. Students who got admitted on merit, once they graduated would pass out as world renowned scholars with in depth knowledge in their elected subject of choice.In author Ariffa Bevin&#8217;s novella, &#8216;Kingdom of The Sun&#8217;, we are introduced to such a Kingdom called Sooryan that was famed for its education and knowledge imparting institutions, a Kingdom founded and built upon the belief that education and its teachers are the key to a successful and triumphant kingdom. Although Sooryan achieves its goal of becoming a powerful kingdom, the principles on which it was built soon starts rusting as they are ignored with the passage of time and the coming and going of new leaders. This inertia soon finds Sooryan facing all sorts of political, cultural and financial turmoil. And with a new queen Delilah who appears to be too blind with power or ignorant of the ground situation and refuses to take the help of the Scholars and the Scholar Apprentices to rectify the rotting education system, the occasion appears ripe for a change. This is when Helena, one of the Scholar Apprentices decided to fight back, takes on the entire establishment and faces the many hardships and pains it bring forth, Helena manages to bring actual change that everyone wanted but lacked the courage or conviction to go and do on their own.Kingdom of the Sun honours the many educators and administrators toiling away behind the scenes, working tirelessly, facing many hurdles and mounting insurmountable hardships and more often than not for very small victories and successes. And yet they continue to do so, carry on with the many numerous battles, because only someone who cares or tries to bring in change will ever know the supreme satisfaction and happiness that you get when you see your work bring in the change that you set out to achieve.You need to get past only a couple of pages to realize that it a good place from where the author Ariffa Bevin writes and that her intentions are very much sincere. Bevin's fantasy world is an allegorical, exposition filled narrative that resembles our world in on so many different levels. The messages, ideas and thoughts that she conveys through her main character Helena are thought provoking and makes you want to question the systems in place today that prevents our younger generation from getting the education that they deserve. Some of the lines clearly denote that this isn&#8217;t just another story that the author narrates but is a subject that is very close to her heart and something that she cares for deeply. Helena makes some very specific noise on the impact of unbridled use of technology, especially among the youth and the negative effect that rapid industrialization and globalization has on our society, from making everyday living easy and comfortable to how it has started to make us lazy and lethargic.I recommend Kingdom of the Sun to anyone who still believes that a single person&#8217;s determination and courage can bring about gargantuan change in our society that will benefit all. The story will appeal to all who believe in the power of change; Ariffa Bevin&#8217;s sincere voice carries through her choice of words and the world she has created in Kingdom of the Sun and long after you&#8217;ve finished reading the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Naked Queen &#8211; A review of the novella &#8216;Kingdom of the Sun&#8217; </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> At just 110 pages long, Kingdom of the Sun, by Arrifa Bevin, is not the most economically priced novella in Amazon's kindle library.  Particularly given this is Bevin's first book, she may entice more new readers with a smarter price for what is essentially 11 small chapters and an epilogue.That aside, Bevin's story is well written, particularly well edited, and a pleasure to read.  Though it has been described as somewhat "simple" by another reviewer, I believe it could have real value with upper primary or early secondary students in the classroom.I'd initially downloaded a sample to my kindle and was inspired to read on after noting Bevin's dedication to teachers and educators who "love what they do and live to do it".  Though I'm not sure if Bevin's worked within the education sector herself, my experience as a former classroom teacher had me seeing many opportunities for classroom discussion once I immersed myself in her story, with numerous gems of wisdom tucked within its pages.  Simple it may be.  But this would also prove most effective in terms of teaching students of a middle years level.The fact that its lessons are tucked within a whimsical fantasy is particularly appealing, with the story revolving around a Kingdom and the controversy surrounding its ruler.  Its main character, 'Helena', who seeks to challenge current Queen Delilah's claim to the throne, is young with a zest for life, and is particularly relatable.  One of my favorite quotes of Helena's is "A life with no passion was death and darkness for me."We learn that the 'Kingdom of Sooryan', which once flourished, has been struck by difficulties.  The spirit of what started with one man and his idea to gather twelve of the world's most brilliant, noble and passionate men and women to "teach and spread knowledge" (uncannily similar in spirit to Jesus and his 12 disciples) within and beyond the borders of Sooryan, has been lost through exploitation, greed and technological advances which have blurred the true meaning of life, light and love for many of its citizens.Specific and metaphorical references are made to industrialization, war, globalization and the consequences it has had on the world (with a number of topics ripe for discussion here including bartering, embargoes, free trade, etc), and technology and its ramifications (humorously depicted on more than one occasion with the lazy, uneducated and clearly unfocused Queen Delilah tapping away on her phone despite more 'real' concerns, and more seriously addressed by quotes like "Technology may seemingly make things simpler, but that is not without greater issues: health issues that don't even exist in this kingdom, focus issues and even marital problems.").Other nuggets of wisdom include the important lessons that "History is not always truth", and "There is always more than one story"...illustrated with the example of Christopher Columbus who is credited with discovering something that was "never his to discover and claim."This is all tucked within the pages of what is truly a magical story; of Helena, the 'rightful' heir to the throne and her guide 'Scholar Godfrey' who turns out to be the spirit of the original King Abel Godfrey of Sooryan.  Together, they prove that "trust and connection are everything" and that old adage "where there's a will there's a way".This is a story for the young at young at heart about believing in change and fighting for it.  It reaffirms for us what the really important values in life are which, all too often, we lose sight of.An impressive first publishing by Bevin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So much more than simple fantasy </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> Did I enjoy this book: I found parts of it interesting.Mrs. Bevin definitely gets points for creativity. I love the imagination she puts into creating Sooryan&#8217;s kingdom. And it&#8217;s beautifully edited which is something self-published books often lack.But I&#8217;m going to have to play the role of old school marm here. While this story has potential, it&#8217;s too simple. I would have enjoyed it more if there were sub-plots, plot twists, and more in depth descriptions.For example, the author tells us the people of Sooryan are suffering. But we see no descriptions of it. I say this all the time:  It&#8217;s not enough to simply tell your story. You have to allow the reader to experience your story.Would I recommend it: Not yet.Will I read it again: I hope this story gets re-packaged, jazzed up, and re-released. Throw in a few twists and turns, maybe a love story sub-plot, and background music (okay, maybe I&#8217;ve gone too far on that one) and yes, I&#8217;d like to see it again.As reviewed by Belinda at Every Free Chance Book Reviews.(I received a copy of this book for review purposes.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2.5 stars </p>
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> Anyone interested in stories that take place in kingdoms will enjoy this captivating tale woven by Ariffa Bevin.In a modern day story, somewhere on an island exists the Kingdom of Sooryan. Sooryan is ruled by Royals, with a newly appointed Queen Deliah. Queen Deliahs court consists of thirteen &#34;Scholars,&#34; who are the teachers of the kingdom. Children are taught inside the castle, kindergarten through grade 16. Within the Kingdom it is considered a great honor to be one of the Scholars. Helena is a Scholar Apprentice working in the castle. This does not mean she is very young, she had taken time off to have a child who is now 7 years old, and has been married and lost her husband. Helena is not happy or supportive of Deliah being crowned Queen.I do not want to spoil the story, it progressively gets better as it goes along. Great read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Modern Day Kingdom Story. </p>
+
+
+<h2> review.date </h2>
+  12-31-2013  
+<h2> review.text </h2>
+
+ <p> The kingdom of Sooryan is a new, vibrant world that is packed with detail and intrigue, and Bevin's words capture the mystery and wonder of a fantasy world just like some of the great fantasy authors of the past. The only real problem I found was that the characters weren't quite as fleshed out as I would have hoped. I found that the premise of the novel and the setting were thorough and believable, but some of the players seemed like their motivations were somewhat weak. It made it difficult to completely sink into the story and connect with each other the characters. That being said, I still enjoyed the way that the plot moved, and as I was led through the story of Helena, I found her to be the core of the entire book, and I began to believe in her as a fully constructed character. Her relationships with the Scholars, her very mature approach to life and the endless potential outside her narrowly constructed world. The concepts of authority and realistic behavior in a fantasy world are what makes great fantasy and science fiction; Bevin has managed to capture that in her novella. A short text with epic themes is always an interesting challenge for an author, but this one manages to hit all of the important points and leave the reader pleasantly pleased at the end. Nicely done, just work a bit on making the characters fully believable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic Fantasy - A Success </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

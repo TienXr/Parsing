@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BAWDC7K <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> I bought the book for Terri Anne Browning's story. I enjoyed the story and it introduces you to Axton and Gaberilla. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short but good </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> I loved this book! The characters were amazing and I loved the storyline! Way to go Terri Anne Browning, your writing is simply amazing! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome! </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> This was a two story book more like two novellas (don't you love that word?) but both stories were good and I enjoyed it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terri Anne Browning is great </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> She always writes a good book for the reader.  The stories have a great plot and do not ever stall. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love Her Books </p>
+
+
+<h2> review.date </h2>
+  03-18-2013  
+<h2> review.text </h2>
+
+ <p> The first story is sweetish... but a little weird that the girl is in love with her step-brother. I'm not all that squeamish, but that just seemed strange to me.The second story was interesting with the whole amnesia thing, and then the way it tied into The Rocker That Holds Me (which was WAY too short and teasing--I wanted SO MUCH MORE out of that story! It has the potential to be a massive, killer series with back story, etc.!!) ... well, I liked that!I would suggest reading The Rocker That Holds Me first, then read the second story in this set. And then, let's bug the author to get on the sequel(s) for us to get more of the rock star stuff she's got going on... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> #1, A bit odd. #2 Good, a bit of a tease for another book! </p>
+
+
+<h2> review.date </h2>
+  08-23-2013  
+<h2> review.text </h2>
+
+ <p> I had asked the author Terri Anne Browning to give us more of Gabriella, from the Rocker that Holds Me.  She suggested that I take a look at this book...and guess what?! I loved it! BUT I still want a book for Gabby and some Rocker dude. Alexis story is the main reason why I bought this book.  If you haven't read the Rocker's series from Terri Anne Browning, you need to go on Amazon and get all the books! I promise you, you will not be disappoinred! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> That Darn Gabby </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> I have been meaning to read this book for awhile. I'm a huge fan of Terri Anne Browning's Rocker series and have been curious about Alexis Moreitti's story. At its core, it is a good story, but the typos and poor grammar were a huge distraction.I absolutely loathe Gabriella Moreitti and am really not understanding the strength of her and Alexis' relationship.As a rough draft, the stories by Anna Howard and Terri Anne Browning have a lot of potential but they both need to do some serious editing: Browning,for typos and grammar; Howard, for content. I'm a bit disappointed by the quality but continue to be a Browning fan. Howard lost the opportunity to have a multi-story series by trying to fit so many story lines in one short story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice rough drafts </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> This book was written very well, and I truly enjoyed both stories. But the first story needed a different ending. I really recommend this book to readers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Reading </p>
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> The first story has Eve at a bank robbery gone worse than average, she's almost taken hostage and ends up with the robber's blood all over her when the cops have to take him down. Sebastien freaks a bit about this as he is in love with her, despite the fact that he is 11 years older than her and her step-brother. The character development in this story was well done, and what could have been prurient came off romantic and well done instead. I gave this story a solid 4 stars.The second story is, admittedly, the main reason I got this book, as it had characters referenced in "The Rocker That Holds Me." So, Lexi had been in a horrible car accident 6 months before and, as a result of some brain damage, forgot the 3 months leading up to that point. When Jared enters her life, through a business deal with her father, she doesn't remember him or why they broke up. Jared is thrilled, because he is hoping to be able to win her over without their negative history impacting them. It starts out well, as Lexi is very attracted to Jared, but then her cousin/best friend, Gabrielle, comes to visit. She is the one that had introduced Jared to Lexi to start with and knows why they broke up. Really she knows just enough to cause massive problems. Gabrielle is pissed that Lexi is letting Jared back into her life and does some stuff to try to get him gone again. Eventually Jared gets Lexi to listen to him explain everything that happened and we get our HEA. Yay! I only give this story a 3.5 star rating. I'm hoping that if Terri Anne Browning gives Axton (a secondary character in both this book and in TRTHM) his own story that he won't have to end up with Gabrielle (as we get yet another peek at how much of a witch she is in the epilogue) or that if they do end up together that she gets a major personality overhaul. Gabrielle has a boat load of crappy traits that she needs to make up for.Overall, these were some sweet, easy reads. I personally insist that my romance books have HEA endings and these do. There are no cliffhanger endings (a personal peeve) and everything wraps up nicely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy fun reads </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> I adore Terri Browning!  Awesome writer and this book was no exception. Anna Howard was definitely a great read as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  06-22-2013  
+<h2> review.text </h2>
+
+ <p> It is an awesome book to read. It is enjoyable and realistic and might actually happen. I would recommend it to anyone that is of age </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> Good read but bad editing. Apparently no one gathered to spell and grammar check this. It took some getting used to but I would say its worth it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pretty good read </p>
+
+
+<h2> review.date </h2>
+  07-02-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoyed both stories. The first one was an interesting one and I liked it, by  it was the second story that sparked my interest... this was a "prequel" to "the rocker that..." series it gives you a little insight on Gabriella (Axton Cage's girlfriend) and Alexis... awesome job ladies!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So good... </p>
+
+
+<h2> review.date </h2>
+  08-23-2013  
+<h2> review.text </h2>
+
+ <p> Tells the story from the start with Giselle.Giselle looks to be a lost nicer in this book than the Rocker series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Should have been the start of the Rocker Series </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> This was a great novella. I love the story from Terri Browning, who is the writer of the &#34;the Rocker who...&#34; series. I really want her to write a book on Gabriella M.! In this book you see that Gabriella, a badass, actually has a heart. It just seems that she does not let a lot of people inside her world. If you are a Terri Browning fan, I do believe that you will enjoy this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reckless...indeed </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> i really enjoyed this book was great guy and girl they were perfect great story ,great love story, great book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

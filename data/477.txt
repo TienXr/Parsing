@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00HKIJQ32 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Guidebook </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a very cool travel book about LA.  I learned a lot about the city and what I would need to do to be able to have a great trip there.  It was nicely laid out and the author did definitely do her research before she put out this book, which is good. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Welcome to LA! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Los Angeles is a huge city, and one may be intimidated on how they should plan a vacation if they're looking for a short one. Thankfully, this book breaks it down quite easily, giving all of the hotels and places they can see in just three days. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a simple guide to Hollywood land. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This little off brand and slightly offbeat travel guide is a no frills and no gimmicks three day itinerary designed more than likely for the first-time tourist it lists the best time to see the most popular attractions. It suggests some of the best restaurants and hotels, and the pages are sprinkled with historical knowledge and interesting informational tidbits designed to make the trip as enjoyable as possible. This is not the most perfect travel guide by any means, but for its price point. It will definitely do the trick. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Los Angeles, Here We Come! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> &#8220;Miss Passport City Guides Presents Mini 3 Day Unforgettable Vacation Itinerary to Los Angeles ( Los Angeles Travel Guide)&#8221; is Ms Sharon Bell&#8217;s published guide for a three-day tour of Los Angeles, that well known city in California, United States of America.  In this publication, Ms Bell takes her readers vicariously to Los Angeles, for a three-day holiday and tour.  In this guide, Ms Bell presents readers with information about Los Angeles&#8217; history, its many landmarks and personages.  She writes about the many historical monuments and memorials that honour people who had integral roles in the evolution of Los Angeles.  In this guide for visitors, Ms Bell identifies suitable options in hotel accommodation, modes of transport, the city&#8217;s many attractions and its diverse culinary options. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> LA sunshine awaits </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Next to New York City, I think LA could easily be called one of the greatest super-sized cities in America.  The fast-paced hustle and bustle could easily be compared if not for the difference in the people. The LA culture emanates in everything you see and hear. From the sunny beaches to the incredible sites, LA has it all and this book tells you how to see the best that LA has to offer. The book takes you on a budget friendly tour of this amazing city, giving tips on where to go without breaking the bank. If you&#8217;re traveling soon or just a travel enthusiast, check out this little guide to big fun. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Could have had a better layout </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This has a lot of information about Los Angeles but I think the layout harms it because things aren&#8217;t split up into sections. It is very short so you won&#8217;t have to look too far for things you want, but it would have been helpful if it would have been split into clear, defined sections. What information there is is alright, but Los Angeles is one of the more famous destinations in the Miss Passport series so there&#8217;s probably a lot about it that&#8217;s known already and I think there should have been some more in depth information. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Miss Passport takes you to Hollywood land </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Los Angeles, the place of Hollywood. Who wouldn&#8217;t want to go on a vacation to this city? Well if you are going to this city for the very first time and want to start on something easy then Miss Passport has the right mini guide book for you. For people visiting LA for the first time, the book contains all the information about the hotels you can stay at and all the famous restaurants where you can eat the best food. This book is a three day itinerary which will guide you to all the places you visit while you are in the city. Nothing fancy, this book is simple and easy to understand and tells the history of the city too. Not bad for a price like this. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This series is worthless. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have downloaded several of these very short books when they were a Kindle freeby and they have all been useless. I even bought one before I realized what they were because that city had Part 1 and Part 2. Don't waste your money. Check Wikipedia and you will find most, if not all, the information that is in this pamphlet. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A city with charm </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Los Angeles is a city that has too many things that attract people towards it. It has a warm climate, a Spanish charm, friendly people and the typical desert appearance. If you are planning a visit to Los Angeles you need to know what the city has to offer to you. Miss passport city guide makes you aware of details that can be of help to you. Using this guidebook you can find it easier to plan your vacation as you will know the hotels that interest you and the sights that would enthrall you. This guidebook makes vacation worthwhile. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One Star </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A personal reflection on LA which I did not find particularly useful </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

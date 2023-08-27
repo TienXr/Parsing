@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0002F6B0G <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-11-2004  
+<h2> review.text </h2>
+
+ <p> I used to watch this show on CBS before USA picked it up! NEVER missed an episode.I must have misread another reviewer's review who said Chris and Rita had no sexual tension or underlying chemistry. I must have watched another Silk Stalkings because although Chris and Rita were best friends, their sexual banters and Chris' come-ons to Rita were what kept me coming back show after show. They loved each other. Were VERY protective of each other. Breathed the same air and felt the other's pain when separated. It was always plain to see that they were destined to become more than friends, but they didn't act on their feelings until much later.I remember talks between them of the what-ifs. What if they met under different circumstances... what if they weren't partners... what if they weren't involved in whatever relationship they were involved in at the time.I ALWAYS waited for their one-on-ones. And I always felt that they would become lovers. I thought the wait was excrutiatingly worth it.The crimes may have been fluffy, but they made for great entertainment. Don't expect any Law & Order or Homicide-like procedures with Silk Stalkings. They had good procedural plots, but this show lived on Chris and Rita's chemistry.I turned several friends on to the show because I always bragged about what good actors Rob and Mitzi were.I about cried once I heard them call each other Sam. I'm getting misty-eyed just talking about them. LOL! I'm watching Brotherhood as I type this and I'm loving my girl Mitzi.Rob Estes was the HOTTEST man on TV then. And Mitzi the most beautiful woman.I can't wait for Captain Lipschitz and his nutty wife to come on the later DVD sets. And what was his name.. Donny Dogs?? Something like that. He was the big Italian Mafi dude who's son had a crush on Rita. And then there's there other informant I can't recall at the moment. I'm still watching.If you're looking for passionate crimes, with two sexy detectives, who develop their characters wonderfully over the shows (over the years), then this is the DVD collection for you. Don't let Season One's lightweight crimes deter you from the future shows. Silk Stalkings got better and better over time.Stephen J. Cannell had a goldmine with this show. It's one of my favorite cop shows ever.Now if we can get MacGrueder and Loud on DVD, this will be one happy woman.Thanks to whomever answered my prayers. Silk Stalkings DVD collection is long overdue. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MY CHRIS AND RITA ARE BACK!! </p>
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> This is one of those seminal '80s cops-and-robbers shows that I remembered fondly and couldn't resist when I found it online.  I bought the first two seasons as a birthday present and it's been worth it.  The scenery in the police precinct is a bit far-fetched, but that's nitpicking.  This is one you watch for the interplay between the cop partners. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sexier than I remembered </p>
+
+
+<h2> review.date </h2>
+  04-23-2008  
+<h2> review.text </h2>
+
+ <p> I just love Silk Stalkings.  I am glad it is out on DVD and just bought it.  Some shows that have been out of circulation for a while aren't the same now as they were then. You wonder what you thought was so great about that show.  Not with Silk Stalkings.  I love it as much as in the 90's when it was on and I want to get all the seasons. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great crime show </p>
+
+
+<h2> review.date </h2>
+  12-17-2009  
+<h2> review.text </h2>
+
+ <p> This is the most ridiculous thing I've ever seen--this season is already available for sale, as are the first five seasons of the show.  But now Mill Creek Ent. is going to release five seasons that are already on DVD before they release the seasons that haven't been released on DVD, namely seasons 6, 7, and 8.  The logic of this move escapes me.  Unless the picture quality is better and there are many good special features, there's no reason to buy this set in favor of the other one.  Will someone just please release seasons 6, 7 and 8?  We've already been waiting six years since the first season came out in 2004--now are we supposed to wait another six years for the unreleased seasons just so this company can start the sequence over again starting at season 1? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So Ridiculous </p>
+
+
+<h2> review.date </h2>
+  07-28-2005  
+<h2> review.text </h2>
+
+ <p> Nominated for only one Emmy, the entertainment quality of Silk Stalkings is nevertheless evidenced by its nine season run which is one of the most enduring ever for an original cable TV series. Partly responsible for this lack of critical acclaim is that Silk Stalkings was a trailblazer in the cable genre, and handing out Emmys to original cable series didn't become fashionable until the late-1990s when Sex And The City and The Sopranos broke the cable barrier for good. Another contributing factor to the lack of peer recognition is that Silk Stalkings lasted about four seasons longer than it should have, given that nearly the entire cast and crew were replaced after the first five seasons. Regardless, this hour-long drama series set in Palm Beach, Florida contains all the necessary ingredients for a hit show - beautiful people in a beautiful setting with lots of murder, violence, and intrigue. Silk Stalkings offers everything one could ask for in a TV drama, and the show's success helped pave the way for additional original cable series such as Monk and The Shield...Silk Stalkings follows the exploits of two Palm Beach, Florida detectives who investigate murders and other high profile crimes in an elite community which is no stranger to fame and fortune. Sgt. Chris Lorenzo (Rob Estes) and Sgt. Rita Lee Lance (Mitzi Kapture) are partners on the local Palm Beach Police Department, and each episode they must investigate one or more high-profile crimes. The dynamic relationship between Chris and Rita is a focal point of the show, and the two will overturn every stone and use every tactic at their disposal to bring justice to those who, either due to fame and/or wealth, believe they are above the laws that governor average people... Veteran entertainer Ben Vereen plays their boss, Capt. Hutchinson, in seasons one through three before being replaced by Charlie Brill (Capt. Harry Lipschitz) for the remainder of the series... Overall, Silk Stalkings is a finely scripted investigative drama cut from the same mold as Law & Order SVU...The Silk Stalkings DVD (Season 1) features a number of dramatic episodes including the series premiere in which Chris and Rita investigate the case of model murdered in her townhouse. The main focus of the investigation centers around the model's husband, and the couple's impending divorce proceedings only serve to place him under greater suspicion. Digging further, Chris and Rita link a cold case file to the murder, but a wrench is thrown in their investigation when the ex-cop who investigated the case is himself murdered... Other notable episodes from Season 1 include "Dirty Laundry" in which Chris and Rita investigate the mysterious death of a congressmen found on the beach near his home, and "Internal Affair" in which Chris becomes embroiled in police brutality controversy when he shoots and kills a suspect during a burglary in progress...Below is a list of episodes included on the Silk Stalkings DVD (Season 1):Episode 1 (Pilot)Episode 2 (Going to Babylon)Episode 3 (S.O.B.)Episode 4 (In the Name of Love)Episode 5 (Men Seeking Women)Episode 6 (Dirty Laundry)Episode 7 (Hard Copy)Episode 8 (Curtain Call)Episode 9 (The Brotherhood)Episode 10 (Blo-Dri)Episode 11 (Intensive Care)Episode 12 (Squeeze Play)Episode 13 (Shock Jock)Episode 14 (The Sock Drawer)Episode 15 (Internal Affair)Episode 16 (Witness)Episode 17 (Domestic Agenda)Episode 18 (Lady Luck)Episode 19 (Working Girl)Episode 20 (Powder Burn)The DVD Report </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A pioneer in the cable drama series genre... </p>
+
+
+<h2> review.date </h2>
+  09-15-2009  
+<h2> review.text </h2>
+
+ <p> Start out thinking this is going to be a cheap sex & cops show, follow through the end - it really captures your heart, especially but not limited to the final series. (Recommend starting with later than first, and DEFINITELY get the final show !!! Deep, surprise ending to series). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More Than Just Sex & Cops -- Great Series </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> I had forgotten how very much I enjoyed this show. The crime and punishment is good, but it is the chemistry between the stars that makes the show. From the very first show, we are shown that they are best friends and but for being partners could be more than that.  Show after show has him being very caring toward her, which certainly gets my Woman's vote. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Had Forgotten How Much I Enjoyed This Show </p>
+
+
+<h2> review.date </h2>
+  04-26-2011  
+<h2> review.text </h2>
+
+ <p> I loved this show when it was on tv! Soooo 90's. I love Chris and Rita (the Sam's)and was so sad when they both left the show. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love "the Sam's" !!! </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> I do not mind watching old teleplays. Recently I purchased &#34;crossing Jordan&#34; and &#34;Canterbury laws&#34; and enjoyed both a lot and wish I could see more seasons of both.This one really looks old (more than 20 years old) starting with the clothes and the cars and the stories are not very interesting. I stopped watching after the second episode.I would not recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not worth it </p>
+
+
+<h2> review.date </h2>
+  07-13-2004  
+<h2> review.text </h2>
+
+ <p> OMG I remember this show I used to watch it every night on USA when it was on.  I loved watching how the detectives would solve every crime and I loved the original detectives before they get changed later on in further seasons.  This dvd set is a must have if you love to watch shows that keep you intrigued on who you think the killer really is. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SILK STALKINGS </p>
+
+
+<h2> review.date </h2>
+  02-09-2005  
+<h2> review.text </h2>
+
+ <p> 1991 represented a unique opportunity for U.S. TV show creators.  Unlike today, when cable networks make up much of the original programming, there were few markets for new shows.  The fledgling Fox network was only four years old, and the triumvirate of broadcasting giants (ABC, CBS, and NBC) had the power of dinosaurs.  But there was a hiccup in late-night scheduling: David Letterman had signed a new contract to host a talk show on CBS, but his NBC contract still had two years to run.  So CBS decided to run a slate of dramatic fare -- five new shows to keep the seat warm for Letterman -- which they called "Crime Time After Primetime".  Stephen J. Cannell, creator of literally dozens of TV shows, had something called "Silk Stalkings" that he'd been working on for a few years; he pitched it, got the go-ahead, and quickly went into production.This was a cop show featuring a pair of Palm Beach (Florida) police detectives who specialized in crimes of passion in that enclave of the wealthy, said crimes being referred to as "silk stalkings".  A first for television, they were a mixed-sex pair who were friends and partners on an equal footing (both Sergeants) -- but NOT romantically involved.  The headliners were Rob Estes (whom Cannell had been attempting to fit into a series for a while) as Chris Lorenzo, and newcomer Mitzi Kapture as Rita Lee Lance.  Longtime Cannell friend Ben Vereen completed the short list of headliners as Captain Hutchinson.  But the important element of "Silk Stalkings" was the dynamic duo of Rob & Mitzi as Chris & Rita, with a natural screen chemistry that shone over such dialog as "That woman would leave skidmarks on your libido."From the first episode of "Silk Stalkings" it's easy to see that this show is long on style and short on budget.  The low advertising rates for late-night TV meant that the show had to be shot on a relative shoestring, so Cannell and company decided to emphasize stylistic elements, such as vivid colors in both sets and wardrobe.  Chris and Rita both refer affectionately to each other as "Sam".  This isn't the expected reference to Dashiell Hammett's detective, but rather to "Slammin' Sammy Sneed, the greatest golfer of all time".  Golf is VERY important in the first season of "Silk Stalkings", because it's used mostly as a metaphor for sex.  When you're specializing in crimes of passion sex takes center stage, and the riveting opening credits featuring many quick cuts of attractive bodies capably sets the tone for the show.Two years before "NYPD Blue" brought "partial nudity" to prime time TV, "Silk Stalkings" established it as a late-night mainstay.  In the very first episode there are topless women jumping into a pool.  The bare breasts here happen to be moving quickly and in dim lighting, but this was just a start.  With the limited budget they couldn't afford to re-shoot accidental exposures any more than they could redo the frequent poor acting of an episode's bimbo of the week, so there are several nipple exposures that would have caused fits with the prime time censors.  To be fair these only show up for a second or two each, but DVD sets mean never having to say "I missed that".  (There are also a couple of actresses who wore flesh-tone pasties for modesty.)The first season tried a bunch of experiments toward achieving a workable series formula, and many failures were quickly discarded.  Rita is introduced with an inoperable brain aneurism; a questionable life expectancy is supposed to make her wring the most out of every day.  After a few episodes the aneurism is never mentioned again.  In the first season women's hosiery is worn ubiquitously (silk stockings for the "silk stalkings" crowd, of course) after bare legs had been the fashion norm for the beach crowd a couple years already.  Plus there was lots of 1980's big hair to go with the hosiery (perhaps an attempt at copying some of the feel of "Miami Vice", which had been airing while Cannell was developing "Silk Stalkings").  The golfing metaphors dropped off quite a bit after this season, too.  And there were a couple too many hillside homes used from the San Diego shooting locations than made sense for Florida, where a 20-story Miami Beach hotel towers over the highest spot in that very flat state.Guest stars for this season included Gary Hudson, Cindy Ambuehl, William Anton, Ann Turkel, R.G.  Armstrong, Kim Morgan Greene, Jay Acovone, Terri Treas, Dennis Paladino, Judith Chapman, William McNamara, Elizabeth Barondes, Denice Duff, Marta DuBois, Kristen Cloke, Vanity, and Bobbie Phillips.The DVD collection doesn't have any audio commentaries, and lacks closed captions.  The audio and video are of very good quality, though.  The bonus material features a few minutes each of reflections on the show and the people they worked with from Rob Estes, Mitzi Kapture, Steven J. Cannell, and Ben Vereen.Summary: If you can overlook frequents signs of a low-budget show, "Silk Stalkings" has a lot to offer.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chris & Rita: Great dramatic chemistry and Capital "S" Style </p>
+
+
+<h2> review.date </h2>
+  09-26-2011  
+<h2> review.text </h2>
+
+ <p> Loved this show.  I feel that the first season was the best of the whole series!  I loved the golf innuendos and the chemistry between Mitzi and Rob, one of the best pairings ever on TV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Silk Stalkings - First Season </p>
+
+
+<h2> review.date </h2>
+  04-05-2005  
+<h2> review.text </h2>
+
+ <p> Before I get flamed, I bought the set, I'm glad I have it, the extra interviews are good (although I could think of 50 questions to ask that were apparently not brought up!), but season one of the show ISN'T great.  It's enjoyable, but they hadn't quite figured out what exactly to do with the show -- it's whole reason for being was to be a sleazy late-night cop show, and only when the two leads built real chemistry did the show fully connect.  The first season has a sleazier, darker vibe than later seasons, which is interesting, but most of the scripts are kind of lame and still trying to feel out the characters.  All sorts of ex-boyfriends and girlfriend characters are tried out, none of the funny supporting characters (save one appearance by Donnie "Dogs" Dibarto) are there yet, and even Rita has a really out-of-character softcore sex scene in the back of a limo that never would have flown in later seasons (I guess for some this might be a selling point, but it's in the WORST episode of the season!).  It's really season 2 and 3 that are the best -- the humor is there, the leads are fully relaxed, etc.  By season 4 it had become kind of a soap opera and wasn't as funny, and then season 5 it turned into some kind of demented Shakespearean tragedy (when will people learn -- it was better that the cops just stayed friends!)  So season one, if it's your first exposure, may not impress, although Ben Vereen adds gravitas as the Captain.  I'd recommend starting with season 2 and working backwards, once you like the characters you'll be curious to see their origins.  But there's only 3 or 4 really interesting episodes in this first season. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good show, fun season -- But Let's not overdo it! </p>
+
+
+<h2> review.date </h2>
+  06-15-2005  
+<h2> review.text </h2>
+
+ <p> I got excited when I heard that Silk Stalkings was getting a DVD release after all these years. I was about 7 or 8 when I used to watch the show in the early 90's. Thinking back to these days brought back good memories of these times, the times of when on friday or saturday nights '21 Jump Street, then 'Werewolf' and then 'The Twilight Zone' were on late at night on TV.I didn't remember all the episodes in the series, except two things, the one with Partrick Muldoon being the psycho, and the title credits with that unforgettable music.Rob Estes and Mitzi Kapture are wonderful. These two have good chemistry on screen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GLAD TO HAVE IT ON DVD AFTER ALL THESE YEARS </p>
+
+
+<h2> review.date </h2>
+  08-21-2012  
+<h2> review.text </h2>
+
+ <p> I am completely happy with purchasing the Silk Stalkings t.v. series season one through six.  I am looking forward to more of the t.v. series to come out on dvd.  This has been one of my favorite thriller/crime investigation shows from all the ones I have watched.  It is a classic.  Hopefully Silk Stalkings will release more dvds on Amazon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Always a Classic Thriller t.v. series </p>
+
+
+<h2> review.date </h2>
+  09-28-2006  
+<h2> review.text </h2>
+
+ <p> I watched "Silk Stalkings" when it first aired and I never missed an episode.  It is a crime drama set in Palm Beach, Florida.  Palm Beach, a place where the rich and beautiful have a different set of rules and if you like provocative and fun, you'd enjoy this show.The show is like "chocolate".  It is sweet, delicious and decadent; you know it is probably bad for you but you keep endulging.I have purchased all five seasons of "Silk Stalkings" for my library and I recommend this series. Keep in mind that season 5 has dramatic surprises and changes.For a show that takes you to a world of the rich, sexy and dangerous-it is another winner created by Stephen J. Cannell.  You can't go wrong by paying a visit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Rich, sexy and decadent" </p>
+
+
+<h2> review.date </h2>
+  02-20-2009  
+<h2> review.text </h2>
+
+ <p> I especially like the shows from the 80`s and 90`s so I am always looking what's on DVD, I've been wanting this series and now I am on my way collecting it, season by season. Fortunately they are released completely not like these day's where they just stop.. I like Estes / Kapture - both are very likeable characters as well as actors - great chemistry between them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nostalgia </p>
+
+
+<h2> review.date </h2>
+  06-11-2006  
+<h2> review.text </h2>
+
+ <p> Okay..okay.....One must overlook the stange unrealistic sets and odd exaggerated use of color (NEVER is there a scene without pink or purple either in clothing, buildings, room colors, etc...)One must overlook the sometimes cheesy predictable plots, stiff dialogues and cornball humor.Okay.. one must also overlook the fact that this looks NOTHING like West Palm Beach Florida............One must also overlook the tight budget and fast shooting schedules that makes the plots predictable and sometimes even illogical with gaping holes....BUT despite all this... a chemisty in the show works to make it one of the 90's most entertaining and enjoyable "cop duo" partner shows around.It's like chocolate cake....... not full of nutrition or good quality calories, but enjoyable just the same ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Early 90's Cable TV nostagia at it's best </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> *** Great Television Series from The early 90s that was & probably would still be a good series to take another look at featuring *Rob Estes & Mitzi Kapture !..  If you are someone who remembers the early 90's back when *BayWatch.. came on you might remember this series.  Yes...  Of Course, *** You should check it Out !.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Film Review.... </p>
+
+
+<h2> review.date </h2>
+  11-24-2012  
+<h2> review.text </h2>
+
+ <p> Kind of cheesy by today's standards.  However, it was nice to stroll down memory lane.  I used to watch this show every week and loved it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> When I watched this on TV- I thought it was good! </p>
+
+
+<h2> review.date </h2>
+  11-19-2013  
+<h2> review.text </h2>
+
+ <p> Loved this series back in the day, some of these lost and forgotten, like Forever Night are must haves if you are a collector </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A forgotten series worth having </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> This is a must see for any silk stalkings fan as well as any vanity fan. I really enjoyed all the episodes. This brings back memories. You must add this to your collection. These episodes has great action. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Silk Stalkings: Season one </p>
+
+
+<h2> review.date </h2>
+  08-16-2007  
+<h2> review.text </h2>
+
+ <p> One more t.v. series I came across while looking on Amazon that I added to my Wish List and received as a birthday present.  I was skeptical of my taste in the early 90s vs. today.  I remember thinking it was a kind of a newer, maybe shallower Miami Vice-style, that was pretty risqu&eacute; for regular cable t.v.  I used to watch it sporadically on USA late at night, but probably never saw two episodes in a row.My fianc&eacute;e and I watched the first episode with my parents.  None of us really got into it and I felt a little disappointed.  A little while later (days? a week?) my fianc&eacute;e and I were looking for something to watch that wasn't too long, so we gave it another whirl.  After the second episode we were hooked and preceded to watch a bunch, one after another.  We cruised through the First Season way too fast that I even found myself watching the Extras!  To make a long story short, we're about half way through the Fifth Season now and dread the inevitable, that this is the last season out on DVD.Yes, there is 90s cheese, florescent outfits that we can't believe we thought were cool, some questionable hairdos, swimsuits, only large-chested women always seemingly getting out of a pool at the crime scene wearing a thong bikini, every episode opens with a sex scene that ends in someone's death, and the list goes on and on.  However, we are totally hooked and love every episode and season!  It's part romantic comedy, part t.v. detective series drama.  I loved Miami Vice, but usually didn't find myself laughing whereas with Silk we are laughing during every episode and feeling good at the end of them.  There also is very little blood and gore.  You get the idea of what happened, but often see no blood when someone is killed.  The chemistry between Chris and Rita as well as them and the others characters is great.  I would say our only disappointment is you get attached to a few characters that all of the sudden never show up again in an episode (some of the coroners, Cotton, etc.).  Also, they are kind of bad about reusing characters that had such strong parts in episodes that it is sometimes weird to see them again in a different episode as someone different.  All in all, 5-Stars! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than I even remember </p>
+
+
+<h2> review.date </h2>
+  04-24-2014  
+<h2> review.text </h2>
+
+ <p> Before Benson and Stabler on Law & Order:SVU, there was Chris and Rita solving the most unbelievable sex crimes.  Glad to have this collection on my shelf. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Missed this dynamic duo </p>
+
+
+<h2> review.date </h2>
+  11-09-2010  
+<h2> review.text </h2>
+
+ <p> Good show suppose to be in Miami beach but the credits say San Diego. Big difference.Better than most cop shows today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Cop show </p>
+
+
+<h2> review.date </h2>
+  02-25-2010  
+<h2> review.text </h2>
+
+ <p> I, for one, am happy to see a company producing affordable season sets of some of my favorite shows. True, this set (Silk Stalkings season one) and others made available by Mill Creek Entertainmnet may or may not be better, but they are less expensive. If it was my company I would want to issue the earlier seasons before moving forward with the so-far unreleased seasons. There are numerous untapped customers out there that won't buy a single season until all seasons are released. Mill Creek Entertainment is just being business smart. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Happy to see it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

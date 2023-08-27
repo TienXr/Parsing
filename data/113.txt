@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007TAMJWQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> can't figure a way to program it. junk not worth selling </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm not the smartest guy in the world.  My wife is a whole lot smarter, and she couldn't program it either.  My five year old son has us both beat, and he couldn't handle it.  The instructions are pretty clear, the device itself just doesn't respond to the input.  Forget it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great, no need for $100 remotes. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yes, it's plasticky, light etc. BUT, it's 9 bucks!  If you need to spend 10x the money for bragging rights go ahead! If you want something simple, easy to set up and WORKS!  Buy it you won't be disappointed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works exactly as I wanted it to </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> From my brief experience with this remote, I'm very satisfied. I've currently got it controlling a Projector, my XBox 360, a Raspberry Pi, an Audio Receiver and an OTA TV Tuner.My absolute favorite feature of this remote (and the sole reason I bought it) is the 'Learning' function. Basically, you can place any of  your spare remotes in front of this one and it'll learn whatever signal you throw at it. The best thing is that you can assign any feature from another remote, to most any button on the RCA Remote. That means when I change to the 'DVD/VCR' preset on this remote, I can control my XBox and Audio Receiver without having to switch to another preset. All because of the learning function! Want the same function on two separate buttons? You got it. As long as you can point an IR remote at it, it'll learn it.My only gripe is that some of the preset codes don't cover all the features of the device. Both of the 'Microsoft' presets in the manual turned my 360 on and off, as well as giving me access to simple menu navigation.. but functions like the big 'XBox' button and and the 'X' button itself were nowhere to be found (the ad skipping button on YouTube!). Fortunately, I had a 360 Remote lying around and was able to teach the RCA all of those commands very easily. If I didn't have that 360 remote though, I'd have to find access to one by either buying or borrowing (360 Controllers don't communicate via IR, only the remotes which are generally sold separately).The instructions made the claim that too many Learned functions could make your remote run out of storage space. I have not run into this issue, and mine has over 20 learned functions at the moment.Changing the batteries does not wipe the data, and it even has a button to enable backlighting! You have to reach your thumb way down near the bottom to push it. No bumps so you can feel for it easily, but the button is a bit bigger than the surrounding ones. Just, the whole point of a backlight button is to see the remote in the dark! It would've made a bit more sense to put it in an easier to reach location, like that empty space above the navigation buttons. Not enough of a gripe to warrant removing a star, seeing how the function works as intended. Plus it's a neat neon green!Another aside is that the remote is glossy. I would've preferred matte, or just.. anything not glossy. It's not just the front, either. The entire shell of the remote is glossy plastic! I'm not too worried about it, but it's noteworthy if you're a stickler for fingerprints.From what I understand, this remote can also do a bunch of other stuff I don't really care about. All I wanted was to replace a stack of remotes with just one, and that's exactly what this allowed me to do. Setting it up was a breeze, and my only regret is that I waited so long to cheaply alleviate a minor inconvenience! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nothing Special </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It serves it's purpose. I did have to go online and hunt down codes because not all the possible codes were in the book. The remote is very light to the touch which makes it feel cheap but for the price, who can really complain? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Replaced four remotes :-) </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was able to set this up in about half an hour to control our Dynex TV, Roku, UVerse STB and a Philips soundbar.If your make / model aren't listed and/or the code-looping thing takes too long for you, there's a learning feature (as long as you have the original remote!) which is really fast and works great.Excellent purchase. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not a harmony, but a great universal. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Makes my TV feel smart. Works great with the roku. There are a few buttons that need to be programmed for the learning mode, but this remote has some great features for the price. The backlight is bright, it has audio control punch through, and light weight and sturdy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great replacement </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great remote. Bought to replace roku works great all functions are there.. u hafta push up to go back tho.. but once i figured tha out i had it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Breeze to Program! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I admit it. I can open a computer and replace parts but programming a remote has always been a problem. So we've been using 2 remotes, one for the DVR/VCR and one for the cable box and TV. When the "4" key on the remote for the TV/cable box stopped working and I could only go to channels without a 4, I started looking a new remote to replace the original Brighthouse cable box/TV remote I was using.The positive reviews (and super low price) on this RCA Rcrps04Gr 4-Device Universal Remote as well as Prime shipping made ordering it a no brainer. My worries were how long would it take to program or could I program it at all?First thing I did was put the batteries in upside down. Incidentally you'll need two AAA batteries as they aren't included but for the price that's not a negative. Once I turned the batteries around the remote's backlight worked. That's a pretty neat feature in itself.I read the manual but never got to Training. I also didn't follow the instructions in the Quick Start Guide. There are 8 steps listed to programming the remote using the Brand Code List included. These are the steps I used for each device:1 - Looked up the proper code for Bright House under Cable Set Top Box on the Code Lists sheet. There were two codes listed.2 - Sitting at my desk in another room (I should have been in front of the TV/cable box/DVR), I pressed the SAT CABLE STREAM button at the top left of the remote next to the POWER button. I didn't press the POWER button as the Quick Start Guide says to do. I kept pressing the SAT/etc button and the POWER button lit up.3 - Still pressing the SAT/etc button, I put in the first 5 numbers on the Code List. The POWER light had gone off but then came back on after I entered the last of the 5 numbers. I released the SAT/etc button.4 - I went into the room with the TV/cable box and pressed the SAT button then the POWER button. Nothing happened.5 - I went back to my desk, repeated steps 2 and 3, this time entering the second set of 5 numbers.6 - This time when I pressed the SAT button and POWER button, the cable box and TV turned off!! I pressed both again and the cable box and TV turned on! I changed channels successfully. The only thing that didn't work was the volume control.I then found my DVD/VCR in the DVD Code List. There were five sets of codes for Go Video. I repeated the above steps for the DVD/VCR button on the remote. The second set of codes worked. I could now do everything except raise or lower the volume on the TV.I returned to the Code List and programmed the TV button as above. The first code set worked. I now had full TV function.Page 23 of the Owners Manual explains how to program macros so that you can streamline how the remote works. All I wanted to do was turn on the TV, cable box, and DVD at the same time. I followed the instructions for the Example Macro on page 24. It worked! I now press the Macro button and then 1 and everything turns on or off.This is a longer review than necessary but maybe it will prove helpful to someone else like me who is usually totally clueless when it comes to programming remote controls.Great buy! Well worth the small price!UPDATE: The macro to turn on the TV, cable box, and DVD at the same time appeared to stop working after a few times. Apparently someone had first pushed the TV button and then used the macro which turned the TV off and everything else on. Using the macro again turned the TV on and everything else off.To get the macro back to the original setting I used the macro to turn everything off (which left the TV on) and then pressed the TV button to turn the TV off. Once everything was off, I used the macro again and all three turned on at the same time.I mention this because if two or more people are using the remote, someone is bound to push the wrong button on occasion. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> So far, so good! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I rated this 5 stars because it seems to work well and it cost less than $10.  We have a new HD Sceptre TV and this performs all of the functions we need, including the aspect, sound and picture "toggles".  These latter three functions were programmed in the "learn" mode from the original remote.  It was simple.  They are assigned to convenient (similar location as the originals) keys in the DVD/VCR "pad" that is not used in the TV mode.  Of course you have to remember which button does what since they are not labeled for TV.Even better, in the Stream mode it performs all of the functions of our Roku remote. So we only need one remote.  We have an old Broksonic DVD/VCR combo and I haven't found a code for it.  This seems a bit odd since the smaller RCR504BR universal remote that I tried first had the DVD code in the instructions (Unfortunately that remote didn't have enough keys or an enter key.) But it was 4 digits and this unit uses 5 digit codes.  But we plan to buy a new Sony DVD player (sometimes) and I'm confident from my experience so far that the code will be in the large list provided with this new remote.The finish is glossy black (I would prefer matte black) and I hope the key labels will not wear off.  The remote is about the right size and the keys are large enough.  The backlight for the keys is a nice feature. It feels sturdy and weighs about the same as the Sceptre remote.All in all I don't see how a universal remote could be much better, if it holds up OK, and especially for the price.  Of course the Prime shipping added to the value.We just got it and I'll update this if anything changes for the worse. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exceeded my expectations! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm very happy with this remote and its performance.  I was not expecting a whole lot and was planning to upgrade to a more expensive remote when I had the mula, but I won't need to as this remote covers all of my needs.I bought this remote to control my Roku, Surround sound (RCA), TV (panasonic) and Blu-ray player (LG).  It controls all of them very well and I'm so glad I purchased this remote.Setup was extremely easy, probably took a whole 10 minutes. You can also pair this remote with the original to have all the controls, but I found this unnecessary as all of the default controls were good enough.  I have an xbox, but haven't tried it on that even though it says it will work with an xbox. Don't waist your money, this remote will take care of all your needs. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Top notch! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is an awesome remote!  It is remarkably cheap for so good a remote.  The remote is light and fairly ergomomic. The keys are a tad small, especially the navigation keys. Apart from that, the remote is perfect. It is a learning remote and even has a backlight, illuminating all keys!I cannot praise this remote's functionality enough.  The remote recognises most popular brand's media players (it supported my Sony SMP-N200, WDTV Live Hub and Roku 2 XS - all out of the box, with no need for learning!  I had to teach it the satellite code (my satellite box is a Sonicvew), however - and it still, apparently, has memory to spare .  it is also very easy to program.My only issue is that the Exit key didn't work for a couple devices (but it can be taught - so no big deal at all).Definitely 5 stars! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good remote for the price. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> What's not to like. It was very inexpensive and I have every function on my other four remotes available in one. I thought there might be an issue because some of my equipment is older stuff and some is new but all of it works. I had some trouble with the learning function with other remotes, but this won learned every command easily. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works but hard to know which end is which when reaching for it </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Pro: light, small, learning function, volume punch thru feature, does what I need it to doCon: hard to know which end is which in the dark -- finally figured out the ridges in the back help me orientate it correctly to change channels and volume, etc. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works with Roku Pefectly!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> IIII LLLLOOVVVEEEE-IT!!!I was so tired of fumbling 2 different remotes! But, I wasn't going to pay $100** for a remote to do it! So, I checked ebay and amazon for it. Needless to say, It was more expensive on eBay! So, I bought it here, and It was brand new when I received it!!! It works perfectly, very easy to manage, and it was a lot less than I expected!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great for Sceptre TV / Roku(LT) / RCA Digital conversion box </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I programmed my unit for the three devices mentioned above.Sceptre TV:Input Button- The  Input button will bring up the input menu, channel up and down cycled through the menu and volume up was the equivalent of 'enter' to select the input.  The left/right/up/down/enter buttons do not work for this.Roku:Roku works pretty well also.  The only note is that the up/down/left/right works within a channel but does not get you out of the channel back to the menu.  There is an 'exit' as well as a 'menu' button near the bottom of the remote that serves this purpose.Function Reassignment:The remote has 4 functions.  In my situation, 2 of my devices required to be on the same function.  There is a way to change a function button so that you can handle this.  For example, my Roku and digital conversion box would normally be programmed on the SAT/Cable/Stream function.  Since I had 2 devices for the SAT/Cable/Stream function, I was able to reassign the Audio/AUX to behave as a second SAT/Cable/Stream button.Overall despite the button workaround issues i have had, I am very happy with the product and would recommend it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> As expected </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> For the price I don't think you could beat this remote!  I bought it primarily for my Roku boxes, and it works like a champ.  Only thing I'd change in a perfect world is the spacing around the arrow buttons and OK button.  With a Roku box, that's the main part of the remote you use, and they are kind of tight together.  My girlfriend won't use it, but I don't mind.  To be fair though, I installed and sold home electronics for many years and might know my way around a remote a bit more than the average guy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It works but had to program it directly for Roku </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really like having it. It is now one device for my tv, home theater and roku. The tv code worked. The roku code didn't appear to work until I realized later it did take the code. The lastly the home theater. It took that code too but I had to hard code one button - the off/on and that required the tricky learn mode but works. I even got the volume to passthrough while connected to the roku. Nice and seems worth it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

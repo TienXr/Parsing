@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B007HAVSR0 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> I liked this thriller.  There was a good amount of romance and the suspense was continuous.  The build up of getting to the villain was good and there were a couple of red herrings that threw me off. :o)  I don't like figuring it out too soon in the book and this one kept me guessing until close to the end.I thought the story was fairly well-developed and interesting.  I got it for free but if you had to pay for it that wouldn't be a bad thing. I wouldn't pay a lot but the $2.99 being asked for it would be okay.  I do agree with others that it needs some editing help but it isn't nearly as rough as some others I've read and at least I found the story interesting.  I wanted to keep reading to see how it ended and to me that's as important as making sure every single word is spelled correctly.  I can forgive a few of those but I hate to waste time reading a lame story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good read and a decent pace. </p>
+
+
+<h2> review.date </h2>
+  06-13-2012  
+<h2> review.text </h2>
+
+ <p> The story was interesting. The characters were well drawn. Unfortunately, the flow of the book came to a standstill with missing words or the incorrect usage of words i.e. affect for effect; lay for lie; sat for set; plus others more blatant. I wish I'd made a list.Grammar errors: "A intense heat";"Where did he wait at?";"Each were" instead of "Each was", etc.Many questions asked in the story were not answered. I won't list because it might be a spoiler.If these types of things don't bother you, perhaps you'll enjoy the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Badly needs editing </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> I received this book as a gift in exchange for an honest review. I loved it. I will be reading this book again. I will be recommending this book to family and friends </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it </p>
+
+
+<h2> review.date </h2>
+  10-17-2012  
+<h2> review.text </h2>
+
+ <p> As the author ofMistI appreciate this book's fast pace and unexpected twists and turns. It's a good page-turning suspense. Definitely worth a read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Twisting and Fast Paced </p>
+
+
+<h2> review.date </h2>
+  03-10-2012  
+<h2> review.text </h2>
+
+ <p> This is a really engaging reunion romance enmeshed in a nail-biter of a mystery. Jack and Lucy are both damaged characters and I found myself rooting for them all the way through. I had trouble finding a place to put it down, so my advice is to read it when you don't have to get up and go to work early the next morning. Definitely recommend this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hard to put down... </p>
+
+
+<h2> review.date </h2>
+  04-28-2012  
+<h2> review.text </h2>
+
+ <p> This is an awesome book that is hard to put down. The book is very well written and keeps you on edge from the very beginning! S.D. Bancroft writes as good, if not better, than many big-name authors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A MUST READ!! </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> I did not care for this book.  Firstly, the sheer number of grammatical and typographical errors in this book had me hard pressed to finish it.  There were misused words (ex. hurtle instead of hurdle), missing words, doubled words (ex. two different verbs, as if the author wasn't decided on which to use, but never deleted one in the rewrite), missing commas, misplaced commas, spelling typos, etc.  It clearly lacked proofreading.  It also lacked editing, as it was SO far from realistic.  I could not get behind much of the action because of this.  These characters were not real to me because real people in these positions would not do these things.  All the way from the professional aspects of the characters' jobs down to the reaction of a mother or a stalking victim just didn't ring true.  There were a few holes in the story, as well.  How in the world did the police have a birth certificate, which obviously should have the child's name on it, and also have the name of the suspect that came to the father's hotel, and not put two and two together?  They needed to make sure the Robert McAllisters were one and the same father?  This is just one example of how many times I wondered how dumb everyone was.  There also seemed to be some inconsistencies with the villain's motivation and the backstory and clues that went with it, as if the author figured it out as it was written and didn't go back to rewrite and set things straight.  There were also way too many cliches and trite words and phrases found in so many romance rags.  I think this writer has potential, because despite all that, this book is better than some other free downloads I've tortured myself with.  Just beware. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too many mistakes, unrealistic </p>
+
+
+<h2> review.date </h2>
+  03-05-2013  
+<h2> review.text </h2>
+
+ <p> This is a nonstop action suspenseful mystery that has a few red herrings and a decent twist to the story.  I thought the plot was well thought out and the characters were not just garden variety h/h.  They were both complex and well thought out and they seemed to take their renewed relationship seriously which leads the reader to invest emotionally in the romance.  The bad guy was truly scary and not obvious until 3/4 of the way through the book and even then I wasn't sure which one of the characters he was hiding out as.  All in all a pleasant diversion and a solid entry in this genre. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid romantic suspense </p>
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> I tried to overlook the character name changes that appeared on the same page Lucy became Annie and morphed back to Lucy in the next paragraph...gave up when the male character Jack said to Lucy ...I know you better than you realize...and her reply...Is that supposed to make me feel better?...followed by his response...Is it working?  BTW:  please look up appropriate use for the apostophe... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> really bad editing, cliches galore, forced myself to read half the book hoping it would improve...which didn't happen </p>
+
+
+<h2> review.date </h2>
+  10-14-2012  
+<h2> review.text </h2>
+
+ <p> Lucy is a nurse, who in the past has been traumatised from a vicious attack nearly 8 yrs ago. Jack was the rookie detective on his first case. On one of Lucy shifts a young woman is brought in badly assualted with a knife and under these traumatic circumstance she meets Jack again. They bump into each other and find sparks are flying but neither wants to admit this. So begins this murder mystery which reaches into Lucy's past and comes back to haunt her in the most horrendous way. This is a great love story flowing through this murder mystery. Lucy is femmenine, strong and yet vunerable, how can strong, masculine Jack not fall for her again. I found I could not put this book down and the final twist was unexpected. The author has written a good plot with twists and turns which keep you guessing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Repeated history </p>
+
+
+<h2> review.date </h2>
+  05-15-2012  
+<h2> review.text </h2>
+
+ <p> When the BLURB has horribly confusing mangled punctuation, I know to run, run, run as fast as I can away! Really? You want us to consider you an accomplished author and you can't get basic comma usage that my nephew in grade school has grasped? No. My time is way more valuable than that. Even a self-published 'writer' can get an editor and a proofreader. Ask at your local college and someone might help you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> basic 5th grade punctuation? </p>
+
+
+<h2> review.date </h2>
+  05-18-2012  
+<h2> review.text </h2>
+
+ <p> It was nonstop action throughout. I loved it especially its intensity. It shows sometimes you meet the right person at the wrong time and that eventually the right time will come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Non stop action </p>
+
+
+<h2> review.date </h2>
+  04-30-2012  
+<h2> review.text </h2>
+
+ <p> Autumn Nights starts in the middle of the action and doesn't let go until the end. Without knowing a lot about their past relationship in the very beginning of the story, how can you not love a hero who admits he was a jerk and never stopped loving Lucy?  Ms. Bancroft weaves an engrossing tale, and I would recommend it to anyone looking for a fast paced romantic suspense. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Engrossing Read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

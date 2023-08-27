@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00IPQ23JC <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> Amazing...The first word to hit my brain once I finished this book. My son has asperger and ocd. So this book hit very hard to my heart. I fell in love with Grant in the first page. He grabbed on and didn't let go. It's amazing how Ms. Irons portrayed ocd and autism. I've researched asperger and read a lot of material on the subject so it's like I have a direct line to my 9 year old sons mind.Obsessive is very well written and I would definitely read more from this author. I also 100% recommend this book.Ms. Irons if I knew ya I would so buy you a drink. Hell even if I didn't I still would. Hope to read more from you and can't wait until I get the third in this series. Cheers to ya. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> amazing.... </p>
+
+
+<h2> review.date </h2>
+  03-04-2014  
+<h2> review.text </h2>
+
+ <p> *I was given a copy of the ARC by the author for an honest review.*OMFG What was that? What did you do to my Grant?While reading Promiscuous I have to admit I felt something was off with him but not to the degree portrayed in this story. I am so glad that Ms. Irons decided to write his part and form his POV. That is jut pure amazeballs.Now after Obessive I fell like I know him on such a deeper level. And I get some of the parts from the first book where his behavior wasn't quite right. This was so illuminating for me.His OCD is really prominent and I had such a hard time reading what was going on in his head, not because the writing was difficult but because it affected me on a fundamental level. Ms. Irons has managed to affect my feelings and that is such a hard thing to do.I love him more now because he is a survivor, he has a brave, loyal and kind heart and he is such a big fighter.The most difficult battle is that with yourself and he does it every single second of his life. That is something you just have to respect. Many people would literally go effing insane just being in his head for one minute. Imagine living with it for your whole life. That is admirable how he managed to remain himself in face of all that.I am so glad that everything was straightened with his relationship with Tash.But man, that bomb there at the end was like a dynamite stick shoved up an elephant's a s s. Just EPIC.Now I am left wanting more of them. I want to know what happens next. I want to know about Margot. I really do.Maybe in her book we'll have some sneaks into Grant and Tash because that part of the story is definitely not over for me. There are too many questions that remain unanswered.So I'll just wait and wait and do some OCD things myself till the next installment.On another note I would like to applaud Ms. Irons for showing just a peak into the mind of someone with OCD. It was amazing how well done it was. And I hope that this book brings some awareness over this very real issue that many people have, either if it is only a mild condition or an over the top one. We should make an effort to understand better the people who suffer from OCD and not mock their condition like I've seen many do.GREAT JOB </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A remarcaby accurate description and a wonderful sequel to Promiscuous. </p>
+
+
+<h2> review.date </h2>
+  04-07-2014  
+<h2> review.text </h2>
+
+ <p> This really helped me understand the inner workings of Grant. I did not know how it was going to end and I loved it. Cannot wait to read about Margot </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love Grant Blue </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> Had to get that out. Sorry, I cant tell you WHY.So anyway... This book, Obsessive picks up almost where Tash's story left off. Her and Grant have been together for a while now. Except, our &#34;perfect&#34; boyfriend, has some issues. He is OCD. And not just slightly, he has chronic OCD. Which I can totally feel for him on. I have a mild, very mild case (washing my hands a certain way and color coding things, but maybe that's just me being weird)Tash knows about his issues for the main part, but she doesn't know how severe it really  is. And poor Grant is literally freaking out about whether she will leave him over pretty much every reason he can think of, even if it's not plausible.Tash is the same girl we all come to love in the first book. Still not giving a care about the world or anyone in it, except Grant. This book mainly talks about their progressing relationship, told through Grants point of view (Which I loved by the way), and how he is trying to overcome his OCD and become his idea of &#34;perfect&#34;, someone he feels Tash deserves.I think all and all, Grant and Tash are a perfect couple. They both have their problems, but together they make each other strong enough to get through anything. Which will come in handy in the next book... Please tell me there's another??? I wouldn't mind finding out how Grant, or even Tash handles their next adventure in life. :)A fantastic read! Would recommend for anyone who enjoys real life situations and events that happen to people like your best friend, or the girl next door.This book was given to me for free for a honest review. Thanks Izzy for letting me read the next adventure in Tash and Grants life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I BLEEPING knew it!!! </p>
+
+
+<h2> review.date </h2>
+  07-15-2014  
+<h2> review.text </h2>
+
+ <p> Isobel Irons' stories are addictive, seriously I love this series. After reading Promiscuous I had fallen hard for Grant Blue. So tickle me silly when I saw that there was a second book from Grant's POV. Let's just say this girl was a happy camper. This story captured my whole attention from the beginning to end, and can I just say that I love Grant even more now.Grant Blue has a mental illness known as OCD (Obsessive Compulsive Disorder). While in the previous novel his disorder was just briefly mentioned, now I got a full glimpse of what daily life is like for him. I have to say it was both sad and wonderful. My heart went out to him seeing his internal struggles with his anxiety, constant worrying, obsessive behavior on things, his medications that made him feel like a zombie. Not to mention living up to the expectations that people have of him. His mind was always running. My poor Grant.&#34;I touch the banister and walk downstairs, into the kitchen. There is a bowl of fruit on counter. I reach out and touch it. That doesn't bother me enough, though, so I go over to the trash can and touch the lid. Immediately, my skin starts to crawl. My fingers itch. My hearts races. I want to wash my hands. I want to count. Something. But I don't.Slowly, I raise my hand to my face. I feel the sweat start to form on my lower back. I feel like I'm going to throw up. I can't do this. It's too much, too soon. I can't do it.If I touch my face, something bad will happen. I'll get sick. I'll get other people sick. I'll die. They'll die.&#34; ~ GrantIsobel does a great job writing about this particular disorder. She really shows the challenges that Grant faces, but also his hope and courage of wanting to get better for himself and his loved ones. Of course I can't forget Tosh, Grants girlfriend. She still has that awesome sarcastic wit to her, but that girl loves Grant wholeheartedly and unconditionally. I loved his little sister Gen (Genevieve) and their sibling relationship had me cracking up.&#34;Gen's used to this by now, so she doesn't comment. Instead, she trudges over to the door of the ice cream shop and opens the door. Sometimes, she makes me do it, just to watch me do the contortion thing. But I guess today she's feeling nice.&#34;&#34;After you,&#34; she says dramatically, as I walk through the doorway. &#34;Your highness.&#34; ~ Grant and GenThe ending was great, though there was a little curve ball thrown in that I didn't see coming. It makes me very curious and excited for the future of these characters. I definitely cannot wait for more of the Issues Series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love Grant's story! </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> I actually read this book before reading Promiscuous b/c I didn't know it came after it, but oh man! This book was so great! I loved reading about a &#34;not so perfect&#34; perfect guy. This book was really refreshing & sooooo different from everything else I've been reading that I was pretty much crying throughout the book.I was able to relate to Grant's OCD. Not to the extent his was, mine is waaaaayyy mild compared to his. But i do know that there are people out there that live with this in their daily lives & it's heartbreaking. For me, personally, it gets depressing at times, but it doesn't hinder my life as much as did Grant's.Isabel, I really loved this book so much & I'm sorry I didn't read the first book first..lol. I shall read that one now :) thank you for this book! I loooooved chapter 20 & 21 & also your acknowledgements page. I believe over 65% of the book was bookmarked. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved this book </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> What do you do when your entire world revolves around rituals that prevent death and destruction everywhere you go? How do you live day to day trying to be normal without going completely insane? No really, Grant Blue would like an answer as quickly as you can provide one.In the first book of Ms. Irons's The Issues Series, PROMISCUOUS, we met Grant Blue, the seemingly perfect senior who could do no wrong except for fall for the girl from the wrong side of the tracks. In OBSESSIVE, we learn that Grant isn't so perfect after all. He suffers from OCD and spends all of his time performing rituals to prevent what he things is certain death and destruction for his loved ones. He tries everything from therapy to medication to quitting the rituals cold turkey just to try to live a normal life before heading off to college. Throw in a manipulative mean girl, his slut-shamed girlfriend, and parents who just want to help him feel better, and Grant quickly spirals from perfect prince to a beast who longs to be normal.I couldn't put this book down if I had tried. I found myself going back and forth between wanting to shake Grant and hug him. He's written so true to life with so many conflicting feelings and emotions that leave the reader with whiplash as he tries to come to grips with his disorder while still trying to play the perfect son, the perfect brother, the perfect boyfriend. And it's sad because Grant even says that he doesn't want to be perfect, he just wants to be normal. But what is normal? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> From Prince to Beast: Another Fairy Tale that Wasn't </p>
+
+
+<h2> review.date </h2>
+  04-13-2014  
+<h2> review.text </h2>
+
+ <p> This story is just a perfect everything! It's SO different than book one. Grant Blue is an OCD freak and no one knows exactly what he goes through. I love this story so much more than book one. I'm not sure if the third book in the series could be as good as the first two books. I LOVE the book cover! It fits the storyline so well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Book Two </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> What did you do to my Grant Blue?!?!&#34;Obsessive&#34; by Isobel Irons is book two of her Issues series and picks up not to long after &#34;Promiscuous&#34; left off. Unlike the last story which is told entirely from Tash's POV, this one is told by her Mr. Perfect, Grant Blue.&#34;I'm not perfect. I'm a walking malfunction. And more than anything, I'm scared. All the time. I'm scared to let Tash find out just how perfect I'm not, because then something bad will happen.&#34; -GrantI knew from reading book one of this series there was more to Grant than Tash realized and even towards the end when he admitted to having OCD (obsessive compulsion disorder) I still wasn't sure just how bad it would be. Let's just say that in this book, Grant struggles and struggles until he just can't anymore. My heart literally broke over and over again every time he tried to break his compulsions and rituals. And it wasn't just that my heart broke because he fought it so hard, it was because he punished himself. &#34;I'm not even sure if I'll ever be able to live away from home, or go to school, or hold down a job, or get married. Or anything normal people are supposed to grow up and do. Because I'm never going to be able to stop thinking about all the bad things that might happen if I try.&#34; He truly believed that if he didn't do something then it would cause harm to those he loved. Ugh! Just writing that makes my heart break again!!I loved the character growth in this book for Grant. We see at the beginning a boy who's only wish is to be normal and he grows to a man who can accept his disorder for what it is. Beautifully written and very realistic. I empathized with Grant so much. As I read I felt like I was living in his shoes for just a brief moment and how hard it was for him to always be &#34;Mr. Perfect&#34;, not just for Tash but his parents, his sisters, and everyone around him.I loved the relationship dynamics in this book as well. Tash's insecurities are still present, but we get a chance to see Grant's as well. Their relationship grows in this book and I just can't get enough of either of them (Please tell me there's going to be more from these two!) I also loved Gen, Grant's baby sister. She has such a hero-worship going on with her big brother that it's adorable!Hats off to Miss Irons for once again hooking me into a plot! I read this book in one sitting, unable to tear myself away for any reason. Watching Grant as he literally hits rock bottom was an emotional roller coaster for me. If you enjoy realistic, coming-of-age stories then please do yourself a favor and pick up this book/series. You will not be disappointed! Looking forward to Margot's story!***I received an ARC of this ebook from the author in exchange for an honest review.*** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mr. Not-So-Perfect and I love him all the more! </p>
+
+
+<h2> review.date </h2>
+  03-02-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed getting inside Mr perfect aka Grant Blues head was very twisted and confusing but that's what mental health issues do to ones mind it was heartbreaking to watch Grant hang on by a thread and close himself off from Tash and that ending wow I didn't see that coming I would love a novella or another book about there decision telling the parents ect so fingers crossed for that!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sequel </p>
+
+
+<h2> review.date </h2>
+  03-05-2014  
+<h2> review.text </h2>
+
+ <p> Isobel has a way of writing a book that captures and drags you in for the long haul. Her characters come to life and after a while you forget you're reading a work of fiction. There were several times while reading I would have to put the book down and take a step back solely for the purpose of absorbing what and how Grant was thinking. I've known and worked with someone with OCD and at the time I thought I was doing everything I could to be an understanding person. After reading Obsessive I'm now 99.99999% sure I absolutely drove him crazy. Even though this is the second book in The Issues Series, I didn't find that this is one that you have to absolutely have read the first in the series to get what is going on. That being said, I do recommend reading Promiscuous so that you can understand Grant's girlfriend and their relationship up until this point. I applaud Isobel for writing this series and bringing light to issues that we may not always think of or we shy away from. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another thought provoking read. </p>
+
+
+<h2> review.date </h2>
+  03-05-2014  
+<h2> review.text </h2>
+
+ <p> I was given an early copy of this book in exchange for an honest review.I had the pleasure of reading the first novel in this series, Promiscuous, and fell in love with the story of Tasha and Grant. I was very excited to get to continue that story, only this time through Grant's eyes.Everyone believes Grant is Mr. Perfect. What they don't see is Grant's struggling to survive his OCD.I really enjoyed this book. I appreciate the author tackling this subject of what it is possibly like to try and cope with an issue like this. You feel for Grant. You aren't sure if you are happy for him when he tries to go off his meds, or fearful because you know you it can't end well. You want to cheer for him when he seems to overcome even the smallest obstacle. Although I did not connect with Grant as much as I did Tasha, I still couldn't put it down.I sincerely hope, especially after that ending, there is another book :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mr. "Perfect" </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

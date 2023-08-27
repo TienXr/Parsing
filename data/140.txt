@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00DGGW3MI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-26-2013  
+<h2> review.text </h2>
+
+ <p> Very good cpu. This is an upgrade from FX8350 which is great also and I overclocked FX8350 to 4.4GHZ (same clock speed as new FX9370) on air (A30), all stable. This FX9590 is factory overclocked by AMD to 4.7GHz and stable (turbo oc to 5GHz). CPU chucks out 220W only when oc'd to 5GHz or more. Intel sycophants criticised this a lot because of the 220W heat output, even though i7-4960X @ 4.6ghz sucks c.350W under load. They alleged FX9590 would require a custom water cooling kit or at the very least a top of the range AIO liquid cooler (eg - Corsair H100i). Total rubbish. The FX9590 does not overheat at all. Even with my Arctic Freezer A30 air cooler (30!), the FX9590 idles at 36c and load at 59c. My main air cooler is Alpenfohn K2 mount doom. After 1 hour use, idle is 33c. Last night after 1 hour ME3, cpu was 49c. After 30 mins Crysis3, cpu was 56c. Yesterday during daytime (nice, hot weather) cpu was 39c idle. I am using a cooler master storm trooper chassis with 8 high performance (and silent) Akasa Viper fans.In Bios, following settings were automatically applied: CPU level up = cancel, CPU ratio = auto, AMD turbo core = auto, CPU/NB frequency = auto, EPU setting = auto, Xtreme tweaking = enabled, Cool n quiet = enabled, C1E = enabled, core C6 state = enabled, HPC mode = enabled, APM = auto. I have not changed any settings other than the RAM frequency from default 1333MHz to the full 2400 MHz (I have 2x4GB Kingston Hyper Predator X RAM at 2400MHz).Performance Passmark for my FX9590 rig is 10845. It beats i7-3770K (275) by 8%. The Haswell i7-4770K (280) is only 3% better performance than i7-3770K. According to independent online bench reviews, the FX9590 beats the i7-4770K (and it is also 40 cheaper). The FX9590 also beats the FX8150 by 31%. I noticed faster FPS in ME3 (24%) & Crysis3 (18.7%). In BIOS cpu voltage 1.452V, CPU/NB 1.4V, 8GB Kingston predator RAM 2400MHz @ 1.659v, SB 1.113v. All set to auto adjustment and all stable. In stark contrast is the i7-4770K which can just about achieve 4.1 GHZ, yet heats up to an eye watering 81c (even with liquid cooling). This commonly results in a BSOD.Online discussion forums have revealed that intel sycophants are obsessed about IPC while intel processors are transpiring to be quite impotent. For example, Apple A7 cyclone Arm cortex cpu has equivalent performance to sandybridge. However, SB is clocked 30% higher. Also, initial specifications for Sparc T6 and Power8 reveals they will both have far higher IPC than Haswell while having higher clock rate than Xeons and 8-threads per core. Despite Power and Sparc being far better than Arm cortex, they sadly do not have significant investment (although IBM has started to license Power).My mobo is Asus Crosshair V Formula Z. Recommended mobo's for this cpu are Asus 990FX Crosshair V Formula Z, Gigabyte 990FXA-UD7 Rev3 and Asrock 990FX Extreme 9. Make sure you have a beefy psu (at least 800W gold edition). Mine is Coolermaster 1200W Pro Power Gold. For 240 (from Novatech) this cpu is a reasonable price (I would have preferred c.200). I sold my FX8350 and regained 65% of outlay for my FX9590 (so overall, for the price of an FX8320 I managed to get the FX9590). I really wanted this cpu but I was not going to pay 650 for it when first released!. AMD needs to keep in the market by continuing to make good cpu's at a competitive price. The i7-3770K is 275 and the i7-4770K is 280, yet this FX9590 beats i7-3770K and i7-4770K hands down. AMD needs to improve TDP and make high end FX cpu's more power efficient. The FX9590 is a good exercise in overclocking, but this is not the be all and end all for improved cpu performance. AMD needs to focus on improved, streamlined, efficient architecture. With Jim Keller on board (hot shot cpu designer), I think the Steamroller will be something special. I'm interested to see if it will beat the FX9590!.As of May 2013, AMD has established R&D; labs in 'tech city' Bangalore and Hyderabad. AMD is now receiving substantial financial and scientific investment from major Indian tech companies. This can only be a good thing for AMD, since India is an upcoming and affluent player in the biomedical and technology industry. Also, if we refer to previous experiences, one only has to look at the famous British car company Jaguar, which was on the brink of bankruptcy but when the Indian truck company TATA bought Jaguar, it has turned this British company around. Jaguar has been saved from bankruptcy and with substantial Indian investment, it now produces the most amazingly good looking, luxury performance cars (and has also saved many British jobs). In the same way, AMD will start to produce better cpu's and gpu's with financial backing from major Indian tech companies. In the way that intel is now an israeli majority company, I suspect that within five years, AMD/ATI will be an Indian owned company. Indeed, this once american company will be saved from bankruptcy by Indian investment and eventual Indian ownership (which can only be a good thing. With AMD around, intel will not be able to hold the world to ransom).Overall, I am very happy with this cpu. The only complaint I have with the FX9590 is the packaging. It was presented in a flimsy cardboard box. I am disappointed as AMD should have presented their flagship CPU in the stylish and robust metal tin (as FX8350 and even APU's).UPDATE 30/09/13 - I decided to overclock my FX9590 on Alpenfohn K2 (BIOS fan speed controller set to user defined manual parameters). In BIOS I turned off all power saving and economy settings (in order to allow turbo-overclock). The cpu went to 5GHz, all stable. CPU temperature using speed fan 4.49 stated idle temperature of 44c and under load of 62c. All stable. I have now reset back to stock clock of 4.7GHz.UPDATE 23/02/14 - Over the last 5 months, I have been receiving racist comments from individuals (captain archer, koolkat et al), who are extremely intolerant of certain races and cultures (and have expressed their bigotry clearly). My tongue in cheek response to them was to add sarcasm to my reviews/comments. To all of you folks out there who are not racist, feel free to take my comments with a pinch of salt.Anyway, my rig =FX9590Alpenfohn K2 mount doom cpu coolerAsus Crossshair V Formula Z16GB Team Extreme RAM @ 2400MHz2xZotac 770GTX (SLI)Creative ZXR sound blasterCoolermaster pro power 80+, silent gold psu @ 1200 wattsSamsung EVO 1TB ssd (boot drive)Crucial 960GB ssd (my games)WD 2TB caviar black HDD (storage drive)WD eco-green 4TB HDD (storage drive)Phanteks enthoo primo caseW7-64 bit2xLGBDRELogitech X540Gamdias herpes gaming mech keyboardGamdias Zeus esport gaming mouse2xBenq XL2411T (144Hz monitor) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An exercise in overclocking </p>
+
+
+<h2> review.date </h2>
+  07-22-2014  
+<h2> review.text </h2>
+
+ <p> FAST, very nice CPU </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very nice </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> It's a good cpu, my biggest concern is sometimes the screen is black after powering up.Not sure if it's due to the cpu upgrade or if I need a new power supply.But it's a good product, you can probably find something similar in quality for cheaper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's fast. </p>
+
+
+<h2> review.date </h2>
+  12-10-2013  
+<h2> review.text </h2>
+
+ <p> Ahh yeaa! Playing Battlefield 4 multiplayer with over 200 fps is fun thanks to the powerful AMD FX 9590! This card is worth the money so pay up and play up! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Runs Battlefield 4 MUTIPLAYER SMOOTH! </p>
+
+
+<h2> review.date </h2>
+  04-18-2014  
+<h2> review.text </h2>
+
+ <p> Wow this processor simply rocks my socks and because it has 8 cores it can still rock 7 other people's socks at the same time.  When it is not busy rocking socks, it is busy chewing through frame rates per seconds on games like a fat kid eating cake (and there is no offense meant here, I was fat once and I could tear me up some cake ... BTW CAKE &#62;&#62;&#62;&#62;&#62; PIE).It drops punches harder than Chuck Norris & Bruce Lee combined.  When it was being delivered to me, it came shipped through Texas just because it wanted to stop and see Chuck Norris himself and get his blessing to carry on the legacy of kicking the crap out of bad guys.  Not only did Chuck Norris give his blessing but he also shed a slight tear on the processor which only supercharged it even further.If you want an ass kicking, supercharged monster from Monster Island who makes Godzilla curl up into a fetal position and cry little lightning tears, BUY THIS PROCESSOR! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic Processor!! </p>
+
+
+<h2> review.date </h2>
+  08-14-2013  
+<h2> review.text </h2>
+
+ <p> The performance of this CPU is almost the same as my old 8350. A 200 dollar CPU so why in god's name should I spend an extra 700 dollars for an extra 2-4FPS on games and around 4-8 seconds less on 3D rendering? Also for anyone who buys this product you better have a decent power delivery system on your motherboard or else it will burn-out the CPU and the motherboard. Also why am i getting 52C on idle using a Corsair H100i? It runs so hot is not worth it. AMD really shot their own foot with this CPU.PS. I am not a native English speaker so I am sorry... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I rather keep my FX-8350 the this.... </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> I game, I do some home video editing and I am an amateur photographer so I do a bit of photo editing as well.  This processor handles it all fast and efficient.  I loaded 50 pictures at 24 megapixels in RAW format onto  photo shop and it powered right through them without missing a beat.  My one complaint about this that I think everyone should be aware of is that overclocking is not really an option even though this is "unlocked".  It comes clocked at 4.7 but the max I could pull out of it was 5.2 Ghz before I started having problems with stability, so I knocked it back down to 5.0Ghz and it runs fine.... but 8 cores at 5 Ghz is way more than any application out today will need.  The temps with my custom water cooling system max out at 40C, and that was with me playing Skyrim on max settings, while transferring 3TB of data to an external drive and playing music off windows media player. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fast speeds with gaming, video, and picture </p>
+
+
+<h2> review.date </h2>
+  08-08-2013  
+<h2> review.text </h2>
+
+ <p> After finding about this item, of course as a Tech Reviewer I wanted to get hands on with it to experience this new AMD Product. After getting it shipped, I decided to run it in my PC to see how it looked, ran, and how cool it could keep. This card NEEDS liquid cooling, liquid cooling keeps your CPU very nice and cold, but at the same time you have a lot of things to worry about. Water leakage, accidental pouring, etc. This card has 80c on it for 900 Bucks, which is a rip-off of money considering that's 20c under for water's Boiling Point. This card also runs at 5 GHz which is VERY nice considering it's the first card to do that, but at the same time, my over-clocked 8350 does that amount of fire-power, keeps cooler, and is 800 dollars less.Pro(s): Better GHz, current, would last you a great while w/ Liquid Cooling.Con(s): REQUIRES Liquid Cooling, does the fire-power of an over-clocked 8350 and has the potential of over-heating.Last Review Notes: If you want it and have the money whilst not worrying about Liquid Cooling, go for it. But w/ 6 Fans in my NZXT 820 Case, 140mm's (2) pulling hot air out whilst four 200mm's push cold air in, it still didn't do that great. It's basically defective for air cooling and air cooling is cheaper AND better in my opinion, so in total, this product deserves it's 2 Stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very hot, doesn't do enough Fire Power for 900 Dollars. </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> This may not be the absolute top performer out there but it is FAST! and it does better in so many other aspects. I prefer threads to be real cores and not hyper-threads and wattage is not a huge issue for me. This processor has ironed out the minor issues associated with the older bulldozer architecture which is still good for me. I have an older 900X Asus motherboard that had a Phenom X6, then a Bulldozer FX 8150, and now a an FX 9590. So as you can see, over the years, I have not forked-lifted ANYTHING, not even cooling, and this is why if planned properly ROI is maximum with AMD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> simply the best </p>
+
+
+<h2> review.date </h2>
+  03-15-2014  
+<h2> review.text </h2>
+
+ <p> Works well. Have 8350 in a few systems and this in one. It is clearly faster, but does require a lot more cooling power and has higher power consumption. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AMD </p>
+
+
+<h2> review.date </h2>
+  03-29-2014  
+<h2> review.text </h2>
+
+ <p> Smokes... frkn heat machine.Forget any heaters up North... just buy one of these.Had so much heat I extended the water cooler hoses out to another room.Killer as the heat and fan noise is now outside my office...Effective cheap processor... but hot! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Effective cheap processor... but hot! </p>
+
+
+<h2> review.date </h2>
+  04-08-2014  
+<h2> review.text </h2>
+
+ <p> So far I am impressed with this AMD processor.  It installed easily and handles everything I have thrown at it so far. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> my first amd </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> The Piledriver FX chips are very fine products indeed, but this is just too expensive.Traditionally, AMD has been able to create chips pretty much identical to Intel chips, but for almost half the price.Ths processor only just matches the 3960X ($1000) and yet it has nearly the same price. If this was priced at $750-$800, AMD would really have a gem on their hands, but matching a product and only offering a few advantages over it really doesn't do much. I got a chance to use on of these for a couple days and was very impressed until I learned it was $970.This is not worth the money, and neither is an i7-3960x (or almost any i7 for that matter).The FX-8320 / 8350 remains the best chip for the money, since it can come pretty close to this with an OC and a $190 price tag.EDIT: The price dropped from $970. It's a good deal more competitive now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Competitive, but just. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

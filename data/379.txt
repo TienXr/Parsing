@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1933285222 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-26-2007  
+<h2> review.text </h2>
+
+ <p> Underdog Advertising is a unique book written with the small business in mind. It shows how the small business can take proven marketing principles and compete in the marketplace and win.The author opens the book with the tale of David and Goliath. Just as in the old story, David represents the small business and Goliath is the giant advertising agencies.The underdog principle consists of the Underdog Advantage Principles, the Big Dog Branding Process, and the Junkyard Dog Execution. The Underdog Advantage Principles goes into depth on the ten foundation priciples that guide the development of marketing strategies and tactics to help your business compete and win. It teaches you how to consistently deliver creative, nontraditional ways to win the high ground with limited responses. Big Dog Branding Process is essential so your business can carve out a niche in your chosen field and puts your company in the minds of your customers. The Junkyard Dog Execution shows you how to find unique ways to stand out from the crowd and how to impliment them.David and Goliath are revisited as a review of how to use all three of the disciplines to help your business compete and win advertising spots against the Goliath's. To help you put the principles and disciplines into action, the author provides a workbook at the end that takes you through each ten principles. Also included are branding worksheets that allow you to find your target prospect, define it and validate it.Every small business should have this book in their libraries so they can follow Mr. Flower's principles to help them define an advertising campaign that will reap benefits for their business.This is a book that will be used over and over again. A must have, keeper for your business. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Powerful Book for Your Business </p>
+
+
+<h2> review.date </h2>
+  06-21-2006  
+<h2> review.text </h2>
+
+ <p> Paul Flowers presents a series of 10 Principles of Underdog Advertising that point to classic marketing wisdom in a very approachable style.  His real-life examples that he uses to illustrate his Principles are easily understood and can be quickly adapted by any "underdog" marketer and used within any business.  I had to stop after each chapter to note the ways that I can apply his Principles to my own business and I came away from the book with a list a page long of immediately actionable ideas that I can use to make my marketing plans more focused, creative and successful.  His technique for really understanding the customer's true buying emotion is unique in that he presents a matrix useable by any business to uncover what truly makes the prime target customer for their product or service tick.I urge every underdog marketer to get a copy of Underdog Advertising - it will revolutionize the way you approach your marketing forever! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Classic Marketing Advice in Layman's Terms </p>
+
+
+<h2> review.date </h2>
+  07-21-2006  
+<h2> review.text </h2>
+
+ <p> Underdog Advertising by Paul Flowers is the best marketing book I have ever read. This is no small statement as I have a BA in Marketing from Loyola. The basic principles of advertising are explained and made understandable by Mr. Flowers. The best parts of this book introduced me to Karl von Clausewitz,explained psychographics and had a complete workbook for Underdog Advertising. Don't copy,compete! Great book that helps you define youe best customer prospects, and how to reach them on a small budget. Thanks Paul Flowers!Reverend Kenny D. KozlowskiAuthor of "Art or Not Art"The complete guide to finding valuable thrift store art!polishlightning@aol.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How to fight against big budget marketing and win! </p>
+
+
+<h2> review.date </h2>
+  07-10-2006  
+<h2> review.text </h2>
+
+ <p> The book is clearly and cleanly written. Some marketing books spend so much time creating their own jargon, you have a hard time following what is being said. The best thing about this book is that is makes you stop and think. Business owners tend to get into a marketing mode and just following a program, but never really take time to look at their particular business. They assume that because they are unsure of what will work, they have to try a little of everything and see what sticks. His chapter on strategy before execution is really good. Taking time to see what your competitors are saying could be the key to taking control of your market. You will use this book often as you adjust your marketing program to give you the greatest return on your investment. A good read, a good job by Flowers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Real Help for the Underdog </p>
+
+
+<h2> review.date </h2>
+  08-03-2006  
+<h2> review.text </h2>
+
+ <p> I've spent the last 15 years in marketing and always enjoy reading about principles and concepts to apply to my work.  This book focuses on the "underdogs" - but not necessarily the small business owner.  Some of the "underdogs" he profiles have large enough advertising budgets to allow them substantial print campaigns to compete with their bigger competitors.  For this reason smaller business owners should read this book and take note of the bigger picture of what author Paul Flowers is saying.  The concepts he mentions are solid and refreshingly free of the usual marketing jargon.  I especially appreciated the attention Flowers paid toward attitude and mindset, as I feel this is something that can define success in an organization. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good concepts </p>
+
+
+<h2> review.date </h2>
+  06-28-2006  
+<h2> review.text </h2>
+
+ <p> This book is about advertising for the small guy when competing against the big boys. The premise is that you cannot follow the crowd if you want to stand out, you must use unconventional wisdom. If all the other players are adverting on tv then you should try radio or some other media so that you message won't get lost in the crowd. I would love to have been able to give this book 5 stars. It is definitely a 4 and 1/2 star book. I would have preferred if the small guys he described would have been the very small budget operator with a less then $10,000 advertising budget operators like many small businesses are. I also would have liked it if he had shown more ideas of out of the box thinking.The author begins with outlining his 10 principles of underdog advertising.1. Think outside the box: Doing things different then everyone else2. Take risks: Your marketing and advertising should leave your palms sweaty.3. Strategy before execution: Come up with a solid plan before you begin execution4. Be contrary: Do the opposite of the going trends5. Select your battlefield: Find a segment you can dominate6. Focus, Focus, Focus: Chose a segment then work hard to reach that segment then expand outward little by little7. Be consistent: Don't change your campaign to often. Give your prospects time to recognize your message8. Demonstrate value: Creating value for your customers is what will make your product different and better then your competitors9. Speed & Surprise: Don't spend to long thinking about doing things, and get them done. It takes longer for large organizations to implement a plan then it does smaller ones. Once the big boys notice you, you will be ready to attack in a new direction10. Have patience: Market penetration takes time, be prepared to wait for results.The book ends with a mini-workbook for you to work out your thoughts and advertising plans. I really enjoyed reading this book and received a lot of good ideas from the book. I recommend this book for those looking to advertising and stand out from the crowd. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I would love to have given this book 5 stars </p>
+
+
+<h2> review.date </h2>
+  06-10-2006  
+<h2> review.text </h2>
+
+ <p> What we don't think of when we think of advertising! Underdog Advertising has so many unique examples and ideas that I could hardly keep my mind on reading the book. With each new example my mind would race to my own business and how I could easily adjust the ideas to make them my own and incorporate them into my advertising.But Underdog Advertising is not just a book full of ideas; it also goes into great detail about why your company should advertise in specific ways and which ways you should avoid (so you're not throwing your money out the window). There is a workbook in the back of the book so you can work through each of Paul Flowers' 10 Principles to get the most from Underdog Advertising.If you have any kind of business, you need this book. I'm so glad I found it; I'm shocked at how much I didn't know about advertising and you will be too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Incredible . . . </p>
+
+
+<h2> review.date </h2>
+  06-15-2006  
+<h2> review.text </h2>
+
+ <p> I was really pleased with the writing in this book--so refreshingly clean and simple.  The trouble with other advertising books is that they either provide the obvious advice or else try to be too clever and therefore read like an advertisement in itself.  This book is a pleasant read that focuses on advertising tips most suitable for small businesses.  I found it very helpful for my own business promotional efforts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> simple, direct, delightful </p>
+
+
+<h2> review.date </h2>
+  02-08-2006  
+<h2> review.text </h2>
+
+ <p> First, some good news. According to Jack Welch when explaining why he admires small companies: "For one, they communicate better. Without the din and prattle of bureaucracy, people listen as well as talk; and since there are fewer of them they generally know and understand each other. Second, small companies move faster. They know the penalties for hesitation in the marketplace. Third, in small companies, with fewer layers and less camouflage, the leaders show up very clearly on the screen. Their performance and its impact are clear to everyone. And, finally, smaller companies waste less. They spend less time in endless reviews and approvals and politics and paper drills. They have fewer people; therefore they can only do the important things. Their people are free to direct their energy and attention toward the marketplace rather than fighting bureaucracy."Next, some bad news. According to Michael Gerber in E-Myth Mastery: ""Of the 1 million U.S. small businesses started this year [2005], more than 80% of them will be out of business within 5 years and 96% will have closed their doors before their 10th birthday." These are indeed chilling statistics.Now some good news. Paul Flowers has written a book in which he identifies and discusses what he calls "Underdog Advertising Principles." If applied effectively, they can help any organization (regardless of size or nature) to compete effectively. Several years ago, in Only the Paranoid Survive, Andrew Grove stressed the importance of taking nothing and no one for granted, for being constantly alert to -- and being fully prepared for -- potentially dangerous threats. Flowers agrees. While brilliantly invoking the David & Goliath metaphor, he suggests all manner of strategies and tactics by which to prevail against an opponent who has superior resources. It is worth noting that David did not engage Goliath in a wrestling match.The relevance and value of the Ten Principles of Underdog Advertising really aren't limited to advertising, per se, and none of them is a head-snapper. Be Contrary, for example, and Strategy Before Execution. Indeed, much of the material which Flowers uses to illustrate these principles is from frequently cited sources such as The Bible (1 Samuel 17), Sun Tzu's The Art of War, and Carl Von Clausewitz's On War. Why are individuals, groups, and indeed entire organizations considered to be "underdogs"? Because, in one way or another, they must compete with "overdogs" who possess certain advantages such as having deeper pockets, higher levels of public recognition, more powerful allies, etc. We cheer for underdogs to "win" in films such as Hoosiers, Remember the Titans, Rudy, and Victory. In the business world, however, many underdogs struggle just to survive.There are several reasons why I hold this book in such high regard. Here are three. First, Flowers immediately establishes a personal rapport with his reader. The narrative reads as if he were having a direct, almost intimate conversation with his reader rather than rambling on self-indulgently as Donny Deutsch does in Often Wrong, Never in Doubt.Also, I appreciate the fact that Flowers uses almost none of the jargon of his trade. His material is accessible and will be understandable to advertising executives, of course, but he didn't write the book for them. Rather, he wrote it primarily for those whose organizations cannot afford the cost of hiring an advertising agency, probably have severely limited funds to spend on marketing (with or without advertising, per se), and need to understand how to make the most effective use of the resources they do have.Finally, I think Flowers does a brilliant job of helping his reader answer some very important questions which are relevant to but not limited to advertising or even to marketing: What is our business? Who is our customer? Who else competes for that customer? What differentiates us? Only after obtaining correct answers to questions such as these should decision-makers in a given enterprise formulate and then an appropriate strategy. If theirs is an underdog situation, Flowers' book is a "must read." In fact, it is a "must read" for almost anyone competing in today's business world...especially if they do not currently see themselves as an underdog. Indeed, if that is the way they see themselves, they are either an underdog now or will soon become one. Don't take my word for it. Ask Goliath.If you can't get through to him, read Andy Grove's Only the Paranoid Survive and Jack Welch's Winning as well as the aforementioned classics written by Sun Tzu and Carl Von Clausewitz.You may also find the following worthy of consideration: Robert Tomasko's Bigger Isn't Always Better, Bo Burlingham's Small Giants: Companies That Choose to Be Great Instead of Big, Jason Jennings' Less Is More: How Great Companies Use Productivity and It's Not the Big That Eat the Small...It's the Fast That Eat the Slow: How to Use Speed as a Competitive Tool in Business, and Don Taylor's Up Against the Wal-Marts: How Your Business Can Prosper in the Shadow of the Retail Giants. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Actually, Underdog Thinking </p>
+
+
+<h2> review.date </h2>
+  08-04-2006  
+<h2> review.text </h2>
+
+ <p> First of all, let's have a look of the proven principles preached by the author:-1. Think outside the box2. Take risks3. Strategy before execution4. Be contrary5. Select your battlefield6. Focus! Focus! Focus!7. Be consistent8. Demonstrate value9. Speed & surprise10. Have patienceCliche and common sense? Depends! Nevertheless, the beauty of it is not the provision of unique and extravagant concepts, but easily understandable and adoptable ideas furnished with plenty of real life practical examples. The two workbooks from page 175-206 of step to step guidance to apply the 10 principles well worths the price of the book (consider how much you have to pay for an external consulting agency). If you had not taken any marketing course before and you have to do marketing now, highly recommended! (though I think the much emphasized David vs Goliath metaphor is quite out of place)Below please find some of the passages I like the most for your reference:-You miss 100% of the shots you never take. - Wayne Gretsky pg 32Tactics without strategy is the noise before defeat. - Sun Tzu pg 34Strategy is the who, what, when, where, and why of advertising...Execution is the how...Because the key to creating effective advertising is to have the right strategy. pg 35The superiority in numbers is the important factor in the result of combat...the greatest possible numbers of troops should be brought into action at the decisive point. - Karl von Clausewitz pg 78Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until they are brought into focus. - Alexander Graham Bell pg 90It is better to overwhelm a few than to underwhelm many. pg 100Any damn fool can put on a deal, but it takes genius, faith and perservance to create a brand. - David Ogilvy pg 134p.s. In the very case you want to read something of the advanced level, "The 22 Immutable Laws of Branding" by Al Ries is a very good choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good book for all, esp those who have not taken any marketing course </p>
+
+
+<h2> review.date </h2>
+  01-01-2009  
+<h2> review.text </h2>
+
+ <p> Using two overriding metaphors, the Biblical story of David and Goliath, and Karl von Clausewitz's On War, this book lays out ten principles to develop and execute strategies to leverage relatively small investments in advertising, thoroughly integrate this strategic advertising approach with other marketing, and leapfrog overall corporate growth. Also, four types of buying decisions, five kinds of risks your customers take in considering you, three categories of benefits to the purchaser (something I've not come across elsewhere), five personality attributes that define most brands, and nine tests of a strong brand--tests that recognize that a brand is not only about a company's deliberate messaging, but also about the customer's direct experience.To a solopreneur, like me, the dollar amounts involved are sometimes scary, as in the case of Gardenburger, which leveraged a single highly visible ad on the final episode of Seinfeld--what would normally be a very effective way to waste a whole lot of bucks in a big hurry--into 400 media hits and a widely expanded distribution network that directly fueled a 91 percent growth in the next year's revenues. But many of the examples were executed for far less, and those techniques that apply outside of purchased advertising cost little or nothing.Among the key lessons: choose and define a battlefield small enough to prevail, muster enough resources to dominate your chosen slice of category, and answer the question about why people should buy from you. Oh yes, and don't be afraid to take risks and to be unconventional--not for its own sake but as part of a well-thought-out strategic plan.Two of the strategies the book often suggests are to direct your messaging to influencers/dealers, rather than end-users, and to create marketing that itself offers high value. My favorite example is the telephone call center management software company that researched its market to discover that putting out bid requests was a major headache for its prospects--so the company created software to automate the process, and distributed it at no cost to any call center manager who requested it. This tool was designed, first of all, to suggest bid specs that favored the company's solution, and second, to create a very warm prospect list.I very much like the creativity this book brings--not for its own sake, but for the sake of achieving big results for relatively low costs. If advertising is a significant part of your strategy, you'll want to study Underdog Advertising in conjunction with 33 Ruthless Rules of Local Advertising by Michael Calder, my own Grassroots Marketing: Getting Noticed in a Noisy World, and at least a few of the classics by the likes of Claude Hopkins, David Ogilvy, and John Caples.Shel Horowitz's award-winning sixth book, Principled Profit: Marketing That Puts People First, demonstrates how to build a business around ethics, environmental sustainability, and cooperative practices--and how to develop marketing that highlights those advantages. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Choose and Define a Battlefield Small Enough to Prevail </p>
+
+
+<h2> review.date </h2>
+  07-28-2006  
+<h2> review.text </h2>
+
+ <p> As a very small business owner, I read tons of marketing and business books. This is one of the best I've read.  First of all, I love the cover. To me, it conveys the concept of underdog advertising perfectly.  I thought the book was well organized and followed the "tell them what you're going to tell them, tell them, then tell them what you told them" format in a way that was reinforcing and not overly repetitive.  I'm very visual, so I particularly enjoyed his many word selections that evoked imagery. Statements like "If your marketing and advertising do not leave your palms a bit sweaty, you are not taking enough risk" and "overwhelm the few" made his meaning crystal clear.Some of the points I found most helpful include his definition of risk capital (how bold you can afford to make your marketing actions without running the risk of damaging your business) and the important difference between strategy and execution.  Several times in the book he urged us to do an excercise now, because we probably would not come back to it later.  How true that is, especially for a small business owner.  The "needs" grid and explanation was especially helpful to me in clarifying what specific needs my service addresses. Sometimes in small business you think you can satisfy all needs of all people, and without identifying your specific focus, you just spin your wheels.The "Select Your Battlefield" chapter was great, as was "Focus, Focus, Focus."  One of the points that really jumped out at me is you have to reduce your market focus down to the size you can afford to look BIG to. The "Lessons from a Junkyard Dog" chapter, with real-life, wildly successful examples of underdog advertising, were not only inspiring, but got my wheels turning.Well worth the time to read AND work through the exercises.  Taking action is what makes it work! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looking Big </p>
+
+
+<h2> review.date </h2>
+  11-20-2006  
+<h2> review.text </h2>
+
+ <p> Paul Flower's UNDERDOG ADVERTISING is a gem for every small business owner. I especially appreciate Mr. Flower's honesty throughout this book, particular in the anecdote he shares in his introduction, where he reveals how he and his partners realized (to their horror, no doubt) that they themselves had "...fallen into the trap of copying what our bigger competitors ... did--the same trap we were warning our clients to avoid." It takes guts to be honest in marketing, and Mr. Flower's has guts ... in spades.His recognition of David (of David/Goliath fame) as the archetypal underdog is brilliant, and Mr. Flowers uses the David/Goliath metaphor as a touch-stone throughout the book. BTW, much of the Underdog Advertising philosophy seems to be very much in keeping with the philosophy of the non-violent martial art of Aikido.Mr. Flower's Ten Principles of Underdog Advertising are worth the cost of the book alone (for myself, I'm continually working on the last one - #10. Have Patience).Kudos to Mr. Flowers for his discussion of psychographics for in the chapter on "Know Your Prospect". (I continue to be amazed at the marketing books that I read that stress demographics without ever mentioning psychographics).Finally, when approached with an open mind, the appendix of the Underdog Advertising Workbook can provide you with a wealth of information for improving your brand.My copy of Underdog Advertising is full of highlighted passages and notes in the margin. I'm planning on implementing these strategies over the next six month.I can think of no higher praise to give a book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Actually, Underdog Aikido .... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00B4JTH8W <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> I bought this because I wanted to mount my original iPad under my cabinets.  I really liked that the base swiveled and it had so many points of movement.  The installation was easy enough but once I mounted the iPad the joint at the base couldn't hold the weight.  As I tightened the thumb screw the metal screw simply stripped the plastic threads rendering it completely useless.  It went from unboxed to returned in less than 24 hours.I didn't want to give it 1 star because everything else was ideal for my use except for this issue. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not strong enough for an iPad 1 </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> So I can just lay down straight and have my iPad straight in my face and watch movie and read stuff, use to be sitting on my bed holding my iPad which gave me a little bit of back pain for not sitting straight, now watch netflix and not bother somebody just use an earphone, read stuff while laying straight neck supported by a pillow, back pain gone and no more stiff neck the next day hehe.Best thing about this thing is you can manipulate it at any possible angle you can imagine, you can even make your iPad look like a  digital photo frame and have something doing a slide show. I got the exact thing on the photo with the orange thing, some other buyer got a plain black, I guess mine looks more expensive than the plain black. good item </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I installed this on the wall near my bed. </p>
+
+
+<h2> review.date </h2>
+  02-07-2014  
+<h2> review.text </h2>
+
+ <p> The knobs holding the angle of the swing arm are not strong enough to do so. The broke within three days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Broke within three days </p>
+
+
+<h2> review.date </h2>
+  01-17-2014  
+<h2> review.text </h2>
+
+ <p> Item says it will hold upto a 10 inch screen / tablet -- Will not mount a Surface RT tablet, and I could not even get it to safely hold an iPad 2. Disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not fit Surface RT! </p>
+
+
+<h2> review.date </h2>
+  05-04-2014  
+<h2> review.text </h2>
+
+ <p> Not so much a TV mount as a tablet holder. Too big for my Nexus 7, but seems like it would work fine on an 10 inch tablet tho. I actually modified one to use as a small keyboard holder and it does that pretty well. Plastic-y feelng, but hey, works for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mount-it! MI-1401 TV Wall Mount, Black </p>
+
+
+<h2> review.date </h2>
+  12-15-2013  
+<h2> review.text </h2>
+
+ <p> I bought this tablet wall mount to use in my bedroom so in case I fall asleep  (which I've done many times) while watching a movie or the news to help prevent me from dropping it or laying on top of my tablet.  The 4 star rating is because the wall mounting instructions were not very clear and the base locking mount becomes disengaged easily. It would be great if the arms were longer as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tablet Wall Mount. </p>
+
+
+<h2> review.date </h2>
+  05-18-2013  
+<h2> review.text </h2>
+
+ <p> The first few days, I was really impressed with this mount. The mounting process left something to be desired when trying to get it attached to the wall, but once I had it installed and the base replaced, everything functioned well. For about 3 weeks. FYI, I only used this to hold an iPad, I would clip in the tablet before going to bed, and use it to hold the tablet while reading from a book. The following morning, I would remove the iPad, and not use the mount again until the following night. I did like the overall design, and after a few days use, I got it positioned in such a way where I didn't have to move it around anymore, and got the joints adequately tightened down. But after a few weeks of use, the arm lock began to fail- the simple action of swiping the screen to turn the page would cause the lock to fail, and the arm would swing around; my iPad experiencing what it is like to be a victim of gravity. Thankfully, my iPad has never fallen off the arm, the mount seems to hold securely even though the arm lock decided it didn't want to work anymore. I tried for about a week to hold the base with one hand while turning a page on the screen, but inevitably I would forget, and the arm would swing free every time. After a week of experiencing this, I went back to just holding the iPad myself, and I don't even use the mount anymore. Doing it again, I would look for something built a bit sturdier. The design seems to be ok, but the cheap plastic used in this production seems to be the point of failure. Save your money, and buy something better. I wish I had. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good design, cheap production </p>
+
+
+<h2> review.date </h2>
+  05-23-2013  
+<h2> review.text </h2>
+
+ <p> The most important thing when buying a bracket holder is how well you can maneuver it to get certain angles. I find this moves well and is flexible to use in different situations. I do wish it had a clamp instead of the screws to screw it in. But if you're sure where you want it, then that will be fine. It's a bit short, but it depends how far from the wall you will be or you can screw it upright to your desktop and use it as a very secure stand. The bracket is completely flexible and can be used on many different devices. And it rotates 360 degrees for all viewing angles.If you want a permanent station where you can set it up and the length is right, this will work nicely for you. And it will give you the flexibility to move it to any angle for viewing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Moves well and is easy to use </p>
+
+
+<h2> review.date </h2>
+  05-28-2014  
+<h2> review.text </h2>
+
+ <p> Just wish it had a suction mount. Great if you have a permanent placement for it. I might get another in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Holds an Ipad </p>
+
+
+<h2> review.date </h2>
+  09-17-2013  
+<h2> review.text </h2>
+
+ <p> Despite what the headline says, this does NOT fit 7 inch tablets. It doesn't fit the Nexus 7. And I waited too long so now I can't return it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doesn't fit Nexus 7 </p>
+
+
+<h2> review.date </h2>
+  02-17-2014  
+<h2> review.text </h2>
+
+ <p> We use this on the wall above our treadmill.  It works great.  Lots of angle options and appears to be sturdy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for tablets </p>
+
+
+<h2> review.date </h2>
+  04-02-2013  
+<h2> review.text </h2>
+
+ <p> I love it when you purchase something and it turns out better then you imagined it would be. After looking for days for such a device to hold my IPad in the kitchen this unit is hard to beat. For one the price was more than reasonable. I had almost given up when searching as I kept coming across units that were hundreds of dollars. I bought two just in case I like it for fear of not finding it again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than I thought </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this wall mount to hold my iPad 2 in a workshop environment.  For this purpose it works rather well.Overall the construction is solid.  Though plastic, the mount maintains a sufficient rigidness.  I was concerned when placing the order that using this stand for a touch device would cause the iPad to move too much while in use.  I can say this is not the case.There are five articulating points on the mount -- four on the arm and a ball/socket type joint on the actual TV/iPad mount.  The middle two joints use large wing nuts to tighten and are very easy to use.  The joints that are closest to the mount point and the device itself use smaller knobs.  Though not as easy to adjust I did not find them annoyingly difficult to tighten.  In fact all four of these joints were easy enough to tighten and hold their positions well.The actual TV mount is attached to the articulating arm with a ball socket.  These are all plastic parts as well.  The socket has slots that enable the ball mount to hold the unit without rotating in four positions -- up, right, down, left.  You can also choose to use ball mount so that it doesn't utilize these lots.  This gives you 360 degree rotation capability of the device.  The key point is that this final articulating location has a firm grip but it is not a fixed grip or position like the other joints.  It seems reasonable that this joint would also become less grippy with a lot of use down the road.The actual clamps that hold the device have a few issues that prevent a five star review.  First, the depth of the clamps are fixed so you cannot adjust them.  They are approximately 3/4 of an inch deep.  My iPad with its smart cover fits well inside these and even though there is extra space it seems to hold it well.  You will not have luck attempting to hold anything that is thicker.The two lower arms are a fixed radius.  They are hinged such that they will hold the same angle relative to another and that is a nice feature.  You will not be able to adjust the distance from the center of the mount to the holders if you wish to hold something smaller or larger.  This is definitely designed for devices in the iPad 2 size range.The corner clamps can adjust their angle only slightly to accommodate their position.  Again, given the small size range this is designed for that isn't a big issue.The top clamp is adjustable in height.  A lever is decently accessible behind the mount to lock down the position.  Leaving it unlocked still holds an iPad well and makes it slightly easier to insert and remove the device.In general I like the mount and it certainly met my needs for holding an iPad in my workshop.  Improvements I would like to see would be to have all articulating points be firmly lockable so an exact position can be maintained and adjustable depth on the three clamping points to better accommodate slimmer than 3/4&#34; devices. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fairly well as an iPad holder </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> I use this with my ipad 2. I had a little difficulty putting together. I hung it on concrete block in the basement above my treadmill. Nice to have a little &#34;tv&#34; there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what it should </p>
+
+
+<h2> review.date </h2>
+  03-18-2014  
+<h2> review.text </h2>
+
+ <p> We use this in our nursery for my wife to be able to watch Netflix or something on DirecTV while she's nursing our new baby.  It works really well.  Holds the iPad perfectly, and is easy to adjust.  I would recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Holds iPad well </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> Its a very good quality and quite tricky while fixing </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Four Stars </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

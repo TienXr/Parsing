@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1484000633 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Slow moving </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed Ghost in the machine and Devil in the details, but this one wasn't as good.  The characters are still well developed and interesting, but it was slow moving and I kept loosing track of the gist. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I don't want to drink whiskey anymore </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Thanks, Ed. Book 3 had an interesting premise and enough twists in it to keep me guessing and changing my mind. It also sets up rumors of a big change coming in the police force hierarchy, and I wonder if book 4 will plop us in the middle of it. Now comes the long wait for the sequel. Well done, Ed, and thanks for the hours of entertainment so far. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Crime Series </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Since I finished book 3 - Fire in the Blood, I bought and finished four and just started the fifth. The storyline in 3 was good, and when you think you have figured out who did it, along the way and of course by the end you find out you were wrong. I think that is because the author didn't go for the obvious. I've read similar books that I've figured out &#34;who did it&#34; very early on because the story was so predictable and not a very original story line. The main character, a detective, is well developed and we see everyone through his eyes. He has personal and work relationships that evolve through the series, particularly with his girlfriend and the people who supervise his work. I enjoyed these books including the geographical descriptions. There were interesting colloquialisms with a few easy to figure out, but most hard. You can read these books out of sequence but it is better to read them in order. I don't write very well, so I hope I gave readers a good enough review that you will try the books. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great read </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought ghost in the machine because of the name, not that I'm a Gilbert Ryle fan. Also because it was free.i've finished the second in the series and just purchased the third. These books are well written and realistic, with a Loy of dramatic tension. I really like these books. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What a way to ruin good whiskey!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was such a waste of whiskey, but, the story was better than anticipated a well done mystery. The more Scott Cullen I read the more I want to visit Scotland!!  not for the murders but the scenery!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great story line </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you like British police stories you will love Ed james novels.  Love the characters and the on going battle of the wills between Cullen and Bain. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another winner from Ed James </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Just finished this -- and ordered the fourth book in the series to read on my Kindle at the same time.Really enjoying watching Scott Cullen move through these mysteries, solving the case while keeping his cool around Bain, Irvine and the rest of the characters/coppers/suspects that populate these stories.  Very few wasted scenes, which is a plus for me; in addition, it's cleverly plotted and has many a "ah ha" moment.May have trouble thinking about (or drinking) whisky after finishing this, though.  But that's entirely due to Ed James and his creative process.  I'll get over it, soon enough. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome read !!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Third book in the Scott Cullen series by Ed James. As with the first 2 books of this series the book was an excellent read. Could not put the book down. The constant battle between Cullen and his boss Brian Bain is somewhat comical but adds personality to the series. Cullen tackles a murder that occurred in a family whiskey manufacturing business. Author James very knowledgeable on all aspects of this manufacturing process, and it shows. Cullen is a hard guy not to root for because of the craziness of his boss, and ineptitude of his co-workers. Do not miss this series !! All 3 so far have been 5 star reads ! Starting on fourth as soon as I finish typing ! (less) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another great Scott Cullen mystery! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm always happy to read and review one of Ed James' Scott Cullen mysteries. I confess the title of Ghost in the Machine kind of threw me for a loop and I wondered WTH I was getting in for. I almost turned him down. Once I started reading, the title no longer mattered and I was glad to be introduced to this series. I also confess that when Ed asked if I would review Fire in the Blood and sent it along to me, I dropped all the other books on my list in favor of reading this one first. Once I find an author I like, I will read everything they write and now Ed's on that list. Frankly, I was relieved to pick up a book I actually knew I'd like before I even started reading it.Writing a series allows an author to really develop characters and setting; if the job is done right, reading a book in a good series will be like curling up on your sofa with a bunch of old friends, ready for the next adventure. I like series and I really like this series.When I read a murder mystery, a lot of the fun (for me) is to try and guess who the killer is before it's revealed and I give high points if I can't guess. This one had me as baffled throughout as the previous two - which is, of course, the whole point. It helps that the characters are familiar, because there's a lot going on. The author continues to add depth to Cullen while fleshing out the story with secondary and minor characters.What better place to hide a body than in a whiskey barrel that nobody's going to open for years? Scott Cullen has a lot on his plate with this case, including his usual conflicts with Bain and pending changes in the police department. To further confuse things, two young men who could fit the description of the body disappeared at approximately the same time as the barrel was sealed. By the time the body is finally conclusively identified, Cullen's list of possible suspects is getting rather lengthy. Cullen's running a marathon to solve the case while taking flack from Bain. By the time I was 30% into the book, I could hardly put it down, and the ending had me biting my nails.If you haven't read the other books in this series, you should - not because this book can't stand alone, but because you're missing out on a good read. Or - read this book and you'll go back and read the other two. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A 1st class thriller </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Book 3 in the Scott Cullen mysteries and the series goes from strength to strength.The story this time revolves around the finding of a body in a whiskey cask at the Dunpender Distillery. The body could be one of two people, a son of the distillery owner or a former worker - both have been missing since distillation in 1994.Again, Cullen and his boss Brian Bain continue to rub each other up the wrong way and these interactions add to the general mixture of characters in the investigating team.The story rattles along at a good pace and the ending really ratchets things up a notch.Looking forward to more in the series </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B009AMBEKY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> It fits.  It looks good.  The hand strap is tight and therefore usable.  It is very well priced.  I wish it came in a couple more colors but this case is an excellent buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great case.  great price. </p>
+
+
+<h2> review.date </h2>
+  01-11-2013  
+<h2> review.text </h2>
+
+ <p> First I would like to thank M. Erb for the wonderful job he did reviewing this case. He really sold me on this case. The case is well constructed and a pleasure to use. I especially enjoy the handle for one handed reading , nice touch. I haven't looked at any other case so I don't have a comparison point, but I will say I'm confident my Kindle Paperwhite is well protected. Good quality, price, and value, I could not ask for more. I highly recommend this product... buy it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Right Case for the Job </p>
+
+
+<h2> review.date </h2>
+  03-20-2013  
+<h2> review.text </h2>
+
+ <p> The wrap around method of holding the kindle is much better than the diagonal corner straps most have.  It covers the distracting Kindle logo.  The elastic strap holds the cover shut well and is easy to open.  No annoying buckle and snap. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inexpensive but fits and looks good </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> JKase(TM) Executive Series Premium Quality Custom Fit Folio Case Cover Compatible with Kindle Paperwhite Display Wifi + 3G Model (Black)Excellent product at a great price.  I bought the case when it was on sale so there was quite a savings.  I should habe purchased a few of them.  The current prices is still more than reasonablle.  I bought a 2nd case at the current price for a friend and she likes the case as much as I do mine.  Seller was the W2 Corporation; they delivered the product exactly as promised.  Happy to do business with them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kindle Paperwhite Case </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> If you are like me and didn't want the auto sleep and wake you will love this simple case.  Very snug fit and love the little strap to slip my hand in </p>
+
+
+<h2> review.summary </h2>
+
+ <p> perfect fit </p>
+
+
+<h2> review.date </h2>
+  07-17-2013  
+<h2> review.text </h2>
+
+ <p> This item is great. It protects the paperwhite and it looks nice.The surprise feature that I love is the little suede flap on the front cover. This is the most comfortable way to hold a tablet that I know of. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good reviews for a good reason </p>
+
+
+<h2> review.date </h2>
+  10-16-2012  
+<h2> review.text </h2>
+
+ <p> This Paperwhite case came to me at no cost from the manufacturer for review. I admit that, looking at the price, I wasn't really expecting much. It's pretty cheap. So you know where I'm coming from, I also use the Amazon cover for my Paperwhite and am pretty happy with it. I've played with the JKase for a while and I really do think it's a great alternative for those that want not only a cheaper alternative, but a different type of reading experience.The good:For those that are distracted by the "Kindle" word on the Paperwhite, this covers it. You slide the kindle in from the top and there's a flap that tucks behind it to keep it secure. Makes it really easy, actually and more secure than I thought it would be. I actually slung around the kindle (over my bed, don't worry!) trying to get it to fall out, but couldn't.There's an elastic strap to keep it closed (or open when you're reading so there's no flapping around going on). That's my biggest complaint about the one I'm using now - the cover flaps open if I'm not holding it folded back.There's a nice little "pocket without a bottom", for lack of a better word, that you can actually slide your hand through while you're reading. This is actually kind of cool because you can read one-handed and use your thumb of the same hand to change the page. I have pretty medium sized-hands, but I think if you had smaller hands it might be more of an issue.There's also a little wallet that you can tuck business cards or your driver's license or whatever into, nothing big, but something.The bad:I'm not in love with the exterior. It's fake leather and it does feel it. It's a little more slick than I'd prefer.The interior is a soft suede. Mostly, this is good and makes my kindle feel all nice and cozy, but I've had a bad experience previous with this type of material, so I'm thinking that eventually it will start to leave little bits of itself on the kindle face. It hasn't - yet - but I'm just waiting! I'll update if it does.If you're in love with the fact that the Amazon cover turns the kindle on (like, I admit, I am), then this will disappoint. However, if that's not important to you (or you use special offers where the turning-on Amazon cover is less important), then this is a FABULOUS alternative.It is slightly thicker on the device than the Amazon one, but it's really not noticeable.Recommended for those that read one-handed on their device (like while cooking or whatever) and for those that don't care about the auto-on feature. Or just want something inexpensive and easy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little affordable cover alternative for your paperwhite </p>
+
+
+<h2> review.date </h2>
+  01-11-2013  
+<h2> review.text </h2>
+
+ <p> This case fits perfect, I love it.  Very light, no movement, very good protection for my Kindle Paperwhite.  No problems at all </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just Perfect in every way </p>
+
+
+<h2> review.date </h2>
+  10-19-2012  
+<h2> review.text </h2>
+
+ <p> I am a big fan of Kindle covers and cases for one simple reason: the Kindle "screen" is very fragile, and I have already broken two Kindles because of this. So over the years I've become very cautious about leaving my Kindle "exposed," especially if I am taking it with me in a bag or in any other manner. So the first thing I look for when I buy a new Kindle is a protective sleeve.I am not a big fan of reading cases in which you permanently keep your Kindle. One of my favorite things about Kindle is its light wright and very compact size. Those features make for almost effortless holding experience. However, this particular JKase makes it very easy to insert your Kindle and take it out, so I'll probably use it as both a case on an occasion, as well as a protective sleeve while going about with my Kindle.The case is a bit thicker than I would have liked, but it's otherwise very handsome. When closed it resembles a Moleskin notebook, especially with the fastening strip on the side. The black faux leather looks nice enough and is pleasant to a touch. The interior is covered with suede. I am not the biggest fan of this material, but this particular kind does not irritate me at all.As already mentioned, it's very easy to insert Kindle inside and take it out. The clasp that keeps Kindle from falling out does not fasten to anything, but uses clever design to secure the Kindle. The case leaves the power button and the USB port exposed and accessible.Reading your Kindle while inside the JKase is for the most part easy and comfortable. Having the case does add to the thickness, perhaps even doubling it, but this is not all bad. I find it that having a thicker case can make Kindle more comfortable to hold. The elastic strap that keeps the cover closed while not reading also keeps it firmly open when you do read. The cover side of the JKase comes with a small hand pocket for firmer hold, although I didn't find this way of reading particularly effective. There is also a small pocket in which you can insert a note or some other small object. I've used this case with my Kindle Paperwhite, although it can also work with the smaller "regular" Kindle. However, the fit for this smaller model is not as snug.Overall, I really like this case and would definitely recommend it to anyone who likes having the Kindle in a case constantly. It is nicely made, functional, and very affordable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nicely Made and Functional Kindle Case </p>
+
+
+<h2> review.date </h2>
+  11-16-2012  
+<h2> review.text </h2>
+
+ <p> This product is true to the description.  However, the left edge of the material runs flush with the screen and the right side has about 1cm space.  So it sort of catches your eye when reading in light.  Other than that, it keeps my Kindle pretty well protected. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SCREEN CUT OUT NOT CENTERED </p>
+
+
+<h2> review.date </h2>
+  10-16-2012  
+<h2> review.text </h2>
+
+ <p> I originally was not going to buy a case for my Paperwhite.  I really value its small size and the Paperwhite's nice rubberized back resists scratches and is easy to hold securely.  I did not want to lose those benefits.What changed my mind was the Paperwhite's front frame that is distractingly reflective and shows every fingerprint.This case rates a 4.5 stars for meeting my criteria, bumped to 5 stars for its cheap shipped price.My priorities for a Kindle Paperwhite Case were:1. Economical - Paying $40 for a case makes sense for my $600 iPad 2, but is nuts for a $100 reader. There are a lot of nice choices available for less than $10 and this is one of the best.2. Compact and Lightweight - one of the core reasons to use a Kindle is it's light weight and small size. A bulky thick case defeats the purpose.3. Flexible binding - I need to be able to bend the cover behind the kindle so I can read with one hand. If it has a hand strap that's even better.  This does.4. Not cheap looking or feeling - Workmanship should be OK, and if it looks and feels like leather that's a bonus.  Here is where I drop it down 1/2 star. Like the previous reviewer said, the faux leather and suede do not look expensive and the workmanship is fine but not great.5. Protects the screen from scratches and the Kindle from drops.  The hand strap works great.6. Here is why I switched from the Acase that I really liked on my Kindle Touch. Instead of plastic bands, this case has a leatherette sleeve covers the whole shiny front frame.  It eliminates glare and does not show fingerprints.  The frame holds the Paperwhite securely and does not get in the way of normal operation or cover any of the screen.So I would rate the case 4.5...but have bumped it up to 5 because it really is a great value. It is as lightweight as it could be and still protects the Kindle.The binding folds easily backwards to hold. Workmanship is fine, and the faux suede interior looks fine and feels great to hold.Finally, the outside elastic band holds tight, but I do not have much reason to use that. At this price, 5 stars and perfect for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical Design, Good Construction, No Fingerprints </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> It's not as slim and sleek as the Amazon paperwhite case, it's actually quite bulky in comparison, so I was a bit jealous looking around at other people's slim Amazon cases while riding the trains, but seeing as the Amazon case is almost 4x the price, I think I can deal with a bit of bulkiness. Plus, I do like the hand slot and the cover is flexible enough to fold completely behind. So all and all it's a good serviceable case that looks decent enough, but it's definitely not a ferrari of cases. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good case for the price </p>
+
+
+<h2> review.date </h2>
+  11-19-2012  
+<h2> review.text </h2>
+
+ <p> I bought a kindle paperwhite two weeks ago and someone told me the screen is kind of fragile. So I looked up some cases for kindle. The thing about kindle paperwhite is, even if you have that "official" case, when you open the cover, the screen lights up, you still have to swipe it open. This doesn't make too much sense to me. If I have to swipe it open anyway, I probably won't mind press the bottom button once before I swipe it open. If I can save both, sure thing, I like it, but with saving only one action? Maybe I'll just want to save my $30 to buy this case instead. (Also, spending $40 on a cover for a $119 tablet, just doesn't make a lot of sense to me.)It works pretty well, I've never tried the Amazon version of the cover though, so no comparison really. But considering it a ten bucks case, what more do you want?I like it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> The case fits the paperwhite nicely, is relatively inexpensive but looks a lot costlier than it is. My case had a minor tear on the faux leather, don't know if it came that way or I caused it. Nonetheless, it didn't bother me enough to seek a replacement. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good case, inexpensive, looks nice </p>
+
+
+<h2> review.date </h2>
+  12-01-2013  
+<h2> review.text </h2>
+
+ <p> Provides extra protection for my nook without interfering with the readable of the the device. Magnetic clip keeps cover securely closed and open when reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Recommend </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> This cover does add a bit of weight to the device. I am used to reading while lying down and bought this for the strap. Even though the strap is useful, because it's quite broad and tight, your hand starts aching after holding it up for around 15-20 minutes. For readers like me, this is not very useful. Maybe a little bit thinner strap and a bit less tight would have helped. The quality of the case is not bad though and for the price it's quite a good case provided you're not using the strap the way I am. I guess it's not meant for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good cover - bad ergonomics </p>
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> This case is light-weight, and seems fairly well padded. The elastic band is a nice touch, and the way the case holds the kindle in, seems like it wouldn't work well, but it does. I probably won't use the hand slot as it is a bit too snug for my taste, but it isn't in the way at all, which is one reason it is so snug. Overall, this compliments the light-weight and easy-to-use features of the paper-white and I would suggest it over buying some hefty case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect Compliment to the Kindle Paperwhite </p>
+
+
+<h2> review.date </h2>
+  06-12-2013  
+<h2> review.text </h2>
+
+ <p> This does its job well.  It protects your kindle and it fits nice and snuggly.  The only downside is that it's extremely bulky.  This case more than doubles the size of the paper white.  This means that it no longer really fits in my jacket pocket.On the other hand I've been pleasantly surprised how often I use the elastic hand strap to keep the tablet firmly in hand while commuting.  I never thought I'd use it, but I now find that I use it the majority of the time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but a little bulky </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> This was exactly what I wanted in a cover for my Paperwhite. For the price it is an excellent purchase. I looks good closed and open. The only thing that would have made it better is if the foldover that holds the Kindle in had velcro on it. But not such a big deal that it is an issue. Very happy with my decision to buy this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very happy </p>
+
+
+<h2> review.date </h2>
+  11-05-2012  
+<h2> review.text </h2>
+
+ <p> I have no complaints about this case.  It is exactly as described on the product page.  It is a functional and attractive design that is very light weight and well made.Well made.  The stitching and build quality are very good, especially considering the low price.Innovative design.  The design of this case is very nice.  The way the Kindle slides in, and the hand strap differentiate this from other similar cases.Light weight.  Besides being cheap, this case is also very light weight.  It barely adds any weight to your Kindle.The only thing that I don't like about this case is that it is made of vinyl instead of leather, but they fully disclose that on the product page, and the cost and weight adequately reflect this material choice.I probably wouldn't buy this case myself, only because I really don't like Faux Leather, but if you don't mind that one attribute (or appreciate that no animals went into it), it is a great case over all, especially at the current $12 price point.Disclosure:  I was provided this case free of charge, by the manufacturer, in exchange for an unbiased review.  My review was not influenced at all by the free product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stylish cheap way to protect your Paperwhite. I like everything except the material. </p>
+
+
+<h2> review.date </h2>
+  02-06-2013  
+<h2> review.text </h2>
+
+ <p> This case is perfect.  It fully protects the Kindle and stays closed with a band vs a magnet (I feel magnets can be knocked open easily in a bag/purse).  I also like how this case doesn't block the screen in any way.  The kindle fits into the case very securely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000FKO420 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-18-2012  
+<h2> review.text </h2>
+
+ <p> I'll keep this review short and succinct. This DVD pack is stellar. The animation is leaps and bounds ahead of other animated shows of the time period. The music and storyboards and direction put the show in elite status. The first season storylines were so detailed and rich that grown ups could watch and enjoy the show. It was also faithful to the original comic strip.My only pet peeve was the format change giring the second season of the show. They dumbed it down by adding a pink dragon with wings. It is too bad that this show is out of print. I bought it for $31.00 during the days whrn I worked at B&N.; The DVDs in the packett will mesmerize you. Even though the second season is weak, overall, the set is still a Four and a Half Star rate. The defenders of Earth pilot is nothing to write home about. Too many characters with too few voices to match them.Buy this and you will not be disappointed.A. Nathaniel Wallace, Jr. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best Rendition Of Flash Gordon! </p>
+
+
+<h2> review.date </h2>
+  07-13-2006  
+<h2> review.text </h2>
+
+ <p> I am THRILLED beyond words that Filmation's Blackstar and Flash Gordon are both FINALLY being released as complete series sets on DVD!For their time, both shows were very well-done in terms of plot, animation, music, and visual effects.Ironically, considering that most American produced anime has recently become low-tech CGI cubist [...] these two vintage entries will be a welcome naturalist relief.Considering that they were both basically early American anime -- Pre-Robotech / Pre-Voltron -- I am completely flabbergasted that either show even actually made it to DVD but I guess we can thank He-Man, Transformers, G.I. Joe, and the Thundercats for starting the retro-wave. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> At LONG Last, Filmation's Blackstar AND Flash Gordon on DVD! </p>
+
+
+<h2> review.date </h2>
+  03-11-2008  
+<h2> review.text </h2>
+
+ <p> This series was my first exposure to Flash Gordon and is my personal favorite, although I enjoyed the old serials with Buster Crabbe very much as well.  The animation of this series was top notch for its time utilizing rotoscope to aid in the action sequences.  The backgrounds of the different realms of Mongo are beautiful.  The voice talent was excellent as well and what I liked about them is the same reason I liked the old serials.  The actors were very effective in selling an outlandish story and make it seem plausible which is very difficult to do in a cartoon or in a live action version with limited special effects.  I liked this version much better than the 1980s film with Sam Jones because it isn't campy.  Flash Gordon was the Star Wars of its day and its just plain fun.  After finding this gem I will be looking for other Flash Gordon material.  This CD was a great way to re-introduce myself to my childhood. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This takes me back. </p>
+
+
+<h2> review.date </h2>
+  09-19-2006  
+<h2> review.text </h2>
+
+ <p> I just dig this dvd set of flash gordon. Filmation you rock!! Bci knows how to release box sets of classic cartoons the way fans wanted them to be released. this set is top notch i was blowin away by the sheer workmanship of the animators on this series it was just wonderful bravo to you guys that worked on this series . and to lou thanks for making positive classy cartoons that've held up all these years.I Highly Recommend this Set to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thanks Filmation And Lou Flash Gordon Wonderful. </p>
+
+
+<h2> review.date </h2>
+  07-05-2006  
+<h2> review.text </h2>
+
+ <p> I spent my Saturday mornings as a kid in the 1970's growing up on classic Filmation television and the New Adventures of Flash Gordon is, without a doubt, one of the greatest animated series of all time.  This show revolutionized cartoon animation the way that Star Wars revolutionized special effects, which seems somewhat ironic because Flash Gordon was the primary influence for Star Wars and the animated Flash Gordon cartoon would debut shortly after it to ride the wave of Star Wars' phenomenal success. The animated series would also influence much of the production design of Mike Hodges' live-action 1980 film starring Sam Jones as Flash and Max Von Sydow as Ming the Merciless.  Much of the realism of the animation is attributed to its unique "rotoscoping" technique in which live actors are filmed and then each frame is traced and replaced with animation cells.  The result is realistic figure movements that make the animation come to life.  I always loved the animation because of this as well as the incredible spaceships whose fluid three dimensional movements and aerodynamic designs were as visually exciting to watch as any of those in Star Wars.The first 16 episodes of the first season were serialized the same way as the old 1930's Alex Raymond comic strips.  The second season suffered when NBC decided to change the format of the show by cutting them down to 12 minute chapters (2 per episode) and the addition of the Godzooky-like flying dragon Gremlin was thrown in to "juvenilize" the show for the kiddies.  The result is a precursor to several 80's cartoons that followed such as Filmation's own Blackstar in 1981 featuring the heroic John Blackstar and the dwarven Trobbits and in 1983 with He-Man and the Masters of the Universe with sidekick Orko the Magician.  He-Man was developed primarily as a line of toys by Mattel the company who also produced a series of action figures and toys for Filmations' Flash Gordon cartoon so the partnership between the two seemed only natural.  In fact, several of the vocal performers from He-Man and She-Ra were featured in Flash Gordon first including Alan Oppenheimer who voiced Ming the Merciless and Doctor Hans Zarkov was also the voice of Skeletor, Man-At-Arms and Cringer on Masters of the Universe.  Melendy Britt who was the voice of Princess Aura was also the voice of She-Ra, the Princess of Power and Diane Pershing who was the voice of Dale Arden was also the voice of Poison Ivy on Batman: the Animated Series and the voice of Isis on Filmation's Tarzan and the Super 7 together with Robert Ridgley who was Flash and Prince Barin as the voice of Tarzan.  Hopefully the release of this classic series will renew interest and demand in Flash Gordon and generate a new demand for the old Mattel action figures and memorabillia.I am very excited that this series is finally being released in the U.S. even though I have already purchased the European PAL set a few years ago.  The "deluxe" 4-disc North America release includes extensive bonus features not found on the 3-disc Region 2 release such as the 20 minute documentary "Blasting Off With Flash Gordon!" featuring new interviews with producers Norm Prescott and Lou Scheimer and interactive storyboard-to-clip comparison, plus commentary with the producers and writers on "Planet of Peril," "Sir Gremlin," and "Gremlin's Finest Hour," gallery art, DVD-Rom scripts, Easter Eggs, 2 trading cards, and a bonus episode "Escape From Mongo" from the 1986 Defenders of the Earth cartoon.Here is a complete listing of all 32 episodes:SEASON ONEChapter One: A Planet In PerilChapter Two: The Monsters Of MongoChapter Three: Vultan, King Of The HawkmenChapter Four: To Save EarthChapter Five: The Beast Men's PreyChapter Six: Into The WaterChapter Seven: Adventure In ArboriaChapter Eight: The Frozen WorldChapter Nine: Monster Of GlacierChapter Ten: Blue MagicChapter Eleven: King Flash!Chapter Twelve: Ming's Tournament Of DeathChapter Thirteen: Castaways In TropicaChapter Fourteen: The Desert HawkChapter Fifteen: Revolt Of The Power MenChapter Sixteen: Ming's Last BattleSEASON TWOBeware Of GiftsGremlin The DragonRoyal WeddingSir GremlinDeadly DoubleThe GameWitch WomanThe WarriorThe Freedom BalloonThe SeedGremlin's Finest HourMicro MenaceThe Survival GameFlash BackThe Memory Bank Of MingSacrifice Of The Volcano MenUPDATE:  Although this is being marketed as "The Complete Series" it unfortunately does not contain the 1982 feature length animated movie "Flash Gordon: The Greatest Adventure of All."  From what I have heard and read, this was a truly epic film that begins in Warsaw, Poland which is being annihilated by Hitler's bombers. Flash's dying friend leaves him with a message for Dr. Hans Zarkov: "Mongo". Flash takes a plane where he meets Dale Arden. The plane is caught up a violent thunderstorm, which turns into a devastating meteor shower, crushing one of the plane's engines. Flash and Dale bail out, but a meteor brushes their chute, sending the duo plummeting to the earth. A mysterious purple beam plucks them out of the stormy night and gently settles them onto the ground. They have to race for shelter and find Zarkov in his laboratory who rushes them into his rocketship, informing them that the meteors are no accident; it is in fact a strategic attack. As they spirit away in his rocketship, they are swept towards Mongo and adventure. Much of the story that begins in the first few epsiodes of the series has been dramatically altered so this is more of an alternate storyline which seems to more closely resemble the plot from the 1980 live-action film.  Apparently BCI does not own the rights to "Flash Gordon: The Greatest Adventure of All" so that is why it is not included.  Hopefully, someone will release it seperately soon but it sure would have been nice to have included it in this "Complete" set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blasting off on a desperate mission to save Earth! </p>
+
+
+<h2> review.date </h2>
+  06-13-2010  
+<h2> review.text </h2>
+
+ <p> I barely remember this cartoon from when I was three or four but my memories of watching it in High School on the Sci-Fi channel Cartoon Quest arevery vivid.  The best part about theshow was that it had a story to tell and then when he story was over so was the show.  Filmation has a great reputation and the cartoon is part of it.  The story follows pretty cloely to that of the early 80's film with Flash being tricked into going to Mongo and once there trying to unite the various races of mongo to rebel against Ming the Merciless.The episodes have that old serial feel to them for the first season.  The second season plays out more like a typical cartoon show with the villian being Ming who isnow functioning like a Mad Scientist that has to have his plans overthrown by the hero and heroine and a dragon named Gremlin.There are a number of special features that make this release alot of fun.  These include commentaries on three key episodes, a 20 minute documentary, three lobby style art cards featuring art from the show, and interactive storyboards just to name a few.This release is now out of print but here is a hint.  Super-Target has it for $5.00 in their cheap DVD section if you can get lucky enough to find it.  Other than that I must wish you good hunting if you are still looking for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Classic for All Generations!! </p>
+
+
+<h2> review.date </h2>
+  07-22-2006  
+<h2> review.text </h2>
+
+ <p> BCI/Ink Paint has pleased some cartoon fans out their by released Flash Gordon The Complete Series on DVD. Flash Gordon was a short lived early 80's cartoon that even the most hard core fans didn't expect to arrive on DVD. The New Animated Adventures of Flash Gordon ran during the 1979-1980 season. 1980 also saw the release of the Flash Gordon live action movie starring Sam Jones (My Chauffeur).Flash Gordon followed the tale of Flash Gordon and his friends trying to take down Ming The Merciless on the Planet Mingo. Along for the adventure is Flash Gordon's girlfriend Dale Arden and Dr. Hans Zarkov. The danger and adventure is plentiful as the group fight evil. The show is very well written and interesting.BCI/Ink Paint did a great job with the Flash Gordon release as they have with other recent animated TV on DVD releases. If you are a fan of the show you should be very pleased with this release. The special features are plentiful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Set from BCI/Ink Paint </p>
+
+
+<h2> review.date </h2>
+  07-10-2008  
+<h2> review.text </h2>
+
+ <p> I loved everthing about this except the "Gremlin"character. I was blown away by the first 19 episodes then some studio exec "juvenilized" this series. Still better than Dragon Ball z or Pokemon. I would like to see this series resurected for late night TV,minus the kiddie elements. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT ANIMATION OF THE 80's </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> The first season of this classic series was great at that time but the second season was a joke. All of a sudden the show got a bit campy and that's what ruined it. The animated film was much better with more action and more darker than the series. Why this movie has not been put on DVD is a mystery. So far it's only available in bootleg copies and you can tell they were transferred from VHS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Memories </p>
+
+
+<h2> review.date </h2>
+  10-29-2008  
+<h2> review.text </h2>
+
+ <p> In a nutshell, this is probably the classiest thing that ever came out of Filmation. Beautiful designs, all very true to the original Alex Raymond comic strip, and I remember being completely captivated by the serialized first season when I was a kid watching this on Saturday mornings on NBC. All it needs is the Queen song! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blasting off! </p>
+
+
+<h2> review.date </h2>
+  08-04-2006  
+<h2> review.text </h2>
+
+ <p> ...but leaves it`s mark on DVD instead! BCI has done it again as they continue to release long lost animated classics from long ago!  The New Adventures of Flash Gordon has finally arrived, and I must say that it is just as good as it was years ago when it first aired on Saturday mornings.  This DVD box set features all twenty-four episodes of the series on four discs, plus extras.  The first sixteen episodes of Season 1 shine in the spotlight and are much hailed by fans for their masterful storytelling and vivid animation, while the remaining eight episodes are included from the short-lived second season to round out this awesome collection.This is the first time I have seen this series in it's entirety since I was young, and it is everything I remember it being. All of the design work is very reminiscent of the original Alex Raymond newspaper comic strips of old, as well as later works published by comic book artist Al Williamson.  It perfectly captures the feel of the old cliffhanger adventures, right down to the style music you would expect from an old serial.  Writer Samuel A. Peeples went the extra mile to make this a more accurate interpretation of the character as it originally appeared, and it still holds that honor today.  The voice actors and animators enhance the material beautifully, recreating everything as it should be.  Speaking of which, the voice acting  and animation for FLASH GORDON has very striking similarities to the better known series from a few years later, HE-MAN AND THE MASTERS OF THE UNIVERSE, and in fact was Filmation Studios' precursor to it. Ming sports villainous Skeletor's unmistakable voice, both having been performed by the talented Alan Oppenheimer! This exciting series is very well animated for its time and definitely worth owning.As much praise as I can heap on the first season, the second season episodes, sadly enough, are not really good at all.  The serial nature of the stories that made the first season so wonderful were abandoned in favor of two 11 minute shorts per episode, each featuring self contained plots that were mandated by the network.  To make matters worse, a nauseatingly cute dragon is added to the mix.  Gremlin, as he is affectionately named by Flash, puffs cute smoke clouds that create smiley faces and heart shapes, making all sort of cutesy noises as he steals the show in nearly every episode.  Flash's lines are reduced to one liners, and Dr. Zarkov is reduced to "in name only" references for the most part (though he does show up briefly in three of the short stories).  It is no wonder that the show left the airwaves after Season 2, for no matter what the network seemed to think, kids simply aren't as simple-minded as this.  Still, the episodes are worth a look for the occasional new character that makes an appearance, such as Dr. Tavv, creator of Ming`s Metal Men.  The lush settings and scenery remain constant...even though much of it is simply re-used from Season 1!  Look for Batman: The Animated Series writer Paul Dini as he contributed to a handful of these not-so-good entries.The set is packed with some interesting extras.  Every episode features a few of "Gremlin's Fun Facts", text that reveals interesting information or observations about each installment.  There are three episode specific commentaries that are pretty good, but tend to be a bit lacking.  In my opinion, the best commentary was given for the very last episode of the series.  Writer Michael Reeves doesn't ramble and actually stays with the subject we tuned in to hear from the beginning, offering knowledgeable insight and interesting facts.  The highlight of the supplemental material is the 20 minute documentary that takes us behind the scenes, revealing how the series was created.  Rounding out the supplements are more standard material such as storyboards, character bios, and information about the various locales.The inclusion of the premiere episode of Defenders Of The Earth as a bonus is an odd choice to say the least, for it has nothing to do with this series in any way other than using Flash and Ming as part of a new ensemble cast.  I would have much preferred the original Flash Gordon animated film upon which the series was derived.  It is a 93 minute film that starts off on Earth during WWII and features a great deal of additional material, alternate scenes, and more adult situations.  Some of the voice cast is different as well.  Episodes 1-4 and 16 of the series are made up of heavily edited and rearranged sequences from this film.  It would have been great to see this alternate take on such a wonderful story, especially since it is referred to so much in the interviews/commentaries.  Still, both versions of the story are quite good and enjoyable on every level.  Not including it here is the only shortcoming of this DVD release.If you have any memories of this Saturday morning classic, then I cannot recommend this box set enough as it delivers a wonderfully nostalgic blast from the past.  If you don't remember it, but happen to be a fan of Flash Gordon in any other form, then again, I strongly recommend it!  I don't think any Flash Gordon fan will regret giving this a try! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mongo is on a collision course with Earth... </p>
+
+
+<h2> review.date </h2>
+  04-06-2007  
+<h2> review.text </h2>
+
+ <p> Ever Saturday at 11:00am the world came to a stop(at least in my house) and I was propeled into an adventure beyond the stars on the planet Mongo as Flash and company battled the evil Ming in the hopes of saving Earth.With a look of a big screen movie, this show set a bar for animation that T. V. still has yet to equal. The scripts were very good and hold up very well today. My boys have watched this with me and love it. I only hope that they release more of the old Saturday morning cartoons on DVD, they would make a nice counter point to the sad state of children's show that they try to pass off to us as good for the kids. This is one the whole family can watch and enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best cartoons to ever air on T,V, </p>
+
+
+<h2> review.date </h2>
+  10-10-2007  
+<h2> review.text </h2>
+
+ <p> I orginally missed this series during its TV broadcast days, but was already a big fan of the three Flash Gordon serials and the Alex Raymond comic strip. So when it became available as a DVD release I was anxious to see how well it stacked up to previous Flash Gordon incarnations. I was very pleasantly surprised. The series is very well made and, unlike the current Sci Fi channel Flash Gordon "in name only" TV show, provides very much the same excitement and adventure as the original source material. It is very much like watching an old time serial, as each chapter leaves the viewer hanging and anxious to watch the next episode. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tune In Next Week.... </p>
+
+
+<h2> review.date </h2>
+  07-10-2010  
+<h2> review.text </h2>
+
+ <p> Galactic HeroHe was Flash Gordon; and viewers were invited to join he and his team on a "fantastic journey; into worlds where peril and adventure awaited." This had everything that a vintage cartoon needed and many things that cartoons today could only dream of having. The theme music was catchy. The plots for Season 1's 16-part-serial (divided into "chapters" on the disc sets) were well thought out and flowed beautifully together. The animation was well ahead of its time, and, of course, the characters were well thought out. Perhaps the best part: the main good guys were "good" and the main baddies were "bad;" there was no quesiton about it. Flash was the natural-born leader, a debonair space hero that most women he encountered wanted (not the least of which being Ming's gorgeous daughter, Aura) and most men he encountered probably secretly wanted to be. Dale Arden was Flash's main love interest and his go-to ally (as stated: "I'm no wilting violet; I share the risks with you.")Ming, the merciless, was a tyrant who was...well...merciless; and he well lived up to his title! As of Episode 2, he had captured Dr. Hans Zarkov and only kept him alive to work for him, attempted to force Dale Arden into servitude as one of his women in waiting, and sent Flash and Thun, the lion man, into slave-labor in his mines.Sure, there was little question which characters were on the side of justice and which characters stood in their way. Still, as stated, the plot lines and animation were decades ahead of their time as well and only added to what was so impressive about this series. The episodes flowed and gelled together beautifully in true serial style, only to capsize with the overthrow of Ming as despotic ruler over Mongo.So with Ming dethroned, that brings us to Flash's second season and his new role as(drumroll please)...Cosmic ComedianTo recap, Ming is now overthrown as the despotic ruler and is cast into his role of revenge-seeking villain. Along with that comes such a drastic shift in the story-line that causes many fans to wonder if they should have rooted for Ming to at least keep the plot line untouched. The serial style of the series leaves us (as noted by the fact that the DVD gives up on referring to them as "Chapters 1-16" and we see "EPISODES 17-24). Don't be fooled: the second season has as many INDIVIDUAL stories as the first; but each episode from Season 2 consisted of two abbreviated stories and introduced a rather small, PINK Godzooky-clone answering to the name of Gremlin as Flash's token "cute" sidekick and the series' unofficial new "mascot" character. Of course, it wasn't the first time that the legendary Lou Scheimer and the boys' at Filmation did something like this; and it certainly wasn't the last. Think of Batman's Batmite as this little guy's predecessor and He-Man's Orko as his descendent and so on down the line throughout the 80s. Anyway, this little guy made the show great for the kids but ruined it for many fans (as stated by countless previous reviews). Honestly, I really wanted to have something nice to say about the poor little guy having read previous reviews. Still, this "new" Flash Gordon says it best in one of his tragic one-liners: "I AM trying to get rid of him! He's just so...cute." The sentiments of many original fans exactly. Alas, the nicest thing that I can come up with is the fact that I am more annoyed with what was done to Flash's scripts than I am annoyed by Gremlin.Previously, Flash was a daring hero and you could tell because THAT WAS HOW HE TALKED! It was reflected in his dialogue as well as Ming's cruelty was reflected in his own scripts throughout the first season. Then however, Ming was overthrown, Dr. Zarkov was replaced by Gremlin, and Flash's lines started being written by a comedian whose sole purpose in life was to spout one-liners about 90% of the time he opened his mouth.The original season is good for five stars and well worth the price of admission. The second season is good for four stars if you can overlook Gremlin and Flash's dialogue or at the very least be generous enough to realize that they have their audience in the little ones. The packaging, however, has earned its THREE stars for the fact that first the discs are "stackers" (already almost impossible to remove without scratching) and then are difficult enough to remove at all. Use great caution in removing, then find a CD "wallet" (CD carrier) to put the discs safely away while keeping the box for the cover art and to possibly sell the discs later.Overall: Four Stars; and great for any established fans of Flash Gordon or Filmation cartoons (the latter including myself). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> From Galactic Hero to Cosmic Comedian </p>
+
+
+<h2> review.date </h2>
+  01-09-2012  
+<h2> review.text </h2>
+
+ <p> I remember when this first aired on Saturday mornings. I was just outgrowing the kiddie stuff but still at the age of enjoying animation, and this fit me at the stage I was at. It had great animation and an exciting story, while simultaneously being sexy and violent, much more so than usual Saturday-morning fare. It also was in a serialized format, like the old chapter plays, and could develop its world and its story at leisure. The animation allowed them to be inventive with the creatures used. And there was great punchy music that sounded appropriate for a pulpy space adventure.In retrospect, it all makes sense; the show had originally been made for prime time, but got relegated to the kiddie slot. The show was a pioneer of techniques never seen in American animation before. The serialized format was novel for US TV and would become par for the course 25 years later.The first season is the best; it's all one long story, with Flash battling Ming and rallying the peoples of Mongo to unite against the common foe. The show underwent a disastrous revamp with the second season; under network pressure, it was made more kid-friendly and a cute dragon was included. Instead of a serialized story arc, we had two short individual segments. As a kid, I remember abandoning the show in disgust at that point, and I'm told that the change was a ratings disaster that doomed the show. It's too bad; the first season was a great show for older kids and adults who enjoyed a fun series.Bear in mind that this show is not strictly kiddie litter; it was pretty violent for Saturday mornings. I remember being initially surprised at the aerial battle scenes, which routinely showed Hawkmen being disintegrated.And a drawback shows up if you sit down and watch the whole first season in a marathon session (as I did); there's a lot of footage repeated and reused, to the point of becoming tedious. I can't speak for the second season as I find the kiddie-oriented redo difficult to watch. I'll have to give it a try and simply fast-forward past the cloying antics of the cute pink dragon.This is worth looking for and watching. It's probably the most faithful modern version of the Alex Raymond strip, and is great viewing for those who enjoy old movie serials and pulp sci-fi. Space the episodes out over time (I'm alternating it with episodes of the original "Jonny Quest" and chapters of old movie serials), and have fun.EDIT: I finally made it through the second season. Crikey, it's bad, and one gets a sense that the makers' hearts were no longer in it. The changes forced on the show by the network took away much of what made the first season so different and exciting, and instead it became a run-of-the-mill action/comedy for kids. One big thing was a change in the characters' attitudes. In the first season, it was all about defeating Ming. Now, Ming is still alive, and they know where he is, but instead of actually doing something about it, they just clown around in Arboria until either Ming or the Witch-Queen Azura makes some half-hearted attempt to cause problems. The dialogue became more dumbed-down and kiddie-oriented. Zarkov disappears as a character and is only mentioned a few times. On its own, I guess it wouldn't be half bad as an action show in the He-Man vein, but the big shift in style, tone, and target audience ultimately doomed it. They should have stuck to the original formula. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great fun </p>
+
+
+<h2> review.date </h2>
+  11-10-2006  
+<h2> review.text </h2>
+
+ <p> These cartoons really took me back to the Saturday mornings of my childhood. The images are 100% and delivery was quick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Return to Yesteryear. </p>
+
+
+<h2> review.date </h2>
+  06-15-2008  
+<h2> review.text </h2>
+
+ <p> Memories of child hood just didn't do me justice. Still a good series to watch </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The New Adventures of Flash Gordon - The Complete Series </p>
+
+
+<h2> review.date </h2>
+  01-09-2007  
+<h2> review.text </h2>
+
+ <p> I was really too old in 1979 to be watching this series, but I watched it anyway. It seemed to be more adult than say, Superfriends. And I loved the theme music. So I was delighted to hear that it was now offered on DVD. I bought it for my kids for Christmas.My daughter is 9 and the boy is 7, and they positively clamor for it. It's true that the animators used some of the same scenes over and over again, but for kids their age, that doesn't seem to matter too much.As of today, we haven't reached the second season (which I don't remember from my youth -- I wonder if it was broadcast where I lived), in which the episode format changes and a goofy dragon is introduced. Some reviewers here are disappointed by it. But the first season's episodes alone are worth the price.My only complaint: No isolated soundtrack so I can listen to that theme music over and over! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My kids love it! (And I sorta do, too) </p>
+
+
+<h2> review.date </h2>
+  07-22-2006  
+<h2> review.text </h2>
+
+ <p> "The New Adventures of Flash Gordon" suffered the fate of many a show: in order to appeal to a younger audience, it "dumbed down" the stories and some of its more "adult" situations.  The episodes from the show's first season were an obvious homage to the serials of old, complete with the cliffhanging endings, the megalomaniacal depot (Ming the Merciless), and fantastic creatures and "people" of the planet Mongo.  It also had one of the most voluptuous "sex kittens" to appear on Saturday morning television: Ming's own daughter "Princess Aura".  It was obvious that every man on the planet wanted to "relate" to her and that she, initially, had strong "desires" for our hero, "Flash Gordon."Like fellow animated 'toon Jessica Rabbit, Aura "wasn't bad, she was just drawn that way."The startling change came in season two with the addition of a new cast member: the oh-so-cute pink dragon named "Gremlin".  Too many shows were themed around his antics and how he awkwardly provided assistance to Flash and his friends.  There were also changes in the dialogue, with Flash, once a dominant, straightforward guy, now limited to spouting "one-liners," much, I think, to the dismay of voiceover actor Robert Ridgeley.  I'm sure that he must've cringed after uttering some of the script's lines.As another reviewer has mentioned, this compilation misses the spectacular telefilm that aired two years later, featuring footage not shown in the series and a more satisfying presentation, suited for the entire family.The sight of the sleekly moving assault flying armada of Ming has yet to be bested and the brilliant use of sound effects was a treat for the ears.This DVD presentation is quite good, if one can just get past that little pink guy.My final rating: 4 for the series, 5 for the memories, and a 3 for the addition of "Gremlin".Overall: FOUR STARS </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 'Too bad the telefilm was not included" </p>
+
+
+<h2> review.date </h2>
+  07-21-2006  
+<h2> review.text </h2>
+
+ <p> This review is about the first season as there are two in the set.  The second season was a series of forgettable episodes, while the first season was quite the opposite.The first season of The New Adventures Of Flash Gordon is known as the most accurate version of Flash Gordon ever made, based on Alex Raymond's original storyline.  It was very unique and enjoyable, and it departed from Filmations' usual behavior in many aspects.The story is broken down into 16, 23 minute chapters-like a sequence of comic books.  This particular cartoon employed some computer modeling, as the spaceship fly-by scenes were unsually smooth and lifelike-something that was not seen again in future work they did, even with Filmations' final 1987 cartoon, Bravestarr.  The target audience for this show would probably be young teenagers-Flash Gordon (main hero) and Dale Arden (Flash's girlfriend) do kiss once in a while, and Dale's dialog includes moments of petty jealousy when Flash encounters other attractive women on Mongo, the planet the adventure occurs on.  While the enemy troops are all robots, some of Flash Gordon's allies, are winged warriors who actually get shot AND killed-and it is shown, although it looks like a Star Trek phaser kill (intense bright light, followed by no remains of a body/corpse).  Other unique attributes of this show include the fact that they do say the word KILL, and there is a chamber full of female humanoids who are dressed very scantily.  Filmation employs five voice actors, plus Lou Scheimer (who narrates and fills in various unimportant characters), as most Filmation cartoons usually employ 4 voice actors, plus Lou under the psuedo-name Erik Gunden.Now this IS a Filmation production, so there are some traditional behaviors, such as the use of recycling footage, drawing shadows for some distance shots and a lot of rotoscoping.  Most Filmation music is pretty good in general, and while this show was made at the end of the 70's, it is mostly orchestral, and has a "50's" feel to it, although some of the songs do have a "wah-wah" guitar, which was very common back then...NBC, who was showing Flash Gordon during the time of the original broadcast, told Filmation to modify Flash Gordon for the second and final season.  So the second season is made up of episodes with 2 short segments that fit into the original 23 minute time slot.  The second season were more like "The New Adventures Of Flash Gordon" than the first season, as they introduced a little dragon named Gremlin, which was a very traditional Filmation element (kind of like Orko from He-Man or Bat-Mite from Batman).An interesting note, as far as history goes, is that apparently, Flash Gordon the live action movie, and this first season of Flash Gordon from Filmation were linked.  Filmation sold the live action rights to another studio, and that money was used to fund this cartoon.As for the DVD itself, the image quality is very high-there are some visual artifacts once in a while, but the audio track is clean, and the cel artwork on each DVD is very nice along with a nice physical package.  It is good to see that Filmation in the afterlife is getting quality treatment as their titles are revived for the DVD market.If you respect Filmation cartoons prior to this show (1979), or anything following it up to 1987, this is really their best work-ever. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Filmation Studios' best work </p>
+
+
+<h2> review.date </h2>
+  08-13-2006  
+<h2> review.text </h2>
+
+ <p> -Let me start off by saying that this item is well worth its price.  The first season makes it so, with its quality story line and animation.  Sure you can see here and there reused cut scenes (Flashs' running jump, the beast men walls, birdmen getting killed the exact way here and there, etc.) but they are very well made and fit into the scene. I love the first season and this cartoon remains one of my favorites of all time because of it.-I have to say though that the second season kind of bit the big one.  The introduction and continuous over use of the pink youngling dragon was really getting to me.  I didn't remember that from my youth or even remember it in the reruns.  The storyline seemed to be centerred around it as it slipped into fluff and even the animation started to get choppy.  If I had to guess at why the cartoon fell to the wayside so quickly it would be because of this.-Final note: The first season is a complete story so if you simply watch that and nothing else on this set then you will be satisfied with your purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The First Season is Great/ 2nd Not so Great </p>
+
+
+<h2> review.date </h2>
+  05-24-2006  
+<h2> review.text </h2>
+
+ <p> This is the Flash Gordon animated series that aired on Saturday mornings from 1979-1981 and is one of the best shows that ever came out of the Filmation studios. The animation is high quality for its time and the stories were very true to the original 1930's comic strip. To top it all off this DVD set will give you a host of goodies you hardly ever see for a cartoon DVD release from the 80's.Do any of you remember the cartoon Tarzan: Lord of the Jungle back in the 70's? The same company, Filmation, created the Flash Gordon animated adventures. What that means is the artwork is of a good quality. We're talking movie quality (like the better stuff from Heavy Metal) with vibrant colors and even some lively animation. A lot of this animation came from rotoscoping and it looks awesome (rotoscoping is a process where real actors/stuntment are filmed and then traced over on cel animation to create very fluid movement in animation). While not all the animation was rotoscoped it makes up for the fact that 70's television animation was limited to a pretty low framerate due to budget constraints. In the end you get something that blows away anything on TV at the time.You gotta appreciate the attention to detail that you get from a cartoon from this era, but there are drawbacks. Sometimes you see the same rotoscoped action again and again. Not that big of a deal when you realize each episode came out weekly. What really bugged me was the use of stock sound effects that really didn't fit the grandness of the show. Now and then some cheesy "kid show" boing sound and such would pop up and that would kill the whole polished feel I get from the show.The episodes were set with a serial feel to them, having cliffhangers on many of the episodes. This is not only keeping true to the classic comics (and matinees from the 40's) it's a great way to keep you excited about the show. This show was critically acclaimed if that gives you any indication. While the script isn't as sophisticated as what you see in more recent shows like the Batman Animated Series you have to keep in mind this was made in 1980 when cartoons weren't taken seriously at all. I will admit the later episodes do get kiddied up more with a goofy baby dragon making cutesy noises as it "talks"... I blame the network executives for that.This DVD gives you the ENTIRE SERIES. All 24 episodes that aired are on this set. This is such a breath of fresh air after seeing cartoon after cartoon get released with just a few episodes on single release. Another breath of fresh air is that this DVD will have a really nice listing of extras. Here's what you get:- Blasting off with Flash Gordon. A 20-minute documentary  with interviews from creators and historians about Flash Gordon. You definitely feel the pride they had working on the show and you get some nice in depth background info on the process. One thing that bugged me about the documentary was how the staff really railed on the 1980 Flash Gordon movie. For people who said they understood the classic Flash Gordon they sure missed the mark in their assessment of the movie. Maybe they were bitter or something about the timeliness of both projects.- Character and setting profiles, which basically give you an overall summary of Flash's friends, enemies and places on planet Mongo that he visits in the series. Nothing new that you won't find just watching the episodes.- Commentary tracks on three episodes with the show's producer, writer and animator.- Interactive storyboards you can compare to various action footage.- Large gallery of sketches of all the main characters.- DVD ROM content with entire scripts, storyboards and the series bible (sweet).- Easter Eggs- Bonus episode from Defenders of the Earth cartoon series.- Two collectible 4"x6" trading cards by comic book artists Frank Cho and Gene HaThe DVD was first released at the San Diego ComicCon July, 2006. Then released everywhere about a month later. This is THE collection for this series. They are doing it up better than any other DVD release of a cartoon series I have seen from the 70's or 80's. If you're a fan of this show you absolutely, positively want to get this set. If you are a fan of Flash Gordon or those classic matinee serials that inspired movies like Star Wars and Raiders of the Lost Ark then you too will find something to enjoy in this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Now THIS is how you release a classic!! </p>
+
+
+<h2> review.date </h2>
+  04-13-2013  
+<h2> review.text </h2>
+
+ <p> While the listing and photo was for &#34;The Complete Series&#34;, the item that was sent was the (far less rare, easy to obtain, and much cheaper) &#34;14 Complete Episodes&#34; which was available at Target for $5.  The artwork on the cover is identical except for the wording.  Amazon has since removed the other listing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wrong item </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

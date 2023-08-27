@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00JJ9FC42 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-02-2014  
+<h2> review.text </h2>
+
+ <p> The story was just starting to get interesting. So I'm assuming there will be a part 2 to this story or will it blend in with Frederick' s story? Can't wait! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What  happened? </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> This was the first time I've had to look everywhere to find the ending to a story. Is it the writer's intention to leave us in suspense, by ending the story at the beginning of  Gianni's  baby brother's story ?? I did rate it a four because of everything that was written. I am hoping we will get to read about Gianni 's love for Anais Cormier. Of course,  wanting Anais to finally find happiness too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Confused and Bewildered </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> Who ever edited this book needs to be fired. It was choppy and redundant in most of the book, storyline was too fast pace no chemistry between the couple the kid was the only interesting character out of the entire book smh. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Save your coins.. </p>
+
+
+<h2> review.date </h2>
+  05-15-2014  
+<h2> review.text </h2>
+
+ <p> I did not like the way this book ended, what happened when Anais husband came to town did they see each other, did he try to take his daughter back, why would u leave the book hanging like that , you need to continual this story and the other two books need a better ending also, I don't think I will be reading anymore of your books if they end like the Ciprianos. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did not like </p>
+
+
+<h2> review.date </h2>
+  04-09-2014  
+<h2> review.text </h2>
+
+ <p> This series is getting better and better!! I loved this family, Gianni meets a women and a little girl he can't resist. Can't wait to read more about the Ciprianos family!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved It!!!!# </p>
+
+
+<h2> review.date </h2>
+  04-25-2014  
+<h2> review.text </h2>
+
+ <p> The other books in this series are great this book has left me feeling confused, disappointed and ripped off.This was an epic fail. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Confused </p>
+
+
+<h2> review.date </h2>
+  04-13-2014  
+<h2> review.text </h2>
+
+ <p> I LOVE THE Capriano Men. The story had great promise AND I loved the drama with the crazed ex husband and the sweet relationship building with Gianni and Aanisa and her daughter.My problem is that they was no ending. They weren't all at the police station Gianni recognized  the ex-husband. Next page the younger brother is again trying to talk to the waitress ......that's It......I DIDN'T LIKE THIS ENDING. IT WAS LIKE SONE PAGES WERE MISSING........NO GOOD WHAT HAPPEN? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GOOD STORY </p>
+
+
+<h2> review.date </h2>
+  07-19-2014  
+<h2> review.text </h2>
+
+ <p> this story is much better than the second ...great sequel to the first book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  06-10-2014  
+<h2> review.text </h2>
+
+ <p> Gianni story is but an essay of frustration......you read hoping eventually the author would flesh out the main characters -absolutely no chemistry or realistic love scenes among them .....only teased with glimpses into  her ex's  sexual exploits and his brothers. Both main characters needed backbones. I  kept checking to see if this was just a sample I had downloaded. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Where is the ending of this story? </p>
+
+
+<h2> review.date </h2>
+  04-19-2014  
+<h2> review.text </h2>
+
+ <p> First of all this was a great story that draws you in. Let me just say that first, because it really is. The horrible thing about it though is the freaking CLIFFHANGER!!! This has to be the most horrible cliffhanger I have read in a while, and there was another, but this one is a tie with the other from a different book. When I got to the ending the only thing I could do was stare and try to press my button to continue on to the next page but there was nothing!!! Ugh, this frustrated me to no end because seriously, I hate cliffhangers and if I knew this book was like that I wouldn't have gotten it until the next one was out as well. But it was still a great story to read, it was just that damn freaking cliffhanger that really pisses you off. I would buy the book if you can in all honesty handle the cliffhanger, if you can't live with it, wait for the 4th book and buy this one along with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Story; Horrible Cliffhanger </p>
+
+
+<h2> review.date </h2>
+  04-28-2014  
+<h2> review.text </h2>
+
+ <p> I have enjoyed this series from the beginning and I really enjoyed all but the ending in this one because after waiting to see how it was going to go when they were found once they were the book was over.  That was the only moment in the book I was disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gianni </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

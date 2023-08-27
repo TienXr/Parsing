@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00HP3RUWQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> Lauren returns to her home town with a new look, using a new name and trying to forget something that happened 20 years before.  She falls in love and is set to be married; she has a job she loves and everything looks like happy ever after.  Then a student she was working with, counseling, is found dead.  Rumors abound, and her secret comes out, making it seem like history is repeating itself.  Will her friends stand by her?  What does she really know about her friends? Could one of them have murdered twice?  A good plot and one that keeps the reader guessing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does History Repeat Itself? </p>
+
+
+<h2> review.date </h2>
+  03-29-2014  
+<h2> review.text </h2>
+
+ <p> Not my kind of book so i quit reading and deleted it from my Kindle.  Sorry I wasted my time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did not read it after starting it. </p>
+
+
+<h2> review.date </h2>
+  06-07-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed the story - it kept me turning pages.  I would recommend this book to my friends. Looking forward to more </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> I don't usually read series books but gave this one a shot & I enjoyed it. It was an interesting plot & the characters were well written. I also liked how David stuck with Lauren through her troubles. Not predictable like many woman's fiction mysteries. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read! </p>
+
+
+<h2> review.date </h2>
+  02-02-2014  
+<h2> review.text </h2>
+
+ <p> I thoroughly enjoyed this mystery.  It had so many elements which appeal to me.I loved the cooking, the dining out and the characters involved.  Trust, is verysuspenseful and there are many twists and turns until the conclusion.Well done, Pamela Kelley! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very enjoyable, I could not put it down. </p>
+
+
+<h2> review.date </h2>
+  04-09-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book. A good suspense story until the very end although I had suspected the person who committed the crime and why. But that doesn't take away from the story and the suspense. Definitely worth the read. This was my second book by Pamela Kelley and am looking forward to reading more of her work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Trust </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> This book follows twists and turns as Lauren becomes a suspect in a murder weeks before her wedding.  David finds out things about his bride to be that are shocking...and possibly deal-breakers.Very exciting story and great ending.  Awesome read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What would make you question your trust? </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> What more can you ask for in a mystery. This is a page turner, easy to read but engrossing story of a woman who goes to great lengths to wipe a horrible episode from her past only to have it come back and haunt her in a terrible way on the even of her wedding. This is definitely a whodunnit and I couldn't figure that out until the end.Great characterization and visually appealing, I will read anything this author writes. Big recommendation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lovely writing, tense story, good food </p>
+
+
+<h2> review.date </h2>
+  03-27-2014  
+<h2> review.text </h2>
+
+ <p> Spell binding novel. Once you start reading you can't put it down. You would never guess who killer was. Wonderful author easy reading. Highly recommended.This is a 5 star plus book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Trust </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> Fast read with whole characters that seem so real....good book...I will read more by this author...also leaves one with a good message. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it </p>
+
+
+<h2> review.date </h2>
+  01-26-2014  
+<h2> review.text </h2>
+
+ <p> You will enjoy this book as the author has done a great job of creating interesting characters that you care about. The story will keep you engaged right to the end, as you're led through several suspects, without ever knowing who committed the crime.This book is a heartwarming testament to trust proving the strength of love. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable Mystery </p>
+
+
+<h2> review.date </h2>
+  01-24-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed the story line and the  characters were realistic.  I look forward to more stories in this series possibly with some of the same characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An enjoyable read. </p>
+
+
+<h2> review.date </h2>
+  02-15-2014  
+<h2> review.text </h2>
+
+ <p> Great book! This book had me hooked trying to figure out who did it. I highly recommend this book. Loved it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read! </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> TRUST is all about what a couple goes through when suspicion, doubt, and controversy threatens to interfere with the happy ending.  I was really compelled by Lauren and David's journey throughout this book and was satisfied with the outcome -- without giving anything away.  The writing flowed and the story kept me turning (clicking) the pages.  Can't wait for more from this series and this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely cozy and compelling </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> TRUST by Pamela M. KelleyMy rating: 4 of 5 stars*** I was given this book by the author to read and review honestly***I am so glad that I had the chance to read this book. I love a good book I can get my teeth into now and again and its not predictable. This was NOT predictable at all, right at the end you think you 'got it' but then it all did a sudden switch. Yep, it smacked me in the face.If you had a hidden secret from the past that stayed with you, but you were 100% innocent as a child but then as a grown up it reflected on something that was happening now, then people would point the finger and get you hung drawn and quartered before you had a chance to sneeze! This is what happened to Lauren. She and David are about to get married, would he believe her? Would he stand by her? Or would he be like the others?This book was intense. I loved it and will be following this author.I can't wait for more books from Pamela M Kelley, if they are anything like this, I know I am in for a good read!This is not a writer, this is an up and coming author who can definitely write a good story and deserves to be 'up' there with the best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely a MUST read, had me gripped until the end </p>
+
+
+<h2> review.date </h2>
+  03-03-2014  
+<h2> review.text </h2>
+
+ <p> Could not put this book down we had a recent snow day so I picked this up and before I knew it sadly finished. Looking forward to reading more books by Me Kelley !!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Trust, Pamela M. Kelley </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> I appreciated reading about each well defined character, followed the crescendo of the story with the same bafflement and fear as the heroine, her fianc&eacute; and friends. Excellent rhythm of the story.4 weeks before her wedding date, Lauren catches up with her past after all evidence show that she is the murderer in a crime beyond belief.The meals that Lauren prepares in her cast iron pot, made from wholesome ingredients, are bastions of great cooking. Offering us the recipe at the end of the book was a kind thought, thanks Ms. Kelley! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well written, cast of strong characters, suspense until the end </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

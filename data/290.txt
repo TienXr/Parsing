@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B008GXL9OY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-17-2012  
+<h2> review.text </h2>
+
+ <p> A blood soaked janitor walks into a bar to clean up on Christmas eve with only two patrons in the bar. He calls the cops while the janitor tells them why he is covered in blood. He reminds of a hillbilly version of Bruce Campbell. Anyways, the cop shows up & they go to the school to investigate his claims. It's a fast paced, moving story that looks straight from the 80's. The ending had me surprised but it was smart & something i've not seen before.Overall, if you love horror comedies, then you'll like this. It's fast paced, funny, & gory. I watched this right after the great film, The Sleeper, & the two go good together. Both films should be watched back to back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Cadaver Christmas </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> i watched a cadaver christmas earlier today. quite an entertaining movie. energetic, funny, and smartly aware of the tropes it satirizes. the three leads are hysterical, and i laughed out loud early and often. a modest zombie outbreak occurs on the campus of a small college, and it's up to the janitor, deposed police officer, and town drunk to solve the crisis. this delightful flick also contains a pretty graphic and funny necrophilia sequence. great camera work, also. the movie wisely scuffs up the print, a la grindhouse, to give the movie a seventies look, which, to me gives it instant cred and weight. highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> energetic fun </p>
+
+
+<h2> review.date </h2>
+  10-12-2012  
+<h2> review.text </h2>
+
+ <p> I read some reviews for A Cadaver Christmas that made it seem like this is some kind of new classic. It isn't. Not even close. It's a zombie comedy that doesn't bring anything new to the table. It's not near as funny as some other zombie comedies, such as Zombieland or Zombie Strippers. It's not a bad movie, mind you. It's just average, and average isn't good enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not As Good As Some People Say </p>
+
+
+<h2> review.date </h2>
+  09-04-2012  
+<h2> review.text </h2>
+
+ <p> Really dig this little grindhouse zom-com with an old school horror feel.  If you're a horror-comedy fan, or just love a good zombie flick, don't miss it!  Plenty of Christmastime gags and gore to fill your home with holiday fear... I mean cheer! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this holiday themed zombie comedy!! </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> This movie commits the ultimate cinematic sin.IT'S BORING.Okay. first off, i love independent, painfully low budgeted horror films. I wanted to like this movie. trust me, i can tell that the film makers put incredible effort to make this movie and it shows.Horror comedy a la evil dead 2, which is obvious after watching the scene where the janitor gears up for the zombie fight, but he's no Bruce Campbell. Cool, i get it. Heres the problem, theres not one likable character in this entire movie and the best part of enjoying any movie is to cheer for the good guys and hope they live. In this movie, I was cheering for the rarely seen "cadavers".  Also, this movie wasn't funny, just annoying. There was nothing to hold my interest, and when theres a scene where the cadaver has the broken end of a plunger forced through its head and its obvious that the actor doing the so called forcing is  holding the plunger behind the cadavers head to make it look lie it has gone through it, then thats when i get bored. Worst off was the script, especially the dialogue,(nobody talks like that), Like i said, i love bad movies,(Plan 9 from outer space? LOVE IT!!! ) But the final and deadliest problem with this film is that the characters were so annoying I couldn't wait for them to die. Its rare that I want to turn a movie off 20 minutes into it, but this was one of those times, even though i forced myself to sit thru it,(i didn't want to waste the money.) Good film making, bad script.Zombies? Cadavers? Blahhh... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> say what? </p>
+
+
+<h2> review.date </h2>
+  12-30-2012  
+<h2> review.text </h2>
+
+ <p> The idea behind this movie was a winner, but it was unfortunately executed rather poorly. I wanted so badly to like this movie. I mean, a Christmas time zombie holocaust sounds like it should make a great movie. I found this movie to be too slow. The zombie effects were bad, even by low budget standards. The acting was okay considering it is a B movie, and all the actors were likeable enough. This movie just seemed to be missing something and I can't quite put my finger on it. It ended up being kind of boring and forgettable.I will say that the cover art for this movie is amazing and really drew me in to purchase this item. I was tempted to keep it on my shelf for that reason alone, but I ultimately decided to give this one to my brother (a bigger zombie buff than I am). He had a similar reaction to me and said it was "alright, but should have been better".Rent this one before purchasing it if possible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as great as it could have been... </p>
+
+
+<h2> review.date </h2>
+  03-25-2013  
+<h2> review.text </h2>
+
+ <p> The budget and acting hamper this film a bit, but over all it's funny and fast. The zombies themselves aren't particularly scary, but they represent a collective threat that works well in the context of the film. And I have to say the director is pretty brave about going in absurd directions...like when one of the characters has sex with a cadaver in a science lab. Of course it comes back to life! Don't say i didn't warn you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun in a low budget kind of way </p>
+
+
+<h2> review.date </h2>
+  06-06-2014  
+<h2> review.text </h2>
+
+ <p> This movie was unexpectedly entertaining. The plot was simple and the characters sort of realistic. Unusual twist on a genre that is usually just a blood-fest. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stupidly funny </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> Brilliant movie, IMO. Horror/comedy done right, with strong and well-executed humor throughout. For me, this movie reminded me somewhat of movies such as "Dead Alive," albeit with slightly more slapstick and not quite as gore-filled. Highly recommended film! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I want a sequel </p>
+
+
+<h2> review.date </h2>
+  02-20-2013  
+<h2> review.text </h2>
+
+ <p> It is obvious a ton of money was not spent on this film.  It is low budget all the way.  That aside, the writer concentrated on telling one story. This is a story that has a beginning middle and ending, with all the loose endings tied neatly up for the audience,  Multiple plot lines is the downfall of many a monster movie that have the potential to be really good.Also, the actors had a good time and tossed in a few one-liners that are priceless.  If a little more money had been spent on production and advertizing it would have done much better.  As it is, it will be a guilty pleasure for the ones who can appreciate the twisted little gems hidden in this film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So bad It's good. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

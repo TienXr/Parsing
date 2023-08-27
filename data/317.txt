@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1570627436 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-07-2014  
+<h2> review.text </h2>
+
+ <p> Although No Boundaries does not deal with the Integral model directly, it's a powerful tool for self understanding and an excellent way of preparing to learn about Integral. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An ideal gateway into Integral </p>
+
+
+<h2> review.date </h2>
+  12-30-2009  
+<h2> review.text </h2>
+
+ <p> This was an easy read and an excellent introduction to Ken Wilber's work in my opinion.I believe this is Wilber's second book and is about 30 years old now, but it could have been written yesterday.  The difference between this one and his later work is that his thoughts were simpler early on.  I also finished Integral Spirituality recently and it was also good but much more complicated.  Integral Theory has evolved and Wilber has had time to add complexity to the extent that some people don't even want to deal with it.But No Boundary is not complicated.  It could be tough to understand for some Western readers at first, but for me it was a very modern and accessible introduction both to Ken Wilber and to what I would call nonduality.  In it's highest form I think nonduality encompases all faiths and traditions (as well as science) to at least some extent and in that sense it is integral and inclusive, just like Ken Wilber tries to be.Although there are nondual portions of Judaism and Christianity, it is usually taught through ancient traditions like Buddhism or Taoism and because of that it's also not up to date with modern explanations.  Ken does an excellent job of making the case for an integrated and inclusive path of personal growth with modern and sensible language that spoke directly to me.One interesting part of the book that caught me off guard right away was how he breaks down the boundaries in our world and our mind.  He points out that there are no actual boundaries in nature.  You might think of the beach where water and land meet, but he says that is a line not a boundary.  It is a place where land and water join...there is no boundary.  All boundaries are conceptual and all are points of unification.  What we really see are lines, not boundaries and that makes a huge difference in how they are understood.This is one of my favorite books ever...and my new favorite author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More Eastern than Western but Excellent Overall </p>
+
+
+<h2> review.date </h2>
+  06-20-2001  
+<h2> review.text </h2>
+
+ <p> Man, I love this book. It is deffinitely one of the best I have ever read.A little tidbit from the book... If a state of no-boundary awareness exists... a state which recognizes no boundary, between itself and everything else... what stands between me and that state right now? The obvious answer... nothing... except my willingness to realize or experience it.I'm sure grateful that there is a Ken Wilbur in my world. And it's just wonderful to have a chance to visit with him via this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Superb... Ken Wilbur is just a flat out genius. </p>
+
+
+<h2> review.date </h2>
+  07-18-2011  
+<h2> review.text </h2>
+
+ <p> This book is a great guide to transformation. It speakers about the boundaries we create that separate us from the world. This is one of my favorite Ken Wilber books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boundaries We Create </p>
+
+
+<h2> review.date </h2>
+  02-08-2013  
+<h2> review.text </h2>
+
+ <p> I am as perhaps most persons aware of their experiences.  Ken Wilber put these experiences in an order that I had never perceived before. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Put my life in a context </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> This is the fundamental question address by Ken Wilber in the book, who goes on explaining how we answer this question throughout life: setting boundaries. Around this idea -the setting of boundaries which inevitably narrow our sense of self - Wilber  constructs an innovative and eye-oppening approach to this philosophical question, thus presenting the path in reverse: how to dissolve boundaries, expanding our sense of self until we reach the ultimate level of consciousness: Unity Consciousness.I acquired this book for my studies in Transpersonal Therapy but I strongly recommend it to anyone who enjoys personal development. By the end of the book, Wilber gives us extensive knowledge of the processes involved in each consciousness level, the dis-eases that may appear and the recommended therapies and books. This is an amazing book, written in a very comprehensible manner, with lots of humor. I loved it and it made a huge impact on me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who am I? </p>
+
+
+<h2> review.date </h2>
+  08-09-2013  
+<h2> review.text </h2>
+
+ <p> Likely Ken's best work, although his diaries and Grace and Grit epitomized the fundamental beauty of life in ways only he can speak of.  An enlightened being.  A pattern for full self-realization.  A model for us all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What can be said of this book... </p>
+
+
+<h2> review.date </h2>
+  03-26-2012  
+<h2> review.text </h2>
+
+ <p> I have read this book twice, once about 5 years ago and then again recently.  The second time around I feel like i really spent more time digesting and trying to really grasp and understand the concepts presented.  I feel like every page of the book is very stimulating and if you take the time can really help you understand yourself and the true reality of conciousness.  I see a few negative reviews here, but I personally love this book and think it is incredibly well written and the author is truly an expert on the subject.  the material is presented in a way that can be understood.  5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> this is a truly amazing book </p>
+
+
+<h2> review.date </h2>
+  05-14-2002  
+<h2> review.text </h2>
+
+ <p> &quot;No Boundary&quot; was written by Wilber to be a complement to his first book, &quot;The Spectrum of Consciousness&quot;.  Written with a less-academic style and more of an emphasis on practice than theory, No Boundary sketches a basic program of psychological and spiritual development.  Although it has been superceded by &quot;Integral Psychology&quot;, &quot;Boundary&quot; remains an indispensible part of Wilber's early canon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A User's Guide for &quot;Spectrum of Consciousness&quot; </p>
+
+
+<h2> review.date </h2>
+  12-31-2006  
+<h2> review.text </h2>
+
+ <p> I have read many of Ken Wilber's books and this is one of the better ones.  The spotlight reviews do a very good job of pointing out the shortcoming and strengths as well as summarizing Ken's general ideas.  I won't repeat what they have said here, but will add my own thoughts.This book has a different tone and structure than many of Mr. Wilber's other books.  There is less repitition and somehow he seems to be more accessible and lyrical in his descriptions and metaphors.  If you read later Wilber, you will find it lacks some of the feeling tone of this earlier work.In this book, Ken talks about boundaries and how they are often mental constructs.  For example, the boundary that defines me could be taken arbitrarily as my skin.  However, I might say I have a body, rather than that I am a body.  This implies perhaps that I am a mind that is associated with a body and that I'm moving the line between self and other to the head.  In a similar fashion, it is possible that a may have a transpersonal experience in which case my boundary moves out beyond my skin.  The idea is much like the arbitrary division between a tree's roots, limbs and branches.  These divisions don't necessarily exist as distinct boundaries on the tree, but arise from the analytical nature of thought.In general, the book looks at a synthesis of Western and Eastern psychological and spiritual approaches to growth.  It challenges tacit assumptions on both sides and tries to get the reader to take a broader perspective on reality while honoring what is good in each particular tradition.  It is an extremely thought-provoking work and includes a lot of good scholarship.  I find it to be highly complimentary to Wilber's later work and often more eloquent.If you are looking for the best, most comprehensive and readable introduction to Wilber's work, I recommend A BRIEF HISTORY OF EVERYTHING.  If you are interested in a good developmental psychology book from Wilber's point of view, then the ATMAN PROJECT will not disappoint.  It covers development from birth to enlightenment and it quite fascinating.  If you own these three books you will have a good overview of Wilber's most important ideas without a lot of overlap.  If you are interested primarily in his latest thinking, then INTEGRAL SPIRITUALITY may also be a good choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent introduction to Wilber's early thought and a synthesis of Eastern and Western approaches to growth </p>
+
+
+<h2> review.date </h2>
+  05-12-2002  
+<h2> review.text </h2>
+
+ <p> I first read No Boundary 10 tears ago and have bought around 10 copies for friends.It was here that I began to see that boundaries really don't exist but we draw them, and once we do, we have drawn a conflict line, guaranteed. And once we understand unity consciousness, that we are all one, it becomes progressively harder to attack another person or group-might just as well talk into the mirror. Wilber provides a true revelation as to what it's all about. It's a great introduction to his thinking, and as a second read you might want to follow up with the very moving Grace and Grit. In my opinion, Ken Wilber is the most brilliant writer alive today, in any field, and his integral vision is both deep and profound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book started my search </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> This is a most important book.Most if not all of the ideas presented in this book are/were not knew to me, but the fundamentally coherent presentation of them, most of which are supportive of mainstream Eastern wisdom, i.e., Hinduism, Buddhism, Taoism, as well as the Western mystic tradition, not to mention Jungian psychology and its kin and ideas gleaned from 20th Century Quantum physics,is both sound, impressive and life enhancing. In my opinion, for those unacquainted with the aforementioned traditions, psychologies, and Modern physics  this book will be an eye opener of unparalleled significance. For those who are familiar with these it will be a highly supportive reminder.There are, however, one major and a few minor caveats: I strongly urge purchasing this manuscript as it appears in 'The Collected Works of Ken Wilbur, Vol. 1' also published by Shambhala. That volume not only contains another of Wilbur's important works, 'The Spectrum of Consciousness', but more to the point an introduction by Wilbur in which he discusses a major flaw in these works. Being aware of Wilbur's own insight about the problem allows the reader to engage both of these works, 'No Boundary' and 'Spectrum ...' from a more educated perspective. The minor problems, which mostly appear after Wilbur's presentation of his basic thesis, is a rather rough shod understanding and presentation of ideas first presented in the West  by Carl Jung and others of his ilk. (Some of these problems have been identified by other reviewers.)These problems notwithstanding, because of Wilbur's major thesis about the nature of reality I urge anyone with the slightest interest in deepening his perception of his own identity, a perception that will undoubtedly promote significant personal growth, to make this a must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Life Changing and Insightful: A Must Read </p>
+
+
+<h2> review.date </h2>
+  05-12-2009  
+<h2> review.text </h2>
+
+ <p> I'm only a third of the way through my first reading, and I can already confidently say that this is my favourite Ken Wilber book out of the several I've read. Wilber blows the mind - almost literally - with how he delineates consciousness and reality. He synthesises different points of view in a way that is totally convincing and intuitively compelling. What I also like about this book is its utter accessibility. Wilber tackles some pretty heavy duty material, and in other hands this could be (and in innumerable cases is) very dry, theoretical and hard to grasp. The style is easy to read and has several touches of humour included to lighten the mood when heaviness threatens. So it is enlightening in more ways than one. Highly recommended for people of all faiths and concerns about consciousness and the nature of reality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Accessible and profound </p>
+
+
+<h2> review.date </h2>
+  03-21-2002  
+<h2> review.text </h2>
+
+ <p> This is one of Ken's early works from back in 1979. This book is great for it's simplicity. Ken does his usual great job at de-mystifying the mystical and getting to the core of spirituality. In this book he discusses different types of therapy geared toward different levels of his Spectrum (Persona, Ego, Centaur, Transpersonal and Unity). The great value of this book could lie in the references alone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An early great from KW </p>
+
+
+<h2> review.date </h2>
+  12-20-2001  
+<h2> review.text </h2>
+
+ <p> As aggrandizing as it sounds, this is one of THE books any psychologist, mystic, or meditation has to have, read, and reread.Wilber presents a simple, elegant, well explained map of human concious development, all encapsulated by an understandable theory - our mind is divded up, separated by barriers, and by seeing through them we grow.  Eventually we heal the splits (by seeing they really are illusionary) and grow as people.Wilbers theories map well to other concepts of conciousness I've seen, and he definitely knows what he's talking about.Buy it.  Read it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the most important books on conciousness ever written </p>
+
+
+<h2> review.date </h2>
+  05-28-2011  
+<h2> review.text </h2>
+
+ <p> I read this book over 20 years ago and found it profoundly helpful.  Ken Wilber gives us a remarkably clear and simple explanation of nonduality, which he applies in traditional ways and in new and unique ways; for example, he makes it relevant to modern psychology.  The book has a few philosophical shortcomings that he corrected in his later work, but it is one of his most accessible works and is well worth reading.  The book manages to help us understand nonduality and begin to experience it as well, which is quite a feat.  This may be the best introduction ever written on the subject. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unusually lucid and helpful exploration of the nondual </p>
+
+
+<h2> review.date </h2>
+  11-22-2010  
+<h2> review.text </h2>
+
+ <p> I'm too lazy to write a thorough review, so don't want to take the time to reference all my objections with quotations from the book. I really liked Wilber's first book: Spectrum of Consciousness, and the integral perspective that Wilber champions. The diagram of levels of the spectrum and corresponding therapies in "No Boundary" is very insightful. The rest of the text was quite redundant, and outright contradictory. I agree with another reviewer (giving 2 stars) that if unity consciousness is ineffable, than it's pointless to write about it. Clean pages would have made the point. Labeling the linguistic quandaries "paradox" or "paradoxical logic" neither clarifies them nor gets the writer off the hook as far as I'm concerned. I found Wilber's discussion of psychotherapy at the higher levels of the spectrum (shadow/persona and ego/body) naive and pop-psychish. However, the notion of integrating the split-off polarities of the self, as psycho-therapeutic healing takes place in descending the depths of the spectrum is another valuable insight. When it comes to the transpersonal bands and unity consciousness, perhaps now it is my own naivety, but I'm very suspicious of all the "numinous fluff" concealed in riddles designed more to baffle than to inform.  A kind of New Age mythology sneaks in and legitimizes itself by claiming that such knowledge is beyond the mind. Why promote selfless "non-dual union" when we are on the brink of extinction? Meditating to nirvana seems like an elitist escapism. Claiming that the "true self" is immortal, but lacks any distinguishing characteristics (all perishing with the ego-body) is just another way of saying the "you" you identify with is extinguished. To say my "true self" (that lacks my biography) lives on is no consolation. It's like saying my carbon atoms are recycled. Or perhaps I could clone my DNA and produce a duplicate, but it still isn't me. Wilber's discussion of the transpersonal is unnecessarily mystifying. Anything beyond my skin boundary is transpersonal. A transpersosnal identity is what turns environmentalism or social injustice into a cause. As the Dali Llama once said, there is nothing religious or spiritual about saving the earth. This is simply our home. If we destroy it, where are we going to go? I've heard enough mystical mumbo jumbo to know that it all really boils down to cosmic common sense, and if there's a price tag attached, walk away. It is ironically appropriate that after spending numerous pages about how you can't "attain" unity consciousness by doing anything to achieve it, nor by not doing anything, for both are forms of resistance, and both assume the goal lies in the future, when unity consciousness is only and always in the eternal now, he then concludes the book by saying "My you be graced to find a master in this life and enlightenment in the moment." Sounds like a future prospect, doesn't it?" Yeah, but it's a paradox. Yeah, right! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pair of Docks </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> Some may say that Wilber is not scientific enough, but he does stimulate an open minded and broad interpretation of reality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A comprehensive look at reality </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

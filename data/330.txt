@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1591859948 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Should Be Required in Seminary </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This amazing book is a very well written piece.  It exposes the fallacies of much thinking that has been going on for hundreds, sometimes thousands, of years.  For me, the most helpful thing was how Grady goes back to the original languages and explains to us the full meanings of the words used, particularly in the teachings of Paul.  It is quite obvious, and anybody can look this up and verify it for themselves on a nice reference site like [...].  Thanks to this book and the internet, we don't need to each be Hebrew & Greek scholars to find out how badly certain translations have twisted Paul's meaning, claiming women should be quiet, not teach, and submit.  It's sad that the patrician scholars have kept the status quo for so long and how few denominations are allowing women to fully express their spiritual gifts.I have often pointed out that Mary & Martha were the first Christian "preachers" & "evangelists".  This book goes into much more depth than that rather simplistic way of looking at the issue, but it is certainly not pro-feminist.  This book is pro-Bible and pro-Christ, and still recognizes that men and women are different.This book should be required reading in seminary. I would love to give a copy to every board of elders (or equivalent) at every congregation or denomination in every English-speaking country in the world! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> We shall overcome </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The church has matured but some denominations still hold to a belief that women are subservient.  This book reveals some of the prejudices within the church against women.  It rocks the double standard and reveals God love for women. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a book every woman (and man!!) should read </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> i knew there were influential women in the bible but as i started to read this, i was surprised at how many i was not aware of!! this is an important book as it teaches us that we do have a place in the church, that our voice is important and God has plans for us just as he has plans for the men of our church.. we are valued , now lets take our place and make a difference with this knowledge to go forth and do awesome things for HIM! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Always gleaning... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As a woman, trying to navigate the high waters of man's control (even in the church), it is well to remember that love, patience and wisdom rue the days ahead! This book is full of well thought-out scripture references and encouragement; but I wish to encourage anyone who reads it, to ask God CONTINUALLY what His will and purpose is, as we seek to live out HIS desires and purposes.Also, it is refreshing to read about we women, from a man's perspective. There is more to be researched and told, in all of this church-wide conundrum, but my prayer is that we will all find ourselves seeing and hearing from abiding in His presence. Then, we will know His fullness and His plan.So, go ahead! Read, take notes, pray on it! It can only enrich what you already think you know, and it might just change your mind! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Donna </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-03-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I found much useful information in this book & do feel empowered to move forward in all God has for me. I do feel as a women there are so secular jobs that are gender created, but I do believe Women can preach & teach in the Church & have myself run into problems when I tried to move in my gifts. I am a mother of 2 childern my daughter is 19 & son 15 & watching them growing up I can say "Girls will be Girls & Boys will be Boys" & that is the way God created us. So my point is read with your heart open to God's voice so you don't get off track. I do believe the author also states this in the books beginning. Lastly enjoy Jesus He is the Way! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Makes a better sermon than teaching. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-10-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I agree with most if not all the author's conclusions. I believe that scripture shows women teaching men and in leadership positions. There is Deborah who was a judge and prophet and there seems to be good evidence that Junias was a women and an apostle. We know that women prayed and prophesied during church. We know that there were female prophets in the New Testament. I believe Adam and Eve were created equal and that they were made to rule together.However, I must admit that the author's "proof" of his conclusions are often very weak. I have read books that go over the Hebrew meaning on "helpmeet", the Greek meaning of "authentien" and "Kephale" much better. This book is more of a sermon preaching on the suject of women in the church than a book that delves into the "difficult" passages we all know. Had I not already been familiar with the issues he talks about, I would have been unconvinced by his arguements. I would have been unsatisfied and left with my questions still unanswered. While I enjoyed the personal testimonies and stories he relates, I would have preferred a stronger scriptural arguement.He did make some comments I wasn't sure was accurate. One being that Barak was not giving into fear when he wanted Deborah to come with him. That has always been my take on the passage. That he was not willing to obey God unless she went which either shows fear or lack of faith in God. (If you go I will go, if you do not go I will not go.) That is why the honor of killing Sisera went to Jael instead of him. But that's just my take. Also, the comment on not knowing whether Paul was married or single. I thought it was established that Paul was single. I base this on the comment he makes in 1Co. 7 where he says he wishes that all men were like himself. Given the way he speaks about the advantages of being single, I take that to be his status. That coupled with no mention of a wife in Acts or his letters. Also, I don't think he proved that Chloe or Lydia were pastors of the churches in their homes though I don't disagree with this possibility.It's an intersting read but there are better books on the subject. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Unbiblical!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Read this book in 2002 for a research paper and its incredibly unbiblical! The author often states his opinion and not scripture. He twists scripture to say what he wants it to say. The only thing I agree on is that woman can do street preaching, and that is preaching on the streets in a evangelistic setting and that is outside a church function. The Bible is quite clear on her role in the church, but it does not say she cannot evangelize to the lost outside of the church. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great, Great, Great </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-19-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I didn't know the author was the man associated with Charisma magazine until recently, but this book is fantastic whether you are a charismatic person or not.Every woman should read it and every man too. I think it's one of the best books on the subject. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another good one by Grady! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-25-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> For anyone who has read 25 TOUGH QUESTIONS ABOUT WOMEN AND THE CHURCH, he or she will see some of the same material in this book.  But it still has a unique spin on it that makes it equally worthwhile reading.  He gives examples throughout history in general and Christianity in particular where women have been discriminated against and treated badly.Some (although not all) of what he deals with are the following (in myown words):1.  That women do not have to put up with abuse in the name of submission, and there is a limit to what true submission is.2.  That a woman does not need a a man for a "covering" in her relationship to God.3.  That a woman was not created as an inferior being.He also gives examples from many different parts of the Bible as to why this should not be and explains how it was intended to be in the first place.This book should be welcome news to women who want to serve the Lord but feel hindered for something over which they have no control -- being born female. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Well-written and compelling </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-18-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've seen this book at a couple different books stores. I wanted to buy it, but I always held back. I am already an egalitarian, so it's not the content that held me back. To be honest, I'm not sure what it was. But I finally decided to buy the Kindle Edition of this book. I am SO glad that I did.In this book, Lee Grady makes a very solid case for women in ministry and in support of mutual submission in marriage. Anyone who claims that this book is written from the radical feminist perspective is very wrong. For one thing, Lee states very clearly in the introduction that is not his intention. When I was in college, I took a literature class where we studied a book written by a radical feminist. I can tell you this this book and the radical feminist agenda are world's apart. In the introduction, Lee Grady wonders "why is it that when someone is bold enough to challenge gender prejudice in the church today he or she is automatically labeled a radical feminist?" I have to wonder the same thing. Egalitarians could easily say that people to support the traditional, complementarian views of marriage and women are writing from a male chauvanist perspective. The answer is not to resort to insults and name calling. I think both sides need to deal with this issue in a respectful and gracious manner. I believe that this "us against them" and "we're right and you're wrong" type of attitude grieves the heart of our Lord. Personally, I don't agree with the complementarian perspective, but I have a great deal of respect for people who do. For example, John MacArthur is a one of the more well-known and prolific writers in the complementarian camp. I don't agree with his views on women, but I have benefitted greatly from his ministry. I would not hesitate to recommend his books. I think that the thing to do in a situation like this is to pray for wisdom and then ask God to lead. I think it is also important to have an thorough understanding of both sides of the arguement. I think Egalitarians and Complementarians need to respect each other. Even though we disagree, I still consider complementarians my brothers and sisters in Christ. Just because something is well accepted doesn't it make it right. In fact, a few of my close friends believe and live according to the complementarian view of marriage. I would never say that they are less of a Christian for that reason. The point is to accept each other as fellow Christians and treat each other with love and respect, rather than wasting time and energy arguing about whose right and whose wrong. Where does it say in this Bible that Christians need to agree on every single point? I can't think of a single person, pastor, or author that I agree with one hundred percent of the time. That simply isn't going to happen. But we can still work together for the fulfillment of the Great Commission. That should be the primary agenda of all Christians, not arguing and attacking each other. All Christians need to learn how to work together with people who worship and believe differently than we do.Lee Grady does an excellent job of clearly stating the complementarian perspective and then refuting it. He doesn't resort to distortion, exaggeration, or the straw man to make his point (the straw man defense is when an opposing point of view is set up look look as absurd and stupid as possible and then make their point of view look wise and smart by comparison.  But this does not accurately represent the opposing view.) I have read many books written from the traditional perspective, and I can tell you that Lee Grady has represented their viewpoint fairly and accurately. I personally don't understand how God could gift women with teaching, leadership, and preaching abilities and then tell her "But you can't use those gifts except with children or other women?" To me, the real issue is giftedness. The question needs to be "Has this person shown themselves to be gifted in the area of teaching, leadership, and preaching?" If the answer is yes, then that person should be allowed to preach, teach, and lead. Regardless of gender. Not all females are called or gifted for leadership positions. Just because a person is male doesn't mean that they are gifted in the areas of preaching and teaching. I have sat under and read the books of pastors who are very clearly gifted in this areas. But I also believe that there are men who have been placed in leadership positions who are not gifted in these areas. For example, I used to attend a church like that. The pastor is a good man. I have a lot of respect for him and know he has nothing but good intentions. But there were many times after listening to him preach, when I wondered if he was truly gifted to be a pastor and teacher. I kept these opinions to mysef, and didn't want to cause dissention or division. I did eventually leave this church (for a variety of reasons) and I know it was the right thing to do.I find it unfair that several other reviewers of this book accuse Mr. Grady of picking and choosing which Scriptures he wants to use. To be fair, couldn't complementarians be accused of the same thing? I believe that Mr. Grady does a very thorough job of making his case. This book clearly states both points of view on this issue and will guide the reader on making up their own mind. For readers struggling with this issue, I would recommend reading books from both perspectives. From the complementarian perspective I would recommend the book "Twelve Extraordinary Women" by John MacArthur. Another good one by MacArthur on this subject is "God's High Calling For Women" (I personally haven't read God's High Calling for Women" but I have read numerous other books by MacArthur and I know his books are thorough and very well written. For that reason, I feel comfortable recommending a book of his that I haven't read.) From the egalitarian perspective, I would recommend this book as well as "Why Not Women?" by Loren Cunningham and David Hamilton. That book goes even more in depth than this one does. I would recommend both of these books to anyone who is new to this issue or wants to learn more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Finally Someone Said Something </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-23-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> As a young Christian woman and having attended many churches, I have always been told to shelve my gifts and take a back seat to men. I was told that I am not intended to lead and anything I do in that sense is just evidence that I am a rebellious woman. I knew it was a lie and it felt wrong, but I didn't have the words to combat being beat down---now I do. This book is a brilliant work and it took just a heaviness off my soul and I feel that I can breathe knowing that I am following God and don't have ugliness in my soul because I am a woman and that I am not inferior to men. Ladies, and anyone who loves women, please read this book. It is amazing! :0) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Buy it! Read it! Pass it on! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Buy this book! Read it! Pass it on! Keep a copy for reference. Lee Grady has broken chains in writing this book and this updated version is worth owning. Praise God for the passion he has put in this man's heart for women. Every church leader should read this book and pray for the Holy Spirit's understanding concerning women in the Church and in the Kingdom. Every woman who has experienced wounding because of her gender and her desire to follow her call in Christ should read this book and be healed and encouraged. Every woman who has felt less than in the church and before God should read this book and accept the truth of the magnificent love that her Heavenly Father has for her. The daughter's are due their inheritance. Bishop Nancy Drew, GCEPC </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Balance </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Although I disagree with many of Grady's statements concerning apostles and prophets, his view of women is refreshing.We used this book in a group Bible study led by a man in my workplace.We both modified our views due to Grady's book....it was healing.Over the years I have learned to appreciate the biblical scholarship of Catherine Clark Kroeger. Since her books can be difficult for the average reader, I appreciate Grady's attempt to make her scholarship accessible to a wider audience. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lee, why not tell women THE TRUTH ? </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Although a male myself, I was raised by a great woman, married a saintly women and have been raising seven daughters.  I know of few women who are as feminist as I am. As a liberal christian clergyman, I appreciate Rev. Grady's effort to correct the lies that the church has told us all about women for centuries.  But with all due respect, Lee, I believe you are barking up the wrong tree trying to massage the teaching of Paul of Tarsus, the source of MOST of the "lies" which you set out to address.Why can't people admit that Paul said exactly what he clearly intended to say, instead of imagining that he actually meant to say what THEY WISH HE HAD SAID?  The trouble with Paul's teaching isn't that "the church" has misinterpreted his teaching over the centuries, but that - believing it to be "the Word of God" - the church took his absurd teaching seriously and taught the faithful to amke the same mistake.After devoting several decades in the ministry of two of the country's largest Christian denominations, I have come to the conclusion that, despite his having made some good things,  "St. Paul of Tarsus" is one of Christianity's greatest problems. Google "Pauvsall" to find out why. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Ground-breaking Must Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-28-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a wonderful book, based on scripture and research that goes back to the original Greek and Hebrew.  This is a MUST READ not just for women, but for anyone in or going into the ministry, anyone who teaches religion, anyone who teaches women's studies, and any open-minded man.  The "Lies" that Grady outlines in this book are everyday things that women have been told not just since Christianity began, but since Judiasm began.  It's about time that someone spoke out and said that women, who are the mainstay of Christianity, are NOT 2nd class citizens, and DO have a place in the church.  Read it yourself and see.  I found this Biblically based book so facinating that I zipped right through it.  As I said, it's about time, and I'm glad it was a man who said it.  God bless J. Lee Grady. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Theology of Gender for People in the Pew </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this book.  I have lost count of how many I have purchased just to give away.Here are three reasons I love this book enough to spend money, again and agin, to purchase it:1.  I applaud Lee's boldness in taking on a large segment of the church.  He paid for it in some significant ways.  I have met Lee Grady, and his genuine respect for women is almost palpable.  This book is couragous.2.  It speaks the truth without apology.  A breath of very fresh air that is full of freedom and honesty.3.  It is a book that is intentionally readable for most people.  It is not a textbook.  It is thought-provoking and brings some pretty heavy subject matter to an audience who might not usually read about the subject.Is it the best book available about the subject?  Probably not.Is it sometimes a bit smiplistic?  Yes.If you are looking for a scholarly, deep, theological treatment of the submect, I recommend "Equal to Serve" by Gretchen Gaebelein Hull.  Catherine Kroeger's books on the subject are also excellent.As for "10 Lies" buy it.  Read it.  Think about it honestly.  I can't recommend it highly enough. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Christian Feminism 101.... </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-21-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you are looking for a book that will support your need to pick and choose what scripture to live by, and that supports your feminist viewpoints, this book is perfect for you!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

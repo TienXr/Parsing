@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000FDVK2E <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-06-2009  
+<h2> review.text </h2>
+
+ <p> I am positively impressed by this inexpensive 'all-in-one' card reader.For reasons unknown, my Sony A-100 camera, while perfectly happy with a 16GB 133X Compact Flash card was not able to upload the pictures to my computer via Sony's PROPRIETARY USB-like cable. For reasons unknown, and I blame Sony, Vista could not read the CF card and claimed that the 'disc' had to be formatted. This is where this little device comes to the rescue. Once connected to my computer through a STANDARD USB cable (supplied) and once the CF card was inserted in the reader, I could copy back and forth without a problem. Case solved. Thank you whomever you people who make these readers, it was the best 'less than a dollar' investment I've ever made. And, shame on you, Sony. I will continue to love your products but in this specific case, you clearly dropped the ball.Here are specs:- Mini-B USB 2.0 interface- OS supported: Windows 98/2000/XP, Mac OS V9.2 or higher [Vista is not listed but it worked fine on my machine]- Cards supported: Compact Flash/Micro Drive/Smart, Media/Multimedia/Secure Digital Card/Memory Stick/Memory Stick PRO/xD Picture- Read speed 4.3 Mbps- Write speed 1.3 MbpsWhat you get (or not):- The card reader itself- 1-foot USB cable- Specs sheet- No manualThis is what I like about this product:- Excellent, almost amazing I/O performance. In a real-life benchmark, it copied 233MB (89 pictures) in 16 (sixteen) seconds. This was from a Kingston 16GB CompactFLASH 133X card card. I wish my camera was that quick reading the card.- The fact that, for less than one dollar (plus S&H;, of course) you even get a little USB wire.- The 'naked' or transparent styling of the case. Some may not appreciate the geekish look but I do.- Automatically recognized by Vista even though Vista wasn't even on the list of supported OSes.Issues and concerns:For the price, not too many but, here they are.- Must be careful when inserting the CF or MicroDrive cards. There are 'guides' that should help your card glide and insert itself into the proper pins but I can see how, if doing it in a hurry, you could bend the pins and then... you'll probably have to buy another one. The other 3 interfaces appear to be a little less fragile because they don't have pins.- I only tested the Compact Flash and the MicroDrive cards. I can't tell if the other interfaces work as well.- The red 'power on' LED showed me that the reader was properly interfacing with my computer but the LED that would have shown the CF card being in did not light up. It didn't make a difference to me but I don't know if this should be viewed as a defect or not.- I saw no warranty statement of any kind but... should I expect one on something this cheap?- I had no need to call for support and there is no support phone number anywhere but there IS a Web site which points to a directory tree whose branches are either locked up or empty. It's possible that the company is no longer in business and the reason we are getting this stuff this cheap is because it's post going out of business leftovers.Rating:Even considering the concerns I listed above, it gets 5 stars without hesitation. This reader didn't quite save my life but it did help me save a few memories of my past life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fully meets my needs and expectations </p>
+
+
+<h2> review.date </h2>
+  10-08-2010  
+<h2> review.text </h2>
+
+ <p> This works just as intended; all of the cards I've tried in it have worked perfectly.  The plastic case is a bit flimsy, and I'd recommend wrapping some ductape around it length-wise to help keep it together, considering the price it is a great buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent, and much less than similar products </p>
+
+
+<h2> review.date </h2>
+  01-06-2011  
+<h2> review.text </h2>
+
+ <p> Great product for the price. Be careful, you can put a card in backwards and damage it. Put the card in slowly your first time and write a note on it. Works perfectly with no drivers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price, works on Vista </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> I have gone through 5 USB Memory Card readers over the years.  This one is the best that I have ever gotten.  It actually has lasted.  Not the toughest thing in the world, but it just keeps going when others have failed so much faster. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This one is the best that I have ever gotten </p>
+
+
+<h2> review.date </h2>
+  01-14-2008  
+<h2> review.text </h2>
+
+ <p> I bought this for 2 reasons: One of the few readers that support both CF and SD memory cards, and 2. Suprisingly cheap.Well, you get what you pay for. The design is Ok, and the SD slot works fine. However the CF slot guides are not aligned with the pins, and it's easy to insert the card mis-aligned. IMO it's a matter of when (not if) I'll insert the CF card into the slit and have it bend a pin, but for now I'll be careful. The price makes these comments almost mute. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Card Reader Design flawed. </p>
+
+
+<h2> review.date </h2>
+  08-17-2008  
+<h2> review.text </h2>
+
+ <p> My only complaint is the quality of the USB cable.  My usb cable became bad due to wires breaking inside of the usb connector.  Otherwise the card reader is just fine with another USB cable.  I have not had it get hot and lock up on me yet.  This reader with a spare microsd card and adapter came in handy lately to sneakernet some files between computers, and updating our PS3. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I guess I got a good one.  Very handy. </p>
+
+
+<h2> review.date </h2>
+  01-11-2008  
+<h2> review.text </h2>
+
+ <p> The unit does read the cards it advertises, however the plastic housing is designed such that the slot for the XD card is slightly too small.  I had to cut out the plastic on the right side of the XD slot in order to insert the card. Once this was done, the card worked just fine. It appears that the CF slot has the same issue, but only from visual inspection since I have no CF card to test.  It works, but not without some modification.  They should re-design the housing to have the correct slot sizes.  It's just a bad design/manufacture of the housing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reads card, but required modification:  Poor design </p>
+
+
+<h2> review.date </h2>
+  06-01-2007  
+<h2> review.text </h2>
+
+ <p> This was one of the only card readers I could find that would read both an SD and a CF memory card (both of which I have).  It does exactly what it's supposed to.  And, the see through case makes it easy to ensure I have the CF card lined up just right so I don't bend the pins as I slide it in.  The only problem I had was that the included USB cable was bad.  I had two cables from my cameras so this was a non issue.  Plus, they offered to replace it if I mailed it back to them.  I can't speak for cards other than the SD and CF cards, but I assume it works equally well for he other types as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Multi Function Memory Card Reader </p>
+
+
+<h2> review.date </h2>
+  05-10-2009  
+<h2> review.text </h2>
+
+ <p> so when I bought this, the image was of the clear blue case rather than the purple (despite the fact that the name remained "clear blue"), but I also bought through eforcity (and the blue version is on their site) so I guess it's the same thing.That said, i received it today and plugged it in.  It did NOT come with an installation CD.  I have XP (in this day and age...) so it wasn't a problem, BUT if you just happens to be one of those people who have a win 98, either don't buy, or bug eforcity about it first.  So for XP at least, plug and play works great.  The USB cable that came with it also works great, no prob so far.that said, my main annoyance is the lack of labeling.  At the time when I bought it, there was no label image for the blue (and on eforcity's site, no images/labels either).  I did find the Amazon's new image, but I guess I keep reading it wrong, and because it IS purple and the image looks diff than the back of my blue one slightly, I was still very very iffy.  After looking around for a long time, and finally just giving up, I just shoved my MS Pro Duo into the bottom slot (it vaguely looked like it fit, though tightly) and plugged it in.  Thankfully it worked.  The slot was such a tight fit and with no labeling and no indication of which orientation to shove it in, I was super paranoid I was going to kill my 8gb MS Pro Duo that JUST arrived.  In fact it made a freaky screeching noise when I pushed it in, and when pulled it, I see vague line marks on the metal connector.  >.>;;  Is it just my own paranoia?  But at least it DOES work.Transfer speed's decent, I would say a regular 2.0 USB speed - nothing to write home about.I'm just glad this thing's really cheap, and it works for just about every other card out there.  I only have SD/microSD (but I have a microSD USB reader so I don't need to connect with that) and now an MS Pro Duo, but this thing is going to be very handy regardless of how many variations of cards I have.  Now I don't have to spend $10 to just get stupid USP cable from GameStop just so I can put stuff on my PSP.  hoorah! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> oddness </p>
+
+
+<h2> review.date </h2>
+  07-28-2009  
+<h2> review.text </h2>
+
+ <p> I got this for use with my laptop, so that I could pull and put information on various flash cards.  This works very well for my needs.  It is truly small, and fits very easily into my laptop case.  Just connect via the USB cord, and your compture is reading the card information.Quick and easy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great piece of mini hardware </p>
+
+
+<h2> review.date </h2>
+  12-19-2009  
+<h2> review.text </h2>
+
+ <p> Plugged it in and Windows loaded the drivers and that was all that was necessary. Have had no problems using it to upload photos from Memory Stick or SD cards. Small and easy to store and easy to use. Great price, too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WORKS GREAT AND EASY TO USE </p>
+
+
+<h2> review.date </h2>
+  02-22-2014  
+<h2> review.text </h2>
+
+ <p> must be a short where the cable meets the unit.. scared to keep using it.. died midway thru an upload.. almost lost my entire card to it.  going with something else now.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> only works some of the time.. </p>
+
+
+<h2> review.date </h2>
+  06-07-2011  
+<h2> review.text </h2>
+
+ <p> This does NOT work with smart media cards.  The company was very good about it.  They refunded the full amount.  Amazon does sell a reader for about 20$ that does work very well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not for Smart Media </p>
+
+
+<h2> review.date </h2>
+  06-26-2009  
+<h2> review.text </h2>
+
+ <p> When I got the product, one of the outside pins was bent on the CF reader.  I had to straighten it before I was able to insert a card.  It didn't work.I tried another card in one of the other slots and it still didn't work.I never called the company or tried to return it because it wasn't worth the effort.This reader is junk.  Consider it a gamble if you order one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anything Lower than 1 star? </p>
+
+
+<h2> review.date </h2>
+  01-30-2010  
+<h2> review.text </h2>
+
+ <p> This device has all possible ports for memory cards. I have Sony Camera, so had trouble using laptop slot for Sony's MS/Pro cause it's too short. This card reader solved my problem, I'm very happy with it!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> like it a lot! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

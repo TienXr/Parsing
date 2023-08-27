@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000025RC8 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-15-2012  
+<h2> review.text </h2>
+
+ <p> I normally love mobster genre movies but I couldn't even sit through the whole movie on this one. Nicholas Turturro as a mobster is terribly miscast. He is about as intimidating as a puppy. Because this was made for tv there is no vulgarity, which I believe adds a sense of realism to mobster films. I don't think these guys are as sqeaky clean as Turturro is in this movie. Save your money-its BORING! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Made for tv crap </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> I love mob movies this one movie is right up there with the godfather , great movie a must have dvd for mob gangsters fans everywhere !!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> outstanding !!!!!! </p>
+
+
+<h2> review.date </h2>
+  07-29-2008  
+<h2> review.text </h2>
+
+ <p> I cant believe this movie is just going to be released on DVD, what a shame. It should have been released a long time ago as far Im concerned. This one of the best Mob movies ever right in between Godfather and Goodfellows and Donnie Brasco. What really dissapoints me that it is going to be released in full screen, who ever is putting this out should really consider a wide screen format. Tom Sizemore does a better job then Armand Assante in portraying Gotti (although I thought Assante was pretty good in the HBO movie Gotti). Trust me if you like Mob movies and crime dramas this is most definitely for you. The story telling is so compelling that your eyes will be riveted to you tv screen. By far it is deserving of 5 stars, now do yourself a favor and buy it or at the very least rent it you wont be dissapointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not on DVD!!!!!!! What!!!!! </p>
+
+
+<h2> review.date </h2>
+  06-21-2013  
+<h2> review.text </h2>
+
+ <p> There were a lot of facts in this movie even though there was also some dramatization.The acting was good enough to keep me watching it for more than 150 minutes. I agreed with the reviewer who wrote Nicholas Turturro did not look intimidating as Sammy.There were many killings but little action. I mean they were assassination and execution not gunfights. So, if you're looking for exciting action here, you'll be disappointed. If you're looking for the evil of Mafia, you'll be satisfied.After reading the book about Sammy the Bull, I found out watching this movie made the truth more interesting and terrifying.  It's because the killing, betrayal, and lies were played out right in front of my eyes. I did not have to visualize them like when I was reading.As Sammy said at the end, "Loyalty, Brotherhood, Family are just lies. There is just betrayal after betrayal." For example, one of the rules of Cosa Nostra is you are not to raise your hand against your brother. It means you do not harm your member. In reality, when the boss wanted the wife of one of his follower, he just order the guy killed. Then he married that guy's wife. It's a blatant lie. The rules are applied to the followers not the bosses.It's definite worth watching. It deserves 4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Contains many facts + Vividly depicts the EVIL of MAFIA </p>
+
+
+<h2> review.date </h2>
+  07-13-2008  
+<h2> review.text </h2>
+
+ <p> Witness to the Mob is an absolute MUST SEE for ANY fan of Mob films and  NY mob history. A dramatic retelling of the story inspired by the NY Times best selling novel Underboss, "Witness" recounts the rise of John Gotti and his right hand man Sammy 'the bull' Gravano within the NY crime scene and the Gambino family.Packed with stars known to this genre (three from the Sopranos), the film portrays the violent times with a sense of great realism. Told from Sammy Gravano's side of the table, it contains a sense and perspective unlike other films, for Gravano was not 'the dapper' Don, he was the man who made things happen in his own way.The style is a narrative one in the same way Goodfellas is... in this case, the narrator is Nicholas Turturro in the lead role of Gravano. It works wonderfully as it brings you into the storyline on a personal level, providing insights as the film moves along.No collection of mob films should be without this one, and I, for one, am thrilled it's finally making its way to DVD!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A MOB MUST SEE </p>
+
+
+<h2> review.date </h2>
+  03-22-2007  
+<h2> review.text </h2>
+
+ <p> "Witness To The Mob" is a fairly accurate portrayal of the dirty, evil, and horrific world of organized crime--along with the strange loyalties and demented codependent dynamics which keep it spinning while everything slowly collapses.Nicholas Turturro does a pretty good job of playing Mafia enforcer Sammy "The Bull" Gravano but occasionally borders on exaggeration with the swaggering, arrogance, and machismo that informs his every movement. It is likely that Gravano probably thought very highly of himself within the deranged prism of a mobster's psyche.Around the time this film was released, John Gotti was already in Marion Prison in Illinois and Sammy was playing the reformed murderer in Arizona.That wouldn't last long, as King Scumbag ended up dragging his entire family (including his son Gerard) into a drug ring while in Witness Protection: perhaps the ultimate f**k you to the FBI, an act of lawlessness greater than anything he could have accomplished while still a stand up guy.  Everyone was still curious about how the Gambino crime family remained so powerful even after the devastating blows dealt to all five crime families in the 1970's.  John Gotti had been a figure in the public eye and despite his imprisonment, the swashbuckling antics he displayed beating case after case still had a grip on the public imagination.As portrayed in this film Gravano's every move puzzled the FBI and made it harder for them to finally send all these guys to jail, including Gotti.  Nothing could be further from the truth.  People were dying all over the place by the time the Ravenite Social Club was subject to its last sting and he wasn't the criminal genius he's painted as in this movie.  Nicholas Turturro met Gravano during production (this guy commits 19 murders and he's consulting on the movie set of his cinematic autobiography with the actor playing him), so that might have something to do with the attempts to make him look a little remorseful here, passionately loyal there, etc.Still, it does reality some justice; we see how the bloodthirsty "Bull" urged John Gotti on to authorize more and more hits, inspiring more and more bloodshed.  Tom Sizemore does a great job as the Teflon Don: a stone cold criminal who gets caught up in his own celebrity, eventually leading to his downfall.  Gravano is so unrepentant in his rampages that he actually helps facilitate the death of wife's brother because he had a cocaine addiction.The scenes with Paul Castellano are hilarious.  They look less like mafia meetings than an adult Boy Scout Reunion with a lot of hotheads.  Whoever played him shouldn't have.  In these films you can't quite favor anyone because all of them are hollow psychopaths; after watching this film, though, I choose John Gotti over Sammy Gravano.  At least within the twisted ethics of the mob Gotti was true to form and remained in his cell, while Gravano ran to Arizona and then did more evil--destroying not only his own life but his family's as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, but too flattering to Gravano </p>
+
+
+<h2> review.date </h2>
+  09-28-2012  
+<h2> review.text </h2>
+
+ <p> IN my opinion, this is one of the top mob movies out there besides casino, goodfellas and donnie brasco. The regular gotti movie that was pretty much about the same thing was no where near as good as this movie. Tom sizemore does an incredible job as the lead role and alot of it reminded me of the tv show sopranos on how the organization operates. Definitely a must buy for any mafia fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Incredible Mafia movie </p>
+
+
+<h2> review.date </h2>
+  12-01-2002  
+<h2> review.text </h2>
+
+ <p> If you loved GOODFELLAS and THE SOPRANOS, this should be on your Christmas list. Vincent Pastore (Big Pussy), Michael Imperioli (Christopher Moltasanti) and Kathrine Narducci (Charmine Bucco) all appear in this film along with Nicholas Turturro, the first cousin of Aida Turturro (Janice Soprano). As with most mob films the story tends to be cliche but well acted. The only disappointment, aside from the incrediably long wait for this movie's release, is that the film isn't available on DVD. Let's hope the DVD version isn't far behind and that Kathrine Narducci won't be lost in the transfer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mob Hit! </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> A story that brings all the inhumanness that people live to achieve their own ends and destroy their own souls and lives and others as well+ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Desperate life </p>
+
+
+<h2> review.date </h2>
+  12-25-1999  
+<h2> review.text </h2>
+
+ <p> The Minute You Start to View this Movie, You know your in for a true treat, the actors, are all wonderfull, protrayed perfectly, my only gripe is paul castelano's charactor, couldn't he have been more intimidating?  -regardless, the scenes, the cinematography, the advancing story, the  narratives, all so reminds me of Goodfellas, my personal favorite movie of  all time, you can just, feel, there, it's so engrossing, I watched it  twice, the first day, six ours of complete bliss, easily the best movie of  the year, came out right before christmas, it will blow you away,and have  you coming back for more, terrific cast, terrific music, justified  violence, hardly any language, this is the film to see, if you don't you've  missed out, nicholas, has done a wonderfull job,and tom sizemore as john  gotti, you won't recognize him, he's that good, he is so believable it's  scary, see the movie, nuff said. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Untouchable, Best Mob Film, In Years. - De Niro Produced. </p>
+
+
+<h2> review.date </h2>
+  04-11-2000  
+<h2> review.text </h2>
+
+ <p> This movie is about the rise of mobster Sam Gravano, whose testimony put John Gotti and others in jail. Some may find this movie too long. I thought the nearly three-hour length allowed the story to develop more fully. The  story drew me in. The film raises the question of what is ethical.  According to this movie, it depends upon one's point of reference. The mob  has its own code of ethics. Gravano is depicted as striving to live  according to that code. It is a code that jusifies murder. This film has  plenty of executions but I did not think the violence was overdone. This  movie draws the viewer into the mad world of the mob. We are enticed to see  Gravano, who murdered 19 people, as an honorable hero. This view is  questioned at the end, however, when we begin to emerge from the darkness  of the crime world and see the cost of crime to all of us. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mob Madness </p>
+
+
+<h2> review.date </h2>
+  05-03-2014  
+<h2> review.text </h2>
+
+ <p> This movie is made for t.v. junk.  It's very slow in the first half, and only picks up on the 'second episode'.  What also irks me about this is how they whitewashed the story of Gravano's life.  He personally murdered a couple dozen people, but in this movie they make him mostly look like a guy that only reluctantly ordered murders, not someone that actually participated in the murders.  I don't like it when something is based on a true story and they pervert the true story so you can get behind the main character.  They should have just told his story as it actually was, so the movie could be respected as being based on actual history.If you are interested in these specific people, buy the Gotti movie instead, it's way better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Junk, buy the Gotti movie instead. </p>
+
+
+<h2> review.date </h2>
+  02-21-2011  
+<h2> review.text </h2>
+
+ <p> I gave up waiting and hoping that this forgotten TV flick would see a proper DVD release...apparently, whoever owned the rights were out of their minds not to release this during the height of Sopranos Fever.The 1996 HBO movie Gotti has been widely available for ages as a cheap DVD, and has become a home classic for those who like to point out what guy was in what other mob movie and who got whacked when and where.  Witness to the Mob should be packaged with Gotti and sold together as a one-two punch of shameless Wiseguy Actor Guild fodder for repeated viewings and drinking games.The cast in this one is pure Wiseguy Actor Bingo.  This appeared in 1998, a year before The Sopranos would change the face and quality of Mafioso drama forever, and it feels like a warm-up for that series (only without the good writing, direction, drama, etc).  Michael Imperioli, Tony Sirico, Vincent Pastore, Frank Vincent, the guy who played 'Murmur', the guy who played Carlo Gervasi, Frankie Valli, the guy with a small part as 'Tony Black' in the last season, the guy who played Johnny Boy Soprano, the woman who played Charmane Bucco...all appear and are immediately recognizable.  A bunch of them get whacked.  All of them have appeared in other mob-lore movies.  You've got Abe Vigoda and Richard 'Al Neri' Bright to bring up the Godfather connections.  You've got that guy who played the degenerate gambler that Pesci chews out in Casino.  You've got a fat guy who also played a wise guy in The Jerky Boys.  You've got Johnny Roast Beef from Goodfellas...a film where several of the above also appear in large and small roles.  Throw Debi Mazur in there (Goodfellas) with the most significant female role.  You've got any number of other guys who you know you've seen in some movie or TV show at some point, but you have to look them up and then you discover, yes, they've appeared in bits here and there as gangsters.  You've got a lot of random guys billed only as 'mobster'.Nick Turturro and Tom Sizemore are not really members of the Wiseguy Actors Guild, but they are very capable in their roles.  Sizemore as Gotti?  It works, and the hairpiece is tremendous.  Besides, a fat, swearing Sizemore is a great asset to any film for the morbidly curious.  (We do get a fat Sizmore in a prison jumpsuit screaming from his cell.)  Oh yeah, and Robert DeNiro produced this, so how's that for mob actor credentials?The movie?  The movie is based on the Sammy Gravano / Peter Maas autobiography Underboss, which serves as a counterpoint to the Gotti story.  This time, Gravano gets to tell his side and pad out his story with what a stand-up guy he was, and how out of control Gotti was.  He questions 'the life', the false loyalty and honor, how it's all about the money, and how "the rules" are for the little guys to follow while the bosses get to do whatever they want.  All of the treachery gives him doubts.  The timeline is different from the Gotti movie, but there are plenty of overlapping events.  Remember Frank Vincent as DiBi in Gotti, getting shot in the head?  Swap him out and have him play Frankie DeCicco, and he gets blown to bits here in a car bombing.  Vincent Pastore as Fat Angie in Gotti?  Here he's Mikey De Batt, and he gets pumped with lead as he's pumping the jukebox with quarters.  Once again, we get the Sparks Steakhouse hit; this time it's Abe Vigoda getting lit up by swarming gunmen.There are countless scenes that you feel like you've seen 100 times already---wiseguys sitting around in a social club, drinking, playing cards, smoking, talking about schemes and murders, breaking chops, etc, etc, etc.  Again, this is pre-Sopranos, so when you watch this you can't help but compare it to the masterful TV show (and its own depictions of wiseguys sitting around talking about schemes, murder, playing cards ,etc).  You've got tremendous outfits from the costume department.  You've got guys who are probably real mob associates playing mob associates.  You've got guys who think they really are gangsters because they play gangsters.Yes, it's often very cheesy.  Yes, it was made for TV, so there is no actual swearing(!), which is a definite liability in a mob movie.  The production values are actually pretty good for a TV flick.  The writing and the drama are often flat, but you'll tune in to see the 'usual' scenes of wiseguy antics you've come to know and love.  Yes, you will recognize plenty of New York locations, including those around Brooklyn.  Remember the Lowes Oriental?  It's the backdrop to a memorable car bombing.  Ah, Brooklyn.Pick this baby up for cheap and do a shot of espresso. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sopranos warmup in cheap warmup suit </p>
+
+
+<h2> review.date </h2>
+  11-29-2013  
+<h2> review.text </h2>
+
+ <p> Witness to the Mob (1998) is  valuable for the clear-headed retellingof the underworld life of Sammy 'The Bull' Gravano vis a vis John Gotti, whodelegated the majority, if not almost the totality of the practical aspectsof the top-level strategic decisions made by the head honcho.It seems clear that much of the context that is presented (such as Paul Castellano'sdemise, etc) is already known to fans of the genre, and as such, enhances anearlier comprehension of the historical aspects of what was told.As well, in earlier Gotti movies, namely with Armand Assante (as Gotti)or Chazz Palminteri (playing Paul Castellano, but giving air time to Gotti in the film)for example, some aspects were touched upon, but this movie, brings some aspectsmuch more in focus for the viewer.At the end of the day, the story's engine runs on 2 cylinders, the first beingthe FBI who is tapping phones, placing eavesdropping devices in conferencerooms and social clubs (also known as the head-office or board room), and the second,being the small-world (at least, at the top), comprised of Sammy who is the consigliereor high level capo-regime (pezzonovante) and the Don himself, one directing, and afraidof losing the street respect from the fact that Sammy did the face-to-face and legworkfor the overall organization ( the effort.) As is often seen, loyalty is not blind, andmay be compromised by the wrong signals and rapport being received from the top people,resulting in a rat-race for survival when prosecution from accumulated evidence if aroundthe corner.The filming is fine, the dialog is effective, the story is clear and more than realistic.There is no attempt from the director in being extravagant, from an art of music point ofview, there is no effort to embellish the underworld, either, both aspects being seemoccasionally on screen from other directors, to bring glamor to gangland dealings.Nicholas Turturro pulls in a great job, Tom Sizemore is his usual self, credible andconvincing all the while, although at times self-concious in not being the real Gotto,with the rest of the cast professional.Worth a spin in the DVD player, certainly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A clear-headed retelling of the underworld life of Sammy vis a vis John </p>
+
+
+<h2> review.date </h2>
+  02-21-2000  
+<h2> review.text </h2>
+
+ <p> What do you rate a good mob movie on. Maybe how it compares to Godfather or Goodfellas. No, you rank them based on the material in the movie and in this case I would have to say that they used alot of useless parts of this  story and put it in the movie. They(mafia rats) all tell stories to make  them selves look like the victim. But the truth about Sam gravano is that  he was a stone cold killer and the movie gives you the idea that he was  just doing what he was told. Not true, instead of puttng the courting of  his wife, who left him because he was a rat and killed her brother, the  movie should have focused on why he became a killer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> government rat </p>
+
+
+<h2> review.date </h2>
+  07-05-2000  
+<h2> review.text </h2>
+
+ <p> This film is an excellent adaptation of the story told  in &quot;Sammy the Bull&quot; Gravano's book, *Underboss*, the reading of which would actually enhance this film for any viewer.  Nicholas Turturro does with his acting  the same magic Gravano performs with the written word--taking you directly  into the mind and the world of a real gangster with few excuses offered.Gravano was raised to revere and respect &quot;the mob&quot; the same  way other kids in the U.S. learn to idolize sports heros and financial  wizards today.  To get into the mob was to &quot;make it&quot;, and Sammy  Gravano did just that as few others have, ultimately rising to be  second-in-command of one of the country's most powerful mobs.This is the  story of the decline in power of the Gambino crime &quot;family&quot;  following the death of its formidable founder, the low-key but lethal Carlo  Gambino.  His replacement, &quot;Big Paul&quot; Castillano proved not as  devoted to &quot;the family&quot; or to his own family his forerunner, both  colossal faux pas for a crime boss.  His being replaced with the flashy,  all-too-public &quot;Teflon Don&quot; John Gotti dealt the Gambino  organization a blow from which it has yet to recover (it may be supposed;  who knows what underground operations may yet be going on?).Gravano's  hands somehow appear much bloodier in the movie than in the book--perhaps  because the book allows more time for the protagonist to tell his side of  the story and come up, if not smelling like a rose, at least not smelling  quite as much like stinkweed.  In Witness for the Mob, his true status is  more clearly spelled out as that of a serial killer who was granted  immunity in exchange for the testimony that put John Gotti, among others,  away for life.  Gravano entered the witness protection program and, the  film tells us, is now &quot;doing business somewhere in the United  States.&quot;This film makes it appear that at least as late as the  1980's, before the fall of Gotti, members of &quot;the mob&quot; enjoyed  the same sort of glory and hero-worship as the bankrobbers of the American  Old West and Depression-era.  Every little boy dreamed of growing up to be  a gangster, and every woman of marriageable age wanted to marry into the  lavish lifestyle  such a life afforded.  In fact, one of the most  interesting aspects of this story is the way the mob wives lived in luxury  while turning a very practiced blind eye to the means by which the money  rolled in.&quot;Sammy the Bull&quot; employs a candor in his book that  spills over into this movie.  At no time does he claim to be a hero of any  sort and freely admits that saving his own skin was his primary motivation  in becoming a federal witness against his former partners.  That candor  becomes a reason to believe, if not admire, him.Nicholas Turturro is  outstanding in this roll, portraying Sammy the Bull in the way that Gravano  himself would probably have preferred, judging from his book.  Tom Sizemore  is totally believable as the &quot;Dapper/Teflon Don&quot; whose love of  being in the public eye began to tighten the snare set for him.  And it is  great to see Abe Vigoda again, this time as &quot;Big Paul&quot; at the end  of his reign, too smug and self-satisfied to think that the new &quot;up  and coming&quot; members of his own gang might break long-standing Cosa  Nostra taboos to get rid of a leader they came to regard as  ineffective at  best.  And it is amusing to see Gotti, as portrayed by Sizemore, make the  same mistake of thinking that once you are &quot;the boss&quot;, no one can  take you down, even though he was very actively involved in the  assassination of his predecessor.There are no heros in this film, which  adds to the veracity of its story.  What the viewer gets is a far above  average look into the world of the mob, a world that is confusing,  horrific, and occasionalliy amusing in a dark, sardonic sort of way.  For  three hours, you see it all through the eyes of &quot;underboss&quot;  Salvatore Gravano.  And that is about as close an observation as you can  get and still live to tell about it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent film--Not to be missed by fans of &quot;mob&quot; films </p>
+
+
+<h2> review.date </h2>
+  05-22-2009  
+<h2> review.text </h2>
+
+ <p> This movie is actually not really what I expected but it is a good movie.I liked the story it is about Sammy "the Bull" Gravano and it is until the moment he became an informer for the government and went into the witness protection program.The story is well written and the acting is OK the rest is acceptable. Overall a good enjoyable movie </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not really what I expected </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

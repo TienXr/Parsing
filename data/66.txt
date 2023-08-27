@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B003CMYVU8 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-16-2013  
+<h2> review.text </h2>
+
+ <p> I took off one star because I like how the Nikon charger has kinda a pocket to hold the battery while it's charging. I bought this to replace my charger when my original one went missing (turned up half a year later buried under some stuff in the wrong pocket of my camera bag, hubby was trying to be helpful & put it away for me). The batteries seem to hold a charge for just as long as my OEM battery. Haven't tested it as a car charger due to lack of need - with the two batteries that come in this set I have a total of four batteries, and MY body battery runs out for the day LONG before I run through THAT much battery power! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not quite as nice as the OEM Nikon charger but works perfectly </p>
+
+
+<h2> review.date </h2>
+  02-17-2013  
+<h2> review.text </h2>
+
+ <p> These are really good batteries, just the generic of a Nikon. They lasted the same amount of time as the name brand. The charger is also nice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> exactly what I expected </p>
+
+
+<h2> review.date </h2>
+  12-13-2012  
+<h2> review.text </h2>
+
+ <p> I have not used these long enough to see any defects, but so far so good and the charger is very handy I keep it i my camera bag as an extra because I don't have to deal with a cord which is good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So far so good </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> works fine, reasonably priced, got it in a timely mannerI don't mind writing a review about products I purchase , but why am I being forced to write a book about them? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good product </p>
+
+
+<h2> review.date </h2>
+  09-24-2013  
+<h2> review.text </h2>
+
+ <p> Very, very good products.. The batteries and charger works great.. The batteries work just as good as the originals if not better. For sure I have been using them daily.. Thank you for the on time service... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> I take lots of pictures with my NIKON D5000. This seemed like such a great idea at the time. However I found out really quickly that the batteries do not last that long and charging was a hit or miss. By hit or miss I mean, because I was mixing the batteries with my original/brand (and definitely more expensive) batteries I was able to keep it from completely S*@ting the bed. The batteries I recieved were not rechargable. Why sell batteries that do not recharge with a charger???? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buy it for the charger (it the only thing worth it) </p>
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> The item was delivered promptly & I was able to charge it fully. However, until I use it I can't make any statement about its longevity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> rechargable battery </p>
+
+
+<h2> review.date </h2>
+  01-12-2013  
+<h2> review.text </h2>
+
+ <p> Yes, I was terrified this kit would give me some issues, but I'd lost the adaptor plug to my universal charger and this was the cheapest / best choice to power my camera. So the two batteries work fine, the charger charges my original Nikon battery AND the car adaptor plug fits my universal charger. I am totally satisfied. Two spare batteries and I can charge them all anywhere = Happy Girl ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nikon D40 : I was afraid, but pleasantly surprised! </p>
+
+
+<h2> review.date </h2>
+  06-01-2011  
+<h2> review.text </h2>
+
+ <p> These little batteries are wonderful! I bought them for my Nikon D5000 because my Nikon battery and charger was failing on me so I decided to save myself a lot of money by buying some of these instead of Nikon branded batteries (they're the same, trust me, they just bear different names). These generic batteries last just as long as the Nikon batteries and the extra charger is a great benefit. The charger works in my car and at home and has not failed me. My batteries are now always charged 100% in comparison to my old Nikon charger which charged batteries halfway. If it were up to me, I'd rather these batteries and charger come packed with the Nikon itself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must buy </p>
+
+
+<h2> review.date </h2>
+  05-28-2013  
+<h2> review.text </h2>
+
+ <p> These work just as well as the original battery.  No need to waste time trying to get a Nikon version, they probably cost more and don't come with a wall charger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Backups </p>
+
+
+<h2> review.date </h2>
+  01-07-2013  
+<h2> review.text </h2>
+
+ <p> This is actually second time purchasing this package.  I lost my charger and I needed a new one.  Original purchase was Feb 2012.  None the less, I have a Nikon D5000.  I have a battery grip on my camera.  The batteries work flawless in there.  Most recently, I took my camera to a minor fashion show and I shot over 1100 pics with my SB700 flash attached and the batteries were still ready to shoot.  I have no problems charging on this charger or with the factory charger (I use both at the same time to charge both batteries).  Since my original purchase Feb 2012, it's been 11mo and I still use the same two batteries since then.  I am a novice photographer and for 2012 I shot an average of 600 shots/mo.  Batteries still work fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B008847UNU <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beware the Spider's Wrath </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Deacon Chalk is a man possessed; since the brutal murder of his family at the hands of cruel supernatural forces, he has vowed to protect his fellow humans against the creatures of the night.In this tale, Deacon, his partner/love-interest Tiff, and a newfound ally in his personal war--the were-spider Charolette, make a gruesome discovery: the were-spider's companions have been slaughtered and her soon to hatch egg sac has been stolen. If they do not recover the sac soon, it will release hundreds of baby were-spiders onto an unsuspecting world with no guidance and no support.Action-packed and well-written (and edited), this novella is the epitome of urban fantasy. Author James Tuck took his time to craft each character and the world with care.A single, self-contained adventure, you do not need to have read any other Deacon Chalk work to enjoy the work. Highly recommended. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> excellent addition to series </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Deacon Chalk is an Occult Bounty Hunter. He's the guy you call when monsters need killing. Not all monsters are bad though and when Deacon, his apprentice/friend Tiffany and a Were-spider named Charlotte get back to Charlotte's place after a night on the town they find all of the Were-spiders in her cluster dead, her egg sac gone and Ronnie, the egg sac babysitter for the night, missing, too. With Charlotte predicting the egg sac of spiders will hatch around dawn they have only a few hours to find who took it and where it is. Because if the spiders hatch with no one to bind to they will kill until they can be killed. However, if the person who took them binds them to him and he has evil intent then he has gained a s***load of little killing machines. The clock is ticking...This short story takes place after Blood and Bullets, but it can read as a standalone. It's nicely written with a plot that quickly proceeds from Point A to Point B to Point C and has characters that are well-developed. The copious amount of detail tends to bog the story down just a touch though it is nice to be well-informed. I'm still enjoying this series very much and look forward to more of Deacon Chalk.*Many thanks to the author for providing me with a review copy. Please see disclaimer page on my blog. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Didn't do it for me </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-15-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> While the action scenes in this story were readable, the characters engaging enough and the plot moved at a reasonable pace, the omissions and inconsistencies in this short kept it from being fully engaging.  In particular, the antagonist seemed like a cardboard construct created only to give the protagonist a target.  Failing to fill in basic background information such as how the antagonist knew there was a sac of spiderlings to steal, how he knew Deacon Chalk would be involved, and how he planned to get around the imprinting left the story less than satisfying.  For me, one more page of text would have taken this from a 2 star review to a 4 star review.  Sadly, that page of text was missing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Spiders Lullaby </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> A short and sweet read. Spiders Lullaby tells a short story of Deacon Chalk during the year between the first and second novels. We learn more about what happened in the aftermath of Blood and Bullets and a few hints at what is to come in Blood and Silver. Old friends return and a new enemy emerges if you are looking for more Deacon Chalk this is a must read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Big bad monster killer rushing to the rescue not only for one of his employees. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Review courtesy of Dark Faerie TalesQuick & Dirty: Big bad monster killer rushing to the rescue not only for one of his employees, but to also stop a hoard of potentially lethal spiders.  Another great short story starring my favorite Occult Bounty Hunter, Deacon Chalk.Opening Sentence: Charlotte's front door was open.The Review:Deacon Chalk, Occult Bounty Hunter, is back and on the hunt.  Someone has messed with his people and he is not a man that will stand for that kind of crap.  With the help of an irresistible lady, a were-spider, a former dragon, and his trusty Desert Eagle .357, Deacon must find his friend's stolen egg sac full of her children before they hatch.  If they are unsuccessful, carnage will reign supreme in Deacon's little corner of the world.  Can they save everyone in time?  And who in their right mind would do such a thing in the first place?  Whoever it is behind all of this had better say their prayers because Deacon is the last man they will piss off ever again.As usual, James R. Tuck delivers another fantastic new Deaconverse short story in Spider's Lullaby.  Deacon Chalk is a big bad mofo that is severely protective of those he lets into his inner circle; those he considers his.  It is this trait that has led him into the job he now thrives in as an occult bounty hunter.  It also happens to be the reason I love this character so much.  When he lost his family to supernatural violence so many years ago, Deacon was forever changed.  This loss has shaped his personality more than any other singular event in his life.  Now, he does everything in his power to make sure that what he's endured doesn't have to happen to another human being.The story in itself is great.  Wait, that is not descriptive enough.  Spider's Lullaby is a Do-Not-Be-Disturbed-While-Reading, eBook crushing, no-holds-barred tension inducing, Why-Oh-Why-Is-This-So-Short taste of the Deaconicity that leaves me twitching for more.  Ah, that's a little closer to how I feel.  Anyway, there are lots of snarky remarks and cool fight scenes to enjoy; very Deacon-typical.  The new things that pop up are the relationship between Deacon and Tiff and a new and very hungry weapon.  Tiff was introduced in the last book.  She is all human and delicate.  Since she has joined up with Deacon, Tiff has moved from being a victim to learning how to defend and attack otherworldly creatures.  The feelings Deacon has developed for Tiff -- he is not in the least bit comfortable with.  His heart is still buried with his family, even though Tiff looks to be resurrecting his long-dead softer emotions.  Though they are not together in that way, they do share a connection that is reflected in this story.The sword is something all-together different.  Without going into too many details, the weapon in question seems very dangerous in the wrong hands.  Now that it is in Deacon's, what will it do?  Will it influence Deacon?  Can he find a way to destroy it without releasing the Oni within?  I hope this little introduction is more explored in the next installment of the series.Overall, this short story can be enjoyed as a standalone, but I would not recommend it.  Mostly, I think that, to truly appreciate the coolness that is Deacon Chalk, you must read the full book.  This particular story seems to me as more of a teaser for those more familiar with Deacon Chalk and his cohorts.  It relates more of the craziness and, let's face it, appeal of Mr. Tuck's amazing and dark new world.FTC Advisory: The author graciously provided a copy of Spider's Lullaby.  No goody bags, sponsorships, "material connections," or bribes were exchanged for my review.  The only payment received came in the form of hugs and kisses from my little boys. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good buy </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This author was recently suggested to me...his books were cheap, so I gave it a shot. His books were quite good & this short story was worth the purchase price. So often I feel short stories written by my favorite author's aren't worth my $1. This added nicely to moving the series forward & I can't wait to begin his newest release. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another homerun from the Deacon Chalk series </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> True to form, Mr. TUCK wrote another great story here. Our main man Deacon once again is up to his shoulders in action, and weird supernatural happenings. If you like classic old American muscle cars and demons, vampires,werecreatures or ninjas getting their butts kicked then the Deacon Chalk series are for you. Well worth the money. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another great one from Tuck </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-02-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've been reading everything I can find about Deacon Chalk. What a great anti-hero. He's a hero for the masses with his good intentions and tough tactics. Mr. Tuck, you keep 'em coming, and I'll keep reading 'em. Thanks for a great series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Getting monotonous </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> this series just isnt going anywhere, getting repetitious. this volume short to boot. we've heard over and over how his family was killed, we know he's a big bada$$, the chicks are hot, the plot is not. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyed seeing more Charlotte and meeting Ivan </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Book Info: Genre: Urban FantasyReading Level: AdultRecommended for: fans of darker, male-oriented Urban FantasyTrigger Warnings: violence, murder, threat of rape, drug dealers, frat boys, lots of spidersMy Thoughts: I was very happy to have more Charlotte. While the idea of a brown recluse werespider freaks me out, I liked her anyway. I also enjoyed learning more about Ronnie, and meeting Ivan, who is a very interesting character that I hope we will see more of.This is a novella, so not very long and it moves fast. Deacon runs up against a demon in this one, so there is some major unpleasantness, and of course there are hundreds of baby spiders involved, so arachnophobes should take note. Still, a fun series so far for fans of darker, male-oriented urban fantasy.Series Information: Spider's Lullaby is Book 1.5 in the Deacon Chalk seriesBook .5: That Thing at the Zoo, review linked here where formatting allowed.Book 1: Blood and Bullets, review linked here where formatting allowed.Book 2: Blood and SilverBook 2.5: Circus of BloodBook 3: Blood and MagickDisclosure: I bought this book for myself. All opinions are my own.Synopsis: He lives to kill monsters. He keeps his city safe. And his silver hollow-points and back-from-the-dead abilities take out any kind of unnatural threat. But between this bad-ass bounty hunter and rescuing the most helpless of victims stands the one evil he can't defeat...For Deacon Chalk, loyalty is worth dying for. And now that something has taken were-spider Charlotte's un-hatched children and one of his closest friends, he'll tear up the human and supernatural underworlds to find them. But with his allies stripped away by an invincible Yakuza hit man and time running out, Deacon must face down the most ancient of demonic entities. And his last hope means surrendering to the inner darkness waiting hungrily to consume him ... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> by Sarah </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have to say I was confused as to why we have a novella in this series after the opening novella I thought this series would continue book and book. Knowing there is a book after this you already know that nothing bad can happen to Deacon Chalk, why would it? The thought of anything bad happening to him makes me want to weep. That's how close now I feel to Deacon. The earlier books have told us that Deacon is incredibly loyal and protective and here we get to see that side again as he battles evil like only he can.I read this book in about three short sittings in one day, purely because I had to find out what was going to happen. The repetition I've spoken about before was still here but in a shorter book it didn't seem as bad. This novella could be read as a standalone from the others but I'd recommend reading this series in order if possible so that you understand more about Deacon himself. It does work fine as a standalone but the real greatness of these stories is how he's developing and why.This book will get you ready for the next book in the series, Blood and Silver - which will be reviewed here next week!Originally Posted at Welcome to Larissa's Bookish Life {[...]} </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Again </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> James R. Tuck did another great job with the Deacon Chalk Bounty Hunter series. I'm forever a fan now and can't wait for the next one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Short story </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-06-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was a good short story that filled in a few missing details in his second book.It would've been nice o have it at the beginning of the second book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> fun story </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Tucker's Deacon Chalk is a character I like to read about. He is over the top as are his adventures. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Usually I love Deacon </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> In this one I just liked him.  I think the shorts are probably doing it to me, I like his full novels with more development better but again, happy I bought it and happy I own it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a short book that should have been longer </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> a short book that should have been longer,i thought this book would tell about what happen to his family.but it didn't and it was a real let down. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> fast, fun, furious and full of attitude </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-19-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was a great fit for the series: fast, fun, furious and full of attitude. The action is nonstop, and there is never a dull moment. The novella length offer a great read that left me craving a full length story.I will admit that I was worried about a story about were-spiders because spiders are creepy and gross. But there was no need to worry because the spiders played more of a supporting role as victims rather than a centre stage role. That's not to say that aren't creepy, especially the final scenes, but I didn't have nightmares about them, so that's good.Overall, this was another fun edition to the Deacon series. It's dark urban fantasy that is very satisfying in the action and attitude areas while still serving up some enjoyable characters. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Spider's Lullaby </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-31-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Deacon Chalk rarely takes time out of monster hunting, but in Spider's Lullaby he is out on the town with Tiff, a woman who is learning his trade, and Charlotte, a were-spider friend. When the night is over, they return to Charlotte's house that she shares with other were-spiders only to find the inhabitants dead, Charlotte's egg-sac and Chalk's friend Ronnie missing. Everything would be okay, except for one big catch - if Charlotte's not there to imprint on the babies when they hatch, they will go on a murderous rampage. With a little help from his friends, Deacon's off to find the babies with Charlotte and Tiff in tow. Can they save Ronnie and defeat the killer with so little time left before the egg sac hatches?Pulling no punches, Mr. Tuck has taken us back into the gritty world of Occult Bounty Hunter Deacon Chalk we first entered in That Thing at the Zoo and Blood and Bullets. Spider's Lullaby is a great novella which keeps you wrapped in the action from page one. Told in first person, Chalk is very honest about himself, his strengths, and weaknesses. This story is crawling with demons, spiders, hitmen, thugs, and one very pissed off Occult Bounty Hunter. A quick and intense read, Spider's Lullaby will have you looking in every dark corner all night long!Deacon Chalk: Occult Bounty Hunter Series: That Thing at the Zoo (Novella), Blood and Bullets (1), Spider's Lullaby (Novella), Blood and Silver (2) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good read </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Easy to read and fun. As with the other books, I want some more of Deacon Chalk and the people around him. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Deacon chalk pretty darn cool </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-10-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> A short story that fills in some back story. Nice quick enjoyable read. A must read in this series, I deft recommend </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

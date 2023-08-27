@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 161010160X <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-14-2014  
+<h2> review.text </h2>
+
+ <p> Does the drowning man lift himself out of the water to save himself?  No he does not.  Man cannot save himself.  Man IS NOT the answer TO MAN'S TROUBLES, in fact man is hopelessly helplessly lost.  Now what?There is a merciful Sovereign God who is drawing you..... do NOT deny Him when He does so!A BOOK THAT WILL TRANSFORM YOUR PERSPECTIVE ON HOW SALVATION TRANSPIRES. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BRILLIANT AND BEAUTIFUL! </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> Quotes from this entry include:"It was well said by Calvin, 'We shall never be clearly convinced, as we ought to be, that our salvation flows from the fountain of God's free mercy, till we are acquainted with His eternal election, which illustrates the grace of God by this comparison; that He adopts not all promiscuously to the hope of salvation, but He gives to some what He refuses to others. Ignorance of this principle evidently detracts from the divine glory, and diminishes real humility --If, then, we need to be recalled to the origin of election, to prove that we obtain salvation from no other source than the mere good pleasure of God, then they who desire to extinguish this principle, do all they can to obscure what ought to be magnificently and loudly celebrated.'""Let it be plainly announced that salvation originated not in the will of man, but in the will of God (see John 1:13; Rom. 9:16), that were it not so none would or could be saved--for as the result of the fall man has lost all desire and will unto that which is good (John 5:40; Rom. 3:11)--and that even the elect themselves have to be made willing (Ps. 110:3), and loud will be the cries of indignation raised against such teaching.""In the decrees of the council of Trent--wherein the Papacy definitely defined her position on the leading points raised by the Reformers, and which Rome has never rescinded--occurs the following: 'If any one should affirm that since the fall of Adam man's free will is lost, let him be accursed.' It was for their faithful adherence to the truth of election, with all that it involves, that Bradford and hundreds of others were burned at the stake by the agents of the pope. Unspeakably sad is it to see so many professing Protestants agree with the mother of harlots in this fundamental error. But whatever aversion men may now have to this blessed truth, they will be compelled to hear it in the last day, hear it as the voice of final, unalterable, and eternal decision.""It is one of the marks of the regenerate that they set to their seal that God is true. Nor do they pick and choose, as will religious hypocrites: once they perceive a truth is clearly taught in the Word, even though it be utterly opposed to their own reason and inclinations, they humbly bow to it and implicitly receive it, and would do so though not another person in whole world believed it.""It is not a subject to be reasoned about and speculated upon, but approached in a spirit of holy awe and devotion. It is to be handled soberly, 'When thou art in disputation, engaged upon a just quarrel to vindicate the truth of God from heresy and distortion, look into thy heart, set a watch on thy lips, beware of wild fire in thy zeal' (E. Reynolds, 1648). Nevertheless, this truth is to be dealt with uncompromisingly, and plainly, irrespective of the fear or favor of man, confidently leaving all 'results' in the hand of God. May it be graciously granted us to write in a manner pleasing to God, and you to receive whatever is from Himself.""It is an irrefutable fact that as Calvinism has met with less and less favor in the leading Protestant bodies, as the sovereignty of God and His electing love have been more and more crowded out of their pulpits, that Rome has made increasing progress, until today she must have, both in England and in the U.S.A., a greater number of followers than any single evangelical denomination. But what is saddest of all is that, the vast majority of those now occupying so-called Protestant pulpits are preaching the very things which further Rome's interests. Their insistence upon the freedom of fallen man's will-to-good must fill the Papist leaders with delight--in the Council of Trent she anathematized all who affirmed the contrary." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> genev </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> Great book by this legend & giant of a theologian & preacher. This book lets us know that GOD is great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A W Pink </p>
+
+
+<h2> review.date </h2>
+  06-11-2012  
+<h2> review.text </h2>
+
+ <p> A.W.Pink has a published book on 'The Doctrine Of Election' (The Pietan Publ.Ed.is 165 pages and the Bottom Of The Hill Publ.Ed.is 144 pages-the content is exactly the same).This review is for the 24 page introductory booklet on this Biblical teaching which is not the same material as the forenamed books by various publishers.One of Pink's many strengths is his ability to precisely define what he is writing about with relatively few words.Election is "but the exercise of God's Sovereignty in the affairs of salvation."  Mr.Pink boldly asserts that this doctrine did not originate with men but is revealed and clearly taught in The Word Of God.The carnal mind is at enmity with God and finds such teaching(on things such as Election and Eternal Punishment)appalling.They accuse God of being cruel,unjust and overly harsh.They cannot believe that this could be true of a good and loving God(they fail to realize that God is also Holy as well and His Holiness demands justice,the overemphasis of God's love without considering His Holiness is a God that they have fashioned in their own image).1Cor.2:14 explains why the unregenerate cannot comprehend such things;'But the natural man receiveth not the things of the Spirit Of God:for they are foolishness unto him:neither can he know them,because they are spiritually discerned.' The natural man(the unsaved man)cannot receive or understand these things because he is spiritually dead.The author believes(and rightly so)that the Doctrine of Election is one of the foundational doctrines of the Bible and can be found throughout the Scriptures.He gives six examples of God's Sovereignty in dealing with individuals in the book of Genesis(many more could be given).Mr.Pink then gives a number of quotes that plainly set forth this teaching,such as:'ye have not chosen me but I have chosen you.'John 15:16 and 'as many as were ordained to eternal life believed.'Acts 13:48.The singling out of Abraham (from whom descended the nation of Israel)and revealing Himself to Israel ,as He did not to all the other nations( thus identifying them as His chosen people).What is this but God's Sovereign election of a people for His purposes.One reason that Election is such a despised Doctrine(not only by the natural man-the unregenerate but also by 'religious professors' is that they think God is unfair or unjust.They wonder how it can be just for the Lord to choose to save certain individuals and leave others to perish eternally in their sins.A.W.Pink answers this charge with characteristic Biblical clarity; p.10"salvation is not a question of justice,but of grace,if the matter is to be settled on the ground of bare justice,then every child of Adam must perish..."  Pink's reasoning is Biblically airtight on this point.He goes on to reason that if one denies the teaching of Election and Predestination,it undermines the foundational principles of the Gospel.Salvation is a free gift(God's grace bestowed upon those who deserve the opposite-the wrath of God).How can fallen sinful creatures say that Almighty God does not have the Sovereign right to dispense His gifts as He pleases.God is not obligated to show mercy to any,and the fact that He does is a revelation of His grace.Pink then answers some difficult questions re-The Doctrine Of Election-such as:Does not Scripture declare that God is no respecter of persons? and,But why preach the Gospel to every creature if only a few are chosen?If you need a more detailed exposition of 'The Doctrine Of Election' ,then you should obtain the books published by Bottom Of The Hill Publ.or Pietan Publ.(which was originally published by Baker Book House as 'The Doctrines Of Election And Justification).If you want to introduce someone to this doctrine,that has had little or no exposure to it,then this booklet would serve you well in that regard. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> God's Sovereignty In Salvation </p>
+
+
+<h2> review.date </h2>
+  11-03-2012  
+<h2> review.text </h2>
+
+ <p> Another excellent book by A W Pink. It contains great insights and great explanations that are perfect for sermons or bible studys. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent book </p>
+
+
+<h2> review.date </h2>
+  01-01-2014  
+<h2> review.text </h2>
+
+ <p> All serious Bible students need to read and understand the doctrine of election. Once this is accomplished the Bible becomes much easier to understand. This may cause some to get upset but it is God's word and His decree. Arthur Pink does his usual good job using Scriptures to explain this decree of our Lord. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Doctrine of Election for Kindle </p>
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> Mr. Pink opens the eyes of those who refuse the biblical truth of this point of doctrine.  Each point is very well explained with excellent scriptural back up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A beautiful explanation of a controversial doctrine. </p>
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> One of the best Christian book study I've ever done. Very, very enlightening. I was so blessed that I purchased a hard copy from Amazon also. I recommend this reading to all, especially those who are believers in The Lord. Because it is a Book Study, I had to refer constantly to the Bible. The author certainly has done a marvellous job of explaining this doctrine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A definite five star! </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> Very comprehensive study of a subject that needs new attention in the truth starved modern church. Pink shares a place with the greatest theologians. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing insights into a much neglected Bible doctrine </p>
+
+
+<h2> review.date </h2>
+  06-28-2012  
+<h2> review.text </h2>
+
+ <p> This booklet describes succinctly the doctrine of predestination in a clear and concise way. It is a very good starting point on the study of this essential subject. Another resource for deeper study is the great book by Pastor RC Sproul "Chosen by God", that delves in more detailed fashion on the matter at hand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great start on the study of Election. </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> I did not understand this before, but with scripture references it is easier to grasp.God calls His Elect to Himself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Topic not understood by many </p>
+
+
+<h2> review.date </h2>
+  04-06-2012  
+<h2> review.text </h2>
+
+ <p> A comprehensive commentary on predestination and free will. Certain to enhance the readers appreciation and understanding of God's will and purpose for creation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must have for serious students of biblical doctrine. </p>
+
+
+<h2> review.date </h2>
+  12-24-2013  
+<h2> review.text </h2>
+
+ <p> A classic by Arthur Pink, this is a short exposition of the Bible&#8217;s doctrine of election. If you are familiar with other works by Pink you will know that he often goes over Calvinistic doctrines, show where it is derived from Scripture and also show its implication. These practical implications predominately addresses the heart and motive and the right perspective of the Christian life. I enjoyed the discussion about justice and the issue of fairness when it comes to election, which Pink addresses in light of the truth of total depravity. I especially like how the book ended noting how the confidence we have in the Christian life in obeying and following God rests on the sovereignty of God&#8217;s work in the life of the believer. Excellent work, edifying for the soul. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Edifying read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

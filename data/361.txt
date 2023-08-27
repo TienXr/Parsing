@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1627980229 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-28-2013  
+<h2> review.text </h2>
+
+ <p> The blurb is accurate so I won't repeat it here.This is the first book I've read by Jacob Flores but it won't be the last. This story is fun, it's sad, it's wacky, it's unrealistic to my mind but also, it may be one of the most realistic books I've read. That's what made it so enjoyable for me; one minute I thought it was completely over the top and the next minute I was wondering if it was actually very true to life.All I know is that there will be more books in the Provincetown setting and I can't wait to read them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Loved It! </p>
+
+
+<h2> review.date </h2>
+  08-11-2013  
+<h2> review.text </h2>
+
+ <p> "What happens in P-town is supposed to happen. This is a special place, It changes people's lives. The problems and worries that you bring with you don't mean as much."Zach has been dumped. He is lacking self confidence, shy, clumsy and with a poor image of himself. He is re-evaluating his life, wanting to get back into his writing and Provincetown provides his escape.For Zach, P-town is like the ultimate fantasy escape. Under the guidance of new friends Gary and Quinn, he undergoes a makeover and starts to experience a side of life that is very new to him - parties, drinking, dancing, sex...Van has lived in Provincetown for years. His bad experiences with love have resulted in him escaping into his porn star persona and protecting himself by not getting emotionally involved.Van is attracted to the pre-makeover version of Zach, the slightly geeky and sweet man, who seems quite different to the typical men he encounters so is disappointed to see Zach behaving in party-boy fashion. Zach is instantly attracted to Van. He makes the most of what Provincetown has to offer but can't stop thinking of him.Over the course of Zach's holiday (yes, the romance is a quick one), Van and Zach come to mean a lot to each other but the road to true love is fraught with emotional ups and downs.The story has quite an emotional element which is interestingly set against a backdrop of casual partying and good times. It delivers a strong message of love and acceptance. Zach comes to understand that he doesn't need to change, that he is worthy of love exactly as he is and that Van's career choice doesn't impact how he feels about him.The secondary characters in the book are fabulous, the setting is gay man's paradise and the sex is lots and sizzling! The whole Provincetown location had a real 'fantasy island' feel so it was easy to accept the insta-love and the grand-gesture happy ending. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A thoroughly enjoyable romance in a fabulous setting! </p>
+
+
+<h2> review.date </h2>
+  10-27-2013  
+<h2> review.text </h2>
+
+ <p> This is the first book that I have read by Jacob Z. Flores, and I have to say that I really liked the easy-flowing, descriptive style of his writing on this one. The story takes us to Provincetown, Massachusetts &#8211; or, P-town, as the locals call it &#8211; and Mr. Flores absolutely brings the town to life for his readers. His descriptions of the events and the people that can be found there make it sound like a fabulous place that it is no surprise people flock to summer after summer!Zach Kelly, a seemingly shy and insecure teacher from Texas, has been dreaming of going to P-town since he read about it in his OUT magazine. When his boyfriend of three years callously dumps him, he hastily packs a few things and decides to make that dream come true. Zach is also an aspiring author, and hopes to find some inspiration for his writing, while licking his wounds on the Cape.Van Pierce, a resident of Provincetown, and also a porn star known as Hart Throb, isn&#8217;t expecting the reaction he has when Zach literally falls into his life. Van is also nursing some wounds from his past, painful relationships, and hasn&#8217;t been on a date, or allowed anyone into his heart for quite a long time. He can&#8217;t help the connection he feels to Zach from the moment he sees him, though.The story takes us through Zach&#8217;s trials and errors in going about finding the man he once was. He does some things that are uncharacteristic, and that he is certainly not proud of &#8211; this is P-town, after all &#8211; and almost loses a shot with Van in the process, but they eventually find their way to each other.Van and Zach open up to each other, and become closer than either of them thought possible in just a few days. Their attraction is palpable, and some of their scenes are among the steamiest I&#8217;ve read!When Love Takes Over also has some extremely funny moments. There are a couple of scenes or lines that literally had me giggle-snorting while I read. The ensemble characters that make up the rest of the cast are also fantastically written, and just spring to life on the page. You will particularly love Quinn and Gary, and the few cameos made by one Penny Poison.Ultimately, our couple hits a road block, and needs to see if there is a chance for them to find the way back together. I found the telling of this part of the story to be so heartfelt and satisfying. The last third of the book was really fabulous; I even got a little bit teary at one point.For the most part, this was a fun, light-hearted, very entertaining read that I would definitely recommend to others. I also learned quite a bit about the porn industry, Tea Parties, leather shops, Planters Punch, and sex in the dunes. Bonus!!!A side note to the author: Zach&#8217;s sexual urges, that he has had to repress for many years, are mentioned several times. You sort of alluded to this &#8216;baser nature&#8217; in him but then, I feel, just barely touched on it again. I really felt like, from the times it was brought up (particularly in the leather shop), that more background would have been nice on what was meant by things like: &#8220;The raw sexual depravity on display had called to the part of him he&#8217;d spent years getting under control&#8230;&#8221; and &#8220;He&#8217;d exited the store and promised never to return for fear of releasing a part of himself that needed to remain checked.&#8221;I know you are writing more Provincetown books &#8211; hopefully at least partly about Van and Zach! &#8211; and I&#8217;m curious as to whether you plan to explore this area a bit more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun, lighthearted, entertaining read </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> I was so excited to start my very first Jacob Z. Flores book. Truly, I'm not sure you understand. He's been on my wish lists for quite a while but I hadn't gotten around to him. Finally, I decided to begin his 'Provincetown' series with the first book 'When Love Takes Over'. I can tell you from the first sentence I adored Zach. Something about his daydreaming, slightly scattered self hit true with me, and that, folks, is all she wrote. The fact his ex dumped him so meanly right off the bat just made me want to hug him and make everything better. Well, that, and do something nasty and reprehensible to the ex. *grins* On a side note let me just say how very much I loved the rhythm of the author's writing straight from the get go.Zach has lost himself. He's not even sure he recognizes this person anymore and his spur of the moment trip to Provincetown is his attempt to find that person, who wasn't a doormat, inside himself again. Van created his porn star alter-ego a while ago in order to hide himself. Now, he isn't sure why he's been feeling so lonely and restless just because his fans only see the porn star and Van wants someone to really see &#34;Van&#34;. Who could've guessed that the real Zach he's been hiding from all these years and keeping in control is just the man that Van needs to see?It was interesting to watch these lost souls find each other. Van's history of severe rejection and debasement by prior boyfriends is what ultimately led him to doing porn. Van wants to be needed as much as he needs the other person. Zach spent his whole life trying to be perfect in his father's eyes. When his father's true nature was revealed, Zach's family fell apart, and Zach was left adrift no longer sure of what he was doing. When Zach's three year relationship ended he realized how long it has been since he let his true desires and feelings have free rein. Maybe P-town is where it can all happen for both Van and Zach? But, what happens when the week is up and it's time for Zach to go home and for Van to get back to work?I absolutely 100 percent loved this book. I fell head over heels in love with Zach, Van, all the cast and characters, and, most importantly, I fell in love with Provincetown. I might have also fallen just a bit for the author. Anyone who can tell me such a wonderful story, brilliant in its simplicity, and written in a beautifully lyrical manner, deserves to be loved. Thank you, Jacob, you made my day.NOTE: This book was provided by Dreamspinner Press for the purpose of a review on Rainbow Book Reviews </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 100% Loved it </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> No matter how much I've wanted to read Jacob Flores' prior books, this is the first one that I really had the time to read.  And I'm so glad that I did.  More than anything, more than the fact that I found some parts of this book less to my liking than others and I didn't think it was perfect, it intrigued me.  I immediately put back all of the books I have of Jacob's back onto my Kindle and I only hope that I have the time to read them soon.Prepare for a LONG summary.  Sorry about that, but I think it's worth reading ;)Zach has always done what everyone told him too.  Submissive to almost an extreme in his life (though not in the bedroom), he first allowed his father to dictate his life and self-understanding and later his partner of three years, Ben.  The start of When Love Takes Over sees Ben unceremoniously dumped by Ben -- with no reason or explanation -- simply a get out.  Zach is tired of being shuffled around and taking it, doing everything he can to change himself into the man that Ben wants.  So he does the most impulsive thing he's done in his life.  He takes the small bag he left with from Houston and jumps a plane to P-Town.Zach has never been to Provincetown and the place dazzles him.  There are men everywhere, half naked in the streets, holding hands and kissing.  The place seems like freedom personified and there's no better introduction to the wonders of P-Town than the owner of the condo he's renting for the week, Gary.  Gary and his partner Quinn convince Zach to take advantage of all P-Town has to offer, not to stay in his room and try  to work on his novel.  Zach still doesn't understand how his life took such a strange turn, but his writing seems to have suffered in relative fashion.  Perhaps a change will be good for him.Van is also at a crossroads.  He's had a bad time in relationships and it seems like every time he gives away his heart, which always seems to easy for him to do, it gets pummeled and thrown back at him, damaged more and more every time.  After his last relationship with a man named Jason who drove him into a terrible dehumanizing spiral of sex and pain, Van took it upon himself to never face that kind of damage again.  That is how Hart Throb was born.  Being Hart Throb on screen for thousands of horny gay men gives Van a rush and a self-esteem boost that he needs.  He can do porn and still enjoy sex, even being pounded by multiple men, without the emotions that ended up crushing him before.  As a power bottom that has quickly amassed a huge fan following, he has the power to call more shots and he's the one in control, not the men on top of him.It's almost enough to convince him that he doesn't need an emotional connection at all.  The pain of the past and his creation of his more powerful alter-ego have slowly started to shift his two identities and Hart Throb looks to be taking over.  When Van runs into a geeky, shy and pale ginger beauty named Zach in a leather store, his previous conviction falls to pieces.  Something about Zach -- perhaps his bumbling and sweet nature with mismatched clothes and messed up hair, or his personality which seems to be completely free of artifice in a town where looks and sex are all that matters -- appeals to Van.  Even though their meeting is short, he can't get Zach out of his head and his feelings about someone that he doesn't even know only highlight that Hart Throb can't fully sustain him.A makeover on the outside from an excited Gary and female friend Tara prove to Zach that he does have worth.  He believe that it just might be possible to break out of his shell, leave the old, boring doormat he was behind and embrace P-Town. That's what everyone keeps telling him to do, after all.  Embrace P-Town, because it will change you.  And now that he's seeing other men, hot men checking him out and finding him very worthy of their attention, the sexually adventurous nature he always repressed starts to peek out.  But no matter how much he embraces the sex in the air (with some very public and exciting naughtiness!) what he really wants is to find Van again.  But will Van even recognize him?  Or did P-Town get to Zach before Van could, changing him in ways that ultimately aren't good for him?Whew!  First of all, if you made it through that -- thank you!  You deserve a chocolate or something :)  Second, you saw just how long that summary was.  I'd say that even though I did a bit of a character introduction to you as well, that summary probably only covers the first 1/4 of the book.  The pace in this story moves rather quickly.  I like that this author makes decisive choices for his characters.  They don't dawdle, but the story moves along without pause.  I appreciate that because no matter how you feel about those decisions, there's nothing worse than an author refusing to make them and then the characters stall.  Van and Zach go through quite a lot to get their HEA, and it's hard-won, that's for sure!  You can see just from the summary I wrote that the angst is already building.  Wherever both Van and Zach go in this story they always seem to be looking for one another but at the same time moving in opposite directions, like passing ships in the night ;)  When Van looks for the geeky guy he had a moment with in the leather store he finds just another shallow guy tricking.  When Zach continues to look for Van, he finds what he thinks is a guy with a boyfriend.  And no matter how annoying that was at the time, because I wanted to smack them both and tell them to actually communicate with each other, this author ultimately brings the story around so that their actions and thoughts make sense to the character.I really liked both Van and Zach.  Zach is someone who I felt like I could understand on a personal level:"He found it almost impossible to simply be who he was.  He always felt the need to apologize for himself and change whatever people didn't like about him until he'd become whatever they might need."The thought that he devoted three years of his life trying to conform to an impossible ideal for Ben haunts him, especially considering that Ben seems to have no appreciation of that fact.  P-Town is important to him.  His outside makeover soon starts to make him over inside and having men look at him as if they'd be lucky to have him is something that he's never really felt.  This is why this book worked for me on this level.  We have a tendency in the romance genre to equate the characters and their choices with the quality of the book.  But, it's important for a character to grow and Zach needs to embrace his slutty and hedonistic side, no matter how shallow it makes him or that he becomes a bit of an a-hole for a while, and he needs to mess things up so that he can learn to be an active participant in a relationship.  By definition, the end goal in romance is the HEA.  The direction is important, but honestly, the journey there is the real point.  This book is a good example for characters that you might not like at certain points in the book, but which (to me, at least) should have no bearing on the rating of it.I think the real reason that I was intrigued about this author's writing from reading this book is the tone and mood of the story.  The mood is festive and reflective of the setting, but the tone of the writing often seemed just a little bit campy.  The tone seemed campy, mind you, not the plot or characters (except for Gary! and Penny :D).  This gives the story a lift.  Right away it draws you in.  No matter the subject matter there's always a glass half-full feeling that carries through the story.  It's a hopeful tone.  I felt like that little bit of campiness was so right on to how I've felt before in settings with lots of gay men and a party atmosphere.  Sadly, I've yet to visit P-Town, but the setting and tone gave off a sense of inclusion and freedom and that thread ran throughout the story, the tone affecting all of the book in subtle ways.Originally, I gave this book a Pretty Good rating.  I had some trouble with the ending, specifically the part from the ending of Zach's novel to the upstairs of the porn set setting.  That conversation between the two was the culmination of the previous chapter or two where Zach starts to think in a kind of writer affectation.  Everything became a bit melodramatic and I wasn't quite sure how to take it. Seriously? Or, as a subtle importation of his writer's mind?  With an added day or two of reflection, I found those parts less important in my memory than the whole.  I don't think this book is perfect by any means, but I cared less about those trouble spots for me and more about the overall story.  And that is of two characters that I felt were explored rather well and of writing by this author that I grew increasingly fond of while reading.  I can't wait until he writes something new.  Or until I can get off my butt and read something off of his backlist.  Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sex it Up in P-Town </p>
+
+
+<h2> review.date </h2>
+  09-09-2013  
+<h2> review.text </h2>
+
+ <p> Zach Kelly needs to find himself. Dumped by his boyfriend of 3 years, struggling with a writing career that has stalled, Zach makes the impulsive decision to spend a week in Provincetown, MA, a paradise for gay men. Zach is clumsy and with a low opinion of himself he has turned into a self-described doormat and has spent a good part of his life trying to change to conform to what others wanted him to be, pushing down his own urges and desires.Van Pierce aka Hart Throb is a power bottom porn star, and currently the hottest commodity his studio has. Tired of being used by the men he loved, he turned to porn so he could have his sex the way he wanted it without the dangers of falling for someone. When Zach accidentally stumbles into his life, having no clue who Hart Throb is, Van is instantly attracted to not just the hot mess Zach outwardly is, but to something he sees inside.Set in a town where pleasure knows no limits, the men find themselves struggling to accept what is happening between them as more than just sex. A few days after meeting, the two share a hot hot hot 48-hour "non-date", but the reality of Zach eventually leaving P-town hits them both and things get ugly. Zach decides that he can't possible leave P-town more devastated and alone then when he got there.This was my first Jacob Flores book but definitely won't be my last. The book was very well written and both the characters and the setting came to life for me. The juxtaposition of what turns out to be quite an emotional story, on the backdrop of a hedonistic atmosphere really worked. There was a lot of humor to balance out the more serious turns, and the sex was crazy hot. While the whole story takes place in the course of the week, it did not read as unbelievable insta-love.The secondary characters were vivid and entertaining and I am looking forward to continuing with the Provincetown Series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More than just sex in P-town! </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> This book after a few pages grabs a hold of you ,at least it did me.A very good romance.Fall in love with the main characters and their close friends.At one point almost brought me to tears of joy.There is also good hot m/m sex.I would recommend this to those who love a good romance and good hot sex. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A heart graber </p>
+
+
+<h2> review.date </h2>
+  03-30-2014  
+<h2> review.text </h2>
+
+ <p> I am so happy I discovered this series of books. Zach suffering from a broken heart throws caution to the wind and heads for Provincetown(P-Town) where he quickly learned that he needed to let go of his insecurities and have some fun. Zach encountered the most colorful, fun people and I immediately wanted to be there with him. Along the way he meets a very sexy Van and things just heat up from there. I loved all the characters in this story and the sex was Hot Hot Hot! Jacob did such a beautiful job describing P-Town that I have already made my reservations and plan on having Planters Punch at the Tea Dance in August. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> P-Town Lover </p>
+
+
+<h2> review.date </h2>
+  02-03-2014  
+<h2> review.text </h2>
+
+ <p> A well written novel that shows the journey of two different men, who in turn see that the longing they have all ways wanted and looked for is found. You have the Ginger, sexy Top Zach who is a man who does not realize how sexy he truly is and the Tan porn star Van, who is the polar opposite of the Handsome Ginger/writer. If your looking for a story that will show u the feeling of love that lives with in us all. This is a must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sexy and hot fun </p>
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> I was entertained by this book. The two main characters were well written--I can picture them in my mind. Provincetown was an enchanting background, although the oft repeated phrase, &#34;it's Provincetown&#34; was getting worn out. It had a happy ending for Zach and Van. Get it for yourself, you will enjoy the story. This book is the start of a series, I will probably get the next book to see what else happens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a very entertaining book. </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> What a pleasure it was to discover this book in the middle of winter.  I spent so many summers in Provincetown that it was like visiting an old friend.  The book is so well written and spot-on as to what I remember about the summer hot spot.  So many places that I frequented were mentioned in the book, which I loved.The story centers around a somewhat nerdy guy named Zach whom is dumped by his boyfriend and decides he needs to go on a vacation.  The locals take Zach under their wing and help to give him some much needed self- confidence.Through a hilarious incident Zach meets a hot guy named Van, whom also just happens to be a popular gay film actor.  Needless, to say these two are instantly attracted to each other.Can two guys who are Polar opposite succeed in making a summer fling be more?  You will have to read the book to find out. There are two more books based in Provincetown and I am looking forward to diving into them.  Jacob being a gay author knew exactly how to write the hot sex scenes.  I felt like I was a voyeur and loved it.  I smiled many times throughout the book and that says a lot. A MUST read!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A GREAT summer read to heat up yur winter </p>
+
+
+<h2> review.date </h2>
+  07-20-2014  
+<h2> review.text </h2>
+
+ <p> Zach's boyfriend of three years has just broke their relationship off. Zach was shocked over what just happened. He thought he was doing everything that Ben liked. When he left he knew exactly where he would go to try and figure things out.Provincetown!Zach finds a place to rent for the week. There he meets Gary, Quinn, Van and Tara. Gary is a riot! He knows there's a story where Zach is concerned.My favorite line...Gary tells Zach...I just love popping the cherry of a P-town virgin. Zach is hoping to find his way again. He had become a doormat and wanted to figure out why.You can't help but fall in love with Zach from the start. He is a natural klutz and will make you laugh so hard at some of the ing she gets himself into.Van Pierce is a porn star. His on-screen name is Hart Throb. Van has his own troubles. Everybody only sees him as Hart Throb. He wants to be seen for who he truly is. And that is Van. Van is lonely in his personal life.Zach, Van, Gary, Quinn and Tara are all characters that were so easy to fall in love with. This is a sweet read and I recommend this as a must-read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A story of discovery... </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> This is a racy book based in beautiful Provincetown in the Summer.The story moves quickly, as do all the characters... pulling you through the manic summer pace and happenings.It's not a shallow book by any means - one can read it for titillation or take away much more - up to you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the Best </p>
+
+
+<h2> review.date </h2>
+  08-11-2013  
+<h2> review.text </h2>
+
+ <p> This reads almost like an advertising piece for the businesses in Provincetown. I'm sure the depictions are more idealized than the reality. And some of the sex is sweaty and smelly, so if that is not your fetish you will not enjoy parts of this. Better written than many, though the descriptions of human physiology are not biologically correct. I understand why women who write do not understand the physical composition of a man's body, but it seems odd that a man would write some of the same false statements. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Summer Romance, and Lots of Sex </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

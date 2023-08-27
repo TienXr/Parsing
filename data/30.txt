@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000Y9LYCU <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-23-2011  
+<h2> review.text </h2>
+
+ <p> Purchased this to use with my Panasonic GF1 and was pretty happy with it- it's reasonably compact for its power, integrates well with the camera features etc.  The recharge times can be a little on the long side but are acceptable for non-professional situations.Unfortunately, my FL-36R failed at 14 months (2 months outside of the warranty) despite very infrequent use (probably fewer than 75 flashes)... it never even left the house!  At first it started missing flashes despite being charged, and soon after would not fire at all, even from the TEST button.  I followed Olympus procedures to send it in for a repair estimate and was told that $94.11 for a flat rate repair (with six month warranty) is the only option other than letting them recycle the product (which is free).  I found a few other people on dpreview and fixya who experienced the same failure with this model within the first year or two, but Olympus flat-out refused to acknowledge a problem.  Very frustrating... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Failed 2 months out of warranty, flat rate repair costs $94.11 </p>
+
+
+<h2> review.date </h2>
+  12-30-2009  
+<h2> review.text </h2>
+
+ <p> A bit of a learning curve, but once comfortable with the features the flash has proven reliable and very capable. Greatly improves indoor shots with indirect fill-flash, yet feels comfortable on the camera. Powerful enough for outside. The controls are logical but hard to see in the dark; however, once you set up for your shoot you don't have to worry about the flash. AA batteries are a distinct plus in my book, easy to get and to change, and they last over many shoots. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works like a flash should. </p>
+
+
+<h2> review.date </h2>
+  05-30-2010  
+<h2> review.text </h2>
+
+ <p> Fresh AA batteries recharge the strobe in 4 or 5 seconds.  Ten shots later the recharge time is more in the order of 5 to 7 seconds.  I don't know if it is reasonable to expect anything better with only two AA batteries AND a strobe with the range this one has.I am using it with an E-620 and a 12-60 lens.  I found it necessary to set the exposure compensation +1 or +1.5 for the exposure to come out the way I wanted.  What is REALLY GREAT is the focus assist with the strobe.  It works very well and focus seems to be spot on; w/o the strobe focus is pretty slow and somewhat inaccurate in dim light.The setup was very easy, you just set it to auto & the camera does the rest.  The unit is heavy and it makes the camera & lens into a load.  The included pouch has belt loops so I can imagine keeping the strobe off the camera & on my belt when I am wandering about looking for a shot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slow recharge but very capable strobe </p>
+
+
+<h2> review.date </h2>
+  04-13-2010  
+<h2> review.text </h2>
+
+ <p> This works so well with my Olympus e-520! This was my first DSLR and I was surprised how much flash units can cost for any DSLR. After looking at many photography forums I came to realize there was a reason. I bought a flash unit that would specifically align with my camera. Good move as many forum posters pointed out! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You get what you pay for! </p>
+
+
+<h2> review.date </h2>
+  02-10-2013  
+<h2> review.text </h2>
+
+ <p> Although no longer a member of the Olympus family,I remember using this flash alot.It has ajustable flash heads positions to allow you to bounce the flash for more pleasing skin tones.When I sold my Olympus gear,I was not shocked when the going price was almost what I paid when brought new.You cannot go wrong with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great flash. </p>
+
+
+<h2> review.date </h2>
+  04-07-2009  
+<h2> review.text </h2>
+
+ <p> I WASN'NT SURE I NEEDED MORE FLASH POWER THAN WHAT WAS BUILT IN TO MY SP570UZ OLYMPUS CAMERA, BUT I THOUGHT, WHAT THE HECK, I'M GOING TO GET ONE OF THESE FLASH UNITS ANYWAY.  WHEN I RECEIVED THIS UNIT, I PUT BATTERIES IN IT AND PUT IT ON MY CAMERA AND TOOK A FEW SHOTS.  IMMEDIATELY I COULD SEE THE MUCH BETTER ILLUMINATION PROVIDED BY THIS FLASH.  I USE RECHARGABLE BATTERIES IN IT AND AFTER TRYING A FEW DIFFERENT BRANDS, I FINALLY FOUND SOME THAT LAST MORE THAN A FEW DAYS.  I AM USING DURACELL RECHARGEABLE BATTERIES AND THEY ARE DOING A GOOD JOB, ALONG WITH THE FLASH UNIT. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GOOD ELECTRONIC FLASH </p>
+
+
+<h2> review.date </h2>
+  04-30-2008  
+<h2> review.text </h2>
+
+ <p> This flash unit is very well built and practical.  The head tilts 90 and swivels 180, it is light, compact and very well built.  You can get CV-R3 lithium ion batteries for it, which being a single unit is more practical than two AA batteries.It does not charge as fast as bigger, meaner models such as the Metz Mecablitz 48 AF-1, and it lacks the 58 AF-1 secondary fill-in flash lamp.  But because of its compactness it is a good fit for compact cameras without remote flash capability as the E-510; for the E-420, get the wireless version FL-36R.Lacking the secondary lamp, it is a good fit for cameras that have a built-in flash at a offset from the hot shoe so as to be useful as a secondary fill-in flash lamp, such as the E-330, Panasonic L1 or Leica Digilux 3 -- but these cameras being bigger perhaps the Metz Mecablitz 58 AF-1 might be a nice fit too.For the E-1, E-3 or Panasonic L10, get the Metz Mecablitz 58 AF-1, or the FL-50R if you can live without the secondary lamp or if you need the wireless capabilities now -- the Metz is awaiting a firmware option to interoperate wirelessly with the Four Thirds cameras. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the porro mirror cameras </p>
+
+
+<h2> review.date </h2>
+  01-08-2010  
+<h2> review.text </h2>
+
+ <p> Wonderful flash for the 4/3s system.  Very good in small rooms and comes with a focus-assist lamp to help in those dark areas (no more strobing!).  The remote functionality works well, takes a little while to fully understand though.  I would suggest Eneloop batteries with this guy, they last a long time and shorten recycle times.  Just know that it can take up to 5-6 hours to fully charge them back up to 100%. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great cheap flash </p>
+
+
+<h2> review.date </h2>
+  05-23-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this to provide higher quality flash than available with the recommended flash for my EP2.  It works beautifully. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works perfectly on EP2 </p>
+
+
+<h2> review.date </h2>
+  03-25-2009  
+<h2> review.text </h2>
+
+ <p> This flash replaced an earlier version but is much better than the original. This one tilts in numerous directions enabling you to light your subject from almost any angle. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great flash for the money </p>
+
+
+<h2> review.date </h2>
+  10-16-2011  
+<h2> review.text </h2>
+
+ <p> Great!I was not sure to buy 50R or 36R but now after using for a while I am very glad of my decision. Especially with an Olympus PEN 50R would be so BIG. 36R is good enough for almost no light at a range of my preactical usage which is max 3-5 m distance to subject.The communication is also very handy and works great. FP mode is fantastic, I can shoot with even 1/500 sn! RC mode, etc. I will practice more to learn shooting with external flash.Recharging time is reasonable. I was using (trying to use) Nikon SB800 before this one and it was of course much better from this point of view but it was completely uncompatible with my PEN so useless. I sold it and now I am happy with 36R.I recommend to all Olympus users especially for PEN users.Regards. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  06-26-2010  
+<h2> review.text </h2>
+
+ <p> It get the job done for the price but after a month with it on professional assignments (public affairs) I say I'm happy with it but it could be better. The off shoe capabilities are very useful but you have to be close-ish and have a clear view of the light sensor. However it does work surprisingly well if it's behind the camera or otherwise not directly in front, which surprised me. It only rotates horizontally in one direction so getting a hang of where you can put it to get it to fire takes a minute but it does do fine once you figure it out. It does however rotate completely 180 degrees for back-lighting.It does turn in both directions. To the left it goes 180 degrees and 90 to the right. . It feels  little flimsy when you do turn it though. The clicks are a little stiff so don't try to force it, I'm afraid it will just snap in half. However if you are in a gentle environment it's not a problem. i wound not suggest this flash for the photographers pit at any event. ONE BIG WARNING- the battery door is the weakest part. I anticipate I'll tear it off some day. If I had the designers in front of me now that is the only thing I would scream at them about.It has many modes on shoe. Manual, Auto, auto slave, manual slave, fp ttl, fp manual, ttl, and of course RC. FP means it flickers very fast so that you don't need to snyc at 1/180. You can shoot at 1/4000 and flash. In RC mode it runs at full power and you control it from the camera's RC mode menu by cutting it to fractional power; half, quarter, 1/64th power etc. The pop flash triggers it.Overall I think it's a decent flash for the money. If you need the versatility of a external flash unit on occasion I suggest the fl-36r. However its budget conscious design makes me suggest a diffrent unit for the performance conscious professional. I just don't think it will stand up to the punishment that comes with the territory of the working photographer.It comes with a case and stand with tripod mount. Two Rechargeable  AA batteries are recommended (not included). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  02-25-2009  
+<h2> review.text </h2>
+
+ <p> I purchased the FL-36R to use with my E510. Olympus only makes two flashes worth considering for general use with their E(volt) line of DSLRs, the FL-36R and the FL-50R. The FL-50R is significantly more powerful than the FL-36R (guide number of 50 vs. 36), but it is also substantially bigger, heavier and twice the cost. For me, the FL-36R was the obvious choice. There are also non-Olympus flashes that are cheaper and claim to work in the TTL (though the lens) mode, but many reviews cast doubt on this claim.There are a couple of reasons to buy an external flash as opposed to just using the built-in flash.1. Focusing at low light levels is much improved because the red focusing light emitted by the external flash does a much better job than the white light given off by the built-in flash. Unlike the built-in flash which could take 4 or 5 flashes to focus, the FL-36R usually managed much more quickly.2. The built-in flash has only about 1/3 the power of the FL-36R. Having said that, the built-in flash is certainly adequate for many situations. However, if you are constantly trying to fill a mid-sized room with light, either of the external flashes will be a big improvement.3. The FL-36R has a flash head that can be swiveled and tilted. This allows the flash to be bounced off ceilings and walls, in many cases providing a softer and more pleasing light.4. Because the FL-36R is raised over the lens, red-eye is not nearly as big a problem as with the built-in flash. Also, tilting the flash head just a little virtually does away with red-eye.5. The external flash has the ability to synchronize with the camera at much high shutter speeds (Super FP mode) allowing fill light for action shots.6. The external flash can be set off to the side and, in the manual mode, be triggered by the camera's built-in flash. Having multiple light sources can add interesting effects to pictures.7. The flash gun seems to be sturdy, well built, and of reasonable quality.There are a few minor negatives to this flash.1. Using bounce flash sometimes resulted in underexposed photos even with the TTL mode and a white ceiling.2. Although this is a small and compact flash, it is still a lot of extra weight to drag around.3. The manual, although generally clear, is short on details and examples.4. Initial start up time is slow, about 30 - 40 seconds even with freshly recharged batteries. I consider this to be minor. Some reviews complain about a slow recharge time or 5 or 6 seconds. For me this recharge time has been plenty fast.5. Finally, two hundred dollars for a flash is a lot compared to the cost of the camera. I'd be tempted to really learn the built-in flash first before spending the money on an external flash. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but expensive </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

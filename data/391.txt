@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B003YRIKL2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-19-2012  
+<h2> review.text </h2>
+
+ <p> Incredible! A sequel that is even more exciting than the first book! Since I finished the book long before bedtime I needed to read more by Melanie Nilles. So I started When Angels Cry. That one started exciting so I had to fly through about half the book before finding a good place to stop and sleep. This morning I bought number three in the series.I will admit that there are formatting issues that are confusing. I don't know how I would have fixed them myself. There needs to be some way to differentiate between straight quote and a quote in another language, and those that are thoughts of this person or the other. Even still the story is unique and like I said before, exciting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exciting </p>
+
+
+<h2> review.date </h2>
+  03-04-2011  
+<h2> review.text </h2>
+
+ <p> Well,I was a little let down,I thought it was going to be the characters from the first book, by the way it ended, It doesn't. It got better, as the story unfolded. The main characters were not that strong except in the end, I thought. Either way, its not a bad book to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I was hoping for a little from this book, </p>
+
+
+<h2> review.date </h2>
+  06-03-2013  
+<h2> review.text </h2>
+
+ <p> Love it love it love it! This was a terrific book from beginning to end. I could hardly put it down only to pick it up again as soon as I could! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book! </p>
+
+
+<h2> review.date </h2>
+  08-25-2013  
+<h2> review.text </h2>
+
+ <p> I am so dissapointed in this series. I got the first book of the series and loved it. Second was annoying. Tip for you all: Just read the first book. I am disappointed. You woll be too. I was very frustrated at this because after finishing the first book I bought all of the books. Big mistake. It went from wow to legh. In less than two books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thoroughly Disappointed </p>
+
+
+<h2> review.date </h2>
+  04-11-2013  
+<h2> review.text </h2>
+
+ <p> I love this book because it has romance and adventure and you never know what's coming next. I like how in love Raea and Elis are. I love how people change as they would in real life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> I loved this series. It was very well written. I would recommend to all family and friends. Give it a try. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love! </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> I am a hard person to please and although the books and series are not perfect in every aspect, I felt compelled to give it 5 stars. The premise, worlds the author creates, and characters were imaginative and well written. I had not trouble envisioning foreign lands and nefarious enemies. I was so emotionally invested that I had to see the series through, angry when I thought some key people were dead or when friends proved to be enemies, happy in the end, you get the gist. I recommend this series and author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved this series </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> 1. It's free...2. Elis &#9829;3. Awesome story... it will trapped you and then, like me, you'll have to buy the second book... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Three things </p>
+
+
+<h2> review.date </h2>
+  02-11-2013  
+<h2> review.text </h2>
+
+ <p> This is a great series for teenage girls and young adults, it is well-written and a great page-turner!I enjoyed the action and suspense! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great teeen novel. </p>
+
+
+<h2> review.date </h2>
+  01-15-2013  
+<h2> review.text </h2>
+
+ <p> This is the second book in the series, yes I would have loved to have seen more of the new couple. But I'm so glad that we got introduced to the land which they come from. Sorry I don't do spoilers, headed to start the next book. Can't wait! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Keep them  coming </p>
+
+
+<h2> review.date </h2>
+  07-14-2012  
+<h2> review.text </h2>
+
+ <p> This book was MUCH better than the first one. It drew me in from the beginning and kept me interested. I finished this one in about 1/3 of the time of the first one as well. All the characters grew in this one and I am growing even more attached to them. I don't usually do sci-fi type books, but these ones are pretty good and keep me coming back. I moved onto the next book as soon as I finished this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Much better than the last book. </p>
+
+
+<h2> review.date </h2>
+  11-28-2012  
+<h2> review.text </h2>
+
+ <p> Another great read by Melanie Niles!  So much action in this book and it was great to continue learning more and more about the culture of the Inari.  A great adventure for Raea and it keeps you guessing to the end whether she'll make it out and who is really on her side. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great read </p>
+
+
+<h2> review.date </h2>
+  08-10-2013  
+<h2> review.text </h2>
+
+ <p> It was ok, not one of my favorites but was ok. It took me a while to read it cuz it wasn't interesting as the other books I read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  07-29-2011  
+<h2> review.text </h2>
+
+ <p> I just lost 6 hours of my life that perhaps would have been better spent repeatedly smacking my head into a brick wall or getting a rusty drill, anesthetic free root canal from Orin Scrivello. The first book was OK, the writing wasn't great but the story made it worth the continued read. This one, oh dear god. Raea spends the entire book vacillating between rhapsodising about Elis' eyes, hair, touch, smell etc, and having debates in her head about who is/may be/probably double crossing her. Elis spends the whole time, literally, in tears. It went something like this. This reminds me of Elis, oh I miss him, oh if only I had paid attention, oh I can't wait to feel his arms around me, oh if only I could have realised earlier that I love him. Rinse repeat. Over and over and over and....you get the point. And that wasn't the only bit of repetition, we get told the same exact thing again and again, seriously, I counted at least four places where the same paragraph imparts the same information, almost verbatim. And what is with this girl and slapping people in the face? She's a little slap happy. The only interesting thing about this book was that it introduced us to Inar'Ahben but only in the most basic sense. Quite a horrid little exercise in frustration this one, I suggest you move along as there's very little to see here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What. The. Hell?! </p>
+
+
+<h2> review.date </h2>
+  09-02-2013  
+<h2> review.text </h2>
+
+ <p> I'm enjoying this series. I downloaded the first book when it was offered for free, and I liked it so much I thought the second was worth purchasing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read </p>
+
+
+<h2> review.date </h2>
+  06-16-2013  
+<h2> review.text </h2>
+
+ <p> I'm on the third book and am loving this series.  I came to care about the characters, and that's what makes a good book, IMHO.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Series </p>
+
+
+<h2> review.date </h2>
+  12-21-2012  
+<h2> review.text </h2>
+
+ <p> Great book, I loved all the action and the romance as well. Definately has a twist of everything in there. Very enjoyable </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

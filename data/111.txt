@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B007HBLX5G <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-22-2012  
+<h2> review.text </h2>
+
+ <p> It's a really nice slim case for the price.  It fits the iPad 3 perfectly. The design of the case is flawed though. The cover doesn't fold flat around the back to hold it like a book. It's still easy enough to hold like that, as long as you don't have small hands. The "smart cover" feature works perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good value, flawed design </p>
+
+
+<h2> review.date </h2>
+  04-05-2012  
+<h2> review.text </h2>
+
+ <p> Got this case to take advantage of the sleep/wake feature of the new Ipad.  It works flawlessly, it is slim, doesn't add bulk to the Ipad and all the openings match.  I thoroughly recommend it. The only reason for only 4 is I wish cover what a bit harder. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally a wake/sleep case </p>
+
+
+<h2> review.date </h2>
+  03-26-2012  
+<h2> review.text </h2>
+
+ <p> The smart cover function works and the case is very light.  There is one orientation that the description doesn't have...you can fold the cover in a triangle shape and have the device in landscape for typing.  For $16.95, it's a great deal.  However, if you change your mind, the company charges a 20% restocking fee that they don't mention in their return policy.  This policy is placed in the shipping policy.  Before I purchased, I looked at the return policy and didn't see anything about a 20% restocking fee. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good product, poor service...20% restocking fee if you open it </p>
+
+
+<h2> review.date </h2>
+  03-15-2012  
+<h2> review.text </h2>
+
+ <p> This case is very slim, and the smart on/off feature works well.  The magnets are strong enough to keep the cover closed, and the color, although I wouldn't call it purple, is nice.  Where it goes wrong is that it's a bit flimsy, the folding cover will hold an iPad in the low typing position, but it flops down flat if the upright position is attempted.  The back cover is split, seemingly to accommodate propping the device up by popping the bottom edge out of the back to rest in the ridges on the inside of the front cover.  Unfortunately, that technique only works well with a rigid base, and the front cover is too flexible to be sturdy.  The design also prevents the front cover from folding back completely flat against the back (it leaves a 1" triangle along the left side) which makes it difficult to grip for hand held use.If your only concerns are that the case looks nice, is thin, and can be propped in the typing position, then this case is perfectly fine.  If you frequently hold your iPad mostly in your left hand while tapping with your right, you'll find it unweildy on this case (unless you have very large hands, or balance the iPad by its center). If you want a stable upright position, you'll be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's OK </p>
+
+
+<h2> review.date </h2>
+  06-13-2012  
+<h2> review.text </h2>
+
+ <p> This is not an expensive case.  You get a lot for the amount of money you invest.Pros:1) The black leather look is great.  When my iPad is closed it looks fancy and sophisticated.2) The case is solid. It fits great and works as advertised.3) The dock feature is great. My gf has a regular iPad cover purchased from Apple and it's so stupid that when you fold the smartcover back the felt touches the table. They get gross.  This cover doesn't have that problem.4) The two docking lines are great.  Depending on your seating position you can adjust the screen angle.Cons:1) Yeah it doesn't fold back perfectly. It's a little annoying but not a deal breaker.2) I wish the grooves for docking had a 3rd line so I could have more options for dockingI recommend this cover. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great cover for iPad 3 </p>
+
+
+<h2> review.date </h2>
+  04-11-2012  
+<h2> review.text </h2>
+
+ <p> Have been using this case for a few weeks now with my IPAD 3. The fit is perfect and I can report the auto wake / sleep works every time. There are no toxic smells and it seems to be very well build at a fraction of the cost of the Apple case. I only just today worked out that you have to snap-back the back of the case to get it to stand as per the screen shots above, and am happy to say it stands up great at both angles! No splipping whatsoever. Camera is unobstructed and the speakers totally free. My friends have the Apple cover and I really can't see the advantages except maybe the plastic material is harder wearing. Guess I wont know for a year or so. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great lower cost alternative to the Apple Case </p>
+
+
+<h2> review.date </h2>
+  03-17-2012  
+<h2> review.text </h2>
+
+ <p> Just got this case today in the mail.  The first thing I noticed is that it is a "smart cover" case.  The sleep/wake function works perfectly with my ipad 3.  The only minor issue is when you use it as a stand, the new ipad slips out of place a little.When used only as a case, the new ipad fits perfectly BUT when you use the stand function, you have to make sure the ipad does not slip out of the case.That is the only reason I did not give it a 5 star rating. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> almost perfect ipad 3 case </p>
+
+
+<h2> review.date </h2>
+  07-04-2012  
+<h2> review.text </h2>
+
+ <p> Pros1) light weight2) looks great3) all round protection4) felt covering inside5) auto activate on opening the front cover6) multiple viewing angles7) has a keyboard position for easy typing8) super value considering the featuresConsThe felt material inside (I have used this product for 3 weeks now, it looks great now) may get dirty with long term use.Love this product, is my primary iPad cover....Love it , highly recommended for anybody looking for superior protection for your iPad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing product. </p>
+
+
+<h2> review.date </h2>
+  04-20-2012  
+<h2> review.text </h2>
+
+ <p> Overall I think this is a very good case for the money.  Quality of the construction is excellent.  Stitching is good.  Leather (or is it "pleather"?) is quite good both inside and the suede inside cover.However... there are a few significant limitations:1) Cover doesn't fold flat against back when opened so you can't use it flat on table or counter.2) Cover is "bent" when open, makes it awkward to hold it while reading.  Also since the inner corners of the case don't snap into the case but are just held by the magnet, the back case does tend to bend/slip off when you are holding it for reading.3) When front cover is folded into "triangle", it doesn't have same magnets that the Apple smart cover has.. so it tends to slipFor the money (under $20 shipped!) I think this is a good case, but it could be perfect with just a few minor tweaks.  I'm returning this case to try the Poetic "snap back" style case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good case, but could be great! </p>
+
+
+<h2> review.date </h2>
+  04-06-2012  
+<h2> review.text </h2>
+
+ <p> As mentioned by others, the flaw is the inability to fold the cover flat on the back when one is reading like a book or magazine.  Very annoying.  Other than that, it's a surprisingly solid case.  If I didn't have that issue, I'd keep it as my full time iPad 3rd Gen case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fatal flaw </p>
+
+
+<h2> review.date </h2>
+  04-25-2012  
+<h2> review.text </h2>
+
+ <p> So I spents hours looking for the perfect case for my New Ipad and I stumbled upon this.This cover is essentially just like the Apple smart cover, but it has 2 slots for your ipad to be able to stand up. The whole front side has magnets inside and the back cover has 2 magnets aswell so your ipad is able to slide out of the back cover and be able to stand up. The quality of the case is great too; not made of material.Also, it covers all 4 corners of the Ipad.The automatic wake up/wake on fx works perfectly with this case because the magnets are quite strong (not like sme of the other weak ones i've seen).Only reason I gave it 4 stars and not 5 is because sometimes it slides out of the 2 slots when standing up but thats if you apply a lot of pressure. But even then because the front is magnetic, it still stands up. All in all, if you want a case that's not to bulky and gives you full protection, I'd go with this one.Highly recommended!********  UPDATE  ****** 5/5/12After a few days the smart cover started getting loose. If you plan on using this on a daily basis and plan on folding the smart cover back, or when you feel like lying down and putting the ipad on your belly and surf, this is not the one your looking for. It will become loose!Returned for a full refund! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay cover for a great price. Became loose in less than a week! </p>
+
+
+<h2> review.date </h2>
+  04-18-2012  
+<h2> review.text </h2>
+
+ <p> On one hand, I like it--it's slim, fits well, doesn't weigh much or take away from the iPad profile.On the other....not so much.As another reviewer mentioned, this is not purple.  It looks like someone took a pretty purple, then threw black into it. Hubby even said it looks more maroon/burgundy than it does purple. I like both colors, so I'm ok with that. If the color was a deal breaker, I woulda ordered another color or not hit the order button.When you hold the case up in portrait position, the case only clasps on with the right side. The left side of the back is held by the pull of magnet only. This magnet is not strong enough to hold the back of the case on when you try to use it in the rolled-up easel position. The case just will not stand up, for typing it works just fine, trying to watch tv on this with this case on is a complete fail. I noticed none of the display pics show the case being able to do that position...it's mentioned in the description that it can do multiple viewing angles by the trifold, but it can't demonstrate it in pictures. I would like the case better if the case actually locked on on the left side.The sleep/wake function does not work at all. The magnets are strong, it's advertised as a sleep/wake case....yet it doesn't deliver. I put the music on and shut the case....the music kept playing. Maybe I needed to try another app....video keeps going also.We'll see if the rating changes once I hear back from the seller.I've sent an email to the dealer to see what we're going to do about the sleep/wake fail. I don't need this case if it doesn't work. I have a Speck Fitfolio that delivers better without the sleep/wake. It can stand up when I watch tv also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I don't know how I feel about this case... </p>
+
+
+<h2> review.date </h2>
+  09-05-2012  
+<h2> review.text </h2>
+
+ <p> Got the case and it was exactly as described and excellent quality. The build was strong and very precise. Really loved it. It didn't last as long as expected because there was a small issue and the way it was being used, none the less it wore out early. I get it that happens. So I called customer support. They were kind responsive and helpful! There were no questions asked they said they would replace it right away. Sure enough within a half our I got a notice that they were sending me a new case.Con: Only issue with this case that I had was when folded so that the cover goes behind the case it doesn't fold back flat which can be annoying. Also when propped up the divots in the screen cover aren't' deep enough to hold it and sometimes it slides down, this is especially an issue when it is on your lap. Overall though the case looks great and is excellent. Not to mention really beautiful manufacturing.Oh yeah and the best part is when I suggested that they send a different model because of the small cons mentioned above they were more than happy to switch it for another model (specifically the strap back model) WONDERFUL EASY KIND HELPFUL CUSTOMER SERVICE, for sure they got a customer for life in me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case - GREATER CUSTOMER SUPPORT </p>
+
+
+<h2> review.date </h2>
+  03-27-2012  
+<h2> review.text </h2>
+
+ <p> While this case is priced well and seems to offer good protection and fits the iPad 3rd generation perfectly, it has one fatal flaw- when using it in book mode, with the case folded back, it cannot fold back flush with the back of the iPad.  This makes it unwieldy when reading the iPad like a book for any length of time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flawed design </p>
+
+
+<h2> review.date </h2>
+  08-09-2012  
+<h2> review.text </h2>
+
+ <p> I have had one for months and I bought this one for my boyfriend when he recently got an ipad because we both love this case so much. It provides great protection with the lowest profile. I drop stuff all the time so i needed something that protects the corners and this case does that without making the ipad twice the thickness. Has the magnets that control the sleep/awake function.  I have a new ipad (ipad 3) and my boyfriend has the ipad 2 and it works great for both. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

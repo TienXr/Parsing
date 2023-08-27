@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1583143300 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-14-2002  
+<h2> review.text </h2>
+
+ <p> Crescent Island is such a beautiful place, I almost believe that it exists!! The scenery in this book is excellent, and the characters are so well-developed that you'll want to keep turning the pages, just to find out what happens next! Madison Evans has been hurt in the past and she swears off men, that is, until she meets Tony Gates. Sparks fly when they Madison rents a cottage on his property on Crescent Island. However, their love must conquer several obstacles, including Laine, Tony's ex-fiancee. Tony has been hurt in the past too, and he's convinced that most women are gold-diggers, after his fortune. After they learn the truth about one another, they finally find the courage to trust and find happiness again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good, exciting read!! </p>
+
+
+<h2> review.date </h2>
+  07-29-2002  
+<h2> review.text </h2>
+
+ <p> Mrs Norfleet first book is a good read.  Madison Evans has been hurt by love and is not interested in trying it again.  That is until she meets the handsome Antonio Gates.  Tony has also had some ruff relationships in the past.  The relationship between Madi and Tony has alot of obstacles to climb and is kind of rocky but you hope that everything will work out and love will become priceless.The author gives you a very excellant description of Cresent Island and also all the characters.  Each character help to make this a good read.  I love Mamma Lou and can't wait to see who her next victims of the matchmaking game will be. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Book </p>
+
+
+<h2> review.date </h2>
+  04-26-2002  
+<h2> review.text </h2>
+
+ <p> I truly enjoy this book and Mrs.Louise was truly a jewel to have move the two people on with their stalemate life. Thank you </p>
+
+
+<h2> review.summary </h2>
+
+ <p> truly priceless </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> I love how Ms. Norfleet describes their feelings and the scenes. However the book is moving a little slow. Although they got intimate pretty quickly they have not explored the relationship more. I dislike that they keep running away from each other. And someone needs to put his ex in her place. I am only half way through and will add more when I am finished for it is taking longer than usual for me to get through a book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great use of words but a little slow </p>
+
+
+<h2> review.date </h2>
+  07-21-2002  
+<h2> review.text </h2>
+
+ <p> Antonio Gates and Madison Evans.  This story is truelly a Priceless gift that belongs on your bookshelf under &quot;Romance.&quot;  Escaping the Past filled with Heartache and Pain, Both Tony and Madison evolve into prosperous and intelligent upstanding citizens.  Once burned and never wanting to experience the past again, they don't realize that when cupids arrow hits, you have no control.  The setting is like Paradise, a vacation island that we all would love to travel to...for peace and relaxation.  Celeste Norfleet has really painted a vivid picture of beauty and comfort on Crescent Island, that I would love to visit.  Mama Lou is the grandmother we all love, and who has Tonys best interest at heart.  I love the way Madison is portrayed, Laine thought she knew what she was dealing with, but was totally surprised.  I recommend you read this book, because it is a very good read... I don't want to tell too much in this review, because I don't want to give away the story. I will leave you with this... Never assume anything... if you haven't straight out asked the right questions, don't assume you know the answers.  I look forward to seeing Raymond, JT, Dennis, oh these guys  need to be hooked up and I also would like to know if Mrs.Mimi Woods Herington Carter Brown, has up her sleeve and how Senator Richardson will play into her plans.  What about Laine?? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love is a gift when given and recieved and is PRICELESS. </p>
+
+
+<h2> review.date </h2>
+  01-21-2013  
+<h2> review.text </h2>
+
+ <p> Just enjoy the writing and the story line will keep you hanging on till the end. Trying to read the whole mamma lou series </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it </p>
+
+
+<h2> review.date </h2>
+  09-25-2002  
+<h2> review.text </h2>
+
+ <p> Oh what a priceless gift -- the gift of love.  Madison Evans thought she had found the love of her life when she met and fell in love with her now ex-fiance'.  A man who not only 'stepped' on her love, but 'broke' her heart.Rebounding from a broken love affair, Madison decides to take a sabbatical leave of absence and settle down to write.  Madison was not looking for love, but love somehow has a way of finding its way into your heart when you least expect it.Antonio &quot;Tony&quot; Gates also is not looking for love.  He also has been 'burned' by love.  Tony has promised his grandmother, Mama Lou, that he will not become involved with any other boarders Mama Lou invites to the cottage.  However, Tony did not count on meeting Madison nor did he or Madison count on getting bit by the love bug.  No matter, sometimes bug bites are infectious and where love is concerned, who knows. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The gift of true love is indeed a 'priceless gift' </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book it was funny and Momma Lou is a jewel. This was a love that started out fast and it was very exciting seeing where it was going to go. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love </p>
+
+
+<h2> review.date </h2>
+  10-20-2008  
+<h2> review.text </h2>
+
+ <p> This was a quick read. I read this book in 2 days. Although I enjoyed it and the other books from the Mama Lou series, I did not like the unbalanced relationship.  The way he treated her on some occasions should have been deal-breakers.  At one point he treated her like a prostitute.  Also the confusion went on too long.  Grown folk should have been able to figure things out sooner.  Finally, for what he put her through, I think he should have had to work harder to get back in the good graces. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Match by Mama Lou </p>
+
+
+<h2> review.date </h2>
+  02-28-2003  
+<h2> review.text </h2>
+
+ <p> Professor Madison Evans goes on sabbatical on the Virginia West Coast.  She meets handsome antiques dealer Antonio Gates and ends up under his spell.  Tony is resistant to romance, but he is smitten with Madison.  Can they both overcome mistrust, betrayal to love once again?  Very enjoyable book.  Sensual, comical and had that one character you loved to hate.  Mama Lou was may favorite.  Excellent read and a nice ending. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Learning to Trust Again </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> So I started the Mama Lou Matchmaker series a little off kilter as the first book I read was Since Forever, the Morgan story. Once I read that and realized it was part of a series I started to collect the series. This past April was my Celeste O Norfleet only book month. Trust me all the books in the series are good. Not just because she is an excellent writer, that's a bonus. The great thing about this series is the connection you get to the characters. All of them either thought they were not looking for love, trying to hide from it or simply not ready to step out of the way of themselves to see what love has to offer. Each one of the books put a smile on my face and was glad I waited until I had the whole series to dig in...Madison was a professor that was looking for a get away to write her book. Crescent Island (silly me I went looking for it...no such luck) sounded as far away from the city as Madison felt she needed to go. She had a hand in finding the place she was to rent for the summer (pay attention that was the set up...every matchmaker needs an ally) and when school ended she headed to the island.Tony lived on the island with his grandmother. Or rather he stayed with her when he was in the states. He frequently traveled looking for the next great artifact. Tony was an antique dealer and quite successful at it. Tony was tricked by his grandmother into picking up the woman who she was renting the summer cottage to, which happened to be Madison. Determined to keep his matchmaking grandmother from setting her sights on him again Tony vows to stay away from Madison but it just proved to hard to do.Once they started sleeping together he figures he can walk away but that wasn't working either. One night he over hears (ear hustles...that'll teach ya) a conversation Madison was having with her sister Kennedy. Thinking she was talking to a man and was just another gold digger Tony pushes her away. Events unfold that prove to Tony what a mistake he is making by pushing her away. Just in time Tony gets it together to bring in his own set of fireworks.If you think you have seen the last of Kennedy think again...in fact Madison is a part of triplets. One brother and one sister...Mama Lou has a whole new set of people to match but first she sets her sights on her other reluctant to marry grandson Raymond. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mama Lou Knows Best </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

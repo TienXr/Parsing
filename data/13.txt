@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0002BEV84 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-13-2014  
+<h2> review.text </h2>
+
+ <p> Great bim bam boom got it done. it was cut and dry,i do sugest you break off the extra anchers cause the box cutter sugestion will not work. when i broke off the tabs it was so much easyer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> please get this its great </p>
+
+
+<h2> review.date </h2>
+  11-20-2012  
+<h2> review.text </h2>
+
+ <p> Installed on a 1998 nissan pathfinder with no problems, the many tabs and parts were a bit confusing at first(primarily because I was doing this by flashlight) but simple once you find the printed labels on each. You have to break the ones for other vehicles off but most were easy to snap off with a pair of pliers and only had to score a few with a hack saw before they would come off.It's not the most sturdy feeling mount but once I got everything in it seems to be holding fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 1998 Nissan Pathfinder </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> This product was just as described and worked perfectly for my installation. Anyone looking to get the job done correctly should purchase this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just perfect </p>
+
+
+<h2> review.date </h2>
+  07-04-2013  
+<h2> review.text </h2>
+
+ <p> Easy install with not a whole lot of hassle had it in and mounted with radio in under 15 minutes. Took longer to get the car dash apart. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy install </p>
+
+
+<h2> review.date </h2>
+  07-29-2011  
+<h2> review.text </h2>
+
+ <p> The Dashkit did what it was supposed to.Engineering one molded part to fit multiple vehicles is a marvel.Unfortunately you only use the main piece; all the other extra parts are for other vehicles.The Maxima factory bracket, on the other hand, was a major pain.The holes didn't line up with the new Sony Xplod head, and the Sony mounting sleeve (where youhave to bend the little triangles up to secure the sleeve in the dashkit)interfered with the metal bracket. A bit of jerry rigging got it together (drilled holes to accomodatethe bent metal tabs).The PAC ROEMNIS2 for the harness adapter worked very well with the install. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good fit for 96 Maxima. </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> It fits perfectly.  Easy to mount new aftermarket 1 DIN radio in existing 2 DIN space.  Installation instructions can be clarified a little bit more for each car. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Would not install aftermarket radio without it. </p>
+
+
+<h2> review.date </h2>
+  03-07-2012  
+<h2> review.text </h2>
+
+ <p> Fit great in my 2000 Nissan Xterra.  It did require me to saw a few tabs off that were there for other models, but it was a breeze with an exacto knife.  The little pocket under the head unit is also very convenient, and holds my cell phone quite nicely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Product </p>
+
+
+<h2> review.date </h2>
+  10-04-2010  
+<h2> review.text </h2>
+
+ <p> As is noted, it's a one-size-fits-all mount kit. That means you'll feel guilty about throwing away more plastic as you keep.  But the directions were surprisingly accurate, and this was the only one available for the year-model.The bezel doesn't fit on my 97 Mercury Villager (same as 97 Nissan Quest).  I put the Clarion unit's plate over it, but just barely. To resolve a bit of the metal box showing, I put electrical tape over that edge and then put the plastic plate back on.  Considering how difficult it would be to retro something to fit my vehicle, they did a good job.  In this year-model, the plastic kit entirely replaces the metal radio box that is in the dash from factory.Not great, but functional.  No real complaints on functionality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did the Job </p>
+
+
+<h2> review.date </h2>
+  03-21-2012  
+<h2> review.text </h2>
+
+ <p> I had multiple issues with it. Like other people complained, I disliked that I had to cut stuff to fit. I would recommend purchasing a item that is specifically for your car. I had to use oem parts and metra parts so it would fit properly. Ones fitted it looked clean. In a difficulty range I would say Moderate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I expected some thing else. </p>
+
+
+<h2> review.date </h2>
+  02-06-2011  
+<h2> review.text </h2>
+
+ <p> I popped this in my 01 Nissan Xterra so I could get an after market deck.  Fits the car and the deck perfectly, you have to take time to cut off quite a bit of plastic but no big deal, bottom cubby fits my ipod and the remote for my deck perfectly.  Great product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great in 01 Nissan Xterra </p>
+
+
+<h2> review.date </h2>
+  01-02-2013  
+<h2> review.text </h2>
+
+ <p> The set could have been much cheaper since only two brackets and the main body was needed for my vehicle. It seemed like such a waste throwing away a bag full of plastic because it just wasn't needed. As far as the kit goes it worked great for a 2003 Nissan Xterra. It fits nicely and the added pocket under the deck is a real bonus. Follow the directions or look at the pictures and you won't have a problem installing your new deck with this installation kit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality and fits nicely </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> Used to replace stock stereo in my 2001 Nissan Frontier. Ended up throwing most of kit away because it wasn't needed for my vehicle. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked well </p>
+
+
+<h2> review.date </h2>
+  11-06-2012  
+<h2> review.text </h2>
+
+ <p> Fits in my Nissan quest 2001. Perfect. good quality material and still easy to trim because it is pre-cut for various vehicles. Easy to install. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> I had my brother install this in my 02 Xterra and it took him only a couple hours.  Instantly made my dash look amazing.  Anything was better than the stock radio! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

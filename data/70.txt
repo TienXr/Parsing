@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00413PHKA <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-14-2011  
+<h2> review.text </h2>
+
+ <p> tried to install onto 2 pcs (asus ul30 laptop & asus box eee)ul30=error in the middle of installationinitial setup reading error->power2go was not installed.win-7 rollback, registry cleanup ... not work.box eee=error(critical) at the end of installationinstallation is done.sbw-06 doesnt like asus pcs...?asking asus w/detail report. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> installation trouble </p>
+
+
+<h2> review.date </h2>
+  02-24-2011  
+<h2> review.text </h2>
+
+ <p> This is a great little portable Blu-ray burner. The software is a bit limited but work okay. Depsite having the full version the software is full of pop-ups and such that constantly pesters you to uprgade etc. It gets old quick. -1 star for the annoying software that is bloat heavy. I wish there were some free programs just for watching movies. None really exist for Windows 7 nor OSX. My macbook air recognizes it but only works to rip MKV files not playback anything. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great portable Blu-ray burner... </p>
+
+
+<h2> review.date </h2>
+  06-30-2011  
+<h2> review.text </h2>
+
+ <p> THIS BLU-RAY DOES A GREAT JOB ON 25GB BURN IN ABOUT 25 TO 30 MIN. I HAVE NOT DID  D.L. BUT FOR A EXTERNAL IT PRETTY FAST. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Asus SBW-06c1s-u </p>
+
+
+<h2> review.date </h2>
+  06-15-2011  
+<h2> review.text </h2>
+
+ <p> This blu ray drive is great, now that I have a working one.  The first one wouldn't register under my computer as a driver whenever I tried to play a blu ray movie or DVD.  "With optical drives like this, it's either it works or it doesn't"; this is what the Asus' customer support said.  I return this one and got another.  Within seconds the replacement blu ray drive worked.  This product works great with both my Windows 7 laptop and my Windows 7 desktop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product, if it works </p>
+
+
+<h2> review.date </h2>
+  04-01-2011  
+<h2> review.text </h2>
+
+ <p> This thing has been a God Send for me!! I do audio and video poduction / editing and I rack up TBs of data fairly quickly. My prior remedy to this problem was simply to "buy another hard drive", but I finally broke down and bought this blu ray burner and have spent the last week burning archives of old projects for safe keep and cleaning off my hard drives. The burn process is a little slow with 25GB disk taking about 45mins to burn and 50GB disc taking double that, but I wouldn't trade it. Yes it does have two USB plugs, but I run a 7 port USB hub so that's no problem for me, as all of my hard drives run firewire and I have the spare slots for the burner plug. It's relativly quiet during its burning process as well. Oh, and I'm using a MAC computer and have had  no problems what-so-ever. Plugged it in right out of the box and was up and burning. Use Express Burn software ($29) downloaded off the net to burn with. If you're like me and need to clean off some hard drive space, I can vouch for this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GOD Send </p>
+
+
+<h2> review.date </h2>
+  04-07-2011  
+<h2> review.text </h2>
+
+ <p> This drive handles all types of discs and connected to my computer without any special drivers.  The drive takes it power from the usb port so no power supply is needed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> External blu-ray drive </p>
+
+
+<h2> review.date </h2>
+  03-26-2011  
+<h2> review.text </h2>
+
+ <p> I bought an HD camcorder and since regular DVD-R discs only have 4.7 GBs of space for HD recording, I bought this and all that I have to say is, "AMAZING". It took about 20 minutes to burn more then 20 GBs of 1080i HD footage onto a blank Blu-ray, or BD-R (6x speed). That was over 2 hours of home movies, in 20 minutes! The software that it comes with is great, fast, and easy to use. My old windows DVD maker software would take about 3 hours to burn 4 GBs of standard definition. After it was done burning, I put it in my Blu-ray player and was amazed at the clarity. I was watching my vacation footage in full 1080p!It's also very compact and portable, cool design. Plugs in using 2 USB ports which could be a pain, but works great if you have more then 1 USB port in the front of your computer. If you have 1 in the front and 1 in the back then you have to buy an extender (not included).In conclusion, The ASUS external Blu-ray burner is VERY fast, a great buy, and worth every penny. I highly recommend putting your HD home movies on a Blu-ray using this burner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW, just, WOW! </p>
+
+
+<h2> review.date </h2>
+  02-16-2011  
+<h2> review.text </h2>
+
+ <p> I have several netbooks and classmate PC's that do not have an internal CD ROM to play or burn CD/DVD's, so this has been and awesome tool to have around to use to install software or transfer files, or to do data back-ups to DVD and now Blue Ray disks.  I have now been able to back up 100's of gb of photo, music, and video data to blue rays disks, and store in a fire safe offsite, so I am assured none of these memories will get lost with hard drive failure or fire, or theft.  It is great to plug in to even desktop systems or laptops with CD drives, as this single investment gets me Blue Ray/DVD features/value on any system I have. It is small, quiet, portable, and powers right from the USB, no need for extra power cords, or cables to carry around. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic tool to have around </p>
+
+
+<h2> review.date </h2>
+  12-14-2010  
+<h2> review.text </h2>
+
+ <p> just basic blu ray burner with standard software included... ho hum... have'nt tried to max out yet but, just waiting for opportunity..dont like the double (thats right Double)  usb cord that attaches to pc  other than that does what its supposed to.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> you get what you pay for </p>
+
+
+<h2> review.date </h2>
+  12-31-2010  
+<h2> review.text </h2>
+
+ <p> I have an HP i7 laptop, which can edit HD movies in 1080p and I wanted to burn a Blu-Ray disk.  You would think the HP would offer this option? a little behind the curve.  So I went online and saw this Blu-Ray burner.  Hooked it up no extra power just need 2 open USB ports.  My movie was over two hours, did a friends wedding back in October.  Sent it through my Pinnacle 14 and after like 6 hours, Oh yes it took that long even with a core i7.  Out popped the finished Blu-ray disk. Played it on my Panasonic Blu-ray player, it was just beautiful.  This product is the way to go! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked right out of the box! </p>
+
+
+<h2> review.date </h2>
+  01-24-2011  
+<h2> review.text </h2>
+
+ <p> (CRAPPY) ENGLISH:Works as expected, Bundle software is adequate (but I recommend ImgBurn for burning any kind of disc, and Total Media Theater for watching DVDs & Blu-rays).The only downside is the need for 2 true USB ports (not hubs) for proper functioning, if you have issues burning BD-R media make sure that the USB ports are not part of an internal hub (common on most laptops), or try an external USB power source for the secondary connector whose sole purpose is to provide additional power (when burning a BD-R the writer needs around 1500 mA, 3 times the official maximum current for a standard USB 2.0 port!!!).GOOD:--Fast burning for a portable writer!--High quality burning!--Compatible with most OS out of the box!--Sleek design!--ASUS support and warranty!SO-SO:--Bundle software is good (includes PowerDVD 9 Plus, a Blu-ray software player with a MSRP of $70 bucks), but not perfect, and the install process is buggy.BAD:--Needs 2 USB ports, and does not have an alternate power supply!Overall a great product, way better than the Chinese external burners sold on eBay at similar prices.ESPA&Ntilde;OL:Funciona como debe, los programas son adecuados, e incluyen a PowerDVD 9 Plus, un reproductor de Blu-ray para PC totalmente funcional y compatible con el Perfil mas actual del formato, con un precio de venta al publico de 70 dolares, por lo que te ahorras tener que desembolsar en un reproductor adicional, aunque en lo particular recomiendo ImgBurn para quemar discos y Total Media Theater para ver DVDs y Blu-rays.El &uacute;nico punto en contra es que necesita 2 puertos USB reales (nada de hubs) para funcionar optimamente, si tienes problemas quemando BD-R asegurate de que los puertos que utilizas sean realmente independientes y no formen parte de un hub interno (com&uacute;n en las port&aacute;tiles, donde usualmente todos los puertos USB de un mismo lado en realidad son parte de un hub), opcionalmente puedes intentar con un cargador USB externo conectado al segundo conector USB (cuyo &uacute;nico prop&oacute;sito en realidad es proporcionar la corriente adicional necesaria, ya que cuando grabas un BD-R el quemador necesita casi 1500 mA, 3 veces mas que lo m&aacute;ximo que se supone debe proveer un puerto USB!!!).Pese a ese peque&ntilde;o inconveniente es mucha mejor opci&oacute;n que los quemadores externos chinos que se venden en eBay con precios similares, usualmente usando unidades internas para laptop que no pasaron control de calidad, que no incluyen software, y de los cuales es muy dif&iacute;cil poder recibir soporte t&eacute;cnico, ni se diga sobre el hacer valida la garant&iacute;a. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Burner and Great Price </p>
+
+
+<h2> review.date </h2>
+  12-14-2010  
+<h2> review.text </h2>
+
+ <p> I bought this ASUS SBW-06C1S-U because I already purchased an ASUS N61JV-X2 notebook PC with Microsoft Windows 7 Ultimate 64 bit and I subscribe to Netflix with the ability to rent Blu-Ray movies as an additional option. I looked at several other competing manufacturers such as SONY and Buffalo Technology, but I decided to get this ASUS SBW-06C1S-U because of the brand reputation. Before you decide to buy it, you have to check to ensure that your PC supports HDCP by visiting the Cyberlink website and download and install the Cyberlink BD & 3D Advisor tool. Run this tool to check to see if your PC is up to the standard. To the best of my knowledge, Microsoft Windows Vista Service Pack 2 and Microsoft Windows 7 Home Premium and above support HDCP. This drive comes with a standard AC power adapter and cord, the drive itself, and a high speed USB 2.0 A to mini cord. Just plug in the power cord, plug in the USB 2.0 cable, and hook it up to a USB 2.0 port on your PC and let Microsoft Windows automatically detect and install the appropriate device drivers. Then, open up the drive tray and put in the Cyberlink PowerDVD 8 software CD and install the software onto your PC to play Blu-Ray movies. The version that is included is out of date. Cyberlink PowerDVD 10 Mark II Ultra is the current version at the time of this writing. It costs $79.99 USD for new customers.I use this ASUS SBW-06C1S-U to decrypt and rip Blu-Ray movies that I rent from Netflix using SlySoft's AnyDVD HD. I save it onto an external Western Digital 1.50 TB Caviar Green hard drive housed in a ThermalTake BlacX hard drive dock connected through eSATA. It takes about 20 minutes to write a single layer 25.00 GB Blu-Ray disc. If you hook it up to your USB 2.0 port that is directly attached to your PC, then there is no need to carry the additional AC power adapter and cord to play or write Blu-Ray movies or discs.This new drive is replacing an aging LG GSA-5163D A105 firmware Super-Multi double layer DVD & CD player and burner drive. I am able to rip my CD, DVD-Video, and Blu-Ray collection onto my hard drive using this ASUS SBW-06C1S-U without any problems. I checked the ASUS website for firmware or software updates and there are none at the time of this writing.As a side note, if you rip DVD-Video and Blu-Ray movies into an .ISO file, then you can use Video Lan VLC player to play back the movies at any time. There is no need to buy the latest version of Cyberlink PowerDVD or to install the included software CD if you choose to decrypt, rip, and playback movies from your hard drive.I tested the disc encryption feature and it does work as advertised. The cryptologic algorithm is Advanced Encryption Standard at 128 bits cipher strength using SHA-1 as the hasing algorithm. It is strong cryptology suitable for securing your data onto optical discs.Overall, this is an easy to install and use product so long as you have checked for HDCP support and you have modern hardware and software to support this drive. It is well built to withstand occasional bumps while tucked away inside a bag for on the go Blu-Ray playback or burning discs. I recommend it for travelers looking to add an optical drive to a netbook or an ultraportable that does not come with one.Addendum:I have since returned this product for a full refund because it uses two USB 2.0 ports to power the drive while using it on the go. My ASUS N61JV-X2 notebook PC has widely spaced USB 2.0 ports so the special Y-shaped USB Type A to dual Mini cable is incompatible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My brief review </p>
+
+
+<h2> review.date </h2>
+  04-26-2011  
+<h2> review.text </h2>
+
+ <p> First please some one explain me what, do they mean when writing "needs 2 usb port to work"I have no problem working with JUST one usb portI havent tried burning any dvd yet maybe i will need to port in order for it to work.This great little slim dvd Blu Ray player movies look grate when playing.software us kind of old school type but gets the job done.my main reason for getting itneeded SMALL & SLIMneeded to be Blu Ray with BR-buner </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WHAT? </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

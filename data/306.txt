@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1490505164 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-22-2013  
+<h2> review.text </h2>
+
+ <p> *For mature audiences onlyThe Last Kiss is a great read! For those of you who are looking for the heat ... this immediately got to the hot & steamy, but it did not stop there. I will warn you that I am not much of the erotica reader, so I was pleasantly surprised when Murphy's talent for character development quickly stole my attention. This story has the depth that I crave when picking up a book.Raeve & Aidan bring their story to us in a very real way. You will feel what they feel, ache where they ache, & relish in the joy of their truths unfolded. The painful past & abusive relationship Raeve endured simply ensured that I would long for her happiness that much more, & Aidan, the forever hero, brings out a whole other side of her. This wonderful bond that they have is only magnified by their lustful escapades. And...aaaargh...that ending! It could not have been better played! I look forward to reading more of this author's work! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very well played! </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> The Last Kiss by M.R. Murphy is a beguiling love story. Raeve and Aiden find each other, fall in love only to be torn apart by circumstances beyond their control.  Raeve is a woman who never thought much of herself, she continued on with her life only for it to be full of hurt the kind that is hard to come back from.  Finally she is able to rid herself of the evil that has tried to destroy her life.  She again finds herself in the strong comforting arms of Aiden, but will it last? This beautiful story just goes to show that a love by two people who go in different directions can reconnect once again.  This story made me cry, made me angry which are all emotions made to come alive from a great story teller.  M.R. Murphy is an author to keep an eye on in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The last kiss lingered and I wanted more! </p>
+
+
+<h2> review.date </h2>
+  07-06-2013  
+<h2> review.text </h2>
+
+ <p> *** Adult readers ***I'm still relishing about this awesome story!! Talk about keeping the reader so engrossed, it had me yelling, sweating and crying on so many different levels, It felt like I was right there while every single emotion was felt through the pages as you read them. WOW= WOW= WOWFull review hopefully 2morrow.Recommend: AdultRating: 5/5 angel starsAngel Anne Reviews </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow, talk about a ending!! </p>
+
+
+<h2> review.date </h2>
+  10-22-2013  
+<h2> review.text </h2>
+
+ <p> While I would like to see even more to the storyline,  the ending especially had me cheering.  love can really conquer all!  Well done! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HOT! HOT! HOT! </p>
+
+
+<h2> review.date </h2>
+  09-24-2013  
+<h2> review.text </h2>
+
+ <p> DISCLAIMER: I read only through chapters 1-3.  Read the rest of the review to find out why.This is by far the single WORST free kindle book I've ever downloaded from Amazon.  When purchasing free books I've learned to lower my expectations; this book hit an all-time low.  Not only is there ZERO plot in the first three chapters, two of them are spent in the most confusing and repetitive sex scene I've ever read.  The author re-uses a few words so often, I started highlighting them.  The totals are below.  There are more repeated words; these were just the worst offenders.  I've included the locations of each word's appearance as well.Smirk (which is used incorrectly every time): locations 78, 95, 122, 127, 302.Sinuous (includes forms like sinuously): locations 81, 124, 145, 203, 251.Supple: locations 123, 162, 162 (again), 170, 188, 207, 256.Rumble (also overused: growl, which I did not track): locations 83, 105, 182.Sultry: locations 101, 128, 270, 285, 299Essence (often used incorrectly): locations176, 188, 203, 204, 218, 219, 227, 229, 243, 294.In addition to the oft-used words above, the author includes some horrifyingly inappropriate similes throughout the first three chapters to describe the desire between these two.  Here are just a few gems:~The sinuous roll of his gait was like a hungry wolf stalking its prey.~... through his body like vibrations of ocean waves crashing over the fear that once resided inside his chest.~ Her internal fire erupted from smoldering embers to bonfire in those first few moments. (sic)~His sheer size ate up the room, shielding her like a soldier ready to take a bullet for her.~Her breath hitched, as burning desire poured off her like waves of lava.~Licking her lips like a lioness ready to feed...~... as he dipped a finger into her inferno depths.~Her heart tripped over itself as it raced with the speed of a thoroughbred running at the Kentucky Derby.~... his fingers pumped in and our like pistons on a race car.~His body was rigid as rebar...~...smoldering liquid heat swaddle him like a wet, tight hug...~ ... he kept thrusting into her like a piston on a Japanese bullet train.Finally, the book is riddled with typos, missing punctuation, poor sentence construction and confusing and contradicting imagery.  I know the book has received positive reviews here and elsewhere, but the other reviewers were clearly not reading this book.  At least one of the Amazon reviewers is thanked as a friend in the dedication (Jenna Pizzi) - it makes me think that the author had her friends give 5-star reviews to boost its standing.  Please do not be fooled - THIS BOOK IS TERRIBLE.  I don't recommend reading it unless you are playing a drinking game where you get to do shots every time the word "essence" appears. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I felt like I was lied to. </p>
+
+
+<h2> review.date </h2>
+  08-28-2013  
+<h2> review.text </h2>
+
+ <p> An erotic love story filled with steamy straight from the heart sex. This is not a book to read when the kiddos are around! Two lovers torn apart because of the wrong decisions then getting back together realizing what love really means. The abuse scene affected me so much I wanted to cry. I was so relieved when these two found each other again only to fear what was going to happen next. An excellent written story in which the author poured her heart and soul into creating leaving me breathless at the end. I shall be reading more from this author from now on. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Last Kiss </p>
+
+
+<h2> review.date </h2>
+  07-19-2013  
+<h2> review.text </h2>
+
+ <p> Oh man this book was amazing! I loved the wording M.R. used to make each scene that much moree memorable and inticing! The characters were amazing as well, loved Aiden, he was so sexy and just...damn...*sighs*! Raeve was a strong willed and fiercly independent woman who I enjoyed from start to finish. Aiden and her are perfect for one another and are a wonderful pair. I really enjoyed reading their story and getting to know them! This story is now the third book that I have read that made me cry, oh but it was well worth the tears. If you have not read this book you really should it is an emotionally sweet read that is sexy as sin and will hit home to anyone who serves in the military or has a loved one who serves in the military. This is a book that I will read over again and continously recommend to others. Absolutly wonderful read! "Always until eternity"~Raeve and Aiden </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must read! </p>
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book only wish was a little more detail on the time in between would give it a 4.75 but not a button for that . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> enjoyed this book very much </p>
+
+
+<h2> review.date </h2>
+  08-04-2013  
+<h2> review.text </h2>
+
+ <p> Wonderful  read! I think the best M.R. Murphy has put out yet. Most would be distracted by the erotic scenes (which are very well written) but it is the characters you will fall in love with. I can't wait for the next book to come out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fairy tale for us grown ups...(for 18 and over) </p>
+
+
+<h2> review.date </h2>
+  07-12-2013  
+<h2> review.text </h2>
+
+ <p> This book is an amazing ride. There is somuch emotion packed within the words it will leave you breathless. Be sure to keep your tissues handy, you will need them. So grab a glass of wine, or hell....the entire bottle and settle in for The Last Kiss. I cannot wait to read more from this amazing author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow!!! </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> This book brings the reader through a whole lot of emotions.I found this story had a hell of a lot of sex in it...a hot male & a gorgeous female,  Of course I ain't complaining.  I loved it:)I'm not giving much away with the storyline except to say its a bittersweet love story.If your looking for a nighttime book then I recommend this :)Received from author in return for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A hot read </p>
+
+
+<h2> review.date </h2>
+  07-20-2013  
+<h2> review.text </h2>
+
+ <p> The passion between Raeve and Aidan pulled me in from the start and never released me. This is for adults only! Finally a real man who knows to treat a woman like a woman.  Finally a real woman who knows what she want and won't settle for less. I never wanted it to end. Oh I am a fan you better believe it!Recommend: Adults Only (Put the kids to bed before reading this one!)Rating: 5/5 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First put the kids to bed! </p>
+
+
+<h2> review.date </h2>
+  09-21-2013  
+<h2> review.text </h2>
+
+ <p> This book is one that melts your heart it's truly beautiful love story that will make you smile,cry and make you smile some more.The emotion this couple go through just pours of the pages and are so well written and I have to say the sex scenes are written beautifully to.Aidan and Raeve take years to finally confess they have feelings for each other but with Aidan going back to base they don't think they can make it work. But with letters and phone calls and visits they try, but then throw in some jealous gossiping women Raeve breaks Aidan's heart. I have to say I just loved Aidan he plays the Alpha well and he never stopped Loving Raeve and was even there when Raeve went through some pretty horrific times.I really couldn't put this book down and I'm so so glad they got a chance of second love and Phew those sex scenes well I'm still fanning myself now.And I loved loved that the Author made us wait till the last few pages not only to bring a tear to my eye but for that heart wrenching HEA. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brillant read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

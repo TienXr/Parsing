@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00005LD4W <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-06-2007  
+<h2> review.text </h2>
+
+ <p> I've been using this directional mic for almost three years and have never noticed camera noise. It's compact and provides a good reach for most ambient sound situations. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works for me </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> I use this on my HD Canon video camera. I am a profesional and this meets all of my expectations. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> meets all expectations </p>
+
+
+<h2> review.date </h2>
+  08-24-2008  
+<h2> review.text </h2>
+
+ <p> The "Canon Directional Stereo Mic (DM 50) for Camcorders with the Advanced Access Shoe" is a great accessory for theCanon GL2 MiniDV Digital Camcorder w/20x Optical Zoom. It installs easily on the camera and automatically takes over for the built in microphone.The microphone has three options "Shotgun", "Stereo1", and "Stereo2". The "Shotgun" mode is used to capture forward sound only, while the two "Stereo" modes allow you to capture sounds from the side and, with "Stereo2", from the back. I typically leave it set on "Stereo1" since it seems to capture the ambiance of the scene without being flat.Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inexpensive, High Quality Microphone </p>
+
+
+<h2> review.date </h2>
+  06-01-2011  
+<h2> review.text </h2>
+
+ <p> I use the DM-50 on my Canon HV40 and am very pleased with it. The forward (full) shotgun mode is impressive, as well as the other settings. I bought a Mini Windjammer windscreen for it which helps eliminate wind noise.  I found a sound test for the DM-50 on Youtube.com where the tester recorded audio (with video) setting the mic in each of the three settings. That test sold me on the DM-50. I use a pair of full-ear headphones to monitor while shooting which is highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I am very pleased </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> The title at the top of this page says "Advanced Access Shoe." Product description says "Advanced Accessory Shoe." Confused? Don't make a mistake when ordering (as I did). For example, this microphone (DM-50) will not fit the latest camcorders with the Mini Advanced Shoe (commonly called the "Mini Advanced Accessory Shoe" or just "Advanced Accessory Shoe"). For that (Mini Advanced Shoe), only the Canon DM-100 or SM-V1 microphones and Canon VL-5 or VFL-2 video lights will fit (without adapters or similar).Canon is causing confusion with it's unique shoes and vague names for the various shoes. This shoe has traditionally been called an "accessory shoe." Canon wants to drop the word "accessory" in some cases and add words like "advanced" or "mini advanced." The problem is that stores and similar aren't getting the difference. They're still referring to it as an "accessory shoe" and tacking on Canon's unique words in some manner. As with this product page, consumers are left to figure it all out.That said, this is a nice looking microphone. Feels quite solid in the hand as well. And I do prefer the foam windscreen over the hairy thing covering the DM-100 (that hair is sure to get all over everything). Beyond that, wouldn't fit my camcorder, so can't say much more. Knocking off two stars for the poor product description and the time I'll waste with that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poor Product Description </p>
+
+
+<h2> review.date </h2>
+  05-24-2009  
+<h2> review.text </h2>
+
+ <p> Took me a while to figure this out but all of the built in camcorder mics and "general purpose" accessory mics (like this one) have a built in high pass filter which reduces recording of the lower frequency sounds to help remove the mechanical tape and zoom sounds from the recording.  Live music recordings will never sound right no matter which of the three setting you use because the low end is cut back on all of them.  I finally bought the Rode Stereo Vidmic, which allows switching that filter off when you really want a balanced frequency response, and found that my HV20 is really quite capable of recording excellent music audio.  Something that it could not do with the DM50. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you're recording music, this is the wrong Mic </p>
+
+
+<h2> review.date </h2>
+  10-17-2007  
+<h2> review.text </h2>
+
+ <p> The Canon DM-50 is the best shotgun mic solution for the Canon GL-2. I first bought the MA-300 adapter and put on a nice AT835b shotgun mic. However, the combination was quite heavy and unbalanced. With the DM-50, the weight is reduced by over a pound and the center of gravity in centered again. And the sound is excellent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great microphone solution </p>
+
+
+<h2> review.date </h2>
+  12-11-2007  
+<h2> review.text </h2>
+
+ <p> I have had this mike for a month now, and have used it quite a bit. It is small enough to carry in a small bag, doesn't use a battery or extra cords, and works well at picking up sounds at a distance.I was able to use it to mostly eliminate distracting sounds in a classroom, though it works best picking up amplified sound.All in all, a good alternative to using the onboard mike. My HV20 has a mike that is simply too sensitive to surrounding noises. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> easy to use, small, not too expensive...good microphone for Canons </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> This mic is an amazing addition to my Canon HV-20. Sound from actual subjects of my video that once escaped are now clearly captured! I'll never shoot without a shotgun mic again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I can hear you now! </p>
+
+
+<h2> review.date </h2>
+  06-20-2008  
+<h2> review.text </h2>
+
+ <p> This microphone is adequate for close to mid range pickup depending on the noise level. It has three settings, one that emulates a shotgun Mic and the other two are for stereo wide and narrow. I own the Canon HV-20 and this MIC virtually eliminates the tape mechanism sound!!! It comes with a wind screen that works well under still to mildly windy conditions. The DM-50 runs of off the camcorder battery which eliminates the weight of having two AA batteries. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exceptional Consumer MIC </p>
+
+
+<h2> review.date </h2>
+  07-31-2008  
+<h2> review.text </h2>
+
+ <p> The Canon DM 50 works fine on my HV30 camcorder. Its a pity the manufacturer of the camera, Canon, cannot do better with the on board mike. Its placement on top of the camrea facing up is not the best. The DM50 shotgun overcomes those problems. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works out fine </p>
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> Although this unit worked well I was not impressed with the directional aspect.  It picked up noise from the side and didn't seem to as directional as I desired.  I preferred using the camcorder's built in mic to this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked But Was Not Impressed </p>
+
+
+<h2> review.date </h2>
+  12-10-2011  
+<h2> review.text </h2>
+
+ <p> I bought this for my Canon HG10 because the onboard mic picked up the videographers voice loud and clear, but the subjects audio was very hard to hear.  This mic didn't make much difference.  When I am taping the kids and ask them a question, my voice is very loud.  Their answers are barely audible.  So much for being directional.  It is nice that the power is on board, as well.  The non-canon mics have to be turned on and off usually, and if you forget to turn them off, dead battery... OOPS! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not much better than the intrinsic mic </p>
+
+
+<h2> review.date </h2>
+  12-24-2013  
+<h2> review.text </h2>
+
+ <p> this is just what my son needed for thunder storms in the summer. when we get them, he now ready. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it is just fine </p>
+
+
+<h2> review.date </h2>
+  03-05-2009  
+<h2> review.text </h2>
+
+ <p> Just an FYI for anyone who isn't paying attention and orders this mic for HF11 or any Canon camcorder with the MINI Advanced Access Shoe- it's not the correct mic. You'll want to order the Canon DM 100.Canon 2591B002 DM-100 Directional Stereo Microphone for HF10 and HF100 CamcordersI've contacted Amazon and asked them to "un-link" this product from the camcorders that require the Mini Advanced Access Show. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NOT for the Canon Vixia HF11 (or other camcorders requiring the MINI Advanced Access Shoe) </p>
+
+
+<h2> review.date </h2>
+  03-25-2006  
+<h2> review.text </h2>
+
+ <p> I'm using this with an Optura 60. The sound quality is fine. It doesn't totally eliminate the motor noise but it's a definite improvement. Sure, there are cheaper mics that do a better job in reducing motor noise which I have tried, but the first time I forgot to turn on the mic I missed some of the first belly laughs of my newborn and immediately decided to give this mic a shot. Bottom line, the combo of better sound quality than the internal mic and camera integration was worth it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine with Optura 60 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

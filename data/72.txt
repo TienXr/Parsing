@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0042LF5Y4 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-30-2011  
+<h2> review.text </h2>
+
+ <p> I wonder how they pack those screens. All the three that I received had at least two or three pieces of dust attached to them. Surprisingly, I haven't experienced that with tablet or laptop screen protectors, even though they are much bigger in size.So regardless of how much I clean my Kindle screen, those particles will still be there after I put the screen protector. And on Kindle's screen those white particles glare at you directly whenever you try to read a book. At the end, I did the best I could with those and got rid of them in the old fashioned way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useless on arrival </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> This Crazy On Digital Kindle 3G 3rd Generation 3 Anti-Glare Screen Protector is just great and make the screen easy to read now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> supper </p>
+
+
+<h2> review.date </h2>
+  12-17-2011  
+<h2> review.text </h2>
+
+ <p> I received a new Kindle to replace one that went FUBAR on me and had to replace the screen protector that I had.  I chose this one because - well, I'm not really sure.  Anyway, I had left the plastic on that came with the Kindle so as not to get any scratches while awaiting my screen protector.  When these arrived, I peeled off the protective plastic which was great - as it also resulted in a dust free surface for application.  Then, I only peeled back about 1/2" of the plastic and placed it on the edge.  Using a credit card, I carefully smoothed the protector on, pushing it up, which pushed the backing off as I moved up the screen (I did have to peel the backing off just a bit).  By the time I reached the top of the screen, there were no bubbles at all.  I gave it a once over with the credit card, carefully smoothing the edges before peeling off the top protective cover.  There was a bit of glue left on the screen protector, but that came off very easily with  my finger.  It rolled up into a neat little ball that I threw away.  I gave it one more light once over with the credit card and then had to look at the edges to make sure the protector was there!  I couldn't even see it!  No bubbles, nothing!  The whole process took about 3 minutes!  For all those people who complain that it was hard to put on, or that the screen had a lot of bubbles simply were not patient and did not take their time!  These are great screen protectors!  Love!  I paired it with the Kindle Skin (High Gloss Finish) - Moon Tree and theCrazyOnDigital Kindle 3 Kindle Keyboard 3rd Generation Leather Case with Screen Protector (Compatible with Kindle Keyboard). CrazyOnDigital Retail Package.  I am certain that my Kindle is well protected now! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love.... </p>
+
+
+<h2> review.date </h2>
+  06-11-2011  
+<h2> review.text </h2>
+
+ <p> First off, my thanks to those who purchased this item before me and posted their reviews.  Those reviews prepared me for what to expect and how to properly install the protectors on my Kindle.  I've been using my Kindle on a daily basis and protecting it any way I can is important to me.  With that said, I think 3 protectors for $9.99 was a deal.  The protector was easy to install and I don't have to worry about my Kindle.  I'd recommend this product to anyone purchasing a Kindle. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth the money </p>
+
+
+<h2> review.date </h2>
+  01-19-2011  
+<h2> review.text </h2>
+
+ <p> It's a good thing these come in a pack of 3. It took all 3 to get one on with no bubbles. Frustrating process but once on, it works well, transparent but there is some glare. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The good and the bad </p>
+
+
+<h2> review.date </h2>
+  09-04-2011  
+<h2> review.text </h2>
+
+ <p> Yes, it does protect my screen. It is easy to apply. There is no impediment to reading at all. But there are a few small spots where I see a bubble shape--but do not feel a bubble. I have tried to work these out but couldn't. It is better to use these than have an unprotected screen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> screen protector </p>
+
+
+<h2> review.date </h2>
+  01-11-2011  
+<h2> review.text </h2>
+
+ <p> There are three screen protectors included in the box and a wristband (not sure why the wristband) when I saw that initially I thought they meant some sort of grounding wristband.  Not so, just a rubber wrist band.  Screen protectors fit perfectly and are just as glare free as the screen they are designed to protect.  Bubbles formed, of course, but with patience most of them come out. Good product, reasonably priced considering I bought screen protectors for my iTouch and spent twice as much at Target. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as advertised.  Easy to use. </p>
+
+
+<h2> review.date </h2>
+  02-22-2011  
+<h2> review.text </h2>
+
+ <p> If you have a cell phone, iPod, or something similar, you probably have experience putting one of these things on. Placing a screen protector on your Kindle is no different, but it's somewhat of a nightmare to do (maybe because the Kindle is fragile and I'm treating it like my new baby now, lol). No matter what, there are always going to be little pieces of dust attached around the edge or beneath which create mini-bubbles (unless you are really lucky putting it on). I felt like the screen protector did add a bit of glare under the light. It's not glossy, but it has a matte finish that just reflects light a bit. I would get this if you ultimately want to protect your screen from dirt and scratches, not to eliminate glare. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job </p>
+
+
+<h2> review.date </h2>
+  12-24-2010  
+<h2> review.text </h2>
+
+ <p> I was very happy with the price and fast delivery. You have to make sure to remove all and I mean all of the dust off of your screen. The small bubbles will evenutally disappear. Will be looking at this sellers site for other items for my electronic toys. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Item </p>
+
+
+<h2> review.date </h2>
+  06-22-2011  
+<h2> review.text </h2>
+
+ <p> I was a little hesitant to order this screen protector, given some of the reviews - but I'm very glad I did.  Not only is the price excellent for a three-pack, I found the screen fits just about perfectly and is invisible once applied.  Since I've used these types of films on iPhones and other smart phones before, I was ready for the challenge of applying very carefully.  I actually found this one easier to apply than some of the phone protectors I've used, since I was able to peel it off and re-apply when I realized I'd caught a piece of dust.  I did mess up on the first screen - nothing new there - but had no trouble with the second.  This is one reason I'll never order protectors in packs of fewer than two, assuming I'll mess up in application at least once.I had a couple of small bubbles that disappeared in a day or two, also just like the phone protectors.  Now it's almost impossible to tell I have a protector on the screen at all, since the glare and clarity are completely unchanged. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits perfectly, completely invisible </p>
+
+
+<h2> review.date </h2>
+  11-15-2010  
+<h2> review.text </h2>
+
+ <p> I have a touch screen phone. I put one of these protective screens on and it had not ONE air bubble on the inside. I used EVERY SINGLE ONE of these sheets and for some reason no matter what I do, (even trying to use a knife as I was placing the sheet on to smooth it out) there are always little air bubbles. other than that it's okay, I have it 2 stars instead of one because it technically does what it should... it protects the screen... but those air bubbles annoy me when I read. Also, the whole anti-glare thing is not that great... the kindle doesn't really have that much of a glare since it has the e-ink. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> no matter what, there are bubbles </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

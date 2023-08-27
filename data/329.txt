@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1591430399 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fascinating Read! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A true-life mystery adventure where the truth is stranger and more exciting than fiction.  I loved the book and could hardly put it down.  Though the answers are inconclusive, the possibilities are mind-boggling. It covers a vast time span, from ancient Egypt, Moses and the burning bush and the Ark of the Convenant, to the Templars, the nineteenth and then current times. The author tries to solve first, what, exactly, the Convenant was, or is; does it still exist and if so, where is it hidden? His quest takes him to the Middle East, then back to England where he traces lost Templar relics through clues hidden in medieval murals and a later stained glass window. Through all this are the eerie "earth lights" he sees at various locations which seem to be a rare natural phenomenon and could be responsible for the "burning bush" of Moses, as well as "angel" sightings, etc. A thought provoking, fascinating read! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ark of the Covenant </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is another book that I needed for my studies.  It was very informative and gave me what I needed for my paper. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Templars and the Ark of The Covenant; The Discovery of the Treasure of Solomon </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-27-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wanted to read this one, because of the movie that came out with Nicholas Cage. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> very fascinating </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very solid Biblical research, facts with remarkable conclusions that could be drawn from the facts. A page turner we'll worth the cost and the time </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Puh-lease... </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-24-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Don't waste your time. Not only does he involve one of the singers from Air Supply in his "research," but he mangles biblical historicity and concludes that the Ark must be a geoplasmic transmitter... Looney tunes. I'm embarrassed to say that I've read it.Now, if you really want a good read about the Ark with much better conclusions, research and evidence, then check out Graham Hancock's The Sign and the Seal or Robert Cornuke's Relic Quest. Hancock's book is from a secularist perspective while Cornuke's is from a Christian. However, both arrive at some startling evidences and conclusions. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Searching for the True Ark </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Ark of the Covenant was, according to legend, an ornate golden chest that was both a means of communicating with God and a terrible weapon used against the enemies of the ancient Israelites. In order to use it the high priest had to wear a breastplace containing twelve sacred gemstones called the Stones of fire. These objects were kept in the Great Temple of Jerusalem until they vanished following the Babylonian invasion in 597 BC.The author of this book is Graham Phillips. Graham Phillips has been one of Britain's best-selling non-fiction authors for over twenty years. In 1981, after working as a radio journalist and broadcaster for the BBC and editing a popular monthly magazine, Graham first turned his talents to investigating unsolved historical mysteries. He has since written thirteen books which are in print around the world and have been published in ten different languages.In this book he reports on evidence he uncovered that 13th century Templars found the Arc and the Stones of Fire and that they brought these treasures back to central England when they fled persecution of French king Philip the Fair a century later. Following leads from the Middle East he turned to some churches in the English midlands and ... well that would be telling. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Starts off well, but... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-29-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> The first part of this book, as a theoretical possibility, is fantastic. Phillips does a great job of tracking the possible locations and pursuing the clues and hints that may unlock some historical mysteries involving Moses, the plagues and Exodus, David, Solomon's Temple, early Jewish history, and the existence of the Ark itself. My only complaint falls on his writing style which is simplistic much of the time and his irritating habit of rehashing what had just been concluded at the start of each chapter.The second part of the book, however, upon his return to England, is borderline ludicrous. The events are hard to swallow at best. It goes from an interesting historical analysis to a goofy treasure hunt through the fairylands. It may have actually happened as he said, but it's just hard to believe.And he lost me really when he reveals that the American couple who helps him search is one of the guys from Air Supply and his wife. Pointless name-dropping.Because of the second half of the book, it causes me to doubt the first half as well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Air Supply musician aids in finding the lost ark???? </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-21-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> Graham Phillips is to modern biblical scholarship what P.T. Barnum was to zoology.  His books, while admittedly always an engaging read, always fail in critical ways when held to the light of even a common sense let alone serious scrutiny.  While it is true that the ark mentioned in Exodus may have disappeared around the reign of Solomon, during the raid of Pharoah Shoshenq I, around the time of the reign of King Josiah, during one of the raids of the Babylonians or after the re-esatablishment of the temple after the time of Ezra, it is also true the ark might never even have actually existed or may even have been destroyed in antiquity (just as, for example King Hezekiah destroyed the bronze serpent or Nehustan of Moses).  The cavalier aplomb with which Phillips cursorily assumes both the existence and the date of the disappearance of the ark shocks critical sensibility.  Even more shocking is the way in which Phillips inserts interviews with imaginary characters in his book as a device to move his plot along.  The supposed keeper of the church toward the end of the book is one such for instance.  Almost laughably Phillips has even added a guest star to this book in the form of Graham Russell of the musical group Air Supply.  I know.  I'm sure that many points in this book are -- in tongue in cheek fashion -- intended to bemuse and entertain.  Be that as it may, I think readers should be better advised so that they do not -- as at the end of this book -- come up empty in their search for antiquity. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mysterious </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-14-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> 'Thou shalt make the Breastplate of Judgment with cunning work' - Exodus 28.The Bible (as revealed on page 18 of this book) is a collection of religious texts divided into two sections, the Old and New Testaments. In the first section, viz. the Old Testament, we are told that the ancient Israelites possessed a mysterious golden chest called the Ark of the Covenant which could wreak terrible destruction on the uncircumcised and sometimes even on the circumcised. The priest in charge had to wear protective gear, the mysterious Breastplate of Judgment, studded with twelve gemstones called the Stones of Fire. These, Ark and all disappear from the record before the 6th century BCE. Mr Phillips has discovered where they might possibly have been hidden: not far from Petra, 'the rose-red city half as old as time', which makes for some nice photographs. The treasures are not there now. They were quite possibly dug up by the mysterious Templars (who else) and brought to England in the 12th century.That's home ground for Mr Phillips, so he was soon on the trail. Mysterious lights were seen. Three stones were discovered which could possibly be Stones of Fire, and a slab which may conceivably be one of the tablets of the Ten Commandments. Mr Phillips discovered these in mysterious Warwickshire, after getting his hand in by discovering the Holy Grail in Shropshire and the Tomb of the Virgin Mary in Anglesey (see earlier books). Scientific tests were carried out. Mysteriously, they were inconclusive. This is the tale of how he did it, ably assisted by a couple of American semi-celebs. By a mysterious coincidence, this book was written for the US market.If you are put off because you think it's about boring old history or archaeology, don't be, because it isn't; any resemblance is purely accidental. This is a good example of a genre where reality segues effortlessly into fantasy and with one bound 'I wish' becomes 'it is!'. It is well done and naturally people love it. Some say it would make a great film. In the old days the movie would have starred Danny Kaye as the Pied Phillips, with an entranced throng skipping after him to never-never-land. Working title: 'Bulrush of the Lost Ark'. Mysteriously, I may have mistyped a word there.How has Graham Phillips managed to solve so many historical enigmas? (his website asks). I recommend reading an account of genuine biblical scholarship such as Finkelstein & Silberman's 'The Bible Unearthed'. Then, with luck, you'll be able to think of an answer. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Highly recommend: it should come with a hat and a whip </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-18-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you know nothing about the Ark of the Covenant or if you are well versed in its lore, this book will have appeal. It presents its origin and traces its history through to the present day possibilities of where it may be located. Phillips approach existing myths concerning the Ark in a purely analytical manner. He looks at the four different possibilities where the Ark could have been lost as laid out in the Old Testament and explores each decision tree fork through to its conclusion dispelling the possibilities of where the Israelites could have lost Ark and its final fate and last resting place. He provides compelling evidence to the accuracy of the historical records in the Old Testament concerning the Ark and logical rationale as to the Ark's present day location. What I particularly like is his reasoning and conjectures are clearly explained which empowers the reader to agree with the book or to draw his own conclusions.Aesthetically, the binding and paper are top notch, it has a bibliography and colour photos. The index is marginally useful as it is sparse, but this does not detract from the work.Break out your hat and whip as you'll feel like Indiana Jones reading this: it's a must for those interested in the Ark of the Covenant.[..] </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

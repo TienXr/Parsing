@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004QMA882 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-26-2011  
+<h2> review.text </h2>
+
+ <p> I just wanted to warn customers that this is a single purpose drive, meaning that it can only be used as a second drive in a computer as storage. You can not use it in an external enclosure.I purchased this drive along with another version of Hitachi 3TB drive and neither one will work in an external enclosure. They do have a warning on the electrostatic packaging that you must meet specific criteria to support 3TB. Search for it, since I can't put the web link here.I know the external enclosures I tried do support 3TB, especially since they work with WD brand 3TB drives.Personally, I have enjoyed Hitachi products in the past and am disappointed that they have limited this new drive to make it not useful for what I needed. I am very experienced with computers and all sorts of hard drives and this is the first time I have seen such a limitation implemented.As a side note, the product needs a GPT driver for windows xp. It states it does not need one for Linux or Mac, but my linux based machine could only see 2.2 TB and it would not work with external device to try on Mac Laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Single Purpose Drive </p>
+
+
+<h2> review.date </h2>
+  08-25-2011  
+<h2> review.text </h2>
+
+ <p> The 1st one I got was DOA.  Amazon sent a replacement and the new one works fine.Plenty fast enough for my use.Quiet and runs cool.Great capacity.Inexpensive.This is all I expect.  And any drive manufacturer will have bad units, so I don't have a problem with that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price.... </p>
+
+
+<h2> review.date </h2>
+  07-15-2011  
+<h2> review.text </h2>
+
+ <p> This drive has been RMA-ed 8 times.  I have used this drive inside the PC, in an enclosure and on a dock. They send you a refurbished drive when its time for a replacement.  Last time around I threatened them with a lawsuit and they sent me a new drive.  Guess what?  It failed.  I would not buy this drive even if it was $20.  This is classic example of you get what you pay for.  Spend a little more money and go with a WD or Seagate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DO NOT BUY IT! </p>
+
+
+<h2> review.date </h2>
+  09-05-2011  
+<h2> review.text </h2>
+
+ <p> I purchased this drive to be used as a storage unit, so speed was not my main interest when I got it. However, it is quite fast when transferring file to/from it. I have copied to it some 1.5TB of data already and the average speed writing to it has been limited by my older drives (~100MBps) although I have seen as high as 115MBps when transferring large files (~5GB) from a faster drive.I have used the hard drive in two ways, using an USB 3.0 external adapter from Syba (SD-ENC50037) and directly to a SATA 3 port on a ASUS U3S6. I can validate that it works on both SATA 2 (3Gbps) and SATA 3 (6GBps) automatically (no jumper setting required), seeing good speeds and no problems so far.I am running a built-in-house desktop with Windows 7 Business 64bit on an Intel architecture (motherboard Intel DX58SO, only SATA 2 and USB 2.0) with an added ASUS U3S6 (as mentioned before) for SATA 3 and USB 3.0 support.The most impressive feature of this drive for me is the noise level. It is very hard to know that it is even there and powered up. Everything else around it is noisier :)I bought this as a tryout because it was set on-sale on the Gold Box last week. I will keep monitoring its price for a while because if I can get another one I will setup a RAID using these drives. So far, I like it very much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like this silent drive. Good performance too. </p>
+
+
+<h2> review.date </h2>
+  09-02-2011  
+<h2> review.text </h2>
+
+ <p> First off will not work with a Drobo.  Drobo registers it as a DOA.  2nd the computer so far thinks of it as a 820 GB drive, even after formatting. Not sure about that.  I am trying to fill it past the 820 mark to see if it wakes up to its 3TB size, not sure.  Could very well get returned.Its getting returned can't get anymore than 800GB's out of it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Problems so far </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> I have been running 9x 3tb drives from this series for about 12 months and a further 8 for about 6 months and am currently upgrading them to the 4tb versions on my RAID array.  They have been reliable and frugal on the power consumption since they drop to around 3w/spindle  when idle and under 1W/spindle in spin down.  These are also true 512b/sector so they mix well with both standard and AF format drives in your array if you are running RAID arrays sensitive to 512byte sector emulation (you ZFS users!)  They also have no issues with timing out during thermal calibration unlike certain other brands.  No failures yet, but the warranty is generous.  Most reviews that talk about failure in the first month days really need to be taken in perspective.  Most electronics will either die shortly after they are powered on, or within 90 days (across most product lines).  Manufacturers can't test each device for 90 days so there will be some failures during or shortly after power on, especially if you consider UPS and USPS &#34;drop kick&#34; and &#34;throw over the gate&#34; handling with something as heavy as a hard disk. It's the reliability from 90 days forward that matter the most, and the length of the warranty.  After all, your hard disks will eventually die, it's not a matter of if, but when.  Otherwise we wouldn't need RAID. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some of the best drives available for NAS/RAID </p>
+
+
+<h2> review.date </h2>
+  01-07-2013  
+<h2> review.text </h2>
+
+ <p> If you should save all your files like movies or TV series or Anime this is the best choice to store all of them and you need to enable the mass storage option in the BIOS option and everything will work fine in NTFS format in W7.Thanks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The perfect choice for all your files. </p>
+
+
+<h2> review.date </h2>
+  07-20-2011  
+<h2> review.text </h2>
+
+ <p> Ok, so I got two of these drives and received them yesterday. So far, I don't have SATA 3 nor UEFI (Unified Extensible Firmware Interface) BIOS (basic input/output system) as I am using a Gigabyte GA-MA790X-UD4P with Windows 7 x64 Professional. The drives arrived in their original box and were well protected.I first installed both drives and saw that during the POST (Power-On Self-Test) they were showing with 3TB, yeah! I then reset the computer and hit CTRL-F which brought me into the RAID configuration where I was able to see the drives and set them up as a RAID (Redundant Array of Independent Disks) 1 (mirrored).I then booted my system and ran the disk manager tool. Big surprise there, the drive was showing only 800GB. I restarted my computer, went to the RAID configuration and deleted my former created RAID 1 and restarted.As I am using an AMD chipset (790X), I downloaded and installed the AMD RAIDxpert ([...]) and started to create the array from the web interface of the software. Magically, I was able to recreate my RAID 1 using the full 3TB (also don't forget to enable the cache on individual drives from the utility).From there, I had to go to the disk manager in Windows to create a GPT (aka GUID) partition and used NTFS (New Technology File System) to quick format the drive. After a few seconds, I was able to use my new 2.72GB partition and ran some tests.Some results:Read full disk: min 45.5MB/s MAX 119.7MB/s AVerage: 88.9MB/s Burst 151.5MB/sWrite full disk: min 49.3MB/s MAX 117.0MB/s AVerage: 86.3MB/s Burst 129.6MB/sFor a drive of this capacity it is pretty good and more than enough for storage and streaming.PROS:High capacityQuietRun coolPrice ($107 for a retail kit, sounds great!)CONS:Cumbersome to set up properlyCannot boot on it unless you have a UEFICannot use the full capacity unless using X64 OS (Vista, 7, 2008, MAC, Linux...)RAID setting is a bit trickySo far it looks like a winner to me or I am a lucky winner according to the reviews here ;o)Further thoughts:Right now I am running a full format of the drive which takes hours in order to make sure that my system really supports it and that there is no issues on the drive itself (bad sectors).Why RAID 1? Well, when you have that much of your precious data on a drive, you don't want to wake up in the morning, turn on your computer and have all your data gone because the drive failed. Using a RAID 1 actually mirrors the data from one disk to another and keeps you up and running in the event of one of the drive fails. It is unlikely that two drives fail at the same time and if it does you would be out of luck. Updated RAID technology can help you if you have the $, the next would be RAID 10, which requires 4 disks and keeps you up and running in the event of 2 failed drives but also provide extra speed as data is read and write on two drives simultaneously.As a side note, using RAID technology is not a good enough reason to not doing backups of your data. RAID doesn't protect against data corruption for instance and if your favorite PowerPoint presentation is corrupted, you will have to retrieve it from your backup as it will be also corrupted on the mirror.I will update this after a few more days spent with the drive. Keeping my finger crossed...UPDATE 07/21/2011-----------------So the full format went well however I ran into an issue down the road but it is not so much because of the drive but more because I haven't thought of doing it beforehand.First, you will need to upgrade your drivers (AHCI / RAID). For AMD CPU, you can go here ([...]) and select your operating system. Not doing so will work too however when you will try to upgrade after your RAID is created, your array might break and your data could be lost. I was also noticing that the drive will show up in RaidXpert as SATA I (1.5Gbps) rather than SATA III (6Gbps). Just download the file, run the setup and it will update both, the AHCI/RAID drivers (3.3.1540.13 or above) and the RaidXpert console (V 3.2.1540.17).Second, restart your computer and create your RAID (or not if you don't need one). In the drive property in RaidXpert you should now see SATA III (6Gbps). When your array is created in RaidXpert, go to the Disk Manager and format using NTFS and GPT mode for the volume. If you select MBR, it'll create a 2GB partition and a 720GB one.Other thoughts 2:The new version of RaidXpert doesn't allow you to choose Write back caching and the Read cache status will be set to "no cache", not sure why but I can't change it in the console. However, Windows enabled write caching automatically on the disk itself as a policy so it shouldn't be a problem for performance. As a matter of fact, I have rerun the benchmark and are pretty similar beside the overhead on the CPU which is around 3% rather than 7%.The new drivers grant you access to the SMART information which is nice as you can retrieve hard drive temperatures and disk health, which is nice to have.I run 3 drives in my Antec 300: 1 SSD (T 30C/86F) and 2 Hitachi 3TB (T 28C/82.4F). The case has two 120mm fans intake blowing on the drives, one intake blowing on the GPU and two exhaust fans (one rear and one top). I am currently running these drives 24/7 in a 79F (26.2C) room. So we can say that the drives run pretty cool so far.UPDATE 12/06/2012-----------------Since I bought them in July 2011 I also acquired a DNS-325 NAS box and decided to put these drives in back in November last year. The drives have been performing well and stay between 35C to 40C inside the box which is not bad. Too bad the flood brought the price so much higher than what I paid for in the first place, I would have bought more. Now, only BH has them for $149 so I'm hoping they will go down again soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost perfect... </p>
+
+
+<h2> review.date </h2>
+  11-10-2011  
+<h2> review.text </h2>
+
+ <p> Works great really fast!!! the reaction time when you are not using the drive its kind of long... but not more than 7 seconds and then works amazing! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fast on 6G </p>
+
+
+<h2> review.date </h2>
+  09-16-2011  
+<h2> review.text </h2>
+
+ <p> Ok: I have a lot of these and have not had one die on me yet or be DOA. There not that fast but I use them for backing up all my important stuff then put them away. Some I use for all my movie and watch them on my movie machine "Ultio Pro" I also bought from amazon. Got all my movies on these drives and use them a lot. I like Hitachi stuff and always had good luck with them in my PC's. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love these </p>
+
+
+<h2> review.date </h2>
+  06-06-2013  
+<h2> review.text </h2>
+
+ <p> I did not realize that this spins down as much as it does with no way to control it. I keep it for backup and its fine for that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ok unit </p>
+
+
+<h2> review.date </h2>
+  08-31-2011  
+<h2> review.text </h2>
+
+ <p> I bought 4 of these when they were on sale.  I liked that they were a retail box, no chance for packing issues.  Got a used Tyan server board and 8 port LSI RAID card for cheap.  Server isn't a spead demon since the RAID card has no cache, but it draws less than 100W and has 9TB of RAID5 storage.  It replaces another box with 8 x 1.5TB drives which draws 400W and will now only be powered up for weekly backups.  I have had bad experiences with WD and Seagate low-power drives and RAID, which is why I tried these.  So far so good.  Will probably buy 4 more of them some day down the road when needed...LONG TERM UPDATE, June 2012:All 4 drives are still working perfectly.  They do not run 24x7, only a few hours a week.  Very happy I got them.ANOTHER UPDATE, October 2013:Added 2 more drives a while back, now have 6.  All are working fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Happy </p>
+
+
+<h2> review.date </h2>
+  12-09-2011  
+<h2> review.text </h2>
+
+ <p> MBR partitions are limited to a maximum of 2.2Terabytes. Accessing beyond 2.2 TB requires a GPT partition. Most drive manufactures will provide a utility to create a GPT partition on their drive. Also provided is a driver for the OS (if not Windows 7 64-bit). Mostly this works. I was able to get the 3TB drive up and running fairly quickly on an XP system. It claimed to be 2.75TB - I didn't try to fill it to confirm the actual size.The 3TB drive was intended to be the boot drive in the new computer I was putting together. I used my older XP system to test the drive - it's easier putting a new PC together if the parts were already tested and configured. Windows 7 64-bit didn't like the partition created by Hitachi's utility and refused to install to it. I suspect Windows was confused because it had both an MBR and a GPT partition - both are necessary but that's another story. Fortunately the fix is simple - use diskpart to recreate the GPT partition from scratch. You will probably also need to use this utility if your drive is new and never had a partition on it before.Windows 7 was now able to install directly onto the 3TB drive. After installing the motherboard drivers, video driver, and Windows updates (300 Meg worth) the drive was now showing a maximum size of 2 TB - 1T had disappeared.  Used space was about 40Gb. I'm guessing Win7 didn't like booting from  a 3TB drive and adjusted it to 2 TB - something it was more comfortable with. I played around with creation of a second partition to try to reclaim the 1TB but disk manager greyed out the necessary options to put a filesystem on it. My other PC had a 1 TB drive which I wasn't going to need once this new PC was together, so I grabbed it and used it for the boot drive. Once the OS was in I tried to use the disk manager utility to recover my 3TB drive and restore its filesystem. The utility let me remove the filesystem on the 2Tb portion but then wouldn't let me combine the two partitions into one- couldn't remove them either.  Back to diskpart (DOS utility) which worked quickly and easily.Now that the 3 TB drive is finally in place and working I can say that I like it a lot. It was much faster than &lt;1TB drives and a bit faster than my 1 TB drive. Overall I am happy with the purchase but it would have been nice to be warned that 3 TB drives are not like other &lt;2.2 TB drives and therefore require special setup and preparations. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watch out, 3TB drives require special handling </p>
+
+
+<h2> review.date </h2>
+  11-15-2011  
+<h2> review.text </h2>
+
+ <p> No problems.  I've had it for a month.  Use it to store video recordings.  Good price/storage/sata channel ratio.  Sometimes seems alittle slow initially.  Runs cool and quietly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good drive </p>
+
+
+<h2> review.date </h2>
+  01-15-2013  
+<h2> review.text </h2>
+
+ <p> The HGST Deskstar 3 TB Internal Hard Drives died 1 year and 3 months after I got them. They were not in constant use. They were used as backup hard drives about once a week or less. They both got the clicking sound of death. They are still under warranty. I plan on sending them in. I will up date about how they handle the problem.Sending them in for warranty is a pain. There are a number of special packing provisions. If you get hard drives save the anti static bags and the end packing modules as you may need them in the future to return a hard drive for warranty.Update: They have a three year warranty. So I am getting two new ones from Hitachi which is really just part of Western Digital now.I have four Hitachi 500 GB hard drives that are in a raid configuration. They have been spinning for years, maybe 7 years. They are obsolete spinning at spinning at 5400. I got the above based on the quality of these hard drives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The two I got died after 1 year 3 months </p>
+
+
+<h2> review.date </h2>
+  07-27-2011  
+<h2> review.text </h2>
+
+ <p> I put the drive in an aluminum eSata/USB 2.0 external enclosure that formerly housed a 2TB external retail drive by Fantom.  It easily formatted to 2.72 TB in Win 7 x64 Home.  Currently using it as a Ghost 15.0 drive and for media storage.  No problems after hours long backup of 1 TB+ of data and media streaming.  Enclosure is ever so slightly warm and nowhere near hot.  It is also extemely quiet...were it not for the enclosure's bright blue power light it'd be hard to know it is even running.  Only negative is that, even as a retail kit the only extra in the box were mounting screws.  No cables or brackets.  I guess 'retail' no longer comes with everything needed to install as an internal drive? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quiet and Cool Great Drive. </p>
+
+
+<h2> review.date </h2>
+  12-12-2011  
+<h2> review.text </h2>
+
+ <p> As the title say's these are very reliable drives.I own 4 3TB and 11 2TB drives in my server. They range in age from 3 months to 1 year. You'll always see reviews saying this or that has died, but I can tell you that overall I have experienced high reliability and highly recommend Hitachi. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hitachi Coolspin's are Reliable Drives </p>
+
+
+<h2> review.date </h2>
+  09-18-2011  
+<h2> review.text </h2>
+
+ <p> I'm not as technically savy as I am ambitious with technology.  As such, I figured that my home network was in need of a network attached storage (NAS).  After months of research, I decided that it would be much cheaper to build my own NAS than purchase one.  All of the commercially available products were as expensive for the product itself (without the hard drives) as my entire NAS build was (with four 3 TB hard drives).  I chose four of these Hitachi Deskstar 3 TB SATA drives simply for their price (they were the lowest-priced 3TB SATA drives I could find).  As I've said before in different reviews, I'm cheap...The good news:  Each drive arrived well packed in original retail packaging.  I promptly installed them into a Cooler Master 4 in 3 drive bay, which was then installed into three drive bays in my mid-tower case.  The hard drives were identified and then I created a ZFS raidz1 volume out of the four 3 TB hard drives in my FreeNAS NAS without a single hitch (giving me approximately 8 TB of total disk space).  I was concerned with hard drive compatibility, large drive sizes, and some misc. other stuff associated with building my own NAS;  all without reason because these drives were exceptionally easy to install.The most difficult part of this install was screwing in the 12 little screws as I attached the drives to the Cooler Master 4 in 3 drive bay.How do they perform?  Well, I'm no techie, so I don't have "serious" benchmark statistics on read/write rates; nor do I particularly care about such.  All I want to know is whether they are working as intended and if they are doing what I expected them to do and they are.  I will say that I had a USB connected 2 TB hard drive nearly full of DVD Rips that I transferred en mass to the newly created ZFS Raidz1 volume I built with these four hard drives as part of my FreeNAS network attached storage.  Over my wired network (10/100), Windows 7 was "saying" in the copying dialogue box that I was transferring at between 9 MB/s and 10 MB/s. however the free tool "DiskBench" was presenting me with a write speed of approximately 6 MB/s and a read speed of approximately 11.5 MB/s while testing the drives in their ZFS raidz1 configuration using a 3.41 GB movie file.  Conversely, the same "DiskBench" tool returned write speeds of nearly 100 MB/s and read speeds of 323 MB/s when I tested the same 3.41 GB movie file on the hard drive installed in my PC.Am I too technically illiterate to realize that I can get a LOT more performance out of these drives if I were to tweak my network, my NAS, or some other component?  I do realize that I could tweak things and get better performance and am researching that now.  However, I am able to stream wirelessly from the NAS to my WDTV and I experience no choppiness or signal degredation that would make viewing a movie or TV show annoying.Cons:  None so far, and that's what really matters to me.  Despite the apparent slow read/write speeds of these drives in my FreeNAS NAS box, I'm satified with them as is.  I'm certain that with a gigabit network and some tweaking of this or that (I'll figure out wha this or that means later), I'll get better performance out of these drives.Would I buy again?  Absolutely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hitachi Deskstar 0S03228 HDD </p>
+
+
+<h2> review.date </h2>
+  11-08-2011  
+<h2> review.text </h2>
+
+ <p> I bought two of these drives to use with Synology DS211J. I was a bit worried when purchasing them, because they were not listed among compatible hard drives on Synology website. I did a great deal of web search, but couldn't find a definitive answer about their compatibility, so I decided to give it a try and I am glad I did. I installed them in RAID1 configuration and they work perfectly with DS211j, no problems at all. In fact, the NAS detects them as model HDS5C3030ALA630, which I believe is listed as a compatible one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Drive for Synology DS211J </p>
+
+
+<h2> review.date </h2>
+  07-18-2011  
+<h2> review.text </h2>
+
+ <p> Well I have about 5 Hitachi 2 Tb drive in my computers. I have had a few of them in different laptops. Fist one that does not work. All it does it clicks. I saw another guy had the same problem with two of them,but I thought he must of just been unlucky. Not!!!!!! Only reason I took the chance is I can send it back at no cost to me. Not going to get another one of these. Will try the Hitachi 7200 rpm or western digital when the price drops. Save yourself some time don't order this at this time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thought this could not be </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00005T3EY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Does the job </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Does the job, but flimsily built. Connecting wires are too short to fit most of the antennas. Connectors detach from the wires too easily. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's inexpensive and it works </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I built a fractal antenna using a template I found online.  I connected it to this transformer and now I get all the local channels in HD with zero dropouts.  Yes, you can buy a Mohu Leaf or a Blade antenna, but they are both over thirty bucks. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Homemade HD Antenna </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-25-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Simple - cheap - worksI used this along with some tinfoil and created a HD Antenna.  It worked exactly and I had hoped and I'm planning on buying several more of these.  I'm very happy with this for my use.FYI - My tinfoil antenna picked up one more station than my $20 RCA antenna and appears to work the same as my $40 LEAF antenna. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works, but a little concerned with the description </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Needed a matching transformer for my antenna, as the old one, in spite of being encased in a &#34;weatherproof&#34; boot, over time got a bit corroded and rusty.This one fits, and works, and seems fine in every way...BUT, it is labeled as an INDOOR matching transformer on the package.  Maybe it says that in the description (I need to check), but I didn't see it when I ordered it.At any rate, I wrapped the heck out of it with electricians tape, and it is working for now.But, if I had known, I would have ordered something else.IF you want something for indoor use, it is OK. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's a balun. It works. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's a balun. I wanted to make a coat hanger tv antenna and I needed one of these. I went to Radio Shack, and you'd think they'd have one of these, but of course, they didn't, so I had to buy on Amazon. In the end, the antenna didn't work all that well, but I think that's because you need better line of sight to the transmitters, so I can't lay the blame on the balun. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works ok </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this to complete my homemade HD antennae (which works amazing! I can pick up all the broadcast HD channels with crystal clear clarity).  So, it works.  However, it is kind of flimsy compared to others I have used in the past.  The length is a little short and the contact points are really, really, week.  Be careful installing it.  I remember purchasing better ones for only $2 years ago.  But, I guess $4 is not all that bad.  It works so far, but the quality takes away a star.  If I have any other problems, I will update my review. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> used to make the binder-clip/CD-case HD antenna </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Okay, so I bought one of these to make the binder-clip/CD-case antenna I saw done on Youtube. I had such crap reception of OTA (Over The Air) free HDTV with my rabbit ears antenna. I figured, maybe this will improve it. But I needed this transformer.Once I got this transformer and assembled everything, my binder-clip/CD-case antenna worked like a champ!! I got about 15 more stations locally than I was getting (I'm in Chicago, which has a lot of free OTA stations, although many are in other languages for local ethnic programming -- primarily Spanish, Korean, Chinese (whether Mandarin or Cantonese, I, uh, can't tell), Indian (whether Hindi, Punjabi, or Tamil, again, I have no idea), and Polish).So, these transformers do what they're supposed to do! Yay. Then I made one of the binder clip/CD case antennas for my sister. She didn't believe me that it would work so well... well, she sure changed her tune when she saw how many &#34;new&#34; OTA stations she got when I attached it and rescanned all channels!!Sometimes, you can make something better than you can buy it. This would be one of those times, although I subsequently found a refurbished &#34;batwing&#34; style flat Radio Shack HD antenna that also works like a champ (but it only got about 4-5 more stations than I was already getting with my binder clip antenna).The flat &#34;batwing&#34; Radio Shack refurbished antenna is not as cheap, but it works well. You don't need this transformer for it, though.Also: to clarify, there's no such thing as an &#34;HD antenna.&#34; You can use old SD (standard definition) rabbit ear antennas with your HD TV and get decent reception. The main thing is that you want the rabbit ears that *also* have the circular UHF part, because that's where most of the HDTV stations reside now (at least in Chicago).But you don't need to buy an antenna specifically for &#34;HD TV.&#34; And you most *certainly* do not need to spend $40, $50 or more on an antenna to get good reception. You can literally MAKE better antennas than the ones you can buy, with a little perseverence and googling. I did! (Full disclosure: before becoming a nurse, I was in IT, so I am not intimidated by some technical stuff like making my own antenna.)My binder-clip antenna works best on a &#34;lazy Susan&#34; that allows it to be positioned in any direction. I put it on a small lazy Susan spice rack so I can tune in one specific channel (CBS 2 in Chicago) that is the hardest channel to get clearly (even on cable!).Needless to say, the antenna can not sit on top of a thin flat screen TV if it is on a lazy Susan so you can turn it this way and that! I put mine on a small shelf. It's not the most esthetic, but it gets the job done very well on the TV in the attic. The 42&#34; HDTV on the first floor has the radio shack batwing antenna, which we mounted flat against a window facing east towards where all the broadcast signals come from (downtown Chicago). That gets very good reception.Have fun making your own antenna! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wire so flimsy but it worked OK. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Not very strong or well built but it worked Ok. Wire so flimsy and it easy to break. I have to solder another wires because the wire broken when I tighten to antenna </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Has low loss </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Tested this with my VHF/UHF antenna here in Manhattan.  Using the prior transformer with my indoor antenna, I was have periodic reception problems due to lower db signal.  This improved the signal. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Item as pictured, but doesn't work. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I guess if you order something that was crap back in the 1980's you should expect it to still be crap. Would have loved to use it to adapt a 100 foot coaxial TV antenna to FM antenna on the stereo, but alas I'm left with wedging the antenna cable in there as before. The coaxial adapter clearly has a break inside somewhere, never even got a peep of signal through it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Cheap little part that makes a huge difference, changed out the one on my HD roof top antenna and it looks great now. used automotive under spray to seal it up,  6 months of Chicago weather, so far perfect. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-31-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Put it on my antenna and it work great, now i can get air t. v. i love it all the more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> it works </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I broke the one that came with my large antenna a while back. This was a viable replacement. It was a little small, but just barely fit. Too bad I don't get more OTA channels. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just needed one of these to convert from my rabbit ears coaxial to the 300 ohm input on the tuner. It works great and now I get much better reception. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Product arrived on time - product installed and worked as expected - would recommend anyone to order this item </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It just works! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-09-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> There's not really much to say, the transformer works fine, and the included black boot for waterproofing the RCA connection fits well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> RCA  =  bad quality </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This part is so bad & almost broke, yet still works. Seems like cheap quality, got another wave matching transformer same price but better quality </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Quality Replacement for Inferior Transformers </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-17-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love the RCA751 outdoor antenna.  It works great.  But the transformer it comes with is a piece of junk; many reviews for this antenna will verify that the bundled transformer is poorly made.This transformer has gold plated leads on both sides and the plastic sheathing feels more secure than the old transformer that I removed.  Signal quality of my picture is still crystal clear.  This is an excellent upgrade to the stock transformer.A MUST BUY IF YOU WANT TO SETUP AN HDTV ANTENNA ON YOUR HOUSE... you use HDMI cables, RG6 cable, and you won't spend 3 bucks on a high quality transformer to make it all work??? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Helped clear up my signal from antenna. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Was having some signal issues with my new antenna (cord cutter) and read some reviews that this device will help that signal.  It did.  Easy and cheap fix. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Don't believe the list price </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This RCA balun has a list price of $75.99; very misleading. It looks like something you would by off the rack at K-mart for about $4.99 at most. It's packaged in a rack hanging blister pack. Don't expect much; cheap Chinese built product with a old trusted brand name.Attached it to a home built antenna and the spade clip ends came off, ended up soldering them to my connectors. The Coax connection was typical of a cheap product and did not feel like it really connected well. It was worth the $2.50 with free shipping but don't expect a higher quality product because of the list price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Needed an HDTV antenna... </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This matching transformer is a MUST to building an inexpensive and functioning antenna for local HD TV channels.  Check out YOUTUBE for directions in building your own. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for DIY HD antenna build </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Inexpensive and shipped quickly for the DIY interior HD antenna project.  Quality construction, feels durable and should last a long time.  Perfect for this project </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Don't over-tighten Coax Cable </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this device to hook up a homemade antenna to my TV while home for the summer from college. The transformer worked FANTASTICALLY. I signal I received via OTA channels was excellent and for a small dollar amount, I could not be happier. After testing, I went for a more permanent install and when reassembling everything, I accidentally over-tightened the COAX cable and broke the device. I ended up reordering this and a few other devices of similar specs (frequency, etc.) and they have all functioned fantastically as long as the cable was attached gingerly.(Note: I'm leaving this same review on all the devices I bought that are similar to this since what I'm saying here applies to all - the fact that it is working wonderfully and needs care when installing) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Better than I had </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This transformer should have been the one they shipped with the RCA antenna instead of the cheapo it came with.By cheapo I mean the quality.This transformer is working great! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Seems to work just fine. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have no other Matching Transformer to compare it to, but it seems to get the signal from the antenna to my radio without any loss. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Build your own TV antenna. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I used this transformer to build my own HDTV antenna based on the how-to on Lifehacker. I can now receive all 24 of the OTA channels available in my area! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This matching transformer rocks </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Its a matching transformer, it does its job well which is shocking for anything or anyone nowadays. Super pleased with it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

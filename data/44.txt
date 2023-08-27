@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B001MKCALY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> I run a mobile computer repair and I've found this type of tester to be very durable and long lasting. Unlike the Rosewill that died on me after only a few tests. I've even had them smoke in the past and continued to work fine! My guess is that it is the same quality parts as it functions the same.Company was great when I asked about the shipping and contacted me quickly to let me know that the time was false and it would arrive with in normal USPS shipping times which it did.If you need instructions search on Youtube for a how to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality PSU Tester. </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> Helps to eliminate any question marks when dealing with your computer power supply. Every builder or repair guy needs one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works great </p>
+
+
+<h2> review.date </h2>
+  01-27-2013  
+<h2> review.text </h2>
+
+ <p> I used this as a display for a home made power supply made from an old computer power supply, this display and binding posts.  I found a website to help with the conversion and done!  I don't remember the pinout numbers, but you have to put power to one of the pins to make newer power supplies function fully.  Please do not attemp if you do not know what you are doing! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great as a display for a home made power supply display! </p>
+
+
+<h2> review.date </h2>
+  11-23-2013  
+<h2> review.text </h2>
+
+ <p> Have received PSU tester.  No original packaging or instructions. Product came in a zip lock bag marked new.  Ad clearly shows product in package.  I was informed that the instruction were printed on the back of the package.  What is up with this? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Where Are The Instruction </p>
+
+
+<h2> review.date </h2>
+  06-25-2012  
+<h2> review.text </h2>
+
+ <p> this product is awsome, it has saved me a lot of time and money, for anyone who is into repairing pcs and such, then this product will save you lots of time and money </p>
+
+
+<h2> review.summary </h2>
+
+ <p> as good as it gets </p>
+
+
+<h2> review.date </h2>
+  06-03-2012  
+<h2> review.text </h2>
+
+ <p> My first time using this it was a bit confusing because leaving one of the connectors out would cause it to beep and show LL on the display but plugging that connector in (I think it was the 12V+) it would show the voltages.. but then it says you can't plug in two things at once. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad but... </p>
+
+
+<h2> review.date </h2>
+  07-11-2013  
+<h2> review.text </h2>
+
+ <p> The unit is easy to read and is pretty much straight forward in operation.  That's a good thing, because the instructions are lame.  Almost out of the box, I found a bad PSU.  It actually showed a fluctuating output that I wasn't aware of.  My computer was working ok, but I'm sure it wouldn't last too long with bad power.  I like it so much and it works so well, I still gave it 5 stars.  In spite of the lack of clear instructions.  If you still need additional documentation, there's a lot of good info on line. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Tool </p>
+
+
+<h2> review.date </h2>
+  06-08-2014  
+<h2> review.text </h2>
+
+ <p> I've used these style power supply tester for the past 6 years and I love it. Easy to understand, super portable, and life saving... at least system saving! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple and effective! </p>
+
+
+<h2> review.date </h2>
+  11-02-2013  
+<h2> review.text </h2>
+
+ <p> worked great at a great price. this thing helps me identify problems when fixing pc's for myself and friends who are always bringing me their stuff to check. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> awsome </p>
+
+
+<h2> review.date </h2>
+  05-21-2013  
+<h2> review.text </h2>
+
+ <p> This shipped quickly. It seems to measure most of the items, but does not seem to differentiate between the two 6-pin connectors, so if you have one or both of them plugged in at the same time, there is no difference that I could see on the readout. All other connectors read how you would expect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good, but not great </p>
+
+
+<h2> review.date </h2>
+  12-29-2012  
+<h2> review.text </h2>
+
+ <p> I highly recommend this tester over the others that work on LEDs alone.  It saved my new motherboard and hard drives.  I used an LED only model that indicated my power supply was good.  When I tested the power supply with this unit, it showed the 12 volt rail on the power supply had failed to the high side: it had smoked my old motherboard and two hard drives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Performs well </p>
+
+
+<h2> review.date </h2>
+  11-08-2013  
+<h2> review.text </h2>
+
+ <p> Works great. It has a nice large display. Easy to read. Nice construction . If you build computers its really handy to have around. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as advertised </p>
+
+
+<h2> review.date </h2>
+  02-13-2012  
+<h2> review.text </h2>
+
+ <p> It works, just connect all connectors to it, I recommend first connecting all the SATA, ATA 8/6/4-pin first and then the 20-24pin </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It Works ! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00F5ISG94 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> Hotness Incarnate lol....sometimes love just comes at us and is all consuming and sexy and completely unexpected..that's the Butterfly House...the characters are hottt! Then the moments of suspense and "what the heck happened" are all worth it. Such a great read....and Sam...good ol hot Sam....I can't wait for his and Angela's story :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Butterfly House </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> I was given an early ARC copy of The Butterfly House by Lori Meckley to read and review. A hard working college girl with a secret and a lonely business man afraid to trust in love again. When Nolan walks into The Butterfly House their worlds were destined to collide. Ava is a college student/family girl by day and turns herself into Lotus at night. She dances and sings and removes her clothing for money, it makes her feel ashamed, but she desperatly needs the money for the secret she is harboring. What I lilke about this book is that the characters are so down to earth and easy to love. These are two people who really bring out the best in eachother and help eachother to overcome their fears. Nolan sees Ava, the person behind Lotus, not just an exotic dancer but as an artist, a beautiful women, and a overall good person. Nolan is an artist in his own right manipulating glass to creature beautiful projects in his business, something that has made him very successful. I think that the two characters are both good at what they do which both professions, while not as typical, are a type of art form which is another thing I enjoyed about the story. I feel that Lori does a great job of exploring the depth of her characters beyond their good looks, sex appeal, and their unique professions. The Butterfly House is an erotic romance with a touch of action and suspense and a lot of heart. Overall a great read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A refreshing combination of sweet and sexy </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed Butterfly House. It was a quick read. I was kind of hoping for more building when it came to their relationship but it was still good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick Read </p>
+
+
+<h2> review.date </h2>
+  10-03-2013  
+<h2> review.text </h2>
+
+ <p> I love the way Lori Meckley weaves a tale; I almost feel like I'm spying on the characters rather than listening to the protagonist tell a story. I'm looking forward to being a fly on the wall of her next book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Emerging Author to Watch! </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> "I like the technique the way it's written, it's direct to the point and not a lot of explanation how they feel or sometimes it takes half a chapter to get to it. Not this book.An attraction they don't have control over, a strong pull, why fight it??I enjoyed it. Can't wait for the next book, it's Angela and Sam's story this time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strong pull between two people </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> *I received a copy of The Butterfly House for review*I really enjoyed this read! I wasn't sure if I would be able to get into the multiply point of views, but once the story took off I found that it did set the story up great. The characters where really easy to get into and I found that sense of loss when I hit the last page. I cant wait to see what else is in store for The Butterfly House. I recommend this book to all mature readers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> couldnt put down </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> *Advanced Reading Copy*I had the greatest pleasure viewing The Butterfly House by author Lori Meckley. The author has once again taken me into another world, weaving suspense and flutterworthy scenes into the storyline kept me glued to the Kindle Fire. The Butterfly House envelops your mind and fits like a glove. I really enjoyed its refreshness...Creative and unique plot with a twist (or two!), excellent editing, sexy cover with a nice pop of color, and sweet innocent budding romance earned The Butterfly House 5 solid stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Refreshing...Sweet Budding Romance </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> Absolutely loved this book. I got so caught up in the characters, storyline, EVERYTHING! This is a must read and I can't wait to see what happens with Sam and Angela and baby Miles. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely Amazing! </p>
+
+
+<h2> review.date </h2>
+  11-02-2013  
+<h2> review.text </h2>
+
+ <p> This was a intriging read and look forward to more.Nolan Walker, Owner of Walker Deviant Glass Designs steps into The Butterfly House, he is captivated by her but he has been hurt before and doesn't want to risk his heart again but he is drawn to herAva Wild known by many as the Lotus at The Butterfly House, she isn't looking for love, she has alot on her plate and very little free time.There were some intriging,mysterious scenes and hot scenes </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a very interesting read </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> With each book Lori Meckley's writing just gets better and better. This new offering has IT ALL. We have innocence, evil, sweetness and a bit of smut. Nolan is swoonworthy and Ava is just the sweetest heroine a book worm could ask for. The sexual tension is so sharp you can cut it with a knife and there is mystery and romance and suspense!! I could just go on and on. Loved this book!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Read </p>
+
+
+<h2> review.date </h2>
+  06-08-2014  
+<h2> review.text </h2>
+
+ <p> Let me introduce you to BUTTERFLY HOUSE. A member only club where men can go and relax and watch some beautiful women erotically take their clothes off. Ava Wild is working there for some very good reasons. She needs the money for school and to help pay for medical bills. She isn't looking for a sugar daddy to help her, or any man at all . Until Nolan Walker walked into the club with a business partner of his, Sam.Nolan couldn't take his eyes of the beautiful redhead that sang and stripped for the customers.Nolan has hidden from the world since his break up . He was torn to shreds and doesn't trust to much until that night in the BUTTERFLY HOUSE where he met Lotus aka Ava . They are both scared but so want to be with each other. Will they find their way to each other and will Ava tell Nolan about baby Miles .I was truly happy when I started this book , there was no obnoxious alpha male in the book . Just a man who was hurt and is trying to take a chance and start again. With a beautiful girl, who is more then just an exotic dancer.  The characters are so well written that you will fall in love with all of them, even baby Miles. You want to cheer them on and hope and pray that they don't screw everything up. They are so humble and so well meaning. The way Lori wrote them . you think that he could be your boyfriend. Ava didn't need a knight in shining armor. But when it comes down to it and when her life is in danger, he proves that he can handle anything that is thrown his way.This book is written in the first person and there are some people that don't like that , but I did . This book was meant to be written in the first person. Lori did a great job with all three points of view. She even did a great job in writing Angel in the first person . Not going to tell you anymore about Angel cause then I will be giving up the whole story. You need to read the story to find out . LOL. Even being written in the first person the flow of the story was great. It was a page turner I read it in an evening, couldn't put it down.You are probably wondering why I picked this book , well honestly ladies . I was getting pretty tired of the brooding alpha male that just takes and takes.  I guess I needed a little Nolan in my life.  A guy that is humble and in love with a woman that is more then her jobSo if you want a sweet story that does have sex, You need to check out THE BUTTERFLY HOUSE . You won't be disappointed I promise you . A great summer read for the pool </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great summer read </p>
+
+
+<h2> review.date </h2>
+  11-25-2013  
+<h2> review.text </h2>
+
+ <p> Well Done.  Meckley has done an awesome job with this book.  The story is well written and flows well.  I couldn't put it down. The glass industry is amazing and to have it included in this story, to me,  is a plus.  You can visualize all they are speaking of in the story.  Every detail of the house,  the costumes,  the music, helps MAKE THE STORY.  I can not wait to see what Meckley has in store for these characters in the next book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVED IT </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

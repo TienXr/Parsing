@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B005AJX9MW <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-26-2013  
+<h2> review.text </h2>
+
+ <p> The price was right. It arrived on time. It works as advertised. It just doesn't get any better than this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> All as advertised </p>
+
+
+<h2> review.date </h2>
+  01-06-2014  
+<h2> review.text </h2>
+
+ <p> Easy to install and very handy! This comes in handy when your motherboard has a USB3 plug and you don't have a USB3 cable with the plug end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to install and very handy! </p>
+
+
+<h2> review.date </h2>
+  06-22-2013  
+<h2> review.text </h2>
+
+ <p> I use this for a USB software protection dongle that cannot leave the machine it is used with (to prevent user error and simple malice). With this adapter the dongle lives inconspicuously on the inside of the case, without cables being fed back outside, etc.For this build, the internal USB3 port connecter was not needed for connection of any external ports. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent little adapter </p>
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> I had my USB ports break on my computer case and needed a replacement. While I couldn't find the right match when I bought this and zip-tied it into place it works amazingly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> This adapter works great with my asus board. No problems here. I dont know what to say about it but that its ok. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ok </p>
+
+
+<h2> review.date </h2>
+  11-02-2013  
+<h2> review.text </h2>
+
+ <p> Received quickly and does the job. Sturdy connector that Supports 2-Port USB 3.0 A Female to 20 PIN Adapter. I bought it to connect the front USB on my pc case to the MB.  Would buy again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works! </p>
+
+
+<h2> review.date </h2>
+  01-31-2014  
+<h2> review.text </h2>
+
+ <p> After getting a Thermaltake Commander (black) case I found that the usb3 port was not a header like the white and red displayed in the store, but a male usb3 end. I had been aquiring the parts to build my new computer peice by peice so the return time when I discovered this had expired.This adapter did the trick. The retail store only sold adapters with a 6&#34; cable attached. This was a better fix for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what the Dortor ordered </p>
+
+
+<h2> review.date </h2>
+  06-02-2013  
+<h2> review.text </h2>
+
+ <p> The port that connects to the motherboard is too fat. It collides with a SATA port on my motherboard (MSI FM2-A75IA-E53). I forced it in and tried pulling it out and it pulled out the plastic cover of the SATA connector from my motherboard! I pushed it back in and am just leaving it alone but I am not happy with it. It does work as I've tested my front USB ports which connect to these adapter. If they could make this device skinnier where it connects to the motherboard it would be a 5 star product. I might try shaving some of the plastic off one of these days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good idea, bad implementation </p>
+
+
+<h2> review.date </h2>
+  06-04-2013  
+<h2> review.text </h2>
+
+ <p> Building my own computer I fount a USB 3.0 plug in but not compatible with the 20 pin header on the motherboard.  I would have has to rout the cable for the case outside of the case and plug it into the back of the case.  Fortunately I found this adapter and I just had to plug it into my motherboard and plug the case wire ti it.  I can keep everything nice and internal, without ugly wires hanging out of the case.  Ahain yay to Amazon, I couldn't find this on any of the other &#34;big&#34; sites like new-egg, tiger and micro center.My apologies to those computer experts, I don't know the direct terms, and right now am on so much cold meds I am happy I can type somewhat coherently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what I needed! </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> Works perfect and excellent quality. The exact adapter needed to add the front panel card reader and USB adapter. Amazon Rocks! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Real Gem </p>
+
+
+<h2> review.date </h2>
+  11-19-2013  
+<h2> review.text </h2>
+
+ <p> It doesn't even work properly. Wish I never bought it. Hate having to find out which works for my Obsidian 650D.Test: Copy folder (size:9 GBs) onto USB 3.0 flash drive using this adapter and Corsair Obsidian 650D case USB 3.0 port. It's stuck... at the first few seconds. Transfer speed says 78.0 MB/second. Still stuck and not completing.Copies small files fine like for example a word document.Bugs me to know I invested money in something that doesn't work properly because I move a lot of big size files around using USB 3.0 especially with ASUS's USB 3.0 Boost reaching at least 200 MB/second in most cases.Something's just really wrong with it. Definitely not the case since I plugged the case's USB 3.0 before to the rear I/O and was working fine.And so please, another note if you're buying a case, make sure it has the 20 pin header so you don't have to deal with finding an adapter.I'm going to try filing a claim or something to get my money back even if it's just a few bucks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BLEHHH </p>
+
+
+<h2> review.date </h2>
+  04-01-2013  
+<h2> review.text </h2>
+
+ <p> The new ASUS motherboards are incorporating an onboard 3.0 Dual (20-1 pin) USB connector.  However, they do not provide an adapter to connnect it to standaard single USB cables.  This Adapter is a perfect solution to the problem! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2-Port USB 3.0 A Female to 20 PIN Adapter </p>
+
+
+<h2> review.date </h2>
+  01-01-2014  
+<h2> review.text </h2>
+
+ <p> Although my motherboard has a 20-pin USB connector, this adapter will not fit because the motherboard power supply connector is too close to the 20-pin USB connector.  Because this adapter flares out at the top to accommodate the two USB connectors, the USB adapter and the power supply connector get in each others' way.I have a msi Z77A-G42 motherboard btw. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Be careful! This might not fit on your motherboard because of other motherboard components. </p>
+
+
+<h2> review.date </h2>
+  01-06-2013  
+<h2> review.text </h2>
+
+ <p> It works, but it's not a very tight fit in the USB 3.0 header on my motherboard.  The thick cables that attache to it keep pulling one side loose and that USB port keeps failing until I readjust cable.If you can find something that attaches the USB 3.0 front panel ports directly to the motherboard header - buy that instead. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's OK </p>
+
+
+<h2> review.date </h2>
+  01-03-2014  
+<h2> review.text </h2>
+
+ <p> I have a case that was made right before the USB 3 headers became standard on them. So this let me avoid having to run USB 3 cables out the back of my case to the motherboard. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> perfect for those who still have older cases without USB3 header cables </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

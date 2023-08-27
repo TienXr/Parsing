@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001BJTDH0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> Does exactly wat it supposed to got my xbox in the other room and dont trust wireless so got this wire and have no lag or any of those issues </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Cable </p>
+
+
+<h2> review.date </h2>
+  02-11-2012  
+<h2> review.text </h2>
+
+ <p> The cables came quickly enough and were long enough to cover the distance needed. Good for the price and I don't see any problems with the cables as they are. The connectors on the ends seem to be well made and have a shield to protect the breakable clip that holds the cable in. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what I needed it to do. </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> i bought this for my brother because i sold his wireless adapter and he got mad because he wanted to play on his xbox. So i got him this it is truely huge it reached across the kitchen to the living room so i only needed 50 feet. only problem is is that sometimes it disconnects from the internet for 10 -20 seconds but not that often </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works almost perfectely </p>
+
+
+<h2> review.date </h2>
+  04-27-2012  
+<h2> review.text </h2>
+
+ <p> With as much vulnerability that is there to be able to access other networks that use wireless routers, this hard wire cable makes it harder for anyone (or neighbors) to gain access to your private networks, is made well, has excellent connection points, and works great for such a long run from an old wired router. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great product </p>
+
+
+<h2> review.date </h2>
+  10-20-2012  
+<h2> review.text </h2>
+
+ <p> I have purchased other cable that feels cheap and flimsy...this cable is well made and the ends are not all crimped.  Works great for adding computers to my home network where Wi-Fi is not an option. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality </p>
+
+
+<h2> review.date </h2>
+  09-30-2013  
+<h2> review.text </h2>
+
+ <p> great product for the price and quick shipping too!! I would highly recommend. the quality of the cable is what I expected- not bad at all </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great price, quick shipping </p>
+
+
+<h2> review.date </h2>
+  01-31-2014  
+<h2> review.text </h2>
+
+ <p> I actually have cut many cables out of this roll so far and all of them work fine. Nice cable, pairs twisted, good isolation, thread inside. It's not the top-notch cable but it definitely does the job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great cable for home lan </p>
+
+
+<h2> review.date </h2>
+  01-27-2013  
+<h2> review.text </h2>
+
+ <p> Can't go wrong with this product. Works great! I should have bought more. Will recommend to all my family and friends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+
+<h2> review.date </h2>
+  11-25-2012  
+<h2> review.text </h2>
+
+ <p> I bought this 100 foot Ethernet cable to wire my Roku2  ( Bye Bye Comcast ! ) that I had installed on my  livingroom tv to my router which was in my bedroom. The Roku 2  can be hooked up wirelessly or wired, but I read that HD comes in much better if the Roku is wired and after installing this wire I can confirm that is true. Much better picture now  with this wire!! Good wire, good price!! Can't go wrong here! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DID THE JOB </p>
+
+
+<h2> review.date </h2>
+  11-18-2012  
+<h2> review.text </h2>
+
+ <p> Needed this product for connecting my Roku to my router. Roku worked with the wireless setup but this cable provided a much better/faster connection without buffering and hesitation issues I had with the wireless connection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good cable at a very good price. </p>
+
+
+<h2> review.date </h2>
+  08-29-2013  
+<h2> review.text </h2>
+
+ <p> This is great for when you dont want to go wireless and you want to be hard wired in. I use this for my xbox360 even though it has wireless hook up. Better fps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I needed to be hard wired in my bedroom! </p>
+
+
+<h2> review.date </h2>
+  05-20-2014  
+<h2> review.text </h2>
+
+ <p> JUST WHAT I NEEDED TO PUT MY WIFI ROUTER CLOSE TO WHERE I USE MY LAPTOP. I RECOMMEND THIS ITEM. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WORKS GREAT </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

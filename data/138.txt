@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00D1A5OR0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great motherboard. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Runs great, three system fan headers and a CPU fan header, so plenty of fans to hook up for a mid range build. No issues at all, came with the 2nd to latest BIOS, which is nice. The USB 3.0 header is nice, with quite a few 2.0 headers.No problems whatsoever, I recommend this to anyone building a budget mid range Intel build. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Used for a home server build </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was perfectly priced (I got it for around $75) for a server build that I wanted to do. Since I am not gaming with it, then I don't need all the extra stuff.I put a Xeon E3 1275-V3 in it for the CPU and it works great!I've got Corsair XMS RAM and even a Cooler Master T4 CPU cooler in it. (The T4 was kind of a tight fit, but I made it work).I put this in a Cooler Master N200 and it fits very nicely.The only thing it doesn't have that would have been nice is compatibility for ECC RAM. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wish it came in a black pcb and a better UEFI BIOS </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wish it came in a black pcb and a better UEFI BIOS, but you get yo what you pay for. It works can support everything it claims. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Budget Board </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Got this motherboard (mobo) for $73 + $10 rebate.I have 2x of these motherboards and have no problems with it. If problems develop, I will update this review immediately.It looks beautiful in the case (coolermaster N200). Easy installation, its nearly impossible to plug the wrong wire into the wrong plug.Great budget board for basic system or business system. Even most "gamers" will actually be satisfied with the features on this board. This mobo has all of the basics. However, this board is definitely a deal breaker if you are looking for multiple graphics card support (SLI/Crossfire) OR Overclocking support.This mobo is a B85 mobo. If you are looking for a bit more features, I recommend getting a z87 mobo. z87 has all of the gaming/enthusiast features and is actually usually very good bang for buck because of high supply and demand.Rule of thumb: if you actually plan on using crossfire, find a board that also supports SLI. Crossfire is really lax on requirements for "support."Supports multiple monitors.Here is a list of whats on the board:LGA 1150 (Intel ix-4xxx)4 DDR3 RAM slots (32GB)4 SATA3 6GB/s (White, plug your SSD here)2 SATA2 3Gb/s (Black)3 System Fan1 USB 3.0 Header2 USB 2.0 Header2 PCI-E2 PCI+ MoreBack Panel:1 PS/2 Keyboard/Mouse4 USB 2.02 USB 3.01 DVI1 VGA1 HDMI1 Realtek Ethernet (Good. Not as good as Intel)6 Audio (ALC892. Good but not as good as ALC889) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good MicroATX Board for Socket 1150 </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Built a machine for a friend, and the build went off without a hitch. It reminds me of a micro version of my Gigabyte Extended ATX board, packing in a good amount of features for it's size. The only caveat is the limitation to 6 sata ports, but I suppose I'm accustomed to larger boards. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> BEST MOBO FOR THESE MONEY! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> One of the better for the money the motherboard ... very good in all matters'm gamer so I can say with accuracy that with this native may be IN a powerful machine!Also it has a Usb 3.0 ports and u can apply more usb 3.0 connect to the mobo.it has also the ddr3 1600mhz that u can unlock the rams veeeery easy by settings from the bios...New bios version that helps a lot...No matter what u want to build this mobo for this bugget kicks assesss Enjoy! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good board </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It solid and does what I need with a good price. It is not a high end board, but you can't beat it for the price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> works for my needs </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> fried my dell.  the only thing i was able to salvage were the dvd drive and the cpu.  i had never built a computer before but figured what the heck.  i did my research to see what i needed and this was a pretty inexpensive mobo in the format i needed.  I'm very happy with how it works, I'm actually using it to write this review.  fyi.  i don't game.  i can only tell you it works for my needs which are very basic, e-mail, web, amazon, ect.  i recommend this mobo </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Easy to set up, working great so far. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> No problems with this motherboard. Does exactly what it advertises. I liked that it had the front-side USB 3.0 headers since I have a case with frontal USB ports. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome performance </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> My old Dell desktop was becoming a bit wonky, so my son suggested that he could build me a computer that would be fast enough for my needs (I&#8217;m a medium user, no gaming other than Facebook, but work with photos, web design and a lot of browsing so require substantial speed and memory) and which would eliminate the added software that comes with a purchased system. Also, the new computer would be more reliable and efficient than my old desktop.We selected an i5 CPU and paired it with this Gigabyte LGA 1150 Intel B85 motherboard and loads of memory. I am loving this setup which allows me to do everything with blazing speed and superb performance. Here&#8217;s what you get with this motherboard:&#8226; CPU: Support Intel Core i7/i5/i3 in LGA 1150 package&#8226; Memory: 4 x 1.5V DDR3 DIMM sockets supporting up to 32 GB of system memory; DDR3 1600/1333 MHz&#8226; D-Sub, DVI-D, HDMI&#8226; LAN: Realtek GbE LAN chip (10/100/1000 Mbit)&#8226; Expansion Slots: 1 x PCI Express x16 slot, running at x16 (PCIEX16);1 x PCI Express x16 slot, running at x4 (PCIEX4); 2 x PCI slots&#8226; Support for AMD CrossFire technologyI noticed a couple of reviewers mentioned the motherboard failed shortly after installation. This one is paired with an Intel Core i5-4430 Quad-Core 3.0 ghz 6mb Desktop Processor and it has been in constant use for three months without a decrease in performance. I am running Windows 7. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> good! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

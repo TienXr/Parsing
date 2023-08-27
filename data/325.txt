@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1590213092 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-21-2011  
+<h2> review.text </h2>
+
+ <p> "The German" is a unique thriller that takes place during World War II, focusing on happenings in a small Texas town with a significant German population.  One of those is Ernst Lang, a military man who seems to recall an impossible military past (including his own torture and execution), and who has had brief affairs with some of the local men.  When a local boy is found murdered, with evidence to suggest that the killer is pro-Nazi, many of the locals suspect their various German neighbors, including Lang, and it is Sheriff Tom Rabbit's job to investigate while keeping tempers from flaring into violence.  We also hear from Tim Randall, a boy who lives across the street from Lang, and whose father is missing in action.  The three alternate as narrator, developing a rather involved mystery and character study of how we may inadvertently learn to judge those who may be different from us.Author Thomas is a master of the "speculative horror-mystery" genre, which I previously enjoyed in his "The Dust of Wonderland."  This book is equally creative, and is an engrossing read that works on different levels for a variety of readers.  Five stars out of five.- Bob Lind, Echo Magazine </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unique, intelligent mystery teaches a lesson as well. </p>
+
+
+<h2> review.date </h2>
+  07-08-2011  
+<h2> review.text </h2>
+
+ <p> This was a great book, reminiscent of Jack Ketchum's "The Girl Next Door". I've heard some question whether or not it is traditional horror, but I believe that it is. It's human darkness at its dazzling best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must Read! </p>
+
+
+<h2> review.date </h2>
+  05-04-2011  
+<h2> review.text </h2>
+
+ <p> Lee Thomas' THE GERMAN is an extraordinary novel of secrets and terror set in WWII-era Texas that unsettlingly mirrors much of the finger-pointing paranoia we see in the present. Much like Jack Ketchum's masterpiece THE GIRL NEXT DOOR, Thomas' incredible novel disturbed me deeply enough to want to look away from the page, yet find myself unable to do so. It is written with such grace and the characters are so rich and complex; this is the sort of masterfully written novel in which the reader becomes momentarily lost and totally absorbed. As a murder mystery, THE GERMAN definitely keeps you guessing and maintains a high level of suspense, but it is also much more than that. It is a deep character study not only of the torn, troubled and confused characters Thomas creates, but of an entire society afraid of itself. Very highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A haunting, terrifying and tragic novel </p>
+
+
+<h2> review.date </h2>
+  11-18-2011  
+<h2> review.text </h2>
+
+ <p> Set in a small Texas town during World War Two, the novel is told from three points of view: the widowed, somewhat dim sheriff; a teenage boy with more curiosity than common sense; a former subordinate of Ernst R&ouml;hm who fled Germany after the Night of the Long Knives. The German has no use for women and prefers the company of men. The bodies of ritualistically murdered boys start turning up. Barbarism erupts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Texas Chill Country </p>
+
+
+<h2> review.date </h2>
+  01-25-2013  
+<h2> review.text </h2>
+
+ <p> The German had been on my reading list since its release by Lethe Press in March 2011. I was finally able to get to it in late 2012 and read it in virtually one sitting. As a long-time reader of the suspense/thriller and horror fiction, over the years I've read my share of both well-written and utterly forgettable stories in these sub-genres. However, it's been a long while since I've read a story of this calibre of excellence.The story takes place in 1944 at the height of the Second World War. The setting is small town Barnard, Texas, where, as elsewhere in America, the war effort is a matter of daily life, patriotism is rife, there are good guys and bad guys and the world is black and white. The town has a sizeable ex-patriot German population, and like most immigrant groups they are hard working, try to fit in and have achieved a level of co-existence with their non-German neighbours. However, already a suspect group due to Hitler and the Nazis, their fragile peace is shattered when a series of calculated and gruesome murders of the town's young men and boys begin to take place. The only clues the killer leaves behind are painted snuffboxes containing notes written in German.Inevitably the town's inhabitants of German descent become the suspects, and eventually eyes turn to a quiet man with secrets of his own. Ernst Lang fled Germany in 1934. Once a brute, a soldier, a leader of the Nazi party, he has renounced aggression and now embraces a peaceful obscurity only wanting to be left to his solitary pursuits of chair making. But Lang is haunted by an impossible past. He remembers his own execution and the extremes of sex and violence that led to it. He remembers the men he led into battle, the men he seduced, and the men who betrayed him. But are these the memories of a man given a second life, or the delusions of a lunatic?As community panic of the monster lurking amongst them sets in, the town's sheriff, Tom Rabbit, and his men are baffled by the crimes and increasingly challenged to apprehend the serial killer, and at the same time ensure that law and order are maintained.The German is an exquisitely written, chilling suspense thriller with elements of horror fiction that chronicles the unravelling of a town as a result of fear and paranoia. While the central plot is focussed on the mystery of the serial killer that is terrorizing the town by mutilating and killing it's young men and boys, at the same time Mr. Thomas explores the violence and evil that lurks amongst the townspeople when some succumb to their baser instincts brought about by ignorance, fear and prejudice.The story is narrated through the voices of three key characters: the first person narration through diary entries of Ernst Lang; the first person narration in retrospective by Tim Randall, the boy who lives across the street from Ernst; and the third person introspection of Sheriff Lamb. The author alternates between these three voices to unfold a page-turning story.The character of Ernst Lang represents that aspect of the outsider within Barnard. Ernst is far from being a perfect man. He has both perpetrated and experienced brutal violence, but in coming to America has left all that behind and wants to be left alone to go about his life peacefully. His only sins in the eyes of the townspeople are that he is German and gay.Tim Randall is a young man who lives with his mother while his father is overseas fighting the "Krauts". As Ernst's neighbour, Tim is both fascinated by and apprehensive of the man, but his curiosity wins out and he forms a friendship of sorts with him. Ernst even tries to educate Tim and his best friend Bum against prejudice and hate. But when Tim and Bum spy on Ernst and discover him having sex with another man Tim becomes convinced that Ernst is the killer. This, coupled with Tim's grief and fear over his father, who is declared missing in action, motivate him to join forces with some unsavoury town elements bent on taking matters into their own hands and making Ernst the scapegoat.There are two lone voices of reason and compassion in this story, those of Sheriff Lamb and Bum. Sheriff Lamb is fundamentally a decent and fair man. Although he is also a product of his environment in respect of his views on homosexuality, his sense of justice dictates that he condemn no man without evidence or because he is gay. He faces several challenges both in solving the ghastly murders and in keeping at bay the mounting sense of vigilantism within Barnard. While no part of the story is written from the perspective of Bum, the character's strong voice comes through his interactions with Tim and his reactions to Tim's plans and actions. In many respects Bum serves as Tim's conscience attempting to convince him to not judge without cause and to not join in the violence against Ernst.The author's rich descriptions capture the insular existence of Barnard, Texas, and the story exudes an atmosphere of stifling oppression and extreme tension where fear and paranoia have completely taken over. The violence is graphic and gruesome not only in respect of the murders but also in terms of what the townspeople are capable of perpetrating. The elements of the supernatural further heighten the horror and suspense in this story. The opening scene in which Ernst experiences his execution is not only macabre and highly disturbing, it also serves as an unbalancing element as to what is real and what is not. This sense of unbalance is carried forward throughout the story in respect of the mystery surrounding the killer, and at story's end the reader continues to wonder about Ernst.The German completely blurs the lines of good and evil and there is no black and white in this novel. The underlying theme of this masterfully written story is not only centred on the violence and destruction of one highly disturbed individual, but equally on the potential and capacity for violence and evil that all individuals harbour when ignorance, fear and prejudice take over.It is no surprise that The German received the 2012 Lambda Literary Award for LGBT Science Fiction, Fantasy and Horror, or that Mr. Thomas was a 2010 Lambda Award finalist in the same category for In The Closet, Under The Bed, and the recipient of the Bram Stoker Award for his debut novel Stained. I am thrilled to have discovered this author and plan on making my way through both his backlist and future releases. The German made my list of the Best in LGBTQ Literature for 2012 and I cannot recommend this book enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The German by Lee Thomas </p>
+
+
+<h2> review.date </h2>
+  04-06-2014  
+<h2> review.text </h2>
+
+ <p> Amazing story of judgement, betrayal, intolerance and murder. This who dunnit will keep you on edge, will take you through a range of emotions from sadness to anger, yet bring you to into the light at the end. Loved this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW, what a read </p>
+
+
+<h2> review.date </h2>
+  02-08-2012  
+<h2> review.text </h2>
+
+ <p> Lee Thomas is a fantastic writer and this novel just reinforces it. Full of mood, mystery, suspicion and sorrow, all wrapped up in a pretty bow. His prose is clean. The characters have serious depth. Afraid to talk too much about the story since the synopsis sums it up well and I don't want to give any surprises away. Love the themes it explored as well and the ending was foreseeable but made sense knowing what happened to The German in his past. Go grab it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intelligent and moving </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> This was a good read, the characters are well developed and believable. I was expecting the typical gay novel, but was surprised by what I read. Looking forward to more from Lee Thomas </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not what I expected </p>
+
+
+<h2> review.date </h2>
+  02-19-2012  
+<h2> review.text </h2>
+
+ <p> This is an amazing book.  Beautifully written, intricately plotted and with fully realized characters. It beautifully captures a time and place in both a boy's life and of an era in history.  In other words, this book a rarity- a truly well written, fully executed novel with unforgettable characters.  There are so many mediocre books on the market now, it's wonderful to find one that is truly exceptional.  This is that book.  I read it in less than 24 hours because I simply could not put it down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Book </p>
+
+
+<h2> review.date </h2>
+  03-29-2011  
+<h2> review.text </h2>
+
+ <p> The German is simply a stunning book! Well written and full of twists and turns, it's a real page turner. I stayed up all night reading it and couldn't wait to order more of this author's books! What a gem! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stunning! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

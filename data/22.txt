@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000CFSLXG <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> After 6 months, going great </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-28-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This little thing is a saver - carry it in my laptop bag with my iPod everywhere.  It charges off USB (nano or 3G iPod) and allows me to keep the playlists fresh.  Spring stayed springy, so refreshing to not have snarly cords everywhere.  My nano is black, but oh well... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Does not charge my ipod. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Doesn't work as advertised.  Although it seems to work at first, if I leave my IPOD connected to the computer with this cable overnight, then when I come back my IPOD battery is completely dead.  The apple cable works perfectly, but it doesn't retract like this one does. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Stopped Working After One Month </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I read before purchasing this item that another user experienced that the item quit working after a short while of use.The exact same this has occured to me in one month with minimal use. I have confirmed that it is the cable because two different IPODs do not work with the cable anymore.I suggest buying a better quality one because I just lost my money on buy this one.Grade = F- </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice but doesn't work </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-04-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This product works on my wall charger, but not with my car charger unless it's held a certain way.  I think it might not be good for the cord to be curled up so tightly (and left in my car, but most aux cables can be left in a car and THEY still work).Buy Apple's instead. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It works </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-04-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Been using it for about a year on the road now, no issues with it retracting and no issue with data transfer. Travels well in my laptop bag with other gear. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Faulty </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-24-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I use my Ipod at the office and at home and soon grew tired of carrying the USB/charging cord back and forth so I ordered this Retractable USB Cable.  It seemed like a bargain, but it was defective.  I attached it to the same Ipod and same computer that I use with the other cord.  It simply did not make the connection.  I exchanged it for my regular cord and there was no problem connecting.  I did this twice, on two different computer and this flexible cord did not work. Returns are easy with Amazon so I returned it for a refund and bought a slightly more expensive cord. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> You get what you pay for </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Was still in college at the time so was trying to save money. Anyways, thing seems convenient, but the spring loaded retraction system crapped out in a couple weeks, stripping the wire coating.Would not recommend.2 Stars because it still WORKED, but yea... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a great idea, but lines are too short </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-24-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very fast service. Item is poorly made and broke 2 weeks after I started using it. Real junk. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Flimsy and unreliable. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Considering the price, this product will serve you well in a pinch, but it does not provide a reliable connection. The iPod/iPhone connector appears to be slightly undersized. Each time I connect my iPhone, I have to jiggle the connector a little to get my iPhone to recognize that it's there and it does not always stay connected, unless you stay completely still. You will not these problems with original Apple connectors.When it is connected, it seems to work well, but I do feel like I need to keep checking it.The fact that it is retractable is a cool feature. However, I would rather carry around a full-length cable than one that doesn't stay connected. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It works for an Iphone 3G </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have a buch of these for my Iphone.  They all work great, but out of the 4 or 5 that I own 1 has had the wire insulation come out of the plug end.  The cable still works, but I don't know for how much longer.  This also happened after a year of use. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Plug </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-04-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Well not much to say about this other than this worked for what I needed and if I need another I will get this one again </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cheap and broke </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This data cable is cheap and ended up breaking after a short period of time. It looks cool and innovative, but I wouldn't recommend. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good price </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I need a USB cable in my car so that I can charge up my iPod any time.  I was surprised this cable is that cheap, and it does the job! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> You get what you pay for </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> The retractable cord does not lock in place.  It never has.  I can still use it, but it's a pain. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> yeah...it's good </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-11-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fast shipping, good price, and it actually works! But the cable is poorly made that i had a hard time to pull it out.(one of the metal triangles thing for somehow just can't hide thourouly unless you press the little button REALLY hard). And when i ejected my ipod directly through iTunes, it just went error again and again. Yet, it's fine if you do it with the mass storage control.(i mean the little thing shows up when you plug in down in the notification bar)So overall, if Apple's 19 bulks' price really annoyed you and you want to save space, buy it and try your luck with the cable quality. :P </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B008OQLLT6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-17-2013  
+<h2> review.text </h2>
+
+ <p> Update: Every so often I revisit this to compare to my other many headphones, and like a few others I've had (very few), the highs are so recessed as to make the M1 (U.S. edition - delayed 4 months from European version) unusable for high fidelity sound.  If there were a way to make it usable, Philips would not cooperate on finding the problem.The Philips M1 has an extremely recessed high frequency response compared to the average high fidelity headphone (the M1 is advertised prominently as having High Fidelity sound). Using Foobar2000 on a desktop PC with various DAC/headphone amp combinations, I played the Shure 1840 headphone flat and EQ'd the treble end of the M1 until it sounded like it had nearly the high frequency response of the 1840. The settings for the M1 were plus 4 db at 3.5 khz, plus 8 db at 5 khz, plus 12 db at 7 khz, and plus 16 db at 10 khz. These settings did not make the M1 sound as good or as bright as the non-bright 1840, but it raised the treble to nearly the same level as the 1840, giving me an approximation of how much the M1's treble is rolled off, which seems to be about 8 db per octave above 2.5 khz. I also made comparisons to other headphones such as the Philips L1, B&W; P5 (and P3) and v-moda M80, and the M1's treble was just as far below all of them.Young people with good hearing may be able to accomodate some high-frequency rolloff in their headphones, but the laws of physics may come back to haunt them in later years if they use headphones that are very treble-shy. The natural compensation for lack of high-frequency details in the music is to turn up the volume, and while I'm aware of this and compensate for treble rolloff (if I use a treble-shy headphone), most young people will simply crank up the volume and suffer long-term hearing damage as a result. NOTE: This is not to say that any specific headphone such as the M1 represents a threat to hearing - I'm merely suggesting that when people use headphones that are significantly recessed in any one part of the sound spectrum, they may be compensating by increasing the volume.Used with iPods and iPhones as a portable headphone, using Treble Booster EQ, the M1 seems adequate to me for music that has fairly strong highs. Music with soft highs will sound very treble-shy with the M1 with Treble Booster EQ on, and with the EQ off will likely sound quite muffled. The bass of the M1 is good, especially for a small portable, but I can't rate the midrange as good unless the treble boost EQ is applied, since the treble rolloff has a strong effect on the midrange. I wanted to remove the M1's earpads to see if some of the foam could be taken out and thus improve the highs, but the earpads are not removable. The other bad news is that the pads can't be replaced (as far as I know) when they get significant wear on them.While the larger Philips L1 headphone has an impressive appearance that suggests fairly good value for its price, the small, light, plastic M1 headphone looks like a $100 USD item, far below the $250 street price. If the sound of the M1 were among the better $250 headphones, the lower-budget appearance could be overlooked. The M1 has a short (5 inch) cable at the bottom of the left earcup terminated by a stereo mini-plug, to which you attach the regular headphone cable that has a mini-jack on one end and a straight (not angled) mini-plug on the other end. The M1 comes with one cable only, about 4 feet long, 2.5mm thick and fabric-covered, with Apple i_device controls. If the cable would ever fail, you could substitute any common headphone extension cord with mini-plug and mini-jack ends. A 1/4 inch (6.35mm) adapter is NOT supplied.The earpads are supraaural (on-ear), about 3 inches wide, with fabric-covered openings for the sound that are 1-3/4 inches wide. Getting a proper fit, i.e. centering the openings over your ear canals, is no problem at all with the M1. The earpads are a thick memory foam that (as noted above) are probably not replaceable. The headband grip is fairly strong on my average-size head, and because the entire pad presses on the outer ears, it may be uncomfortable for some people due to pinching of the outer ear parts. Since the earcups rotate flat and pull down quite far, the M1 can be worn around the neck all day when not in use, which makes it very portable.The headband has a stitched leather cover surrounding it which feels very comfortable on my head, but if there is any tendency for discomfort in spite of the light weight of the headphone, I recommend pulling the earcups down just slightly more than the minimum, to let most of the weight be borne by the earcups and not the headband. The M1 is a decent-looking headphone if you've seen photos of it, but I would rate its appearance as well below average in its price range. The very thin cloth carry bag issued with the M1 offers no impact protection at all. Isolation from outside sounds is very good with the M1. Leakage is very minimal and would not be a problem in office cubicles at medium-loud volumes. It's quiet enough that the sound would probably not be noticed by a person trying to sleep next to the person playing music, as long as the volume were not loud.Now that I've covered the basics of the sound, it's time to describe how the Philips M1 sounds with a variety of music that's available on CD's or as high-quality downloads from Internet music stores. I've used the following examples in other reviews, so these will serve as good test tracks for this review and the results can also be compared to the results noted in the other reviews.Note that all of these examples were played with the equipment noted above, with the equivalent of iPod/iPhone Treble Booster EQ applied in Foobar2000 (plus 2 db at 1.75 khz, plus 4 db at 3.5 khz, plus 6 db at 7 khz, and plus 8 db at 14 khz). Without this treble boost, the M1 would not have been usable for high fidelity (or near hi-fi) playback. Note also that the treble boost EQ I'm specifying in this paragraph is much less than the treble boost I used at the beginning to estimate the extent of the M1's high frequency rolloff. I'm using the equivalent of Apple i-device EQ with the music tracks below, since that's the most common treble boost EQ available to people who use portable music players.Bauhaus - Bela Lugosi's Dead (~1980): Strong midrange sound effects - this is a good worst-case test for resonant-type sounds in the most sensitive midrange area. Not a problem with the M1.Beethoven Symphony 9, Solti/CSO (1972): Fair overall sound, but reproduction of the triangles, bells and other high-frequency instruments that are just audible with other headphones are nearly inaudible with the M1 (note that this is with the treble boost applied).Blues Project - Caress Me Baby (1966): Rarely mentioned, but one of the greatest white blues recordings ever. The loud piercing guitar sound at 0:41 into the track is a good test for distortion or other problems. Not a problem with the M1.Boz Scaggs - Lowdown (1976): Good sound quality - this is a great test for any nasality in the midrange. Sounds OK with the M1.Buffalo Springfield - Kind Woman (~1968): A Richie Furay song entirely, rarely mentioned, but one of the best sounding rock ballads ever. This will sound good on most headphones, and it sounds good with the M1.Cat Stevens - Morning Has Broken (early 70's): A near-perfect test for overall sound - this track will separate the best sounding headphones from the lesser quality types. The harmonics that give the guitar strings their characteristic sound are nearly inaudible with the M1 (note that this is with the treble boost applied).Catherine Wheel - Black Metallic (~1991): Goth with industrial overtones - I like this since it's a great music composition and the sound effects are smoothly integrated into the mix. This may sound distorted or mushy with some headphones, but the M1 renders the deliberate instrumental distortions fairly well.Def Leppard - Bringin' On The Heartbreak (1981): MTV goth/pop/metal at its best - good ambience and high energy - the better headphones will separate the details and make for a good experience. Lesser quality and the details tend to mush together. Sounds OK with the M1.J.S. Bach - E. Power Biggs Plays Bach in the Thomaskirche (~1970): Recorded on a tracker organ in East Germany, the tracks on this recording have the authentic baroque sound that Bach composed for, albeit the bellows are operated by motor today. The M1 plays the music well for the most part, but since the high-frequency harmonics are suppressed, a lot of the ambience is missing (note that this is with the treble boost applied).Jamming With Edward - It Hurts Me Too (1969): Intended originally as a test to fill studio down time and set recording levels etc., this was released a few years later for hardcore Rolling Stones fans. Although not as good technically in every aspect as the Chess studio recordings of 1964, and in spite of the non-serious vocals by Mick Jagger, this rates very high on my list of white blues recordings, and sounds pretty authentic with the M1.Jimmy Smith - Basin Street Blues (early 60's): This track has some loud crescendos of brass and other instruments that don't sound clean and musical on some headphones. The M1 provides fair reproduction. Listen particularly to the second crescendo at 15 seconds in, for maximum detail effect.Ladytron - Destroy Everything You Touch (~2009): Featured in The September Issue, this song has heavy overdub and will sound a bit muddy on some headphones. Sounds OK with the M1.Milt Jackson/Wes Montgomery - Delilah (Take 3) (1962): The vibraphone is heavily dependent on harmonics to sound right, and while the M1 reproduces most of that sound, the vibes sound slightly muted (note that this is with the treble boost applied).Pink Floyd/Dark Side of the Moon - Speak To Me (1973): Strong deep bass impacts will be heard and felt here.Rolling Stones - Stray Cat Blues (1968): Dirty, gritty blues that very few white artists could match. On some headphones the vocals and guitar lack the edge and fall more-or-less flat, and with the M1 some of that edge is missing. If you're a really good person, playing this song will probably make you feel nervous and uneasy.Tony Bennett - I Left My Heart In San Francisco (1962): Frank Sinatra's favorite singer. Highest recommendation. With some of the best headphones, the sibilants on this recording are very strong, but they're not an issue with the M1. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Philips Fidelio M1 Stereo Headphone Review by Dale (update 20.4.14) </p>
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> Pros:- Decent sound, i'd give sound 4/5 stars.- Great fit- Good outside insulation- Quality everything- Start/stop volume up/down controlCons- Trying to be fancy with the cable material makes it tough and not very flexible- A bit tight on the head so gives headache after a while- Not the best sound for the price </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent, but i'm picky </p>
+
+
+<h2> review.date </h2>
+  05-22-2013  
+<h2> review.text </h2>
+
+ <p> It looks like Philips is going up direct against Monster and the Dr. Dre set with these Fidelio headphones. I wouldn't have soon expected the day where bulky headsets were the de-rigor among even the commuting crowd, but that day seems to arrive. While I wouldn't necessarily be enthusiastic about bringing these on a commute due to their weight - they do have a great sound isolation capability and have great build quality. They look sleek and refined and definitely set themselves apart from the `trying-to-hard' approach of their peers. The sound quality is above average, but not spectacular. The fit is very solid and didn't lead to exhaustion - recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compares well </p>
+
+
+<h2> review.date </h2>
+  05-16-2013  
+<h2> review.text </h2>
+
+ <p> The Philips M1/28 Fidelio headphones with in-line remote and mic are a great headset for use with your home stereo, iPod, iPhone, or PC. The audio quality is second to none with fantastic range and satisfying bass. The in-line volume control is nice to have if the volume control on your device isn't close.The headphone cushions are comfortable on the ears and the adjustable head strap provides enough room to fit around my giant skull.My only "complaint" about this headset is that it didn't work correctly when plugged into several Android tablets while I was testing the headphones. The mic worked fine, but the two Android tablets I tried kept sending audio to the built-in speakers instead of the headphones. I don't know if this was just a problem with my hardware or if this issue is common for this headset.All I know is that my other combo headphones/mic headset works fine with my Android tablets but the Fidelio only works as a mic when connected to the two Lenovo-brand Android tablets that I own. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great audio quality, some device compatibility issues </p>
+
+
+<h2> review.date </h2>
+  04-26-2014  
+<h2> review.text </h2>
+
+ <p> I wanted to take a lot of time before reviewing these set of headphones, and while I have listened to a lot of hours of music on it, I still need more time to write a detailed review. However, I thought I'd share my initial impressions first.First impressions:The sound quality is pretty good. I compared it to a Fidelio L1 I own, and the M1 is on most occasions able to match the quality of the L1. It is more portable than the L1, plays nice with mobile devices (the L1 does too, but benefits from am amplifier)Fit and Feel:At first I thought the L1's clamping was horrid! Then I tried these on!!! At first it felt like bliss. The cushions are really soft, and I believe memory foam. The headphone is lightweight. But after a while of listening, my earlobes started to hurt like crazy. And it wasn't pain I could withstand. I gave it a few more days and tried it again, to the same effect. Now, maybe I have a big head (I wear a M/L sized hat - so not sure my head is that big.) but these simply don't work for me, which is a shame really, because if not for that, I absolutely loved the sound quality of these headphones.If the fit was good, I would have gladly given it 4.5 stars. If I allowed my anger over the fit to take over, I'd have given it just 2 stars. But I thought 3 represents the good sound while taking into account the fit.Will update this with detailed notes on the sound quality - it's still WIP. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sound reproduction - as good as L1, Clamping for large heads is horrible. </p>
+
+
+<h2> review.date </h2>
+  01-21-2013  
+<h2> review.text </h2>
+
+ <p> The Philips Fidelio M1s are high-quality but understated headphones designed expressly for use with mobile devices with controls on the cable and no need for an amplifier.They are extremely appealing visually with nice proportions and high-quality materials handled well: fine-grain black leather, sturdy grey satin-finished aluminum alloy, frank expression of different components as well as connectors such as screws and stitching, braided sheathing on the cable, and subtle markings. The video on Amazon doesn't do justice to the way they look and feel in the hand.The ear cups and their brackets both swivel to adjust for good fit and to lay flat for storage. The ratcheting mechanism of the headband is impressive: the most precise of any headphones I own, with an incredibly satisfying clicking sound. The headband even has incised scales--and oddly enough, they use fractions of an inch rather than metric units! Philips must have changed this particularly for the U.S. market and it was thoughtful if unnecessary.The headband and earpads are adequately but not generously cushioned with foam. I normally don't like wearing on-ear headphones but these are quite comfortable: the headband doesn't exert too much pressure, the foam never bottoms out, and they create noticeably less buildup of heat and moisture than similar models. The leather of the headband and the imitation leather of the earpieces are almost indistinguishable.The only quibble I have with the physical design is that the detachable cable fits onto a little non-replaceable pigtail instead of directly into the headset. Given the thought that obviously went into every detail, there must be a reason for this, though I can't figure it out.The audio quality is excellent for closed back, on-ear, foam-padded headphones intended for use with mobile devices, engineered for emphasis on bass but certainly not unpleasantly so.Midrange tones seem quite accurate and are very satisfactory. The treble is satisfactory but not sparkly or particularly exciting. The bass is also very good, neither punchy nor muddy, but the very low bass does lack some detail when the volume is pushed up too high for comfort and safety.The soundstage is above average for this type of headphone with flat foam-padded ear pieces and I am even a bit impressed by the depth if not the width in comparison to the other audio aspects.I used these walking around, sitting in the park, and even made a point of taking the subway down to Chinatown just for testing and I really enjoyed listening to music with them when out and about. They do an excellent job of competing with a noisy environment by keeping sound from leaking in (or out), they are comfortable, I don't feel silly wearing them, and the sound they produce is enjoyable. Even without noise cancellation, they would be good enough for air travel. I haven't noticed any interference from friction on the cable.Overall, the Philip Fidelio M1's sound quality and comfort are very good to excellent for a headphone for use with mobile devices but they understandably lack some of the liveliness and excitement of open-back, over-the-ear headphones that would make them the best choice for listening to music at home.4.5 stars but without hesitation rounded up to 5 rather than down to 4. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An excellent choice for use with mobile devices </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> I had high expectations for these headphones, unfortunately I was disappointed. Here are my thoughts:Build quality:-The build quality was ok and it is a nice looking set of headphones.-The headband cover is leather, but there is not much padding there, which made it a bit uncomfortable.-The earpads are not leather, but rather a pleather and have a noticeable odor. It's not overwhelming and it goes away.-The earpads are rather stiff, so I am assuming it is not memory foam.-The headphones are lighter than I expected them to be.-The back of the earcups are plastic, not metal.-The clamping pressure was too much for me which on the one hand it made for a nice acoustic seal and despite being an on ear set, blocks out much of the environmental noise, on the other, the clamping pressure was rather fatiguing after a bit. You should be fine for short sessions, like a train ride, which is fine seeing as how these are supposed to be used on the go.Sound quality:The killer for me was the sound quality. Now I am not an audiophile and I don't have the tools that others use to analytically determine the objective sound quality of a set of headphones, I just go with what sounds good to me.-Bass is there, these seem like a warm set of headphones. Definitely not neutral and leans towards bass heavy, but not too much.-Mids seem fine-Highs? As others have pointed out, there is an issue with the higher frequencies. Now maybe my unit is defective, but the best way that I can describe the sound is if your neighbor is listening to music loudly and you can hear it through the wall. Bass and mids come through, but the highs are very muffled.So there we are, I was looking forward to enjoying these headphones for my commutes, but I will have to keep searching for the right pair. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mediocre </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> These headphones have what I would describe as a "polite" sound.  They work pretty well for jazz and acoustic music because they seem pretty flat, but they are hard to listen to with rock.  The overall fit and finish is very good, and the light weight is welcome.  However, they clamp a little to tightly to be comfortable with my glasses.The cable has an unusual attachment system - there is a pigtail coming out of the phone and then an extension cable goes into the pigtail.  This gives me some concerns for durability.  I'd prefer the more common method of having a jack for cable input.For some reason the highs are a bit lacking in the sound. As a result the music is a little dull, no shine.  Soundstage is pretty much flat - no sense of depth to the sound.  I prefer the Phillips Downtown and Uptown models which offer similar sound for less money.I've been switching back and forth between these and the Sennheiser Momentum - another premium "lifestyle" headphone.  In my view the Sennheiser is far superior. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Weak Highs and Polite Sound </p>
+
+
+<h2> review.date </h2>
+  03-02-2013  
+<h2> review.text </h2>
+
+ <p> i am suprised by philips on m1. i even prefer this over d2000 which i owned at the same price range, since it was more balanced. it shows what the sound should like without adding colours onto it. isolation is fair too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> best headphone at this price range </p>
+
+
+<h2> review.date </h2>
+  08-20-2013  
+<h2> review.text </h2>
+
+ <p> The best you can get for the half of the price you pay on the market. I love it,It's my second pair from Philips Fidelio style headphone.It's perfect for indoor and home theater enjoyment.Can't resist to get myself a third pair... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Headset! Great quality with exterior & sound. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

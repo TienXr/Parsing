@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00L23JOOC <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> The book is very straightforward, very concise and direct with no jokes, padding, or nonsense. I'd consider this a good introduction for someone with limited programming experience who desires a quick intro to the very basics of Javascript programming because it covers all the essentials in a way that is clear and concise. The author has written this in such a way that it doesn't overload or confuse someone with minimal knowledge of Javascript. If you need a very good and easy to understand intro book then I thoroughly recommend this one. Because of this book, I am now more proficient with Javascript and have a much clearer understanding of how it works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An excellent introduction to Javascript for beginners. </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> JavaScript Programming: Learn How To Program In JavaScript Today is a great book full of great information. Full of useful tips and trick. Worth every penny. Grab your copy today! You won't regret it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chocked full of info </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> I am not a programmer but I love reading books about programming. When we read books like this we learn the process, basic, and to understand how a certain website, games, and other applications are made and prepared. And I love to learn new things. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Educational Book!! </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> I'm pretty new to programming. Following the steps in this book, it gave me a start to what I needed to know about javascript. It opened up a whole bunch of doors for me to explore and research. This book serves it purpose in giving you javascript programming. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Usable coding </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> I have been wanting to create my own web page but I am not knowledgeable enough to make one.  This book has taught me the basics in programming and web development.  The author made it sure the information is understandable to the general audience.  As a novice myself, I can start creating my page after reading the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I have been wanting to create my own web page ... </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> I am looking to start working on my own website, and will be hiring a programmer but i wanted the ability to talk &#34;shop&#34; with them too.This book is clearly laid out and I already have a good grasp on how the language works in one sitting. I am really looking forward going through this thoroughly to improve my understanding of this language. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good guide for a beginner </p>
+
+
+<h2> review.date </h2>
+  06-25-2014  
+<h2> review.text </h2>
+
+ <p> I think anyone who buys this book has at least basic knowledge of computers, the internet, and a webpage. If you want to learn programming and become adept at html and web development, this is for you. However, don&#8217;t expect being spoon fed, this book makes it clear at the very beginning that it aims to guide and help. The bigger part of learning is up to the person&#8217;s motivation and efforts to learn. I had basic html knowledge, thanks to our advance computer programming subject back in high school but most of what I learned, I have already forgotten. It feels good to read them again here. This is like taking a crash refresher course. Some codes are new to me so I must say I got plenty of things learned from this book. Understand though that the author&#8217;s approach is not the only approach to html and programming (refer to introduction) so in the event you become better at this, you&#8217;ll get what that means. What this book offers are simplified programming approaches. Amazed at how informative this is! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical, informative, and open for feedbacks </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> This book does a great job on explaining javascript programming, especially for beginners like me. It's short and concise and not so overwhelming like many other few-hundred pages manuals that you lose yourself in. What stands out is that you can apply your knowledge right away with exercises on the publishers online-page, simply great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> javascript programming made easy </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> I've gone through several HTML 4 and 5 as well as CSS3 books and although they've taught me a lot, it was a bit challenging to go through them from start to finish as they were way too long.  This book I found to be the perfect length on javascript.  I've tried to pick up JavaScript in the past but just dropped it out of sheer boredom.  Not so in this book.  The author cuts to the chase and hits the important fundamentals to get you coding.  Recommended for those looking for a quick and thorough approach to JavaScript. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great follow up to HTML! </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> Great book on JavaScript Programming.  This is good for beginners getting started.  Would recommend this for people on that level that want to learn more about programming. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thank you </p>
+
+
+<h2> review.date </h2>
+  06-21-2014  
+<h2> review.text </h2>
+
+ <p> I really needed help with understanding if-else statements and parameters and this ebook was very helpful. It's clear and easy to understand and great for novices or more advanced javascript programming folks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very easy to get the hang of </p>
+
+
+<h2> review.date </h2>
+  06-23-2014  
+<h2> review.text </h2>
+
+ <p> I've spent several years making my own websites with html and css templates. However JavaScript was something that I had not yet learned. This book was great in helping me to learn JavaScript basics without overwhelming me with technical jargon. I also liked that I could keep it with me next to my computer as I went through each step. The engaging writing style also kept me from getting bored :). Great starter guide for beginners. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JavaScript for Beginners </p>
+
+
+<h2> review.date </h2>
+  06-29-2014  
+<h2> review.text </h2>
+
+ <p> Since, I am a Bachelor of Science and Information Technology graduate, I need this book to refresh everything what I learned about JavaScript. It really helps a lot especially to those students studying about JavaScript. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Since, I am a Bachelor of Science and Information ... </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> There are so many opportunities in the web world and this book taught me the skills I need.  I recommend this book to anyone who wants a practical guide for getting started with programming. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> Wow! This book is excellent for anyone interested in learning some basics of programming.  I'm really glad I found this, as it's exactly what I was looking for.  So much value here.  Highly Recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JavaScript Programming: Learn how to program in JavaScript </p>
+
+
+<h2> review.date </h2>
+  07-01-2014  
+<h2> review.text </h2>
+
+ <p> A highly informative book, the author has a good, clear and precise writing style which is important for a subject like this one as sometimes you can finish the book even more confused, I will be using the advice to begin using JavaScript asap, for the the small fee you really cannot go wrong with this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Top Notch </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

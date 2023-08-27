@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 6305133441 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I Love Burt! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am and have been a huge Burt Reynolds fan ever since his days as Quint Asper on Gunsmoke.  This is a sampling of his career from its hottest days through the time that it had started to cool off (before Evening Shade).  Sharky's Machine is the best of the bunch and Burt directed it.  Hooper is a fun movie and Sally Field is hot, hot, gorgeous as Burt's significant other.  Stroker Acer is a bit of mindless fun with a weak plot.  This package is definitely worth the price of admission. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best race film ever??? </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-1999  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ol' Billy Bob needs to set foot outside the trailer park once in a spell and get a good ol' hunk a reality! There is nothing to recommend in this film outside of serving to kill the first phase of Reynold's career. Any  film that features the singing of Nabors is clearly not covered by any law  and should be banned immediately. Are there really people out there who  emjoy good ol' boy humor and macho posturing? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Silly? Yes. Fun? Definitely! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-20-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> I remember critics really ripped into this movie when it first came out. What do THEY know, anyway???This movie is a LOT of fun! Burt is just how you'd want him to be as Stroker, Jim Nabors is good as his sidekick,and Loni Anderon is perfect (and hot!) as Stroker's love interest. Also, let's give it up for Parker Stevenson, who does a great job as the "bad guy" Aubrey James.Forget the critics and listen to a true Burt Reynolds fan - this is a great movie for Burt Reynolds fans! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great movie! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great Burt Reynold's move, if your a fan of Burt's movies then be sure to add this one to your dvd collection! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Burt Reynolds </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love anything Burt Reynolds. This movie is very funny and I enjoy it a lot better than newer comedies. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Triple Feature: Stroker Ace/Hooper/Sharky's Machine </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sharky's Machine has been edited; some is missing or my memory is failing.All three are in full screen, but it is all that is available.These will do only until better versions become available, if they ever do.Transfers are adaquate for pan and scan.Don't expect much and you will be okay. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of many nails in Burt's career... </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-11-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> This film (along with the Cannonball Run movies) pretty much destroyed Burt Reyonlds's career.  It's a shame, because anyone who has seen Deliverance knows that Burt Reyonlds can actually act.  Instead, he wanted to be a "good ole boy", and he did a plethora of airheaded, terrible films like this.  Reportedly, Burt turned down the role of the astronaut in Terms of Endearment for this.  Now that's depressing! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An awesome film, a good film, and Stroker Ace </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-01-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> 3.5 stars for this one. Since this is a big deal to me, I'll first mention that none of these three films are presented in widescreen format.Before Schwarzenegger and Stallone, my go-to cinematic action dudes were Clint Eastwood and Burt Reynolds. Now, there's no doubting that Eastwood is the more celebrated actor and director, while Reynolds's flicks are more often dismissed as lightweight and mindless material. There's truth to that. Yet I find plenty of Burt's stuff entertaining. And several of his movies do have some measures of depth (The Longest Yard (Lockdown Edition),Starting Over, etc.). This particular triple feature dvd set focuses on two of his better films, the atmospheric crime thriller SHARKY'S MACHINE and the very good HOOPER. Rounding the set out is STROKER ACE, which isn't as good.Before the baby, let's get to the bathwater. 1983's STROKER ACE is harmless and vacuous. If you're into auto racing or just into cars running amuck and slamming into each other, then you might enjoy this one. Plenty of dumb jock shenanigans here, and whirls around the motor speedway. Burt, firmly entrenched in his good-old-boy persona, plays Stroker Ace, one of the top stock-car racers around, and, boy, he knows it. But the flamboyant Stroker learns a lesson in humility when he agrees to be sponsored by a fried chicken franchise, as he signs without first reading the contract. It's not too long before he's parading around in a chicken outfit and having "fastest chicken in the South" painted on his race car. And, in between one-upping his main rival (Hardy Boys' Parker Stevenson, cast against type) and his various schemes to get out of his sponsor's contract, Stroker is trying his bestest to bed the buxom but very chaste Sunday school teacher (Loni Anderson).It all ends well, of course, with Burt zooming over the finish line upside down in his race car and winning the girl. Cooperation from NASCAR and cameos by NASCAR drivers lend a certain authenticity, for whatever that's worth in a film so bogged down by insipid comedy and a forgettable story. Two things going STROKER ACE, though: the theme song sung by the marvelous Charlie Daniels Band and the outtakes shown during the closing credits."You can hit him, kick him, generally abuse him. Set him on fire...will amuse him. Heaven knows, he won't hold a grudge." As HOOPER's theme song will let you know, the Hollywood stunt man tends to live life rough and rugged. Sonny Hooper (Reynolds) is the world's greatest stunt man. But he's getting old and really starting to feel his aches and pains. Nowadays, he stays on top by virtue of sheer guts and lots and lots of pain pills. On the set of the spy epic The Spy Who Laughed at Danger, Hooper begins to second guess his longevity in the business, what with his body breaking down and the arrival of a younger stunt man who's being touted as a "young Sonny Hooper." But, before Hooper rides into the sunset, there's one more stunt to do, this undoubtedly his greatest and most dangerous...HOOPER is a fond cinematic salute to those wild movie stuntmen and women. There's an elegiac flavor to the story as the aging Hooper contemplates hanging it all up, even as machismo wars against good sense. The cast is very good, with Burt, Sally Fields, Jan-Michael Vincent, and James Best (The Dukes of Hazzard's Sheriff Roscoe P. Coltrane) investing depth into their characters. Oh, and Adam West plays himself. HOOPER was shot in 1978, when special effects were still predominantly achieved with blood, sweat, and tears, instead of CG. Two particular stunts to watch out for are when Hooper drives backwards on the road going 55 miles per hour and, of course, the showpiece sequence near the end, as Hooper and Ski brave that daunting chasm in their rocket-charged car. HOOPER is also noteworthy for reportedly having inspired THE FALL GUY, one of my childhood television staples.Changing it up now is Burt's taut and sexy crime thriller SHARKY'S MACHINE. This film is supposedly Burt's response to his buddy Clint Eastwood's Dirty Harry series. And, truly, SHARKY'S MACHINE stands up very well to Harry Callahan's exploits. Burt directs and stars as a narcotics sergeant in Atlanta PD who gets busted down to the cesspool-like vice squad. As the film goes on, he develops an obsession for a hauntingly beautiful prostitute who had just been murdered. This happens to tie in with his ongoing attempt to take down a shadowy underworld boss who's got his fingers deep in political corruption.Borrowing from LAURA's key premise, SHARKY'S MACHINE is still very much its own picture, in its grit and moodiness and exciting action pieces. The jazz score sets the melancholy tone, and the love story is surprisingly well developed. The supporting cast is superb, with particular nods to Brian Keith as Papa, Richard Libertini as Nosh, and Bernie Casey as Arch. Burt himself turns in a layered and sensitive performance. And I must say that Rachel Ward is a straight-up stunner as Dominoe. Everything is right with SHARKY'S MACHINE. It's Burt's most perfect film and, hands down, my favorite Burt Reynolds flick (with THE LONGEST YARD a not-that-distant second).In his heyday, Burt Reynolds was a walking sex symbol and lovable rogue, his box-office reign spanning the mid-70s and early '80s. These three featured films were made during the height of his popularity, with STROKER ACE and HOOPER exemplifying his brand of raucous, good-old-boy comedy. For the asking price, this triple feature isn't a bad get, although, as mentioned, one beef I do have is that all three films aren't in widescreen format. There are two discs, with STROKER ACE and HOOPER on opposide sides of disc 1 and SHARKY'S MACHINE hogging disc 2 to itself. Admittedly pretty barebones stuff, with no bonus features. Still, if you already don't have these films, this collection is worth a look. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great quality on an old comedy </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The condition of the cd was great, given the age of the movie it was good to know this will last for some time, as I collect classics. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Burt Reynolds drives his fast car again.  All-Star Cast. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another Burt Reynolds car-racing movie.  Definatly for theSmokey and the Bandit: Pursuit Pack(1977),Hooper(1978) andCannonball Run(1981) crowd.  Another all-star cast: Burt Reynolds, Ned Beatty, Jim Nabors, Parker Stevenson, Loni Anderson, John Byner, Cassandra Peterson (Elvira, Mistress of the Dark), and many others.  There is nothing wrong with your television set.  The first four minutes of the movie was filmed off-tint.  Out-takes during end credits.  Shown in Full-Screen.  No extras.  No bonuses. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Funny and a good set of movies to see and have </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-10-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> All three movies were good if you like down home funny movies and Burt Reynolds. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Whatever </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-18-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> An often heard line throughout this movie from many of the characters is "whatever". That about sums up my reaction to this movie. It is fun at times and has some good lines but it is not a great work. It is silly but entertaining.Burt Reynolds plays a conceited NASCAR driver who foolishly signs a sponsorship contract with a fried chicken chain. The problem is that the contract he didn't bother to read requires him to do many things that are, frankly, embaressing. He wants out of his contract but the chicken tycoon doesn't want to release him because he is making money. The movie moves back and forth as each tries to gain the upper hands.There are a few side stories. Burt's handler for the chicken company is played by Loni Anderson. She eventually comes to feel sorry for Burt and they inevitably fall in love. The complication is that Burt is a womanizer used to having his way and Loni is a, gasp, pure as the driven snow virgin. Loni does a superb job of being very decorative but she does manage to come across well as the innocent.Burt also has a running battle with another driver. This is good for a few occasional gags but is not well developed.Burt's sidekick is played by Jim Nabors of Gomer Pyle fame. He does a creditable job playing the chief mechanic who is a good hearted pal helps Burt in his scheming as well as on the racetrack.The entire film plays to stereotypes but is in no way offensive. It provides a nice diversion but is nothing to write home about. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Stroker Ace VHS. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-11-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Stroker Ace is Certainly no Smokey and the Bandit 1 and 2. This movie is lacking alot, and would appeal to die-hard Nascar fans, I am not a big fan per se. But there are some cameos from famous drivers. Again, This is not one of Burt's Best sadly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GREAT FOR THE 80S </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> seen it many many times and I just absolutely love it...one to be added to any collection, great Burt film, funny lines and good story </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A fun llok back </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-08-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is not an academy winning film.  It is a fun look back at one of Burt Reynolds films.  Nothing more nothing less. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Gift </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-18-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> My nephew loved these movies.  The price was very reasonable and received item in a very timely matter. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun Racing Film </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> 1983 saw the release of Stroker Ace, and luckily I got to see it in the theatre. Starring Jim Nabors and Loni Anderson it is  a comedy, that ypu can watch and enjoy with anybody. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Big winner </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-24-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> Burt Reynolds plays the title character, a cocky racing veteran with a rep as a ladies man, to perfection and Parker Stevenson is the young gun after him on the race track. Jim Nabors, Bubba Smith and Loni Anderson also turn in great performances, working with Stroker Ace's team. There are lots of racing scenes and physical comedy. Stroker Ace needs a sponsor and Ned Beatty, the owner of a fast food chicken franchise, steps in. Stroker becomes known as 'the fastest chicken in the south', which makes him the butt of a lot of jokes at the track. So then he spends the rest of the movie trying to get fired so he doesn't have to do ridiculous things like dress up in chicken suits and cut ribbons at restaurant grand openings. With appearances by some of the biggest drivers of the time like Benny Parsons, Ricky Rudd and the late Dale Earnhardt, this movie is a quirky look inside the world of drivers, sponsors, crew chiefs, the media, the fans and love of the sport. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I had to buy this. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-13-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> My mom and dad are extras in a couple of crowd scenes. I had to buy this. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> hooper </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> i like burt reynolds movies , and this is one of my favorites , i enjoyed it very much great movie </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> burt's last stand as a good ole boy and it skinks </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-26-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> this movie more than any other helped kill what was left of burt reynolds acting rloes for the rest of the 80's and keeped him on t.v. till "boggie nights". not one laugh or even a good chuckle to be had in this mess that was realesased very quickly and went under the waves even faster than "heat" did. man what a waste of time and money. no stars but they make you give it one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> All movies worked great Very clear and in great condition. I was very happy with all the movies and thank you for your service. Nancy Brushia </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Intimidator </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-16-2002  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie includes a cameo appearance by Dale Earnhardt.Isn't that enough to recommend it? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dumb but nostalgic </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Parker Stevenson is the best part of this movie. His scenes are funny and the rest is just filling time until he's on again </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Burt Reynolds - Triple Feature </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-10-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you are a Burt Reynolds fan you will enjoy this DVD.  Great quality. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Wheels Fall Off Burt's Movie Career </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-20-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Burt Reynolds lost his box-office following with this embarrassing NASCAR comedy. &#34;Stroker Ace&#34; (1983) is so incredibly bad that it makes Elvis Presley's &#34;Speedway&#34; look like &#34;Grand Prix.&#34; Worse still, you're stuck listening to Jim Nabors sing! One never expects lavish production values from a Reynolds-Hal Needham movie, but utilizing video stock footage (that's right, VIDEO) shows contempt for the audience and filmmaking in general. Amazingly enough, Reynolds and Needham would reach new cinematic depths with &#34;Cannonball Run II.&#34; </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Burt in his golden days. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-21-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Just the part where Lonny passes out on the bed and Burts head pops back in after her time and time again, his reaction and face is priceless. Love it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> racing movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-29-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Burt is himself in this Movie as he is in all his movies. This tends to date it along with the cars. But it is still fun. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> TRIPLE FEATURE: STOKER ACE/HOOPER/SHARKYS MACHING </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> REALLY LIKE BURT REYNOLDS AS AN ACTOR. WAS HAPPY TO SEE ALL THREE OF THESE MOVIES IN ONE DVD COLLECTION. COULD NOT ASK FOR MORE.  GREAT </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One Star </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> did not play at all </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00CBMFUC8 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-13-2013  
+<h2> review.text </h2>
+
+ <p> Two family thinking each other are the cause of there trouble with the Cartel. In the mean time all the DE LA CRUZ brothers are getting married and  Hot Tony runs up against a Spoiled girl Cynthia who sets out to marry him. They Hate and lust after each other and have very detailed sex.  Finally fallen in love her family wants no part of the De La Cruz's he gets hurt serious, she get imprisoned in her own home will sex and marriage come to an end? What happens next only readers will know .  PT Macias writes giving you enough to do your own vitalization in the explicit sexual encounters of these two very sexual active people and drama that plaques them and places it takes the couple to new highest in the bookGREAT STORY GREAT SEX SCENES AND GREAT READING HARD TO PUT DOWN. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two people He is Hot and She is Spoiled </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> I really love this book  it has everything intrigue love sadness heartache and everything in between. P.T. Macias has a unique writing style that puts you in the now of the story so u can experience it as they do there is some spanish mixed in and i love it because it makes me feel a little closer to the characters.THis is my second favorite of the saga boy does Tony have his hands full lol and damn is he hot hot hot.Sebastian Antonio De La Cruz is the familia's architect. He&#8217;s the classic traditional macho Mexicano. He enjoys being single until the primos (his cousins) start falling in love. He starts to think about the chica (girl) of his dreams. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love it </p>
+
+
+<h2> review.date </h2>
+  04-13-2013  
+<h2> review.text </h2>
+
+ <p> I  just finished the great written words of Patricia Macia's book Hot and Spoiled. What an enchanting read for a rainy afternoon. This book will leave you quaking for the next one. It was full of fun. A delightful romance leaving you a steamy hot mess. I can not wait to get my hands on whats coming next.. Grab these books while they are HOT HOT HOT. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot & Spoiled is right! </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> This is the final book in the De La Cruz series that I have for a review. I have enjoyed reading this series as it is a totally different type of story than I am used to.  The De La Cruz family are a group of self made wealthy people living in So. California who experience nothing but grief from a powerful Mexican Drug Cartel's boss.  This novel is no exception from the rest. The family is drawn into a business deal that starts to go bad when the Cartel tries to play one business associate against the other. Christian De La Cruz has fallen head over heels for the beautiful Cynthia,the spoiled daughter of their business associate,for whom they are in the process of building a mall for. Cynthia is a very persistant woman and does not know what the word NO means.  If you want to know more,you are going to just have to buy the book.  I strongly encourage you to get the whole series and follow the love life of this fictional family.  P T Macias has a very unique style to her writing that I really enjoyed </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot & Spoiled by PT Macias </p>
+
+
+<h2> review.date </h2>
+  04-19-2013  
+<h2> review.text </h2>
+
+ <p> The De La Cruz series are endearing reads. The passion is always red hot and the romance between the characters always lead to great stories.I really like reading about the closeness of the family and it's good to have these models in stories to help make us a better daughter, sister, cousin...etc.Tony and Cynthia's story was definitely complicated and I felt for the characters as they were each challenged and experiencing such highs and lows of emotion.Being able to read each of the characters thoughts in real time, help give you a greater insight into what they are each thinking or feeling and is quite unique to Patricia Marcias' writing style.The touch of Spanish helps make the characters more authentic, plus it's fun to pick up!Tony and Cynthia developed a sizzling romance and it was a pleasure to go along for the rideThere are some minor errors but it doesn't detract from the story.I received a free copy but it didn't effect my opinion in this review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another hit in the Series! </p>
+
+
+<h2> review.date </h2>
+  12-21-2013  
+<h2> review.text </h2>
+
+ <p> Antonio & Cynthia have a rocky road in the beginning.  Tony fights his feeling and Cynthia fights for Tony.  Add to the mix the drug Cartel.  Suspense, love, strong characters.  Great read!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Antonio </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> Hot & Spoiled by P.T.Macias is another win for the DeLaCruz family.  Sebastian Antonio has always been my favorite in the series, so sweet and sexy.  I also thoroughly enjoyed visiting the same saga from the Lopez side of the story.  To read from Cynthia's point of view was very refreshing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Win </p>
+
+
+<h2> review.date </h2>
+  04-13-2013  
+<h2> review.text </h2>
+
+ <p> As beta-reader for Patricia Macias, I get to read the De La Cruz Saga before the rest of you. I've got to say that with each new book, I have a new favorite - new favorite book, new favorite primo (cousin), new favorite couple. This one was no exception!Sebastian Antonio De La Cruz (Tony) is my new favorite. He is a strong, stubborn man who knows what he wants and always finds a way to get it! Until he meets Cynthia Lopez, that is. He hates spoiled, whiny mujeres (women). And believe me, Cynthia is about as spoiled as they come! You have to read this story to find out what happens! You won't regret it if you do! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot & Spoiled </p>
+
+
+<h2> review.date </h2>
+  11-08-2013  
+<h2> review.text </h2>
+
+ <p> I absolutely loved this book. Its hot hot hot. Its a complete rollercoaster of emotions that i never wanted to get off. once i started reading i couldn't put Hot and Spoiled down.Have you ever wanted someone so bad you would do just about anything to be with him well meet  Cynthia a Chica who wants the very hot Chico Sebastian Antonio De La Cruz AKA Tony and she is always popping up in the places that Tony goes to and his work place.Sebastian Antonio De La Cruz (tony) is a well to do man. He is an architect for his family's company and his designs a very in demand. He sees his familia getting married and moving on in their lives and feel their is something missing! But what is missing is a hot chica to keep him on his toes.How they meet well Cynthia goes into the De La Cruz construction company to meet with the architect for her father to go over the plans on the building that Senior Lopez wants to build. Cynthia thought tony was a worker and asks to see the architect in charge and is very demanding and tony think shes completely spoiled.  Tony thinks Cynthia is fast and spoiled so he continues to push her away and deny his feelings for her  and Cynthia just want to be with tony every second but toney just cant seem to make up his mind. Then we have the drama the cartel want the De La Cruz familia to join them but they continually say no an strange incidents happen.Will tony get his act together and get with Cynthia?  Will Cynthia nab her man?  Who is behind the attacks is it  Senior lopez or the cartel or both?? Will tony and Cynthia get there happy ending to find out i suggest you get the book its a great read and i absolutely positively love love loved this book!!!!  5 gold stars wish i could give more! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A definite must read </p>
+
+
+<h2> review.date </h2>
+  02-17-2014  
+<h2> review.text </h2>
+
+ <p> This book was great and had me going from hot to cold in no time at all.  In this book we watch the relationship between Cynthia Lopez and Sebastian Antonio De La Cruz mostly called Tony, who is trying to find the girl of his dreams little does he know she is right in front of him and can set his heart on fire.What I really enjoy about this story is the family aspect, that the siblings all have each others backs especially in times of trouble.  The bonding connection they all have and how they are open when one of the children fall in love.  I especially love the aspect of Family dinners.I am so hooked on this author she does a great job of weaving incredible romance, with the proper amount of steam to get you coming back for more.  Her books are heavily influenced with spanish and it just makes the romances that much steamer, reading phrases in spanish I think really add to the romance and steaminess!Hold on to your hats in this book it is going to be a very steamy ride.  With all the ups and downs Tony and Cynthia do it's a miracle they get it all together on the same page! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hold on to your hats in this book it is going to be a very steamy ride. </p>
+
+
+<h2> review.date </h2>
+  12-18-2013  
+<h2> review.text </h2>
+
+ <p> This is a 5 Star! This book has Romance, Suspense, and It's HOT! It had me on the edge of my seat at times.Sebastian Antonio De La Cruz is a very handsome with dark hair green eyes. He is a architect for De La Cruz Inc the family business. He is ladies man not looking to settle down. It seems his brothers and cousins are finding soul mates he is going to be left alone. Tony gets a call to take on a big job he accepts and makes the appointment to meet a the job site but what he is a surprise....Cynthia Lopez is very beautiful tall long brown hair with big brown eyes. She is a firecracker, She's demanding. independent, bossy, pushy, and gets what she wants. When she shows up at a job site she sees what she wants but getting it maybe a problem....Cynthia meets Tony at the job site where the new shopping center is going to be built. First mistake was thinking he was the help second was saying she was his boss. She grabs him gives him a hot kiss which throws him off guard he was not expecting her to be so forward.He tells her company rules he can not see her. Cynthia does not take No very well she;s a HOT MESS got to Love Her. She starts chasing Tony...To make things worse the De La Cruz Company gets threatened by the Mexican Cartel and things start going wrong on the job sites. Attacks start happening to the family. Cynthia's family also is being threatened by the Cartel but they are blaming the De La Cruz family saying they recommended them. So who is behind the threats? Will anyone else get hurt? Will Tony and Cynthia find their Happiness? Guess you will have to read the book.This book is a must read! Another Awesome book by PT Macias </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot and Spoiled! </p>
+
+
+<h2> review.date </h2>
+  06-24-2013  
+<h2> review.text </h2>
+
+ <p> Good story not a huge fan of the characters names being repeated and how the author wrote their points of view. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tiffk </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> I have read this book by an awesome author. Hot and spoiled is a hot read that I highly recommend. The sex scenes between Sebastian and Cynthia are really hot. Sebastian is a strong man compared to Cynthia who always get whats she wants. But I do wish I can give it more then five stars though. But your gonna have to read the book to see for yourself why. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must read yup a must read </p>
+
+
+<h2> review.date </h2>
+  10-08-2013  
+<h2> review.text </h2>
+
+ <p> Would you dare to fall in love with someone that pushes her way into your heart?How far you would go to make your one and only realizes his feelings for you?Sebastian Antonio De La Cruz is an architect for his family's company and his incredible designs are rapidly winning him some fame and respect in the construction area but there is something that he is missing. His cousins and brother are falling in love and even getting married while he still has not found his soul mate. He wishes for a sweet girl that's not pushy and spoiled like most of the girls he meets at the clubs he goes to with his cousins.Well...what we wish for isn't always what we get or what makes us happy. Tony is the living proof of that statement.Cynthia is demanding, spoiled and a little annoying from time to time bus she is actually a very sweet girl that would do anything for her loves ones. She is passionate and isn't afraid to show it to the world. When she met Tony she knew he was hers and only hers.Love at first sight does exist. He is her soul mate and now that she found him she just needs to make him realize they are meant to be.Why is he so stubborn and doesn't want to give them a chance?Why is she so spoiled and doesn't want to realize that the passion they feel is just that?Cynthia moves to fast while Tony is confused about his feelings. He isn't ready for a serious relationship and much less with a pushy and spoiled girl. She is everything he ever wanted and hated at the same time.Welcome to a world full of drama, comedy and romance.If you though you knew everything both the Mexican American world think again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot&Spoiled Love! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

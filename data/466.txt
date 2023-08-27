@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00G7MXV92 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-18-2014  
+<h2> review.text </h2>
+
+ <p> This book was not exactly the silly monster book that my daughter (5 yrs) & I thought it would be.  Plus it has no pictures  which is important to alot of younger kids. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> boo hoo - no pictures </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> This was a great story. We really enjoyed it. The only disappointment was my daughter wanted more pictures to go with the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> funny book </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> My 1st grade & 3rd grade grandkids read this book without me having to tell them. They read it separately & I could hear them laugh. The story was funny & kept there attention, they didn't want to put the book down. I bought the next two books, My Monster Farts 2 & 3  for them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great funny reading </p>
+
+
+<h2> review.date </h2>
+  12-31-2013  
+<h2> review.text </h2>
+
+ <p> I purchased these for my grandson and he will go to the spare room and read.  At first I bought them for his reading material for school, but then I bought them cause he seems to enjoy the short stories.  He can read from start to finish and enjoy himself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic beginner read </p>
+
+
+<h2> review.date </h2>
+  04-02-2014  
+<h2> review.text </h2>
+
+ <p> Kate Clary made us both laugh. My son was laughing hysterically, as any little boy does when he hears the word &#34;fart.&#34; The book was a great portrait of every little boy blaming the world for his indiscretions. We read it more than once. We were able to use the story to jump off into discussions of, &#34;You know when you do things and you blame...&#34; Very helpful little story. I loved watching him have so much fun. We reread this book, and he's looking forward to the others in the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kate Clary Brings "Fart" to "Art" </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> At 9 this was the only book I could be him to show interest in for the start of the school year. 1rst in the series, I was more than happy to laugh at farts with him if it meant reading! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Son loves Farts </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> Yes, I know! I can hear some PC folks complaining that the story encourages bad manners. But, I disagree. The author finds a clever way to address the consequences of bad manners and the rewards and responsibilities of being conscious of others' comfort zones. I also appreciate that the book is divided into small chapters which gives children great practice in graduating from images to analytical thinking while reading. That, for me is way more important than teaching our children that people don't pass gas, or burp at inopportune moments. As a parent, I have instilled in my child what society's &#34;rules&#34; are about what is considered rude or inappropriate. Reading a funny book is not at the top of my list of something to be overly concerned about. I'm more excited that I only mandated he read one chapter to me, yet he read all five chapters in one sitting.Good read... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not PC, but Excites a Young Reader's Imagination... Very Entertaining book... </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> Title appealed to my 6 and 8 year old nephews, but they found the story a little confusing. Good length. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A book for boys. </p>
+
+
+<h2> review.date </h2>
+  05-15-2014  
+<h2> review.text </h2>
+
+ <p> My children loved the book. Everyone I said fart they doubled over in laughter. I didn't think it ended well, but I'll be buying part two :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lol </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> My son laughed through out the whole book.  Kind of a naughty word for a 4 and 7 yr old though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny </p>
+
+
+<h2> review.date </h2>
+  07-22-2014  
+<h2> review.text </h2>
+
+ <p> A funny little book for young children. It is quite short though and there aren't a lot of photos. Good for children aged from 5 to 7. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A funny little book for young children </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> He was quiet during the whole book. Maybe I should have read slower. I will definitely get the other books by Kate Clary. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My grandson loved this book. </p>
+
+
+<h2> review.date </h2>
+  01-24-2014  
+<h2> review.text </h2>
+
+ <p> I thought this book has way more potintial. It could have had so many other things done to it to naked it a really super, funny read for everyone s </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Was. Not that funny to my 6 yr old grandson, </p>
+
+
+<h2> review.date </h2>
+  04-04-2014  
+<h2> review.text </h2>
+
+ <p> Read it to grandkids - they were not that excited about it Will try to read it again to them </p>
+
+
+<h2> review.summary </h2>
+
+ <p> monster farts </p>
+
+
+<h2> review.date </h2>
+  03-18-2014  
+<h2> review.text </h2>
+
+ <p> My daughter enjoy this book...she was just laughing at all this boy had to go through with his imaginary friend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty funny </p>
+
+
+<h2> review.date </h2>
+  11-27-2013  
+<h2> review.text </h2>
+
+ <p> The younger set, boy or girl, will relate to this book because it is about the "f" word, which usually brings laughter or smiles. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute Story </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> Awesome book. It got my son to like reading. He thought the story was about him. He is excited to read the other book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My monster farts </p>
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> My 4 year old granddaughter laughs over and over with these books.  I usually don't encourage the farting books  BUT this is different too cute.  Kids love farting books so as a retired teacher I decided to go with it and glad I did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny kids book </p>
+
+
+<h2> review.date </h2>
+  04-08-2014  
+<h2> review.text </h2>
+
+ <p> Can't seem to get into the story.  I have to keep making my daughter pay attention when reading this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> eh </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004CLYOKK <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> These are exactly what I was looking for. The sound is excellent. They are loud without being annoying or crackly. I'm very happy with these! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! </p>
+
+
+<h2> review.date </h2>
+  03-15-2011  
+<h2> review.text </h2>
+
+ <p> I got these speakers to replace some really crappy ones someone installed before I bought the truck. A MAJOR IMPROVEMENT!!!! They might not be as huge of an improvement for anyone else (my speakers where 2 speakers worth a total of $30 from WalMart), but for the price, they are great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very pleased! </p>
+
+
+<h2> review.date </h2>
+  07-25-2012  
+<h2> review.text </h2>
+
+ <p> I read over all of the many positive reviews for the previous models and decided to buy these, which didn't have as many reviews yet (bought these in summer 2011) to replace stock, OEM rear speakers.  Of course, I noticed a difference, but it was also a big difference.  I first replaced my front speakers (with Polk Audio speakers), which was an upgrade, but I wasn't impressed to the point of wanting to show them off.  However, once I installed these Pioneer speakers, I am happy to show any casual upgrader how they sound.  These speakers impressed me.  I am not using an amp, just a Pioneer AVIC X930BT.  In fact, I'm even using the stock OEM wires going to them.  These speakers are great.  Especially at the $90 or so I bought a pair for, I put these at the front of the best purchases I've ever made list.  No regrets whatsoever.  I'm a little older and don't like to sound like that kid down the street who thinks vibrating his whole car with a subwoofer is epic, BUT these speakers will vibrate my car if I crank up on a song that is bass heavy.  Not like a subwoofer, but they'll pump, which my old OEMs (of course) never came close to doing.  Did I also mention that these are 5 way speakers, too?  Great, great, great upgrade.  These fully warrant all of the previous positive reviews I had read.  One year later, and I'm still enjoying these speakers and their purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> G-R-E-A-T </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> I love these speakers. I installed these in my 2006 Monte Carlo with a AVIC-X930BT. The movie sound in the unit sounds great with these speakers which also include some pioneer 6 1/2 inch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great speakers </p>
+
+
+<h2> review.date </h2>
+  11-20-2012  
+<h2> review.text </h2>
+
+ <p> I love Pioneer! I installed these in my in-laws truck up to a 600w old boss amp and they are killer. Plenty of bass with slamin hits and zero distortion. I would not recommend installing these without an amp because most of your in-dash receivers only go up to 50w. I prefer high watt 6x9s to just about any sub setup. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME!! </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> Just installed these in a set of 6x9 boxes in the rear of my 4runner. I'm driving them with a Pioneer GM 5500T AMP (125W RMS per channel) and they sound fantastic. Installation was a breeze. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Sound, Great Value </p>
+
+
+<h2> review.date </h2>
+  01-03-2013  
+<h2> review.text </h2>
+
+ <p> These speakers sound great. There is real clarity in the sound, and they are being run by a 2001 Impala stock head unit. The highs and lows are distinct. No complaints at all.This review was written about 5 months after purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Clarity </p>
+
+
+<h2> review.date </h2>
+  09-21-2011  
+<h2> review.text </h2>
+
+ <p> i have had this product for about 90 days and after minimal use and an amp that only gives it 75 rms it damages a tweeter.simply pitiful, the only reason i gave this product 3 stars was that the other speaker is perfectly fine and works amazingly well. i am just disappointed in how little stress this speaker has had, and still its tweeter got damaged.the only way i can get around the annoying scratchy sound from the speaker is by turning the volume up higher so that the bass attached to this speaker can drown out that sound.overall good for the money but i suggest running these speakers through stress test before you fully install them, i know i probably am unlucky with my speaker, since the other one works fine but man am i disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> really? blown tweeter with average use </p>
+
+
+<h2> review.date </h2>
+  12-09-2012  
+<h2> review.text </h2>
+
+ <p> These speakers are awesome. Not only do they sound good, they aren't going to cost you an arm and leg to purchase it. I don't have any bass coming through these because all the bass is goin to the subs and the speakers can make your ears bleed and the clarity is wonderful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love these speakers </p>
+
+
+<h2> review.date </h2>
+  02-15-2013  
+<h2> review.text </h2>
+
+ <p> My whole car system is made up of Pioneer equipment. This is my brand of choice and I have no regrets. These speakers produce excellent sound quality for their price point in the market and look good. I'm very simple when it comes to products, all i need is that they function and deliver quality performance. This is the reason I wait before I write a review. I want to be sure that the product delivers what it says it will. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent speakers. </p>
+
+
+<h2> review.date </h2>
+  10-10-2011  
+<h2> review.text </h2>
+
+ <p> I purchased these to install in it in 2011 Camry. These speakers fit well and sound good. I expected that they would deliver decent bass..but they dont. Instead they deliver deep sounds very well. They have inbuilt tweeters which produce outstanding music.For those who need decent sound with a little compromise on the bass..go ahead...these sound great !!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice speakers but not much bass in it </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> I bought these speakers after installing a Sony CDX receiver for my 1994 Honda Accord. The CDX instantly improved my sound quality with the stock speakers, but my rear 6x9s still sounded too muffled for my tastes.These speakers took about 30 minutes to install with two harness adapters, and I was able to keep my stock speakers' covers for use with these (with a minor modification), to keep that OEM look.The sound change was instantly noticeable in the treble and mid range, of all things. The 5 way tweeters (I believe) are to thank for that.My Sony has the option to turn the rear speakers into makeshift "subwoofers" by using what they call the "Rear Bass Enhancer." This gives the 6x9s a subwoofer profile while turning my door and tweeter speakers into mids and highs, respectively.I tried this out on the lowest setting-highest setting, and these speakers can definitely hold their own in the bass department. Even at the highest setting, there was little distortion, even in bass heavy songs.Still, I keep it at the lowest setting, as my rear deck started to rattle after a few days and I had to tighten everything back up.After about 7 months, these speakers are still working like they did the day I bought them, so the quality is there as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Way Better Than Stock; No Amp Needed! </p>
+
+
+<h2> review.date </h2>
+  08-06-2013  
+<h2> review.text </h2>
+
+ <p> the sound coming out of these are concert quality. these things can scream no problem. there getting around 250 watts rms each and seam to be loving the power. make sure not to use a cheap amp on them cause they have amazing quality and dont want to ruin it with bad signal from a cheap amp. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> crystal clear </p>
+
+
+<h2> review.date </h2>
+  11-02-2011  
+<h2> review.text </h2>
+
+ <p> These have awesome sound for the range. As I stated in my other review of the A-series 6.5" 5 way's, they live up the "open and smooth" slogan. They give a sound almost as though they are a component set(almost), and they don't have a the crazy high pitch "sssss's). I run these with HPF set to filter out anything below 100hz, but I sampled these with full open bass frequency and they actually did quite well. They rattled my panels in my 4runner no problem. They put out plenty in-cabin listening bass if that's all you need for bass.  Mind you, I did have them running off an alpine V12 amp with I believe 50W RMS. I recommend them for the budget conscious, but still want great sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome sound for the price </p>
+
+
+<h2> review.date </h2>
+  12-26-2011  
+<h2> review.text </h2>
+
+ <p> Very clean, and loud speakers, I would not recommend using for base all the time, but can handle an adequate amount of base. They are not to be confused with woofers, but they make the system sound nice. The system is factory. Can't wait to get the aftermarket system in to take full advantage of these speakers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Speak Up! </p>
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> UPDATE 12-4-13 Had these speakers since Feb-March and now it sounds like of the tweeters is blown...very annoying, and disappointing that they only lasted 9-10 months...I guess with 4 tweeters per speaker the chances of having one go bad are higher than just having one or two per speaker...I just had my back window replaced so I suppose the glass people could have done it.......I bought these speakers 4-6 weeks ago to replace the stock rear speakers in my 98 civic hatchback, (I'm using them with a Pioneer DEH-3400UB stereo unit, and 2 12" sub's) as expected they are a HUGE improvement over the stock 6x9s. They are much louder,(I can barely hear anything out of my 6.5" door speakers now.)  and have much more bass. Obviously they don't have as much as my subs, but I've listened to them with the subs turned off(can do it from the stereo unit)and I'm not disappointed. In all fairness however, these are my first set of aftermarket speakers, so I cant say how well they compare to other aftermarket speakers, but if your looking to replace some stock,(15yr old) speakers you can't go wrong with these. I'll defiantly be getting some 6.5" Pioneers for my front speakers here soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pioneer TS-A6994R 6" x 9" </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

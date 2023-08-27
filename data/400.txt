@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004VFNHKA <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-03-2011  
+<h2> review.text </h2>
+
+ <p> I did enjoy this book.  There was a LOT of action and it was never dull.  The only problem is that I felt like I was skimming or reading it on fast-forward.  I was actually reading every word, but I still felt like I was missing a lot.  There was too much packed in to the story, with not enough time given to explore the various elements.  Even the romance didn't seem very romantic.  It was all too rushed.  If the author had slowed down a bit, it could have been a really wonderful story.I received a free copy of this book in exchange for my review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too much information, not enough detail </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> Teen shape shifters fight their way to freedom from oppression.There were several instances where I was like &#34;Ahhhhh, so that person's a TEENAGER! how did I miss that!&#34; I didn't miss it, the information just wasn't there until that moment. While Simmons has built very interesting characters and a fairly colorful alternate world, the instances in which the &#34;normal&#34; world is described lacks any detail (told or shown). There are also rather huge chunks of the story missing and the endings not really a true resolution, however the story is quite good, because what is happening is so much more interesting than the missing parts. With a bit more experience under this authors belt, I can only see these books getting better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Despite Plot holes the size of meteor craters, a rather enjoyable read </p>
+
+
+<h2> review.date </h2>
+  08-25-2011  
+<h2> review.text </h2>
+
+ <p> I received a complimentary copy of this book in return for my review of it.I am very impressed with this novel!  I hope I see more coming from Ty Simmons.  This book was just Whoa!I love all kinds of genres of books and I wasn't sure if this would be too adolescent for me, but I believe it was just the right mix of romance and action to keep anyone entertained.It really takes you into the realm of shifters; not just your typical werewolves, but you have all types of shifters that I haven't even considered, which makes the story even more interesting.  And of course you have to have the one gorgeous knight who isn't sure if the side he is on is the right side.You have to love the heroine of the book, Emma, because she is just trying to take care of her brother, Alex, who sometimes gets a little careless, and her little sister, Maggie, who is just a darling in it.I love how the author tied in every little person they meet to the plot.  This author is very good at developing characters!I honestly didn't see anything wrong with this book, maybe that it wasn't long enough for my standards, but other than that I would definitely recommend this to anyone who finds shifters an interesting lot!I cannot wait to see more books come from this author! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Book I have read since Twilight! </p>
+
+
+<h2> review.date </h2>
+  09-26-2013  
+<h2> review.text </h2>
+
+ <p> I wasn't sure about this book at first, but after a few pages I couldn't put it down till the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great read </p>
+
+
+<h2> review.date </h2>
+  09-27-2011  
+<h2> review.text </h2>
+
+ <p> I loved this book.  It was a quick read too.  The Draco sibling's lives are full of adventure as they search for their father while hiding from two different factions trying to capture them for thier shapeshifting abilities.  Along the way they make many friends and enemies including a dragon, a hellcat, and werewolves.  If you like paranormal books, you will love this one!.  It is a Halloween party/costume contest explosion with many fights throughout.  I believe the author raided a costume store to come up with all of his shapeshifting characters and the personalities to match.  In the end, the Draco siblings are better than ever.  I wonder if this book will turn into a series, because I would love to follow up with the characters in the future. I received a complimentary copy of this book in order to review it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Monsters and more monsters </p>
+
+
+<h2> review.date </h2>
+  08-23-2011  
+<h2> review.text </h2>
+
+ <p> Sometimes less is more and this story could do with a lot less going on in it.The story of shifters versus Knights, who are trained humans that control and suppress the shifters and let's not forget the ultimate villain Vesper, who just wants to rule them all. There are three storylines, Gabe the Knight and accidentially becomes what his father hates most, Emma and her siblings looking for Dr. Draco and Cat also Draco's child, but seeking revenge for being abandoned. So in essence you have enough plots for multiple books and that is exactly what is wrong with this book, it is too much and too many. It was like an ecstacy fueled rollercoaster riding through the world of fantasy. It was from A to Z to D to 100 and back. There are some great ideas in this book the author just needs to center on some of them, create a little more depth and maybe save some of it for the next book. It doesn't warrant two stars, because when the writer slows down in the middle (now and again, for a page or two) you can see that there is the possibility of a solid book in there. I received a free copy of this book for my review.Monstrous </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sometimes less is more.. </p>
+
+
+<h2> review.date </h2>
+  10-09-2011  
+<h2> review.text </h2>
+
+ <p> I received a complimentary copy of this book in exchange for my review.I read this book in less than 24 hours, and it was an easy, fast read. I would only recommend it for children who read chapter books or for young teenagers who are into urban fantasy, paranormal fantasy or fantasy books.I think it jumps around far too much, and doesn't develop the characters enough to truly engage adults. There were gaping holes in the story throughout the book that left me wanting more. Although for a child or young teen I think it would be fine.The author is overall a good writer, I just think they need to work on story development and character development a bit more. There were spots in both areas that left me wanting more. The plotlines, all three of them were great, but I like more meat to my stories.Happy Reading =} </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for young teens or children! </p>
+
+
+<h2> review.date </h2>
+  06-01-2013  
+<h2> review.text </h2>
+
+ <p> This book is filled with action and twists that keep your mind reeling. The author does an excellent job of developing the characters throughout the book. This is a good read for young teenagers and highly recommend it. It is an excellent fast paced book about the mysterious and sometimes scary creatures such as: bigfoot, dragons, werewolves, shape shifters, vampires, and many more.***Disclaimer: I received a free copy of this book in exchange for my review, with that said it does not sway my opinion of the book in any way.*** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must Read </p>
+
+
+<h2> review.date </h2>
+  10-23-2011  
+<h2> review.text </h2>
+
+ <p> I liked the characters.  They were interesting although they could have been developed better.  The plot was very confusing though.  It seemed to rotate between several story lines with random extra characters showing up.  I thought the concept was great but should maybe have been three separate books with more background in each for clarity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting characters but very confusing </p>
+
+
+<h2> review.date </h2>
+  06-18-2012  
+<h2> review.text </h2>
+
+ <p> Emma, Alex and Maggie Draco are shapeshifters on the run from Knights of the Iron Brotherhood.  Trying to find their father, Miles, while surviving the attacks of the knights, the kids are befriended by a pack of shapeshifting werewolves, who help them get to Washington where their father is supposed to be waiting for them.Chasing Emma, Alex and Maggie is Vesper, an ancient powerful and evil shapeshifter, who wants the siblings for their shapeshifting abilities to add to his army of ghouls and zombies.They find a new adventure, new friends and finally their father.The author does a great job developing the characters in the story.  At times, I think there is a little too much going on in the story, but it all ties into the plot and keeps the reader's interest in the story.This is a good read for younger readers interested in stories about shapeshifters, werewolves, bigfoot, dragons, vampires and a number of other scary characters.  The story is creepy at times, fast paced but never really scary.  All in all, a very good ready for teens.I received a complimentary copy of this book in exchange for my review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good YA fantasy read </p>
+
+
+<h2> review.date </h2>
+  08-20-2013  
+<h2> review.text </h2>
+
+ <p> This was a great read. The characters were fantastic.  The story was exciting clear through the book. A must read for people who love vampire s, werewolves, varies and more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book!!! </p>
+
+
+<h2> review.date </h2>
+  05-05-2012  
+<h2> review.text </h2>
+
+ <p> This book was s fun and exciting read. There are monsters both good and nasty, of all sizes, a monster for every taste. And they are everywhere.To start with the one downside of the book, it starts off hard to follow. It dumps you into this monstrous world without any explanation nor does it ever really clear up some of the aspects of this world. At times it is difficult to follow who the "good guys" are and who are evil.There are many intersecting story lines, each confusing in their own way. None of the story lines really grabbed my interest enough for me to look forward to reading the next in the series, though the book did leave the story line hanging, begging to be continued.I received a copy of this book in return for my review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Packs a lot in </p>
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> First off if you're looking for a romance book this isn't that kind of book. I will say though it's a fun read. It kind of reminds me of men in black but with monsters. The writing was awesome it's really detailed without sounding boring or drawn out. The pace was fast the events were really attention grabbing and plot was really interesting. It was a little rushed the last few chapters and the love interests seemed a little forced or an after thought but it didn't kill it for me. I wish there were more books following this one. I felt like the story could still go on. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FUN </p>
+
+
+<h2> review.date </h2>
+  09-28-2011  
+<h2> review.text </h2>
+
+ <p> This book was goodish. I would probably change the book description and the romance between E and G. The book description wasn't accurate and that really disappointed me. There was not a lot of real romance between E and G, you could have built it up more and made the book a little longer. You should have spaced the background info into the books if you were to make 2 or 3. Other than that it was a good book, not something I would go out of my way to re read all the time but entertaining for the time being. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Complimentary book for review. </p>
+
+
+<h2> review.date </h2>
+  06-21-2012  
+<h2> review.text </h2>
+
+ <p> The Draco children all have very unique talents, they are considered shape-shifters but all 3 shift into different things and because of this they are on the run from two different groups.  They are also trying to find their father who was supposed to meet them in Chicago but he did not show up.  A pack of werewolves befriend the three and come to their rescue several times in the book.  There is a little bit of romance and a lot of adventure in this book.  The author, Ty Simmons has a great imagination and the creatures that he comes up with in the book and their personalities are so fascinating.  He does such a great job I can picture all the different creatures.  I hope he comes up with a sequel to the book because I was left with some questions about what happens to the teens and their father.  I received this book as a complimentary copy for review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Monstrous </p>
+
+
+<h2> review.date </h2>
+  05-22-2012  
+<h2> review.text </h2>
+
+ <p> This is an enjoyable fantasy for young adults or older fans of the genre. The main characters are on the whole likable and the world created abounds with werewolves, shape-shifters of many varieties and other interesting beings. The overall plot is not bad: three siblings with special gifts search for their father with dangers from villains and "good guys", warrior knights whose mission is to confine shape-shifters to enclaves or exterminate them if they go where they are not allowed.The problem lies in a good concept in need of a better editor to tighten up loose ends in a plot that often lacks credibility. Too many miraculous escapes are used to keep characters alive when more plausible situations could be used. Rather obvious ways to avoid harm are too often ignored in favor of far-fetched scenarios.There is a lot of possibility for a series in the premise. I hope the author generates sufficient interest to obtain a first class editor that could turn an okay book into a fabulous one.To me, despite Amazon's opinion, a three star book is not negative rating. It's merely a read that fails to meet its potential in some way. It's a bargain at the current price for a casual and entertaining read, especially if you can suspend your disbelief enough to accept some of the situations. I would give 3 1/2 stars if that were possible.I was given a free copy of this book for the purpose of a fair review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth a read but could use a good editor </p>
+
+
+<h2> review.date </h2>
+  09-08-2011  
+<h2> review.text </h2>
+
+ <p> I received a complimentary copy of this book in exchange for my review.I found this book very good.  The characters were easy to get to know and like.  The plot got a little confusing at times but all in all it was a good read.  I would recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Monstrous </p>
+
+
+<h2> review.date </h2>
+  08-19-2011  
+<h2> review.text </h2>
+
+ <p> I received a complimentary copy of this book to review. I found it very engaging, I read it in one sitting. The characters are very well developed and make you care about and want to find out what happens to them. As a debut book, it is very impressive. I hope this becomes a series to find out what happens to all of them. There is an excellent opportunity for backstories for all of the characters involved. I hope Ty Simmons continues to write a long and prolific series of books. I look forward to reading them. I already lost sleep staying up to read the first one. Very strong start for a debut novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very engaging </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> I received a complimentary copy of this book for review purposes.I enjoyed reading Monstrous.  I am a fantasy junky who loves the paranormal/supernatural genre and this story did not disappoint.  It is a nice, fast paced read with well developed characters.  Happy reading! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable </p>
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> Based on the description this was so much more than I thought it would be. A world within our world if you will.Here's a valuable pice of informations, I'll be buying the next one and I rarely actually pay for books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprised with how much i liked it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

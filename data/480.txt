@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00I30DQ46 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-14-2014  
+<h2> review.text </h2>
+
+ <p> Really great tips on health and nutrition. I would recommend this to anyone trying to get healthier and look younger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great tips </p>
+
+
+<h2> review.date </h2>
+  02-22-2014  
+<h2> review.text </h2>
+
+ <p> This book gives very practical and useful information on how to eat and live a healthy anti aging lifestyle.If you're looking for good info on the keys to a more youthful you....this is it!....highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent!...Very well written! </p>
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> Kale, quinoa, fibre, oils, fish, proper sleep, etc etc. You've probably heard these things for a very long time, and obviously because we still live on the same planet which has the same kind of food and stuff and their benefits do not change every year.You'll find these tips and many more just by searching online. There is no SECRET magic ingredient or technique in here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Same things you'll find on many online webpages. </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> This book was packed with lots of great tips that are all very useful. I love how it went into your diet and really breaks down what you should and should not be eating. Overall great read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Informative Read </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> I jut love books that focus on homeopathic remedies. As someone who can stand the after taste of fish oil, the recommendation of flaxseed was right on the money and is something I will try. I may even try sleeping on my back. Finally I got some great tips on how you can sleep on your back in comfort -- its just a matter of using the pillows the right way. The Author is very detailed and comprehensive even though the book is a concise read. A DO Recommend!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Advice on Natural Anti Aging methods </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> Author Seho Song doesn't share her background so we are left to understand that this is a writer who is genuinely concerned (and knowledgeable about nutrition. The book is very short and Song makes the points brief and memorable. The driving force is the concept that diet pills and supplements and cosmetic surgery are not the answer for avoiding the aging of the body and its integument. The secret is in eating correctly.Healthy foods are vegetables and fruits, the highly nutritious ones being blueberries, leafy green vegetables, tomatoes and carrots, all of which protect the cells of the body, preventing free radicals from harming them. They also provide zinc, carotene, and vitamin C. Other foods in this family are discussed with the specific end target of their healthy effect. Such healthy elements as reservatrol, hyaluronic acid an their sources have been proven to erase fine lines in the skin. Other families of foods that are beneficial include whole grains, fish (salmon, sardines), dairy foods (especially yogurt), nuts, beans and lentils, tofu, cinnamon. Once the good foods are discussed thoroughly, the foods to avoid forma chapter - foods high in fat, salt, sugar.Song talks specifically about skin care through diet as well as topical care. Then come the meal plans for a seven day course - each meal of each day is discussed along with the benefits of each of the ingredients. The importance of sleep and of maintaining the balance of good bacteria (probiotics) rounds out the nutrition course Seho Song offers.There is nothing strange or new about what the author describes, but it is the terse and digestible manner in which the book is written that makes it well worth keeping around as a constant reminder of the importance of diet and anti-aging. Grady Harp, February 14 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slowing the progress of aging with diet </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> A well written book by the author, which came with practical and easy to follow guidelines. How to live a healthy anti aging life, this book will guide you for sure. It's an easy read for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy and Comprehensive </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> My age turned to the stage in my life when I have to start taking care of my skin and overall look and shape. I got this book just in time; I learned many important things about anti-age diet that I did not realize before.This book describes what foods we should avoid and what foods help us to stay young longer. It also includes a meal plan for 7 days that I'm going to try. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anti aging diet secrets </p>
+
+
+<h2> review.date </h2>
+  02-24-2014  
+<h2> review.text </h2>
+
+ <p> Another great book on how to stay young. Tips are simple and easy to follow and this book explains everything I expected from the title. I have learnt some new things I&#8217;m gonna try in next few weeks. Great read and great book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anti-aging secret </p>
+
+
+<h2> review.date </h2>
+  02-07-2014  
+<h2> review.text </h2>
+
+ <p> I have to admit that until a short while ago I really hadn't worried so much about aging, but recently I noticed new wrinkles that have popped up and all of a sudden I realized that I was getting old. So, I went looking for ways to slow down the aging process without prescriptions or costly treatments and found &#34;Anti-Aging Diet Secret&#34;. This is a smart, informative and well-written guide that helps to identify and understand natural ways that you can use nature to help you slow the looks of aging. From foods that help speed the process of aging along to supplements that work with your diet to balance the body in a healthy way (thereby helping to slow aging), Seho Song makes it easy to understand and apply anti-aging &#34;cures&#34; that are pretty much a fountains of youth. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Filled with Secrets for Stopping Aging in its Tracks </p>
+
+
+<h2> review.date </h2>
+  02-02-2014  
+<h2> review.text </h2>
+
+ <p> The Anti-Aging Diet Secret is a great resource for those of us who just want the facts without all the fluff and lingo that goes with most diet self-help texts. The author is clear and concise.  Information is relevant, doable, and practical.  This is a wonderful book to &#34;get to the point&#34; of the matter to reverse the aging process.The core of this book is to inform the reader that vitamins, pharmaceuticals, and manipulatives do not get to the source for the cure of the aging process. Solutions for reversal are practical and &#34;delicious.&#34; The author stresses that consuming healthy food is the basis of maintaining one's youth naturally.  Best of all, healthy foods are listed with the benefits of each when it becomes part of your daily diet.A special bonus includes skin care and a seven day meal plan for a great beginning to a youthful and healthy jump-start to develop your own plan.Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical and Informative </p>
+
+
+<h2> review.date </h2>
+  02-24-2014  
+<h2> review.text </h2>
+
+ <p> The book did a good job of reminding me of how important vegetable and fruit consumption is to my health. It is also reminded me of the damage that too much salt and sugar can do to my health. The meal plan was helpful. I recommend this book for those who want a quick read about healthy eating. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anti-Aging Diet Secret </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> Love this book! I'm learning so much about nutrition and aging. It lists all these &#34;wonderfoods,&#34; all its benefits, and includes recipes and other ways you can use each to look younger than your age. This is a very interesting book. The book is clearly written and arguments well made. Included in this book are food list and recipes. Highly Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a very interesting book </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> This is a well written and well researched book. Nothing ground breaking but the simplicity and ease of which you can apply and use the advice to your own diet is commendable.The book provides a decent overview of the foods one can eat and the anti-aging properties they contain. Menus were helpful! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid, sound and practical tips! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

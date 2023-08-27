@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1603134069 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> I received a copy of this book in exchange for an honest review.This book was a really fun and sexy intro to a new series of Alaskan shifter filled with a solid murder/mystery and some yummy romance.  The writing style was very engaging and made for a quick, enjoyable read overall.Eliza is a determined reporter.  She won't be stopped by the fact that she was only hired as a tabloid paranormal reporter slow down her career.  Sent to the Alaska on a werewolf assignment, the last thing she expects is to meet the real thing.  There's a string of murders that all point towards a dangerous killer on the loose, whether it is paranormal or not, and the story certainly had you wondering when the murderer would strike again.  On her way to unraveling the mystery, Eliza meets the hottie teacher, Hunter, who certainly knows a lot about wolves.  Their attraction really skyrockets from the first meeting.  Suddenly, Eliza finds herself wondering if she might be able to see herself in Alaska for more than just a story.This intro to the series book was enough to have me looking into the author's other works.  It was nice to have a quick and easy read that had bits and pieces of all the things I like about paranormal romance.  I'm interested in seeing what else is released from this author in the future.  This book was definitely worth checking out if you're into hot werewolf romance reads that will also deliver a healthy dose of murder/mystery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun New Series </p>
+
+
+<h2> review.date </h2>
+  05-31-2014  
+<h2> review.text </h2>
+
+ <p> Eliza is a reporter who gets a job with Paranormal Times, a paranormal magazine. When she is sent to Alaska to find out about two murders. The cops believe a wolf killed them. She goes to animal behavior specialist Hunter who is a professor at the college. When they first see each other at the diner, they both feel the connection between them. While they are hunting a killer, a killer is also hunting them.Plenty of animal magnetism, sex, and a killer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent story. Hope there will be more. </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> Fun, sweet, and sexy.  Sexy werewolf professor meets reporter for paranormal rag.  The attraction is instant and irrepressible.  Now they just have to survive the rogue werewolf who is killing humans and avoid her fellow reporters.  Well written and fast paced this is a fun escape.Complimentary copy provided by author/publisher via NetGalley for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well written and fast paced this is a fun escape. </p>
+
+
+<h2> review.date </h2>
+  06-06-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book.  It has everything in it, sex, mystery,  murder,  revenge,  and humor!  I love werewolf books, but this was so much more than that!  I would recommend this book to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> book by Paige Tyler </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> Received an ARC for review from NetGalleyA great love story with a mystery, a touch of erotica, and a werewolf or two. I really liked how Hunter could smell that she was something special but wasn't all she's my mate and I must have her now. Liked the little side romance with Nate. Overall a great read. I look forward to more in this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> animal attraction </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> ANIMAL ATTRACTION,  Alaskan Werewolves Series Book 1, Paige TylerReview from jeannie zelos book reviewsThis started well, very intriguing premise and I was quickly pulled into the story. Eliza is a fun character, working for a low grade paper after being fired from her old one, she's using it as a stepping stone to get back up the ladder on the press route. Though the paper is a paranormal features one, she's sceptical and can't quite believe that people really think that supernatural creatures exist, and isn't sure how she can write her stories witout compromising her principles of telling the truth ( wish all journos were like that!) She decides to gather evidence as if she were on a normal case and take it from there. She meets Hunter &#8211; Hunter the Hunk! - who's not only a local expert on wolves but also a werewolf himself. He's concerned about the killings too &#8211; it doesn't look good on his pack if there's someone out killing, they try hard to blend in unnoticed and killing people is the last thing they'd do...then he and Eliza meet, he helps her with the evidence gathering... and they get closer, very much closer ;-) and there's some hot and erotic scenes between them. Things get more personal with the rogue werewolf, more killings and Eliza is in danger.It's a good story, well executed, and plotted and it ought to have been a five star read for me. I'm not sure why it wasn't, somehow I just started to lose interest halfway through, but I can't explain what went wrong for me. It's still a decent read, good length and price and if,  as it seems, its the start of a series I'd be happy to continue. First books in a series have a hard job &#8211; they need to introduce characters and also keep the reader interested in the story, and that's tough to pull off. I liked the characters and settings here, I think maybe it was just a lack of real tension and drama in the story for me, I never really thought Eliza was in grave danger and the plot was quite predicatable in how it played out.Stars: Three &#8211; its a good read, just not a great one for me. If you want a paranormal that sexy and easy to read, you'll enjoy this. I just need that bit more edge and drama , and need to puzzle out who, what and why.Arc supplied via Netgalley </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fun and easy to read </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> Animal Attraction by Paige Tyler is her first book in her Alaskan Werewolf series.  In Animal Attraction, Eliza Bradley wants to be a journalist but instead has worked as a fact checker for the last four years. Since the current newspaper Eliza works for is unwilling to promote her, Eliza finds a job at a local paranormal magazine. Eliza doesn't believe in the paranormal but is willing to do whatever she can to become a journalist.  Eliza's first assignment is follow-up on a werewolf sighting in Alaska. With her photographer Alex in tow, Eliza heads to Alaska.In Alaska, Eliza is skeptical but keeps an open mind when interviewing Nate, the local who reported the werewolf sighting.  Nate is a supporting character but he has a small side story going on which I really enjoyed.  The main hero is Hunter McCall, local college professor and secret werewolf.  Eliza and Hunter instantly click and I found both characters really interesting and enjoyable.  They keep secrets from each other in the beginning but when the truth comes out neither get mad at each other, which I found a refreshing change cause frankly I get tired of stories where the characters spend half the story getting mad over secrets.Overall the story had an interesting story line, great characters, and some very hot bedroom scenes. Oh and my personal favorite: a spanking scene.  Since I am very fond of several of Paige's novellas that feature spanking I couldn't help but smile when I read that scene. Highly recommend this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Paranormal Romance! </p>
+
+
+<h2> review.date </h2>
+  06-01-2014  
+<h2> review.text </h2>
+
+ <p> NUMBER OF HEARTS: 3 1/2REVIEW:Animal Attraction the re-release of Paige Tyler&#8217;s first book in her Alaskan Werewolf series.Being unemployed sucks.  That is how Eliza ends up finding herself in the middle of Alaska trying to track down a killer werewolf.  Of course Eliza doesn&#8217;t believe in such things which makes working for a Paranormal newspaper a little hard.  But once she is on the trail Eliza realized that there is much more to this story then just the paranormal.  So with the help of the hunky professor and wolf expert Hunter McCall, Eliza is going to solve this case even if it kills her.I enjoyed this book.  I really like how Eliza&#8217;s mind worked and her openness to the paranormal world.  And Hunter was just great.  I really enjoyed the first interaction with Hunter and Eliza.  Who knew ketchup could lead to true love.  What to know what I am talking about?  You need to pick up a copy of Animal Attraction and find out for yourself.Disclaimer:I received a complimentary copy of the book from Paige Tyler in exchange for an honest review. This review is my own opinion and not a paid review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Being unemployed sucks </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> I  loved this book very good story and chemistry between eliza and hunter, and the story totally didn't go the way I thought which was cool! I like great endings! I am off to read the rest of the series don't know what took me so long! :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yea for were wolves </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> I started reading Paige Tyler when she was writing spanking romances. Then I read a few of her Paranormal books like Dead Sexy, Vampire 101 and Her Perfect Mate and they were elaborate thrillers and now I read Animal Attraction ( Alaskan Werewolves Book 1) and this story line is totally awesome. Eliza gets a job on a Paranormal Magazine and goes to Alaska with a photographer to research and write a story on Werewolves who attacked and killed several people. She turns to Hunter, a professor of wolves and their culture, and they feel an instant attraction. Hunter has one little secret that he doesn't share and that is that he is a Werewolve but love will overcome these pesky little details. There is still a rouge killer Werewolve on the loose and he would love to kill Eliza and Hunter. There is some spanking and it's the erotic sexy kind and it's so hot it could melt your panties.Bravo Paige,  more please. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrific story </p>
+
+
+<h2> review.date </h2>
+  06-28-2014  
+<h2> review.text </h2>
+
+ <p> Love a good shifter book? A good mystery with action? A good romance, with good characters? That&#8217;s what you get when you read this book. I enjoyed the book, except for one aspect which I will talk about farther down in the review.What I liked about this bookThe premise of a reporter from a paranormal magazine(sent to prove if werewolves exist), falling for a werewolf, was pretty interesting. I love a good shifter, love story, and this was a pretty good one. I loved the mystery of the rogue shifter killing people.There&#8217;s lots of action and suspense in that part of the story which I really enjoyed. I loved the characters of Eliza and Hunter and their romance, even if it was pretty much insta-love. I would have liked a bit more world building as it pertained to the insta-love aspect. Was it a mate thing? I still don&#8217;t know and actually Hunter wondered the same thing. And while I am on the subject of Hunter, I really liked what a good guy he is in this story. The author didn&#8217;t make him have a temper or blackouts or any number of things I have read in other books about werewolves, and I liked that! It also hurt a lot when he shifted. I think a pack would have added to the story as well-it just was another and different aspect of the world building, in that Hunter lives alone, with no pack around him. And that isn&#8217;t a complaint.What I didn&#8217;t like about this bookI was really excited to get this book from Net Galley for review. However, I ended up wishing that it had been mentioned that this was pretty much erotica, along with a really good story. I am not a fan of erotica, and I would not have requested the book had I known. Not the authors fault at all. I don&#8217;t mind a good sex scene(or several) and actually expect them; this book just crossed into the erotica arena a bit for me. BUT, I did really love the story itself, so I just skimmed through the sex scenes after awhile, and that was fine.Who would I recommend this book to?Any adult that likes shifter or paranormal stories that feature erotica elements.Actually, I really liked the premise, the romance, the characters, the mystery, just about everything about this book. I can live with the erotica element, because I really enjoyed the rest of the read.(PureTextuality.com) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3.5 stars rounded up to 4 </p>
+
+
+<h2> review.date </h2>
+  06-30-2014  
+<h2> review.text </h2>
+
+ <p> My second book by this author and it's the first in her new Alaskan Werewolf series so a great place to start if new to this author. This story has apparently been released previously but is now expanded with additional characters and even though I haven't read the previous addition I feel that this is a good length with lots going on and a great introduction to this world that the author is creating.Eliza has wanted all her life to be the sort of journalist that people respect but unfortunately she just seems to be used as a fact checker! Getting a new job working at a paranormal magazine may not be the dream she's always held close but at least it will pay the bills and for once it will be her name on the by line. Ok so far so good but being sent to Alaska to chase up a werewolf story? Now that's just insane and Eliza feels that she just might have jumped out of the frying pan and into the fire!Fairbanks is home to werewolf Hunter and he's used to the odd lone wolf challenging him for territory but the recent murders are certainly not what he's used to. It would seem a werewolf newly turned has an ax to grind and Hunter needs to find that person and stop the killing. Meeting Eliza quite by chance sets all his senses alive but realising she's out hunting a story about werewolves gives him pause. Luckily the attraction is mutual and pretty soon they will work together but Hunter needs to keep his guard up which is getting incredibly tricky. Unfortunately the rogue werewolf hasn't finished with their killing spree and poor Eliza keeps finding herself directly in the cross hairs! Can Hunter stop the rogue before it's too late? If he does though what will happen next as Eliza admits she's a city girl so there's no way that she would ever stay in Alaska, is there?I really enjoyed this story and thought it was a great introduction to this series. I love a mystery and even though paranormal stories are my favourite genre I do love a story filled with plot and suspense. This book has that in spades with an unusual premise that I haven't seen before. If you enjoy action in your romance then you will not be disappointed as both the villain and the hero clash a time or two but I found the heroine Eliza to be the biggest revelation! She may not be a super duper paranormal or anything but she is a very courageous and intelligent young woman and I love it when heroines fight back.This is a romance and this author writes seriously steamy scenes so please be prepared for erotic interactions but as I expect passion in a werewolf story I'm fine with that. Interesting characters and Hunter apparently has a twin living in Seattle so maybe we will get his story soon. A well thought out story and I will certainly read more from this author.Arc supplied by Netgalley </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ... first in her new Alaskan Werewolf series so a great place to start if new to this author </p>
+
+
+<h2> review.date </h2>
+  01-06-2009  
+<h2> review.text </h2>
+
+ <p> Eliza Bradley is disheartened to find that not one established newspaper will hire her as a reporter.  Irritated but unwilling to starve, she takes a job with a paranormal magazine that investigates supposed paranormal stories.  Traveling to Fairbanks, Alaska to investigate claims of a rogue werewolf preying on humans, Eliza tries very hard not to roll her eyes but upon arriving at her destination, the beauty and aura that is Fairbanks makes her think that if something paranormal was going to happen, then where she is staying is the right place.  And so her investigation begins.Hunter McCall is thought of as a sort of expert on wolves.  Makes perfect sense since he is a he is a werewolf.  Hunter runs into Eliza at a diner and when she asks to borrow something from his table and their hands touch, sparks fly.  Hunter is surprised even further when Eliza's investigation leads her to his door.  Unable to keep their hands and mouths off of each other, the two embark on a steamy affair.  It isn't until Hunter is hurt while investigating the rogue werewolf on his own that he comes clean about his shape shifting abilities.  Abilities that Eliza never thought she would believe.ANIMAL ATTRACTION by Paige Tyler is scorching hot. More than once I blushed watching and being witness to the sheer animalistic attraction shared by Eliza and Hunter. Speaking of Hunter, he was a werewolf after my own heart.  His complete infatuation with Eliza shined through and I wanted him so very badly to tell her that he was the very creature that she was looking to find.  Eliza's character made me smile more than once.  While she took the job as a reporter of a paranormal magazine because she had to and even scoffed at the possibility of werewolves, I loved watching her opinion on the possibility of werewolves change.  The love scenes between Eliza and Hunter were erotic but romantic, forceful but sensual, and naughty but playful.  The feelings and depth of emotions Eliza and Hunter felt for each other, almost immediately, were believable and so very sexy.After reading ANIMAL ATTRACTION I will never again look at a hot tub without remembering this risqu&eacute; but thoroughly entertaining novel.  Paige Tyler is now on my list of authors to watch for and I know that other readers will feel the same way!  ANIMAL ATTRACTION releases from Whiskey Creek Press Torrid in September!***Natalie S. for Wild on Books*** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Four Bookmarks from Wild on Books! </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> I had original read this book as part of a bundle,having never read any thing by Paige Tyler...imagine my delight,a hot new werewolf series! Gave the the book 5 stars, it was well written and the story had me captivated. What sets the particular book apart, it has an escape quality(we're the author draws you into the story ..I felt as though I was watching it unfold)in my opinion it's a must read! Animal attraction, Eliza Bradley wants to be taken seriously as a newspaper reporter and hasn't been able to land her dream job. Having to take what is offered she settles for a paranormal magazine and is whisked to Alaska. Researching the local news for clues on her werewolf story she comes in contact with werewolf expert and professor Hunter McCall. She finds herself in his bed(many many times...HOT) and he is harboring a secret. Hunter has never been drawn to a women,but there is something that calls her to him. While investigating the wolf attacks...there is an amazing attraction,that they just can't deny. But now the hunters become the hunted. Can Hunter keep the women he loves safe? Will she leave him the way his mother had once his secret is revealed. Can Eliza keep her man,even though the were wants to destroy them both? The book had me on my toes! It really a must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sinfully sexy! </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> I haven't read anything by Paige Tyler before.  Considering I "discovered" her through Blushing Books, I was surprised to find an excellent story with some erotic romance  instead of pure erotica with a little bit of story.  Don't know about the rest of her books, but this one is a very good read!  Well worth time and $. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Story </p>
+
+
+<h2> review.date </h2>
+  06-28-2014  
+<h2> review.text </h2>
+
+ <p> ANIMAL ATTRACTION is a contemporary steamy shifter wolf story that is very entertaining. The looking for a wolf while unknowingly being with one was a great start to this story of Eliza and Hunter. I found it amusing that Eliza worked for a paranormal newspaper but didn&#8217;t believe in the paranormal. Her determination to get the facts was a compelling reason to like her. Plus, she was a strong minded individual but willing to adjust her thinking according to the facts. I liked that. Hunter was not just a hunk of a guy but an interesting intelligent one too. I liked that too.  I found the setting in Alaska to be quite a nice addition. It fit this story very well. Overall a very intriguing story with romance, secrets, action, suspense, mystery and a few twists.I went to Paige Tyler&#8217;s website to read about this before requesting since she is not an author I had read books by before. The site stated that this is a reissue but if this was written years ago. It is worth a second look. I recommend this book if you enjoy well written werewolf stories.Copy provided by NetGalley for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Alaskan Werewolves are HOT! </p>
+
+
+<h2> review.date </h2>
+  06-30-2014  
+<h2> review.text </h2>
+
+ <p> If you want a good mystery, romance, werewolves action and adventure, this book is for you.If you are looking for the typical DD Paige book with spanking&#8230;.you will be disappointed.  There are a few slap and tickle scenes before making love.  There is graphic sex, but it is pure vanilla.But the story is wonderful.  It is a good read that keeps you guessing from the beginning.  There is animal attraction between the  good Doctor, Hunter, and Eliza.It had a happy ending.  It was well worth the read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Animal Attraction.....wolf wolf.... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

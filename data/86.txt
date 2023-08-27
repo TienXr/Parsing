@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004NELCLU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-27-2013  
+<h2> review.text </h2>
+
+ <p> Old macbook white makeover. Grandaughters starter macbook was cleand and dressed up in pink . Case fits nice and stayes snug. the circle cutout fot the apple logo is slightly high but the look and fit of the case is otherwise great. and she is happy with her pink mac book.  This case fit  finish and function is very good and looks sharp. This was a hit for her. Thumbs up </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case </p>
+
+
+<h2> review.date </h2>
+  10-02-2012  
+<h2> review.text </h2>
+
+ <p> I bought the pink case. The circle on the top case fits perfectly over the apple on my older macbook. I have added stickers to decorate the case. It is very hard to find a case to protect my older mac and I am happy with what I received. I will be ordering one for my friend who happens to have a older Macbook too. : ) Thank you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVE IT! </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> This has got to be one of the worst quality products I've ever bought off of Amazon.  The plastic this case is made of is amazingly brittle, and it will only take a few minor bumps or drops for it to crack and fall apart.  The cutout for the Apple logo looks like someone cut it with hole saw.  Rough edges, no beveling, in short this looks like it came out of a high school shop class.The original case shipped to me arrived cracked & chipped.  I will give the vendor credit in that they quickly shipped out a replacement, but good service can't overcome what is clearly an inferior build quality and construction.Avoid at all costs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheap, brittle plastic </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> My son just loved it, because it will not scratch up his macbook pro in any way and the case is see through to keep it's natural color. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Top Case </p>
+
+
+<h2> review.date </h2>
+  06-27-2013  
+<h2> review.text </h2>
+
+ <p> This case is very useful for protecting your laptop.  The only thing is that it scratches your on the edges where your wrists rest while typing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very useful </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> I read a few review, and I still went ahead and bought the products. The product is definitely better than what the reviewers mentioned for a macbook  2nd generation.I would recommend this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product </p>
+
+
+<h2> review.date </h2>
+  06-09-2013  
+<h2> review.text </h2>
+
+ <p> The covers look great and protect all important areas of the computer the keyboard skin takes a little getting use to. COvers make the lid close very quickly </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent cover </p>
+
+
+<h2> review.date </h2>
+  04-23-2012  
+<h2> review.text </h2>
+
+ <p> The case did not work for me.  The first one arrived and promptly cracked upon installation.  The company immediately sent us another case.  It cracked in the same place as the first.  I asked for my money back, which they refunded without complaint.  I guess I'm saying don't be afraid to try the case.  They will make it right if it doesn't work for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Top notch customer service </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> I like that the case protects the machine from scratches. It fits on the A1181 just right except that the circle does not go exactly around the apple. It is off quite a bit. But I'd rather it protects the machine so I don't care that much and for $13 I can't really complain. Also ordered the matching keyboard/palmrest cover. I like that but it collects so much dust underneath it drives me crazy! It does fit right but the &#34;F&#34; key markings are incorrect, luckily I already know what they do and don't require the cover to tell me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for the price. </p>
+
+
+<h2> review.date </h2>
+  03-03-2013  
+<h2> review.text </h2>
+
+ <p> My macbook with the case look like more big and weight a lot :/ when i go out with the lap i have to take the case. the case is fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> my lap look like big </p>
+
+
+<h2> review.date </h2>
+  04-23-2014  
+<h2> review.text </h2>
+
+ <p> Very stiff plastic with a hole cut sort of where the apple logo is but off center.  Cheap.  Tacky.  Meh color.  On the heavy side.  I don't like it much, but it will do the job until I can find something nicer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> blah </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> everyone here is complaining about how its garbage, but honestly, it isnt that bad. it wasnt what i expected though. the pics may be a little deceiving. i thought it was going to be a case that actually covers the apple logo and then when you turn it on the light of the logo shines through the case so you see it, but its not. Theres an actual cut out circle in the middle of the top case so you see the logo even when its off.so if you dont want the hole in the middle of the case, then this isnt the case for you. the case does its job of protecting your macbook though. those who say it breaks easily are probably too rough and dont realize it. i put it on and then had to take it off to clean the macbook. it was fairly easy to remove. you just have to take your time and do it gently </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not what i thought it would be, but it does its job </p>
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> Top and bottom pieces fit fine and I think improve the flat black finish. Small blemishes disappear. Of course scratches in the clear plastic will start even with careful handling. Still a worthwhile addition. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice addition to an old Mac </p>
+
+
+<h2> review.date </h2>
+  10-28-2013  
+<h2> review.text </h2>
+
+ <p> Mine arrived quickly and looked exactly as pictured. Fits my 2006 macbook perfectly. The cut out might be slightly off center, but the leaf part of the apple logo would make almost anything seem slightly off center anyway, in my opinion.  My only real complaint with this case is that the edges are kinda sharp *not as in scratch and cut yourself sharp, just that when you're typing, if your palms rest at the edge of the keyboard at all, the sharp edges make it kinda uncomfortable*  Beyond that, however, I'm quite pleased with this case as it will protect my laptop from scratches, it looks cute, and it fits well and securely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Bad </p>
+
+
+<h2> review.date </h2>
+  09-09-2013  
+<h2> review.text </h2>
+
+ <p> This is  a good cover.  It definitely does the job.  The only complaint I had was that the back part of the cover didn't snap on as easily as the rest of it and as a result I thought it wasn't going to fit.  With a little force I was able to snap it on .  Overall, it is a good cover. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Good cover </p>
+
+
+<h2> review.date </h2>
+  04-19-2013  
+<h2> review.text </h2>
+
+ <p> I bought this so that i could have some way of adding a little protection to my plastic lapotp. it worked alright. but when you type the edges near the bottom feels like it is cutting your wrists a little. (if your into that sort of thing). but after about a year of coarse it will start to break down. but after the first month or so the bottome half was getting cracks in it and the top part had some quiet extreme ones. but dispit these cracks it still held on. i eventually abandoned it because it was getting out of hand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> temperary </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> They did their homework when making this case...it fits my macbook perfectly. My nephew and I got our macbooks about the same time...the difference I got this case and he did not. In just little while I have owned this we just compared macbooks a few days ago...and where his is scratched and marked up...mine is as smooth as day one and I like that for many reasons...as a means to protect my investment but to ensure that when I do move to the next laptop this one will be easy to sell because of the prorection and new looking for years to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect fit... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

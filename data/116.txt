@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B008DHS1K8 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing little gadget </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-29-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> What an amazing little gadget! After charging the device I took it out on the course. I compared it with my SkyCaddie SGX. The first thing I tested was how fast it detected satellites, one of my peeves with the SGX. It took just as long as the SGX but, if you turn it off and on again on the same location, it will get its act together faster than the SGX that needs to go through all its satellite detecting rigmarole every time it is turned on.Next topic is accuracy. Its distances are within one or two yards of the SGX and the yardage markers. Since the error favors the SGX as often as the SWAMI wrist watch I consider them equal in this respect.Third is speed at providing the yardage; and important factor if trying to play on a crowded municipal course on a weekend. I take my hat off to the SWAMI as it usually decided on the yardage a few seconds before the Skycaddie.Of course it is not the same thing. For one, the SWAMI gives you the distance to the front, center and back of the green while the Skycaddie will also tell you the distance to obstacles, and distance needed to clear. In addition, the SGX has a nice screen where you can find the distance to any desired point. But if comparing this device to the simpler GPS models, with no image screen, it performs really well.Next: Ease of use. The device comes with a simple manual that I skimmed through. It is easy to set up, and also to use. It has a shot distance mode and a scoring mode that I did not use. I took the manual with me on the course but did not need to use it. The device moves smoothly from hole to hole without needing any input. The device is larger than a wristwatch, but lighter than many watches, it is comfortable to play with and is water resistant, important since it is more exposed than a handheld GPS unit.One caveat, the large buttons are easy to handle but also easy to press inadvertently and you may find yourself with a distance that makes no sense. I was shocked when it was giving me a 400+ yardage o a par three. A glance at the screen told me it had moved to a different hole.The battery lasted through the round and the indicator showed about half charge after I finished. It will recharge rapidly from a wall socket and, more slowly through the USB port in your computer.It comes with more than 25,000 preloaded courses with no subscription required. There is an easy way to change the front and back distances, useful if a green at a given course changes as there is no way to get updates for the unit.It will not replace my SkyCaddie but it is a great device, particularly useful in a par three or for a quick round on a course that you already know. My wife really liked its ease and speed of use. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works well, poor efgonomics </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like using this more than my other IZZO Swami GPS. The one that I have had and used for a year get clipped onto my bag or my belt. They both work well in that they easily and accurately load and recognize the courses that I play at. They only give distance to the front and back of the green and to the pin. I think this is enough since my partners and I mostly agree that a full detailed map of the fairway takes away important skills of the game.The problem with my clip-on is that I always forget to take it off my bag and charge it. So half the time it's dead or dies mid game. I was very enthusiastic for this watch design cause I always wear a watch anyway and I thought that I would be much better about remembering to charge it. I thought that if it worked as well as the clip-on (which it does) than it would provide the perfect amount of on course assistance and be right at my fingertips. I will say that it does it's intended task perfectly and accurately.However, I find that it is too big and clunky for me personally to use as a regular watch. I don't wear it off the course, so I am a little better about remembering to charge it. When I get home I usually take it off to replace it with my preferred daily watch, though I tend to forget to grab it about as often as I forgot to charge the clip on. Finally, since it is substantially more bulky and a little more heavy than a normal watch I find it's size somewhat distracting for my swing. I wouldn't wear it when practicing my swing or at the driving range, though I don't mind a normal watch at these places. If you are used to a relatively large or bulky watch than this might not be much of a problem, but for me I find that I prefer my clip-on. Hopefully their next watch is a little more svelte, stylish would help too, but I'm not overly concerned with looks, though some of my partners have commented that they wouldn't wear a GPS that looked so clunky. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good basic golf GPS watch. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I would say this is a good basic GPS watch.  It may not have all the bells and whistles of some of the others but those other brands can be much more expensive and this watch is not meant to compete at that level.  Overall the watch is comfortable to wear and was easy to set up.  It shows you yardage to front, middle and back of green which should give the average golfer exactly what they need.  I made my club selections based on the yardage on the watch and it was accurate....that is when I didn't chunk a shot!:-)  Based on my usage for 18 holes I would say this should last most people for 36 holes or so before needing charged which is good for probably 99% of golfers out there.  Overall it's a good golf aid for a reasonable price.  Realistically it is what most average golfers need as all the bells and whistles of more expensive models really don't make much of a difference to the average golfer. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good functionality, easy to use. Some ergonomic issues. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-09-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Overall, this is a very nice golf GPS for the price. I was a little worried about it being too complicated to use, but the manual explains all the features in reasonably good detail. I found it helpful to keep the manual with me the first couple of times I used it on the course to refer to, but after a few outings I felt comfortable using it.I had an initial problem with the battery life in that it quit on me after about an hour of use. After leaving it in the charging cradle overnight, the next time it maintained its charge for a full afternoon's use. I've used it (and recharged it) several times since then and have had no problems, so it seems the first time was just a momentary glitch (or perhaps I didn't seat the charging cable firmly enough).I very much like that it does not require a subscription to use, nor does it need to be tethered to a PC for the initial setup. It has a pretty extensive database of courses (Izzo says on their website that they cover 90% of the courses in the US). You can use their website to look up a course to see if it is included in the database.Sat acquisition times is quick - took only a few minutes to get a lock and find my course the first time I used it. Acquisition time was even faster on subsequent uses. It uses a SiRF Star III receiver.The display is clear even in sunlight, but it is a bit small for me. I don't usually have my reading glasses with me when I'm outdoors, so seeing the distance numbers took quite a bit of squinting. Granted, if you don't have aging eyes you won't find that to be a problem, but it would have been nice to have a larger display.I also didn't find it all that comfortable to wear. It is lightweight and not too thick, but the strap was not very comfortable. Plus the greenish/yellow accent color (found on the inside of the strap and the sides of the unit) didn't appeal to me much - rather garish looking to my eye.The warranty is only 90 days, which I think is too short given the price -- a year would be more appropriate.But those are minor quibbles. Overall, the functionality is great - quick to acquire sats, accurate distances and straightforward to use. Considering the price of other brands, such as Garmin, this is a great value. Definitely should be on the short list if you're shopping for a golf GPS.[As an aside, it's a real bear to the product out of the clamshell packaging. I didn't' factor that into the rating, but set aside some time to wrestle it out of the plastic jail it comes in should you buy one.] </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For the golfer on your list </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This golf GPS watch is a great idea. Golfers have enough to lug around without having to carry a hand-held GPS, too, so to have one strapped to your wrist is a great convenience. The watch is a little bulky for a woman's wrist, perhaps, but for a man it's just right.The beauty of this watch is that you don't have to buy anything else. It comes pre-loaded with a huge database of courses worldwide, including about 90% of the courses in the U.S. If you want to check if your favorite courses are included before purchase, you can look them up on the IZZO web site ahead of time so there's no disappointment. As other reviewers have suggested, however, you need to charge it overnight to be sure the battery has enough juice to do the job.This watch can actually replace your regular watch. It has date/time, alarm, and odometer functions that are useful even off the course. It would make a nice gift for the golfer in your family. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works wonderful </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I checked some of the golf courses before I bought, even an executive one in Peoria, they were all there. I got it and it was great.  The price is better than others and I would match it up against the very expensive ones. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For the golfer who has everything </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> What's in the box?WatchCharging cradleConstructionIt's a cheap rubber based watch.  The screen is easy to view, even in sunlight.  The buttons are a tad small but functional.  The watch is comfortable and not like the massive Casio G-shock watches.UseAcquisition of GPS signal takes a few minutes so use the time to warm up, stretch, practice putting or put your golf shoes on.This has basic watch functions such as date and time.  Battery life is about 1.5 rounds, in real time.  Charge it completely before playing each time, I say.The GPS gives distances to the front, back and center of the green.  There is a built in scorecard, also, and the ability to measure your shot distance.  A nice added function is an odometer.OverallI'd say it's a good tool for playing golf.  It does beat the cumbersome nature of carrying a GPS on the belt or the cart which tends to fall sometimes.Two thumbs up. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Husband's Birthday Present </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My husband loves this watch. We live in NC and he uses it on our local courses. Recently he went to Myrtle Beach and it worked accurately on all five of the courses they played. He golfing buddies now rely on it too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works as long as you realize the limitations </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I received this item as a sample to review from so I personally did not buy this item and probably wouldn't have if I were to purchase one.  That being said, I am glad I got it.When I was looking at these GPS units for playing golf, I was looking at the ones that give the whole map of the course, and keeps track of strokes etc, etc.  The problem with those units is that you have to hold them, put them away, take the swing, go to the ball, pull it out, read it, put it back, take the swing and do it all over again until you sink the ball.This unit is strapped to my wrist so there is none of that take it out, put it back.  But because of that, it does not have maps.  This is only a problem for those courses that I'm not familiar with and dont know where the hazards are or where the rough might begin which if you open your eyes, you will be able to get most of pretty quickly anyway.Overall, I have noticed a 2-5 stroke difference in my game using this watch.  To me that and the convenience of not having to take it out and put it back makes all the difference.Good luck and great golfing!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good watch & GPS </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This works well as watch and I checked out the gps for my local golf course and it also works well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great GPS - a little bulky, but great </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Got this one as a gift for my father. He says it is great and seems to have no problems with the GPS signal. It is a little bit big, but that is not to big a deal. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GPS + watch + odometer = happy golfer </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The IZZO Swami Golf GPS and WATCH is a newer version of the Swami that slips on your wrist. My husband has always used a hand held version but tried this one out. He was happy with it, but still prefers the standard golf GPS (the Swami 4000...see my other review). He did, however, give it a good review for those who might not want to carry  a handheld device (though none of his golfing buddies said they would use it on their wrist and would likely keep it on their bag instead, which is not as convenient). Here are the pluses/minuses:1. The preloaded courses include our small town country club, and every other course he has entered so far, and there is no need for a subscription or download. The course map is easily edited, if necessary.2. Has a bright, easy to read display, but the display is smaller than a handheld. It does show the front, center and back of the green.3. It is accurate to about 3 yards as tested at the course, and as long as it is with you it advances to the next hole as you walk (auto-hole advance feature).4. One charge holds a long time, so that a whole weekend of play is possible before recharging. However, it does require a long charge time when down (he plugs his in overnight for the next day).5. It includes a watch feature and odometer so you can keep track of the time and steps taken, though my husband and his friends all concluded that they would not like to have this on their wrist during swings, so it is not as convenient as it might sound.6. This version of GPS is not as user-friendly as the hand-held, as the docking station for the charge is a little tricky and it is not as intuitive. The user guide was helpful, but he did have to read it to find out how to work all of the functions since there are multiple small buttons for multiple processes.Overall, my golfer says this is a nice GPS and he would give it a thumbs up for the golfer who wants a wrist type version. But, he more definitely recommends the hand-held version himself. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very handy watch, not always the most comfortable fit </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This GPS watch is the ultimate in convenience. Granted, it doesn't have all the bells and whistles a larger GPS unit will, or complete maps for instance, but it's hard to beat the ease of having data on hand at all times. The watch is definitely a bit large for women like myself, but even my male golf partner found it not the most comfortable to wear, needing to be fairly tight to not move around and I ended up just carrying it in my pocket for the majority of the time. That really was our only real gripe with it, and I expect a lot of people wouldn't have an issue with the fit at all. The watch was quite easy to use and setup. After taking it out of the package and a brief 5 minute read of the manual, I had it fully charged in about an hour. Once we got to the course I scrolled through the menu and the course was found and set to hole #1. Once we began play the yardages were provided in an easy-to-read format and they were quite accurate. I didn't use the scorecard feature because we keep like to do official scores on a card but that option is available. What I really liked best was the size of the interface. No problem for me seeing the numbers which can sometimes be a problem for me these days with my less-than-perfect reading vision. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works Good </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The large face is easy to read, and it brings up yardage readings quickly. It was a good value, compared to many other Golf Watches. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

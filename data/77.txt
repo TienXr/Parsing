@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00465ZYJ2 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> Pros:  Light, sturdy, decent ball head.  Good travel tripod.  Seems well constructed.  Ballast weight hook helps stabilize it.  Price is biggest pro.  You get a carbon fiber tripod for a great price.Cons: As stated in other reviews this tripod is not vertical by default when the legs are fully extended.  Requires that the user adjusts the legs to get it plumb.  The absence of decent bubble levels makes this more difficult.  I carry a level with me for critical setups like using my Gigapan Epic on it.  My OM-D E-M5 has in-camera levels which make leveling the tripod much easier.Other thoughts:  Glad I bought it.  I recommend it for anyone looking for a sturdy lightweight tripod.  Would be 5 stars if it was plumb by default with the legs extended fully. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice tripod </p>
+
+
+<h2> review.date </h2>
+  12-26-2012  
+<h2> review.text </h2>
+
+ <p> Have gone through many tripods all for the same reason, crappy leg extension locking devices.  This one was purchased for its twist lock feature that appears unbreakable at this point not to mention the lightweight carbon fiber.  Have high hopes for this one and ratings from others.  The tripod case does hold the tripod without any fancy maneauvers in its normal state. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SUPER LIGHT-EXCELLENT LEG LOCKS </p>
+
+
+<h2> review.date </h2>
+  05-30-2012  
+<h2> review.text </h2>
+
+ <p> The works so much better on my check in bag. The light weight doesn't take the weight away from my other stuff.The tripod is stable and works really good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light weight, tall. </p>
+
+
+<h2> review.date </h2>
+  07-09-2013  
+<h2> review.text </h2>
+
+ <p> I do like the folded up size of this tripod - around 19".It's not light, but seems to have a reasonable heft.While you don't have instant tightening of the legs, it doesn't take much to make them hold.Two things I don't like are:1. The quick release mechanism doesn't come out of the tripod initially.You have to turn the center screw that goes into the camera so that it goes higher.Then the base of the screw will move up and you can undo the quick release mechanism when you push in the side2. The ball head after you tighter the camera will move the camera down a bit when you release the camera.You have to aim slightly above where you want the center when you tighten the screw. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice size - two problems </p>
+
+
+<h2> review.date </h2>
+  05-02-2011  
+<h2> review.text </h2>
+
+ <p> This is a sturdy tripod that folds back on itself to be quite compact.  It came with a nice case, which I hadn't expected.  It is a little heavier than I thought it would be. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Opteka Tripod </p>
+
+
+<h2> review.date </h2>
+  10-17-2012  
+<h2> review.text </h2>
+
+ <p> I researched for quite a while before I found this product.  I love that it is carbon fiber for such a great price.  We have used it for our video camera, but originally bought for my SLR.  It works good for my SLR and 500mm lens.  It is one heavy lens too.  It is not a $500 tripod quality, but it is better quality than what I paid for it.  Would absolutely buy it again or recommend it to anyone.  Love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a great tripod. </p>
+
+
+<h2> review.date </h2>
+  07-07-2011  
+<h2> review.text </h2>
+
+ <p> This is a great solid tripod.  It would be hard to find a similar quality competitor for twice the price.  The head is easy to operate and stable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Value </p>
+
+
+<h2> review.date </h2>
+  03-11-2012  
+<h2> review.text </h2>
+
+ <p> This was something that a dear friend more or less got for me or facilitated so that I could get this particular tripod. I've used this for a few weeks now from trying to figure it out to using it for time lapse or long exposure stuff. I'll do things a little differently than most would. I'll tell you about the negatives first, and why I say that. Then I'll elaborate on everything else.I might have gotten this confused, but the center column as described by some at least is not carbon fiber. The rest of the tripod being the legs and such is in fact carbon fiber. So it may add a little to the weight, but this thing is well under 5 lbs. If you want something that weighs between 3 1/2 to 4 1/2 pounds, this fits that part of the bill.The level on this thing is of use. By and in itself, some might debate that. The fluid is a bit dark, and that is part of the issue. It is a single axis level, but with a little skill and observtion, you can infer a second axis from that. However, I find that seeing what the camera sees helps in addition to or in seperation from the level itself. If you have a grid on your camera, that works really well where the level fails or a leveling indicator is moot.Other than that, there is no real set way of referencing where 0 degrees is on the rotation about the z (vertical) axis of the unit. If you can find an orientation on that, you'll be OK.That's about all I can say that's bad on that-and some of that (if not all) is minor. Here's the bigger points and the more pertienent stuff. While the legs are a tad stiff at first, they eventually seem to break in rather soon without any need for adjustment. They are sturdy, and the unit is stable. If you're on a ceramic floor, there is more give on a super smooth surface like that than anything. If you're on any carpet or surface with friction, the feet don't allow so much give. On grass, pavement, a brick driveway, you have no issues there. There is a hook at the bottom of the center column that will hold your gadget bag as a weight. That works well, and that weight can add stability if needed.This thing will extend to 65 inches as described with no problems. Actually, I've measured it extending a little more than that actually. Fully extened, on something with some friction at the feet, it's stable. I'm about 6 foot, and I find that I don't need to necesarily fully extend the center column. I have no issues there.The head is rather fluid. It's not always "perfect" in movement, but once you feel the tension screw on how it pans and such, you'll realize it's a matter of getting use to the head. Having said that, it's quite smooth on that with a gradual pan while being level if you need to use it like that.The unit is rated at holding 20 lbs. I believe the head itself is rated for something around 12-15 pounds. I use this for a Canon T3. It will hold that without fail. If I put a 300mm lens on there, it will hold it. Make sure the tension screw is tight as it's easy to think the unit is in place, and then it droops. Tighten the screw, and that solves that issue. There is some fine tuning to that if you want to get things centered "perfectly". You might want to aim a tad high as there is some give to it, but it's not continual. If you're shooting with something like a 300mm lens that's fully zoomed, you can see variations in movement with a touch. If you use a remote to shoot, that solves that issue. However, keep in mind that what is normally something negligible in position with a wider angle lens could be significant with a telephoto as far as variations in angels. There is some fine tuning in that situation. With time, you'll figure that out. However, once the screw is tight, with a remote of some sort, that thing won't budge.The unit does fold into the bag as described. If you invert the legs to fold it or if you want to use it that way, they don't lock into place. If you use it such that the head is on top, the legs do lock into place. They are solid. They won't budge unless you press the release on them or move them accordingly.There is a failsafe for the release of the camera on and off the head. That is a really awesome feature to have. It's spring loaded, and you can move the camera with the plate in place to position things as you need too. It clicks so you know that it's in the groove. You can still move it back and forth without fear of it coming detached completely till you tighten the screw for that.The ball head is awesome. If you loosen the screws for that, you can position the camera quite readily and fluidly. There are some fine tuning issues you might have to get use to, but that comes with time and use. It's not the end of the world-and I can be a perfectionist on these things. It will pan easily, and the head moves freely so long as you loosen the screws enough. If you want to limit the fluidity for adjusting, you can do that till you tighten things up to how you need them to be.I know some people have issues with twist locks. With this tripod, I don't see that as being a problem. You use half a turn, the legs come out readily. Half a turn back, they are locked into position. The grips are comfy. You don't have to worry about blistering your hands or the like. These are really comfy, easy to use, and they do secure the legs. You won't have an issue with that at all.All in all, it's light. It's easy to work. It's stable as you're going to get. You could upgrade the feet or add spikes with some after market ends so long as the threads fit. These aren't spiked ends, but I don't have a need for that. If you're over 7 foot tall, you might run into a height issue, but short of that, you're not going to find yourself stooping or anything like that. The carry bag works well. Loosen the head to set it at an angle, it fits into the bag as such with a little play to work with.I've used this for long exposure shots. I've used it for wide angle things outside. I've used this for time lapse imaging. You can find other tripods for less, but I am skeptical on those. Bang for the buck, you can't go wrong. It works. It's useful and functional, and I have no problems or concerns with puttig a professional camera on it. If you have a heaver camera/lens configuration, the head will hold it.The shipping was fast. I'd trust this tripod at least as much as some others I've seen in retail camera outlets for this price or more. The difference is, this one is a lot lighter. For one like it in retail and made of carbon fiber, it would cost me twice as much as what I paid for this one-plus gas to get to the retailer. I would trust this over some lesser expensive clones of it. There are concerns with the less expensive clones of this-and I didn't run into any of those issues at all with this one. No funky smells, no loosening screws, etc. Take it out. Use it. Fine tune your position, and use the camera without worries. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'd give it 4 1/2 stars if the rating system would let me used halves! </p>
+
+
+<h2> review.date </h2>
+  12-26-2012  
+<h2> review.text </h2>
+
+ <p> Overpass my expectation and for the price, it doesn't have competition. You just have to had it, as part as your regular accesories to travel with. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just, love it </p>
+
+
+<h2> review.date </h2>
+  10-26-2011  
+<h2> review.text </h2>
+
+ <p> This tripod is strong and lightweight. It enables one to carry it in situations when an otherwise heavier tripod would be left at home. On windy days, hanging a weight under the head is useful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good purchase </p>
+
+
+<h2> review.date </h2>
+  06-28-2013  
+<h2> review.text </h2>
+
+ <p> This thing is so light that after I took my sony a77 and 50 to 500 lens off, and picked it up, I almost threw it over my shoulder by accident. It is light and holds the a77 with grip, flash and 50-500 mm lens just fine. It opens and closes well, is sturdy, and of course the best is I can flip the legs the opposite way to shoot real low or macro. All on the same tripod. I only wish you could swap the head. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oh yes. </p>
+
+
+<h2> review.date </h2>
+  04-08-2013  
+<h2> review.text </h2>
+
+ <p> I own several Tripods ranging from Gitzo and Ravelli and I had to get a few others to mount my speedlights and other lighting.  The Opteka is very affordable and solid.  I'm finding myself going to grab the Opteka vs. my Gitzo when I'm running out of the house.  Either way, you can't go wrong with it.  I highly recommend this very affordable and solid Carbon Fiber Tripod. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Carbon Fiber for the money </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

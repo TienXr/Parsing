@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001A1NZ0A <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-12-2012  
+<h2> review.text </h2>
+
+ <p> The diagram in the instructions for the Shoulder Brace show you inserting the threaded head of the shinny B Plate into the base plate of your camera. But I found the threaded head of the B Plate far too wide to fit into the socket on my camera's base plate. A friend showed me that I needed to turn the brace over and unscrew the screw from the bottom that holds the shinny B Plate in place. When I removed the B Plate with its wide threaded head, I found below a black composition plate with a second narrower threaded head that fit perfectly into my camera's base plate. I also found that when I screwed the shinny B Plate into the bronze plate on the bottom of the Brace, the threaded hole in the bottom of the B Plate was the proper width for the head of my P&C; Pistol Grip that I then screwed into the B Plate. When it arrives, I assume that the screw at the top of my new uni-pod will fit into the bottom of B Plate. With the expectation that the Shoulder Brace will also improve my uni-pod experience, I give the brace a tentative four stars. It is a pity that the Italians who understand the operation of the Shoulder Brace have not written useful instructions.Using the Shoulder Brace with my pistol grip makes my camera somewhat steadier, and the pistol grip serves as a mediocre mini-tripod. If I learn anything useful from using the Brace with my uni-pod, I will let you know.  ACB </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good - Once you discover the unwritten instructions </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> This has one fatal flaw when used with a monopod: the threaded piece rotates freely.  This means that the camera is free to swivel horizontally, relative to your shoulder.  Since this is already the axis of motion that is most free to move with an unbraced monopod, the shoulder stock ends up being almost no help for getting a steady shot.  You're no worse off using the monopod without it.I'm going to look at ways to try to jam the metal part in place so it doesn't rotate easily. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> one fatal flaw </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> Gives me some extra stability when doing video with my Manfrotto monopod. Build is so-so, but works like a charm. Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as it should </p>
+
+
+<h2> review.date </h2>
+  04-17-2013  
+<h2> review.text </h2>
+
+ <p> I bought it because a friend of mine highly recommended this item but I could not get my eye up to the viewfinder with this braced on me. So, back it went. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It went back </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> Well made, definitely adds stability and sight line for monopod at the trade off for extra weight and bulk. With practice it is worth the extra trade offs, but go out and use it for a bit before embarking on a serious shoot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Quality But A Challenge to Use At First </p>
+
+
+<h2> review.date </h2>
+  02-23-2012  
+<h2> review.text </h2>
+
+ <p> This little guy has kept me steady on numerous run and guns with my DSLR. It's a permanent fixture on my best monopod. Fantastic product- maybe one day they'll make an aluminum version that will last forever. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This thing is awesome </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> Not every monopod shooting situation requires a shoulder brace but you're glad to have it attached when you need it. Does not get in the way and is light weight. Good value for the money too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worthy Accessory </p>
+
+
+<h2> review.date </h2>
+  04-26-2008  
+<h2> review.text </h2>
+
+ <p> Placed on my Bogen 681B monopod. Other than being slightly overpriced for a simple brace it is well designed and works easily. Makes panning simple and smooth. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's a shoulder brace.. </p>
+
+
+<h2> review.date </h2>
+  11-14-2013  
+<h2> review.text </h2>
+
+ <p> Plenty long or short enough. Very versatile as you can also brace it on your chest, stomach or even in your pants belt. And most importantly it helps with stabilization. Also if you have a joystick head like the, Professional Pistol Grip Head by Dolica, you can use it as a second leg when low to the ground. It is a quality product well matched to the Manfrotto 682B monopod with concealable legs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useful, versatile and quality build. </p>
+
+
+<h2> review.date </h2>
+  01-07-2013  
+<h2> review.text </h2>
+
+ <p> Works so well and give me added support for my monopod - is folded up and attached to my mono </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Manfrotto Shoulder Brace </p>
+
+
+<h2> review.date </h2>
+  11-17-2011  
+<h2> review.text </h2>
+
+ <p> I bought this shoulder brace to use with a Manfrotto monopod and a Manfrotto 234RC quick release monopod head to mount either a SLR with a 400mm lens or a small spotting scope. I have tried using telephoto lenses and spotting scopes on a momopod before and never found them steady enough. This item works fine. It is light and pretty easy to use and does help steady a camera or scope. It is not a substitute for a tripod though, so I would only use this for those times when I don't want to carry a tripod but when hand-holding the camera or using the scope on a shoulder mount won't provide enough steadiness or would be too tiring. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> When a tripod is too heavy and hand-holding won't do... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

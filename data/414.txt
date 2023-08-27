@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00838GX52 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-20-2013  
+<h2> review.text </h2>
+
+ <p> Similar observational, easy reading style. As always interesting unique ideas, but the distance from the characters really prevents it being a massive must see what happens next page turner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Similar style as all his other books </p>
+
+
+<h2> review.date </h2>
+  05-26-2012  
+<h2> review.text </h2>
+
+ <p> I very much enjoyed "Of Ants and Dinosaurs". It is a thoroughly fun story about tiny underdogs versus brutish goliaths; And the ends that ignorance, vengeance and failure to communicate bring about - Hint: The story is set at the end of the Cretaceous :o)My favourite narrative element was hands down the interplay between the giant T-Rex's and the microscopic ants. There are many well-written and described moments of hilarity, bizarreness and even brutal violence that arise from the conflict between these two species. The ants in particular are shown with loving creativity and detail.In closing I do want to note that the story inhabits a rather peculiar in-between space between science-fiction and allegory - The ants, dinosaurs and their interactions are all strongly anthropomorphized, while the main plot-arc is very science-fictiony. This is not a knock against the story, in fact I thought that it made it more charming. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tiny things and the death of the dinosaurs </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> Xie xie Liu Laoshi, for a wonderful story.  I couldn't wait for the ending.It was such a unique and wonderful story.Best of luck with your future writings.TonyWo </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A truly unique and wonderful story! </p>
+
+
+<h2> review.date </h2>
+  10-27-2012  
+<h2> review.text </h2>
+
+ <p> Let me begin by saying that this is the first piece I've read by Liu Cixin and I've never met nor corresponded with the author. In other words, I'm not a shill.That said, I will definitely be picking up another of his books as soon as I complete this post. Why? Well...First, it's fairly obvious once the reader gets a few pages into the story that this author, "ain't from around these parts." That's not a bad thing either. Reading books - especially speculative fiction - by writers that are from a different cultural background than the one I'm accustomed to is often extremely refreshing. Said writers weren't raised with the same cliche'd rules and constrictions as most people that grew up immersed in American culture and education. In fact, it usually means they have a tendency to write stories with an entirely different set of rules etc. A terrific example of this is in some of the fables and stories of authors from the Middle East that tend to lean more heavily on last-second twists or surprise moralistic endings than many western writers."Of Ants and Dinosaurs" does in some ways remind me of another work of speculative fiction that was written by Harry Harrison. His "Eden" trilogy is set in a realm where humans and slightly larger, bipedal reptiles developed and evolved in different regions of the world, only to be eventually thrust together by the descending glaciers of the encroaching ice age. In Liu Cixin's prehistoric world however, the two races of creatures develop a more symbiotic relationship than the antagonistic interactions of Harrison's books.I don't want to reveal plot spoilers so I'll not go into great detail regarding the story itself. I will however mention that, while some of the science itself is a bit of a stretch, it isn't so twisted and pretzelled that it pulls you out of the story or hampers with suspension of disbelief - although it does come close in a couple of areas. The author wisely chose to keep the ants at appropriately insect-sized dimensions so there aren't any questions about how 20 foot tall bugs would sustain themselves despite the picture on the cover.One of the things I admired most about the story itself is that none of the "characters" in the tale makes disproportionately intelligent or stupid decisions. The decisions made by the creatures of both species are surprisingly human in not only their logic, but also in regard to the sometimes myopic conclusions they draw. There are some definite (and apparently intentional)similarities in the situations faced by the creatures of the story and what we as humans are grappling with in modern society. Yet, because of the culturally different approach that the author takes the tale seldom seems as heavy-handed or politically judgemental as it might have in the hands of an American writer such as myself. That aspect alone makes it worth your time and let's face it, many of the books available for the Kindle are so inexpensive that the value of the time spent reading one often exceeds the actual monetary costThe editing and pacing of the story are crisp and professional, with none of the typographical errors that are so frequent in inexpensive Kindle books. This too was a pleasant surprise. I hadn't realized how weary I had become of figuring out for myself whether the author meant "their," "they're," or "there" in the text until I read "Of Ants And Dinosaurs."The story did leave me wishing for more - which we're taught is a good thing when it comes to stories, but in this case it was actually the reason for the one-star deduction in my rating. I felt as if the author could have easily written another hundred pages or perhaps even a second entire novel about what the emergence of early man would have done in the furtherance of the narrative. The ending itself was a bit of a surprise because of the seemingly abrupt way it concluded prior to the brief final chapter/epilogue. Everything had accelerated to a fairly frenzied pace and all the various plot contrivances came together nicely and then suddenly, it was over. Metaphorically I almost felt like a crash test dummy going from 80 mph to 0 upon hitting the brick wall.But that was my sole complaint and, as quibbles go, it's an extremely minor one. One final note - the publishers are apparently wanting to expand their presence in the American marketplace. When you reach the actual end of the book, keep paging forward and you will find a very generous offer presenting you with the opportunity to try more of Liu Cixin's work, or if you prefer, a book by one of their other authors free of charge. I write quite a few reviews for Kindle books and decided not to take advantage of the offer lest it color my perspective in any other reviews I write of books from this publisher, but it is still an offer that I'm sure a lot of people would like to take the company up on, so be sure to check out the specifics! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good stuff! </p>
+
+
+<h2> review.date </h2>
+  06-14-2013  
+<h2> review.text </h2>
+
+ <p> This would be perfect for a young reader, or anyone new to the genre. Even the more seasoned among you will find the concept original and the story entertaining. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting read! </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> Another great little story. Would have given it 5 stars but "i" found it hard to picture dinosaurs being able to do what they do in this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A goodie </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> The writing seemed on level with a junior in high school...however the idea behind the story was interesting and an intriguing one. I was able to finish reading it, so it wasn't as bad as some of the free ones. Overall plot idea good, execution of writing mediocre. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Meh </p>
+
+
+<h2> review.date </h2>
+  02-17-2013  
+<h2> review.text </h2>
+
+ <p> When I went into reading this book I wasn't sure what to expect. What I found was a very creative totally original story with creative ideas that would appeal to everyone from young children to adults. The author has been generous with his descriptions, making this a fun journey to take part in.The ideas of dinosaurs experiencing modern technology was an interesting one that I felt the author did a good job of exploring. This book isn't like anything else I have read and I look forward to sharing it again with my children. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really different and that was nice </p>
+
+
+<h2> review.date </h2>
+  05-15-2013  
+<h2> review.text </h2>
+
+ <p> Of Ants and Dinosaurs by Cixin LiuI'm beginning to thoroughly enjoy the spin that Cixin Liu puts in his stories.Of Ants and Dinosaurs is a sort of blend of analog and fable and cautionary tale. Maybe we could call it  Fable -istic Fiction.The story begins a bit like a fable in itself as the T-Rex grabs himself a meal and settles for a nice nap only to find that he's gotten some food stuck in his teeth. The ants who seem more mercenary than helpful are suffering earth quakes from the thrashing dinosaur. The ants are also hungry and thirsty. They decide the only reasonable way to stop the quakes is to help the T-Rex with his 'flossing'. This ends up serving two purposes. In dislodging the food they allow the T-Rex to settle down to a nap and they also get the benefit of a nice meal-leftovers so to speak.This is all the beginning of a beautiful relationship.Fast forward 50,000 years and we find the evolved dinosaurs in a productive symbiotic relationship with the ants. The dinosaurs are the great minds and statesmen who have the working class ants creating their micro technologies.Of course along with progress comes strife between dinosaur factions and war.  This troubles the working class ants and they are becoming restless thinking that the dinosaurs are taking advantage of them. Eventually this leads to a strike, which is swiftly stopped because- well the dinosaurs are huge and they unify this once for action against the ants.This creates tension between ants and the dinosaurs that leads to sabotage of the micro computing industry and attempts to assassinate key dinosaurs through some rather creative use of explosive devices and the ants knowledge of dinosaur physiology since the ants can preform micro surgeries on the dinosaurs.Professor Joyah of the ants tries to caution her fellow ants that there are levels of the dangerous weapons of the dinosaurs that they know nothing about and that this could lead to catastrophe.I may not be clear on what the dinosaurs and the ants represent in this analogy but I would guess that its the national political structure for the dinosaurs and the worker economic structure for the ants. The rebellion as with any rebellion might be justified but often leads to chaos before it evolves into any useful form of restructuring.In this instance it might prove fatal.This was a fun story to read-being a novella it seems to nicely fit into the space provided. The final outcome is predictable so the real meat of the story is how they get there. There are some amusing though thought provoking notions that build to the climax and interesting philosophical notions about what is come.I enjoyed this as much as I might enjoy any fable finding it interesting to use the ants and dinosaurs in identifiable human situations as a means of trying to stretch the readers ability to accept the credibility of the story.Humorous thought provoking analogs for any lover of science fiction fantasy or even fables. Not to mention the eco- political inclined.J.L. Dobias </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Humorous thought provoking analogs </p>
+
+
+<h2> review.date </h2>
+  05-25-2012  
+<h2> review.text </h2>
+
+ <p> This little book had such a neat idea; I really enjoyed it. It did read a bit analytical at many points which gave it a slightly detached feel, but that may have come from the translation to English. Overall, a pretty good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Neat idea </p>
+
+
+<h2> review.date </h2>
+  04-11-2014  
+<h2> review.text </h2>
+
+ <p> Here we have an alternative theory of how the Dinosaurs disappeared from the Earth.  Ants and Dinosaurs co-exist as the dominant species on the Earth.  Both have developed technology and have a symbiotic relationship.  This books takes us through how all of that collapses and makes they way clear for mammals to take over.This short novel moves quickly and is not difficult for kids to understand and provide an entertaining bit of reading for adults.  Nice to see a different view of evolutionary history.  Some of the concepts are a bit violent for kids maybe but that depends on your point of view.  It might even make an interesting short animated movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's a cute book </p>
+
+
+<h2> review.date </h2>
+  09-01-2012  
+<h2> review.text </h2>
+
+ <p> I was first drawn to Of Ants and Dinosaurs because of the intriguing cover art and book description. I was not disappointed. For a short story of about fifty-five pages according to Amazon it paints a fascinating description of what life could have been like for Ants and Dinosaurs during the cretaceous period on Earth. The story begins by giving background information on how the Ants and Dinosaurs developed a symbiotic relationship and follows that relationship through both species becoming sentient beings and developing complex and technologically advanced societies.Due to the brevity of this read the characters do not have a lot of back story but I don't think it is necessary to gain an appreciation for the characters or to enjoy the story. The characters emotions, especially those of the Ants are well developed through their conversations. The Ants communicate via pheromones and the author does an excellent job of inserting their emotions into the transfer of pheromones which helps give insight into the characters. This is not done for the Dinosaurs but I think their language helps aid the reader in inferring their emotions.There is quite a bit of technical jargon in this short read but seeing as this is a sci-fi read it works well. The technical bits are also not overly complicated and can easily be understood so it does not detract from the story. The story itself is a back and forth between what is happening in the Ant society versus what is happening in the Dinosaur society, and at times the two coincide. The way the story is written it helps give the reader the full picture of what is going on in both societies.Overall this was a very interesting read and a really different take on how the world could have been millions of years ago. I would recommend this to anyone looking for a short read and would be interested in reading other works by this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well written and Extremely Creative </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

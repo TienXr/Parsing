@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B009MPBJKY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> I did a lot of research before buying this laptop. It was mainly between this laptop and the Asus N56. I choose this one since it was cheaper, came with a hybrid hard drive and Lenovo is more known for their build quality and support. So far I am fairly happy with my purchase. The laptop has very elegant and professional look to it. I use it mainly as my desktop replacement and I do a little casual gaming on it. I was replacing my 5 year old HP Dv7 Pavilion which had a 17 inch screen. I like just about everything about this laptop. There are only a few things I wish it had. I found out after I purchased it and tried to connect to my router that it doesn't support dual band wireless. Which I thought it would considering the price and how high end this laptop is suppose to be. Also I didnt like the fact the the usb ports dont have enough power to charge my ipad 4. This was the case with my 5 year old laptop and I thought this one would do it. Also forgot to mention my older laptop did support dual band wireless so this is the step backwards in that area. I also would have liked the option for the larger 1tb/32gb hybrid drive. Im not sure if this laptop comes in that configuration any more but I read about it on pc magazine in that configuration. The screen is glossy one but I haven't found it to be a problem. Although I dont take it outdoors much its mostly at my desk. The touch pad and keyboard are both easy to use and comfortable. When at my desk I have the laptop hooked up to an external wireless mouse and keyboard. The touch pad has many cool gestures for windows 8 and make it very easy to use once you get the hang of it. There are 3,4, and 5 finger gestures. At first I found windows 8 a pain but after a while I found it much easier to use than windows 7. Its really fast and I also use the start 8 app to disable some windows 8 features and bring back the start menu. The laptop is on the heavy side and is bulky. If your using this for travel or work where you have to carry it or transport it alot I would suggest something lighter unless you need the power that this has. Battery life is acceptable at about 4-5 hours depending on the settings and what your doing with it. The keyboard lights up and also can disabled if you like. I really like the fact that this laptop has 2 video cards. The Intel hd 4000 graphics is for light tasks like browsing or email, watching videos and the nvidia gtx 660m does the heavy lifting for gaming and other large tasks. I really like the speakers and sound on this laptop. The speakers are made by jbl and offer Dolby home theater sound. The sound is very crisp and not flat. The 1080p screen is beautiful to look at for pictures, videos and gaming, I am very pleased with it. The laptop performs very well when playing games like Civilization 5, Battlefield 3 and Gears of War.I do wish there was an option for a touch screen on this laptop. I would have gladly paid another $100-$200 for it. I haven't seen any 1080p touch screen laptops on the market yet though. I also wish this model came with a blu ray player, but, I would much rather have the better larger hybrid drive (1tb/32ssd) and dual band wireless if I had to choose which features I wanted the most. For the most part this laptop has met my needs and exceed them.Update after owning for a year: I started to experience  a number of issues with this laptop in less than a year. One of the USB ports stopped working and had errors with the hard drive. Lenovo support was horrible. Not to mention they had the wrong warranty date for my laptop claiming my laptop was out of warranty when I had more than  a year left. I will not be purchasing any more products from lenevo. I no longer own this laptop. I got a new one from dell and am very happy with my dell xps 15 9530. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Laptop for the Money - failure with hard dive and USB ports in less than a year </p>
+
+
+<h2> review.date </h2>
+  03-19-2013  
+<h2> review.text </h2>
+
+ <p> First of all, I would like to thank Amazon for having this laptop at a great price and also for the quick and safe delivery of this laptop. I was praying that all would go well and i'm so pleased to report that it has. I've had it since December 2012. I was looking everywhere online for a nice gaming laptop to replace my old HP dv6-1360us. At first I had my eyes on one of those Asus ROG laptops (G55, G75 etc.) but those were going for prices of $1200 or more. Also there were little things I didn't like about the Asus laptops like for instance they seem overly bulky and generally not very attractive. The Samsung series 7 gamer achieves the very good airflow and dual vents at the back, and manages to have a beautiful chassis at the same time. Then I stumbled upon the Y580 and I realised that it had the same graphics card (nVidia GeForce GTX 660M) and also 1920x1080 display, and ALSO the intel i7-3630QM. These 3 things were VERY IMPORTANT to me. The 660M is a first class graphics card, not upper first class but more like lower mid. All the same, it plays all my games VERY well and I was confident that it would be able to handle them. I've played countless games at high res settings, namely Starcraft 2, Call of Duty Black Ops 2, Hitman Absolution, Tomb Raider (the new 2013 reboot), Battlefield 3, Dead Space 3, Crysis 3.... the list goes on. You will be able to play all of these games at 1080p, however I have opted to play them at 1080p res with medium or high graphics settings, because I want to achieve higher framerates as well as I really don't wanna overwork my 660M. I baby this laptop so much. To be honest in these games there is no real difference between medium and ultra quality when you are playing them at 1920x1080 resolution....The 8GB of RAM is very nice, as well as the mSATA slot which allows me to have an SSD and a HDD in the laptop at the same time. I plan to get an mSATA ssd some time soon when the prices come down a bit. I am also considering upgrading from 8GB to 16GB RAM but I have to admit that that isn't very necessary at all, as the 8GB that comes stock with the laptop seems to be enough. Also would be nice if the Y580 came with a 7200 RPM HDD at least instead of the 5400 RPM because there is a huge difference in performance. I've put in my old 500GB 7200 RPM HDD and it works like a dream, it could be even better but it is only a SATA 2 drive and as such I don't think it would be able to fully saturate the SATA 3 interface it connects to in the Y580.In summary,Pros:- Great graphics card in the nVidia GeForce GTX 660M, also high res 1920x1080 display- Excellent processor, 3rd gen Intel quad-core processor (runs in 8 threads so 4 physical cores appear as 8 logical cores to the OS)... i7-3630QM- Very attractive finish; dark grey brushed metal and chrome Lenovo logo on lid- JBL speakers give very good audio.- Y580 is a powerful gaming machine but is modest-looking and not gaudy like some of the other gaming laptopsCons:- Lid takes a bit of working in.... it is a bit stiff at first and seems as though it would be flimsy and get damaged easily. That might not be the case, but it does feel that way at first.- Y580 would benefit from a better cooling system. There is a decent size vent at the left side of the laptop that is aimed at dispersing heat. It does a good job and performance is not affected. However, the left side of the keyboard can get a bit warm at times during intense gaming sessions. I would not let this stop me from buying this laptop though, it is very good.I would definitely recommend this product to anybody I come across. The Y580 is quality. If you are looking for &#34;bang for buck&#34;, well look no further, because this is it.... I am yet to see any manufacturer put forth this level of quality at such a good price. This laptop has it all, if there is a Y590 I would definitely buy it, the only things that Lenovo would need to improve from this model would be the cooling system and the lid...very minor and easy improvements I think. FIVE STARS!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I LOVE MY Y580!!!! </p>
+
+
+<h2> review.date </h2>
+  01-29-2013  
+<h2> review.text </h2>
+
+ <p> This is my work computer, which I use for MS Office activities as well as audio and video editing. This computer is fast and powerful.I took the internal hard drive, put it into an external USB 3.0 case, and installed a 256GB internal SSD drive - it was not hard to clone the O/S to the new drive. Super fast benchmarks for read-writes to the drive. The external is a great place to store files, but I edit on the laptop. I may even install a second SSD in the MSATA slot in the laptop and double my internal storage.8GB RAM is more than enough for Windows 7 Professional. The graphics processor is a beast, can be used to speed up video rendering. I have not played any of the top-end games with it.Only one USB 3.0 port, and 2 USB 2.0 ports. Good enough for now, but I may get a USB 3.0 hub for more ports.The 1920 x 1080 screen is fantastic. Much better than the 1280 x 768 standard display you can get with the Y580. I use a 23" external monitor along with the laptop display for 2 hi-res side-by-side displays. It's a great work environment.VGA and HDMI outputs, so it is flexible with monitors and HD TVs.Excellent full-size keyboard.I have had great success with Lenovo laptops. They are among the best available at any price. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Powerhouse Laptop - Does Everything </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> Purchased Lenovo Y 580. It takes Lenovo almost a month to get here after 4 shipping date changes. Arrives with dead Keyboard and touchpad. On with support withing 2 hour arrival, returned to Lenovo within 24 hours. It will take them over 1 business week to credit my account after they get it back and review it. People in IT told me their Lenovos aren't working well either. Should have listened. Never again will I look at Lenovo as a quality product. Now its December 5 and I still don't have that quality laptop to start upper division classes.  I will never consider Lenovo again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dead slow Lenovo </p>
+
+
+<h2> review.date </h2>
+  06-19-2013  
+<h2> review.text </h2>
+
+ <p> Bought this back in February to replace my old notebook. Despite all the ominous reviews I have read online about Lenovo laptops, I haven't had a single problem in four months. The performance is smooth both in working and in gaming conditions on Windows.A minor caveat though: About two days in, my sweaty palms have already left a mark on the palm rest, which is presumably made of brushed aluminum. The palm rest also gets rather warm (so is the area around the heat vent) during normal running conditions, and that makes my hands sweat even more... Just a minor annoyance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding notebook </p>
+
+
+<h2> review.date </h2>
+  01-26-2013  
+<h2> review.text </h2>
+
+ <p> This is a fine laptop.  Great display.  In fact, best display I have seen on a laptop.  Fast.  Not the greatest WiFi range but enough.  After a month, I'm still struggling to get used to Windows 8, but the hardware is top notch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fine laptop </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> The laptop is blazing fast! This model has the hybrid drive, which is a plus. For $999 I get blu-ray in my laptop! This laptop has been the best price/value laptop I have ever bought. This is after 2 Dells, an ASUS G73JH, and a SAGER NP9000 series laptop! The screen has a 91% color gamuut, so when in photoshop or lightroom the colors are very close to matching what I print out at the studio I work in. Full 1080p as well! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely Incredible! </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> I just got my laptop on 12/04 from Amazon. Don't bother ordering through Lenovo, because the shipping is glacially slow.The laptop boots up super fast! It takes about 10-15 seconds to boot. Once you are booted, you are greeted by the Windows 8 start screen, which has some really nice features. The laptop comes with a bit of bloatware,  which isn't overwhelming, and is easily removed. The speakers are fantastic! Loud and not tinny at all. The only game I've tested with this laptop is Guild Wars 2, and I was able to run with medium-high settings at 1080p with 50fps. About what I was expecting, and I am very pleased with that. The screen is gorgeous! Everything is crisp, as you would expect from a 1080p screen, and the glossy screen makes colors pop. The only things I dislike so far are the trackpad and the bit of heat. The trackpad is okay, but you'll want an external mouse. The heat is really what you would expect from a laptop with these specs and the ventilation is actually very well laid out.I would recommend this laptop to someone in a heartbeat. I'll update this review if my opinion changes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great laptop so far! </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> Laptop does not cut any corners, has plenty of ports and a nice keyboard with a 10 key pad and is backlit, exactly what I was looking for, but is still light enough to carry around.  It is in the 5 lb range and that is more than the ultrabooks weigh however you have to give up so many features with the ultrabooks I just couldn't go there.  Very satisfied with this laptop, looking forward to years of service.  It would have been nice to see an aluminum case but the plastic case was not a deal breaker for me.  That said, Windows 8 is difficult to get used to.  This is not a touch screen display, so I don't see much advantage to Win 8.The interface just reminds me of users that would put all kinds of shortcuts on their desktop, way too cluttered for my taste.  The behind the scenes utilities in Win 8 seem more solid than Win 7 except for the fact that the Devices and Printers link that was under the start button in Win 7 now must be accessed through the control panel in Win 8 and that took me a while to locate.  Bottom line, great laptop, Win 8 I could do without. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice laptop </p>
+
+
+<h2> review.date </h2>
+  02-14-2013  
+<h2> review.text </h2>
+
+ <p> I was really worried about the ergonomics of this keyboard as I am a programmer who needs a solid keyboard at all times. The strange shape of the keys seems exaggerated in the picture, because they feel great. I love the backlighting, and there are only 2 complaints I really have.The 0 key on the numberpad is tiny, and I am always hitting right arrow.And the track-pad is indeed awful. I always use an external USB mouse, so it isn't that much of a problem for me, but if I was on the road in a hurry, the 'entire-trackpad-is-1-button' thing is really bad.But I don't want to end on a sour note because this is the fastest machine I've ever touched. I'm about to start loading it up with games. After seeing it play Far Cry 3 with kick-butt settings on youtube, I have very high hopes! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simply amazing! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

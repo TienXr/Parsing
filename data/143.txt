@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00E19RFFO <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exceptional value, love it </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The HD25e provides exceptional value in a projector.  Period.  Not only due to the great mix of price, performance, reliability and features PLUS great 3D! But especially for me, due to the low cost of replacement lamps.  HID lamps used in all good projectors like this are both expensive and limited life, typically losing a noticeable portion of their original brightness within 1000 hours of use.The HD25e is exceptional both in its 6000 lamp life rating, and the low cost of OEM replacements (less than most generic replacements for other projectors). The HD25e's high initial rated brightness combined with long lamp life means most people can expect to use the original lamp for several years by simply changing brightness settings occasionally as the lamp ages. Those wanting maximum brightness can buy new lamps more frequently and keep the still working lamps as backup, saving a considerable amount over the life of the HD25e compared with other projectors with lower brightness and more expensive lamps. Buyers of new 25e projectors are likely to be simply amazed at what a remarkable value this projector is.The HD25e is the first affordable projector I've had that didn't need lots of nerdy fine tuning of settings to look good for all my uses, and even using my preference of Eco lamp in Reference mode with Dynamic off it's bright enough to replace most any TV and very quiet. I compared it with a new 32" TV, and even with my unpainted 93" screen it blows the TV away. Other modes are brighter, and for sports in particular they'd work well in brightly lit rooms, especially in "normal" lamp mode. At maximum brightness you could watch it outside in daylight. I highly recommend the HD25e to anyone not looking for an ultra-sharp (and several times more expensive) top of the line Home Theater. The only real downside for some buyers of early units was somewhat uneven focus (fixed in new and repaired units - see below).Problems Encountered (and solved):I bought an HD25e in late 2013 (posted an "opinion" and in the "forum" on Projector Central 11/2013 as SantaBabarian), and after 6 months it started to flicker badly. It had occasional minor flicker that comes and goes since new, but got bad enough we didn't want to watch a movie. For some reason, going to Menu / Test Pattern / White and then back to normal content would temporarily fix the flicker every time, but after a few minutes it would return. It only did that rarely, after being on for several hours.I like this projector so much and had such good support from Optoma on an earlier model that, after checking to make sure there's still nothing comparable in this price range, I bought another from Amazon and shipped this one back for warranty repair. Now I have a backup unit and can use the same lamps in either, all for a total cost still lower than anything comparable. Reading lots of online reviews on units in this price range, it seems that this one has fewer serious complaints than the others. I considered buying an Optoma HD131Xw - a bit cheaper and newer with the same lamp. But there seemed to be more potential problems with that one including the focus, according to the early reviews.The new "backup" 25e I bought in Feb.2014 before returning the first one for warranty repair came with uniform focus and no flicker. In case it's helpful for anyone buying, my 11/2013 purchase was s/n Q8VC322AAAAAC0146 and the 2/2014 was s/n Q8VC404AAAAAC0218 so presumably any higher serial numbers will have the improved focus.Details:The uneven focus of my first, early built, 25e was nearly a deal breaker for me, since I use it often with a computer. But by finding the best place to focus (1/3 down, just left of center on mine), I was able to use it acceptably with moderately large text. Again, from the reviews it seems the current 25e projectors have more uniform focus than my first release original, the early model focus was repaired free in warranty, and focus is reasonably uniform on my new replacement. Even on my old one I doubt most people would have noticed the difference from a high-end projector on anything but a very sharp 1080p movie, or displaying small computer text.The color and brightness are just stunning. My prior Optoma projector was a 1690, and it worked well for years through two lamp replacements that each went longer than the stated hours. It seems that the low-end market has grown tougher in more recent years, so to stay competitive all the manufacturers are apparently cutting lots of corners. I use the HD25e almost exclusively in Eco mode, so the relatively inexpensive lamp should last a very long time. Even in Eco after 1230 hours I didn't notice any change, and it's still bright enough to watch TV in daytime with the shades open in a brightly lit room. At night with enough room light to read by, watching movies is better than on nearly all TVs, and at 93" diagonal of course much larger than the largest TV I could afford. Plus of course, it's much more portable so I've taken it to a few events and wowed the audience. :)In Menu / Image / Advanced / Color Settings there are separate slider settings (+/- 50) on Hue, Saturation and Gain for Red, Green, Blue, Cyan, Magenta, and Yellow; plus R, G, B for White. Of the preset Modes, I like Reference the best and have settled on using that with no user settings other than reducing Brightness slightly and tweaking Contrast (note that any such adjustment automatically puts you into User mode, where those settings are saved). Surprisingly, it's less sharp than the 1690 (720p native) in 720 mode, but that seems due to down-scaling because in 1020p it's very much sharper. Corners looked a bit darker on my first 25e, especially the top-left, but more uniform on the new one and now the repaired one.I have a lightweight unpainted 93" (48" x 80") screen cut from art supply store white 1/2" foam board that I framed with Home Depot unpainted metal drywall edge for a total cost of less than $50. It's hung with the bottom at 45" above the floor and the top tilted slightly downward (7" out from the wall). The projector is 11'-1" from the screen and 80" above the floor, which puts it about in the middle of the zoom range and makes it about 8" lower than my previous projectors. In this configuration (haven't tried others) the image geometry is within 1/4" with no keystone or other correction. I notice that the image offset adjustment simply crops the projected image, so it's only useful for wide-screen content and not anything that uses the full native vertical image height.For my original projector I simply made a ceiling mount from plywood and some shelf brackets. For the new replacement I bought aVideoSecu LCD/DLP Projector Ceiling Mount Bracket White Fits both flat or Vaulted ceiling PJ2W 1CA(I'll post a review there), and though it required some adaptation the mounting process only took a couple of hours total.Projector fan noise is normally only audible with no audio while sitting with my head 3' below and 1' behind it, in Eco - Reference Mode and Dynamic off which has been fine for all types of viewing with no further adjustments. For normal viewing, the HD25e is inaudible. Some other modes are moderately noisy, but fine for business presentations or sports. Also note that like all good projectors, the 25e has a High Altitude setting (boosts fan speed) and automatic fan boost when in a hot environment (increasing fan noise in those situations). It's only an issue for me in SoCA summer, and still not noticeable with normal TV audio present.I haven't used the built-in speakers at all, so the "echo" they made with my sound system was annoying until I figured out how to stop it. You can't use Mute, because the 25e then displays a mute icon on screen that doesn't time out and go away. At first I turned volume down to the lowest setting before Mute but that was an extra step every time. Finally I noticed the simple solution: Menu / Tools / Audio Settings / Internal Speaker - Off. It comes On by default, but remembered the Off setting once I found it.For more details before buying, I downloaded the free user manual available on Optoma's website (...)optomausa.com/products/detail/HD25e).The HD25e is an amazing low-cost option for a bright projector that provides a good low-end HD home theater with native 3D, an amazingly great TV, and a good HD computer display. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a really nice unit.  Nothing continuing includes the 3D aspect of the unit as I have not tried that part of it.The projector was much smaller then I had thought it would be and it is very light weight considering its capabilities.  After using this for almost two months I would not hesitate to recommend this product.  The picture is sharp, the automatic display adapter finder works really well, it doesnt take long to cool off when you are finished and it works in low light conditions pretty well.I have this projector shooting on about a 150&#34; painted screen with a particular kind of sherwin williams paint recommended by projectorcentral.com.  I have 0 complaints with it and see no better way to get a movie theater in your home. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I love this projector </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Three years ago I bought an Optoma HD66, which is a 720p projector. I wanted an upgrade so I did a few weeks of research online and finally decided on the HD25e. It was very much worth the upgrade. I was hesitant and first thinking it may not be a big enough difference to satisfy me.First the black levels are very good. I would wager there isn't a projector under a $1000 that have better black levels than the latest Optoma projectors. Tons better than my HD66. The colors are better, the picture is more crisp. It is an all around better projector. Very close to movie theater quality. The fan is very quiet. If you turn on the High Altitude setting the fan is a little on the loud side.I would recommend this projector to anyone who was looking for a home theater projector. There maybe better projectors out there, but they are probably going to cost well over a $1000. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great features....cheap components </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This projector replaces an Optoma HD20 that I had for almost two years. It was a great projector except the color wheel had to be replaced right after the warranty expired. My last Optoma projector had the same issue. So I am expecting this one to have the issue as well. However, I had an extended warranty on the HD20. Well right after the color wheel was replaced something else went wrong with the HD20 and this time it wasn't fixable. The extended warranty covered me and i was refunded the purchase price.The HD25e was my replacement. I am now on my second HD25e. The first one had really blurry corners. Although changing the screen size and adjusting the projectors distance and angle did help some, it was still distracting for a $1000 piece of hardware. Amazon did a fantastic job of replacing it with a new one. Thanks Amazon!Well this second one is blurry as well. I called Optoma and basically was told it is not thier top of the line projector and uses cheaper optics which might cause the blurry issues I am having. Really??? So this makes it acceptable? That said, they did say I could send it in for repair if I felt it was not right. Well with a bit of adjusting distance and angles again and although there is some blurriness, it's not near as bad as the first one. To me any blur is unacceptable for a $1000 projector. Sharpness is not what you skimp on.I might be returning this one as well but I fear I will be facing the same issue unless I go with a different brand. I like the features this model has compared to other brands in this price point. I would have to give up features I like to get a sharper over all picture. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's a High-def projector for sure! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Well I just upgraded from a 7 year old Optima 716 which served me well with over 6000 lamp hours amazingly, so I decided to stick with the brand. This thing is a huge upgrade. Can't hardly see any pixelation when close up to the screen vs the old projector. Picture is crystal clear and the blacks look black. I tried another projector from Amazon but sent it back because the picture seemed too bright and washed out. Guess I just like how the Optima's picture looks. Hopefully this one lasts as long as my old one. Will update when I figure out the 3d or if I have any issues with it. I tried many picture setting modes, but cinema mode tends to be pretty spot on so you shouldn't have to calibrate. You may want to try different movie software too. This strangely makes more difference than you would believe. Arc soft Totalmedia seems to work with lots of movie formats vs Powerdvd so you may want to download the trial and check it out. It also has a 480p to 1080p upscale which works really good actually. Check it out. For all the other weird movie extensions still have to use media classic with codecs. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lens Blur </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was searching for a projector for months. I wasn't going to spend $2k, but I wanted something half way decent. I first decided on the hd25-lv. When I got it installed, it had focus problems and had a really annoying buzzing noise. I returned it and picked up an HD25e. WOW, was it quiet. I could barely hear the fan at all. I thought I had finally found my projector. Nope, focus issues. You can focus on the center and the sides are blurred and vice versa. I contacted Optoma and they advised me to send it back to Amazon for exchange as that would be easiest. They said it was a very uncommon defect. But based on my experiences with other products from other companies with &#34;uncommon defects&#34; I didn't want to take any chances. I replaced this with the 131Xe which I am VERY happy with. The cheapest of all of them, and in my opinion, the best. The brightness gained by both the hd25-lv and the hd25e were miniscule when compared to the 131Xe.Overall, if you are considering getting this projector, just get a 131Xe. It's cheaper, takes the same cheap bulb, and looks ten times better on my ceiling matching the rest of my black gear. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Underrated Projector </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Excellent, cost worthy projector. I have used it outside for impromptu bbq films. Last summer- I watched There's Something about Mary on it and the image quality impressed everyone there. People raved about how crisp the movie appeared. Now I use it mostly for movie screenings downstairs.What I like about the machine is how easy it is to adjust the size of the image. The remote is straight forward to use. There are multiple inputs (like you can do hdmi, pc connection from vga). What it needs is a digital output for sound systems. I spent a long time deciding between projectors- there are great review sites (wirecutter, cnet, gizmodo) and after testing them all out myself, I decided optoma hd25e was the most cost worthy of the sub 1000 projectors. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best projector on the market </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased an Optima HD20 3 years ago and love it.  Its lamp lasted for 3500 hours.  Its projected onto a pull-down screen at13 ft from the projector and gives me a 100-inch diagonal image.  Why go to the movies and put up with the rude people bumbing your seat back or the teenager texting next to you, let alone the price of tickets.  I added an inexpensive Sony BRAVIA DAV-DZ170 Home Theater System from Amazon and the system is great!  Don't watch tiny tv's anymore.  I bought the HD25e for my son this year.  Looks the same as the HD20, but is 3D.  Haven't watched a 3D movie yet, but the 2D quality is excellent.  Set up of both HD20 and HD25e are simple.  Currently projecting the HD25e on an off-white painted wall without even noticing it.  Get either one and enjoygoing to the movies! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beyond Expectations - Love it </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is my first projector. Was trending towards a 60&#34; LED until by chance the advancement of projectors was mentioned to me. I've seen them at work but they seemed pretty lame. So I did a fair bit of research and visited a friends home who had one. I became convinced this was the way to go. Choose the HD25e for the low cost and 3D. Decided on a 110&#34; screen size due to room dimensions. I'm quite blown away and will never buy another television. I have made zero adjustments of which there are many. There are complaints about being able to focus two opposite corners. I do agree there is something noticeable if you happen to hook up your computer and are looking at detailed text at two corners. As you adjust one the other goes out. But it is very slight. Also, for 99.9% of all viewing (video) it is completely unnoticeable. I leave it on Eco Mode for most of the time and it's great. I sometimes switch it to regular when watching 3D. The glasses darken it so it just brings it up a bit. The 3D is mind boggling. Avatar is jaw dropping. Just being able to bring this technology into a home is amazing. When watching a simple movie on Dish it's totally absorbing; almost no difference to a theater and the popcorn is free. Very pleased. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One Of Two Outstanding Bargains </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This new "e" variations offers considerable improvements over the discontinued base model. Note the plural!Seldom do projector reviewers or manufacture speak of total cost of ownership. The typically expensive UHP lamp was a major, unspoken, hidden cost typical priced at $350-550!Pushing for change is some serious competition from large bright LCD flat panels especially for use in the education market. LED powered projectors are still severely limited in their light output and not competitive in 2013.So Optoma was forced to innovate or loose market share. Consumers don't know what to make of the HD25 models variations being introduced on an almost monthly basis.  The LV model has greater light output yet uses the same 240w lamp! Projector Central asked WHY but Optoma declined to answer:"The HD25 and HD25-LV have the exact same fan noise. I have added a comment in the article to this effect. As far as "how is that even possible," I do not want to speculate. Your suspicion that it might involve the color wheel is plausible, but Optoma no longer publishes color wheel information, even for their home theater projectors, so it is impossible to confirm. We have asked Optoma representatives several times for color wheel information but they have declined to comment. Both the HD25-LV and the HD25 are actually very quiet in operation, but you are correct that Eco-mode is quieter still."To add even more mystery, Optoma just replaced the HD-25 with the HD-25e. This new "e" version approaches the brightness of the LV models yet uses a new more efficient lamp. Thanks to use of an optical lens on the BF lamp housing, power consumption has dropped from 240 to 190 watts, a considerable savings. Even better the new 6000 hr rated lamps drops in price from $380 to $154. The unstated goal is achieved: projectors are now competitive to large flat panel displays.HD33  1800lum 4000/3000 hours (STD/bright)  230W $181 Lamp: BL-FP230i OsramHD25  2000lum 6000/3500 Hours (ECO/normal)  240W $380 Lamp: BL-FU240A PhillipsHd25-LV  3200lum 6000/3500 Hours (ECO/normal)  240W $380 Lamp: BL-FU240A PhillipsHD25e  2800lum 6000/3500 Hours (ECO+/normal) 190W $150 Lamp: BL-FU190E NotSpecifiedHD131Xe  2500lum 6000/3500 Hours (ECO+/normal) 190W $150 Lamp: BL-FU190E NotSpecifiedHD30B 1600lum 5000/4000/3000 Hours (ECO+/ECO/normal) 240W $380 Lamp: BL-FU240A Phillips  added 8/2013All this is exciting news so why is Optoma keeping low key? because consumers who recently made an investment tend to be caught off-guard. There is an unstated risk with the new "Not Specified" lamp manufacture in the "e" models. Will it really last 6000 hrs? The lamp warranty is still only 90 days. However if the new, more efficient, less expensive lamp lives up to its claims then consumers get quite a bargain. The icing on the cake is one of the "e" models cost less than half of last years HD33. What an outstanding bargain! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great pj love this thing </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Lets start with the sound of the fan. It is very quiet. The speakers are good enough to play on their own if you don't want to buy speakers. I was using it for a few months with no speakers until i moved it into my media room. The image quality is amazing 2d and 3d. OMG the 3d is great right now i am only buying 3d movies because its just so amazing looking. Don't hesitate to buy this you won't regret it. Trust me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Like they all say, but I Like it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I cannot add much to the reviews already posted, other than to confirm that the focus is off on the corners and edges.  As I use it often to project my PC, I notice it.  I still own an Optima HD20 and used it for the same thing.  The HD20 did have a minor focus issue near one of the edges, but I almost never noticed it.  On the HD25e, the focus issue is regularly noticeable, especially using a computer.  But as long as I do not dwell on things lurking in the corners and edges, I suffer little heartache.  The HD25e is brighter than the HD20 was and the 3D is simply fun!  I plan to wear this projector out with crazy amounts of gaming and movies.  I damaged my HD20 using a non-Optoma replacement bulb that heat warped the lenses badly, so I would recommend staying with Optoma replacements for this model, too.  I got my HD20 repaired...for the cost of the more expensive bulb...on top of the loss for buying the knock-off bulb...so, don't think knock-offs will save you money. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For under $1000 this projector is "UNBEATABLE" </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchase this to replace my well aged BenQ W500...And all I can say is WOW ! ! !Straight out of the box and onto the wall I am getting a gorgeous 130&#34; diagonal picture at a 16' throw. The colors are amazing and the contrast is surprisingly crisp for a sub $1000 projector. This projector is able to blast through all ambient and artificial lighting in the theater and even on a sunny noon day I only have to close the curtains (haven't touched the black out shades in weeks now!) to get a theatre quality image. The fan is whisper quiet while running and from pressing power off the cool down period is a mere 10 seconds.Now this projector is great but it is not without some... err... places for improvement. Signal pick up is a bit slow on the HDMI and be double sure to turn off the ever annoying auto-seek-input function. The light leak, should you be so inclined to look at the projector from the front is quite noticeable, but the amount of lumen to the wall means you will never ever be bothered by it as long as it is ceiling mounted. There is also an even so small amount of the rainbow effect, but at 130&#34; and sitting 14' back it is visible in only the darkest and brightest of scenes and should not be a deal breaker for those of us in this price range.My only real gripe about the HD25e is that there seems to be a bit of a Q&A; issue at the lens factory, not only in the reports of 'blurry edged lenses' (which thankfully I avoided) but that there was large amount of dust on the inside of the lens and two small fingerprints on the outside of the lens. Again not deal breakers, but be sure to give the lens the once over before mounting the projector out of reach. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> optimal hd25e projector. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this projector on June 25th 2014 and sold it on July 15. The reason, you may ask, is because I was not satisfied with the image quality. Yes, it does produce a very bright picture and the contrast is good, however the image is not up to the quality that I expected from  a high definition full HD projector. It could be due to limitations of the video processing cercuitry implemented in this projector as to reduce the cost. I have the Panasonic pt-ae8000u and it produce an image that's so sharp and clear. I knew that a $2400 projector will always has better image than a $750 projector, but I was expecting a satisfactory image quality from the optimal, but I didn't. I wish for the video engineers who designed this projector to go back to the drawing board and fix or modify the video image processor. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

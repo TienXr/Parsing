@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 0767840135 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-23-2004  
+<h2> review.text </h2>
+
+ <p> The lighting was very strong and good. The costumes were great. The music was great. John Gilkey is very annoying and far from funny. He plays the character in the blue coat and jacket with the bald head called "John." He is just goofy and makes annoying faces. In one of the scenes where you're just getting into the music, John screams like a maniac. I hated that scene. The girl's (Zoe's) voice is nice, but the lyrics are just made of a bunch of annoying "Sooo" and "scoo" and "voo" and koo" sounds, unlike other shows, like Mystere, which have haunting lyrics. There are a lot of acts in this show, which makes it go by very slowly. Each act makes the show look like it's going to end, but it isn't. I felt very bored after the first couple of acts. The clowns are not funny at all. They just run around and say "Hey " "Woah" and "Bravo." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Big Fat Sleeping Pill </p>
+
+
+<h2> review.date </h2>
+  05-27-2010  
+<h2> review.text </h2>
+
+ <p> Quidam was my very first introduction to Cirque du Soleil. I saw it before the company became the entertainment giant it is today and was relatively unknown in the states (and considerably less expensive). For that, Quidam will always have a special place in my heart as the show that began my love for the Canadian circus. That said, I already have a pre-disposition to love this DVD, but even friends whom I have shown it to agree: it's an amazingly unique and provocative piece of theater and circus that makes viewers think."Quidam" is a Latin word for anoynmous, for an unnamed person rushing by on the street -that's what this show is about. There's constant imagery of masked figures lurking around in the background amid cold, steely lighting, emotionless characters and breathtaking acrobatics.Quidam focuses on the journey of a young girl named Zoe (played by Audrey Brisson-Jutras in the DVD). Zoe lives in a detached world, isolated from those around her and bored with life. After meeting a mysterious, headless figure with a hat, she dons the hat and is transported to another world. In this world, Zoe encounters the mysterious, dark and sometimes comical creatures of Quidam and embarks into a dark journey through a strange land where she learns to connect. The theme of Quidam is all about transitions between locations and the people you pass on the street. One of the unique features of the show is the track-like mechanism onstage that smoothly moves equipment on and off, giving the sense of movement and, as shown in one scene, a train station.This show also has my favorite Cirque du Soleil act ever: Aerial Contortion in Silk. The act is a mix between contortion and aerial silks, with vibrant, red silks filled and a performer in a flesh-colored leotard who explores an amazing story and array of human emotions. Truly, a compelling and inspiring depiction of the human spirit.Other great acts in Quidam are the opener German Wheel, the show-stopping Banquine, the Aerial Hoops, dramatic Handbalancing and, of course, the signature clown act where the character juggles a coat rack. Though at times a little dark for children, Quidam has a wonderfully surreal feel to it that brings a gritty, raw edge to Cirque that's typically left out of other productions. The emotions seem more real and honest here, and that's one thing I've always loved about Quidam.Perhaps not the best Cirque show to start with, Quidam is a gorgeous piece of provocative theater and circus that stands as one of the most unique and inspiring Cirque creations out there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quidam, my favorite Cirque show </p>
+
+
+<h2> review.date </h2>
+  09-14-2004  
+<h2> review.text </h2>
+
+ <p> Cirque du Soleil's production of "Quidam" is the most spectacular stage show that I have ever seen.  There are moments that literally take your breath away as the cast seem to defy gravity with outstanding acts of strength and balance."Quidam" is so much more than a circus act.  It is a grand show that is part musical, part dance show and part magic.  The end result, however, is even more than the sum of the parts.  If one were to try to list the highlights of the show, one would have great difficulty.  Each component is magnificent in its own right.The cast is drawn from all over the world yet the performance speaks just one language.  Fantastic and compelling!  The search for superlatives is a task in itself.See this show!  Buy this DVD! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Greatest Show on Earth </p>
+
+
+<h2> review.date </h2>
+  10-04-2011  
+<h2> review.text </h2>
+
+ <p> This movie is very cool, in that you get to see the upclose version of the all-man circus. The acts are all very original and fun as well as thrilling. The circus even has a backstory to it that brings all the components together for a fantastic journey through the world of an ordinary girl who meets some odd and interesting things along the journey. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quirky and Ellegant </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> This was the first Cirque show I ever seen and I had to have it so I got. It is one of my favorite shows especially because it has my all time favorite performer John Gilkey in it. I love the whole show and all the performances from all of the performers but John is the main reason I got this show because he is one man that can always make me smile. The other main reason I got this show is because Cirque is an incredible experience and wonderful type of show to watch. It is incredible to see what people are capable of doing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Love Cirque </p>
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> I have seen quite a few Cirque du Soleil shows and have always been in awe of the acrobatic skills of the performers - this Show was one I had not seen live, and it met my expectations of some thrilling ariel feats.  Also it was an engaging story line of a little girls wonder opening before her eyes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cirque du Soleil Quidam Video </p>
+
+
+<h2> review.date </h2>
+  04-10-2013  
+<h2> review.text </h2>
+
+ <p> There is nothing else to compare this circus to.It is so well done...complete entertainment...Many kudos!I can't wait to buy the one made from Beatles music & Sgt Pepper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Long Live Cirque du Soleil! </p>
+
+
+<h2> review.date </h2>
+  03-24-2000  
+<h2> review.text </h2>
+
+ <p> I have several Cirque du Soleil performances on video (DVD and tape), and this one is my favorite.  Unfortunately, I've never seen a Cirque performance live, but I will the next chance I get.Quidam is phenomenal  in so many ways.  The performances are amazing.  Audrey's singing is  amazing, forget that she's only 12.  The embedded storyline is intriguing.  And the music is the best I've heard from Benoit Jutras (Audrey's father for those keeping score at home).The only  disappointment is that the disc cover and tech specs on the disc (...) say that the subtitles are in English and French.  What they don't  tell you is the subtitles are limited to the 30 seconds of words that  appear in the beginning, and nothing more.  I would like to have seen a  translation of what she's singing, but subtitles get to be distracting  anyway.Bottom line- it's spectacular! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Never get borded watching it... </p>
+
+
+<h2> review.date </h2>
+  01-13-2002  
+<h2> review.text </h2>
+
+ <p> I first saw this video at a cousin's who hapened to have it, the video does not only entertain but it will make you curious enough to want to see it in person, even though the Quidam troop is not presently on tour in the U.S. The idea behind Cirque du Soleil not to use performing animals will not bother you once you begin watching. There are high altitude acts with no net, such as a ladythat comes down at high altitude on a piece of strong fabric and doing contortions in mid air with little else holding her. There are no clowns in the traditional sense, but there is a character named John who dances juggles and does some pretty funny physical comedy with a set of darts witha bulseye held flat on top of his head. Other great acts are a german young man who perfoms the german wheel which is a two dimensional wheel with monkey bar handles a great feat of coordination, agility and strength, making the wheel go forwards, backwards, sideways while he is inside this wheel controlling it with the use of his body. Another interesting act is a contortion and hand balancing act by a perfomer named Olga Pikienko, she has great highly cordinated choreographed moves moving from one set of balancing beams no larger than the size of a foot or hand. It is a grand production with music perfomed live, a story which centers on loosing our inner child by becoming consumed with the material self obsessed world. Highly recommended for anyone curious about Cirque du Soleil, I have viewed it several times and don't easily tire of it... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A surreal and entertaining experience!! </p>
+
+
+<h2> review.date </h2>
+  03-02-2013  
+<h2> review.text </h2>
+
+ <p> Well this show is real good, may be a little bi darker the the others cirque du soleil  shows but the music the art is simple great </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cirque Du Soleil Quidam </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> Some of the numbers were really great....The rest, I fell asleep on several occasions.  But whatever I might not like.....It might be a great success with somebody's else point of view..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just OK </p>
+
+
+<h2> review.date </h2>
+  02-05-2014  
+<h2> review.text </h2>
+
+ <p> Great DVD. Takes us back to the live performance. Good photography, sound & color good. Get to relive the show </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quidam </p>
+
+
+<h2> review.date </h2>
+  01-24-2000  
+<h2> review.text </h2>
+
+ <p> This video was my introduction to the Cirque Du Soleil, and what an introduction it was! I don't have enough adjectives to describe the experience of watching the performances on this tape - amazing and  inspirational are two that come to mind. Unlike many on these pages, I did  not find the editing or camera work too distracting. I did have a sense,  however, that I was seeing only a portion of the show, but this was due to  the limitations of television. It seems that a Cirque Du Soleil performance  demands to be witnnessed live. I am eagerly awaiting my chance to do so  with their new touring show, &quot;Drallion&quot;. If you think you might  grow tired of watching one spectacular display of acrobatics, performance  art and theater after another, then don't bother with&quot;Quidam&quot;. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Transcendant Theater </p>
+
+
+<h2> review.date </h2>
+  08-17-2006  
+<h2> review.text </h2>
+
+ <p> After watching "Varekai," "Dralion," "Alegria," "Journey of Man" and other DVDs, I can safely say this is my favorite Cirque du Soleil show. Anyone familiar with Cirque du Soleil's training camp show on TV's Bravo knows there is a similarity to most of their shows, so details and subtle differences are important when distinguishing among them. With "Quidam," the music is perfect for the show, the performances are exceptional, the costumes are brilliant and the plot is the most delightful. I've seen this live once and liked it so much I might go back. I cannot find much about the DVD to criticize either because it is filmed very adroitly, the picture and sound quality are outstanding and it is presented in anamorphic widescreen. Suitable for all ages. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Eminently entertaining </p>
+
+
+<h2> review.date </h2>
+  02-06-2014  
+<h2> review.text </h2>
+
+ <p> I have gone to Disney and saw La Nouba Twice... They'll tell you there are no good seats in the house, don't believe it.This show is pathetic ... perhaps if you saw it live, you might have a different perspective?  however as a DVD it isbeyond boring... A little girl in a pink walking around all these stupid characters who amount to nothing performance wise.I think this DVD has to go to the landfill </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cirque Du Soleil - Quidam </p>
+
+
+<h2> review.date </h2>
+  11-20-2001  
+<h2> review.text </h2>
+
+ <p> The show is very entertaining from start to finish, and I find myself watching it over and over.  The music and acts blend very well together along with the costumes.  John Gilkey is quite possibly the best clown in all the Cirques I have watched.  Quidam is worth the purchase just to see him perform. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of my favorite Cirques </p>
+
+
+<h2> review.date </h2>
+  06-13-2012  
+<h2> review.text </h2>
+
+ <p> This was a good show, started off a little slow but then picked up. I feel as if dralion and allegria are a lot more worth of purchasing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It was okay </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

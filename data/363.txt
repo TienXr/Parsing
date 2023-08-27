@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1742205941 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Inspired to travel more and write about it </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> ThIs collection of true tales are a great example of the power of story. Just the right length to share an experience and draw some meaning from it. Entertaining and inspiring.  It gave me two new authors to read (Gemmell and Kelman) and stories from some favorites (Lloyd and Courtenay to name just two).  Also motivates me to write about my own experiences. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Interesting Collection of Travel Stories </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I generally enjoy travel writing and have, at times, found they have inspired me to visit places which I would not otherwise have thought about. I remember reading an excellent bookInvestment Biker: Around the World with Jim Rogers, many years ago. He wrote about Samarkand in Uzbekistan very positively and as a result we visited this fantastic destination.These stories are quite short and average about 10 pages or so each. This is something of a double edged sword as the writer does not have time to develop their description of the place they are writing about in much detail. The tendency therefore seems to be that they describe a specific and unusual event that they witnessed or revisit a place that, perhaps they had enjoyed travelling to many years before. However, clearly with such short offerings there is not much scope for the author to get bogged down too much.I found most of these short tales interesting, but I cannot say that I was particularly inspired to visit anywhere new as a result. However, where I had personally previously visited the country I did find it enjoyable to read about places which I already knew, Berlin being an example. There seemed to be an American bias with a number of stories of coming of age type travels of young Americans.Lonely Planet have expanded the scope of their offerings of late over and above the classic travel guides on which they have built their reputation. Recent publications have included large, coffee table type books to relatively modest offerings like this particular one and to my mind these ventures have been of varying success. However, I did enjoy reading many of these stories, appropriately enough, whilst I was on a long plane flight. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Non-fiction Even More Fun from Fiction Writers </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great imagery, evocative writing, off-the-beaten-track adventure tales that make you laugh and cry. Loved this book; bought another copy to give to an adventurous daughter. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good diversion </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Mostly excellent stories, a few clunkers from contributors who didn't seem to get what they were being asked for. Worth the time spent. Lots of Brits and Aussie writers, but good ones. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for people who like travel stories about different cultures. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like the short stories, just enough time to read one before sleeping.I like to travel but don't get enough time nor money.  It's nice to read some one else's experiences and learn about different cultures and lands. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Don't buy </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I didn't want to give this even one star.  There are two or three goods stories.  The rest are useless observations about somebody's travel experience. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An absolute MUST forEvery Travel-Freak </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It will remind you of so many times--and places- you have visited yourself.I just wonder why Theroux has no chapter in it ? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Easy Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Light weight reading. I expected more interesting and engaging. This is a series of short,not very developed, essays. OK not great. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> LOVE THIS BOOK </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked the variety, the quality of writing, the different perspectives. I'm only halfway through and can't wait to read more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Entertaining collection of short stories and anecdotes </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed this book. The stories are nearly all very sharp and well written. Each one makes for a diverting read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Three Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> kind of boring but some good writing by some interesting authors </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Come away with  us! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Travel. What does it mean? Is it going to the National Parks in the rear of my parent's station wagon? Well. yeah... What about sunny Hawaii? Yes again.. What about a job in Antarctica? Yes again!In reality the concept of travel encompasses so much more than just 'vacation' that we look forward to two weeks out of every year. Each of the over thirty stories that make up this book explore destination as varied as an ice bound camp in Alaska to Tahiti. You travel along with the travel guides (instead of writers) who  bring you along as a passenger on their jaunts.The stories are incredibly different as befits the idea of travel. You might not love every place you visit.You need a sense of adventure to travel You don't just want the same old thing. But it's still fun to go.Experience the unexpected. I'm glad I did! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For the true traveler.... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a very entertaining and well-selected collection of short stories from the more able writers of our day.  Since I am a lifelong writer and traveler, I was intrigued by the initial intent of the book.  Also being a fan of Alexander McCall Smith's excellent prose, I thought that his desire to publish a special selection of travel stories would be worth the read.  I was not disappointed.Mostly, I loved the various and unusual perspectives that the writers wove into their tales.  It gave me an insight into what their longer works may be like.  From the author introductions, previous to each story, I gleaned a long list of possible, future reading titles.  So now I can explore those writers' works that were heretofore unknown to me.Travel writing can be rather dull, in that B follows C action; and then comes C place, and then &#34;I did this&#34;, which is D; and so on, as tourist observations might describe. But the skill of the writers, in this particular anthology, was masterful and very entertaining.  For me, meaningful travel, not being a tourist, should take one along a path and not toward an intended destination.  These travel stories did that for me.  The images of the travel are well-embodied in these tales of the road.  This was a very worthwhile book. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

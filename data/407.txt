@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B007BYHIX0 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-30-2012  
+<h2> review.text </h2>
+
+ <p> I received this book for free as part of a read to review on goodreads.This three star rating is more personal preference than anything else really.  I liked the book, but wasn't enthralled by it.  The writing was good, but the characters were still hard for me to connect with.  The concept of the story was good, but a bit confusing and I believe it could've been presented more clearly or with more detail for understanding.The StoryLeo and his blind sister Odette are compelled to move to this small island country somewhere in Europe I guess....  Leo is not happy about this, but for some reason can't find a way to leave.  They begin to start a life there albeit reluctantly for Leo.  Come to find out there is magic in this new place and Odette is falling into weird trances and drawing things, only to have no memory of it afterwards.  The story unfolds from there with trying to figure out what these drawings are and what magic both Leo and Odette are developing.Likes and Dislikes--I liked the concept of this story.  However, I don't believe that the author gave us enough information on the history of this island and how things came to be the way they are there.  How exactly does it work?--The writing did seem to all flow well.  Nothing jumped around and the story was written in a cohesive manner.  However, I didn't connect with the characters as much as I would have liked.  I wasn't emotionally invested in what happen to them.--I didn't really get that they were from Spain at first, yes it did mention how he didn't like Spanish television but neither do I and I'm not from Spain.  Then it was quite confusing what the hell happened next to get them to Nevaeh (though Leo was confused by that too so that part is understandable)....and I'm assuming it's off the coast of Europe somewhere, England maybe because it says the island has British style houses and people spoke English.ConclusionI don't know if I would say "hey read this book", but if someone mentioned it I would say it is a good story.  I would also say that I believe this author has the capacity to grow and will probably pick up another book in the future to see how it goes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Read to Review </p>
+
+
+<h2> review.date </h2>
+  05-02-2012  
+<h2> review.text </h2>
+
+ <p> I really liked this story. It was different from other books I have read previously.The story itself was interesting and special. The whole idea of the island Edaion felt magical. The book was easily read and it did not take long before I finished. I feel myself wanting more and that's a good sign in my world.There were things I missed in the story that I truly hope we will see more of in the sequels. One thing I missed was some more insight to Odette, I never really got the hang of her. I also missed more story between Aniela and Leo. I also thought that the story itself was both fast paced and slow at the same time. I'm not sure how that is possible but that's what it felt like.Leo was a really lovable character and it was hard not to like him. He is so protective and loving towards his sister Odette, just like I would want my big brother to be if I had one.Aniela I liked aswell but sometimes it was hard to understand her, I have not had the chance to read this story through her eyes yet but I think I will enjoy it a lot.All in all I really enjoyd this and can recommend it to others. As I have heard the sequel will be more fast paced so I will keep an eye out for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blind sight, Leocardo Reyes </p>
+
+
+<h2> review.date </h2>
+  03-11-2012  
+<h2> review.text </h2>
+
+ <p> The story was a bit slow and I wanted the beginning to take off more.  I wanted to see Leo and Odette developed more at the first part of the book.  I wanted to see the transition from their home to the new home in Edaion.  The book got more into the characters as the book went along.  It also helped fill in some blanks from the other book Ana.  I personally like this book a bit better then the other and I know some of you will like both if not one over the other.  Overall for both books the authors did a good job and I did enjoy the stories I would like to read more by them both. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Leo </p>
+
+
+<h2> review.date </h2>
+  09-10-2012  
+<h2> review.text </h2>
+
+ <p> This book is wonderful, can't wait for the second episode to come out. The caracters are very well portrayed. A very good reading </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Maravilloso </p>
+
+
+<h2> review.date </h2>
+  07-14-2012  
+<h2> review.text </h2>
+
+ <p> I think that the idea if 1 story being told by 2 different perspectives are interesting. I read Leocardo's view. This view had an outside look in on Edaion. I liked that we got to learn the country's secret with Leocardo but I would have loved to have read Ana's view as she is a native to the country. I may go order it once I have caught up on my reading. There isn't much action until the end, it's more of a mystery as Leocardo is trying to figure out what the country is and what is wrong with his sister. Blind Sight was written well that I didn't get bored. I would have liked a bit more action and a better understanding on how Edaion brings people to the country. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> interesting </p>
+
+
+<h2> review.date </h2>
+  03-01-2012  
+<h2> review.text </h2>
+
+ <p> The blind sight books have many things going for them, but what really stood out for me was the sheer creativity of the authors. Unique, Mysterious, Astounding, and utterly... awesome. The authors have written this story through two perspectives, the perspective of Leocardo Reyes and Aniela Dawson. The first book to fall into my hands was Leocardo's book, and what a book that was, but I will be honest, after reading Leocardo and enjoying it so immensely I was hesitant to read the exact same story through the perspective of another character... I didn't want my high opinion of the first book to be tarnished by repetition.I was shocked.And very pleasantly surprised.The authors of these books are both astoundingly talented. Each book was unique in it's own way, each story new and fresh, and there was barely any overlap. That which there was did not feel like overlap, it was different enough through the eyes of the character, and the style of each authors writing. Each character leads their own journey, taking their own path based on their own beliefs and suspicions about Odette. I cannot tell you which story I preferred, both were fascinating to follow and fantastically written. I like different things about each book, but here I will tell you what I loved about Blind sight through the eyes of Leocardo.From the moment I opened this book I was propelled into action. Now I'm a reader who cannot stand to gratuitously tredge my way through page after page, hopelessly awaiting an interesting, intriguing, or exciting part of a book. This was never the case in Leocardo. I found myself rushing to turn the page, following the excitement, the mystery, with full attention. Sometimes I found myself so engrossed in the story, so hungry for the answers to the questions the story presented me that I would accidentally turn the page to quickly, then of course, had to turn it back, because the thought of missing out on one sentence in such a great story was horrific. Never was there useless babbling on. Every word in this book was worth reading.So why was this the case? Why was I so eager to read every word, so desperate to turn the page?There is an enormity of reasons. But the main one is Plot.A riveting plot that presented interesting mysteries to me in the first few pages. Some answered throughout, some growing exponentially until finally revealing their truths at the climax. It was a fresh plot. There was no formula I could use to predict the story. All I could do was read, and that's all I wanted to do. Written fantastically; fast paced and with something always happening I never felt bored, never felt like I had to skip pages to get to the interesting part. The whole book was the interesting part. And those few moments where the characters weren't trying to solve the strange occurrences happening in the world of Edaion, I enjoyed their interactions with each other, their development as characters. After closing the book, not only was I extremely satisfied with the story, but also quite attached to its characters. Not to mention, left with a great suspense, a hint of another book to come. One that I eagerly await for.Written fantastically, easy to read, fascinating to read, with great characters and an even greater plot. I highly recommend everyone with a taste for mystery read both the blind sight novels. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Page Turner </p>
+
+
+<h2> review.date </h2>
+  03-06-2012  
+<h2> review.text </h2>
+
+ <p> On Sunday I reviewed Blind Sight from Aniela's point of view, and now I am reviewing the same story but from the eyes of Leocardo. While the premise of two books that essentially are the same story but told from a different perspective was an exciting one, I have to admit I was a little worried that I would start comparing them and not really allow myself to get lost into the world the author created, or the characters. It's human nature to remember stories that are similar to draw parallels, but the story is a good one. I might however recommend reading something in between the two perspectives so it's not super fresh on your mind when you start on this perspective if you have read the one before.Leocardo is an interesting perspective, because he and his sister Odette are arriving on the island as newcomers. When you are new somewhere it presents a lot of challenges. You have to establish a whole new life in a whole new unfamiliar place. The upside to Leocardo being new on the island is that as a reader you get to experience everything new with the characters. Whereas when you start with a character who already knows the world, you have to pick up the world through bits and pieces, because the character already has the knowledge.As for the writing, it was really good, and it starts off strong. I can't tell you how much I appreciate a strong opening, because when it starts off slow I have to keep telling myself to finish the book, instead of wanting to finish the book because I couldn't put it down. Not only did the book start off strong but it had a really good pace to it. There wasn't anything that made it feel too slow, and there wasn't nothing too fast that it felt confusing. It was the perfect amount, it made me excited to turn the page, and want to know what was going to happen next.I also have to say that I may have enjoyed the relationships between the characters more than I enjoyed the characters themselves. That is not to say that the characters aren't strong on their own, but they are made so much more when they are put with other people. It gives the characters way more depth, and it helps to bring the reader into the fold.The book also has a bit of humor in it, it's used sparingly but it is used in a manner that helps with cut the drama in the book. Like I said before the book is fast paced, but the humor breaks up the fast pace in a way the reader can appreciate.I like Leocardo as a character. I think he is a good guy with a good heart and is a protective person by nature. I like all those things about him, it makes him likable for the reader. His personality traits compliment his relationships with others as well.I have said before on this blog that I am not a huge fan of YA books, but this book can easily be read by either the YA reader or the adult reader. I think the book suites either type of reader. It's a fun read and I would recommend it to anyone who likes urban fantasy, and you should also consider reading the other perspective of this story as well. I will compare the two of the book on Thursday on my blog, so stay tuned! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> UFR Reviews Blind Sight- Leocardo </p>
+
+
+<h2> review.date </h2>
+  04-03-2014  
+<h2> review.text </h2>
+
+ <p> It was a strange beginning with a brother and sister that went to a different area.  Almost like teleporting, and to learn about their special powers.  Odette was blind, however you would not think so with how well she got around without assistance, even in a strange place.  Once you came here you could never leave.  Interesting people and different talents/powers to each person. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Different than some </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> The format for this book is different and not something I've seen for a long time. Two books. Both titled the same. Each told from the perspective of a different character. Each written by a different author. I remember reading books as a kid where you would read one side, then flip it over and read the other side. While I haven't had a physical copy in my hands, this concept sort of reminds me of that. I was intrigued and excited about the whole idea! As a writer, I cannot imagine how incredibly difficult writing like this would be. You would have to know your writing partner very well to pull this off.I let the authors choose which side to give me, and I received Leocardo's side. The other side is from Aniela's (aka Ana) perspective. You get lots of exposure to Ana throughout Leo's side and I can only imagine that the same is true for Ana's side. At this point, I can't speak as to whether or not they are stand alone reads, but why cheat yourself, anyway? It's also interesting that one perspective is from an outsider and the other is from a native.You can read the rest of my review at my review blog Kick Back and Read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blind Sight Through the Eyes of Leocardo Reyes </p>
+
+
+<h2> review.date </h2>
+  03-20-2012  
+<h2> review.text </h2>
+
+ <p> My first introduction to "Blind Sight" indicated the novel could be considered as Paranormal, and was definitely a Fantasy/Urban Fantasy storyline.  As my regular readers know, this category is outside of my "normal range" for both reading and reviewing.  But, when I read the Goodreads', and others', synopsis, it seemed that it would be more like a Mystery Novel with a Fantasy edge.  So, with that in mind, I accepted Ermisenda Alvarez's request to participate in the Book Blog Tour, and she kindly gifted me with a free copy, in exchange for an impartial review.  I then learned that this novel actually consisted of two books: both entitled "Blind Sight", but each told through the perspective of a different main character; "Through the Eyes of Leocardo Reyes" and "Through the Eyes of Aniela Dawson".  And, the Aniela Dawson perspective was written by a second author:  Eliabeth Hawthorne.  In fact, it was a compilation effort of the two authors, combining even their names as:  Ermilia.  Ok, now I was hooked.  I will not jump the gun, and say this never happened before, but it was certainly unique to me as a reader.  But, I am getting a little sidetracked, and will return to the matter at hand; and offer my review of "Blind Sight:  Through the Eyes of Leocardo Reyes".One of the great features of this book is the element of surprise.  This began in the Prologue, right through to the last chapter, in fact, to the last page.  As I read, I found myself frequently puzzled, and asking "How did we get here??", or "Did I miss something?", or simply "What? What happened?".  For the most part this was a positive feature of the novel, and one of the reasons it could be classified as a Mystery Novel.  The author very cleverly keeps the reader's full attention, and keeps the fast pace of the novel.  I was concerned that as a Fantasy Novel, the storyline would be bogged down by descriptions.  No need to worry about that - nothing that I got bogged down in!  However, I will qualify my comments by saying that at times a little more description would have been welcome, especially with respect to character description.  Minor characters sometimes arrived without filling the reader in on who they were.  This bothered me, until I realized that in some instances, these characters left as quickly as they had arrived.  Nevertheless, I did catch myself flipping pages back, (which is not an easy thing to do using an online eReader program!), trying to find out where characters had come from.  In most, if not all of the cases, I think it was just a case of missing information, not an intentional holding back by the author.There is an element of romance in this novel, which I found brought a gentler focus to the overall storyline.  That gentler focus, coupled with the light fantasy plotline made this book much more enjoyable than I had expected.  My concern of facing a typical Young Adult Paranormal Fantasy was completely unfounded.  In fact, if anything, I would say that this novel left me wondering if other light fantasy novels were out there!  One of the aspects that appealed to me was the element of a sixth sense - rather than `fantastical' elements.  This sixth sense tone also fitted in with the gentler focus of the overall storyline.The characters in the novel, both the main characters and the secondary ones, are all quite likeable.  Even those portrayed as having an edge, or being a little outside the law, were enjoyable to read about.  I think that is a sign of clever writing techniques, as well as who the character was within the story.The end of this book was....... Well, actually, you will need to find that out yourself....!!Tomorrow, I will post my review of the second book, told from the perspective of the character Aniela Dawson, and fit the two novels together as one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mystery, Fantasy, and Surprise! </p>
+
+
+<h2> review.date </h2>
+  03-13-2012  
+<h2> review.text </h2>
+
+ <p> I would like to thank the authors again for giving me a copy read and allowing me to review it for their release tour. Now I know in the other version, I said I loved her side, but boy I love his side too! This is just so fascinating to read the same story, but not exactly, from two different people's perspectives because it's the same plot, and the same ending, but nothing is the same! No two people ever think or feel exactly the same, and you really get to see this. And now with these, you want to hold on to these characters as you've invested in them- twice if you've read both books- and you just can't help yourself.I really can't say enough how well these are both written as they have such a crazy vibe, they describe the same scene but you see completely different things- for example, when the lake is describe by Leocardo, it's a wonderful, magnificent thing, because he's amazed, and Ana thinks its beautiful but has seen it every day of her life, yet it still holds magic in her tale. I don't know what else to say other than read them! Each book holds valuable but different secrets and I can't wait to read the next installments!!Another thing is all the information Leo finds out about Ana's family, going back some generations, and there are some serious secrets going on, but ya gotta find out on your own.  He sees Ana and thinks she is just showing compassion for his sister, who has become a friend, and he tries to stop his feelings and be preofessional.  It's such a crazy ride! :) Big 4 paws from me! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> goodreads review </p>
+
+
+<h2> review.date </h2>
+  03-09-2012  
+<h2> review.text </h2>
+
+ <p> Let me start out by saying, I LOVE LOVE the concept of the book. I haven't come across the concept of a single story with two seperate volumes - each from a different character's point of view. I'll admit that there are likely some out there, but in the masses of books I read I can't recall any (not recently at least).I found the story very intriguing - it came across as a sort of fantasy take on the bermuda triangle type phenomenon. There was a lot of mystery that enveloped not only the origins of Edaion but many of the characters. I found myself thirsting for more information on Leocardo, Odette, the royal family and the other unique people that populated what turned out to be a decently crafted magical world.If I have any complaint, it would be this: I felt that the beginning could have been played out a little more. I felt slightly cheated by Odette and Leocardo's transition from home to Edaion. I, personally, would have liked to see a longer introduction that allowed us to get to know two prime characters before they were thrust into an environment that they weren't use to contending with.There were other points in the plot where there seemed to be a lack of information, however unlike the beginning they came across as a well crafted artful omissions. It was these artful omissions that had me grateful that I already had the 2nd volume (Aneila's take on things) and made my initial desire for a more meatier opening less severe. As I read about Edaion, it's residents and a little on it's origin - I was more than pleasantly suprised at how the writer eased you in to the "magical" aspects of the story; they didn't jump up and down, as if to say "look, look at my magic and how AWESOME it is". Rather, Ermisinda wove delicate strands of magic into every day fiction and as the story went, those strands that were already laid bare grew in brillance and detail.Blind Sight also did something else for me - it is one of the novels (the other being Farsighted by Emlyn Chand) opened my eyes (hope that doesn't sound too punny) to a whole new niche in fiction (for myself anyways). What I mean is both Ermisenda (and her partner Eliabeth), along with Emlyn Chand should be applauded for their use of disabled characters - but not relying on that disability to carry the plot. These women took their title characters in directions that others should consider - strong, independant and forthright; I found it refreshing that these blind people didn't just TAP TAP TAP around the story with their canes as that isn't the sum of blind people in the real world - for that authors like Ermisenda Alvarez, Eliabeth Hawthorne and Emlyn Chand should be applauded. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Unique Read </p>
+
+
+<h2> review.date </h2>
+  05-02-2014  
+<h2> review.text </h2>
+
+ <p> It was an interesting read and kept my attention, however I felt like it focused the main characters love interests and romances far more than the interesting, mysterious island itself. I felt like I got no real information or details about this island and the strange people on it, in the end I just felt abandoned. For me, the lack of detail (therefore no attatchment) of the first book has not made me want to read the second. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An OK read </p>
+
+
+<h2> review.date </h2>
+  03-04-2012  
+<h2> review.text </h2>
+
+ <p> My rating: 4/5 starsWelcome to the Blind sight blog tour! I received both books for a review, and was asked to think about how the two sides work together.Blind Sight includes two books, Blind Sight Through the Eyes of Leocardo Reyes and Blind Sight Through the Eyes of Aniela Dawson. And what makes these books so special is that they can be read together, or just one book!So, I read both of these books and write a small review from both of them, then conclude how these two works together.Blind Sight Through the Eyes of Aniela Dawson by Eliabeth HawthorneMAY CONTAIN SOME SPOILERSI had some pretty mixed feelings about this book. I just loved the beginning, and it was really promising!Some may thought it was too slow paced, but it worked well for me. I also liked a lot how the relationships between Aniela and her family member came out. I especially adored the scenes which involved Aniela and her mother. Add Tatiana and the mess is ready!Of course I also loved the beginning of Aniela's and Leo's relationship. She's all iffy and uncertainty is just killing her, and the reader, but that's part of the thrill!Then came chapter 13, and I just lost it. It's a huge thing when the main character goes on a date with someone she's interest in, but we had no idea when did this happen! Suddenly, they're just on a date. I was actually mad, because I love the suspense, but now we just missed it. I felt like I was left out of something huge.After that, there was some occasions when the plot worked and everything was exciting again, but over all, the story kind of fell apart. It wasn't so fluent, and there wasn't logic in the conclusion. Meaning the exciting end wasn't so exciting, because there was no logic in it.There's also the exciting mystery with Odette, but it didn't feel like Aniela was actually trying to solve it, it was more like she just says over and over again, "she's a medium, because she has to be a medium". There's some things to back up her theory, but it just doesn't seem like the obvious answer. We get to see some glimpses of other peoples lives, but something's just missing. We also get some fishy feelings about certain people, but Aniela lives in some oblivion, where she doesn't notice this kind of things. We also don't get any background to the country they're living in, and since it's a huge part of the plot, it felt like something important was left unsaid.This had some huge potential, and if only the execution was slightly better, I could have really enjoy this!Blind Sight Through the Eyes of Leocardo Reyes by Ermisenda AlvarezMAY CONTAIN SOME SPOILERSI just loved this! There was so many good things in this, I can't even remember everything.The beginning was just sooo exciting! We find out how people end up in Edaion in the first place, and the history and everything else I left graving for with Aniela's side.We also find out what happens with Aniela! Meaning, how they end up on a date. There's huge amount of other people, but there isn't too many, this just worked so well. Meaning the story.It's really hard to say anything about this, because this was just so good read :) This is definitely worth reading, so get a copy, quick!And then the main question..How the two sides work together?That's sort of a tough question. Sure, they have the same events and so on, so they do work together pretty well.But it was also said, that these books can be read without reading the other. This is half the truth.You csn read Leo's part of the story without reading Aniela's, but it doesn't work the other way around. I read Aniela's story before Leo's and I was truly pissed off occasionally. There's lots of things that are just glimpses from Leo's story, so they really didn't make any sense.There's sudden references to jellyfish, sleeping beauty, Leo's girlfriend and so on, but they've only mentioned once in the story, so your mouth just hangs open, because you're so out of it.But if I had read Leo's story first, I would've understand Aniela's side much better.So, in conclusion: They work together well, BUT I suggest you first read Leo's story, other wise you'll get really confused.And if you only want to read one book, I suggest you choose Leo.Love,Monaliz @ Mind Reading? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blind Sight Through the Eyes of Leocardo Reyes </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> Not a mover or a shaker. I almost felt as if this was a translation and not quite accurate or true to the authors writing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blind sigh </p>
+
+
+<h2> review.date </h2>
+  03-06-2012  
+<h2> review.text </h2>
+
+ <p> I am reviewing this book and the second Blind Sight book,Blind Sight Through the Eyes of Aniela Dawson, together.Blind Sight is a unique set of books, as this set contains the same story written from different main characters' points of view by two different authors. I was really intrigued by this, and wanted to know how this experiment played out, if the stories would be different enough to justify reading both books and if I'd like the idea. I am going to review both books together as, that is how they work best, and as I don't really have any complaints with the writing style or flow of either of the books.My initial reaction on reading the book blurb was that this would be a book filled with supernatural abilities or gifts. But, I was disappointed in this regard. The gifts are there as just a background to the story. They do not really play an important part in the books and the books read more like a mystery than fantasy. I know this is just the first book in a long series, so I am going to let this slide as I anticipate these to play a bigger role in the coming books.I did find the books to be a bit slow to read and the real action comes right at the end of the books. There is a lot of description about the relationships between all the characters in both the books. I have no idea if all these secondary characters will play an important role going forward, so I can't really comment on whether this space was really wasted. But, if this is not part of the character and world building for the series, I will be really turned off! This being a fantasy series, where this is a necessity, I am going to let this slide as well right now.The authors say that people can read one of the books and still get the complete story. While true to a certain extent, I am not fully convinced. I read "Through the eyes of Aniela" first and there were parts where I felt lost and did not really understand why certain things were happening. This became clearer after I read the second book. I would recommend readers to start reading the books with "Through the eyes of Leocardo". This will remove a lot of frustration from not understanding Leocardo's behaviour in "Through the eyes of Aniela".Leocardo and Aniela have two very different ideas of what is happening with Odette. If I decide to read just one book, will I still be able to get both, Aniela and Leocardo's reasoning and ideas? What if I back the wrong idea? Will I have to go back and read the other books, as things become clearer? For now, I would suggest reading both books. But as the series progresses, I have my doubts about a lot of readers sticking with both books, or sticking with the series itself. This is one experiment which is going to be really interesting.Both authors end the books on an extremely interesting note. I would certainly like to know what happens next as I can see a really big story arc developing. There is a lot of mystery and intrigue still left to unravel in this world. So, I say, bring it on! Even with the issues I have I highly recommend this new series. I just hope the authors take note and truly try to make both the books work individually as I'd hate to see people not reading this series due to this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Something unique! </p>
+
+
+<h2> review.date </h2>
+  04-25-2012  
+<h2> review.text </h2>
+
+ <p> This is the best book I have ever read and it was free. Get it, read it and then tell everyone about this book. You will not be disappointed! A must read for everyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BEST BOOK I HAVE EVER READ! </p>
+
+
+<h2> review.date </h2>
+  07-02-2013  
+<h2> review.text </h2>
+
+ <p> Blind Sight Through the Eyes of Leocardo Reyes is a fantasy story that has unlikely heroes, magic, mysterious islands, and a beautiful love story. Through danger, love, and friendship Leo and his sister Odette get magically transported to a mysterious island called Edaion. There Leo meets Ana, a Princess of the Island. The two have an instant connection. As the story progresses they fall in love. Odette does not have such luck. The island has a different affect on her. She starts drawing pictures, even though she is blind, falls into a coma, and eventually disappears altogether.This story has twists and turns, danger, mystery, and romance. From the very first page you are drawn into Leo's adventure. His thoughts and feelings become your own. The love for Odette, the blossoming feelings for Ana, and the concern for his sister when she starts behaving strangely. This is a fantastic journey that will captivate, enchant, and ensnare you! A must read for any fantasy lover! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blind Sight Through the Eyes of Leocardo Reyes </p>
+
+
+<h2> review.date </h2>
+  03-11-2012  
+<h2> review.text </h2>
+
+ <p> ...they were Edaion's slaves now.Leocardo Reyes finds himself transported to Edaion with his blind sister, Odette. With no recollection as to how they arrived and no contact to be had with their parents, Leo has no choice but to accept his new life and try to make the best of it. When Odette starts drawing pictures, Leo tries to find answers to the questions that surround them.Help comes in the form of Edaion's youngest princess, Aniela Dawson. Together with Ana, Leo attempts to find out what Odette's gift is, premonition or a medium. During all this, his world is shaken when Odette falls into a coma. Now, with his only remaining family member in danger and his budding relationship with Ana, Leo must come to terms with the life he's destined to lead.Full of tension and mystery, Leo brings an outsider's perspective on Edaion and on how the immigrants learn of their powers. Partnered with Blind Sight Through the Eyes of Aniela Dawson, Leo's perspective gives in-depth insight into Edaion, as well as giving a teaser of insight into Ana's sister Tia. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blind Sight - Leo </p>
+
+
+<h2> review.date </h2>
+  05-29-2012  
+<h2> review.text </h2>
+
+ <p> I'm wishing that I had read this story first out of the two! Not only did I connect with Leocardo (Leo) more than I did Aniela (Ana), but I also enjoyed reading his take on the events surrounding his sister. Ermisenda did a great job bringing the characters to life and creating a rich plot-line that kept me reading nonstop from page one.Leo is one of those characters that I would expect to meet in real life. His struggle to adjust to life in Edaion and his feelings of helplessness and confusion towards his sister's health made him easy to relate too. Likewise Ana and Odette felt more alive in this book than they did in Aniela's story. And yes, a lot of this has to do with the fact that it is written by a different author. I truly enjoyed Ermisenda's writing. I felt that she had a better grasp of who the characters were and how to convey them within the storyline. The pacing of events felt smoother and the overall plot fit better with Leo's telling than from Ana's.The other thing that I enjoyed within regards to this book was getting Leo's views on the secondary characters in more detail. Since he is a new comer to Edaion, you get to meet everyone for the first time and are able to create your own opinions on them without the familiar views that come from Ana's friendship and growing up with them all. It was easier for me to get into the story as it was told from an outsider's perspective rather than an insider's one. Of course, your mileage may vary and this is why I would strongly suggest picking up Aniela's story and giving it a read through after finishing Leo's story. Not only will you get a different perspective on things, but you'll also get more insight into the land of Edaion and definitely learn a lot more about Ana. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Promises to be a great series! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

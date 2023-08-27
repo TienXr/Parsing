@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B003ZDO3TS <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-22-2011  
+<h2> review.text </h2>
+
+ <p> I have read some of the negative reviews on this book, and I realize everyone is entitled to their own opinion, but I found this book to be a good I/R Novel, maybe not the best but still the book is good.  That is why I gave it 5 stars, the characters were written very well, the plot was good and believable.  I recommend this book to anyone that enjoy reading I/R Novels! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable Read </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> The only frustrating part of the storyline was how she kept going back to those who hurt her.  I understand having a caring heart, but enough is enough.  I am looking forward to the next story, though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice story </p>
+
+
+<h2> review.date </h2>
+  05-01-2012  
+<h2> review.text </h2>
+
+ <p> 3 1/2 stars is what I would really give it if 1/2 stars were available.This was my first time reading anything from Ursula Sinclair. The story was not bad, just not very believable and I found I could not get into it. I loved the main characters and their chemistry. Ross and the other male characters were all very yummy! It was the rest of it that would not keep my interest. Good read when you want to try something different, just pass time or a new author. But not something I would make a regular occurrence to read.Shanna's fiance is caught kissing the best man Ben by one of her good friends Le Toya on the day of their wedding. Not even a thought of approaching her fiance to see if it is true, she runs out of the church without a look back.Ross is a security expert and has his own business. He is walking to his office when he sees a slight commotion by the church. Unable to resist he listens and watches what's going on. He sees the bride run out of the church and immediately likes what he sees. Since he is standing next to the limo she is going for, he opens the door for her to get in. They have brief eye contact and she thanks him for his assistance. Then they go their separate ways.Ross and Shanna end up (unintentionally) meeting once again on a tropical get-a-way the following day. Shanna is just trying to grasp all that has happened and Ross is on business. Once they get into each others arms there was no separating them (or is there).Many other things conspire as the story goes on. Tons of lies, deceit and mysterious threats to Shanna. Together they solve the mystery of who, what, where, when, how and why. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> White Wedding </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> This is the first book I&#8217;ve read by this author I actually hemmed and hawed for months before buying it.  In my opinion the story just flowed, I was eagerly anticipating the next line as I had wanted to find out who was behind the pranks and to see the ex-fianc&eacute; get his.  I really loved Ross he was a perfect gentleman when the situation called for it and an alpha male when it did.  Shanna on the other hand was just all over the place.  Her contacting her ex even after she had Ross working on her problem was so not good.  I don&#8217;t think she has ever heard the phrase once bitten twice shy.  I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WHITE WEDDING </p>
+
+
+<h2> review.date </h2>
+  09-18-2010  
+<h2> review.text </h2>
+
+ <p> This book is well written, with interesting characters and a plot line that makes sense, the love scenes are steamy but not too kinky. So nice to read a well edited IR book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read </p>
+
+
+<h2> review.date </h2>
+  09-08-2012  
+<h2> review.text </h2>
+
+ <p> Ross Marshall, owner and operator of The Guardian Agency, sees a bride running out of her own wedding.  He makes eye contact with this beauty and he is ensnared.  Something about her calms and warms him but she is in a hurry and he can't chase her down.Shanna Stiles ran from her own wedding upon learning that her groom was caught kissing another.  She felt relieved when she arrived in Margarita leaving all her troubles behind.  At least she did until she looks into the amber colored eyes that had held the door open on her getaway car!  She tumbles into a brief rebound affair with Ross only to return home and try to get a handle on her life.  She is receiving hang up calls and turns to the man she left behind, Ross Marshall, to sort out this nuisance.White Wedding had all the drama of a soap opera with none of the annoying commercial interruptions.  Their relationship seemed to hinge on being a rebound but it was so much more than that.  They fit together as no one else ever had for them.  White Wedding was a nice way to spend a bit of time engrossing you in the mystery of who was placing the calls and wondering if the hero would be in time to save his woman.Vanessa for Joyfully Reviewed </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "They fit together as no one else ever had for them." </p>
+
+
+<h2> review.date </h2>
+  11-16-2013  
+<h2> review.text </h2>
+
+ <p> Ross is giant with a gentle heart when it comes to Shanna. A love at first sight kind of read and I loved it. Don't understand why it got 3 1/2 stars but it was good to me. Can't wait for the next book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it! </p>
+
+
+<h2> review.date </h2>
+  07-31-2013  
+<h2> review.text </h2>
+
+ <p> This book has a lot going on. The love Latoya professed for Kevin and then at the end Ben for Shanna was more like obsession then love.I will read the rest of the book in the series to see if the flow of the writing style gets any better.An ok read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> impulsive </p>
+
+
+<h2> review.date </h2>
+  09-19-2010  
+<h2> review.text </h2>
+
+ <p> This is my first book by this author. It's a good read and has unexpected surprises. I really loved that it does surprise the reader, especially since in most IR books, you can pretty much predict the whos, whats, whys....the end! Often, the only thing interesting in most IR books are the love scenes. And once you've read love scene after love scene, book after book, it gets pretty tiresome. However, not this book- in this book, I was actually shocked with the characters. Mrs. Sinclair (LeVerne Thompson) will take you on a drama filled ride. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wedding </p>
+
+
+<h2> review.date </h2>
+  10-02-2010  
+<h2> review.text </h2>
+
+ <p> I honestly cannot believe people actually thought this book was worth 5 or even 4 stars. This was the worst book I've read to date. I've never read a book where I wanted it to end so badly. I finished ONLY because I like to finish books before I critique them.  I don't want to bash the author but I have to be honest here.The plot: Bride-to-be, Shanna finds out by supposed friend, LeToya, that her fiance, Kevin was kissing another man, Ben, on their wedding day.  Shanna runs out on the wedding and  decides to skip town by escaping to an Island where she meet top security guru Ross. They have a one-night stand ( and them some)  and Shanna begins to find contort in Ross. Later, Shanna returns home to find she is being stalked by a mystery person and starts receiving unknown phone calls as well as a robbery to one of her hair salons. She hires Ross to do some investigation and what they discover is a world of lies and betrayal by those who are closest to Shanna.My Take:This book for one, was horribly written. The plot had all the potential to be taken to the next level and failed... miserably. Granted, I understand this is an erotica book, but I was disturbed at how Shanna was able to find what the book described as "passion" in Ross not even knowing him for a day! For someone who just found out here fiance might be gay, she took it way to light for my liking.Aside from that, the plot ending up dying because they entire book was about Shanna and Ross having sex. I found myself skipping over several parts just to get back to the point of the story. Instead, of given details, readers are just told what happened. In all honestly, I would have rather had more details than all the sex. And BTW, the sex scene were't even good!!!! Double whammy!Overall I had more problems with the books then likes. Come to think of it, I can't say one thing I did like about the book. Not enough details, too predictable, plot that went south after page 1, and BAD SEX SCENES was just too much for me to bare.This was my first time I've read a book from this author and I'm almost inclined to say it will be my last. However, I like to give authors a couple of tries before I cut them off entirely. I will be skeptical however when I see other books by the author.  I hope she has produces better products because if this is the best she's got, then she will not be writing for much longer.I won't say I don't recommend this book because we all have our own likes and dislikes but don't be surprised if this isn't what you expected after reading it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This will go down as one of the worst books I've read </p>
+
+
+<h2> review.date </h2>
+  11-01-2010  
+<h2> review.text </h2>
+
+ <p> I didn't want to believe the one bad review given the other favorable ones but I couldn't even finish this book.  It's just awful.  Not a ton of suspense, convoluted when you get down to the end and really a colossal waste of time and money.  Much better IR books available. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Skip It </p>
+
+
+<h2> review.date </h2>
+  01-14-2013  
+<h2> review.text </h2>
+
+ <p> I chose this book because I was intrigued by the blurb and I enjoy stories that have creative beginnings.  In this case the story begins at the altar so to speak.Ross is walking back to his business one day when he stops to observe with others to see what looks like a wedding at a church.  Suddenly, the bride in her lovely white gown comes barreling out of the church looking very distraught.  She is lovely and captures his attention immediately.  Her bridesmaid hands her a case and her purse as the woman rushes to leave her own wedding.  Ross assists her into the waiting limo.  They make eye contact and share a moment, but then she's off.  The bridesmaid announces to the crowd of on lookers that the wedding was off because the groom got caught kissing his best man right before the wedding.  Ross continues on his way, but can't get the bride out of his mind and that's a first where he and women are concerned.Shanna just needs to get away so cashes in her honeymoon tickets to Jamaica and takes off for another island to pull herself together.  Not long after she arrives, she encounters the man who caught her attention when he helped her into the car.  Shanna and Ross don't mess around and are soon upstairs in her room getting hot and heavy.  It is a three-day affair in which Ross goes from attracted to smitten and where Shanna realizes that she's actually grateful to her ex-fiance because she never really loved him enough to marry him.  But everything comes to a screeching halt when she talks to her sister and discovers that the announcement at the wedding had been a lie from a jealous friend who wanted the fiance all to herself.Shanna cuts things off with Ross now more confused than ever as she arrives home.  She has done some thinking, but hasn't arrived at a conclusion yet when she is met at the airport by Kevin.  She tells him sorry for running out, but has made up her mind that she still doesn't want to marry him.  Kevin still wants her so tells her he's not giving up.  Shanna is reeling and not just from Kevin.  The island affair with Ross tempts her with more, but she wants to get her head on straight first.  Ross returns and knows what he wants, but respects Shanna's choice.Over the next few months, Shanna acquires a phone stalker and other things start to happen leaving her on edge.  She finally places the call to Ross, who's a security expert.  Ross and his friends help Shanna track down all the clues that lead to a shocking result.  All the while, Ross and Shanna come back together and pick up with the hot and steamy right where they left off.  His feelings are strong and she doubts hers and his before finally acknowledging things.  But the answer to her stalker question might leaver her with no room to do anything about it.I have to say I was on the fence about this book.  There were two occasions when I almost laid the book aside and didn't finish.  The first happened when they literally jumped each others bones within five minutes of seeing each other at the island resort.  I've heard of rebound sex and comfort sex and all that, but wow- grabbing a total stranger and dragging them up to your room and getting it on just didn't do it for me.  I already thought she was a bit extreme when she just ran out of that church without verifying LaToya's word for what she was told.  There is an explanation later of why, but still I felt she owed a guy she had been with for five years at least a confrontation.  Her decision to put a temporary moratorium on her love life when she got back so she could get her head on straight made me decide to continue.  I found the stalker plot a good touch as I love romantic suspense and I loved that it was Ross who was coming to help solve the problem.  I didn't mind that they picked back up with where they left off because at least this time they were talking and looking for a relationship.  There were a lot of sex scenes that I ended up skimming through after a time.  But then when the clues finally led to answers I found it all a bit over the top.  At that point, I finished because I was into Shanna and Ross as a couple.  I didn't really care about the other angle of the story any more.  When it came to who was the shadowy stalker and the antics, I felt like I was reading about out of control teenager not adults who were working with solid careers.So it had certain aspects that I liked and others that bugged me about both the romance and the suspense side of things.  Those who enjoy steamy romantic suspense might like this story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wedding Disaster Leads A Bride to Get a Second Chance </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B005MRAPHY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-22-2012  
+<h2> review.text </h2>
+
+ <p> I was intrigued by the first part of the story and was eager to read more.  It didn't take much more reading to figure out where the story was going, though.  I was disappointed since it was actually very predictable.  The story was awfully short, too.  The quick wrap-up of the story line left me wanting it to keep going and draw it out a bit.  If you're in the mood for a fairly predictable short story that begins a little "spooky" then give it a quick read.  If you want a book to keep you interested all the way through and not lay down an extremely predictable set of events then keep looking.I was provided a free copy of this book to review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Predictable and too short </p>
+
+
+<h2> review.date </h2>
+  03-28-2012  
+<h2> review.text </h2>
+
+ <p> I was immediately caught up in this short novel.  After I read it, I did go back & re-read it, & enjoyed it more the second time.  It's been awhile since I read it, yet it is still very clear in my mind.  I would definitely recommend it for others to read.  It's a sad tale, but sweet & full of hope.  It's a little hard to say too much without being a spoiler, but it won't take long to read, & I think it will be worth your while.  I did receive a complimentary copy for the purpose of reviewing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Compelling; very poignant </p>
+
+
+<h2> review.date </h2>
+  11-11-2011  
+<h2> review.text </h2>
+
+ <p> I loved the beginning of the story - Jennifer is returning home after a long absence in a war-torn region - and was immediately interested in the characters and their motivation.  The writing is good and I could really visualize her approaching her home, and her anticipation of the reunion with her husband.  Not to give too much away, but I guess I didn't pay attention when it said that this was a short story, because I really felt I was left hanging.  I wanted to know MORE (about the characters, about their daughter and what had happened).  Additionally, I felt as if the ending were rushed.  Once the premise of the story was hinted at, the explanation became very predictable in my mind.  I was left wanting more suspense and more surprise ... Ms. Grant is a talented writer, no doubt.  I wish she'd turn this story into a full-fledged book!(Disclaimer:  I received a complimentary review copy of this story) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> intriguing premise, but... </p>
+
+
+<h2> review.date </h2>
+  03-25-2012  
+<h2> review.text </h2>
+
+ <p> I received a copy of this book in exchange for my review...I was very confused by this story. It started out fantastic, descriptive and well written, then somewhere it just became confused and muddled. It was as if the author fell asleep and kept writing. Then sent it off to be published. I was really disappointed.Not so happy reading ={ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stunted rather than short story... </p>
+
+
+<h2> review.date </h2>
+  11-15-2011  
+<h2> review.text </h2>
+
+ <p> I thought this was a book and was disappointed when I reached the end  after 15 minutes of reading. This could be a good book if the author would fill it up and make a decent plot and develop the characters.The way it is now as a story I do not see the point of it . Things are mixed up as if she sat down and just made her thoughts into sentences and then decided this was a story.  I do not see the point of this unless you want to read a very short story.  I gave it two stars as there was potential to a good story .I was given a complimentary copy to review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very short story </p>
+
+
+<h2> review.date </h2>
+  11-13-2011  
+<h2> review.text </h2>
+
+ <p> This engaging short story manages to keep the suspense up until the very end, although there are subtle clues along the way that foreshadow the ending twist before it arrives. The storyline captured my attention right away, and I read the whole thing rather quickly.This story works well as a short story in order to sustain the suspense and deliver such a twist, but I found myself longing for more information, more about the characters, and more details about what had come before. This story is going to stick with me for a long time.I received a complimentary copy of this book in order to review it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short story with a twist </p>
+
+
+<h2> review.date </h2>
+  12-10-2011  
+<h2> review.text </h2>
+
+ <p> I'm not sure I would have read this book if I had known exactly how short it really was.  Just as you get involved with the characters it's over.  The story started out strong and descriptive but lost it's footing and was a little hard to track. I was disappointed that there wasn't more details on each character.  They were very likeable and interesting.I received a complimentary copy of this book to review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too short by far </p>
+
+
+<h2> review.date </h2>
+  11-13-2011  
+<h2> review.text </h2>
+
+ <p> The description of this story was interesting, but I felt it was somewhat misleading. The writing was rather stilted, and the story did not flow well. Once you get a hint of the direction of the storyline, it is pretty easy to figure out the back story. If only the back story had been told in a different way, the tale might have been more compelling. It came across to me as a disjointed muddle. I can't recommend it as a good read.I received a complimentary copy of this story in order to review it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't Recommend </p>
+
+
+<h2> review.date </h2>
+  04-24-2012  
+<h2> review.text </h2>
+
+ <p> This short story manages to keep the suspense up right until the very end, it captured my attention and held it. I didnt realize this was a short story and was a little disappointed when it ended.  I found myself wishing the story were longer so that there could be more information, a longer storyline, more in depth characters and more details about what happened.  That being said, I did enjoy the story and would recommend it to a friend, it was a quick read!  I look forward to reading more of Vanessa Grant's work in the future.  I received a complimentary copy of this book in order to review it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Engaging </p>
+
+
+<h2> review.date </h2>
+  12-13-2011  
+<h2> review.text </h2>
+
+ <p> I received a complimentary copy of this book in order toreview it.This book is so short that I'd classify it more as a short story than a novel.  However, the author writes well, and had she chosen to expand this story a bit, she could have had that full novel.  The small taste of the story that you do get leaves you wanting more.  The premise wasn't totally original, but it was presented in such a way that the reader feels it is timely and compelling.  Had the book gone on longer, I would have most likely stayed up all night reading it.  As it was, it was over far too soon, though not before jerking a few tears from my eyes.  There really is nothing more I can say without giving a spoiler. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ended too soon </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

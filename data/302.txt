@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1482658852 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great start to series </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was a very good book about Lacy and Beaux. They both had problems with trust and loving other people. They found love in each other when least expected. They go through many trials only a true love can handle. I loved the fact that the author made sure to bring in the back story for the other brothers for future books. Just some minor grammar errors that made parts of the book weird because of missing words. But besides that it was a good book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A good read. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a really good story. Intriguing, romantic, interesting. I didn't have to correct any grammar or wish the story along, it flowed naturally. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Really Enjoyed this Book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved reading this book, and truly enjoyed it.  Renee did an amazing job building the relationships between her characters; you are able to sense the strength in the bonds between brothers, friends and lovers alike.  The connection and instant attraction between Beaux and Lacy was instantaneously infallible, sexy and relatable for those who have met their soul mates.  And, although you only see a little bit of her, I found that my favourite character, and someone I thought was relatable to most, if not all readers, was Beaux's Mother.I also enjoyed the plot line.  It was truly suspenseful, and magnetic.  There were times, where I thought it got a bit confusing, but it didn't deter me from enjoying the book or the plot.  The unknown hardships that Lacy and her cousin Sara were in, were unpredictable, and suspenseful. Every time I thought things were settling down, and things would end happily for all parties involved, something just as suspenseful would happen, keeping me glued to the book and wanting to know more of what'll happen, and how things would get resolved.Overall, I truly enjoyed this book and recommend it for all to read! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> OK...April in OR </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I agree with the other low reviews about this story being choppy and missing some character developing. This was not a bad story, the &#34;love at first sight&#34; didn't seem real at first but the more you read the more you believe they are in love...at least the story spans on for months not two weeks like some romances do, its the reason why I gave it 3 stars and it also made me want to read about the other brothers too.Note: this book sort of implies sex but they are brief...its like Beaux and Lacey start going to second base and then its the next morning, so don't expect a lot in the sex dept with the writers other books. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Rushed! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved seeing the Bayou through the eyes of Beaux! Potential for greatness I just felt a bit rushed in the relationship! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bothers of the Bayou </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Plot is boring, and to familiar to hordes of other books, Does anyone know grammar, spelling or tense of verbs any more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Characters were great </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Enjoy ed the story very much. Couldn't by it down till I finished it. The characters were get .can't wait for he next book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good story </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got this book free from the author and all she asked is for a honest review so with that said I would give this boom a three and a half stars my reasons for not doing four is because I think they could have been longer and have more details but otherwise I really enjoyed the story and loved Lucy and Beaux and think they were made for the other so you have Lucy who lives in south Carolina and was dating a guy that was her bodyguard that her dad had watching her things go bad and she failed a class so she takes a week to see Sara her cousin who was like a sister to her but they moved to Louisiana they said it was because Lucy's dad slept with Sarah's mom and had not seen each other in 12 years where she is thrown together with Beaux because Sarah was at the hospital Beaux wants nothing to do with this because he is still sore over the girl he was going to marry that left him because he would never be good enough but when the two are together they fall fast and hard for each other then they face somethings for her past but make them stronger the only I have to say is that I did find a few mistakes with words I don't mind books like this because I'm not the best with writing but a lot of reviews I have read do complain I didn't find many so if you can overlook that then I think you will enjoy is story I will continue reading this series and look for more of her work </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of the best romances I had read in a long time!!! Sweet Romance! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Best Laid Plans by Renee Peterson is a new-adult book that I loved.The book has a well written plot with mystery, intrigue, and suspense from chapter to chapter. The characters have smooth interaction and a heat develops between Lacy, a college student, and Beaux, a bar owner.With both Lacy and Beaux getting over hurtful relationships, I enjoyed how the trust develops between them. Yet, will the family's sorted past add too much drama and get in the way? I will be recommending this book to anyone I see. It is a great love story with everything you could want in a good romance. I give it 5 stars!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fairly Good </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked Beaux and could see why Lacy loved him, but I needed to see a little more character development for Lacy to really know why he loved her.  I generally don't like a mystery or suspense aspect woven into a short romance book simply because there are usually constraints in place that would limit the development of the plot too much, but this one wasn't as bad as some.  It was good enough for me to buy the sequel and that is a first for me in this type of book.As mentioned by others this book had a seemingly endless amount of typos and grammatical errors and perhaps some misused words.  When Lacy was looking at Beaux's DVD collection I tried really hard to understand the statement that she "purveyed" his collection.  If these kinds of errors drive you crazy and really distract from the book then you might want to give this one a miss, at least until it has been edited. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best laid plans </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It wasn't what I expected, but I enjoyed the book. I would recommend it to anyone who wanted to read a quick suspense-romance novel. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

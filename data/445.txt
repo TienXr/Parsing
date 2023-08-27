@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00CIOFYVG <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> I have to preface this review with a confession. I am more than a little bit obsessed with all things firemen.  So when I saw the blurb and the cover for this book, I already knew I was in love.  And even though I already knew I was in love, Jessica BLEW me out of the water with this book.  I was hooked from the start and consumed it in one sitting.  Matt is the epitome of hotness and I may have had to wipe off some drool at several times throughout my read.  On top of the major sexy factor this book has to offer, the story is believable.  I could see the widow of a firemen finding herself in just this situation.  The story follows Gracelyn Riley, the recent widow of firemen Chad Riley.  Matt Riley is Chad's brother and fellow firefighter and is overwhelmed with survivor's guilt over the death of his brother.  Matt and Gracelyn have supported each other over the year since Chad's death.  Gracelyn's young children love their uncle and he does everything in his power to make them smile.  Graceyln is still very close to Chad's family and attends weekly Sunday dinners at her in-laws house.  As the emotions between Matt and Gracelyn move from grief to desire, they will have to face some difficult decisions.  This story had me "In Flames" and I enjoyed every second I spent with the Riley family.From Platinum Book Reviews by Charissa Nelson </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazingly sexy read!!!! </p>
+
+
+<h2> review.date </h2>
+  09-19-2013  
+<h2> review.text </h2>
+
+ <p> Ahh how can you not love firefighters? Or a forbidden romance between two people who are absolutely meant to be? In Flames was a hot little read about two people grieving a mutual loss and finding love and healing in the arms of someone unexpected and slightly unconventional.It's been a year since Gracelyn lost her husband-Matt's brother- to a fire. Emotions are high and life is hard but finding comfort with each other seems as natural as breathing. Gracelyn and Matt. I loved these two. You can see how much they care about each other. How close they are and how ingrained they are in each others every day lives. I really enjoyed seeing them each change as the story went along and how they struggled with the undeniable desire to start a relationship that would cause turmoil with their friends and families because it's just a little, I don't know, taboo? The whole sleeping with your brother's wife thing-- even though she's a widow.And yeah the sex scenes were nice. Passionate and sexy and emotional. Things heat up very quickly but it worked since they've known each other for so long already.All together I really enjoyed In Flames. Gracelyn and Matt's story pulled at my heart and flew by very quickly. I was definitely rooting on their unique relationship and more than once wanted to jump in and defend them against the world. I think Jayne is an author to keep your eye on. She's got a lot of potential and with a little polishing to make dialogue flow a little more smoothly will be a real knockout with the emotionally charged stories she brings to life. I'm definitely looking forward to seeing where she'll go from here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3.5 flames for one unique and lovely romance </p>
+
+
+<h2> review.date </h2>
+  04-27-2013  
+<h2> review.text </h2>
+
+ <p> I was approached by Jessica back in January about reading and reviewing her Book More than Friends and to read her in draft Book of In Flames. I loved More Than Friends, so I knew I was going to love In Flames as well. I received a copy of In Flames while it was in Beta Read form still and While I LOVED this Book, I know how Myself and other readers LOVE an HEA and an Epilogue to go with that HEA. I was so happy When Jessica took my feedback and gave us an Epilogue.We start the story with Gracelyn who has been a widow for one year now after her firefighter husband Chad died during a fire. Gracelyn has been left to raise her two children herself, and she has had a hard first year . The week before Chad had died Gracelyn had found out he had cheated on her and had asked him to leave , telling him that she needed space to think about everything. A week later he died in a fire. So the heartbreak is a little more intense for her at times, because they had been separated when he had passed away. She has had help from friends and family along the way , but it still has been a stressful, heartbreaking year of everything.The one constant in her life through the last year has been Chad's Brother Matt, who was also there when Chad died in the fire. For the last year Gracelyn and Matt have been each other's shoulder to lean on. They have both helped each other to deal with Chad's death. Matt has helped her with the kids, and has become very much closer to Gracelyn. Before the one year anniversary of Chad's death Matt started to have feelings for Gracelyn, but has not acted upon those feelings until now.Emotions run wild on the one year anniversary of Chad's death and Matt finds Gracelyn in her bedroom on the floor sleeping, he can tell she had been crying. When she wakes and finds out Matt is there , she starts to cry again, Matt comforts her and one thing leads to another and they are sleeping with each other.They decide because of everything that it can not happen again. They try really hard to not let things between them go any further, But feelings are not something you can turn off."I've put out every kind of fire in my job, but I cannot put outthis fire that is burning inside of me for you. What am I going to do with you?"I do not want to tell you all that happens , I want you to be able to read this and get the full effect of the story for yourself. I will say this you will LOVE Gracelyn and Matt.I will say this , this is not an easy road for Matt and Gracelyn once they decide to see where their feelings for each other go. There is going to be some surprises, Some angry parents , and an angry ex-wife."I told you earlier that I didn't think I could make love to you again and walk away. And I can't. More importantly, I won't. I know some people will be hurt by my wanting to be with you... by us wanting to be together. I know we will have a rocky road with the family for a period of time. I know we will likely be the talk of the town for a while. I didn't plan this. I did not plan to fall in love with you. But I did! I love you! I love you! And I am not letting you go. Ever."There is a HEA and an Awesome Epilogue as well . Jessica did an amazing Job writing this story and I am so glad I had the pleasure of reading it before release and discussing it with her.Book Blurb:Gracelyn Riley married a firefighter and she knew that came with some risks. But she never imagined herself widowed in her early thirties with two children to care for on her own. Even though she had asked her husband, Chad, for a trial separation the week before his death because she found out about an affair he was having, dealing with the last year without him has not been easy. Her brother-in-law, Matt, has been the rock that has kept her from collapsing.As a fireman, Matt Riley had been at the scene when his brother was killed. Several other firefighters had to hold him back to keep him from going after his brother in the collapsing building. The last year has been difficult for Matt. He suffered greatly from survivor's guilt and drank himself into oblivion on several occasions. His one saving grace has come in the form of his sister-in-law, Gracelyn. Her friendship has pulled him through time and time again.With the year anniversary of Chad's death upon them, Gracelyn and Matt turn to each for support and comfort. What they didn't expect was to realize that their feelings for each other may go well beyond the solid friendship they share. Can they overcome the guilt and the scrutiny of their family and friends to find love together? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing, Hot, Hot, Read </p>
+
+
+<h2> review.date </h2>
+  04-14-2014  
+<h2> review.text </h2>
+
+ <p> This is a difficult theme to write about a man falling for his brothers widow, but this is written so beautifully that it is a natural progression and anything else happening would seem to be wrong.I love strong female leads and Gracelyn doesn't disappoint, she has been the strength in her family since her husband died but even the strong need comfort and love and to live again, the question is will Matt be up to the task. He has struggled over the last year and Gracelyn has been there every step of the way it's not surprising that he would fall for her, but has he the strength to be the man that she needs.The other members of the family are so real, Sarah, Matt's sister is so down to earth and realistic, seeing things and stating them as they are. Matt's parents and the children are the ones that could be most hurt and the way they are written is perfect for their roles.A wonderfully written story of second chances coming out of the ashes of past loves, of two people looking for the strength to do the right thing not just for them but for their whole family, but will love win out in the end. &#8220;There was laughter and tears&#8230; but most importantly, there was love.&#8221;I received a free copy for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five star flame </p>
+
+
+<h2> review.date </h2>
+  06-06-2013  
+<h2> review.text </h2>
+
+ <p> Gracie and her husband, Chad, were estranged when he died in a fire a year ago.  Matt, Chad's brother, was there when his brother died and has been helping Gracie and her two kids.On the anniversary of the death, Matt and Gracie take a very steamy step!!!The story deals with the problems associated with their new found love/lust, and the characters are well written.  Will they figure out a way to be together without hurting everyone?  I do not want to give away the plot.The erotic scenes are very HOT!  I still need a fan!Great book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot! </p>
+
+
+<h2> review.date </h2>
+  05-31-2013  
+<h2> review.text </h2>
+
+ <p> Such a sweet story about finding love after the death of the one you did love.  No one can determine who their heart falls in love with.  Matt lost his brother, and Gracelyn lost her husband.  During the year after Chad's death, Matt and Gracelyn become best friends and are always there for each other.  They soon discover that the feelings that have for each other, are more than just friends.Not a long book and very easy to read.  Great HEA for a family who suffered loss and are able to find happiness. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet story </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> This was the first book I've read by Jessica Jayne and it was amazing.Matt and his sister-n-law, Gracelyn, help each other cope with the sudden death of his brother Chad. It has been a year since Chad's death and watching Matt and Gracey work out their feelings for each other was gut wrenching at times but also hot as hell. When they come together it is combustible but is it enough to risk everything to be together?I enjoyed Jessica's writing and look forward to reading more from her. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> True love is in the air. </p>
+
+
+<h2> review.date </h2>
+  05-21-2013  
+<h2> review.text </h2>
+
+ <p> In Flames by Jessica Jayne not only puts its characters through the wringer, but its readers too, as this angst-ridden story presents two people brought together in mutual grief and the fallout of their love that is frowned upon by some.  Along with intense emotional issues comes lots of steamy sexual encounters, almost too many at times, that left me fanning myself as each page was turned.  With lots of roadblocks along the way, it was both a relief and an applaud-worthy ending that readers are ultimately rewarded with.It's the one year anniversary of her husband's death and Gracelyn is ready to move on and return to the land of the living.  And move on she does with her super sexy brother-in-law whose life has been full of grief too.  It's two damaged souls that come together in a moment of passion that leaves them both conflicted but totally obsessed with each other.  For one moment Gracelyn thinks their being together is a bad idea, but after realizing how freeing being with Matt is and how desirable he makes her feel she's ready to fight to keep them together. Upon his death Gracelyn and her husband were separated due to his numerous infidelities, which the author reminds us of VERY often, so she hasn't felt like a woman in a long time.  Her newfound feelings are incredibly empowering and it's an increasingly stronger and outspoken Gracelyn that emerges once she and Matt connect.  It takes a lot of tears and an argument or two before they're both willing to fight for their happiness and I could've cheered when that moment arrived.Matt saw his brother die and could do nothing to stop it.  For a long time he wished it had been him who died as his brother was always the family's Golden Boy while Matt was the screw-up.  His own marriage had just ended and the combined events led him to drinking and numerous one night stands.  Lots of therapy, and spending time helping and talking to Gracelyn, got him through the pain and it's a more mature Matt that has evolved.  Being with Gracelyn and her kids has made him into someone you can rely on.  It's also made him realize how much he cares for and admires her, along with finding her incredibly attractive.  He's been fighting his feelings for a long time, but that fateful anniversary night has him demonstrating his feelings very clearly.  Guilt again rears its ugly head as Matt worries how others will perceive their relationship and the possible hurts it might cause his family and the kids involved.  Through a huge chunk of the story he lets his fears win as he pushes her away.  Jealousy forces him to act and damn the consequences as the remainder of the story deals with the fallout in a realistic way.There's an intriguing mix of secondary characters that are greatly affected by this new relationship.  Matt's mother is still grief-stricken and is the biggest opponent as she still can't fully accept her son's death and Gracelyn being anything other than Chad's wife.  She sees this act as the ultimate betrayal based on blatant religious beliefs. Matt's ex is a shrew and her purpose in the story appears to be making him miserable as she's still obsessed with him.  She lives up to all the stereotypes of an ex by verbally lashing out and I found her thoroughly annoying.  While Gracelyn's kids easily accept their being together, it's Matt's son that's grief-stricken in a scene that's very believable and brings a tear to your eye.Through it all Ms. Jayne has created a story that realistically deals with grief and the process of moving on.  The relationship between Matt and Gracelyn has evolved believably over time and isn't something they enter into lightly.  The author nicely balances intense emotions alongside numerous steamy sexual interludes in a heartwrenching story full of roadblocks that ultimately culminates in a satisfying conclusion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super Steamy While Dealing Believably With Issues of Grief & Moving On </p>
+
+
+<h2> review.date </h2>
+  06-04-2013  
+<h2> review.text </h2>
+
+ <p> I hate that I'm not allowed to give .5 stars...Firstly, I think the character development in this story is lovely. I really liked both Gracey and Matt. I also think that Jessica did a fantastic job of portraying emotions that are brought on by grief. Her guilt, and depression...the unexpected bloom of a friendship, turning into romance.The story line drew me in, and I'm glad that I read it...What caused me to lower my rating on this was the steamy sex scenes. They were good in content, but the writing wasn't to my liking. It was very simplistic as well as choppy. (ex: He moaned. He kissed down her chest. She made a sound -- stuff like that...)All in all, I enjoyed the read, but am glad I had a gift certificate to purchase - I wouldn't spend $4.99 on it again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I didn't burn </p>
+
+
+<h2> review.date </h2>
+  06-16-2013  
+<h2> review.text </h2>
+
+ <p> Wowza!! What a great story and holy steam factor!!!I was loving this from beginning to end! The characters were very believable and the situation felt real. Matt was really struggling and made many bad decisions. But It was beautiful to see them come together and overcome the odds!! You really are with them all the way on their journey!I love the hot and sexy idea of fireman but this story definitely reminds you that it really is not a safe job.Cover Art- Yummilicious!! Love those abs!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Steamy Read!! </p>
+
+
+<h2> review.date </h2>
+  10-12-2013  
+<h2> review.text </h2>
+
+ <p> Matt and Gracelyn are both lovable characters and Jayne does an excellent job of fleshing them out and sharing their raw emotions with us. Their love of family, Chad and their children is evident. They have established a strong friendship and depend on each other for support. As passion takes over they struggle to do the right thing, and you cannot help but feel for them. Family, friends, and Ex's all add to the tale making the drama and tension feel surreal.In Flames is a powerful romance filled with emotion and sizzling scenes that scorch the pages as you read them. Jayne did a wonderful job of sharing this couple's emotions from the passion to the guilt. I love forbidden romances and from the beginning despite the odds I wanted this couple to have their happily ever-after. Drama, tension and heat, held me captive. The family dynamics and drama felt realistic as did their struggles. The sexual tension and driving passion was hot, and I laughed as they tried to be rational, make plans and then get caught up in each other all over again. The sex scenes were incredibly hot, and I loved when Gracelyn made the first moves. The scenes were raw and filled with passion and emotion. The chemistry was amazing and the storyline believable. I loved that we got both perspectives and that it developed from friendship. In Flames left me well satisfied and dreaming of firefighters...oh-la-la. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> hot, hot, hot. </p>
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> In Flames set me on fire. If you are looking for a romance that is bound to take the hard road, that will move you in so many ways, that will light you up with sexual tension and heat, then I definitely recommend this book.Gracelyn is a widowed mother of two kids. She's still close to her in laws, especially her brother in law, Matt. Even aside from the romance that comes up, I found this to be remarkable and very attractive. So often you hear about families falling apart, and this family stuck together, even after losing a member. But then you have Matt, who goes above and beyond. He helps Gracelyn constantly. Is it survivor's guilt? Is it romantic attraction? Is he just a nice guy? Yep. All of it. Yep.I really loved the dynamic between Gracey and Matt. Sure, the attraction they share is a bit taboo - but it feels real and sincere. It feels like it should be there. The two of them secretly harboring feelings for each other, and then acknowledging them to each other - it brought them each back to life. For that alone, I loved it. There were some times that I wanted to yell at Matt, as he was the one who drug his feet more than Gracie. However, it's not because he didn't care - he just cared too much.Jessica Jayne wrote this story with a lot of heart. It's not just an erotic romance. She has a smooth flow to the story, and its very easy to find yourself caring for the people in it. Dealing with the death of Chad has been unbearably hard on everyone. When Gracey and Matt start to heat things up it is emotional and dramatic. I just kept thinking that the guilt must be overwhelming, but at the same time - what about your own heart? If you have a chance to be happy in your life, you have to grab it. The heart just wants what it wants, ya know?The rest of the characters in the story are a trip. I mean, you have Cheryl, who is Matt's ex-wife. The woman is a she-dog  wench from Hell. Yeah - there is no way I liked her at all. But then to balance out that evil rotten side, you have his sister, Sarah, who is sweet and intuitive, and generous. She really was a ray of sunshine and she brought a great shot of joy into the story. The kids all play minimal parts, but then you have Matt's parents. One of them has a difficult time with some things that come up in regard to Matt and Gracey, and you don't know if your heart is breaking or healing. Or can it do both at the same time?Her lips parted and his tongue swept into her mouth. She didn't even attempt to stifle the groan that bubbled up her chest. Her legs separated, and Matt took this as an invitation. He moved his knee between her legs and pressed his erection against her hop."I can't seem to get enough of you, " he said breathless. He kissed over her jaw and down the side of her neck. "and running around in nothing but one of my undershirts is a sure-fire way to get yourself f*****, Gracey. You. Are. So. Damn. Sexy." He gripped both her wrists in one of his hands and held her hands above her head, while his other hand snaked up her thigh and under her shirt until it found her slick p*****.But hey, this is also an erotic romance. And that means sex. And I'm just going to say it. It's hot. These two get it on, and when they do it is ON. I loved it. 'Nuff said.This story is going to really appeal to a wide audience. It's dramatic and heated. The romance is to die for. It's got a firefighter in it - and I know some of you just love that. It's a five star read for me. I loved it to pieces. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Caught Me On Fire! </p>
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> Nanee's Review:Love a book with firefighters (sigh) and Matt is so damn sexy. I loved Matt and Gracey, they are perfect for each other as friends and more. I thought the writer captured their feelings perfectly, dealing with the grief of loosing a loved one, being their for each other but realizing they want to be more to each other, I thought the story was very sexy (I mean, oh my god the sex scenes are hot hot hot) and thought the story was also sweet and loving all at once. Loved the family dynamic as well, dinners on Sunday and spending time together. Great story, I look forward to reading more by this author. 4.5 stars review by upallnightreadallday.blogspot.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love hot firefighters </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> In Flames, the debut book for this author, is well written with likeable characters. Gracelyn and Matt are thrown into circumstances not of their own making, and try to put their loved one's feelings above their own. In a no win situation, they both try to do the right thing, while fighting their undeniable,flammable attraction.I really enjoyed the book and can't wait to see what Ms. Jayne writes next. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great, hot read </p>
+
+
+<h2> review.date </h2>
+  05-19-2013  
+<h2> review.text </h2>
+
+ <p> In Flames tells the story of Gracelyn and Matt. Gracelyn married Matt's brother, Chad. Chad was a firefighter, and he was killed in the line of duty. Gracelyn feels guilty because they had recently become separated when he died. She is trying to cope with raising two children on her own and her developing feelings for Matt. Matt suffered survivor's guilt and depression because he seen his brother die. To make up for this he has tried to fill in for Chad with Gracelyn and the kids. A year later and his feelings for Gracelyn had stated to change. Can Gracelyn and Matt find love together and push through the guilt they both carry?Jessica Jayne has given us a story about surviving the death of a loved one, and all that comes with it. The guilt, the pain, the loneliness, and the sorrow. Moving on from such a tragic time in your life is a hard task. It is even harder for Gracelyn because of her last moments with Chad. They were not happy ones. Things were said, actions were taken...then he was gone. Gracelyn is stronger than she realizes, she is surrounded in a cloud of inner pain that she feels only Matt can understand. Matt is a good guy who wants to help his brother's widow and family however he can. Both have their own demons, both must overcome the barriers that are keeping them from finding happiness again. In Flames is a story about overcoming challenges, finding happiness, and laying the past to rest. A must read that will have you crying, laughing, and sighing.I was given a copy of this book in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> In Flames by Jessica Jayne </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

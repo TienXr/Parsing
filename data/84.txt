@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004HW6F8I <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-03-2011  
+<h2> review.text </h2>
+
+ <p> Went from an Avic U310BT to this and cannot believe the features you get for your money now. Have the traffic module, XM, Backup camera and IPOD cable and love this head unit! Diggin' the custom splash screen option! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth Every Penny </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> Works like new. I am have been enjoying this Pioneer in dash navigation unit. The bypass from youtube works good also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this DVD/NAV unit. </p>
+
+
+<h2> review.date </h2>
+  03-23-2011  
+<h2> review.text </h2>
+
+ <p> I don't own this unit nor do I plan to purchase it.  Writing this review to inform people that this model does not come with Voice Control unlike it's predecessor unit, thePioneer AVIC-X920BT.  It's the reason why this unit has a lower retail price.  Yet of course because it's a newer model you'll notice the actual amazon price is higher.  And you get less.  Buyer beware.  It's really a shame because the addition of the volume knob originally made this a more attractive purchase then the 920, and you'd think it'd be an all around update, not a downgrade.  I really don't understand Pioneer's reasoning behind this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No Voice Control </p>
+
+
+<h2> review.date </h2>
+  10-19-2011  
+<h2> review.text </h2>
+
+ <p> I've owned the unit for about a month now.  And I feel that I need to rewrite the review and take off a star.I work at Dominos as a pizza driver.  But I suck at directions.  I figured I could use the GPS.  It's usable but it takes a whole minute for the thing to even boot up.  Every time I put in an address I have to go through and put in the city.Also the music selection interface, for me, seems clunky and too complicated to use safely while driving.  I have a 16 GB USB flash memory drive plugged into the radio that I keep all my music on.  Browsing through 6.5 GB of music folders is really unintuitive on this system.It's still not a bad head unit though.  Once I get an address in the GPS, it works pretty good.  Screws up a little on the vehicle position sometimes but not a deal breaker.  It's designed for the iPhone and iPod but the bluetooth works well with my Android phone.  I love being able to use this radio to communicate with customers and coworkers as if they're in the car with me.All in all, really nice head unit.  But if you're in a line of work where you need to get down the road NOW and you're planning on using the GPS and/or bluetooth on your job, you may want to consider some of the other fine GPS and bluetooth products Amazon has to offer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So much potential </p>
+
+
+<h2> review.date </h2>
+  03-18-2013  
+<h2> review.text </h2>
+
+ <p> I bought this for my 2011 STI sedan, it works great for almost everything, i have my iphone 5 hooked up to it with no problems, the Phone interface is great! the Ipod Iphone interface is Excellent, and the dvd playback is well done as well. there is a slight hissing noise coming from the speakers though (like you have the stereo turned way up with out music coming through) which you get used to. The AM radio works pretty good, except for the whining it does, which i believe is the ground. other than that this is the best stereo i have ever owned. i can watch my slingbox in my car whenever i want! (when parked of course) I recommend this to anyone who wants a little more out of their Automotive entertainment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> greatest thing since slice bread </p>
+
+
+<h2> review.date </h2>
+  11-20-2011  
+<h2> review.text </h2>
+
+ <p> I read a lot of reviews before deciding to purchase thr Pioneer Avic X930BT. At first the GPS was terrible showing my location a good 50 yards plus off so I called Car Toys and they recommended do a full reset.That did the trick,,,, spot on ever since. I have a Zumo 660 that is a hands down amazing GPS unit but I bought it for my motorcycles and didn't like having it in my window. The Pioneer could be better in the GPS department but then again I am still getting used to it. It speaks main Highway names but does not speak surface city street names... WHY???? That is pretty lame but hopefully there will be an update to add this feature.So overall it will get you there but it has been my experience that it will not be the shortest route,,, again,,, WHY???? Maybe I don't have something setup right??? It has only been a couple of days so I will keep playing with it and hope it's a setting I am missing so far. I do wish it would voice commands that would be REALLY NICE.So at least the GPS will get you there and if I wasn't spoiled by a rock solid Zumo I would likely be more impressed with it. I Love the Pandora feature using my i-phone but would hope they come up with some Android support. I have an i-phone 4 and a Samsung Galaxy 2 Epic 4g and I LOVE my Android much more than I do the i-phone and fact is there are much more Android users than i-phone so come on Pioneer listen up!!!!The steroe side of the unit is really nice,,, a super nice upgrade to my previous Kenwood unit (non nav model)The screen looks really good and the touch screen works fantastically. I like the menus and Movies look super. Overall I would recommend this unit ( I paid 430 from Car Toys in Tukwilla WA,,, GREAT SHOP)I do think I should have gone with the upgraded model that has voice commands and traffic but for the price I am happy with my purchase,,, very nice product,,,, now let's get some Android support and make it a GREAT PRODUCT :-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow,,, what a deal,,, </p>
+
+
+<h2> review.date </h2>
+  11-28-2011  
+<h2> review.text </h2>
+
+ <p> I installed this into my 2003 Sierra pickup. All the newer cars have bluetooth, gps, mp3 playback and I wanted those features in my older truck.This unit gets the job done. I'm disappointed in the bluetooth for hands free calling. Everyone says they can not hear me. I am going to try placing the mic in other locations. Some people have said after market mics work better. I may need to get one, but don't feel I should after paying the price for this unit.It works good with my Droid X phone. I play mp3, youtube and even google maps through the bluetooth. The pairing can be somewhat difficult. Many times the unit will say its paired but I do not hear anything. I have to tell my phone to disconnect and then reconnect. It would be nice as soon as I enter the car it paired automatically without any issues.GPS is alright. It has dated maps. It supposely has 2010 maps yet it does not have my house which was built several years ago. One reason I got this unit is so I can still have navigation while speaking on the phone. So sometimes I have to find the place I want on google maps and enter in the location the on unit. You can not enter in a address or POI with moving. I did the parking break bypass so I can have this function. I do not want to pull over every time I want to find a gas station.Video playback is smooth. I have not used a DVD yet. I played a file from the sd card and it was ok. I have noticed sometimes there is a skip in the video, same with usb. I found out the unit natively only supports playing from diso video format. Seems as long as you are using a higher class sd card you will be ok. I also found the unit is picky on the converting values. It took me several times to find the right settings. It says it supports MP4 but when I converted it, several files would not play. Find a converter that has IPOD settings and you will be in the clear.I actually installed a WDTV box into the car. I can play any type of video and mp3 off a 120 gb portable usb drive through the box. I did not want to convert my movie files to MP4 everytime I wanted a new movie.  I'm still working on the final install of the WDTV box.I plan on using some old dvd monitors to install in the back for the kids.Installing the unit took some time. I had to modify the opening in the back to fit the unit. Thats just my truck. Wiring was straight forward with the wiring hard I got. I soilder the wires. One note is illumination wire. My truck had the old green digital stock face, so it never dimmed with lights or time. Even though the wireing harness had a illumination wire it does not work. I found out I need to find a hot positive wire that only comes on when the headlights come on. I plan on find a wiring in the headlight switch and running it to the unit. If this is not connected properly then the gps never goes into night mode and there is no manual overide to make it night mode.It would have been nice for the option to switch between daytime\nighttime or have the unit go by time.With some of the shortcommings I am still happy with the unit. I like the options to insall other modules down the road. I still need to get steering wheel controls. I have not gotten an ipod yet but may in the future. I wish they had a android app. 15% of the smartphone market is Apple whereas android has over 50% of the market.Price was decent. It was 556.00 and there was a 100 rebate from Pioneer. I also got some cashback from discover and was able to use my already saved up rewards on this purchase.I was looking at getting the 3300BT without nav, but only 100 bucks difference I dicided to get this unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great upgrade for older car </p>
+
+
+<h2> review.date </h2>
+  10-17-2011  
+<h2> review.text </h2>
+
+ <p> What can I say this radio is great especially for the price. I was very easy to install and looks great in my 2005 mercury mountaineer. The features are great and its upgradeable features is what makes this a great radio. I love that you can upgrade the firmware so that the unit is up to date and it's add on features like traffic(which needs a receiver unit not included)Which I recommend because while using the GPS it helps a lot with rerouting when there's traffic or road closures. Also I recommend getting the auto EQ speaker because it makes setting up the unit for car so much easier. The Bluetooth works great and it paired up easily with my HTC EVO 3D. I know the upper model is a little nicer with a few more features but this is a great unit and I highly recommend it! Also not to mention amazon's great pricing and fast delivery made this a wonderful purchase for me.Hopes this helps with your decision.A very satisfied customer! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One great radio!!!!! </p>
+
+
+<h2> review.date </h2>
+  01-11-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this unit 8 or so months ago and was not that impressed. It was rather slow and had a heck of time keeping up... The user interface was pretty good I thought. I now have the new z140 which has gotten very mixed reviews so far. I think it's great and is a major improvement and step up from the x series. I am saying this because if i could start over, I would have spent the extra $150 or $200 to get the flagstaff z model. The z140 comes standard with the traffic tuner, which is a really great feature If you live in a heavily populated area since it will inform you of all traffic jams and road construction. Always seems to be accurate to me too...it also comes standard with hd radio, which I am not at all impressed with but if it's your thing, you will now have it too. Not to mention the screen is just under a whole inch bigger! The screen flips down to eject rather then having a slot and not motorized like this model is..... Bottom line, spend a little extra now to get the model you deserve and you won't regret it!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but not great! </p>
+
+
+<h2> review.date </h2>
+  10-09-2011  
+<h2> review.text </h2>
+
+ <p> I recently installed this head unit in my 2005 Honda Pilot to replace an ailing stock navigation unit/ stereo. What drew me to this unit was the customization, iPod/iPhone integration, customization of backlit buttons (I know, lame) and ease of use. This unit did not let me down in any of those areas. Upon first using after being installed, there is a period of time that you will have to spend customizing all of the settings. Many other reviews noted that the Bluetooth setup was un-intuitive; I agree as I found myself yelling at the Nav unit trying to sync Bluetooth. However, once synced, the unit digested all of the contacts and made crystal clear phone calls. While on the topic of Bluetooth, ensure you know that the setting for mute while on a phone call can be adjusted. By default it still plays a little music while on a call- you can completely mute the music while on a call.The iPod/iPhone integration is great. The unit allows you to control your iDevice from the head unit or give control to the iDevice- a welcomed feature when many companies lock out the iDevice in favor of controlling the song selection through the head unit. Some people complain of not having voice control- get over it, I have it in my 2011 Infiniti G37 and it is un deniably one of the best in the business, yet entering by hand is just as fast. Ensure when you get this head unit installed you ask for the "bypass" which allows you to use navigation functions while driving. The screen is very fast, pressing buttons are quick and responsive. Everything is quite snappy. I kept my stock speakers so I cannot comment on the sound quality.... One of the best features of the unit is what many don't talk about. The image that is displayed with the "Destination, Phone and Settings" can also show shortcuts. You can choose what shortcuts you want on that page which makes navigating through menus a thing of the past! Very easy to edit and use! Some complain of poor radio reception, I too am experiencing that, I took it back to the installer and the reception is still sub-par. One other reason I bought this unit was because of the actual volume knob, just know that the knob is miniature and is a little tricky to use with big fingers. You might be just as well of with buttons.Overall, I HIGHLY recommend this unit. Its just great.Pros: Easy to use, responsive, quick, great iDevice integration, excellent backup camera/ phone integration.Cons: Sub-par radio reception.UPDATE 1/19/12, The poor radio reception has me a bit upset. Its considerably worse than what it was before. I took it back to the shop that installed it and they verified that it is a result of the head unit and not my antenna (which is in-glass). I still like the head unit, but am not happy with the reception. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Pioneer Head Unit </p>
+
+
+<h2> review.date </h2>
+  07-31-2011  
+<h2> review.text </h2>
+
+ <p> I love this Nav system so far I haven't really used the Nav a whole lot but everything else works like a champ. I use the bluetooth a lot and haven't had any issues. My only issues with this unit is it tends to be slightly delayed with commands but not anything more than a few seconds. Not enough to be annoying.I have tried the Pandora and works like a charm. I don't have an Iphone but I do have a an Ipod and an android phone with wifi and no issues. It does take a little bit to warm up and get going but I use my auto start before I get in and again no issues. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pioneer Nav </p>
+
+
+<h2> review.date </h2>
+  07-30-2011  
+<h2> review.text </h2>
+
+ <p> I 'like' the unit oveall - replace a failing unit in my car - better to have this than have the dealership fix the old unit. The good: lots of features, GPS, BT, iphone compat, DVD play back, great sound quality etc.. etc..My biggest gripe is it's sooo expensive for the inclusion of GPS - I can get most of the features for $400 in another unit but then there is such a large jump to include GPS. I am not going to use the iphone feature much or really watch DVDs but there aren't many other options.The super tuner radio is not that super (my old unit had a better tuner). Also I do not like the way it shows MP3 through usb or SD - there is no easy way to search.I do like that I can upgrade firmware and have done so recently.I also agree with one of the other reviewers that the 'special' cable to connect iphone is expensive and really should have been included in this price. In addition the special mic for EQ adjustment (not the BT mic - which is included) should have also been included.It's a good unit but pricey + lots of small issues = 3.5/5.On a side note could not get it to work with my steering controls on 2003 e39 using a PAC module correctly. If anyone has a solution let me know. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> super expensive </p>
+
+
+<h2> review.date </h2>
+  09-10-2011  
+<h2> review.text </h2>
+
+ <p> I swapped out my X910BT for the X930BT. I had just installed the 930 into a new vehicle for a friend who then decided to sell the vehicle. They called and offered to let me swap out my 910 for the 930 so I did. At first I was not happy overall with this unit and rated it 2 stars because Navigation was somewhat slow and inaccurate. Apparently the unit takes a few days to dail itself in or the Navigation Fairy flew in and fixed it for me one night. Anyway the main complaint I had is no longer a problem and NAV is working nicely.Their are several things I like about this over the 910. Bluetooth streaming was added and works really well. Navigation looks better, gives more detail and NAV voices are significantly better. With your iPhone hooked up via the cable you gain the ability to watch things like Netflix, YouTube and other videos on the 930 from the iPhone. This is great as long as you have a good 3G connection to allow it. The addition of Pandora and aHa Radio are nice and also work well provided you have a good 3G connection. You cannot start these apps from the 930 and that is a CON in my opinion. You must pick up your phone and start the application and if Im not mistaken it must be running in the foreground. I do not expect Pioneer to release a firmware update that will allow you to start these apps from the 930. Pioneer is well known for coming out with new models that do what the previous model should have done.Sound is good and I love the EQ that lets you adjust each frequency independantly. The 910 had linked frequency adjustment and it just sucked. It seems the 910 may have had more power. I could crack it up and not have to worry about distortion but on the 930 this is not possible. I am not running it through an external amp so this is a direct comparison of the units themselves. I did have the 910 running through an external amp at one time which brings me to another difference and that is the PREAMP Output. I think the 910 had 4volt output. The 930 has 2.2 volt.The iPod interface is improved over the 910 IMO. You have actually gesture control to scroll through albums and artists. At first it can seem like it does not work well but once you realize what your doing and how its reacting, it works quite well.So in conclusion I do recommend this head unit but still would obviously like to see the price down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Revised from 2 star to 4 star </p>
+
+
+<h2> review.date </h2>
+  10-23-2011  
+<h2> review.text </h2>
+
+ <p> I did not get this from amazon i bought it from Best buy they price matched walmart's price of 598.99 so i got it from Best Buy with a 4 year warranyt for 699.89  after taxesI is the X930BTit seems to be taking a little more time then i have spent on systems to get used to in the pastIt works really good and is fast no lag timeboots up preaty quicklove the front SD card slotat the current time if you are using a Iphone with IS05  on it  it won't work to well they are having issues with compatibility of the new iphone software and some of the avic series navigation unitsIt does not have a Remote wich i don't understand the DVD units have remotes that will work with them but they don't make it compatible for there navigation units anymore this is pioneerHow ever you can get a WRI-P unit that will let you use most of the Pioneer remotesi do recomend this unitbut if you do not have a Stock radio that can Auto Dimm and you can turn the back lights on it down via your headlamp switch then i don't recomend this unit for you because it is very bright and unless you have the unit hooked up with the dimmer switch then it wont be good at nite </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great System taking time to get used to how it works but its really good </p>
+
+
+<h2> review.date </h2>
+  04-20-2011  
+<h2> review.text </h2>
+
+ <p> I installed this in a car recently, and while its easy to be impressed with with what Pioneer has done in terms of interface, and look, the things they left out and what they want to charge extra for leave you scratching your head.First of all, the screen is tremendous.  It looks beautiful, it has nice touches, even to the point that when you turn your lights on, not only does the map turn dark, it puts stars in the sky of the map in 3-D view.  As someone else previously mentioned, the iPod interface is superior.  Just spectacular in terms of presentation, and ability to choose songs, artists, playlists, etc.The functionality of the UI is rich and deep.  The core of it was clearly designed by experts.  But the details of this unit really let you down.  Everything beyond base functionality is an option and a costly one at that. For example, HD Radio is an almost $100 dollar option.  iPod?  Yep, they deliberately crippled the unit so you need to pay $50 for a special cable (maddeningly, the iPod can be controlled with a generic ipod Cable, but no sound comes out unless you spring for the cable).  Traffic information?  Yep, you guessed it, another expensive option.  This is not an inexpensive unit, most of this should be built in for the price.The Bluetooth pairing process is the most unintuitive I've seen in any piece of electronics.  But my biggest complaint is that for some reason, if you are moving, much of the options, including the ability to input a new destination disappear.  I've heard of some older Ford and GM doing this, but every factory navigation unit made within the past 5 years doesn't limit this functionality (and yes, I've heard there are bypasses, but why should you have to bypass to get to functionality that is available in the stock head unit?).The navigation is well designed for these types of head units.  It gives you a fair amount of options, lets you import & edit POI's.  It's not feature rich, but what it does have is good, solid fundamentals, and its directions in general are no worse than a Garmin's or other stand-along GPS.The ECO system is gimmicky.  If you like it, great, otherwise, you'll never really use it.  The anti-theft feature is that 3 buttons on the lower left come off.  I don't think it has any special circuitry and it appears likely the buttons can get lost.  They do give you a screw to attach it more-or-less permanently.My pro/con list:PROS:1) Beautiful screen2) Well thought-out interface3) Intuitive iPod controls4) Bluetooth audio built-in5) Good sound6) CustomizableCONS:1) Nav system that makes you pull over to add a new destination.  Even if you have a passenger in the car.2) Much of the options should be built in3) I have to buy a special iPod cable?4) Time zone must be set manually.  This is so ridiculous that I called Pioneer to verify5) The anti-theft feature seems silly.  I don't think it will prevent any thefts6) Frustrating BT pairing process </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Its mostly good, but it could be much better </p>
+
+
+<h2> review.date </h2>
+  06-28-2011  
+<h2> review.text </h2>
+
+ <p> It's an amazing deck hands down! I had the older unit avic-f900bt this one, one-ups that one its a really amazing deck w/ a really nice interface.  My wife isin't too tech saavy and she picked it up pretty fast.  Pioneer always has great sound quality so that goes w/o saying.  Also I like that they extended the usb cord its really long, I have it ran in my glove box where the ipod hookup is.  The bluetooth works seamless w/ my iphone4 pairs up and plays audio and makes calls perfectly.  This is hands down the best navigation unit i've owned.  I posted pitcures up on the review above </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Avic-X930bt </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002SN777G <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-19-2012  
+<h2> review.text </h2>
+
+ <p> It worked with my iPod. It started. Unfortunately my iPods's charger IC is obviously not working so I can't write much about reliability. But I was happy for 40 minutes. UPDATE Found the original charger for the iPod and it's working fine. It just doesn't like USB at all. Good battery for a good price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> Works great and easy to install. Tools help tremendously and they are handy. Haven't used the Phillips head yet.Good product! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  02-14-2012  
+<h2> review.text </h2>
+
+ <p> This battery is approximately 2 mm longer than original Apple battery and will NOT fit into the PC board cutout area that accommodates the battery.This is NOT a simple drop in replacement. The battery is physically too long to fit within the existing cutout of the main iPod circuit board.Fortunately, there was sufficient blank edge on my 3rd gen iPod main PC board to let me cautiously trim ~1 mm of PC board from each end of the cutout into which the battery needs to fit.Removing the main board and 20 minutes of careful shaving with a sharp, snap/blade knife enlarged the opening sufficiently to fit this battery.BE VERY CAREFUL NOT TO SHAVE OFF THE COMPONENTS OR TRACINGS! Once that was done, the new battery fits properly.The hard drive is surrounded by a rubber cushion and I suppose one could leave the battery slot too small, let the overly long battery fit halfway (and thus be thicker than normal), jam things together and hope that the rubber has enough to let the case fit together. I did not try that crude "fix"Had the battery been a drop in fit, I would have given a higher rating.(BTW, only needed an old driver's license to open the iPod case in about a minute) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works but requires shaving PC board to fit </p>
+
+
+<h2> review.date </h2>
+  08-10-2011  
+<h2> review.text </h2>
+
+ <p> Good price on the battery. It fit into original space. The wires were a little thicker so it took a little bit to fit them around the ned of the board but they fit and the battery works fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fits installs and works as described </p>
+
+
+<h2> review.date </h2>
+  09-01-2011  
+<h2> review.text </h2>
+
+ <p> I don't know when I bought this iPod, but when the battery began to give out, I just put it away after hearing horror stories and the price of then replacing the battery. Eventually I bought a 5th Generation to replace it and use it extensively hard wire plugged in though my vehicle audio system. Earlier this year I bought an 4th Generation iPod Touch and when going though some drawers I ran across this 3rd Generation iPod and since I have an iTalk attachment, I knew with a new battery it would make a great voice recorder along with another iPod, just to fulfill my position in the American economy.After looking around on the Internet I finally tried Amazon and the replacement battery was generally at least $5 less than anywhere else and when combined with Supersaver shipping on my next order, I figured it was a must try. The battery just arrived, without any instructions. Finding a couple of YouTube videos, even though the Amazon replacement comes with a couple of little screwdrivers (flat and phillips), and the videos had some plastic things,  I eventually got up enough nerve to stick the flathead between the plastic and the steel case; it began to come apart. With a little help around the bottom and I was inside.The wires on the replacement battery are a little heavier than the OEM battery so they wouldn't go under the frame totally but with a little effort they went down the along side and when I replaced other half of the case I made sure that the wires didn't bind.When I opened the case, my efforts disconnected the hard drive. Watching the video, they did it on purpose. Getting the pins of the two connectors for the hard drive was probably more difficult than replacing the battery, but when properly aligned it popped right into place.The battery is now charging so I don't know how much use it will take to use up the battery power, but for the money, it should be a good investment no matter what. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Should have done this long ago </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> This battery brought my decade old iPod back to life! Now where did I put that old iPod FireWire cable? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works! </p>
+
+
+<h2> review.date </h2>
+  05-27-2012  
+<h2> review.text </h2>
+
+ <p> battery doesnt hold a charge.  fits original ipod perfectly.  too bad.tools a bit cheap as well... i will continue on to the next product </p>
+
+
+<h2> review.summary </h2>
+
+ <p> battery doesnt hold a charge </p>
+
+
+<h2> review.date </h2>
+  05-29-2011  
+<h2> review.text </h2>
+
+ <p> Embarrising i tossed the 1st one out & re-installed the origional bad battery tht had beein in the unit since i purchased itin 2003 or 2004 (ipod 3rd generation dock)So after making sure i was installing the new one, it worked great (still buying the new160 gig ipod) but keeping this one too.Thank u, it was very simple 4 me 2 install & i only have use of 1 hand..lost most control of my fingers, body, have constant spasms & tremors (post-polio) now throat Cancer ,so pleaqe bear with me, it hurts like hell 2 type or move(but i ain't dead yet doggitt!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy 2 install works great! </p>
+
+
+<h2> review.date </h2>
+  07-16-2011  
+<h2> review.text </h2>
+
+ <p> The battery worked great for my 3rd generation iPod, which is currently on battery #3. The last battery I purchased included a simple plastic wedge which could be used to detach the face without damaging the iPod. This is the only tool you need to replace the battery, yet it is not included in the kit. As nice as the miniature screwdrivers are, they are unnecessary. You can still lift the face with a metal screwdriver, but it will put a few scratches along the seam. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Battery is great - does not include proper installation tools for iPod 3. </p>
+
+
+<h2> review.date </h2>
+  03-19-2013  
+<h2> review.text </h2>
+
+ <p> The units work well, the screwdrivers are a cute bonus.  I'd like to find a source of the raw batteries. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I just need the battery </p>
+
+
+<h2> review.date </h2>
+  09-05-2010  
+<h2> review.text </h2>
+
+ <p> Works fine, though it was almost too big to fit into my ageing 3G ipod. Almost, but with a bit of fiddling, and cautious pressure I now have a working ipod again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  01-02-2011  
+<h2> review.text </h2>
+
+ <p> This item was perfect!  It completely solved the problem I was having with a very old iPod.  The 3G iPod I bought this battery for sits in my car all the time, regardless of weather and temperature.  The original battery suffered for it on the rare occasion that I would take the iPod out and listen to it "mobile."  Not any longer!  This battery was a simple solution that breathes new life into a unit that is well past its prime.  Installation is a breeze.  Check YouTube for a video, it takes about 3 minutes.  Great item from a great seller! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Take back The Power </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

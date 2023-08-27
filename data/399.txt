@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004SQTBIO <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-01-2013  
+<h2> review.text </h2>
+
+ <p> Seemed go get nowhere, and the sarcasm did not seem to work.  Either a devotee or the book was pontless. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Marked Train to nowhere </p>
+
+
+<h2> review.date </h2>
+  01-07-2013  
+<h2> review.text </h2>
+
+ <p> Great use of language, satire, humor.  Twain must have hated Mary Baker Eddy.  Christian Science has a very rapid growth in the early days and very large income. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Christian Science </p>
+
+
+<h2> review.date </h2>
+  11-07-2013  
+<h2> review.text </h2>
+
+ <p> This little book answers many of the questions I have had about not only Christian Science but about religion in general. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An eye opener of the whole Christian religion </p>
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> I love Mark Twain, but the snarkiness got to me after a couple of chapters.  I am no fan of Christian Science (I had a dear friend die from following this looney idea) but a steady stream of sarcasm grows old pretty quickly.  It's not somthing one would read for enjoyment, only to reinforce an existing bias. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love Mark Twain, but the snarkiness got to me after a couple of chapters. </p>
+
+
+<h2> review.date </h2>
+  05-09-2014  
+<h2> review.text </h2>
+
+ <p> From my research, some have stated the someone in Twain's family sought help from a Christian Scientest person and the advice and treatment did not work.Really, I found this book to be an entertaining read over all. Since I am a fan of Mark Twain's book, this is my least favorite, yet I am glad that I added it to my TWAIN LIBRARY COLLECTION! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An interesting and OK read by Mark Twain </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> Although I am not a Christian Scientist this book is a hatchet job.  His sarcasm passed off as wit does not work here like it does in his other works.It appears that he had an agenda.He should have stuck to Huckleberry Finn and Tom Sawyer.He gets three stars because the writing is still good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a hatchet job </p>
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> I missed this book by Mark Twain. I actually laughed out loud when finally reading it. If you like Twain, add this to your must read list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Christian science </p>
+
+
+<h2> review.date </h2>
+  11-06-2011  
+<h2> review.text </h2>
+
+ <p> I was raised to be a Christian Scientist, so I was curious to see what Mark Twain wrote. It was alarming to me , because we sound quite strange, but this is when Mary Baker Eddy was still alive..the religion I know is 100ish years removed from this time. It had never occurred to me that anyone would think that Mary Baker Eddy would be " bigger " than the virgin Mary. Its interesting to read how people may have been viewing a new, emerging religion. Its fun because Twain is very honest, and some of things that bug him about his practitioner also bug me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> alarming,informative and fun... </p>
+
+
+<h2> review.date </h2>
+  07-11-2012  
+<h2> review.text </h2>
+
+ <p> I always enjoy Mark Twain's work. The first 2 chapters were so funny I hurt my belly button laughing. After that he got mostly serious as he skewered Mary Baker Eddy and Christian Science. He still manages to poke a little humor in even in the serious parts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Learned a lot </p>
+
+
+<h2> review.date </h2>
+  12-08-2012  
+<h2> review.text </h2>
+
+ <p> Twain's writing is always good, production-wise, but this goes on and on.  As irreligious as ever, he heaps scorn high onto hatred against Mary Baker Eddy and her church.  Makes it seem like they were the Scientologists of thier day and she their L.Ron Hubbard.Twain really did his homework, though, and one can easily believe every word.  Might be fun to compare with today's Christian Scientists. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sarcastic Tirade! </p>
+
+
+<h2> review.date </h2>
+  07-25-2012  
+<h2> review.text </h2>
+
+ <p> It is my understanding that someone in Twain's family sought out a Christian Science practitioner, and did not get well.  This, along with his skeptical spirit, may have led Twain to write this critique of Christian Science.  The Twain wit is in place throughout.  He spends a lot of time over his concern that Mary Baker Eddy was fast becoming (in the attitude of CS's followers) deified.  He doesn't say much about the metaphysical beliefs of CS.  He spends a lot of time expressing his concern over the iron-fisted control Eddy had over all aspects of the sect, especially the financial.  Those who want to read everything Twain wrote, and those interested in how CS was seen in its early days, will find this an interesting read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Clever Criticism </p>
+
+
+<h2> review.date </h2>
+  01-29-2013  
+<h2> review.text </h2>
+
+ <p> Starts with a roar (haven't laughed so hard for a good while!), goes over towards the end to some sober reflection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You'll exercise your abs with this one! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

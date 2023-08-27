@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1843600676 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-16-2005  
+<h2> review.text </h2>
+
+ <p> Other than a book I tried reading when I was in 6th grade, this is the first time I actually stopped reading a book mid-way through.  The writing is so elementary, you'd think a 13-year-old with a filthy vocabulary wrote this.  The story, at least up until about page 100, just kept re-emphasizing the girl's size.  Enough already!  The interaction between Jennifer and Cherica is so far-fetched, at least from my experience (and I have some raunchy friends who'll let anything fly), that it was totally unbelievable that friends would talk that way to one another.  Rick's mother sees Jennifer for what seems like 30 seconds or less and she already loves her?  Her first question to her was something like what her goal in life was?  I've met a few mothers in my time and never once, not once, was that even near the first question.  I was so totally disappointed with this book.  I honestly can not believe others actually rated it with five stars.  I would have given it a negative 5 if that option was available....AMAZON should at least offer ZERO stars for ratings.Folks, please do not waste your time or money on this book.  If it's Ms. Lee's 1st attempt, maybe she'll get better.  Heck, she can only improve I'm guessing because I don't think it could get any worse.  Also, the editor missed the boat on this one....way too many typos.  But, if you are still inclined, email me.  I'll send you my copy free of charge.  I wouldn't dare take someone's hard earned money for something that's only worthy of lining a bird cage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Full bodied....trash! </p>
+
+
+<h2> review.date </h2>
+  03-07-2011  
+<h2> review.text </h2>
+
+ <p> I thoroughly enjoyed this book I felt it was well written and I am looking forward to the story on her best friend cherica I hope it comes out soon this book is a keeper. it did not matter with the character was a black or white woman because full figure women all over the world are having a hard time finding a man and the fact that she was able to find one just lets you know there are some men in this world who are into the full figure woman I know I married one. thanks  JS </p>
+
+
+<h2> review.summary </h2>
+
+ <p> full bodied charmer </p>
+
+
+<h2> review.date </h2>
+  06-20-2010  
+<h2> review.text </h2>
+
+ <p> This was a great book and is one of my keepers.  It shows us that love can come in many shapes and sizes and while the couple met under unusual circumstances, I enjoyed how Jennifer helped him "open his eyes" to a woman who didn't fit the mold he was expecting.  First she was african-american and second, she was a thick woman.  It completey threw Rick off his game...I definitely recommend this book to anyone who enjoys a good story with lots of love, hot steamy sex, and a few twists and turns thrown in.Great book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of My Keepers....Love It </p>
+
+
+<h2> review.date </h2>
+  07-10-2007  
+<h2> review.text </h2>
+
+ <p> I usually love romance novels featuring BBWs, but I can't say the same for this one. I didn't realize it was erotica when I bought it so I was kinda turned off by the graphic language and descriptions. It would have been forgivable if there was more substance to this story, but there isn't. It was predictable and there was no climax (no pun intended) to speak of. Also the dialogue was crass and just didn't ring true, especially between Jennifer and her friend. There was a scene where two characters discussed the difference between porno literature and erotica, and ironically I'm inclined to think that this is more porn than erotica. I'm disappointed that I wasted my time reading it and even worse that I spent money on it. If you can borrow it from a library, go for it, but I wouldn't recommend buying it. For higher quality romances featuring BBWs try Bet Me, The Next Big Thing, or He Loves Lucy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Merely Okay at Best. </p>
+
+
+<h2> review.date </h2>
+  12-29-2011  
+<h2> review.text </h2>
+
+ <p> Did I listen to the other reviews? No, I had to find out for myself! This is not as good as The Fall of Troy, the first book. This book was lacking so many areas, namely taste. AND it is not worth $6.00. Do yourself a favor and just read The Fall of Troy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not so much </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> Buy this one!  I've read a few of Ms. Lee's books.  Rick and Jen's story is one of my favorite.  The characters felt so real.  If you're a romance buff, and love watching your characters go and love each other.  This is the book for you.  Could not put it down! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it!! </p>
+
+
+<h2> review.date </h2>
+  06-05-2010  
+<h2> review.text </h2>
+
+ <p> This was the first time I read a book for all the BBW's out there and all I can say is wow. This was my first erotic romance and I LOVED it. Not the harlequin romance from my teen years, that's for sure. No cookie cutter fade to black here. This is  for those who like their books hot, spicy and telling you like it is. I'm an adult who not afraid the graphic language and happy to have the choice to read more of these types of books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BBW Gets the Guy </p>
+
+
+<h2> review.date </h2>
+  07-31-2009  
+<h2> review.text </h2>
+
+ <p> 1st I could not really tell if Jennifer was really black. Yeah I know she was fat because Mrs. Lee reminded us of this on  every page!  This one was crap . I really liked the other books but this one was ended badley to. [...]. I usually like Marilyn lee  but this one was pure crap and reminded me of skin deep which better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> crap </p>
+
+
+<h2> review.date </h2>
+  08-12-2011  
+<h2> review.text </h2>
+
+ <p> I think this could have been a much better story than it was. I liked the characters, I liked where they were going. I quickly tired of the poor communication and worse sex-talk... it actually got pretty stupid. And while the temporary break up moved the story along, the "one-last-quickie" scene in Rick's office was AWFUL and just stupid; who does that! Buuut... things worked out and I can skip over bad dialogue as long as there's not too much of it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay, but the sex-talk was overboard </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> This book kept me interested, but it did have some parts that seems a little pushed like the author got lost and just continued writing until she finally found her way back to what made the story good in the first place.  Good Read </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book </p>
+
+
+<h2> review.date </h2>
+  06-16-2009  
+<h2> review.text </h2>
+
+ <p> Rick Markham reluctantly agreed to participate in a bachelor auction for charity, and was not happy to see the highest bidder to be Jennifer Rose.  She was completely not his type, and he was going to have to spend an entire evening with her.  She was a large woman, and his typical type was tall and slender.  He wasn't looking forward to it, but figured he could suffer through it.  When their date finally rolled around, he was shocked to find that he actually liked Jennifer.  She was smart, attractive, and she likes sports.Rick didn't intend to see her again after their date, but he couldn't get her out of his mind.  He had been involved in many casual encounters, but for some reason this one with Jennifer stayed with him.  She didn't believe him when he said he wanted to see more of her because she had been hurt too many times before.  She decided to enjoy it while he was around, and kept telling her heart not to get involved.  As they got further involved, both were too frightened to admit the feelings that were developing.  When Rick heard Jennifer was hurt, he was afraid that he might never get the opportunity.This was a good old-fashioned formulaic romance mixed in with some very sensual moments.  Rick is the consummate bachelor that decided it was time to get married and to settle down.  Jennifer is a large woman that is used to being ridiculed and taken advantage of.  Their story is very sweet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Full Bodied Charmer </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> I loved this book as I love all Marilyn Lee books.. being a very plus size woman myself it is so nice to have a writer who appreciates the beauty of plus size. love Jennifer and Rick..great sequel..would love to read jayson and chemical's story.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot..Hot..hot </p>
+
+
+<h2> review.date </h2>
+  01-29-2009  
+<h2> review.text </h2>
+
+ <p> This could have been a sweet love story were it not for the vulgar language used.  I stopped reading several times but because I wanted to see how the story ended, I forced myself to finish by skipping over most of the intimate parts.  The ending was a bit of a let down too.  Much potential but just to vulgar too enjoy.  I also chose this book thinking it was an interracial love story.  Big mistake on my part.  Race was barely discussed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Much Too Vulgar </p>
+
+
+<h2> review.date </h2>
+  01-17-2013  
+<h2> review.text </h2>
+
+ <p> But for me a full size is more like a 14-16 and her in the book was more like a 12 which I don't consider a FULL Body anyway it was still a good story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I liked it! </p>
+
+
+<h2> review.date </h2>
+  05-14-2007  
+<h2> review.text </h2>
+
+ <p> After the reviews that this book received from previous readers, I wasn't really expecting much.  But, I have to say I enjoyed it.  Ok, yes, they did focus on the fact that she was heavy, and he was blonde.  A lot.  But besides that, it was ok.  It was a fast read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad </p>
+
+
+<h2> review.date </h2>
+  05-21-2011  
+<h2> review.text </h2>
+
+ <p> I don't deny i'm a fan of Ms. Lee. This story was sweet, sexy and passionate. Gotta love a man who changes his preference because of love. Not caring what anyone else will think but following the heart's desires. Good story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charming... </p>
+
+
+<h2> review.date </h2>
+  03-09-2009  
+<h2> review.text </h2>
+
+ <p> This was one of my first books by Marilyn Lee and it was wonderful.  It made me want every book I could find of hers. I loved that it was about a bigger woman, instead of someone that is a size 2.  Some of the negative reviews mention that it is to graphic in the sex scenes, but excuse me, isn't that what erotic romance is?  Get this book you will not be disappointed if you are looking for a good erotic romance about a BBW. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best BBW Books </p>
+
+
+<h2> review.date </h2>
+  11-11-2002  
+<h2> review.text </h2>
+
+ <p> I enjoyed this entertaining and fun book immensely. Full Bodied Charmer is a well-written, fast paced and sensual story, while also being sweet and romantic. The characters are fully developed and their relationship and love for each other develops at a believable pace. Very few books deal with real characters like our heroine, almost all of the heroines in today's contemporary romances are tall, beautiful and "willowy" or petite, beautiful and a "perfect size six". Full Bodied Charmer deals skillfully with our preconceived ideas of what or who will make us happy. Along with the romance of Rick and Jennifer, the story has interesting and enjoyable secondary characters, especially Jennifer's best friend Cherica Martin and Rick's friend and business partner Troy Hunter, who has married a full-figured girl of his own. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Timeless Tales review by Diana </p>
+
+
+<h2> review.date </h2>
+  06-21-2010  
+<h2> review.text </h2>
+
+ <p> Okay, I'll be the first to admit that Rick does come across as a jerk but with the help of his best friend Troy and his wife, Angie, who also happens to be a BBW, he comes to his senses.  It's great to see the big girl get the hunk and the sex scenes are smoking hawt.  This book has everything I've come to expect from Ms. Lee. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Full Bodied Winner </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

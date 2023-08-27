@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00LLSH2HY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great addition to the series </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you love the boys from AD2, you will definitely appreciate this book. This is great insight into the tortured tormented lives of Alec and Demetri while they are getting to know Nat. Amazing addition to the Seaside series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ... go back and read from the guys POV is awesome. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> After reading the Seaside series and loving it and now to be able to go back and read from the guys POV is awesome. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> amazing </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> As always Rachel has done it again!!!!!! I love the seaside series and it was great to see the boys point of view!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> LOVED it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I absolutely loved hearing Alec & Demetri's POV in Strung!  Getting inside their heads brought me so much insight into Tear, the first book by Rachel Van Dyken, in the Seaside Series.Her ability to switch from the POV of two very different men and make me understand truly who they are as individuals is truly amazing.  Another work of art by the great Rachel Van Dyken. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My favorite series! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> As always, Rachel does not disappoint!!  The Seaside series is one of my favorites!!  I love Strung as it gives us the story of Tear, but from Alec and Demetri's POV.  We get to be inside of their heads, hear and see their feelings and emotions!  This book is a must read if you have read the series!  If you haven't, then this series is a definite must read!  The books are great and entertaining!  Alec, Demetri, and Nat will be drawn into your hearts along with the rest of the Seaside characters! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Once again Rachel has managed to pull off a gripping novel that keeps you hooked from the very first page! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Whenever I pick up one of the Seaside series novels, it feels like a homecoming. Seriously. I have been with this group from the beginning and from the first chapter in Tear, I felt like I knew these people.Reading Strung was exactly the same feeling, and it was one that I dearly missed! Even though Strung is essentially a re-telling of Tear, it is also completely different in the fact that it is written from the point-of-view of Alec and Demetri Daniels instead of Nat's, and that puts a whole different spin on things.This time, you get a greater insight and understanding into why they act and react the way that they do. You can feel a certain sympathy for their past, and the struggles they are still trying to overcome while in Seaside. You can almost feel their pain and self-loathing, and it never fails to amaze me the way Ms.Van Dyken can switch between the brother's personalities and still keep them so real and completely separate. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great book!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a seaside fan fell in love with the books and characters.  It was great reading the PO of Alec and Demetri.  Even though it was the same story it still felt different.  I enjoyed it.  I will the series again and again&#128522;.  Thank you Rachel Van Dyken </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> So good </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> okay so I found a carp load of grammar mistakes and other character pov's that were put in by accident but aside from that I loved their pov.. even with all the mistakes it doesn't matter because it did not take away from the story for me, I knew exactly what she was saying... good job rachel.. yet again you did it :) AMAZING!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Strung </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Amazing I loved see tear from Alec and Demetri's POV. This was a great addition to the series! I recommend this to anyone who is a fan of the seaside series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Totally Awesome!! :) </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> As always - Rachel has written a book that I couldn't put down until it was complete - except when I had to go to work.  This was an amazing story from page one.  I absolutely loved it and would recommend this book and any other books by Rachel.  I do recommend reading the Seaside series first before Strung.  Thank you for another amazing book Rachel.  I am a forever fan.!!!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

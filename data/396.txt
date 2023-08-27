@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004IK9SQ0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-08-2013  
+<h2> review.text </h2>
+
+ <p> Oscar Wilde said, &#34;Great genius is the ability to make the complicated simple, not the other way around.&#34; Ernest Holmes makes understanding the great questions of life, simple.As a life time student of the Bible, I find Holmes provides a simple way to understand it, finally.We are responsible to work with God, and Holmes shows in simple terms how to do it.Other thinkers use Holmes work as a source material.This book has changed my life for the better, and continues to change it as I refer back to it for guidance when confused.It can do the  same thing for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Foundational Understanding of the way you think; A plastic universe awaits your cooperation </p>
+
+
+<h2> review.date </h2>
+  08-18-2013  
+<h2> review.text </h2>
+
+ <p> A lifetime resource manual.  Great for those who desire a deeper understanding of HOW Spirituality works in our lives as well as those who are metaphysically experienced.  Provides a solid foundation for Spiritual practice.  This work links the core of ALL religious values. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid Metaphysical Infrastructural Framework </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> I was amazed with the clear explanation Holmes gives in the Science of Mind about why a mental treatment works. I have read other books in metaphysics, which I enjoyed; but I found clearer the Science of Mind teaching method to neutralize the effect of negative thoughts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> This is a lesson in truth book.  I recommend it for those who are searching for the truth about themselves and that is the only truth.  This is a study book, not a sit down and read book.  The Science of Mind Church is based on the findings of Ernest Holmes and this book.  You can study it with a group, or you can read it and study it alone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a very good study book for those searching for the truth about themselves, and I think that is the only truth. </p>
+
+
+<h2> review.date </h2>
+  11-21-2012  
+<h2> review.text </h2>
+
+ <p> This book is informative and applicable. It shares ideas and examples of how a person can stay positive, make wise decisions, and develop effective communication skills. I enjoyed the format of the chapters. Of course, this book isn't as deep as "a crossing or the drop's history" by Anatoliy Obraztsov what I've read before and, in fact, I prefer deep books. But I rated "The Science of Mind" 5! Each chapter expresses an idea and gives an example from the author's life, an example from research or scientific authority, and an example from the Bible. The information is clear and easy to read, yet causes the reader to reflect and ponder new ideas. It motivates change and improvement. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It motivates change and improvement </p>
+
+
+<h2> review.date </h2>
+  02-15-2014  
+<h2> review.text </h2>
+
+ <p> Excellent spiritual literature of truth. I have read the magazine for years and finally decided to get the book that started it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Book </p>
+
+
+<h2> review.date </h2>
+  09-01-2012  
+<h2> review.text </h2>
+
+ <p> This is one of the greatest books I have read in a long time. It cuts right to the heart of things. You will realize everything you ever wanted to know spiritually. I have shared this with friends of mine and they agree. It's a book that once you start reading, you will not want to put down. I love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Science of Mind </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> This book was right on for me....I was familiar with the Science of Mind material from many years ago....and it has now been very helpful to me currently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> lots of great info </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> If you want to understand New Thought or just want to understand what you already believe, then this is the resource. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Holmes' Best </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> I already own a hard copy, but I would rather not lug it around. Now I don't have to. I can just reach for my iPhone or iPad with kindle loaded onto it and voila! I have Mr. Holmes at my beck and call whenever I want it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great reference to maintain on your e-reader! </p>
+
+
+<h2> review.date </h2>
+  11-03-2012  
+<h2> review.text </h2>
+
+ <p> I have had the hard cover of this book for over 15 years and only read it when the Kindle version came out. The principles in this book are timeless even if you don't share a belief system with Dr. Holmes. With the heavy media conditioning everyone faces, instructions on how to get back to a fundamental place in your thinking is imperative. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ageless principles </p>
+
+
+<h2> review.date </h2>
+  10-08-2013  
+<h2> review.text </h2>
+
+ <p> OK - I'M INTO SCIENCE OF MIND, STUDY IT A LOT AND THIS IS THE FOUNDER HIMSELF -THIS IS THE Complete Unedited Original Edition WHICH IS VERY EASY TO READ, BUT NOEASY READING IF YOU KNOW WHAT I MEAN. HOWEVER, IT IS MEANT TO BE THESofM HANDBOOK AND IS GREAT FOR THAT! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> RATING BY TSE </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> Classic text book for New Thought Students.  The compact Kendal edition makes it readily available and always at hand for classes and discussion points. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Science of Mind </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

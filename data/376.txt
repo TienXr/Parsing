@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1931643458 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Greek Intrigue </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Keeps you engrossed. The escalating turns of plot as it unfolds involve all the rivalries and tensions of the peoples surrounding Greece for the past two centuries (and more). Fast, exciting, enjoyable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-26-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> A fast paced thriller set in Greece around the Athens Olympics (don't want to say more and spoil it for you)... You can tell the author has spent some time in Greece - his descriptions of the area and people are very engaging. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another Great Thriller! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I discovered Joseph Badal through a free book offer from Book Bub and now I am hooked. My first book was &#34;Evil Deeds&#34; which was the first in the Bob Danforth series and I liked it so much I purchased &#34;Terror Cell&#34; as soon i was done. Another great international thriller which I couldn't put down again. Tonight I am starting the third book in this series &#34;The Nostradamus Series&#34; and I can't wait to get started. The attention to detail reminds me of a Tom Clancy novel. Great stuff Mr. Badal. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another Thriller </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the second Joseph Badal book that I have read. My first was Evil Deeds. Now finishing Terror Cell I am hooked!I enjoy his writing style and find his books difficult to put down. Joseph  has a strong character in Bob Danforth, A CIA Operative that does not know how to quit. Once he starts an assignment not even his wife can stop him.Bob heads to Greece where an American and British operative were recently murdered. Over the past 2 1/2 decades Greece has been over run with terrorist groups who want to take over the country and bring back the 'old ways'. Danforths assignment is to identify the cell members and take down the cells.Fast paced intrigue  - YES! Five star reading, hands down!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Absolutely Wonderful </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bob Danforth is in Greece again. This time he's trying to take down terrorist groups running amuck. This book had tons of action and intrigue. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This is a fun read. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good history and an engaging story. There is a lot to like here. This book is one of a series.Recommended if you like Thrillers. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A real page tuurner based in Greece </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-31-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Terror Cell, ISBN: 1931643458, Suspense publishing, e-book by Joseph Badel is a fictional suspense/thriller based on activities of an actual terrorist group that operated in Greece for several years.Bob Danforth, a happily married, near retirement age, highly respected CIA field agent is sent to Greece to attempt to stop the terrorist activities that have resulted in fatalities of a large number of Greeks as well as Americans and British in important positions. To do this, he and his team must face the usual difficult task of setting up a working relationship with its British counterpart and the FBI group assigned to the country. Together they must ferret out the possible perpetrators from the numerous individuals that must reach into the highest levels of government because not one person has been prosecuted, or even suspected over a period of several years.Additional situations adding to Bob's tension level are the impending Olympics, his wife's insistence upon joining him, and, after an attempt on their lives, the arrival of their son, an army officer, who has been on leave with his wife in Paris.The tempo begins at a relatively high level and gradually builds to an even higher eventual climax that involves Turks, Kurds, Iranians and even a member of al-Qaeda. The author has provided a well written thriller that from start to finish is a real page turner. Reviewed by John H. Manhold, award winning fiction/non-fiction author. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Thrilling </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-09-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> A thriller that you will not want to put down. A good story well told and a delight for those who think fiction is more real than fact. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> More than a spy thriller </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Terror Cell is a cliff hanger in the tradition of the spy thriller.  It stands out from many others of this genre by providing character development. You really care about the hero and his family.  The &#34;bad guys&#34;, a cell of Marxists terrorists are well developed. Their descent from political terrorism to thuggery is one of the really interesting themes of the book.  I highly recommend this book if you enjoy suspense, politics and history of a neglected part of the world. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing tale containing many twists and turns </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another fast paced novel involving fully developed characters placed in seemingly impossible situations.  The story was gripping and difficult to put down.  The possible reality of the events created even more tension. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Danforth Saga the best series I have ever read! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Can't put this book down, exiting, suspenseful, I find myself holding my breath. Joseph Badal is a amazing writer. Can't wait to read his next book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Highly recommended! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Terror Cell is the second outing in the Bob Danforth series, and it is a dandy! Bob is back in Greece for the CIA where he is faced with multiple terrorist threats and geopolitical intrigue on a grand scale. His career and his life are on the line along with the lives of his wife and now grown Army officer son. The action is non-stop and the body count is high. The only thing more a thriller lover can ask for is excellent writing, and author Joseph Badal delivers in it spades. Highly recommended. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Better Thriller </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-31-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> As a mystery affionado I steer clear of most thrillers because I want a story not simply action.  Joe Badal is head and shoulders above most writers in the genre.  His books are well written, well paced and they tell a story I want to read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ripped from the headlines </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-03-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Terror Cell takes the reader behind the scenes as investigators try to catch terrorists operating in Greece in the buildup to the Athens Olympics. Fast pace and furious action. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This book put the thrill in thriller! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm glad I started reading early in the day.  Before I knew it I had missed lunch.  If you're looking for a good book to help pass the cold winter days, this is it.  I didn't realize until I finished the book, but this is the second novel to feature Bob Danforth.  Lucky for me, reading out of order didn't hurt the story at all.  Now I'm off to read book #1! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

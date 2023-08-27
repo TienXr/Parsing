@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 6302968232 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-18-2006  
+<h2> review.text </h2>
+
+ <p> I just don't know what to say about this version of the 1936 classic.  Niven is suitably cast, but for the life of me figure out why Allyson was chosen here.  I'm being very generous with three stars here, only because this 1957 remake tries hard to come up to Gregory La Cava's 1936 original.Where this version falls completely flat it's in the ensemble work, which is so important to these screwy comedies.  In spite of workable efforts by a few, especially Niven, there's no comparing this with the original.Grab La Cava's original on Criterion, instead.  Unlike this production, it will not disappoint. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the La Cava version. </p>
+
+
+<h2> review.date </h2>
+  12-21-2000  
+<h2> review.text </h2>
+
+ <p> A dysfunctional but seemingly wealthy family takes in a new butler of dubious background. In return, the butler saves the family in more ways than one. (This is a comedy)If this movie had tried to keep to the same script as the original, it would not have worked. The basic story line still works however; Godfrey Smith harbors a different secret past. This time Francesca (Eva Gabor) gets to be the bean spiller. You might remember Eva "Green Acres" (1965)June Allyson makes a good ditzy Irene Bullock.Green Acres - Seasons 1-3 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great David Niven fun </p>
+
+
+<h2> review.date </h2>
+  09-23-2010  
+<h2> review.text </h2>
+
+ <p> Make sure that you haven't seen the original 1936 version yet, or else you'll just be comparing the extreme deficiencies all the way through.  I can't review this movie with a fresh pallet because the Original version is so far superior to this remake.  The casting is all wrong.  The actresses who play Cordelia and Irene should switch parts.  The girl they chose for Irene has an oldish face with a husky asmatic voice.  The girl who plays Cordelia has a young face and voice.  It should be the other way around.  The lighting is horrendous.  It looks like the movie was lit with a flood light throughout.  David Niven is so distant with the English charm always on but without any wit or comedic reactions to pull us in.  I never really cared what happened to his character.  It's like he's just going through the motions.  Even when he plays drunk or shouts it's not very apealing.If you've already seen the original version, there is no reason to see this remake unless for the sake of curiosity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Make sure to see this version before the Original 1936 version </p>
+
+
+<h2> review.date </h2>
+  06-02-2004  
+<h2> review.text </h2>
+
+ <p> David Niven and June Allyson gives dazzling performances in this 1957 remake of the 1936 original starring William Powell and Carole Lombard. Godfrey G. Godfrey (Niven) is an illegal immigrant from Austria who has recently jumped ship. He is found by Irene Bullock (Allyson) hiding around the docks.  The first shot of Godfrey is startling.  He's ragged and unshaven--he looks like an old sea captain after 30 years too many.  Soon, however, he is dapper and groomed--all thanks to the rambunctious pride of Irene (Allyson) who offers him a job as her butler. Godfrey is immediately thrust straight into the heart of a fierce sibling rivalry between Irene and her snotty sister Cordelia (Martha Hyer).  He also gets to deal with the dry pinings of the maid, a rather lazy bunch who never rise before noon, and a most glamourous ex-landlady (a stunning, crime-worthy Eva Gabor).Basically, this film demonstrates the cruel power of love.  All along Irene longs to be with her Godfrey.  At first, she merely hired him to spite her family, so she could have something of her own.  As played by Allyson, Irene is a hilarious knot of confused desire and devotive insistence.  Her saga is both touching and sad.  She sees Godfrey as her chance at a real life and clings to her fantasies of their life together with fierce determination.  It is her conviction that she and Godfrey are meant for each other that drives the film.Overall, this is one of the sweetest and wackiest films released from a major studio. Particularly inspiring is the warm delirium of Mrs. Bullock (Jessie Royce Landis). Robert Keith is cool and capable as Mr. Bullock, trying to keep his business above water despite virtual bankruptcy.  Altogether, the Bullock home is a most difficult place to maintain employment as a butler.  The previous butler quit because he apparantly could not bear having to feed the horses.  Others had quit practically before getting started.  Add a bassett looking hound that howls whenever anyone starts singing and you have basically a perfect, light comedy that will appeal to all ages.This film is quite different in tone from the original.  That film is more political and considerably darker.  Both films are considered classics and should be viewed according to their own individual merits. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliant family comedy--Niven and Allyson shine in remake </p>
+
+
+<h2> review.date </h2>
+  07-25-2009  
+<h2> review.text </h2>
+
+ <p> This 1957 remake of the earlier 1936 movie takes a slightly different storyline for the screwball comedy plot.  The main character, Godfrey, is not a homeless vagrant as in the earlier version, but is an Austrian illegal alien in the country.  In the earlier version, there are a few subtle political hints implied since it was filmed during the Great Depression.  The ending of this 1957 version was a better one than the earlier version.  However, I felt that the individual performances from the earlier version were better.  The funny spoken script was more effective in the earlier movie version.  And the romantic ties that developed between Godfrey and the other females in the household were better portrayed in the earlier version.  This movie version follows the overall plot in nearly the same fashion as the earlier movie version, but I would still recommend the 1936 version over this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Remake of the 1936 movie version with some differences </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> Not as good as the William Powell version, but it is in colour and it has David Niven and June Allyson. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good fun </p>
+
+
+<h2> review.date </h2>
+  08-06-2012  
+<h2> review.text </h2>
+
+ <p> I have seen this movie with Carol Lombard and with June Allyson and David Niven and really preferred the second cast! Now I wonder why we cant purchase this on dvd or blu ray? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> terrific cast... </p>
+
+
+<h2> review.date </h2>
+  01-26-2003  
+<h2> review.text </h2>
+
+ <p> "My Man Godfrey" is one of those old classic films you must see sometime! David Niven magnificently portrays Gofrey, an Austrian illegally in the country who fears he will be deported if he is found out. He soon meets Irene Bullock (June Allyson) who is captured by his dapper charm as she hires him as her family's butler. Everyone in the family is cast under his charming spell except Irene's sister, Cordelia. In time, she, too, will be fascinated. As soon as detectives become suspicious, he feels he must go back to Europe despite Irene's disapproval. I don't feel suprised at her falling for a man as handsome as he is. On a boat returning, she runs after him and beforehand, he knows of a law that says a person illegally in the country can marry an American only after they've left American borders, which will probably happen when you see them together in the final shot with the Statue of Liberty in the background! This picture is delightful and David Niven is sleek, superb, girl-attracting, and distinguished. "My Man Godfrey",as one of the character's in the story, Vincent, would put it, is:"Lovely, lovely!" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> David Niven as Godfrey is charming and distinguished! </p>
+
+
+<h2> review.date </h2>
+  09-22-2013  
+<h2> review.text </h2>
+
+ <p> Once upon a time the lead in "Raiders Of The Lost Ark" was supposed to be Tom Selleck of Magnum P.I. fame. Hard to imagine. Such an indelible film with exceptional performances, one can't fathom anyone else in the role of Indiana Jones.Well, keep this in mind: I tried. I tried very, very hard to overlook the fact that this remake - or 'reboot' - was attempting to recapture the magic of William Powell and Carole Lombard.Having just screened the film - awful.Just awful.Let's just say it. June Allyson was horribly miscast.Guess I'm going there so I might as well get it out of the way - she was too old to play Ms. Irene Bullock. Way too old at 40 years to portray the role meant for a young vibrant twenty-something. She had crows feet for goodness sakes! As a symbol of longevity and wisdom, all well and fine, but her character is supposed to be a sprightly and captivating youngster at the cusp of womanhood. Not a role for a middle-aged mother of two.And movie cameras are notoriously unforgiving.Did anyone else notice that her "older sister", played by stunning Martha Hyer, could've easily passed for a decade younger than Allyson's portrayal of Irene? A contrast of the worst kind since it equals upstaging the headlining star. And unsurprisingly, was technical accurate. At 34, Hyer was figuratively and literally younger during the production. It shows.Thinking about it - how awkward, and even creepy, it must've been on the set as Allyson tried way too hard to be peppy and exuberant. Every moment that I experienced watching her on screen brought about cringes and instant acid reflux. Honestly, it was pure torture to get through her scenes; having had to stop and start the film in fits - the entire process taking up nearly an entire evening to finish.Just a terrible decision by both parties - the producers and Allyson herself - to think she could pull this off.Ultimately, there's even a simpler reason why one shouldn't attempt to reboot a classic - the benchmark is set so high that it's just not possible to overcome. Is there anyone stupid or arrogant enough to reboot 'Gone With The Wind' or 'Casablanca'? Oh, believe me, I know well about the pathetic television attempts - and I also remember the well-deserved derision and apathy each effort generated. So, no, you don't attempt a faux version of an icon. It's tacky and displays an inherent disrespect for the original and its creative team.Interestingly, you never hear someone saying they're going to reboot 'The Godfather'. Even for 21st century creative dolts and the mental morons who run the modern Hollywood machine, where rebooting is everyday standard operating practice, even they can see the obvious futility of such an effort.One hopes the lessons of the past will be remembered by future generations - but this is Hollywood - where memories are highly selective and sins are spin. Come to think of it, that's actually pretty much American society today as well. Sad.Can anything be said that's good about this remake? Yes. And I'm actually kind of thunderstruck to admit it.Would have, not in a million years, thought that Eva Gabor would be the perfect compliment to any cast outside of a city mouse leading a country mouse life in the tv program for which she is mostly remembered. But dang, Mz. Gabor hit the nail right on the head as the only character that was actually an improvement from the original.Now, don't get me wrong, I'm a monster fan of Alan Mowbray. Absolutely love him without reservation or question. But, whomever came up with the idea to switch the role of Godfrey's old friend from bud to babe - sheer genius. Eva was spot on. Her timing, her sexual innuendo, her wit - absolutely spot on as Francesca Gray. The writers even worked in her already infamous string of real-life marriages/divorces. Mind you this was 1957 - and she still had two more matrimonial hook-ups that were waiting for her in the upcoming decades.Prime example of said genius: When Cordelia catches Godfrey and Francesca at a bar quietly having drinks, she surreptitiously insinuates herself into their quiet rendezvous and admonishes the butler for not taking her dress down to the cleaners that morning. Without hesitation, Eva quickly adds, "Funny. Godfrey never had any trouble taking down any of my dresses...(perfectly timed pause)... to the cleaners."&lt;rofl>Awesome! :-DBut is that one single bright highlight worth watching this excruciating train wreck of a remake? No. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excruciating Train Wreck </p>
+
+
+<h2> review.date </h2>
+  11-12-2002  
+<h2> review.text </h2>
+
+ <p> I think this is a great remake of the 1930's film and David Nevan and June Allyson are splendid in it.  It's enteraing and as good as the orginal.  I highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Great remake ! </p>
+
+
+<h2> review.date </h2>
+  11-08-2011  
+<h2> review.text </h2>
+
+ <p> OK, I have been spoiled by watching the William Powell version too much.  But, I remember seeing the David Niven version in the late 50s, never saw it again on TV, and thought I would buy a copy because I remember enjoying the film.  And, it is enjoyable.  I like to collect different versions of the same film for comparison:  Sabrina (Humphrey Bogart vs. Harrison Ford), Thomas Crown Affair (Steve McQueen vs Pierce Brosnan), etc.  And, I am glad to have this to compare.  But, there is little comparison between William Powell and David Niven as Godfrey.  The Thin Man wins, hands down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> David Niven was simply not William Powell </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

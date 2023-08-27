@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0042L2OCK <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> Pretty hard to screw these up. I got it for my son's trip to Germany, where I'm told it worked as expected. Saved a useless quest to find one here locally. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What can I say? It's a plug. </p>
+
+
+<h2> review.date </h2>
+  01-29-2012  
+<h2> review.text </h2>
+
+ <p> Provided that most of electronic devices these days (such as phone and laptop chargers) come with universal power chargers(110-220V) a need in actual power converter seems to be diminishing. If all you need during your travel to Germany is your phone and laptop - this one will do the trick just fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  09-24-2009  
+<h2> review.text </h2>
+
+ <p> I used this plug in Romania and it worked fine. It's strongly built and is very light. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works in Romania </p>
+
+
+<h2> review.date </h2>
+  04-16-2009  
+<h2> review.text </h2>
+
+ <p> nothing to complain about. thing came in on time. worked in paris. I'm happy maybe next time i'll go to europe again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works as it says. </p>
+
+
+<h2> review.date </h2>
+  02-28-2011  
+<h2> review.text </h2>
+
+ <p> It's good for me when I go back to Europe and plug in my American devices. It didn't burned out or I haven't got any issue with it yet. So it's good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What can I say? </p>
+
+
+<h2> review.date </h2>
+  03-18-2008  
+<h2> review.text </h2>
+
+ <p> It fit snugly, stayed in place, and fit well with both grounded and non-grounded outlets. I can't image how you'd improve it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked perfectly! What more could you ask? </p>
+
+
+<h2> review.date </h2>
+  03-09-2010  
+<h2> review.text </h2>
+
+ <p> This a great a item  for German  plugs . Was sent the the wrong color, but really who cares. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No Brainer </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> Worked great until I forgot it in a hotel room. I imagine it is still working there or for whomever found it there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> :) </p>
+
+
+<h2> review.date </h2>
+  09-16-2008  
+<h2> review.text </h2>
+
+ <p> Not too much to be said. I used the adapter for 3 weeks in Germany and had no problems. It stayed secure and worked in every outlet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Keep it simple </p>
+
+
+<h2> review.date </h2>
+  05-05-2012  
+<h2> review.text </h2>
+
+ <p> This device works fine and I have no complaints so far. However, it feels a little bit cheap. You can probably get a better quality product for a similar price, but this one also is ok. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does its job </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

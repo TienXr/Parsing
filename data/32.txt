@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0016CFPUG <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-09-2013  
+<h2> review.text </h2>
+
+ <p> I bought two of these (along with an external 5 HDD casing) so I can increase my LVM (logical volume) to include 9 physical hard drives. I popped them in and they worked without a hitch, no need for any drivers, which is always a surprise when I pop in unknown hardware on my Linux Server (Ubuntu 12.04 currently). I have not tested the speed but I am satisfied with how fast I can access my data of the disks on the controller. I use this server to stream video and other media, so I need it to be much better than USB, and this worked great. DO remember that the card is for a regular good ol' PCI slot, which is starting to get a little dated, not to mention, the speeds might be better if it was some type of PCI express, so that might explain why they are so cheap. Anyway, I've had the server up for a couple weeks now with no issues. I am one happy camper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked great on my Ubuntu 12.04 Server </p>
+
+
+<h2> review.date </h2>
+  07-17-2012  
+<h2> review.text </h2>
+
+ <p> 4 Port SATA Serial ATA PCI RAID Controller Card - Silicon ImagePurchased this for a Home Server set-up to add some extra SATA hard drives, worked pefectly only caveat is that I had to go to the Silicon Image site to find the drivers.  This could however simply be that I was using Windows Home Server and not a standard edition of Windows.  I flashed the bios with a non-raid bios but that would be the end users decision WHS has in software raid control and I chose not to use the hardware bios raid although the option is certainly there to do so and I would certainly recommend updating the bios so that it can be certain to recognize some of the newer hard drives on the market especially 3TB drives.  All in all though this was well worth the money and i plan to purchase another one soon to give myself the ability to add more hard drives in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked perfect for a home server </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> This card is fully recognized in the motherboard Bios and windows 7 and 8 out of the box. I updated the firmware but it didn't need it. It works great with my SATA Bluray burner and my data storage hard drives. I am not planning on using it with my SATA3 gaming hard drives or the OS boot drives. I am using this to free up the faster ports for faster tasks. All and all I don't even notice a speed difference between this old SATA1 and newer SATA3 anyway. It was a great help to get more drives online for me. Excellent shipping time Too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked good with newer motherboard and Windows 7 and 8 </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> I have an 1999 circa computer that is all SCSI using as a server and has been running 24-7 since I built it! I have replaced almost all of the hard drives at least once and SCSI drives are just too expensive for the price and capacity. I needed a PCI card that had SATA and could be used Win98 (yes for really old program nostalgia) and WinXP Pro! I connected an old (1 year) SATA SSD drive and it is bigger than all of the SCSI drives together! Had up and running with no issues and now this box is near silent to boot! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for older computer </p>
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> I love the fact I can access 4 more hard drives on my computer--which I did by using a 5.25&#34; bay adapter to hold 4 2.5&#34; hard drives, but I don't like the fact I get the NO AHCI warning at the very beginning and have to wait a few more seconds for it to clear. Haven't figured out how to get rid of the in Windows 7 Pro 64 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> hit and miss </p>
+
+
+<h2> review.date </h2>
+  07-09-2013  
+<h2> review.text </h2>
+
+ <p> It's gone up $4 bucks, but I can tell you it works great with NAS4Free if you were looking for a card to stick in your box.I wish I would have gotten 2 of them.It's been 2 yrs and no issues. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works. </p>
+
+
+<h2> review.date </h2>
+  05-30-2013  
+<h2> review.text </h2>
+
+ <p> I was about to give up on the card and request a refund, because no matter what i tried it kept saying that there no drivers . I tried downloading drivers and the drivers on the disk and it kept saying there were no drivers available. As i was about to remove the card and apply for a refund i noticed a jumper setting on the card by i think sata port 4. i looked at it and wondered if it was supposed to have a jumper block installed so what the heck i put a hard drive block on and rebooted. as soon as windows started bamm the driver disc in my dvd player started allowing windows xp SP3 to install everything, needless to say it worked. One problem is there is no documentation saying anything about that jumper hmmmm! I hope this helps some others with install problems. 8 hours of my life gone! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Problem Solved!! </p>
+
+
+<h2> review.date </h2>
+  09-16-2011  
+<h2> review.text </h2>
+
+ <p> package that was sent was labeled all in KANJI and the instructions were as well.  controller works fine but even the instructions on loading drivers were in KANJI. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4 port SATA RAID controller </p>
+
+
+<h2> review.date </h2>
+  10-27-2013  
+<h2> review.text </h2>
+
+ <p> I just installed it in win7 machine. The card was recognized instantly after the window booted up. All I needed was additional SATA connections so I can put more HD for back up </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy install, work as expected </p>
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> Great little RAID card.  Was a bit hesitant at first, but i went ahead and pulled the trigger and bought it.  I run a HAF X full size case and it has spots for 5 HDD's and 2 Hotswappable HDD bays.  My Asus Crosshair IV Formula board only has 6 SATA connections, so this card was just what i needed for the extra drives my motherboard couldnt accommodate.  Card was instantly recognized, but RAID utility needs to be installed from the disc itself.  Overall for the price, this card does exactly what i need.  Even if you dont run it in RAID, you can still use it to attach extra HDD's or Optical Drives..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great card for the price.... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

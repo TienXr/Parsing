@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1598634259 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great intro book </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm new to PSP and the whole layout of PSP is new to me. This book is a necessity. I'm still reading it, but it's easy to ready, lots of pictures and tips. If you're new to PSP you probably need to buy some book and this is a good one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Paint Shop Pro x2 Manual for Users </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Excellent, well-organized manual for users -- takes the guesswork out of learning how to use this program. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> must have for first time Corel paint shop pro users </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> After recently purchasing Corel paint Shop Pro Photo X3 I found that all the menu choices were confusing and overwhelming. I bought the book as a guide even though it was written for Photo X2 instead of X3. Now I am able to get started on some of the features of the software that I wanted most. With a thourough table of contents in the beginning of the book, you can easily find the pages with answers to your Questions. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Corel PSP X2 </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-29-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Thank you for the book.  It arrived faster than I'm usually used to.  I've just begun with this book and I can see it has a lot to teach me.  I can't wait.Thank You </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Product </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> If your looking for something that rivals Elements at a great price you just found it. And it works with Vista. Great editing tools. Easy to work with. You will love this product. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A great program made much more useful with a clearly written book. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have Paint Shop Pro x2 but I had no clue how to work with most of the program's features. This book explains how to do everything I wanted to know how to do. It's marvelous. I thank Diane Koers for an excellently written book for someone like me who needs clear step-by-step instructions. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great on my Vista 64 bit OS </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-15-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm still trying to learn all the in's and out's of this program, and it does do a LOT of things.  I did get a manual with the product and bought a book to go with it also, both are helpful.  As are a number of my friends who also use this version.It's a bargain for the price and performs flawlessly with my Vista Home Premium 64bit OS. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Disappointed </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-31-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just received this book and started to go through it searching for several subjects and techniques on how to do things with Photo X2 and was disappointed to discover that there is nothing in the book regarding what I was looking for.  Maybe it is there and I have to search for it but it is not in the chapter list nor in the index.  Photo X2 has a tool for HDR photography, that is High Dynamic Range pictures which involves shooting a scene using 3 different camera settings then blending the 3 photos into one picture.  While I am familiar with HDR I was hoping that I would find more info in this book.  This lack of information makes me wonder what else is missing from this book.  This is my second book on Photo X2 and it was purchased because of the attached CD-ROM which I hope will give me the information I am looking for.  We shall see.  Bottom line, I would not have purchased this book had I known it was lacking in being a complete how-to manual on Photo X2. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Corel photo shop pro x 2 very useful </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-19-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> a well written book well explained for the use of all the different commands but i already use adobe photoshop and all these programms are similar and it helps a lot when it comes to use a different one. For a real beginner it is may be a lot harder but still useful </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Book Review </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Pros: Nicely written. Ample pictures and the references are excellent. Index and glossary are well compiled. Overall a great reference guide.Cons:Some of the screen shots are too small for those of us needing glasses. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

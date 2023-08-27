@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00004Y7CF <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-09-2001  
+<h2> review.text </h2>
+
+ <p> I've been in the market for a good MP3 player for a few months now, and after looking at all the reviews posted here (which you are doing now!) I decided on the HipZip, and I'm very glad I did.After looking at the prices for memory expansion for other models, I was shocked at how expensive it was, but then I came across this and was amazed at how cheap the media was.When I bought it and pluged in my own headphones, I was *AMAZED* at the sound quality...I truly never expected what i heard. Set up was a breeze, and really isn't even necessary if you already have an Iomega USB Zip or Jaz Drive.The cons that others mention are there: 1) the rewind takes you to the previous track, not to the beginning of the current track, 2) the backlight doesn't light long enough, and 3) the unit powers down if paused or stopped for 30 seconds...but these are easily overlooked, and might be fixed with a later firmware upgrade.I also highly recommend the use of a higher quality set of headphones, the ones packed with it are poor, and don't do the player justice.Another great feature of the device is the ability to use it as a data transfer device, which is great to transfer files from work to home.While it doesn't show up in iTunes, I simply create a playlist for each PocketZip disk, which displays the amount of space the MP3 files use. I then drag the files to the desktop icon and it's done! File transfer is rather fast as well through a USB connection.Also, having the included belt hoster is nice too...While the price is higher then other players, go ahead and take the plunge, Iomega is known for it's quality devices, and this is no exception. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing </p>
+
+
+<h2> review.date </h2>
+  03-14-2001  
+<h2> review.text </h2>
+
+ <p> I'll agree with most here about the high quality sound and durability of this player, and the cheap media. A couple of other points, though. Works flawlessly with Macs, and with iTunes. Also, there is some delay (more than with Compactflash) when fast-forwarding/rewinding through songs; it is, after all, a hard disk. Finally, could with for more equalization settings (currently Pop, Rock, Disco...) Had it for 3 months, and 1 crash (easy paper clip reset). Belt clip case is wonderful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic Player </p>
+
+
+<h2> review.date </h2>
+  08-29-2001  
+<h2> review.text </h2>
+
+ <p> I am having trouble saying anything nice about it. Its bulking weights 5-10 times most flash MP3 players. The controls are touchy. It is very easy to restart your clik-disks. The clik-disks are cheap compared to Flash but CD-Rs are cheaper and last longer. The RIOvolt and Samsung's MP3 CD-R players have out done it. If you want light weight and compact look at some of the smaller lighter flash units. If you want a large selection on songs, RIOvolt is better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty poor showing </p>
+
+
+<h2> review.date </h2>
+  03-06-2002  
+<h2> review.text </h2>
+
+ <p> The HipZip has proven to be one of the most usefull gadgets that I have ever purchased. Not only does it play MP3s and WMAs flawless. It is also the most usefull portable drive that I have ever used. Transporting and backing up data to the HipZip is as easy as 1,2 (Drag,Drop) because Windows just sees the player as an external drive.Simply put if your looking for a good MP3 player that also serves another purpose, your looking for the Iomega HipZip Digital Auido Player. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MP3 Player &amp; So Much More : ) </p>
+
+
+<h2> review.date </h2>
+  09-06-2001  
+<h2> review.text </h2>
+
+ <p> As I listen to the digital crispness of Big Country, I wonder how I enjoyed digital music without an innovative MP3 player such as the HipZip! Here is how I feel about this wonderful device:Plus:Transfer speed - Quick transfer of files. Less than 2 minutes to transfer 15 songs.Simple - Instantly recognized in Windows XP as a HipZip, and I was up and running in seconds. Easy menu navigation.Value - With recent price cut and cheap media, this is a great MP3 player to take digital music portable.Quality - Solid construction, 5 year warranty on media.Size - Dimensions are perfect for me. Not tiny, but it is half the size of my portable CD player and fits great in my hand.Case - Excellent case, not a cheap throw in.Sound - Great sound quality, surpassing my CD player (with WMA files and new headphones, see below).Flexibility - Plays MP3s/WMAs/Audible content and is upgradeable. I have been using WMAs myself due to the excellent sound and better compression. I can get over an hour and half on one PocketZip with WMA.Rechargeable - Charges in 2 hours and lasts over 8 hours.Anti-Skip - It will not skip and in fact passed my &quot;mow the lawn&quot; test and jogging test. Reason for no skip is simple. It caches songs in 4MB of internal memory. Saves on disk reads and no skipping.Minus:Mechanical - Can hear the drive spin when it caches songs. Moving parts wear out.Obsolete? - Rumors of a non-backwards compatible 100MB HipZip and equally rumors of Iomega dropping HipZip altogether to cut costs. Buy all the media you need just in case.Display - Good info and layout, but very light and pixels in background obsure display. Hard to discern shading and icons.Real Minus!! (Cost the 5th Star)Headphones - Included Labtec headphones are painful on the ear and sound awful. Extremely tinny with no bass at all. Replaced with only a $14 set of Phillips headphones, and the difference was night and day. Shame cuz the sound from this player is wonderful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How did I get by without one! </p>
+
+
+<h2> review.date </h2>
+  12-26-2001  
+<h2> review.text </h2>
+
+ <p> besides being a little bulky, after flashing the firmware.  downloading the new software.  these mp3/mini drives are great.  have used rio and they broke after a year.  sound is the best.  and best of all no memory card.  reads mps and wma files, excellent </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a little bulky </p>
+
+
+<h2> review.date </h2>
+  06-12-2001  
+<h2> review.text </h2>
+
+ <p> I've also got a Creative Nomad, and the HipZip player [is better].  I've been eyeing [another product] for a while, but the price on the HipZip pretty much blew that out of the water ....Pros: -The HipZip has fairly inexpensive media -The display is easy to read and shows everything you need at once -Well organized button placement -Ease of swapping media.... -Ease of transferring files of ANY type to media (does not store the OS on the media,... so you can fill it completely) -Full compatability with other Clik/PocketZip drives -Longer battery life.... -The software is minimal and painless (Iomega's sw is all-in-one) -It came with an AC adaptor (not a separate cradle) and you can get the car adaptor for only $10 from Iomega which is great for road tripsCons/Wishlist: -I REALLY miss the radio from my Nomad -Since the display is so large, it should have a clock -It could probably be a little smaller -The 40mb size of each disk is a bit limiting, but I've read that the PocketZip disks will be available in 100mb some time this year (anyone else heard this?)Some people have complained of the noise... It makes the same whir-and-click noise that my old Zip drive made, but it's not nearly as loud.  If you're listening to music with the headphones, you wouldn't really hear it unless you had the player right up to your ear.  It also has some memory built in as a buffer.  I haven't been able to find out how much, but it will read the disk and throw it into the buffer so it isn't constantly reading the disk. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best all around mp3 player </p>
+
+
+<h2> review.date </h2>
+  06-14-2002  
+<h2> review.text </h2>
+
+ <p> This is a great portable player.  It's highly versatile, I often used it as a bridge between my laptop and my work computer.  The secret of this little device is that it's a portable battery operated Pocket ZIP drive.  While 40 Mb isn't much, it handles whatever project being worked on easily.  And when you want, put away the laptop, and change disks and listen to your music. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+
+<h2> review.date </h2>
+  10-10-2001  
+<h2> review.text </h2>
+
+ <p> I purchased this not as an MP3 player ('cause my Jukebox has that job locked up tight), but as a player for Audible.com, which is a downloadable, audio book service. I have had other Iomega products and so I chose the HipZip from the list of compatible players because the other Iomega products I've owned have been good. The HipZip is no exception. It is well-packaged, sturdily made, intuitively controllable (I don't recall having to look at any manual) and has very nice sound (the 2 40meg disks it ships with have some mp3 files preloaded on them, like demos, so I have heard it reproduce music &amp; text). The software &amp; USB set-up was a breeze and the recharger, while not the most portable design possible, is fine. That there is a built-in, rechargeable Lithium Ion battery is a major plus. The BodyGlove belt-clip case is really well made and fits, well, like a glove. The earphones, however, you can keep. I have ordered a car charger and a cassette adapter and some more 40 meg disks, which when viewed in dollars-per-megabyte terms, are extremely reasonable (about 1/4 the price of other, popular removeable media). All in all, I am really pleased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well pleased. </p>
+
+
+<h2> review.date </h2>
+  03-08-2001  
+<h2> review.text </h2>
+
+ <p> After I wrote my first review, and 10 days after I bought it, I accidentally dropped my Iomega hipzip onto a cement floor from a height of about five feet. It struck right where the purple lid opening contacts with the metal case. It rendered it useless. (It no longer registered when disks were in it and it emitted all sorts of whirring, clicking noises trying to find them.)I figured the warranty was as void as I could possibly get for such carelessness but I contacted Iomega anyway. Even after I told them (twice) that I had dropped it, they swung into action, faxed me out some forms, told me where to send my unit and oila... what looks eerily like a BRAND NEW replacement unit arrived on my doorstep just FIVE days later! (It certainly wasn't the same unit I sent them as it was missing an obvious scratch I had added.)Now that's after-sales customer support you can't beat anywhere.  For this alone I have to give the unit an extra star. Had I dropped any other brand, I'd be looking mournfully at a pile of expensive junk, with no recourse.NB: The unit was replaced through the south-east Asia/Australasia/Sydney branch of Iomega, but I am assuming that this company philosophy translates elsewhere. As customers, I think we should support companies like this which do the right thing -- and more -- for consumers, instead of always being solely after the almighty buck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> post script to Disappointed </p>
+
+
+<h2> review.date </h2>
+  09-03-2001  
+<h2> review.text </h2>
+
+ <p> Iomega is a name I trust. I've had Zip drives since before there was dirt and have never had a minute's grief with any of them. Nevertheless I did debate about buying this item because I wasn't sure I needed it. Still, I'm a gadget geek, so I went ahead and ordered it. And what I found was that I probably didn't really need it, but I do kind of like it.I love the idea of swappable media. Unfortunately, the disks only hold about 40 minutes worth of music, which is okay, they're tiny. I can carry several days' worth of tunes in my pockets. I really wanted it for Audible content (audio books for those of you who aren't familiar with audible.com) and herein lies the biggest drawback of all: HipZip firmware only supports Audible formats 2 and 3. These are less compressed than format 1 and thus bigger. This is a problem for me for two reasons. First, if I want to buy anything that weighs in at over 40 megs (slightly less; each disk has some operating fribble on it) I can't write it to a disk. This would be any unabridged novel, and quite a few abridged ones.Second, and perhaps more annoying, Audible doesn't make all its content available in all formats. The bulk of what I've already downloaded is only available as format 1 files, which means I only listen to the content on my computer. I don't want to turn this into a rant against Audible or Iomega, but it seems to me that neither position is easily defensible, and the loser is anyone who thinks that the HipZip is going to allow them to go portable with the greater part of Audible's content.That said, I have to say that this is one of the best audio players I've ever used. The swapable media puts it way out ahead to begin with, but it's also easier to use than either my Rave or my Rio. It comes with a rechargeable battery (the conservationist in me loves this, the audio fanatic is annoyed at having to stop and recharge for 2 hours when it runs out) and light, secure headphones. The screen could be easier to read - it's a bit dark - but it's not bad. The package comes with two rewriteable disks, which gives you 80 megs of storage, and additional disks aren't horribly expensive. And the sound? Very good.All things considered, I'd say that if you like the idea of small, lightweight swappable media over expensive RAM upgrades, this is a great unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice item, a few drawbacks </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

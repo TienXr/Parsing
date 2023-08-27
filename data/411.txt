@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007I8ZGV0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-21-2012  
+<h2> review.text </h2>
+
+ <p> I have several of Kay de Silva's books in her "Our Amazing World Series" and have enjoyed learning new things about the various species.This book is filled with factoids about whales.  However, what makes this book are the captioned photos.  Most of the whales are shown up close and in detail.  I was intrigued by the picture showing Baleen whales as I never knew that some whales had comb like teeth.The book is set up to first tell some generic whale facts followed by photos and facts of individual whale species.  While I find the simple sentence structure a bit off and stilted, it would make it easier for a new reader to read on his own.It has a clickable Table of Contents.The format consists of a concept title, a photo and a small factoid paragraph.  The ratio between photo and sentence is about 4:1.I viewed this on a 17" screen using both the Kindle App for PC, the Cloud Viewer and an iPad with the following results:KINDLE FOR PC: the illustrations seem small for a children's book and cannot be enlarged (about 1/3 of a page). The concept title, photograph and factoid paragraph can be seen on one page.CLOUD READER: Even with the smallest font and the largest margin, I cannot get the title, photo and factoid paragraph on the same page. It usually took three pages per concept.iPAD: While reading the story the illustration fills about 1/4 of the page, however to see more all you need to do is tap the picture and it will enlarge to fill the entire screen.  When normal the title, photo and factoid paragraph are all on one page.I highly recommend this book.ETA: Add multiple format information. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Engaging Captioned Photos, Interesting Factoids.... </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> Whales: Amazing Pictures & Fun Facts on Animals in Nature is geared for the elementary age child. It has great pictures and facts that could be used in book reports. It's a quick and easy read that anyone would find interesting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Whales: Amazing Pictures & Fun Facts on Animals in Nature </p>
+
+
+<h2> review.date </h2>
+  03-11-2012  
+<h2> review.text </h2>
+
+ <p> This is easily the most beautiful book I have ever seen on Kindle.  The pictures are amazing.But more importantly it is written with children in mind. My 8 year old had no issues reading and understanding everything that was written (I would think a 6 year old with a good reading level could read this book or most of it) and my 4 year old loved the pictures.Both boys asked if they could get the one on snakes or sharks next - what is it with boys lol?  But at least they didn't ask for spiders -much as I love my boys that would be a book Dad would have to buy.Nice to see a quality book and at this price you would be mad to miss out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> perfect for 4 year old and 8 year old enjoyed it too </p>
+
+
+<h2> review.date </h2>
+  03-13-2012  
+<h2> review.text </h2>
+
+ <p> My niece loved this book, shes loves all  marine life and I loved the educational facts and information in the book. Accompanied by the lovely pictures, this books a real winner! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lovely Book, Great Photos </p>
+
+
+<h2> review.date </h2>
+  03-12-2012  
+<h2> review.text </h2>
+
+ <p> A beautifully illustrated and fun educational book that I thoroughly enjoyed sharing with my 4 and 6 year old daughters. They were both amazed by the photos, and it's a perfect accompaniment to out forthcoming trip to Brighton Sealife Centre. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gorgeous! </p>
+
+
+<h2> review.date </h2>
+  12-22-2013  
+<h2> review.text </h2>
+
+ <p> This book teaches kids about different types of whales and about their migration and how they breathe. My favorite part was the pictures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good information </p>
+
+
+<h2> review.date </h2>
+  03-24-2012  
+<h2> review.text </h2>
+
+ <p> I dont know what it is about Whales maybe that they are so huge and mostly so gentle.  I was very impressed with the photography and the writing.  Very Nice book.  I love having quality items like this to share with my children and grandchildren. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful Book </p>
+
+
+<h2> review.date </h2>
+  03-13-2012  
+<h2> review.text </h2>
+
+ <p> I really did love this little book, as did my 3 yr old. The pictures were amazingly sharp and beautiful. The descriptions of the whales where brief, written with children in mind. My only complaint was that it was too short, only 10 pages long. When we got to the end even my 3 yr old said, "Is that it?", which is exactly what I was thinking. I would have liked it better if it was a little longer, say 20 pages, at least, but other than that it was very enjoyable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing photographs </p>
+
+
+<h2> review.date </h2>
+  03-09-2012  
+<h2> review.text </h2>
+
+ <p> First off this is a beautifully illustrated book.  You can tell that the author loves whales.When my son came home with a 'Whale' project from school I was less than enthusiastic about buying him a book.  But I have no regrets with this one.What I also like is the fact that this book did not overwhelm him. He loved the pictures and the information about the Whales was in language that he could understand.  This is very important at his age, if he gets information overload from a book he will not go back to it.He has now read this one several times, and has been entertaining us at the dinner table with his new found knowldege, and some weird whale noises!A solid educational read and I will buy more in this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid Educational Read </p>
+
+
+<h2> review.date </h2>
+  03-14-2012  
+<h2> review.text </h2>
+
+ <p> This is a short, easy book for children to read or have read to them.  The text in the book is short enough to keep them interested and full of facts they will remember.  The pictures are beautiful and will keep them busy for hours!  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice book for children under 10 </p>
+
+
+<h2> review.date </h2>
+  07-27-2013  
+<h2> review.text </h2>
+
+ <p> It was a good book and I think you and your kids should certainly read it the pictures are good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Whales </p>
+
+
+<h2> review.date </h2>
+  12-31-2012  
+<h2> review.text </h2>
+
+ <p> This is a good factual book about whales. Anyone who linked whales  should read this book. Also if you wish to learn more about whales you should read this book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Whales </p>
+
+
+<h2> review.date </h2>
+  03-09-2012  
+<h2> review.text </h2>
+
+ <p> I was pleasantly surprised with this book. It's at the perfect reading level for my daughter and she loves whales. The pictures are gorgeous too.I read this book on my laptop using my Cloud reader so the pictures are in full color and really beautiful. Plus, I actually learned a thing or two. :)This is a great price for a really solid book that your kids will enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a great little book </p>
+
+
+<h2> review.date </h2>
+  03-19-2013  
+<h2> review.text </h2>
+
+ <p> I like whales they are so cool. I like. To look.at books. And. I. Love nature I. Like cats and dogs. Monkeys. Bears. And fish and I like the mountains. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What I. Like </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed the book and learned so much. Never realized that whales have hair on their bodies, or that the Bowhead whale can live over 200 years. So many interesting facts and beautiful pictures. Loved every page! I would give the book a 10, in my opinion, if I could. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Would rate it a 10 if I could! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00005KH32 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-25-2012  
+<h2> review.text </h2>
+
+ <p> I grew up on this movie, the first Sci-Fi movie I ever saw, this behind the scenes expose is informative for movie making before the dreaded 1-2 punch of CGI and Green Screen (remember Jar Jar Binkx?).  We should outlaw CGI. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great stuff. </p>
+
+
+<h2> review.date </h2>
+  07-04-2005  
+<h2> review.text </h2>
+
+ <p> This documentary covers the original Planet Of The Apes films and TV series' (including, briefly, the cartoon).  Extremely well done.  Hosted by Cornelius/Caesar/Galen himself, Roddy McDowell.  This documentary tells the complete story of the films, with loads of behind the scenes information, photos, and footage.  You also get to see some of the original makeup test used to sell Fox on the film (but not the ENTIRE test, as the packaging implies), as well as some promotional material, and an interview with McDowell.  The interview is a mixed-bag, as there is no microphone on the person CONDUCTING the interview, so you can bately hear the questions (if at all).  That minor grievance aside, this is a fantastic, 2-disc set, and I recommend this to any Planet Of The Apes fan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great documentary on the series.  Well done! </p>
+
+
+<h2> review.date </h2>
+  01-09-2013  
+<h2> review.text </h2>
+
+ <p> i like this dvd it like the ultimate bonus dvd set for the franchise and explains a lot about the filming of this great seires </p>
+
+
+<h2> review.summary </h2>
+
+ <p> apes work </p>
+
+
+<h2> review.date </h2>
+  06-14-2001  
+<h2> review.text </h2>
+
+ <p> A magnificent documentary that originally aired in AMC in 1998, that acomplishes being an interesting and complete retrospective on the whole &quot;Planet of the Apes&quot; phenomenon. An excellent opportunity to update your &quot;ape-knowledge&quot; just prior to the upcoming Tim Burton &quot;re-visit&quot; (not re-make as he has often underlined) to the Pierre Boulle world. This film is hosted by late Roddy McDowall and includes very interesting and exciting behind the scenes material, such as a first &quot;ape make-up&quot; test. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Priceless </p>
+
+
+<h2> review.date </h2>
+  05-28-2013  
+<h2> review.text </h2>
+
+ <p> This was a great  dvd i enjoyed all the behind the scenes information it was perfect for the price and the time it came in </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great DVD </p>
+
+
+<h2> review.date </h2>
+  09-02-2001  
+<h2> review.text </h2>
+
+ <p> About six months ago, I bought the &quot;Planet Of The Apes&quot; box-set with the herald &quot;sixth&quot; disc, &quot;Behind The Planet Of The Apes&quot;. So why did I also buy the new 2 Disc &quot;Behind&quot; version recently? Because it doesn't monkey around like the original &quot;Behind&quot; did! This version has the two-hour retrospective like the original, but so much more too! &quot;Apes&quot; N.A.T.O. presentation, more behind the scenes footage, extensive photo galleries, three totally different 1960's featurettes, the full complete E.G.Robinson screen test, and last but not least, an intimate rough-cut interview by Roddy McDowell himself, and it's over AN HOUR AND A HALF LONG! Along with brand new menus, totally different from the original disc, this is a must have for any Apes fan! I'm just goin' Ape with this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm Goin' Ape With This DVD! </p>
+
+
+<h2> review.date </h2>
+  08-21-2001  
+<h2> review.text </h2>
+
+ <p> I was pretty happy with the previous documentary only version of &quot;Behind the Planet of the Apes&quot; which came with the DVD Box set released a couple of years ago.  This updated version just blows if off the map!  So  many great added features and footage, as others have said a treasure trove of behind the scenes information. The interview with Roddy McDowall on disk 2 is fantastic. his insight into the film and television series are riveting. He does tend to ramble off topic from time to time but the places he wanders into are even more fascinating than where the interviewers intended! Great stuff. He is such a gentleman throughout it makes the loss of him even more keenly felt. When the topic gets to the possibility of his appearing in a sequel it really makes one wonder what he would have thought of Tim Burton's incarnation, I kind of think he would have liked it from his comments.  If you think you have this disc because you have the DVD box set, you are wrong.Stand up and  BUY THIS DISK LIKE APES! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So much better the second time around! </p>
+
+
+<h2> review.date </h2>
+  02-28-2014  
+<h2> review.text </h2>
+
+ <p> i love the doc but a lot of the &#34;extra&#34; stuff was stuff they kept repeating. if you like the planet of the apes then you'll want to see this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it's good but... </p>
+
+
+<h2> review.date </h2>
+  04-28-2009  
+<h2> review.text </h2>
+
+ <p> I may have enjoyed this documentary more than the movies themselves.  I'm glad I've seen the whole 5-part saga (what life would be complete otherwise), but in spite of the fact that I love the Ape vibe and paraphernelia, and the cool opening shots and music of the TV show that puts me in 1974 land again with Kung Fu - in spite of that, I don't think I could ever sit through one of those movies again.  Some of them are a real test of endurance at times.  This feature however has been my most enjoyable ape experience on dvd yet!  In a 2 hour plus program, it takes you through the storyline and history of the 5 movies AND the TV show with a recap of all the stories and some interesting background as to what the producers and writers were up to as they churned up another 'Apes' movie.  Interesting stuff for those who are more enthralled with the Planet of the Apes phenomenon as a nostalgia or an idea as opposed to those who actually can sit through the movies!  Anyway, those in either camp will enjoy it.  Ex-ape himself, Roddy McDowell, takes us on the journey.  Anyone who's ever waxed nostalgic on Planet of the Apes should find this very interesting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> History of Apes movies a parallel universe: a reflection of the late 60s, early 70s </p>
+
+
+<h2> review.date </h2>
+  09-15-2008  
+<h2> review.text </h2>
+
+ <p> This dvd was a very informative dvd on Behind The Making Of All The Ape Movies.. If u r a true fan of The Planet Of The Apes Movies, then I recommend u buying this dvd set.. I enjoy watching how they made the ape movies & seeing the actors talk up front about their roles they played.. A Must Buy.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A MUST BUY FOR A TRUE APE FAN.... </p>
+
+
+<h2> review.date </h2>
+  08-11-2013  
+<h2> review.text </h2>
+
+ <p> I was very interested to see how they pulled off such a great story with the tight budget available. And they really had a great time doing it! Love it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love behind the scenes stuff. </p>
+
+
+<h2> review.date </h2>
+  07-03-2008  
+<h2> review.text </h2>
+
+ <p> This is a great documentary that is boosted by the fact that it contains thoughtful commentary from Charlton Heston, Roddy McDowell and others.Many film documentaries are a let-down in that they only feature opinions from a few key players, but often not the main star or subject of the program itself.  This is definitely not the case here.The interviews are great, the rare and backstage footage is interesting and Roddy McDowell's genuine enthusiasm shines through in the narration.Definitely worth your money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great insight from the cast of each film! </p>
+
+
+<h2> review.date </h2>
+  09-02-2013  
+<h2> review.text </h2>
+
+ <p> Since I saw the original Planet of the Apes as a child, I always had a great fascination for this movie! It was very well made and I enjoyed it very much. If you were or are a Planet of the Apes fan, then I would highly recommend making this purchase!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great documentary </p>
+
+
+<h2> review.date </h2>
+  08-20-2001  
+<h2> review.text </h2>
+
+ <p> When the Planet of the Apes dvd box set came out I was going to buy it for A. the first film and B. the bonus disc, knowing full well the rest of the Ape movies were "uneven" (a nice way to say "unbearable"). But I didn't. I instead bought the first disc and passed on my desire to get the bonus disc, and after seeing the "trailers" for the other movies on the first disc I realized I made the right decision; Beneath through Battle were "subpar" (again, I'm being NICE!). Now I can rejoice, for I have the BONUS disc that was in the boxset PLUS an added disc full of passion. Make no mistake, the one and a half hour interview with Roddy Mcdowell ALONE is worth the price of admission... you will LEARN things. Though I don't agree with his opinion that ALL the films were good, I do agree, they made a valid statement. After seeing this you will gain a new appreciation for the ALL the films, regardless of budget, it is a shame that the same finesse used in the first film wasn't applied evenly to all of them... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sometimes waiting is best </p>
+
+
+<h2> review.date </h2>
+  08-18-2001  
+<h2> review.text </h2>
+
+ <p> Behind the Planet of the ApesPersonally, I find behind the scenes documentaries about how films were made to be one of the more desirable extras found on DVD's. This two disc release from Image Entertainment consists of only such a documentary (none of the "Apes" series is included) but it is a good one. The disc looks to cash in on the interest in the classic "Apes" series created by the release of Tim Burton's remake of the film that started it all.This release was first broadcast by American Movie Classics (AMC) and is hosted by the late Roddy McDowell who played "Cornelius". Included here is three plus hours of footage (in addition to the main documentary) that will be most welcome to fans of the series and a pleasant surprise to those like myself who are not that familiar with "Apes". All five films in the series are covered and trailers included for all. Also here is the 1967 North American Theatre Owners (NATO) presentation as well as a fascinating screen test featuring Charlton Heston and Edward G. Robinson, who was originally tapped to play Heston's ape nemesis, but later bowed out due to health concerns. However, only diehard fans will appreciate the uncut interview footage with MCDowell, especially since the questions he is asked are mostly inaudible.All in all, this will appeal to two groups of DVD fans-those that love the "Apes" series and those who love behind the scenes and "the making of" type documentaries. You may want to wait awhile as the price could come down after the buzz about Burton's remake wears off. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Behind the Scenes Stuff </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

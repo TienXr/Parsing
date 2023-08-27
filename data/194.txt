@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00005UO7F <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> This was only a portion of the movie, Also it was very hard to see.  I thought I was getting the whole movie and threw it away. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NONE FOR ME </p>
+
+
+<h2> review.date </h2>
+  02-18-2007  
+<h2> review.text </h2>
+
+ <p> I had no idea Billy Bob Thorton could play such a well-meaning and likeable character.  I've only known him in recent roles (such as Bad Santa) so it came to a complete shock to me that a movie THIS emotionally powerful from Billy Bob Thorton playing a main character could be so incredibly good.I give this movie the highest grade you can possibly give.  I really loved Billy Bob's performance.  This is a really good film because it helps you understand and appreciate people who are different.  There's an important message behind it, and the fact that you are guaranteed to remain interested in it from beginning to end makes Sling Blade all the better.  Really good performance and story.  A must see. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> really good </p>
+
+
+<h2> review.date </h2>
+  04-19-2013  
+<h2> review.text </h2>
+
+ <p> Good movie, my wife loves it, we got fooled on the first sling blade movie, but this one was accually the movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sling blade </p>
+
+
+<h2> review.date </h2>
+  09-02-2004  
+<h2> review.text </h2>
+
+ <p> this is a very good short film i really like'd it. all though its not as good as the sling blad film its'self but its still a good film no doubt. i have seen this film only once and do not own it myself. but i reckon i own it soon. to me billy bob thorton made karl childers come to life in both these films. we see a darker side to karl on the some folks call it a sling blade film. then we do on sling blade its'self- and billy bob sure did do a great job on these films- perfectly done.i hope to see someday hopefuly soon a slindblade part2. now that needs to be done to take up where sling blade left off. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great short film of karl(billy bob thorton) </p>
+
+
+<h2> review.date </h2>
+  01-15-2006  
+<h2> review.text </h2>
+
+ <p> Slow and long, the film ambles through a deep story about life and the rejection of people who are different, no matter how, no matter how much. Rejection creates evil and sooner or later a tragedy develops from that selfish attitude. The main character is the pure product of such rejection. A child who is banned from his own house and forced to live in a hole in a barn. One day he is ordered to throw in the trash a very small baby that is still covered with blood, his own brother. He will bury him in a shoe box because the trashcan sounded too gross to him and he wanted the baby to be buried properly, even if he was still alive. From there a dramatic catastrophe develops and he will spend wtenty-five years in a psychiatric hospital. When he is reformed and liberated he will come back to his village and everything will go perfectly wrong. Wrong because it will lead to a new tragedy, but perfect because the retarded person is going to give a lesson of humanity to everyone, and he will be sent back to the psychiatric hospital because he decided to be God almighty, the Father, and take justice in his own hands, which is not acceptable according to our own standards. There are some very good poignant pathetic moments in this long trip through the mindscape of a character that comes straight out of Steinbeck's novels.Dr Jacques COULARDEAU, Universit&eacute; Paris Dauphine, Universit&eacute; Paris I Panth&eacute;on Sorbonne </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pathetically Steinbeckian and yet luminous. </p>
+
+
+<h2> review.date </h2>
+  05-01-2002  
+<h2> review.text </h2>
+
+ <p> This independent short is essentially a b&w of the opening sequence of Sling Blade.  The late JT Walsh is here, and Molly Ringwold will be recognized as the reporter interviewing Billy Bob Thorton's Karl in this version.  Very good except for the price.  Director George Hickenlooper takes potshots at Thorton in the Bonus Features.  Recommended for people who really like Sling Blade, but again, they are selling it at full price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short but Expensive </p>
+
+
+<h2> review.date </h2>
+  06-09-2009  
+<h2> review.text </h2>
+
+ <p> This is the original seed that gave birth to the full movie, it's short, but great, you'll love it. I'm giving this movie five stars because it's different and interesting um'hmm. My friend told me to watch it and I said, "aight den." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great,.. but short. </p>
+
+
+<h2> review.date </h2>
+  11-14-2009  
+<h2> review.text </h2>
+
+ <p> Some Folks Call it a Sling Blade: 5 out of 10A curiosity piece for Sling Blade fans this short is the opening act of the original film done in black and white with Molly Ringwald as the reporter and a nebbish mental health director.Everything else is the same right down to J. T. Walsh's rape stories. The only real surprise is how quickly it is over. (25 brisk minutes) Unlike other viewers I really didn't notice a menacing nuance in this version. It really seemed almost note for note. One might rightly wonder why this short simply didn't appear as an extra on the Sling Blade proper disc. The included behind the scenes docs explain that pretty clearly.The first doc is of little interest except to see J.T. Walsh chain smoke and hear director George Hickenlooper expound on how he likes short films and how European it is to make one. The second doc proves all that art for art sake stuff a lie.Hickenlooper shows very lengthy clips from three of his features. The first Heart of Darkness a Filmmakers Apocalypse looked interesting. Even more interesting is how Hickenlooper got a directing credit even though Coppola's wife shot all the footage. The other two features The Killing Box and The Low Life look awful. The Killing Box is a vampire/civil war hybrid from which Hickenlooper removed the vampires and The Low Life seems like one of those self-conscious autobiographical films that comes out of Project Greenlight.The real treat is hearing Hickenlooper completely trash his former friend Billy Bob Thorton, basically describing him as an unstable maniac. Since Thorton went of to fame and fortune and Oscar gold. (Hickenlooper even attacks Billy Bob's eligibility to win an Oscar for best adapted screenplay) and Hickenlooper was not asked to direct one can only assume a little payback was in order during this "record straightening".Even funnier Hickenlooper accuses Thorton of trying to turn the short into an audition reel (Why else would you do a short?) while in the next breath explaining he was going to use it to shop a feature film. (Moreover, all of this in one of the most self-centered promotional docs I have ever seen. It is like a childhood film retrospective at a sweet sixteen party.) The whole mess is imminently skippable except for the morbidly curious. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some folks call it a 25 minute audition reel </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> Some Folks Call It a Sling Blade (George Hickenlooper, 1993)[originally posted 28Mar2001]Some Folks... is the short that inspired Billy Bob Thornton's overblown 1996 feature-length Oscar winner. Hickenlooper's seed is far less emotionally manipulative and has a much darker feel to it than Thornton's continuation.Thornton plays a mentally retarded murderer, getting ready to be released from an asylum after twenty-five years of incarceration. Molly Ringwald is a reporter, sent to the asylum to interview him for the local paper before he leaves. While there's a semblance of setup in the first half of the film (along with some wonderful scene-stealing monologue by J. T. Walsh as a fellow inmate), the real stuff is in the last half of the film, and it's a ten-minute monologue from Thornton about his character's motivation. Fine stuff from an actor who certainly deserves better than he's gotten in Hollywood since; the only role he's had that approaches the capabilities he shows here is in A Simple Plan, and even there he was taking a decided backseat to his co-stars.Hickenlooper keeps things dark and straightforward, not surprising given his background in documentary filmmaking. Excellent work (which makes one wonder what in the world he was thinking with his followup film, The Killing Box). Should be seen by anyone who liked Sling Blade, certainly. ****  </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brevity is the soul of Billy Bob Thornton. </p>
+
+
+<h2> review.date </h2>
+  02-13-2007  
+<h2> review.text </h2>
+
+ <p> This DVD was worth the price I paid (used), for it. Buy it used :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Insightful....a bit </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> This short-film was released in 1994,two years before the full-length motion picture. This basically is just the beginning of "Sling Blade". The film shows Karl telling his story to the interviewer of the newspaper,played by the beautiful,talented Molly Ringwald here. It's such a shame she didin't make it into the motion picture,because she really does a great job in this. This short was filmed in black and white,which in my opinion,gives it a really eerie kind of look and feel to it. Although you can see this entire film in the full length movie,I still think you should pick this dvd up. Especially if you're a big fan of "Sling Blade",as I am. The great performance by Ringwald,and seeing Billy Bob playing his Karl character for the first time,is very much worth the money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just a glimpse into a great movie... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

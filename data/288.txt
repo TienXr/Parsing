@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0077T5SLI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I love it </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> the actors are very good in accting that no body can do it and I love it at lot this great it is funny </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantasy Island </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I never missed an episode when this was on TV.  It is such a joy to be able to watch it all again.  I can't wait for Season 3-7 to be released! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantasy Island season 2 FINALLY </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Kudos to Shout Factory for finally getting season 2 released a full 7 years after Sony released season 1. For those Fantasy Island fans who have been waiting for years for this series to be released on DVD I would recommend that you email Shout Factory and let them know that you're interested in seasons 3-7 so that they will release them soon in the future. Otherwise we might have to wait another 7 years or longer to get season 3 released.As for season 2 itself, I'm only 6 episodes in and I am greatly enjoying them. Some episodes I remember from being first run in the 70's and some that I don't remember that are new to me. I think that one of the reasons why I like this show so much is because every week anything would be possible, the show had endless possibilities.As for the DVD's themselves I don't think that they have closed caption and I know that they don't have a "special features" menu. Just the shows themselves which is fine with me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great show with great lessons! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-28-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> As a kid I enjoyed watching Fantasy Island and seeing all the guest stars and interesting stories.  I think we all dreamed of going to Fantasy Island as kids and thinking how fun it would be.  Watching this show as an adult it is a new perspective on the important lessons the show tried to teach us. To be able to live out our grandest fantacies are no guarentee of happiness in life.  Sometimes we have more than we could dreamed up right in front of us, we need fresh eyes sometimes to appreicate what we have. The scenery is just as beautiful as I remembered!  I am looking forward to buying all the seasons as they are released. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ordered for my Mom! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the second season of this t.v. series I have ordered for my Mom.  It was a program she had really loved many years ago, and had wanted me to get it for her.  She now has all (3) season's that are currently available, and is still enjoying watching them today.  I'm glad to have made her happy.  Thanks! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> DVD Watcher </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-19-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am SO GLAD they FINALLY came out with season 2!!! Took them long enough! NOW if they can just come out with the rest of them. I would have rated it 5 stars, (actually 4 1/2) but I took it down because there are NO English Subtitles. My new TV does not have closed caption (I don't even know if this DVD has closed caption) because I don't have cable or satellite (I only watch DVD's), so having NO subtitles is a bit of a hindrance to me. The music and sound effects are loud, but I have a real tough time trying to hear what "Tattoo" is saying. This is a really enjoyable show. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> FINALLY, A SERIES WORTH WAITING FOR </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-08-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> WOW! AFTER A FOUR YEAR WAIT. I BOUGHT THE FIRST SEASON OF "FANTASY ISLAND IN 2008. I ABSOLUTELY CAN NOT BELIEVE THAT FINALLY ANOTHER SEASON OF "FANTASY ISLAND" IS GOING TO BE RELEASED. I HAVE BEEN SO READY TO GET ON WITH MY COLLECTION OF NOT ONLY "FANTASY ISLAND", BUT ALSO "THE LOVE BOAT". BOY, THIS WAS MY SATURDAY NIGHT DATE. ME, "THE LOVE BOAT" AND "FANTASY ISLAND". I WOULD HURRY UP AND FINISH COOKING DINNER, FIX MY CHILDREN THEIR PLATE. PREPARE MY PLATE, THEN SITUATE MYSELF IN FRONT OF THE TELEVISION. AND GO TO DREAM LAND FOR THE NEXT TWO HOURS. IT WAS SO MUCH FUN. BY THE TIME I DISCOVERED "FANTASY ISLAND" IT HAD ALREADY BEEN ON FOR AT LEAST 2 OR THREE SEASONS. BOY, MR ROARKE AND TATTOO WORE THE WHITEST SUITS I HAVE EVER SEEN ON ANYBODY IN MY LIFE. AND THE FANTASIES THAT GUESTS WOULD ASK FOR WOULD RANGE FROM BIZARRE AND STRANGE TO DOWNRIGHT DANGEROUS. MR ROARKE WOULD FROWN WHEN ONE OF THE GUESTS WOULD ASK FOR THEIR MONEY BACK OR TRY TO CANCEL THEIR FANTASY. HE WOULD EXPLAIN THAT ONCE THEIR FANTASY STARTED THEY COULD NEITHER GET THEIR MONEY BACK OR GET OUT OF GOING THROUGH THEIR FANTASY. THOUGH HE WOULD NEVER LITERALLY PUT ANY OF HIS GUESTS IN DANGER, HE WOULD WARN THEM ABOUT THE PERILS OF THEIR FANTASY BEFORE IT WOULD START. AFTER THAT THERE WAS NO TURNING BACK. ONE OF THE THINGS THAT I REALLY LIKED ABOUT "FANTASY ISLAND" AND "THE LOVE BOAT" WAS THAT EVERY ACTOR AND ACTRESS OUT THERE APPEARED ON THOSE TWO SHOWS. AND THEY HAD SOME FANTASTIC SCRIPTS. THEY WERE MY STAPLE FOR SATURDAY NIGHT. EVEN THOUGH THERE WAS ANOTHER ATTEMPT AT "THE LOVE BOAT" BACK IN THE LATE 1990'S AND LATER, "FANTASY ISLAND", OR WAS IT THE OTHER WAY AROUND, THEY DIDN'T WORK. I REALLY WISH THEY HAD. I GUESS A GREAT SHOW USUALLY ONLY COMES AROUND ONCE. NOW IF ONLY THEY WOULD KEEP THE RELEASES FLOWING AND RELEASE MORE SEASONS OF "THE LOVE BOAT" TOO. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> LOVE LOVE LOVE!!!  So GLAD I found YOU! :) </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Shipment came very quickly and oh, we are enjoying the show!!! :)  Thanks for shipping them so quickly!  I sure appreciated that because I found them in the last minutes and it came in plenty of time for me to gift my husband for Christmas :).  Thanks again!!!I am so glad I stumbled on these in the last minutes for Christmas Gifts.  So happy!  My husband and I LOVE these very much! :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> want more </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> plan on collecting the series. was a great show. better than the remake that came after it. i blame the writers for changing the formula. when something works, why fix it? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Enjoy watching these with closed caption </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Feel good shows </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked the TV shows.  It is a nice change from detectives, comedies, etc.  The host & side kick add a pleasant touch to the show.  A big plus of the shows is variety. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Guest Stars Always ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fantasy Island Season Two is fantastic. I always loved this show with the chance to see the guest stars. Particular favorites are the Fabulous Mamie Van Doren, Laraine Stephens, and George Maharis. Television at it's most entertaining. I have met Mamie Van Doren and she is very nice to her fans. I also appreciate her support for women's and gay rights. She is a living legend and one of the last stars from the golden age of Hollywood. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantasies Continued </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-25-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Mr. Roarke, the mysterious host of Fantasy Island, is less mysterious and more human in the second season, not that he doesn't have his secrets.  Like everyone, Roarke has his fantasies too, one of which is revealed in the "Return" fantasy.In Season Two, Mr. Roarke continues to display his deep understanding of human nature.  In the first episode, Tattoo has become despondent; no one takes him seriously; everyone just takes him for granted.  There is some great, heart-felt dialogue between these two.  At the end of the show, Roarke has a large crate brought out.  "It's for you from all of us ... You see, we realize that sometimes ... the ones we love the most ... are the first ones we most take for granted. . . ."If you have watched Season One, you are familiar with the usual scene of the guests stepping out of their seaplane, being presented with colorful leis and offered a tropical drink.  As the guests deplane, Roarke explains each of the guest's fantasies to Tattoo.  When the last guest has their drink, a beautiful woman provides Roark a drink so that he can welcome his guests with a toast; alas, poor Tattoo never receives a drink, that is until. . . .In the "Mr. Tattoo" fantasy, Roarke is surprised when Tattoo reveals that he has arranged to fulfill the fantasies of two beautiful women ( Barbi Benton & Connie Stevens) who desire to marry millionaires.  When Roarke receives his glass, a little girl brings Tattoo a glass, and then, Roark and Tattoo toast their guests together. . . .Speaking of beginnings, on disc 6 are two episodes where the guest arrive in a hot-air balloon; both episodes were Fantasy Island Sunday Specials.Picture (DVD): 3.5 to 4.5.  Unlike the DVD for Season One, there are no Subtitles, Languages nor Special Features. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Plane! The Plane! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-19-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I want to take a vacation on Fantasy Island! I'm so glad this DVD is available and I'd love to see the rest of the series come out on DVD. My goal is to have all the old shows on DVD so I never have to watch &#34;regular&#34; t.v. again! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I own them all! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Every dvd that has been released of Fantasy Island is in our collection.  Good, wholesome family entertainment!  Welcome addition to our video library. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brings back GREAT memories!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ahhh, yes...to be a kid on Saturday nights in the '70's and being able to watch The Love Boat and Fantasy Island back to back. What MORE can a kid ask for? ;) Seriously though, this show brings back great memories of happier times in my life, and seeing the wonderful Ricardo Montalban and Herve Villechaize again, not through a small 13" color TV with Rabbit Ear Antenna sitting atop, but in glorious remastered DVD is awesome! The show looks great on my Plasma Set upconverted through a Sony BDP-S350 Blu-Ray player. I think the picture quality is about as good as you can get this side of a true Blu-Ray release, which would only be marginally better given the source material. Highly Recommended!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> classic tv </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> the plane boss the plane!!!!!! my dear guests welcome to fantasy island smiles everyone smiles!!!!!! great tv show when it was on they don't make'em like that anymore!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantasy Island </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> A must for Fantasy Island fans. Season 2 better than 1. It's good to see all the different actors who appeared on the episodes at that time again. Plus Mr Roarke and Tatoo bring it all together with their antics in each eposide. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantasy Island </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A nice revisit to the 80's.  Love the various episodes.  On Fantasy Island, anything can happen; but, in the end, everyone appreciates the life  they have. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> dvd </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am so happy that I have fantasy island I have the first  season now I have this I always like fantasy island. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another 1980s Must Have </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a great way to spend time with your wife before bed. This was a 1980s classic we both grew up on and enjoy watching it and reminiscing about our youth. If you are a big Ricardo Montalban fan then this is the show to get. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Must-have for fans of 70s TV </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Well, it only took seven years, but thanks to SHOUT Factory we have the complete second season in pristine quality with uncut prints, a veritable who's who of guest stars and very clever menu designs.Congratulations to SHOUT for bringing us the second season of this very popular series. We salute you and eagerly await further seasons from you! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HURRY...5 SEASONS LEFT... </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> At last after years and years of waiting we get the 2nd season BUT there are 5 more to go so HURRY UP WITH THE RELEASES OF THE REMAININING SEASONS... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

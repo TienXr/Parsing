@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1601629761 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-20-2013  
+<h2> review.text </h2>
+
+ <p> This was overall a good book. It had some great elements of  suspense. While I did enjoy the book I felt that the women in this book were very weak. I was also disappointed with William's naivety and lack of back bone. The insight into politics was great. The story kept me plugged in the entire time. As a Christian fiction novel it had strong Christian truth's without being preachy. I would have liked to see more of that sister-in-law,Janice. She seemed to be the only voice of truth and reason in the book. Over all a good read. I will read other works from his author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Bad </p>
+
+
+<h2> review.date </h2>
+  06-03-2013  
+<h2> review.text </h2>
+
+ <p> The book was too long.  It would have been a decent read had it not drug on, and on, ad nauseam.  With 124 chapters (some having only 1 or 2 pages per chapter, UGH) it became just plain boring and redundant.  This story about tragic events that happened to Nikki and William Broussard that threatened to unravel their idyllic life.  As these events occurred, their prayer life suffered as well as their faith and trust in God to handle any situation.  My take away message was Prov. 3:5-6 Trust in the LORD with all your heart, And lean not to your own understanding; In all your ways acknowledge Him, and He will direct your paths. But, it was almost lost with this long drawn out story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Scandalous Truth.... </p>
+
+
+<h2> review.date </h2>
+  01-12-2009  
+<h2> review.text </h2>
+
+ <p> Overall - this is a good, solid read!Nikki has to come to grips with her own decisions & the consequences of her choices. From the beginning, she has to learn to be honest with herself first! She is her biggest obstacle and must face reality.This book deals with jealousy, lies, betrayal, trust, hurt, shame, politics, and scheming. All the ingredients for a page turning book.Monica does a great job of establishing her characters in this book, there weren't any questions left unanswered (none I could think of).Also, there is suspense and murder involved!Though the plot thickens, Nikki's husband doesn't change much; although I thought he would, running for the public's political office. As the story unfolds, you'll learn of the twist in the end - IT'S WORTH THE WAIT!!Pay close attention to the relationships established throughout this work (Troy, Nikki's friend & Sheila); note* it's not always what it seems* My opinion of Nikki's friend changed in the end - yours will too!!WHAT A WOMAN WILL DO FOR THE LIFE OF HER CHILD!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> All Good Things Come To An End!! </p>
+
+
+<h2> review.date </h2>
+  05-07-2009  
+<h2> review.text </h2>
+
+ <p> Wives usually try to do whatever it takes to make their husbands happy. While husbands tend to do the same, there are times when a man wants to prove he is the provider for his family. In doing so he tends to squash his wife's dreams with his belief that her place is in the house, taking care of the home and their child. Scandalous Truth by Monica P. Carter brings to light just how far a wife will go to make sure her husband is happy.Nikki Broussard wants to be the best wife, mother, and friend she could ever be. Anything her husband, William, or her best friend, Danielle, tells her to do, Nikki has no problem obliging. When an opportunity presents itself for William to fulfill one of his life's goals, she encourages him to go for it. Deciding his wife is right, William begins the process, but not without some information coming to light. How much will Nikki and William have to call on the Lord in their trying time? Will they make it or is there just too much scandal for them to handle?The characters and the plot are well developed. I truly enjoyed the suspense aspect of the story. It started off a little slow for me, but once all the drama began I could not get enough of these characters. My emotions were so high, that at one point I could not stop the tears. I recommend Scandalous Truth to the reader who wants more than just a Christian fiction book. Readers of suspense will equally appreciate this novel.Jennifer CoissiereAPOOO BookClub </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Suspenseful </p>
+
+
+<h2> review.date </h2>
+  11-09-2011  
+<h2> review.text </h2>
+
+ <p> Nikki Broussard was a woman that was not always saved, but she is now.  People need to realize that everyone has a past.  Nikki was happily married to William and they had a little girl.  William was a man who thought that he should provide for his family, because his single mom worked hard to take care of him and his brother.  William was a God fearing man.  Nikki did want most mothers would have done.  Excellent book...... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> With God All Things Are Possible </p>
+
+
+<h2> review.date </h2>
+  04-03-2009  
+<h2> review.text </h2>
+
+ <p> Scandalous Truth demonstrates beautifully how each of us has a past that often we would like to forget.  In wanting to put that behind us, we try to keep it a secret.  This "secret" is something we would like to take to our graves - not even telling those closest to us.  Is it a lie when we do this? If we've been forgiven by God and have turned our lives over to Him, and He has changed us, is it necessary to tell others and become transparent?  Or is it our business?  All of these questions are answered in this story.  It is extremely thought provoking.The characters in this story are well developed with no question left unanswered.  The center of this story is Nikki, her husband - William and their daughter.  William wants to be the provider for his family and has a vision of where and how he will do this.  Nikki is a "baby" Christian wanting to do all the right things.  But, when trouble surfaces, which road will they choose God or self?  Each has their own definition of "faith" and act accordingly. What is your definition of faith?Both have people in their lives who "appear" to be a friend.  But, what "secrets" are they hiding and are they true friends.This novel does not disappoint.  I was amazed at how quickly I became engaged not wanting to put the book down.  It has all the ingredients, i.e., drama, suspense, murder, politics, Christianity, "home-girl" ethics and etc. for an exciting story.The only disappointment (come on nothing is perfect) for me is that the story is believable.  Just goes to show how much we Need Jesus! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow!  Do You Really Know A Person? Define Faith... </p>
+
+
+<h2> review.date </h2>
+  07-15-2009  
+<h2> review.text </h2>
+
+ <p> Monica Carter-Tagore's books are always of award winning caliber. Starting back with her first book As If Nothing Happened, I was hooked on her circular style of writing. It's always seamless. The clues are dropped perfectly throughout the story and her style is never rushed. This story is no exception. As you read along you know what is due to occur as it is part of the synopsis, however, you are always left with your mouth agape at how things turn out. Great message and Good strong Christian Fiction writing Monica... again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Award Winning Quality </p>
+
+
+<h2> review.date </h2>
+  11-20-2010  
+<h2> review.text </h2>
+
+ <p> This book had me on the edge of my seat.  At first, I could not stand Danielle, but by the end of the book, my heart went out to her.  At times, I wanted to smack some sense into Nikki and Will and I could not stand Olivia.  This was a very good read that gave the reader valuable lessons.  I highly recommend this book.  You will not be disappointed! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EXCELLENT </p>
+
+
+<h2> review.date </h2>
+  02-22-2009  
+<h2> review.text </h2>
+
+ <p> Monica you did a great job putting this one together.  The events were very vivid in my mind as I turned each page.  I was right there in the book walking every step of the way with Nikki. This story goes back to what the old folks say, "what's done in the dark will one day come to the light".  If you got skeletons in your closet, people will find them.  Nikki finds herself the talk of the town and nearly destroying her marriage to Will because she didn't have faith in God.  Typical everyday people get in a hurry and can't wait on God and his blessings. Nikki's faith in God is restored as it should be.  Mrs. Carter,  Congratulations to a job well done.  Savvy Book Club, Jackson, MS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Haunted Past </p>
+
+
+<h2> review.date </h2>
+  04-27-2009  
+<h2> review.text </h2>
+
+ <p> Nikki and William Broussard met while in college.  Nikki never thought she was a beautiful girl, but William immediately fell in love with her.  They married after college and lived in New Orleans with their daughter, Psalm.  William ran a successful computer business, while Nikki stayed home and raised their daughter.  After Hurricane Katrina, the family moved to Shreveport where William rebuilt his computer business.  As a hardworking family man, William didn't want Nikki working outside the home; Nikki wanted to work, but to show how much she loved her husband she kept that thought hidden inside.Nikki has secrets from her past that she's never revealed to anyone, not even William.  She's saved now and tries to lead a Christian life, but when her peaceful world starts to unravel, her faith is tested and she must decide to let God be in control or take control herself.  William is nominated to run for mayor after his pastor and mentor is murdered and every aspect of their lives is being probed.  Will Nikki's past transgressions harm William's political career and their marriage?SCANDALOUS TRUTH touches on several topics: politics, betrayal, lust, friendship, deceit, forgiveness, faith, and love.  It also is filled with suspense and murder.  The characters are powerful and the book is thought-provoking without being preachy.  The book kept me engrossed from its beginning to its shocking end.  This is the first book I've read by this author and I look forward to reading more.Reviewed by Sharon Lewisof The RAWSISTAZ(tm) Reviewers </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Past Transgressions </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0009GI7NC <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great power conditioner </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Much better than MonsterPower that it is replacing.  Seems very well made and takes up a smaller footprint.  Well worth the money. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazingly clear </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought two of these for two sets of QSC high powered loudspeakers with three speakers on each side.  I've always has a static hiss when there was no volume, but now my speakers are dead silent when the volume is turned down.  No sound at all, no hum, no hiss, nothing.  The only way I can tell the speakers are on is by the blue LED on the front of the speakers, otherwise if I turn the LED off I doubt anyone would know the speakers were on.  I read other reviews where some people still had noise and others didn't.  I just guess it depends on your setup.  I only have the speakers plugged in each surge protector, nothing else.  The sources are plugged into a separate power back up / circuit protector, so that might help.  The construction on these are top notch, the unit is heavy and everything feels like quality materials.  The switch is recessed so you don't accidentally bump it and has nice solid click when you turn it on or off. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Value and Quality for AV Surge Protection, Noise Reduction, Power Conditioning </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This review is for the "Furman PST-8 and PST-8D"OVERVIEW:-----------This is a quality/value sweet spot for AV (Audio-Visual - TV's etc) SURGE PROTECTION, NOISE FILTRATION, and POWER CONDITIONING (Note: not voltage regulation) in the power strip form factor.  This is superb quality from a highly respected name in audio/music equipment .. and you'll pay a bit of a premium for it.The PST-8 and PST-8D are the entry point for a higher class of surge protection that also gives you other A/V-centric benefits (and some negatives) I'll cover below.The main DIFFERENCE BETWEEN the PST-8 and PST-8D is that the PST-8D breaks up the 8 outlets into 2 separate isolated banks of 4 outlets, much like the well-reviewed Tripp Lite HT10DBS and Isobars have isolated filter banks.Note: If money is no issue, may I suggest also looking at SurgeX products for just surge protection or the Furman Elite-20 PF i for surge protection and AV benefits as good money-is-no-object starting points.  Alright, back to a quality/value sweet spot for premium surge protectors with other AV benefits in the power strip form factor.Tripp Lite HT10DBS vs. Furman PST-8/PST-8D:--------------------------------------------Before getting into the pros/cons of the Furmans, I suggest if you are looking at them to also look at the well-reviewed Tripp Lite HT10DBS, perhaps the closest AV premium surge protector cousin in this form factor.  It is a premium offering with technical quality and value, is less expensive, the company takes surge protection seriously, and it may meet all your needs.For a step up in expense for surge protection in the power strip form factor, with the PST-8 or PST-8D you can get an incremental increase in quality of surge protection with some additional AV-friendly benefits covered in the Pros below.  Whether the additional expense for the Furman is overkill for your needs or a no-brainer is clearly dependent on your needs and budget.PROS:------SURGE PROTECTION:(1)  UL1449 3RD EDITION TESTED (see below for details) with 188V PEAK CLAMPING VOLTAGE (which is 133V RMS) which is superb.  This test is the UL gold standard for surge protection.  I would have gladly settled for 330V "let-through" clamping voltage, however, 188V max better protects equipment from both the killer surges and the little transient ones that can shorten the life of your equipment.(2)  EXTREME VOLTAGE SHUTDOWN (EVS).  At 137V over voltage (think defective neutral line) and at 90V under voltage (think brownouts) it will cut the equipment off completely (using a power relay), returning power when the under/over voltage event is over.  This protects its own MOVs and the protected equipment from over-voltage events that are prolonged enough to overwhelm the defenses of most equipment.(3)  NON-SACRIFICIAL.  This isn't designed to be a disposable "sacrificial" unit.  This is designed to be highly survivable in addition to doing its job of protecting your equipment.  How non-sacrificial it is compared to other truly premium surge protectors like the ISOBARs, HT10DBS, etc. depends on who you talk to.  It has a circuit breaker.(4)  JOULES RATING TO INFINITY AND BEYOND.  Furman claims Joule ratings don't apply to this surge protector because no amount of electrical energy pulse within reason, short of perhaps a direct lightning strike for example, will defeat the unit and head on through to your equipment.  Given Furman's reputation in the audio/music business and the kind of equipment they are expected to protect, I choose to believe their claim.PERFORMANCE:(5)  EMI/RFI FILTERING (attenuation of transverse mode noise) is up to 80dB (frequency dependent), which is excellent.  Furman is one of the only companies that makes premium surge protectors that promotes their EMI/RFI noise attenuation vs. frequency curve (spectral distribution of noise) as a sales tool, which is very impressive .. and very Furmany of them.  I've tried to find alternative sources of that data from the other premium surge protector companies including asking their engineering departments without success.  Here are some example data points in the spectral distribution of noise below, I am working with Furman to get some numbers in the human hearing range which I will add at a later date.- 150kHZ to 100MHz  up to -40dB noise attenuation- 100MHz to 1GHz  up to -80dB.My wild estimate based on their linear curve claims:- 10MHZ  est. -60dB noise attenuation-  1MHZ  est. -50dB  "  "The value of the PST-8/PST-8D's selling of the above mentioned curve is you can easily have a device declaring a higher maximum dB noise reduction but that is only one point on the spectral distribution of noise curve and the noise reduction overall might be poorer elsewhere.I should note that even if EMI/RFI noise attenuation helps you, at some point you are hitting serious diminishing returns and it becomes marketing.Furman claims their LiFT (Linear Filter Technology) is also superior to many other products' noise reduction in that it reduces noise EVENLY across such a BROAD RANGE OF FREQUENCIES in a LINEAR manner, that is increasing noise attenuation (dB) as we move towards higher frequencies in a linear-ish manner.  They infer that AUDIO can be greatly enhanced by this type of reduction in AC line contamination and noise, and that VIDEO can be improved in "SHEEN, BRILLIANCE, BLACK LEVEL, and BLACK TO GRAY DEFINITION".  You be the judge now that you know what they think could improve.I should mention that whether power conditioning improves VIDEO at all is hotly debated.  Some folks say they see a video improvement ranging from a little to a lot, many more folks say their AUDIO improved significantly.  There are likely to be big environmental variables to all this .. what your power is like, what equipment you have, etc.(6)  ISOLATED OUTLET BANKS (PST-8D but not the PST-8).  Some equipment send more noise than others back down their AC cords.  The isolated outlet banks eliminate interference between equipment in these banks.  The PST-8D has 2 groups of 4 outlets each which are isolated from each other.  For example, you might isolate equipment with motors like DVRs and DVD players, and certainly analog equipment, amps or speakers, from noise sensitive equipment like TVs.  See below regarding related silk-screen error.(7)  "ZERO" GROUND CONTAMINATION.  Ordinarily if the clamping devices or AC filters in surge protectors have any leakage to ground, AC line noise can find its way through the circuit panel and back to the ground of your A/V or computer components.  Furman claims it cannot have any leakage to ground, period.  I have made no attempt to validate the claim nor understand whether this is a concern for most environments.(8)  COAXIAL (Cable) SUPER LOW 0.1dB INSERTION LOSS, which is superb.  The benefits of surge protection with minimal signal loss.GENERAL:(9)  Furman has a 30+ year strong technical reputation, especially in the professional and prosumer music, audio, and broadcast industries.  So these guys know AC Conditioning and Surge Protection, it is only a question of whether they bring it to the PST-8 and PST-8D and I think they do.(10)  I found Furman highly responsive to technical questions about their product, more so than any other company selling surge protectors.  I found them able to discuss meaningful detail, not just read marketing fluff.  I was impressed.CONS:------(1)  No ground fault or outlet wiring error alert light, the "protected" light doesn't help with this.  You might want to test the outlet with another surge protector that has one or buy a cheap little receptacle tester.(2)  There is no RJ-45 Ethernet surge protection on these.  One can always get a SEPARATE Ethernet (RJ-45) surge protector (preferably one that can handle 1 GIGABIT ETHERNET since it is so common now).  With all the smart TVs, wired Roku like devices for quality, dual purpose for computers, etc., there really should be one at this price range.(3)  The Product Warranty and Connected Equipment Warranty is only 3 years.  If you don't register your warranty within 15 days it goes down to 1 YEAR, the latter obviously not a customer friendly Warranty stance compared to some of their competition.(4)  The phone line surge protector protects only the 2 skinny lines that serve the one house line (which is by far the most common home set-up).  For example, if you paid for 2 house lines this product will only surge protect the skinny lines supporting 1 of the 2 house lines.(5)  The flat wall plug is not secure for internally wobbly wall sockets causing connect/disconnect with very little movement.  Of course, that probably means you should replace your wall outlet more than anything.  By comparison the HT10DBS plug is rock solid in the same wobbly outlet.  For stable wall sockets there is no issue.  Outlet physical instability is in-wall so you'll need to test to know if this is an issue.NOTES:-------(1)  There is a SILK SCREEN ERROR that incorrectly shows only 2 outlets isolated from two other outlets.  Furman engineering tells me it is actually the first 4 outlets isolated from the next 4.  Furman customer support says they passed back this error (2/2013), please comment if you see it fixed.There is also an issue with ILLOGICAL NAMING of the outlet groups that has led to some confusion out there.  The silk screen naming suggests there is a functional difference between the 2 isolated groups of outlets, Furman engineering confirmed they are the same.They moved manufacturing to China so it might be some time before any fix makes it through to a unit.(2)  Several words are missing first letters on the packaging showing more lack of attention to detail.  Not sure if this tells us much about the product quality, but there it is.(3)  There is no Ethernet line (RJ45) surge protection.  If they ever add it I suggest it work with modern gigabit Ethernet, many surge protectors haven't upgraded for that.(4)  The EMI/RFI noise attenuation is for all AC outlets, not the coaxial cable nor tel/fax line so as not to impair their signals.(5)  If the outlet isn't grounded, surge protection won't work (however you would get the outlet EMI/RFI noise reduction).(6)  This is 19.75" x 3.5" in case the size is an issue.  It is heavy and feels very substantial, a full 5" longer than even the big Tripp Lite HT10DBS.  It still should be able to hide behind most A/V cabinets I would assume.(7)  If money is no object, the NEXT SIGNIFICANT TECHNICAL STEP UP is the FURMAN ELITE-20 PF i 13-Outlet Ultra Linear AC Power Source (NOT the Elite-15).Furman Elite-20 PF i 13-Outlet Ultra Linear AC Power SourceUL1449 3rd EDITION - WHY DEMAND IT ATTHE MINIMUM FOR YOUR SURGE PROTECTOR:-------------------------------------------Okay, so you read somewhere that you want a UL1449 verified/tested product and preferably a 330V max let-through clamping voltage, &lt;1 nanosecond response time, etc., but what added value does UL1449 3RD EDITION give us?UL1449 3rd Edition became effective 09/2009.  Any surge protection device (SPD) made after that must meet the new tests to be UL1449 verified.  Why choose a product that meets the new edition of the certification (much less meets any old UL1449 cert.) if you are serious about protecting your equipment?  Here are two reasons:(1)  It added a STRESS TEST for Type 3 SPDs like this called the Duty Cycle Test.  They electrically whack it 15x to see if they can ruin its ability to protect, cause a fire, etc.(2)  The UL1449 3rd Edition tests with 6x MORE SURGE AMPERAGE than the 2nd Edition test did.WARNINGS/SUGGESTIONS:-------------------------- Plug this directly into wall socket, DON'T DAISY CHAIN extension cords.- If socket is ungrounded, surge protection won't work, be sure warning light shows socket has ground.  At least you'll get EMI/RFI noise reduction for the outlets, but without ground you've got an extension cord not a surge protector.- If you are serious about surge protection from nearby lightning strikes or power line events, be sure to get WHOLE HOUSE SURGE PROTECTION in addition to these kinds of surge protection units (unit and installation can be as little as $200ish plus permit cost).  Note: Be sure your whole house surge protector has status indicators, otherwise it can become useless and you may never know.- Under UL 1449 3rd Edition, these kinds of surge protectors are Type 3, which are partly defined as being 30'+ from circuit breaker box.  This is why you will see references to premium surge protectors being 30ft. from a circuit breaker box.SOME OTHER UL1449 3rd EDITIONSURGE PROTECTORS:---------------------------------- AV-FOCUSED ISOBAR SURGE PROTECTOR:Tripp Lite HT10DBS Home Theater Isobar Surge Protector 10 Outlet RJ11 RJ45 Coax- ISOBAR:Tripp Lite ISOBAR8ULTRA Isobar Surge Protector Metal 8 Outlet 12 feet Cord 3840 JoulesTripp Lite ISOBAR6 Isobar Surge Protector Metal 6 Outlet 6 feet Cord 3330 JoulesTripp Lite ISOBAR4ULTRA Isobar Surge Protector Metal 4 Outlet 6 feet Cord 3330 JoulesTripplite Isoblock 2-0 By Tripplite- ISOTEL:Tripp Lite ISOTEL8ULTRA 8-Outlet ISOTEL Surge Protector (3840 Joules, Tel/DSL)Tripp Lite ISOTEL6ULTRA Isobar Surge Protector Metal RJ11 6 Outlet 6-Feet Cord 3330 Joules- AVBAR:Tripp Lite AVBAR10 Isobar Audio Video Surge Protector 10 Outlet Tel/Coax 8 feet CordTRIPP LITE AVBAR8 Isobar Metal RJ11 RJ45 Coax 8 Outlet 8-Feet Cord A/V Surge ProtectorIf you are wondering, Monster doesn't publish anywhere if they are UL1449 3rd Edition verified nor do they publish their noise reduction/attenuation values, neither online nor on-box.  I confirmed this status with them.  They are presently internally debating whether to do so someday.INTERESTING FORUMS:----------------------avsforumhometheaterforumecousticsSOME RELATED PRODUCTSOTHER UL LISTINGS:-------------------------UL497A/UL1459 - Relates to Telco (ex: RJ11 protection in our case)UL 991 - Tests for safety-related controls using solid state devicesUL 1283 - EMI Filtering for these kinds of unitsUL 1363 - "Relocatable power taps" (think extension cords) with or without EMI filtering or surge protection </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> solid product, poor documentation </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a heavy-duty surge protector with some noise filtering.  (Don't confuse it with a "line conditioner" or "voltage regulator" -- it does neither.)  I'm not sure it's worth the price, but it's very solidly constructed, and it did improve the cable picture clarity on my 1080p LG plasma TV.  The cord is about 8ft long and very thick, but surprisingly flexible.2-prong plugs slide in and out of the outlets easily -- secure them if mounting vertically -- and I wish more of the outlets were spaced for AC adapters, but it's the documentation that lost this item a star.  The labels on the device itself are confusing.  The outlets are marked off into 3 groups:  2 for digital video, 2 more filtered outlets (same as the first?  partitioned?  delayed??), and 4 which appear to be unfiltered.  The manual refers to 3 types of outlets, but doesn't say what's what or how best to use them, other than suggesting you plug the TV into a "digital-video filtered" outlet.Connected devices:  1080p plasma TV, analog coax cable, digital cable tuner, digital media player, PS3, Wii, network switch, digital to analog audio converter, analog speakers </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good product, solves the problem </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-31-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Our rural area has crummy and unreliable power delivery.  My guitar amp would sometimes go up and down in volume on its own.  This power &#34;conditioner&#34; seems to clean things up well and make my amp sound even better. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Built Like a Tank </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a heavy duty strip and a bit larger than it seems. Set up was simple and it instantly cured an annoying &#34;pop&#34; I would hear in my audio system whenever I turned off a room light. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> We had a power outage and the furman shut our DVD-R and TV down to keep it from being damage. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For 60Hz only! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Let me first state, that I did not use this product.This item gets 2 stars for not having important specification info listed on it's packaging, or the product page.Nowhere on Amazon's product page did it mention that it supports only a 60Hz frequency. The same for the item's packaging.Upon opening the item's packaging, I decided give the little manual a read before hooking it up. That's where, sadly, I encountered the &#34;60Hz Only&#34; warning. I require 50Hz. 50/60Hz support would be great.The made contact with the manufacturers. They recommended a Panamax product. The M8-AV-PRO  (http://www.amazon.com/gp/product/B0030TWBPU/ref=ox_sc_sfl_title_3?ie=UTF8&psc;=1&smid;=A1WPPYAY0VZJP5).Based on reviews, the PST 8D seems to be a good product.I've decided to give TRIPP Lite a shot. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Budget Audiophile Review for Sound </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Summary:------------Sound: For anything that uses a wall-wart power supply, this gives a significant improvement in sound/video. Noticeably lower noise, lower sibilance, adds soundstage width and depth, better separation, better low bass. But this also reduces dynamics and speed pretty noticeably for some components. Makes every component audibly different though. Frustrating inconsistencies. Generally recommended, but may not improve all components, and may make some sound worse. DAC and Turntable improved, Amp was worse off and CD player was mixed depending on music. I have about 50 hours burn-in so far on it (not sure if conditioners need it but if it has solid state components then it should benefit from burn-in).Video: Generally better depth in color and deeper blacks. I am not focused on video.EQUIPMENT/LOCATION:--------------------------------Audio: Marantz NA7004 Network Music Player, Marantz CD5400 CD Player, Project Debut Carbon Turntable with Ortofon 2M Red, Harman Kardon HK3490 Integrated Amp, JBL L890 speakersVideo: Samsung 71in DLP TV, Sony PS/3, Non DVR Cable Box from TimeWarnerCableI am located in the L.A. metro area and live in an Apartment so power quality is expected to be bad.DETAILED REVIEW:-------------------------I never believed Power supply could affect sound so much till date. But I can hear a SIGNIFICANT DIFFERENCE. So clearly it does and this is not Snake Oil. Unfortunately, it is not universally better either. Read on..Project Debut Carbon TT: This TT has a wall-wart supply which apparently is not that great. Because the sound improved across the board for every record from Jazz to Classical to Pop with the Furman. Just lower noise, lower sibilance and the music came across clearer and with more depth. It was less fatiguing. The change in depth was not very pronounced, but clearly and uniformly an improvement. Vocals sounded just cleaner and instruments had more presence. Bass was also somewhat better. The character of sound remained unchanged but became cleaner. A clear winner and for this reason alone I would keep it. RECOMMENDED!Marantz NA7004: As expected, DAC and digital components are more sensitive to line noise. So the biggest improvement in sound was in the sound of the DAC. Reduced noise, better bass, general improvement in sound. Some change in character with midrange focus, a small drop in upper midrange detail. But clearly lower noise, more presence and more engaging. No noticeable loss of dynamics. I have to say though, that this DAC by itself is not the most resolving, so perhaps not as good in showing any weakness. If you have a similar DAC, it is a winner again. RECOMMENDED!HK3490 Amp: In general an Amp is not expected to benefit from a Conditioner, and this was apparent. The amp lost dynamics and the sound became constrained. There was lower noise for sure, but overall the loss in dynamics and twisting of the response was undesirable. It seemed to hold the amp back. Midrange was unduly enhanced, bass was improved, but upper midrange was harsh, overall the fluidity was missing. NOT RECOMMENDED! to plug your similar Amp in.CD5400 CD Player: This little Marantz beats DACs 4 times its Price usually. This 8 yr old soldier is a phenomenal sounding component by itself. But it produced mixed results with the Furman. Clear improvement in soundstage depth and width. Black black background.. almost like all noise disappeared. Lower sibilance. Every instrument came through cleaner and a couple of times I could picture the singer or musician in the room. High end extension was better, bass was better.. BUT, and this is an important but.. it lost dynamics and speed on most music. Almost like the music slowed down/held back. And totally dependent on music, some music sounded clearly better, some clearly worse.E.g. U2's With or Without you was just beautiful, with full bass, presence, noiseless background. But the Titanic soundtrack with the violins/bagpipes lost its presence as did Reggae music. Buddha Bar sounded better but Green Day sounded lacking. Some songs by the Black Eyed Peas benefited but some were distinctly constrained. Audiophile recordings fared generally better but sometimes worse. What can one do with this?! In summary, it seemed to have some interplay with the PS of the CDP and so produced mixed results. I am at a point where I plug in the CD into the Furman or the Wall depending on what CD I want to play. MAYBE RECOMMENDED!VERDICT:-------------This PS proves that power matters a lot and I would generally recommend it, but please note that it will have an interaction with the PS of certain components. It will not universally make them sound better, sometimes it will make them sound worse. But always different. Specifically if the PS is designed as part of the component then the Furman seems to throw that arrangement off somewhat. If the PS design is non specific (aka a wall-wart designed to just supply the best DC it can) then the improvement is uniform and pleasant. Also no use plugging an Amp in. Source components are where it helps. These are my observations. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works fine, no problems, would buy again </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought this because of reviews and Furman name and reputation. I don't know anything about the engineering behind it but it works, no problems, no buzzing, nothing weird. Would buy again if I had to. Owned six months. I have a Tripp Lite HT10DBS in another room and it works fine also. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Clean energy </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I noticed some audio noise with my speakers. It was both a hum and a light hiss depending on the multi-channel mode it's set on. The hiss would remain even if nothing is playing. The Furman took out the hiss but the hum remains. I unplugged the coaxial cable from my DVR and the hum went away. From this I'm guessing I need a cable ground loop isolator too.Update:The cable isolator did remove the ground loop interference.  I placed the isolator between the PST and my cable splitter (DVR and modem). If you have cable and get audio interference I would check the coaxial first.  The isolator is much cheaper then the PST. But, if you do care about getting the best A/V quality the Furman is a good choice. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

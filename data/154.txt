@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 0930407377 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-07-2013  
+<h2> review.text </h2>
+
+ <p> "In 1920 an unknown man appeared in Europe having lived through some extraordinary experiences in the East. His name was George Ivanovitch Gurdjieff. This is the story of his early years." So begins this curious film, made by Peter Brooke and available for free on Youtube.The Greek-Armenian G. I. Gurdjieff was a controversial and erratic spiritual teacher, whose ideas sounds like a combination of Buddhism and encounter therapy. Many consider him to have been a charlatan, and even his main disciple and propagandist, P. D. Ouspensky, eventually broke with him (although not with his ideas - after the death of the two men, their respective followers were re-united). Gurdjieff's main work, "Beelzebub's tales to his grandson" is a more or less incomprehensible exposition of the Fourth Way, as the would-be guru called his teachings. Another famous work by Gurdjieff, "Meetings with remarkable men", is ostensibly an autobiography of his youthful adventures and encounters with spiritual teachers in various parts of the world. I never read it, nor do I intend to. Peter Brooke's movie is based on this book, which for all we know might be entirely fictitious."Meetings with remarkable men" isn't a particularly exciting or action-packed production. Its sparse dialogue often contains references to various aspects of Gurdjieff's teachings, sometimes hidden ones - as when Gurdjieff's friend on the boat to Egypt says that he is interested in machines, thereby revealing that he is a "machine" himself. You probably need to know a few things about the Fourth Way to really understand the movie. I readily admit that I might have missed some esoteric references myself... Thus, we are dealing with a somewhat "narrow" film, probably of interest only to Gurdjieff sympathizers, obsessed cult-watchers or cineastes who just *have* to watch every weird thing shown at high-brow film festivals."Meetings" follow Gurdjieff from childhood to early manhood, and depicts him as a restless seeker for spiritual truths. Influenced by his father, the young man rejects Orthodox Christianity at an early age. He also realizes that regular science doesn't contain the answers. Instead, Gurdjieff goes on a quest that takes him far outside his Armenian homeland (at the time controlled by Russia). He visits Egypt, Mongolia and Bukhara, picking up bits and pieces of information on the way, usually from Muslim Sufis.Gurdjieff's goal is to find the mysterious Sarmoung Brotherhood, a religious order of considerable antiquity which still guards the esoteric truths of man's place in the universe. The order turns out to be based in Kafiristan. Apparently, such a place really does exist - it's a province of Afghanistan. Note, however, that "kafir" in Arabic means infidel. Thus, Gurdjieff finally finds the answers in "the land of the infidels". In the monastery of the Brotherhood, Gurdjieff sees a number of weird dances, which apparently reveal the secrets of the universe. Some people believe that these bizarre dances are actually taught in Fourth Way groups as a kind of spiritual exercise. Others claim that the dance acts in the film were specially developed for the screen, and that *real* Gurdjieff dance looks different. Ah, how these people love their little mystifications!Here, "Meetings with remarkable men" ends...Although this wasn't really my cup of tea, I'm willing to give Peter Brooke's quasi-documentary about Gurdjieff's early life four stars for the effort. Not very exciting if your main interest happens to be, say, "Finding Bigfoot", "Dallas" or "Game of Thrones", but probably of some interest to a certain breed of seekers and lovers of rare films. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beelzebub's tall tales to his mama </p>
+
+
+<h2> review.date </h2>
+  12-02-2012  
+<h2> review.text </h2>
+
+ <p> My favorite of favorites!  The early life of Gurjeff is not only uncommon, it is hungry and exploring and extremely evocative. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unusual Journey of the Uncommon </p>
+
+
+<h2> review.date </h2>
+  05-16-2005  
+<h2> review.text </h2>
+
+ <p> I first saw this film when pretty young - its effect was devastating.  It was on a double bill with Zeffirelli's epic film about St. Francis, "Brother Son, Sister Moon."  (I saw both films for a dollar!)  Not knowing anything of the movie beforehand, I went for years wondering what was the name of this remarkable movie, before finally stumbling upon it at a video store whilst visiting friends in another city.Repeated viewings show it to be, while a bit of its period, still holding up.  There is such a sense of the spiritual here entirely capturing the excitement of the beginning of Gurdjieff's journey.There is much throughout the film to give one time to pause and reflect, but then the film ends with what is now well-known as the 10 minute dance/movement sequence and Brook knew what he was doing ending the film with this.  I remember my heart nearly exploding in the theatre a sense of spiritual energy and awe from others in the theatre who were reacting the same as I.I remain a bit perplexed as to how and why this amazing, enlightening and enriching film has not yet been transferred to DVD.  Hopefully, when that happens it will receive the "Criterion treatment" - with interviews and commentary by Peter Brook, a good widescreen transfer and cleaned up sound from its VHS incarnation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watch a Remarkable Movie </p>
+
+
+<h2> review.date </h2>
+  08-08-2011  
+<h2> review.text </h2>
+
+ <p> Gurdieff in search of self realization and the meaning of life. A cult film for all Peter Brook's buffs.A film that surpassed the acidic test of time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You have the lamb and the lion inside your soul; so keep the balance! </p>
+
+
+<h2> review.date </h2>
+  04-26-2009  
+<h2> review.text </h2>
+
+ <p> The book "Meetings with Remarkable Men" is a masterpiece.  However I cannot say the same about the movie.  Having had training as an actor, I find the acting in this movie horrendous and totally destroys what is portrayed in the book.  For instance, Gurdjieff was a very street smart person with excellent people skills yet he is constantly portrayed by some dumb looking kid without a clue.  The actor constantly has a look of dumbness on his face.  I also wanted to watch the "sacred dances" on the DVD.  I am a practitioner and teach of tai chi for over 20 years and have a dance background as well, so it would be fascinating for me to see the dance movements.  Well, whomever they hired for the scenes, had no rhythm, coordination, balance, or good energy flow.  The dance scenes were extremely painful to watch, as was the acting, and totally in contradiction to what was presented in the book.  I highly recommend reading the book although it can be difficult to read at times due to the fact that is was written in another language and translated into English.  I expect a bunch of negative ratings of my review, as is custom when one doesn't act like sheep and follow the crowd.  However it may help a few people such as myself had I seen this before purchasing the movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Please read the book </p>
+
+
+<h2> review.date </h2>
+  06-06-2014  
+<h2> review.text </h2>
+
+ <p> Gurdjieff was a con man and charlatan, exemplifying the worst aspects of the new age movement. The quality of this film is more a testament to the artistic vision of the director than the limitations of the source material. The main character, in his devotion and sincerity, should not be confused with the real Gurdjieff. Throughout, the tone is respectful, serious, reverential. This is coupled with the stunning beauty of the Middle Eastern and Central Asian setting. The music plays an important role as well; each new locale in the characters' journey is introduced by a distinctive musical style. The dance sequences at the conclusion are stunning and unforgettable.My sole criticism is of the DVD itself, which lacks the scene selection option. Unfortunately, the only other option is VHS, unacceptable based on the abysmal sound quality of the tape I viewed. This film's score demands the fidelity that DVD offers over VHS.In its treatment of the search for spiritual fulfillment, this film appeals to the highest elements of human nature. Heretofore only offered by Bookworld, I can only hope that its recent availability on Amazon will expose it to a wider audience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A remarkable film </p>
+
+
+<h2> review.date </h2>
+  03-13-2009  
+<h2> review.text </h2>
+
+ <p> ...if you buy the book 'The Inner Journey: Views from the Gurdjieff Work', which includes the same DVD and sells for around $20.  You get the film, a 380 page book with selections from Gurdieff's works, and save $10. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic film, but it can be got for cheaper... </p>
+
+
+<h2> review.date </h2>
+  01-19-2008  
+<h2> review.text </h2>
+
+ <p> Gurdjieff was not a con man or a charlatan. He predicted the clash between the West and East. He regarded the energy of American culture as a possible agent of preventing the destructive potentiality of this clash. But he also observed America's obsession with "dollars, sex and food" as an obstacle.His system clearly has within it, among other predictive notions, the periodic table, the existence of other planetary bodies within the solar system, and has a breadth of knowledge of science, religion, art, philosophy, history, psychology not found in any western streams of thought or understanding.In fact his intention was to synthesize eastern awareness with western practical notions in order to prevent the destruction the inevitable clash might bring about.He used music and dance in a practical way for his students. This film has some very rare videos of the kind of dance he taught. It is hypnotic and unlike anything youve ever seen.In the 1920s his students, under his direction, performed similar dances(and other demonstrations)at Carnegie Hall in New York. A reading of the newspapers of the day indicate these were a sensation at the time.The movie used Jean Salzmann as an advisor, the former dancer who was one of his chief followers and whom he intended to be the principal teacher of his system in France after he died.However, he deliberately fostered the notion that he was a charlatan and fraud, as the first obstacle to be removed, he knew, was one's own egoism and failure to understand that we are ignorant, have no unified identity and lack real will.Those unable to see through his ruse were those not able to receive his teaching anyway, and were of no use to his greater purpose.Hence his intention was never to make it easy to understand his ideas or methods.This obstacle still remains, as he intended it to, and there are many false teachers using his name for their own purposes - which he also knew was inevitable.This movie is based on the book he wrote, which deceptively appears to be a straightforward account of some episodes in his life.The movie sets out only to cinematically present some of them and to ask the essential and universal questions he addressed in his teachings. In the book much is buried - much more so than in the movie - and should be construed as a series of parables. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> gurdjieff not a charlatan </p>
+
+
+<h2> review.date </h2>
+  11-26-2006  
+<h2> review.text </h2>
+
+ <p> After many years of waiting-there it is ,finally made it to DVD!One of the best films ever.The music is worth an award.Then the locations are something you don't get to see often.And some of the actors are just incredible in their authenticity.It might not be everybodys cup of tea and certainly was never a very commercial movie but the depth and insight into the subject is fantastic.It sort of creates that particular longing to free the knowledge that resides in all of us about who we are and what it is that really matters and that will lead us home.The book ist still better as there is more in it, but nevertheless this movie is it's own version and interpretation that can help us to get in touch with this subject in an additional and beautiful way.Along with "Circle of Iron"(David carradine)and the movies of Alejandro Jodorowsky this is  one of the best of this genre and surely one you will not forget so easily again.Also read "The teachers of Gurdjieff"by Rafael LeFort (Pseudonym). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally available </p>
+
+
+<h2> review.date </h2>
+  09-07-2012  
+<h2> review.text </h2>
+
+ <p> I first saw this movie about 20 years ago, and have been somewhat haunted by it ever since. The final dance scenes are truly amazing, even as I question bits of them, which is part of why I give four instead of five stars. In particlar, I was surprised to note that the spinning dancers spun in a manner quite different from traditional Sufi order dancers, and was left wondering if the portrayal was accurate or not. If the portrayal was accurate, I would have liked a comment there. I also wish there had been some commentary upon the "breaks" dance scene, in which a voice suddenly commanded the dancers to "stop". I understand this technique was frequently used by Gurdjieff.On a slightly different note, connected with the dance, I was surprised my another's comments which referred to the dance scenes as painful to watch and as being disjointed. In my view, the dances of Gurdjieff are clearly not Tai Chi, so if one is to expect Tai Chi, then the fault lies with the perceiver. If you want to study Tai Chi alone, then don't look to Gurdjieff. If on the other hand, one wants to see something new which you won't see dozens doing every Saturday afternoon in Central Park, NY, then Gurdjieff might have something to offer.The same commentator criticised the acting. Again, here I differ greatly with that interpretation. I would not fault the young actor for showing a sense of wonder all the time. Quite the opposite. I was also puzzled by the comments about the "young" actor as being throughout the movie. Here, I seem to have seen a different movie in which Gurdjieff aged a few years and grew into young adulthood.I would caution the viewer not to expect elightenment from the movie, and I am quite confident that Gurdjieff would caution all in much the same manner. It is stated clearly in the movie that part of the key is the difference between "thinking" and "knowing". One might think about the movie all one likes, but it takes practice to allow the heart and mind to work as one and "learn to learn" as the old Sufi koan suggests. Knowing is direct, not through watching a movie or having a chat over tea. Shakespeare's comment about all world being a stage comes to mind here - we must realize ourselves as participants to really be (life is only real when I am.).I hope this all helps. The movie is quite enjoyable and interesting. It is filled with wonder and may serve as a step towards "meeting with the miraculous", but it is not an end in itself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bright spot in the darkness </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

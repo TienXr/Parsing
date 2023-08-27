@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1582295778 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-19-2007  
+<h2> review.text </h2>
+
+ <p> ELECTION is a Christian political thriller by Jerome Teel. Mac Foster the republican presidential candidate, is in trouble. He is down in the polls and falling daily. Shep Taylor, his campain manager is desperate and enlists the help of a private investigator to try and dig up the truth about their opponent. Rumors have been swirling that current vice president and Democratic candidate Ed Burke has been receiving illegal campaign contributions. Shep hides this from Mac because he knows Mac, a strong Christian, would not approve of these tactics. Meanwhile, in Jackson, Mississippi, attorney Jake Reed is representing a man accused of killing Jesse Thompson. Thompson was a powerful banker in the city and a great friend of Ed Burke. Reed soon discovers the murder of Thompson could have national implications, and must fight to free his client, save his family, and preserve the truth that could save the country.Ed Burke has sold his soul and the hope of the presidency to a group of three evil men called the Federalists. The Federalists plan to control the world once Burke wins the White House. Their method for doing this seems a little far-fetched, but the evil they use to achieve their goals is real. Teel sprinkles the novels with strong Christian characters and the primary message of salvation through Christ is simple yet effective. Teel also touches on the message of that when bad things happen, God is still in control. This is a hard subject to cover, especially briefly in a political thriller, and thankfully Teel doesn't make any definitive theological statements on this issue.That's the plot in a nutshell. I've read a lot of novels like this, but this is my first in the Christian genre. The novel is wide in scope yet intimate enough where we really get to know about and care for characters. The plot is deep and complex, yet Teel walks the reader through the plot, spelling out every little detail. This approach by the author removes much of the suspense that is normally associated with a novel like this.Teel is a first time novelist I believe, so hopefully he will improve over time. Throughout much of the novel, Teel seems to talk down to the reader, or write sections that seem amazingly obvious. For example, Mac Foster is returning home after a day of campaigning and Teel says: "Even though he had no chance of winning the election, Mac was still entitled to Secret Service Protection until the election was over." This restatement of an obvious fact is an example of the type of writing you'll find a lot. In another instance, an FBI agent is looking for Jake Reed. He says "I'll get some rest tonight and then locate Reed in the morning. I just hope we're not too late." In this case, I thought if it was that urgent, the FBI agent would have went to Reed's house immediately, regardless of the time. I don't want to seem picky, but I think Teel's characters often took unrealistic actions for the purpose of the plot.Teel was able to create a novel with engaging characters and a complex plot. Unfortunately, the narrative at times seems to simple and doesn't seem to give the reader the benefit of the doubt. I found my self skimming paragraphs at a time to get to the action. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Engaging plot and characters, novel falls short in other areas </p>
+
+
+<h2> review.date </h2>
+  10-31-2006  
+<h2> review.text </h2>
+
+ <p> If you are looking for a book by a new author that has the feel of Tom Clancy's political subplots or a Grisham political thriller, this book is for you.A prominent character is a lawyer, but the book is populated with an array of people who step on and off the stage. The chapters flow quickly from one point of view to another, and keep the plot hopping between presidential campaigns, a murder investigation, and more. A plot is afoot to buy the presidency with eventual plans to take over the world. That seems to have little to do with what's happening in Jackson, Tennessee. Add FBI agents on opposing sides and the race is on to see if the election can be saved. You'll have to read the book to see who wins! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Election a fast-paced read </p>
+
+
+<h2> review.date </h2>
+  06-14-2009  
+<h2> review.text </h2>
+
+ <p> The Electionby Jerome TeelReviewed by Jake ChismJerome Teel has penned a worthy addition to the ever expanding market of faith-based legal thrillers. Vice-President Ed Burke has long had his eyes on the Presidency, and he is so close he can taste it. His opponent, Mac Foster, is a faithful Christian who believes God is leading him to be the next President. In order to ensure victory, Vice-President Burke joins force with the Federalists, a trio of power-hungry men who are secretly planning to take over the country. They will stop at nothing to make sure their man wins.Meanwhile, in Jackson, Tennessee, attorney Jake Reed stumbles across some information that could affect the outcome of the presidential election. He then finds himself in the middle of danger and conspiracy as he searches for the truth, all the while struggling with his own personal faith.This is an impressive debut novel from Jerome Teel. While the plot is complex and multi-layered, Teel effortlessly carries the reader along for an entertaining ride. The narrative is told form multiple viewpoints that take us deeper into the characters and the story itself. The Election is filled with the perfect amount of suspense and action that will hold your attention until the end.Teel also effectively weaves themes of faith throughout the story. Christianity is not thrown in our faces, but it is introduced in just the right amount of doses to make us think about our own spiritual lives. This is a great start to what will surely be a bright career for Jerome Teel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> -- </p>
+
+
+<h2> review.date </h2>
+  11-13-2006  
+<h2> review.text </h2>
+
+ <p> Vice president Ed Burke's life goal is to be President of the United States. He'd sell his soul to reach it, and in a way he has. Aligning himself with a trio of businessmen who call themselves The Federalists, he's been promised the presidency . . . if his policies agree with theirs. This isn't a pie-in-the sky promise. The three men have sufficient resources to control the world's financial markets and communications. All that stands between them and their one-world government is the election.Mac Foster also has dreams of reaching the White House, only he believes God's called him to the job. But his biggest problem isn't his stand on issues like abortion (he's pro-life, Burke isn't), it's money. The vice president has it. He doesn't. Where is Ed Burke getting all his campaign money? It's a troubling question, one Mac's chief campaign strategist intends to answer. Even if it means going behind his boss' back and hiring a private investigator.Jake Reed is a small-town attorney who only wants to provide a good life for his family . . . and maybe buy a car and take a vacation. But when a local man is accused of murder, Jake takes on the case with no idea he's about to become a pawn in a game more deadly than even his lawyer's mind can imagine. The fate of America, and possibly the world, is in Jake's hands---but he doesn't know it. Yet. Will the truth be revealed before it's too late?If you've ever wondered what really goes on in a political race, this novel will open your eyes in many ways. From dirty campaigning to the pressure of the constant limelight, it's clear political office is a pill only a few can swallow. The Election reveals the devastating effects of the lust for power and just how far men will go to satisfy it.Teel ambitiously covers many theaters in The Election. Part political suspense, legal thriller, and global conspiracy novel, this first-time fiction offering introduces us to a vast array of characters and situations. Yet through all the plot turns and locale switches, Teel skillfully holds together all the intricate threads. I did experience some minor confusion at the similarity of the key character names Jed, Jake, and Jesse, and there were a few times when the ensemble cast felt a little too large. But a high concept story like this needs to be covered from many angles, and Teel explores them all.A strong debut novel, The Election tackles many complex issues but ties them all up into a satisfying, slam-bang finale. An author with much promise, Teel is a face to watch in Christian fiction.--Reviewed by C.J. Darlington for TitleTrakk </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Part political suspense, legal thriller, and global conspiracy novel -- Teel is a face to watch! </p>
+
+
+<h2> review.date </h2>
+  05-23-2007  
+<h2> review.text </h2>
+
+ <p> I absolutely enjoyed THE ELECTION, and so will you.  Fast paced and highly addictive, Jerome Teel's style reminds me of John Grisham, but even better.  If you enjoy legal thrillers, then you will love THE ELECTION!  It has earned my highest recommendation.I also look forward to reading Jerome's second novel,The Divine Appointment, scheduled for release in June of 2007.  Get a copy of each while you are at it.Go Jerome, you rock! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  06-20-2007  
+<h2> review.text </h2>
+
+ <p> Jerome Teel has penned a worthy addition to the ever expanding market of faith-based legal thrillers. Vice-President Ed Burke has long had his eyes on the Presidency, and he is so close he can taste it. His opponent, Mac Foster, is a faithful Christian who believes God is leading him to be the next President. In order to ensure victory, Vice-President Burke joins force with the Federalists, a trio of power-hungry men who are secretly planning to take over the country. They will stop at nothing to make sure their man wins.Meanwhile, in Jackson, Tennessee, attorney Jake Reed stumbles across some information that could affect the outcome of the presidential election. He then finds himself in the middle of danger and conspiracy as he searches for the truth, all the while struggling with his own personal faith.This is an impressive debut novel from Jerome Teel. While the plot is complex and multi-layered, Teel effortlessly carries the reader along for an entertaining ride. The narrative is told form multiple viewpoints that take us deeper into the characters and the story itself. The Election is filled with the perfect amount of suspense and action that will hold your attention until the end.Teel also effectively weaves themes of faith throughout the story. Christianity is not thrown in our faces, but it is introduced in just the right amount of doses to make us think about our own spiritual lives. This is a great start to what will surely be a bright career for Jerome Teel. (From Christian Review of Books) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Impressive debut </p>
+
+
+<h2> review.date </h2>
+  04-20-2008  
+<h2> review.text </h2>
+
+ <p> The Election is not unlike other conspiracy novels involving U.S. politics, and the story line is interesting enough that I wanted to finish the book in spite of major flaws in the writing: 1) Stilted, at times simplistic, prose; 2) Assuming the reader is ignorant about legal, political, and medical matters by either over-explaining details or ignoring technical medical realities (people with compound fractures and major surgery do not take vacations 5 days later) 3) No surprises--the bad guys are all really bad and the good guys win out. What's surprising is that the author thinks that such a conspiracy could involve so many lower echelon government agents without being uncovered much sooner.The story outline, developed with more imagination, had potential, but mystery novels need mystery and conspiracy novels need unseen twists and the late revelation of previously unknown but significant facts. They also need to sound plausible to the reader. This novel lacks those components almost completely. The editor failed this writer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Improbable plot; writing is lacking polish </p>
+
+
+<h2> review.date </h2>
+  11-13-2006  
+<h2> review.text </h2>
+
+ <p> Attorney Jake Reed has got a good life.  A healthy law practice, loving family and wife, nice house on the countryside and a Volvo - what more could he ask for? Sure, his wife Rachael has been mentioning church a lot lately, but as far as Jake is concerned, there's plenty of time to get serious about those things.  He's riding a wave of courtroom success, and things are pretty comfortable - no need to worry about a lot of "God stuff".When troubled Jedediah McClellan lands in his office, demanding to sue a local broker because the bank is foreclosing on their house, his conscience flares up, but what can he really do? The McClellan's have landed on hard times, but they've missed several payments, and it's out of Jake's hands. Jesse Thompson, arbiter of the foreclosure, may be unethical, but the law is clear - there's nothing legal he can do.When Jed leaves his office enraged, threatening to kill Thompson, Jake writes it off as a desperate man venting, nothing more. However, the following day turns up Jesse Thompson dead on his ranch, shot by a high-powered sniper rifle, and a hangover stricken Jed on the scene. Jake is pierced by guilt: is this his fault? Is a man now dead because he wouldn't take Jed's case?Something is wrong, though; the rifle recovered in the back of Jed's pickup trip is of military, professional caliber - not something Jed could afford. By his own admission, Jed was recovering from a hard night of drinking - how could a man with a hangover and no military experience hit Jesse Thompson from such an extreme range?Suspicious, feeling responsible, Jake starts digging, discovering more than he bargained for. All he wants to do is save a friend's life, but the further he digs, the deeper the conspiracy goes - and suddenly Jake finds himself tailed, under surveillance, his family at risk. He's discovered something far more sinister than garden-variety murder - he's unearthed a trail of corruption and evil leading to presidential candidate Ed Burke - a man who would be president, and the most powerful man in the world.The Election is a sometime engaging political thriller, and author Jerome Teel uses his law background well - the court scenes are the novel's strength, very reminiscent of A Few Good Men and John Grisham's courtroom thrillers. The story starts a little slow, however, and at times the dialogue feels stiff, scripted.  However, once past that, the intricate machinations of the Federalists and their plan to hijack the presidency take over, and the novel comes into its best strength when the plot picks up speed, Jake dives into Jed's case, and the wheels of conspiracy grind to full bore.My only quibble with The Election is Ed Burke's running opponent, Christian candidate Mac Foster. He was too much of an obvious foil to the man who, as the back of the book states, "sold his soul for the Oval Office". It almost feels like the story needs too much to have a good presidential candidate running against the "bad" one. I know this is probably too depressing to consider, maybe too much of a downer for the novel - but as we've unfortunately seen in the last several decades, real politics rarely offers us such stark polarities.Taken as a whole, however, The Election is a promising new novel from an emerging writer, and John Grisham fans will find a lot to like in Tennessee lawyer Jake Reed - you can easily see him as becoming Teel's legal "Jack Ryan", (from Clancy's Hunt for Red October, Patriot Games, and Clear and Present Danger), coming back for more drama in the courtroom. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Election, by Jerome Teel </p>
+
+
+<h2> review.date </h2>
+  03-30-2007  
+<h2> review.text </h2>
+
+ <p> If you've ever wondered what really goes on in a political race, this novel will open your eyes in many ways.  The Election reveals the devastating effects of the lust for power and just how far men will go to satisfy it.This book is part political suspense, legal thriller, and global conspiracy novel. The author introduces us to a vast array of characters and situations and though there are varied plots and locales, Teel skillfully holds it all together.With such a strong debut novel, the author shows much promise.  I will look for his next novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Election  Rocks </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> Good suspense, mystery novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Def a page turner </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

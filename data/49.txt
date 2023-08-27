@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001VHMRWA <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-18-2009  
+<h2> review.text </h2>
+
+ <p> Perfect case for my Lumix FZ28. Excellent fit, without sun shield. Small side pockets for filters, etc. Love it. It is very well made. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  02-07-2010  
+<h2> review.text </h2>
+
+ <p> I got a new Panasonic super zoom camera (Lumix DMC-FZ35 - Great!) and needed a case for it. The camera's an odd size - not as big as a DSLR but considerably bigger than a point-and-shoot. This Tamrac 3320 case is a perfect fit. The camera will fit with the lens pointing downward but I find it is more convenient with the lens pointing to the side so that the "handle" end of the camera is at the top and can be grabbed easily. There are two small exterior pockets (one on each side) that can hold thin items - I keep a filter in one and the lens cap in the other. There is no room for extras such as batteries and other supplies so if you feel the need for lots of additional gear, a roomier bag might be better. For me, this is the perfect bag and even has a wide, sturdy belt loop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect case for panasonic Lumix DMC-FZ35! </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> I am surprised to find out I can drop my Lumix G5 with kit lens into it. Barely fits without any spare room but no pushing-in is needed. It makes my carrying of the camera an even smaller task than it was. Very happy. I believe it should fit all G and GF models with 14-45, 14-42 (w/o filter) lens. Just keep in mind it will be a very tight (but perfect) fit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fit G5 With 14-42 Lens </p>
+
+
+<h2> review.date </h2>
+  09-06-2010  
+<h2> review.text </h2>
+
+ <p> The case is well made and uses two zippers on top, so you can start from anywhere. Fit is pretty exact for the fz35, with enough extra room to put the camera strap in too. The two little velcro side flaps ... you could put in an extra SD card but probably not an extra battery, until the case loosens up a bit. I put the camera in sideways. A nice feature is the belt loop on the back, so you don't have to sling it over your shoulder. Lots of padding, and the case seems to be very well made. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case </p>
+
+
+<h2> review.date </h2>
+  07-22-2012  
+<h2> review.text </h2>
+
+ <p> I have owned three Tamrac cases for various 4/3 single lens reflex cameras (Lumix and Olympus).  This particular model is too small for the Lumix SLR's but works very nicely with the Olympus Pen digital cameras.  The next larger model is the one you need for Panasonic Lumix.  Overall, these are excellent cases. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good Small case </p>
+
+
+<h2> review.date </h2>
+  02-06-2010  
+<h2> review.text </h2>
+
+ <p> I bought this for a Panasonic Lumix FZ35 camera. It works very well. Very nice case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Case review Tamrac 3320 </p>
+
+
+<h2> review.date </h2>
+  12-27-2010  
+<h2> review.text </h2>
+
+ <p> This is a very nice case perfect for my Lumix FZ35.It's alittle big for the belt loop but very handy when I do.I go hiking with this case in a fanny pack. It's tough and well made. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tamrac 3320 Case </p>
+
+
+<h2> review.date </h2>
+  08-02-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this camera bag to hold my Lumix FZ35 camera. I really could not find anywhere it said this was the right bag for the camera but it came up when I did a search for a camera bad that would work. I read from other reviewers that the camera would just fit in the bag. I found that you can get a spare battery in one of the side compartments as well as some lens cleaning cloths in the other side compartment but that is about all. This is about all I need when I am out taking pictures in the field. The bag looks well built and it padded pretty well. Your lens goes in first and the display is face up. It has a belt loop if you wanted to carry it on your belt or straps to carry it around your neck. It also has a hand hold strap on top so you can carry it by that also. For the money it is a good value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great small case </p>
+
+
+<h2> review.date </h2>
+  12-04-2011  
+<h2> review.text </h2>
+
+ <p> For my purposes, this has been a great case.  If you're looking to carry a lot of accessories, this won't be the case for you.  But, if you're like, me, and you just want to carry a camera like the Panasonic Lumix FZXX series and a couple of filters, then you will find that this case is quite perfect.  Let me also mention that I own an Olympus E420 DSLR camera and that this case easily holds that camera with the Zuiko 14-42mm zoom lens attached, and a CPL filter in the side pocket!  No giant goofy stuff for me, thank you.  It should also be noted that this case is constructed of a nice rugged nylon material, very durable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Little Case, can even fit the Olympus E420 DSLR! </p>
+
+
+<h2> review.date </h2>
+  09-17-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this case for a Panasonic Lumix FZ35 super zoom camera.  It was one of two recommended.The camera fit too perfectly in the case.  There was no room to get a finger in to pull the camera out.  The camera has a nice grab handle that was too difficult to reach in this case.  If you want to "quick draw" for a shot, forget it.Of course, with such close quarters there was little room for a spare battery and forget the charger.  Side pockets were a one filter squeeze.I returned it and got a Case Logic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too little, too tight </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

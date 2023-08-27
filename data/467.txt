@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00G7U089U <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> i wasn't sure what to expect from this read as its the first one by Zoe Dawson ive read and it was emotional had me in tears you will without a doubt need tissues to get through the story it was very well written and kept me enthralled in the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> emotional </p>
+
+
+<h2> review.date </h2>
+  03-31-2014  
+<h2> review.text </h2>
+
+ <p> I was pleasantly surprised by this novella. I hadn't read any of the others in the 12 NA's of Christmas, but thought that this one looked interesting. I liked the story, and the chemistry between the two main characters, Alissa and Dakota and their relationship felt like it progressed naturally and wasn't insta love, which I hate. It was pretty predictable, but, but it had a believable romance and an interesting story line along with enjoyable characters. I just wish that it could have been longer.I received a free copy of this book from Netgalley for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brave </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> I don't know what to say other than I was blindsided by this novella by Zoe Dawson. Expecting a feel-good, sweet little Christmas story, Brave left me an emotional mess, crying in my room as I tried to get a grip and come to terms with what I had just read. I haven't done either...and I'm still crying. Brave is not a &#34;Christmas&#34; novel. Rather, it is one about life and love, sacrifice, soul-searing pain and soul-lifting joy, numbing fear and the bravery to face that fear in spite of yourself. The synopsis on this and other sites explains the plot adequately but in no way prepares you for the emotional storm of this magnificent little story. It may be short but it is powerful! Ms Dawson, I got it, I felt it, I lived it through your words. Now, let me wipe my eyes and blow my nose...again...and put the rest of your books on my wishlist. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Be prepared! Have plenty of tissues handy. </p>
+
+
+<h2> review.date </h2>
+  05-06-2014  
+<h2> review.text </h2>
+
+ <p> This storyline was perfect. Alissa making the trek up the mountains to complete a promise made to a dying friend. Dakota hiding himself there because of a broken promise resulting in the death of a friend plus he's struggling with a difficult decision. Both are emotionally scarred.The four stars was due to the author's fascination with the "F" word. I'm not a prude and some cursing doesn't usually bother me but no other curse word was used except this same one over and over in different variations. It wasn't needed and it added nothing to the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Obvious fascination with the "F" word </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> This was a charming sweet, little love story. Cute, YA read. About overcoming fears, PTSD, love and enduring friendship. I would recommend this beach read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet and Quick Read </p>
+
+
+<h2> review.date </h2>
+  12-02-2013  
+<h2> review.text </h2>
+
+ <p> Brave by Zoe DawsonNovella &#8211; The 12 NA's of ChristmasDakota Gray has been fighting his memories and flashbacks. He just wanted it all to end. In seclusion at his family's Aspen cabin he was making decisions for his future. Fighting his demons. He was numb and glad for it. Then she shows up like an angel in the storm. Changing everything.Alissa Thompson was on a mission to help her friend Charlie. She didn't mean to get sidetracked, but the blizzard had left her no choice. A man helped her, took her in from the cold, but he didn't want her there with him. Only the storm left neither of them a choice.Two people with different backgrounds and yet they both are fighting their own type of demons. Thrown together unwillingly during a blizzard. Not knowing how much they each needed the other to walk them through their dark pasts into a brighter future.*The 12 NA's of Christmas are 12 separate New Adult romance novellas by 12 of the hottest writers in New Adult.**Sexual content and language </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A blizzard of healing... </p>
+
+
+<h2> review.date </h2>
+  04-01-2014  
+<h2> review.text </h2>
+
+ <p> I received a copy of this book via Netgalley to read and review.This book was so cliche it's comical, honestly I kept reading because it was funny how bad this book was. You know that facebook friend of yours that is in a new relationship every month and the day they start dating she's like &#34;LUV MY BOO!&#34; yeah, that is this book. The characters fell in what I like to refer to as insta-love. This is a huge pet peeve of mine, you are not in love with them that fast, you do not &#34;know their soul&#34; shut up before I barf.My other pet peeve showed up in this book as well, physically flawless characters. Like just give your character a flaw in their appearance. Nope, he's a perfect ten and so is she. From the descriptions they sound like models. Not everyone is perfect and I don't want to read about the perfectly beautiful characters. Except Gia the supermodel/drug addict who got HIV, I'd read about her.The whole thing was super melodramatic. Every single thing is over the top. I didn't want to watch a soap opera, actually I've seen soap operas that are less dramatic than this. I can't tell you how many times that I read the word demons, like we get it, you have a tragic past. Can we move on ever? Or do you want to talk about your demons for another five pages?The main character Alissa is very helpless and super bossy. I'm pretty sure I've sprained an ankle before and didn't need to be carried everywhere. She plays such a damsel in distress and Dakota is her knight in shining armor. But did I mention that he has demons? Because he does, he really has a tragic past. And oh in case you didn't hear the first forty times I told you, both the main characters are freaking gorgeous. Really, they're so beautiful, and tragic, they're tragic too. BARFAnother thing, their thoughts and actions don't match their words at all. They both act so damaged by their tragic pasts and super guarded about everything, and then as soon as one of them asks the other a question they spill their guts. Like you're either guarded or your an open book you can't be both, pick one.I thought maybe I'd like the ending of this book at least, they seemed to be moving forward. But don't worry they'll tell you a few more times that he's dealing with his freaking demons. The ending is way too &#34;happily ever after&#34; for me. I just wanted to vomit. Great go live happily ever after and I don't ever want to hear about these characters ever again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So bad it was comical. </p>
+
+
+<h2> review.date </h2>
+  12-01-2013  
+<h2> review.text </h2>
+
+ <p> I've read a few of the 12 NAs novellas. The others were good as well. However, this was my favorite so far. Maybe it's just that I have a soft spot for blizzards and being stranded in a cabin. Because really, how romantic is that? Very. I also enjoyed the writing style and the originality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good. </p>
+
+
+<h2> review.date </h2>
+  12-22-2013  
+<h2> review.text </h2>
+
+ <p> All I can say is WOW.... I have not read anything by this author before but when I read the cover of this book, I knew I wanted to read it, and boy am I glad that I did.This was a beautiful, sad, heartwarming tale of 2 broken and lost souls who find each other and ultimately heal each other.Highly recommend..... plus I will definitely be reading more books by this talented author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gorgeous Story </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> I loveee this book. Have to admit, one of the best book I've read lately. Minimal errors, captivating, engaging, belivable, and I can keep going. I didn't like Alissa much at the beginning but she grew on me. Loved Dakota! He's character was one I would've love to know even more of. I really like the mention of Cystic Fibrosis, not many people know of this condition. I think is so mature and sweet that Dakota gets and accepts Alissa's friendship with Charlie. And the idea of letting him fly!!.. Uff just to think about it, bring tears to my eyes! Again, beautiful, emotional, and well written.Only negative I have is that I felt the end was rushed. I understand it was a novella, but the pacing of the beginning and the middle was good. The end felt like a an afterthought. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Be Brave, Grab a Kleenex, Sit and Read This One... </p>
+
+
+<h2> review.date </h2>
+  05-13-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed it. It made me remember some things that happened during my younger days. If you have ever been hurt by life, this story will make you feel it again. But you will also remember what it feels like to be healed. This story (though very short) gives you all that is needed to understand the book. Dakota and Alyssa both need to be healed and they help each other. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A story of healing. </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> Alissa has done something that she can't turn back now as she has got this far and not even a blizzard will get in her way of completing it. However, when tragedy strikes she finds herself clinging on for her dear life along with the Winnie The Pooh backpack. Along comes Dakota Grey , he has been living out in the middle of nowhere after a stint with Doctors in Borders went terribly wrong and many people died and he himself found himself captured and left to die. Dakota saves Alissa and brings her back to his house where she stays till the snow stops and she is able to complete the task she came here for. However, does fate have another plan in mind as Dakota has been punishing himself for what happened . Will Alissa be the one to show him that he is a Hero and his one Brave soul ? We soon Alissa is Brave herself as she has come to complete a wish for a friend which could lead her into serious trouble with the law. Can she be brave enough to stand up to her family and complete the wish no matter what the consequences are ?Find out in Brave by Zoe Dawson :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Snowy Christmas Tale where Bravery is the Strong Suit Needed. </p>
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> Brave is not the happy charming Christmas story I first thought it would be. Instead of just a stranded love story it is an emotional one of overcoming your fears, past events and learning to live and love again. Deep story with deep insights.Copy provided by NetGalley for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Deep Emotional Story </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> Brave by Zoe DawsonSource: AuthorMy Rating: 5/5 starsDakota Gray&#8217;s life is divided into two distinct categories: 1) the time before that horrific day and; 2) the time after that horrific day.  Before that horrific day, Dakota was a talented and skilled nurse whose outlook on life was generally very positive.  His kind nature and desire to help other led him to caring for others until that day robbed him of everything.  Now, Dakota lives in total isolation, shunning the world and refusing to return to the life, the family and the friends he once had.  That day lives on in Dakota&#8217;s every thought and every feeling and he just can&#8217;t see a path beyond the pain.For Alissa Thompson, life should have been easy.  Her parents are ridiculously wealthy and as long as Alissa follows the life plan her parents have mapped out for her, they will continue to pay for everything and make achieving &#8220;her&#8221; goals smooth and easy.  All of this and more can be Alissa&#8217;s as long as she doesn&#8217;t expect anything like affection and/or concern in return.  The only bright spot in Alissa&#8217;s life has been her best friend Charlie, a friend she would do absolutely anything for even if it means defying her parents and digging deep to find just a little bit of courage.Enter fate, a mountain, a hot guy cutting wood and, a wretched snow storm.In trying to fulfill her promise to Charlie, Alissa finds herself trapped on a mountain top with a busted ankle and a rescuer who wants nothing to do with her beyond setting her injured ankle and pushing her out the door the moment the storm passes.  Alissa is scared and hurt (in more ways than one) yet realizes that Dakota may be just what she needs to overcome her fear and begin to live her life.  Dakota can&#8217;t deny his basic nature and taking care of Alissa does come quite naturally.  Both angry and confused by her presence, Dakota fights himself, his memories and Alissa before finally accepting that there may be hope for him yet.The Bottom Line: Even at just 118 pages, Zoe Dawson&#8217;s Brave will take you on a whirlwind ride beginning with page one and not stopping until the very last sentence!  Dakota and Alissa are both beautifully broken characters who may never have dealt with their issues if they weren&#8217;t forced into doing so.  Thank goodness for that snow storm!  Every moment with them is both heartbreaking and joyful as you see them learn to accept themselves and care for one another.  Oh, and they have some steamy sex too &#61514;  Even in so few pages, both characters and their respective backstories are fully developed and left me with a real sense of satisfaction at the end.  Zoe Dawson has mastered the fine art of packing a few pages with a whole lot of powerful!!  Overall, this quick and emotionally charged novella will have you flipping pages at lightning speed and remind you of the true meaning of bravery and courage, love and friendship and, the holiday season. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the 12 NA's of Christmas!! </p>
+
+
+<h2> review.date </h2>
+  07-06-2014  
+<h2> review.text </h2>
+
+ <p> Alissa and Dakota are two lost and broken souls. They are the typical clich&eacute;&#8217; of romance novels. He is dark, broken and brooding. She is blond, tiny and angelic. Dakota has shut himself off from life, trying to forget a traumatic event in his recent past. Alissa is in Aspen to fulfill a promise to her best friend. They meet when Dakota witnesses Alissa falling off a cliff and rescues her.This is a hard review to write because I don't want to give any clues, hints, or tips about what happens in the story. Just know this; it's intense, emotionally charged and steamy. There was realness to these characters, from the moments that had me smiling, to the ones that gripped the pit of my soul. Dakota had me from the beginning. I dare you not to fall in love with him. He is perfect. Not perfect in a flawless sort of way, because he definitely has his flaws, - but perfect in a way that makes you feel protected and secure.  He is swoon-worthy masculinity that makes your heart flutter. For me, Alissa was the kind of character that I immediately liked. She's funny, sarcastic, intelligent, and strong.  I understood her and the way she thinks. As the story developed, my heart broke for her. However, her resilience was inspiring.This is an all-consuming book. From the first page to the last, it held your attention. I recommend you read Brave by Zoe Dawson. It is a quick and satisfying read.Review copy was provided by NetGalley and Blue Moon Creative. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved! </p>
+
+
+<h2> review.date </h2>
+  10-27-2013  
+<h2> review.text </h2>
+
+ <p> I finished this book and just sat quietly in awe at having experienced such a moving story!From her entrance during the blizzard, (possessively dragging her pink and yellow backpack, with Winnie the Pooh on the face, behind her) to her subsequent fall over the cliff, rescue, and residency in the cabin,(sprained ankle and all) I absolutely loved Alissa! Her strength, in both her quest to carry out her promise to her best friend Charlie and to convince Dakota that he deserves more than this life of isolation, was the true catalyst in this story for me.Dakota was living with the demons from his past and struggling to try to overcome them! Alissa said it best - "I was so thoroughly intrigued by him. His looks and body aside, there was something about him. Something...wounded. I knew about being wounded, and maybe that was why I recognized it in him." His character development during this story is extraordinary!And this is their journey, to overcome the demons and see if Love can really conquer all! And what an amazing story unfolds - filled with laughter and tears and hope! And a whole new meaning to the word "Brave"! Oh, and one truly Awesome Epilogue!Zoe, thank you for allowing me the privilege of reading an ARC of this book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HEARTBREAKINGLY BEAUTIFUL! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

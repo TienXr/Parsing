@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B005DCOQ8W <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-12-2014  
+<h2> review.text </h2>
+
+ <p> I use this charger for the 18650 rechargeable flashlight battery I own. Sometimes it gets a little finicky and I have to unplug and plug it back into the wall again. That's why I knocked the star off. For the price, I liked the purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good charger </p>
+
+
+<h2> review.date </h2>
+  09-06-2012  
+<h2> review.text </h2>
+
+ <p> i know buying generic is a bit scary at times but hey its 4$ even if you lose its not so bad.but the product works and works as well as any charger i have owned so far.that being said buy it its a good deal </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4$???? = AWESOME </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> Only four stars because this charger does not have temperature sensor. This can be very dangerous when cheap, defective battery starts to over-heat, the will not automatically  shut-off this is the part ewhere your house burns down.Place it on a surface that can tolerate high temperatures, such as top of the stove or at the very least use a metal cookie sheet. (I prefer to put the charger at the end of a 100 foot extension cord well away from the house ;-) Do not leave it plugged into the wall outlet, and remove the batteries from the charger nightly or when you can't watch it.If your the forgetful type, spent the money to get a safer, more expensive charger.P.s. got mine direct from china, for $1 and a 40 day wait ... it's worth it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Enough ... </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> and charged the batteries i got separately quickly too.so far no complaints about the performance.for $10 bucks, its a good charger.Im more worried about the life of the batteries, and the flashlight that didn't arrive almost after a month now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it arrived very quickly </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> Works as intended.  LEDs correctly show status.  Cord is too long for any normal electrical outlet position, have to cabletie excess.  No star deducted. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charges. </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> I purchased this to charge some 18650 batteries. I charged two batteries. Placed them in my flashlight. The batteries went low quickly. I tried to charge them again. Not luck just red lights. Days later still no green lite. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This stopped working after 2 charge cycles. </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> Excellent Charger </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  11-15-2013  
+<h2> review.text </h2>
+
+ <p> it is a very good product, status lights are green for power,that changes to red for charging, then to green when full charge,dose not heat or even warm </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very useful product and works good </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> Can't beat it for the price. Works great with the batteries and flashlight I bought to go with it. Two thumbs up! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great! </p>
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> These cheap chargers do not stop charging at a safe voltage. Get one that stops at 4.25 volts or your cheap batterys could catch fire or even explode!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dangerous! </p>
+
+
+<h2> review.date </h2>
+  05-28-2014  
+<h2> review.text </h2>
+
+ <p> I have one 18650 flashlight and two batteries.  I will probably not need more batteries for quite some time.  I keep one battery charged and one battery in the drawer (you know, THE drawer).  I didn't need anything bigger, and sometimes it is hard to find a spot in the outlet for a charger with a bigger footprint.  The unit feels a little &#34;cheap&#34;,  But it works perfectly every time and at this price, who am I to complain.  I would definitely recommend this to a friend, or a relative I like. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's a battery charger </p>
+
+
+<h2> review.date </h2>
+  01-21-2013  
+<h2> review.text </h2>
+
+ <p> It does what it's supposed to do.  I like the indicator lights turning green when full charge is complete. Good buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  01-31-2014  
+<h2> review.text </h2>
+
+ <p> it seems like a dual channel charger, not a single.  it does charge to 4.2v in 3 hours, current test of 1 of 2 purchased at 3.5 hours at 4.25 volts. hope it automatically turns off at 4.3 volts.update: 1 of 2 chargers died, has a transformer inside that hums real loud and LEDs blink real fast for any battery(02-26-2014).I will most likely be ordering 2 more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> Needed these batteries and charger for a CREE flashlight.  Works pretty good and hopefully will last a long time.  But hasn't been too long and only time will tell. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works pretty good </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> I read others' reviews of this product so despite not having instructions I was ready to use it the moment I unpacked it. As soon as I put my depleted rechargable cells in there, both LEDs went to flashing red when they should have gone solid red. I removed and reinserted them to the same result. I swapped their position and it was still the same. Without cells the light is green like it should be, but what is this flashing nonsense?I tried a single cell, and I got a solid red light. I tried the other cell and got a solid red light. Either cell will charge alone apparently, but both won't charge together. I got the spare set of cells and they do the same thing. Doesn't matter which of the four cells I try or which spot I put it in. So I was resigned to charging one cell at a time. I repositioned it so that I could see when it finished charging, and I managed to drop it on the floor and the cell popped out. Sometime after that it became able to charge two cells at once like it should.I have no explanation. If you paid less than $5 for your charger and are having problems with it, try dropping it on the floor a time or two.Update: after a couple cycles, it went back to only being able to charge one cell at a time. Not sure if this is a design issue or QC problem, but I don't know if I feel safe charging cells in this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm not so sure about this </p>
+
+
+<h2> review.date </h2>
+  08-04-2012  
+<h2> review.text </h2>
+
+ <p> Good  battery charger. No complaints so far and I am very satisfied with the product.It charges Li-ion batteries ( 18650 ) in about 3 hours, which is good for the battery.Thank you NEEWER (seller) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lithium Ion battery charger </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> It seems to be better built than those on Ebay for about the same price but it has a 220 volt european plug </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wrong plug for USA </p>
+
+
+<h2> review.date </h2>
+  04-26-2014  
+<h2> review.text </h2>
+
+ <p> This product was purchased to maintain a supply of charged batteries for and high intensity LED flashlight.  Meets and exceeds expectations. Definitely recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Purchased to expidte battery needs </p>
+
+
+<h2> review.date </h2>
+  03-10-2013  
+<h2> review.text </h2>
+
+ <p> I bought two of these for friends.  They were delivered to my house, and I decided to test them out with some new batteries.  The charger appears to be well constructed.  It charged new ultrafire batteries without any trouble (cheap batteries that I have issues with making proper contact in the Tenergy charger).  There is a red/green LED on both sides of the charger.  When there is no battery present the green LED will illuminate.  When there a battery present that is not fully charged, the red LED will illuminate.  When the battery is fully charged, the LED changed to green. I put some batteries in this charger that I had fully charged on my other charger, and they turned the LED green right away (that's good).  Out of curiousity, I installed a battery backwards (reverse polarity). In this case the charger LED extinguished completely.  I don't know exactly what that means. On my much pricier Tenergy charger (which advertises polarity protection) the charger will blink alternating red and green and makes an audible clicking sound.  I don't have the stones to leave the battery in the charger this way to find out.  My guess is that it does detect the polarity and shuts down, but I would not bet my life on it.  Some people have suggested charging your unprotected cells by placing your charger in a metal box (like a cookie tin or lunch box).  This charger would lend itself well to that, as it has a cord (although the Tenegy with the detachable cord would make it so you could just drill a small hole in the side of the metal box).  I monitored the battery temp, and the charger temp with my IR thermometer, and both of them stayed at reasonable temperatures (below 95F in a 73F ambient room).  I would be cautious with anything this cheap made in China that has the potential to burn your house down, but my limited experience with them is good.  These chargers will be given to friends, and I will caution them not to charge batteries unattended.  One thing to note is that this charger has a spring contact on the negative terminal side. As a result, this will not work with 14500 LiIon cells (unless you put a conductive spacer/shim there :{ ).  It might work with two CR123 sized LiIon cells stacked, but I don't know if that is safe or not.  The most read negative review for this product states that the charger does NOT shut off when the charge is complete.  I can't test to determine for sure, but I can state that the temperature of the batteries and the charger dropped back down to ambient room temp shortly after the batteries were fully charged. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charges 18650 batteries. Appears safe and well constructed </p>
+
+
+<h2> review.date </h2>
+  09-07-2013  
+<h2> review.text </h2>
+
+ <p> Charges to 4.2v, simple, very solid. simple LED indicators (Red charging, Green done/ slots empty). Cord could be a bit longer and i wouldn't have minded some dead weight in it to help keep it on a desk or table better. Did i mention this thing is stupidly well built? it doesn't feel cheap or &#34;chinese&#34;, feels like an unbranded top name OEM product </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stupidly good </p>
+
+
+<h2> review.date </h2>
+  01-01-2013  
+<h2> review.text </h2>
+
+ <p> I have found certain batteries work well in this charger like the ultra fire rechargeable a work but the Panasonic generic doesn't. I will be trying the orbtronic soon and hopefully that works </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well with some batteries </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> I bought this charger to go with myNitecore MT26 flashlight, andUltrafire 18650 batteries. It works like a charm. It takes about 4 hours to charge the batteries, after which they last about 1 1/2 hours on "turbo" mode in my flashlight. I've used this charger to recharge my 18650 batteries at least 3 times each, and have experienced zero problems. I always make sure to take the battery out as soon as I notice the light for it's channel has turned green. Being able to charge one battery at a time is a great thing when you're using a pair of batteries with a device that requires only one battery. This way you can keep one in use, and one on standby ready to swap. You don't have to wait until both batteries are dead before charging.I highly recommend this charger as it is well made for the price and works great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Fine, Great Value </p>
+
+
+<h2> review.date </h2>
+  10-18-2013  
+<h2> review.text </h2>
+
+ <p> I must have ordered over a dozen chargers for 18650 batteries....and ALL of them are cheap junk...This one a tad better than others...but it still is horrible...I leave it plugged in so I can just pop in the batteries....after a week or so...now the green LEDS are always on...weird....also, now when it charges my batteries, one of the leds stay red...Does anyone make a good quality 18650 charger(and batteries for that matter) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does anyone make a good quality 18650 charger? </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> Charges my batteries, they fit just fine, what more can I say. Time will tell if it lasts. it looks just like the picture. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works </p>
+
+
+<h2> review.date </h2>
+  11-08-2012  
+<h2> review.text </h2>
+
+ <p> A cheap but working charger. There's nothing much to say otherwise, except that the charging leds could be two (one for each charging slot)... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job </p>
+
+
+<h2> review.date </h2>
+  03-26-2014  
+<h2> review.text </h2>
+
+ <p> this is ok.  nothing special.  you can tell its cheaply made and is probably from china.  i dont use it much and i dont abuse it, so it serves its purpose for me.  if i had a need to use it a lot, i probably would go with something a little nicer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ok... </p>
+
+
+<h2> review.date </h2>
+  02-26-2013  
+<h2> review.text </h2>
+
+ <p> This charger has worked great every time I have used it and it was very reasonably priced so I can't complain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Great </p>
+
+
+<h2> review.date </h2>
+  06-30-2014  
+<h2> review.text </h2>
+
+ <p> Never out of battery power </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesomw </p>
+
+
+<h2> review.date </h2>
+  05-06-2014  
+<h2> review.text </h2>
+
+ <p> I bought this for my 18650 batteries and was really worried about the &#34;generic&#34; quality of a charger for a high powered battery.So far so good, the light is red when charging, green when it's done, but I'm trusting that the meter is properly calibrated.It does independently charge each single battery, so you can charge one and use the other. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sketchy "generic" label, but works just fine </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

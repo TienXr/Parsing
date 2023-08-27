@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0081RN9YI <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-05-2012  
+<h2> review.text </h2>
+
+ <p> Got one from AMAZON for my E-M5 and it is really great!!Keeps most stray light from bothering my focusing and is far better than the flat one supplied with the camera.I am 75 and stray light is a real bother wich this eyepiece solves magnifficently!!I would reccomend it to all users!!Albert E </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works real good for me!! </p>
+
+
+<h2> review.date </h2>
+  08-23-2013  
+<h2> review.text </h2>
+
+ <p> To begin with it is quite expensive to pay for a piece (actually two pieces.  more to that later) of plastic.  I have brought two of these already.  The original one came off easily and was lost.  Same as the next one.  The one after that actual broke into two pieces after about 2 months.  The unit has a hard plastic component that connects to the camera and a soft rubber component.I would not recommend this product.  However and unfortunately, I also have not seen any other alternatives.  I just hope we will be able to print it from the 3D printer soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Functional before it fell apart </p>
+
+
+<h2> review.date </h2>
+  09-15-2012  
+<h2> review.text </h2>
+
+ <p> The optic system in front of the EM5 EVF vignettes the full frame rather abruptly as distance between the eye and the EVF increases.  Unfortunately, the additional rubber on the EP-11 eyecup introduces just enough distance that the vignetting is rather significant.  Without glasses, one can push one's eye into the cup to reduce the vignetting, but with glasses, this isn't possible.If you do purchase the ep-11, I would advise carefully holding onto the original ep-10 eyepiece - they are nearly impossible to find in stock, and you may find yourself wanting to go back to the original sooner than later. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not good with eyeglasses </p>
+
+
+<h2> review.date </h2>
+  10-10-2013  
+<h2> review.text </h2>
+
+ <p> This can replace the regular EP-10 that comes attached to the viewfinder of the OM-D E-M5 camera. This is a much deeper cup which blocks a lot more light from entering into the viewfinder. Some people prefer the smaller footprint of the EP-10 but I much prefer the EP-11. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A better eyecup </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> I lost the eye cup that came with my Olympus om-m5. I thought this was a little pricey (but what camera gear is ever cheap) but I needed a replacement. It isn't the standard eye cup, but rather a little bit larger eye cup. I love it. It fits my eye a little bit better and blocks out more sunlight in the process. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm surprised how much I like this </p>
+
+
+<h2> review.date </h2>
+  08-26-2012  
+<h2> review.text </h2>
+
+ <p> The OM-D EM5 eyecup works very well; it keeps the sun out and next to that it means you don't need to snuggle up to the back screen so tightly to see the EVF in bright light. This eyecup has a great fit and I can recommend it to anyone as the first extra to buy for this camera!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly recommended! </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> This thing is a complete lemon. The deep rubber cup is great at blocking out light better than the stock eyepiece but the rubber is hard so you can&#8217;t use it with glasses without it vignetting out the corners.The worst part is the rubber is barely glued on at only three of the thin edges of the plastic attachment piece and not affixed in any other way. Within the first half-hour of using this at a wedding it got knocked off to never be seen again.Avoid this piece of junk like the plague. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lemon </p>
+
+
+<h2> review.date </h2>
+  06-12-2013  
+<h2> review.text </h2>
+
+ <p> This is a nice upgrade to the eyecup that comes with the OM-D5 camera. I have no problems with it coming off, as someone else mentioned. It snaps in place and stays there just the same as the standard eyecup. It will now, always be on the camera. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> This product is very great, as look your camera more proffesional and is very very comfortably, i used to my Olympus OM-D E-M5 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Comfortable </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> I wanted to isolate the EVF in sunny conditions, so this was perfect, though I feel like the camera should have come with this as an included option, and for $24 it's a rip-off.Does it work?... YES, however; the quality of this item is terrible, it's designed to slide on the camera along ridges on the EVF, however, the eyecup has a sliding &#34;clip&#34; that comes unlached very easily, which then allows the eyecup to come off the camera very easily. I have nearly lost this thing more than 5 times.Then, one day, I saw it &#34;hanging&#34; from the camera's EVF, and when I when to slide/clip it back on, I saw that the &#34;clip&#34; had been snapped off, so now it does not even stay on the camera... So what is this $24 piece of plastic now? GARBAGEI do not recommend it unless you REALLY need it. And if you do buy it, be VERY careful with it as it is not well designed and/or its quality is far sub-par of the camera it's attached to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flimsy, bad design, comes off easily </p>
+
+
+<h2> review.date </h2>
+  07-14-2014  
+<h2> review.text </h2>
+
+ <p> This just doesn't seem to work well and keeps falling off. At the price, I would have to lose another one (already lost one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This just doesn't seem to work well and keeps falling ... </p>
+
+
+<h2> review.date </h2>
+  08-04-2013  
+<h2> review.text </h2>
+
+ <p> Much more comfortable than the EP-10 that ships with the OM-D, and actually blocks out light which is a must for an EVF. Probably a bit overpriced but very well made. Recommend if you're going to do any serious shooting with an OM-D. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> makes a big difference on the OM-D </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000VIZE2U <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-07-2008  
+<h2> review.text </h2>
+
+ <p> well i havent bought these yet, but noticed it lacked some tech specs in the info.  i got these from cnet, so hopefully theyre correct:Response Bandwidth 6 - 23500 HzSensitivity 102 dBImpedance 16 OhmDiaphragm Mylar - 0.6 in Magnet Material Neodymium </p>
+
+
+<h2> review.summary </h2>
+
+ <p> frequency response info here </p>
+
+
+<h2> review.date </h2>
+  12-12-2013  
+<h2> review.text </h2>
+
+ <p> I loved these when I bought them in store and loved them when I ordered them. I always had a problem with earbuds falling out of my ears for some reason so these were a lifesaver. Nothing bad I could say about them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what I needed </p>
+
+
+<h2> review.date </h2>
+  11-14-2010  
+<h2> review.text </h2>
+
+ <p> Sound quality is just fine.  They don't wow you....but they get the job done.  More importantly for exercise, these earphones are comfortable and secure.  Took them on a 4 mile run this morning and hardly thought about them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Value, Comfortable and Secure </p>
+
+
+<h2> review.date </h2>
+  08-10-2009  
+<h2> review.text </h2>
+
+ <p> These headphones were shipped out on June 8th, 2009. They were broken by August 10th, 2009 and I had to send them back.The sound quality was good but the build quality just wasn't there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Sound But Broke Quickly </p>
+
+
+<h2> review.date </h2>
+  11-07-2010  
+<h2> review.text </h2>
+
+ <p> I've had these for 2 years.  The silicon is still nice and rubbery tho' I admit I don't use these daily.  Once drove listening to these headphones from San Diego to Los Angeles and back because it sounds better than my car stereo.Very accurate sound with nice bass.  Now when I hear other reviews say "good bass" on an little tiny headphone it's hard to believe.  But believe me, these do have nice bass!Comes with a couple more sets of smaller and larger sizes for that perfect fit.Would buy again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality and Value, Great lil' Headphones! </p>
+
+
+<h2> review.date </h2>
+  04-27-2009  
+<h2> review.text </h2>
+
+ <p> My headphones sound very tinny and devoid of bass, especially when I compare their performance to the standard iPod headphones. They are more comfortable than earbuds, but I wouldn't purchase them again.UPDATE: The choice of rubber cap makes a HUGE difference.  After choosing a larger size that fits snugly in my ear, the quality is much improved.  The tinny sound is gone, and the bass response is decent.  The comfort factor has gone down quite a bit, though; it feels like I'm wearing earplugs.  If I could, I'd up my rating to 4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Respectable sound, but comfort isn't too great </p>
+
+
+<h2> review.date </h2>
+  04-07-2009  
+<h2> review.text </h2>
+
+ <p> I want to start saying I am not audiophile or highfalutin member of society. I am an average "Joe". This will be an easy simple review of the earbuds as I see them.If you are upgrading from the crap that Apple sends you with your Ipod, you will be very happy with these buds. The sound is much clearer, louder, crisper and overall better. If you are coming down from a $300 pair of buds you will not be impressed at all. These are a GREAT $30 PAIR OF BUDS.These are the replacement for my older Sony MDR-J10's. The Sony's hurt my ears after about 15-20 minutes of use. This is something I thought I could live with but quickly learned I could not. I workout at a moderate pace and like my music a little louder than many and my volume settings are below where the Sony's were.I REALLY like the fact that these are hangers, meaning they hang from your ears. As I stated above I workout and these always stay in place. I also LOVE the fact that they fit into your ear canals. This provides a bit of noise cancellation. I have used them for hours at a time and have had no discomfort. I have never fallen asleep in them but then again I don't think that's what they were designed for.I really have no complaints about them as they do what I need them to do and that's stay in my ears when I workout and sound good. Many people complain about the treble, bass etc. I find that playing around with the EQ in my Ipod takes care of most of the issues people have, aferall that's why it's there. Nothing is perfect for everyone but these are GREAT all around.Thank You!! I hope this helps some people out there trying to make a decision. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent but NOT the best! </p>
+
+
+<h2> review.date </h2>
+  09-29-2009  
+<h2> review.text </h2>
+
+ <p> I wanted to upgrade from my Sony MDR-J20, so for $29 I bought these from the feedback. They had about half the volume of the MDR-J20, the sound quality was so tinny no bass at all, I was shocked how bad they were and have since returned them but have not received my refund from Amazon yet. I have since bought 2 more pair of the Sony MDR-J20 so I will have them for several years since my original ones still work great after a year. I told Amazon to drop this product and now see they are selling it for $18.48, so I am not the only one who hated this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The WORST earphones ever, now half what I paid </p>
+
+
+<h2> review.date </h2>
+  09-06-2009  
+<h2> review.text </h2>
+
+ <p> I usually have to get a new earphone every few months since they stop working. I've had this for the past 9 months and so far I haven't had a problem.I've tried a bunch of in-ear earphones and I guess because the way my ear is shaped they never stay in my ears, even while just walking slowly. However this around the ear has solved the problem for me. I now go running using this several times a week and I never had a problem yet.I recommend this to everyone! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally a good one </p>
+
+
+<h2> review.date </h2>
+  05-21-2008  
+<h2> review.text </h2>
+
+ <p> The quality, sound and base of this product are exceptional in brilliance and surpass far and above anything I have used before.  On the scale of 1 to 10, where 10 would be the best sound quality headphones I have used, this would be about 25.  Quality of sound is so brilliant it is unbelievable. I have nothing else to say. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Philips SHS8000 Premium Sound </p>
+
+
+<h2> review.date </h2>
+  02-20-2008  
+<h2> review.text </h2>
+
+ <p> The SHS8000 Headphones are very comfortable from the start.They haven't burned in yet and sound pretty good.I have a cowon D2 mp3 player and the sound  amazing.The D2 has so many options for the EQ so you get what ever you need.Now these headphones must get a sealed fit in order to get the tight bass you want.I had to turn the bass boost down on the D2 to balance the sound but bass heads might be happy.I going to get another pair.So enjoy the price and the sound. Thanks BJ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These turned out to be Good. </p>
+
+
+<h2> review.date </h2>
+  01-09-2009  
+<h2> review.text </h2>
+
+ <p> I purchased these after reading a review on another website,saying that they were very comfortable. My husband was not happy with the earphones that came with his Sanza Fuze because they kept coming out. You can't even feel the ear hook and they sound really good. He can now go about working in the yard and just enjoy the music and not worry about the earphones.Judy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really comfortable,great sound!! </p>
+
+
+<h2> review.date </h2>
+  02-19-2010  
+<h2> review.text </h2>
+
+ <p> I really love the way these earbuds fit, and the sound quality is decent. When my first pair died, I bought another just because I've never had earbuds that fit me this well before.Unfortunately, it hasn't been that long since I bought the second pair and now it's breaking in the same way. The problem is with the connector. Since it's straight up and down (not right angle like some other headphones) there's no way to avoid occasionally "bending" it a little bit and over time it breaks down. With the second pair I was very, very careful to avoid putting tension on the connector, and it seems to have lasted longer than the first pair, but there just doesn't seem to be any way to avoid the eventual damage.I'm wondering if it would be better to get these headphones again with a warranty, or to buy some low-end Shure earbuds...Update: I contacted Philips customer support, and they've promised to replace them (since they're less than 1 year old) I'll update again once I receive the replacements with a turnaround time.Update 2: 13 days between sending in my warranty request and receiving the new pair. Not too shabby! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best fitting earbuds I've ever had, too bad they break </p>
+
+
+<h2> review.date </h2>
+  11-28-2007  
+<h2> review.text </h2>
+
+ <p> If you're in the market for good, comfortable earphones with great sound, I can't recommend these enough. They are comfortable even over long periods of time, they are stylish, and they have great clarity, loudness, and bass response.When I first got them, my immediate reaction was, "Oh no, these sound awful." But a friend of mine promptly told me the correct way to use them. He said, "Reach over the top of your head with your right hand, grab hold of your left ear, pull it up and stuff the headphone in, then repeat for the other ear." If you can create a good seal in your ear canal using that method, these headphones produce lush sound while simultaneously blocking outside noise. I'd go so far as to say they're good noise-blockers even if you're not listening to anything.Also, they come with three sizes of soft buds to suit your ear canal. I have a pretty narrow ear canal so I use the smallest size; this is such a relief, as virtually every earbud-style phones I've tried constantly have easily fallen out or started to hurt after a while. Not these. If I lost them or they were stolen, I'd promptly buy them again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best earphones I've ever bought </p>
+
+
+<h2> review.date </h2>
+  04-25-2011  
+<h2> review.text </h2>
+
+ <p> I recently purchased my first Ipod. (Yeah, I know I'm a little behind the times.) When I tried to put the supplied earphones in my ears I found they fit very poorly. I've seen lots of people walking around with them so I guess it must be the shape of my ears. The supplied earphones kept falling out of my ears and even when I managed to get them to stay in they were very uncomfortable. That being said, I found this product to be perfect. Besides the fact that they have a part that fits over my ears, it also comes with three different sized rubber pieces so one can be picked for the greatest comfort. What a pleasure! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great earphones </p>
+
+
+<h2> review.date </h2>
+  12-01-2009  
+<h2> review.text </h2>
+
+ <p> GOOD HEADSET FOR THE PRICE. NOT VERY COMFORTABLE IN THE EAR. HOLDS WELL WHEN ACTIVE. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GOOD HEADSET </p>
+
+
+<h2> review.date </h2>
+  03-13-2008  
+<h2> review.text </h2>
+
+ <p> I wanted a pair of headphones that blocked outside noise and were firm enough to stay in my ears while running. These definitely do the job. They are extremely comfortable to wear, you can barely feel them once they are in, and they stay in place firmly. They are easy to fit to your ears because they come with 3 sets of ear buds. The sound isn't the best, but it's pretty great. I have a pair of JVC ear buds which are fantastic - the sound from them is incredible, but they aren't good to be used while working out. I love these headphones and would recommend them to anyone who works out! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AAAAAMAZING! </p>
+
+
+<h2> review.date </h2>
+  03-05-2009  
+<h2> review.text </h2>
+
+ <p> I knew that I didn't want to spend a lot on headphones, but I needed to replace my (workout) sony MDR-J10 headphones.  Whenever I would workout for extended periods of time the sweat would make the headphones either short out temporarily or worse yet the sweat would run into my ear largely due to the way they sonys fit.  When I began my research I was pleased to see that these were so highly thought of both workout and sound quality perspectives.My take on both of those factors:Sound:First off, the sound quality is not great at all compared to my sonys base range is disappointing and the treble is extremely noticeable.  I am able to adjust for it by using my EQ setting within my Ipod...I like my music loud when I workout...probably louder than most and since the adjustments via EQ and the time away from the "fuller" sound my sonys provided I have softened my stance a bit...on sound alone these headphone sound is 3 out of 5 stars.Fit/workout function:I was amazed with how comfortable these headphones are in comparison with the old sony plastic molded headphones.  The "gaskets" that come with the headphones are comfortable but only truly protect you from the nasty "ear sweat" if you wear them just right...to far in the gasket is compromised and sweat can penetrate underneath...to far out and you don't get a good seal.  Just right and these are the most comofortable headphones I have ever used.  once you get that down you'll be set!headphone fit: 4.5 out of 5 stars once you get the fit just right.I workout extremely hard and these are headphones I would recommend to a friend.  One other point that may be of interest is that the input into your device is "straight" not bent like that of my old sony headphones...I've found the straight input works better with most armband type holders for ipods. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid, but not the best AND certainly not expensive </p>
+
+
+<h2> review.date </h2>
+  11-22-2009  
+<h2> review.text </h2>
+
+ <p> I bought these to listen to music and talk radio while jogging.  My ears stick out kind of like Howdy Doodie so I have a hard time finding earbud headphones or bluetooth headsets that will stay in my ears.  These fit great and stay put.  The three different bud sizes help.  Also since there's no foam/sponge they don't absorb sweat.The sound quality is decent, but not audiophile.  It doesn't make me want to rip them out so it's pleasant enough.  Since these are in-ear bud you need to stick them into your ear canal in order to get any bass.  I suspect that reviewers that complained about the lack of bass didn't get a good seal from the earbud and would probably be happy if they just tried one of the larger buds included.  I like plenty of boom-boom music and they're good enough for me.The best part is that the rubber earbuds are VERY comfortable.  I usually hate the type of headsets that have to be inserted into your ear canals, but these are great even after a long run.  The rubber part is super pliable and soft.  This has another pleasant effect of blocking background noise pretty well.  When running I don't have to crank it up to drown out the sounds of traffic next to me.A+ for comfort, A+ for construction and design, B+ for sound quality.  I would buy them again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for running, decent sound quality </p>
+
+
+<h2> review.date </h2>
+  10-22-2010  
+<h2> review.text </h2>
+
+ <p> These are definitely an upgrade to the standard ear buds that come with any iPod. They actually fit into your ear without any discomfort and provide excellent sound. The over the ear design keeps them securely in place when working out. I highly recommend them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best headphones for working out </p>
+
+
+<h2> review.date </h2>
+  02-26-2009  
+<h2> review.text </h2>
+
+ <p> My second pair just bit the dust, I really love how they sound, but thanks to the thin cord and the straight jack they only seem to last a couple months compares to cheaper competitors. I'm sad that I have to find another model. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Comfortable with excellent sound, but in no way durable. </p>
+
+
+<h2> review.date </h2>
+  12-29-2007  
+<h2> review.text </h2>
+
+ <p> Until I read a review here I would have given these 0 stars. Tinny, distorted, power hungry, hollow, and comfortable would have been words used to describe them.After selecting the proper cushions and inserting them into the ear canal properly they sound great. Still power hungry and the comfort level is down abit with the buds inserted.Just put them in like you would put foam hearing protection in. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> needs instructions </p>
+
+
+<h2> review.date </h2>
+  04-07-2011  
+<h2> review.text </h2>
+
+ <p> This headphoes are with me all the time, it's quality top any standard headphones, and with special protection the bass is very strong and without distortions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Full bass </p>
+
+
+<h2> review.date </h2>
+  04-08-2010  
+<h2> review.text </h2>
+
+ <p> I bought these to listen to music while running. They fit well, but they emit a clicking sound while running. There is no clicking sound when walking. I think the clicking is due to looseness of some internal component in conjunction with the tugging of the cords induced by running. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not good for running </p>
+
+
+<h2> review.date </h2>
+  07-27-2008  
+<h2> review.text </h2>
+
+ <p> Total satisfaction given what these cost.  They don't slip out of your ears from the sweat while you work out.  They are painless to wear regardless of how long you wear them.  The different size ear fittings are a nice touch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for workouts and real good for listening in my cubicle </p>
+
+
+<h2> review.date </h2>
+  09-15-2009  
+<h2> review.text </h2>
+
+ <p> I bought these because they were well reviewed here on Amazon, and I really wanted a good pair of in-ear sport clip style headphones.  The first thing I noticed is that I needed a smaller size of the rubber ear cushions than I expected, and I ended up using the smallest size.  The second thing I noticed is that they don't stay seated in my ear canal very well for very long.  It doesn't take much stress, especially if I'm exercising and sweating, to pull these loose and break the seal.  That seal is very much needed if you want any kind of decent bass response out of these headphones, otherwise the sound will be high, thin, and tinny.  I may try going up a size on the ear cushions, but I still think these are average headphones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Average </p>
+
+
+<h2> review.date </h2>
+  01-18-2010  
+<h2> review.text </h2>
+
+ <p> I really have no complaints about these ear buds.  I use them for working out and they stay put, keep the sweat out of my ears cuz they are snug, are comfortable, and have great sound - bass is good and not muffled with decent highs.  My only gripe is a small one - I wish the cord was shorter and more sturdy (less tangling).  Otherwise, I'm very happy with them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great buds at a great price </p>
+
+
+<h2> review.date </h2>
+  04-15-2009  
+<h2> review.text </h2>
+
+ <p> After buying the Sony Mdr-As40Ex earbuds, I took them back because the sound was so terrible. I replaced them with these earbuds, and so far I am very happy with them. They are very comfortable and sound great. The only reason I did not put 5 stars is because I don't know how long they will last yet.I would have one suggestion for the packaging. The wire should be wound in a loose circle instead of folded in the packaging, because the wire comes out all crinkled instead of hanging straight. I have tried to straighten it but it's still not totally straight. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great earbuds! </p>
+
+
+<h2> review.date </h2>
+  05-25-2009  
+<h2> review.text </h2>
+
+ <p> These headphones sound amazing.  And very comfortable/secure.  *But*, the rubber ear pieces *will* come off and you will lose them.  Glue them on! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sound great, but glue the rubber pieces on! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

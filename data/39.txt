@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001EZQ8YC <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-15-2010  
+<h2> review.text </h2>
+
+ <p> For the longest time I had been a Creative user, up until my Audigy 2, which I compared to my onboard sound and was actually impressed with the onboard, not to mention the terrible support for Creative in the last few years, but I'll skip that.The Xonar D1 is an extremely well performing card. This is especially true for music. I have a very broad taste in music, from classical, jazz, rockabilly, ska, hip-hop, indie, whatever (no country) and everything sounds amazing. It's indescribable, but it's just like this card is able to convey just that much more that my Audigy, and the onboard couldn't. Not to mention the Dolby headphone setting. It's sometimes very easy to forget I have my cans on. It handles video and gaming well too, but music is its biggest highlight. The control center has a lot of features, a great sampling rate, and SNR. My only complaint is the I/O panel. There is an optical out, and a line in, shared jack. Other than that, I'm 100% satisfied with the card.I use it in Win 7, but with the Vista x64 drivers, works no problem. It also works fine in Fedora 12 x86_64. Alsa picks it right up. It would be nice if there were more software support, but it works well enough as is. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sounding card </p>
+
+
+<h2> review.date </h2>
+  08-14-2012  
+<h2> review.text </h2>
+
+ <p> I bought the ASUS XONAR D1 PCI Audio Sound Card after researching sound cards for a long time. I discarded Creative cards immediately as I noticed that most of reviewers with any decent knowledge with sound cards gave them negative reviews compared with Asus cards. SO, I went ahead and bought the Asus D1 because it had a respectable Signal to Noise Ratio SNR of 116 for the back audio header. also, the HiFi mode is excellent for listening to classical music which is my main reason for buying this card.My only concern with this excellent card is that there's no control center for Linux. The card is supported and it works out of box under Linux but you can't set advanced features like HiFi mode or game mode etc. I have to boot into Windows (not something I'd like to do) to use those features.So, if you use Windows then you can benefit from all features of this excellent card, but if you're like me using Linux then you'll still get excellent performance from the card but will not be able to use all it's features. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent choice </p>
+
+
+<h2> review.date </h2>
+  08-02-2013  
+<h2> review.text </h2>
+
+ <p> I chose this card because of the reviews I read here on Amazon. It installed easily on W7 with the included drivers and worked fine without a hitch. Note: I only use the 2 channel output.The sound is ok but I'm accustomed to using a Lynx card in another comp so there's no real comparison there.I got this for a comp that is used exclusively as a jukebox and while I can hear a huge difference most civilians don't even notice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's okay. </p>
+
+
+<h2> review.date </h2>
+  11-30-2013  
+<h2> review.text </h2>
+
+ <p> Better sound than all other brands I have used and I have used many. Hi and lo ends are crisp and clean. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As good as and better than Sound blaster </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> I love this soundcard!  Took me a while to find a high quality one for analog outputs.  Now I can blast tunes on my old Klipsch quad-speaker ProMedias. I guess the only thing I could possibly complain about is that it makes my PC boot up a little slower than it use to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> lovin' it </p>
+
+
+<h2> review.date </h2>
+  01-30-2014  
+<h2> review.text </h2>
+
+ <p> I ordered this from Amazon Warehouse Deals at a steep discount. It arrived in 'like new' condition' with the driver disc and allincluded. The drivers installed incompletely on my Win 7 machine, no volume control and a completely blank recording panel,from the disc. I downloaded and installed the UNI drivers and all systems were go. Downloading the drivers from Asus is majorwork.This was an upgrade from the Asus DG. Music reproduction with this card I would call 'studio'. I use Cerwin-Vega!, (The BassPeople), XD3 speakers. I keep the EQ on the card disabled and the EQ on iTunes set at flat. The music plays really very veryloudly w/o any kind of distortion or 'static'. When the movie or music icon is selected Dolby Pro Logic IIx-Dolby Virtual Speakeris enabled. When listening to music I always click the Hi-Fi icon instead.All in all I'm glad I made the upgrade. No complaints at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very clear music reproduction </p>
+
+
+<h2> review.date </h2>
+  09-07-2012  
+<h2> review.text </h2>
+
+ <p> Okay this sound card, the ASUS XONAR D1- 7.1 Channel PCI Audio Card was reccomended to me by my audiophile brother who vouched for the ASUS line of audiocard products as he has found through his own purchases that they make a fantastic product. I got this one to accompany the same day purchase of the A2W Audio Engine computer speakers and the card and speakers make a fantastic combination that take my MP3 and other recordings from my computer files and create a living room high fidelity listening experience. I would highly reccomend this audio card to be superior in reproducing music and sound effects from games from the more well known Creative line of audio card products that had been my previous discrete sound card choice. The software that comes with the card allows you to craft a simulated sound stage from many enviornments such as a "carpeted hallway". Why anyone would want to listen to their music in a simulated "carpeted hallway" is a puzzlement to me but perhaps there are many college grads that remember that type of place while sitting outside their dorm room waiting for their roomate to finish entertaining a guest...The bottom line is for the true music enthuiast that does not have $1500-3000.00 to spend on high fidelity audio equipment but wants good sound...GET THIS CARD for your desk top PC and also get the A2W Audio Engine speakers (or the A5w's...if you want to go into the 400.00 dollar range)...I spent $284.00 for both to get a great audio system to work with my desktop...:) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sound card...GET ONE!! </p>
+
+
+<h2> review.date </h2>
+  06-29-2012  
+<h2> review.text </h2>
+
+ <p> I bought this card solely for its PCI interface and low profile form factor.  Unlike the Xonar DX which has a PCIe interface, it doesn't require a 4-pin Molex power plug to get tthe card running, which is a plus.  PCI bus is phasing out, so unless you are sure you will buy a board with PCI interface in the future (which is becoming less common especially on MATX form factor), this card is not for you.  I am using an ATX motherboard with a PCI slot which I want to find a use of it, so it is a really good fit.The card is using better capacitors in the analog stage, but they seems not to be audio capacitors that other sound cards in the same price range is using.  The opamp in use are JRC5532, which is okay but not great, and they are not swappable (unless you re-solder it with SMD components).  I would rather use LME49720 or similar as replacement.  Or better, get another card like Auzentech Forte (I also have one) which uses better capacitors and at least a LME49720 or similar in the main stereo output stage.Since this is NOT a gaming sound card, do NOT expect it to support hardware voice mixing like the other cards using X-Fi.  Since Windows Vista, I remember the audio stack is changed and there is no hardware voice mixing support any more, unless the game supports OpenAL (I might be wrong on that). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice sound card, but it can be better </p>
+
+
+<h2> review.date </h2>
+  06-26-2010  
+<h2> review.text </h2>
+
+ <p> I've never done a review here on Amazon, but I felt I needed to make some noise about this sound card.  For years I have used Creative's Audigy 2 ZS Platinum sound card.  At the time I purchased it, it was the best thing out there.  Now, running Windows 7, I've had several ongoing issues with it that driver updates just couldn't fix.  Since I already trust the ASUS brand for having used their motherboards and other various components, I figured I'd give the Xonar D1 a try.  After installing it and messing around with the different sound settings for a couple of days, I've come to the conclusion that ASUS has a winning product on its hands.  Folks, there's absolutely no need to spend $100+ on a new sound card unless you need a particular feature not found on the lower priced models.  The sound quality is absolutely top notch for music and gaming.  Onboard sound has gotten better over the years, but it still cannot touch the quality of sound you'll get from a good product like the ASUS D1.At first I was hesitant to buy it because it only has a single line-in jack that doubles as a mic input.  Since I planned to connect my Xbox 360's audio, I worried that I'd have to swap plugs every time I wanted to communicate while playing games online.  Not the case.  I learned quickly that I can connect the HD Audio connector that enables me to connect my headset mic to the jacks on the face of my computer case.  So you can actually have both.  What I didn't realize after I got the card was that you have to switch between the sound card's input and the front panel input by choosing the analog path in the software.  Took me a little while to figure that out, but I did it.  Very easy to do too.  I only hook up with my friends online with PC games once a week anyway, so it's no hassle at all.  And after testing out my mic using my Ventrilo server, my voice communication was clear as a bell.I listen to a good bit of music, but my main concern when purchasing the D1 was for gaming.  And I'm happy to report that its performance is nothing short of stellar.  Unlike my previous sound card, the D1 has a virtual 7.1 surround feature that will turn any standard headset into surround sound.  I now hear things in my headset that I never heard before.  In shooters, for example, I can now hear where an approaching enemy is coming from.  Instead of knowing the enemy is either on the left or right, I can now determine of he's in front of me or behind me on both sides.  Again, I'm using a standard set of Yamaha headphones and this feature is pretty incredible.Overall, I am extremely pleased with the D1.  After adjusting the EQ to my liking and adding some ambient effects, my games and music have never sounded better! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding Quality! </p>
+
+
+<h2> review.date </h2>
+  06-19-2013  
+<h2> review.text </h2>
+
+ <p> The D1 will provide a significant improvement over mobo sound quality. Using it with  good quality 5.1/7.1 surround sound speakers or head phones will provide the sweetest candy for your ears.The only con was getting the Windows 7 drivers off the manufacturers website. Asus has the downloadable drivers in rar. format for which you will need an extraction program like Win-zip to process. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome sound card </p>
+
+
+<h2> review.date </h2>
+  10-31-2009  
+<h2> review.text </h2>
+
+ <p> I can't believe the sound quality that this card produces.The Xonar gave a new life to my music library.I'm going through my favorite songs right now and I can't stop marveling how good they sound with this card. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Audiophile sound quality </p>
+
+
+<h2> review.date </h2>
+  12-24-2009  
+<h2> review.text </h2>
+
+ <p> The Xonar D1 doesn't just sound better than onboard audio, it sounds noticeably better than the low-profile Audigy it replaced in my dedicated music-playback PC. While the bass response was similar between the two cards, the D1 produced a marketly more detailed mid-high end. I really think the difference is audible by normal human beings, not just audiophiles.It comes with a low-profile bracket in addition to the normal bracket -- just remove and replace 2 bracket screws to change between normal and low-profile.I've had no issues with the drivers. The card is based on an HD Audio codec so it meets standards for Windows 7 / Vista. The only HD Audio-based card from "Brand C" is their latest Titanium offering which doesn't come in a low-profile version, nor in PCI.I hear no audio interference from other components such as the DVD-drive motor, which frequently cause whining or whirring with onboard audio systems and some sound cards.The only downside is that the card doesn't follow industry standards for color-coding its output jacks. All of the jacks are metal with no color-coding, and the labels stamped into the shiny metal of the bracket are unreadable. When installing the card, keep the manual close to hand, and plug things in using the "second from the top is front left/right" method. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Noticeably better sound quality than other cards </p>
+
+
+<h2> review.date </h2>
+  04-20-2010  
+<h2> review.text </h2>
+
+ <p> I'M TYPING IN ALL CAPS SO YOU CAN HEAR ME OVER THE BRAVEHEART SOUNDTRACK I AM PLAYING.This is an absolutely amazing sound card.  Unlike the Creative sound card I used to have, there's absolutely no sound coming out of the speakers when there's no sound playing.  None.  There's just no noise.  It's all pure audio goodness.Also, the Dolby Pro Logic II sound decoding is perfect.  It directs all the right Dolby audio channels to the correct speakers, unlike most sound cards which have a "surround effect" feature that either replicates the front 2 channels to all the other speakers or tries to fake it.  This is real, Dolby patented surround sound.I've used a number of audiophile grade sound devices and none of them have reproduced music as well as this card.  The highs are crisp, the mids are center stage and the lows are punchy and significant.I've heard some complaints about problems with Windows 7 drivers.  My only problem was that I had to re-install the drivers once.  After I did that everything worked perfectly.The only problem I have experienced with this card is when you're using it in Ubuntu, your computer hangs for a few seconds with each notch you adjust the volume.Note:  If you want Dolby Pro Logic II Surround you have to turn it on and turn off the EAX.  Dolby decoding is not on by default.Use these settings in the Xonar DX Audio Center application:* Audio Channel: 2 Channels* Sample Rate: PCM 192KHz* Analog Out: 5.1 Speakers (or 7.1 if you have 8 channel speakers)* SPDIF Out: Off* Check the box for Dolby Pro Logic IIx* Uncheck the box for 7.1 Virtual Speaker ShifterThis gives you Dolby decoding for your music and movies without needing a separate tuner.Next click on the FlexBass button and set it to On.  Set the LFE Crossover Frequency so the heavy bass sounds sound like they are coming out of your subwoofer.Finally, hit the Effect button and set the equalizer sliders to match the type of audio you're listening to, or hit one of the preset buttons.This would be a very good card for a HTPC, with its half height retention bracket included in the box (you have to order it separately for most sound cards).Oh and by the way, don't bother paying more for the DX2 card.  The only difference is it has a wicked looking plastic cover and a fan, which you probably won't need. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This sound card is amazing. </p>
+
+
+<h2> review.date </h2>
+  09-17-2010  
+<h2> review.text </h2>
+
+ <p> I got this for my new HTPC.  I was amazed to find that WMV HD audio was only in 2 channels out of the optical port on my motherboard.  I don't know if this is a problem with Windows 7 or just WMV/A HD in general but this effect my Amazon Unbox videos so I wasn't happy and I really didn't want to deal with analog outs. This sound card fixes that problem by flat converting everything to Dolby Digital.  I was pretty skeptical that it would actually work or I would have bought a higher end one.  In any case it does exactly what I wanted I think the only downside here is that everything is in Dolby Digital so that includes anything that was in DTS but I'll live with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what I wanted </p>
+
+
+<h2> review.date </h2>
+  11-05-2010  
+<h2> review.text </h2>
+
+ <p> The Xonar D1 is a piece of garbage. Using the CD that came with the audio card to install the drivers/software on my Windows 7 PC (with a genuine Intel motherboard) the software locked up my computer 5% into the installation process.  I had to reboot the PC in safe mode and uninstall the card.  I even went to Asus' web site, and downloaded the latest version of the drivers, and the very same thing happened.  The PC locked up tighter than a drum just seconds into the install.And yes, I disabled the onboard sound card via the BIOS prior to installing the card and drivers.I wouldn't waste your time with this card seeing that ASUS provides no telephone technical support. Look for another company that can be reached by telephone and that makes better products. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Locks up Windows 7 tighter than a drum </p>
+
+
+<h2> review.date </h2>
+  10-02-2012  
+<h2> review.text </h2>
+
+ <p> This was great for Music, the first thing I turned on of coarse, But then I went to play my games and only one worked?? with sound and was BF:3, sounded so good, so thought something was wrong, but sure enough its fine it just doesn't work with games, doesn't support anything, even though asus usually pretty good about that, but not this time.Don't buy for games, probably won't work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Do not buy for gaming! </p>
+
+
+<h2> review.date </h2>
+  10-15-2010  
+<h2> review.text </h2>
+
+ <p> This sound card is absolutely excellent for music with really good output and more bang for the buck!! But for games is not really that good , EAX 5.0 not available...Also dont try to play a MIDI file with this card ..since it will not play as the card has no MIDI Synth included... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gamers beware </p>
+
+
+<h2> review.date </h2>
+  03-19-2013  
+<h2> review.text </h2>
+
+ <p> excellent sound in ubuntu 12.04I use an old 1Ghz mother board for my mp3/flac archive of music feeding my magnaplanar speakers.the onboard sound was not cutting it, very little projection, high frequency distortion, well just kinda muddled.this is the best $90 I could have spent and get this much enjoyment out of this system.I didn't use the included software as linux has the drivers built in.I am only using stereo.I am using the analog out to my pre-amp and power amp.the card can do up to 192k/24bits ... for the price I recommend it.very good value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent sound in ubuntu 12.04 </p>
+
+
+<h2> review.date </h2>
+  10-29-2013  
+<h2> review.text </h2>
+
+ <p> I couldn't get the system to recognize this card. I turned off the BIOS audio and disabled the drivers. I tried both pci slots. I can't comment on the sound - I couldn't get it to install.  I had the same problem with the ASUS DSX board too.update: After trying several times over as many days I finally got it to install. It sounds great, but the brain damage to get the funky drivers to work cost a stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Won't install on Gigabyte i5 motherboard - Win 7 64 </p>
+
+
+<h2> review.date </h2>
+  11-01-2010  
+<h2> review.text </h2>
+
+ <p> This sound card does work well with the included driver.  I was very happy that I finally got hassle free 5.1 through the fiber optic port.  Before this card I was only getting stereo through SPDIF.  This is a nice improvement for video games and movies.  I really like that the equalizer works even on the digital output.There are two significant problems with this sound card that you should know about.1.  The ports are close together on this card, so if you're like me and use big fat high quality connectors they won't fit next to each other.  With such a high signal to noise ratio I expected them to expect me to use these cables!  If you are using the digital output you won't need to worry about this problem.2.  None of the Asus drivers support vista and 7's enhancements.  The card does have it's own enhancements that are probably better than what windows offers except for room correction.  Room correction allows you to correct the frequency response automatically using microphone calibration.  It works very well to balance all the channels in your system.  I would not have complained about this if asus had included an equalizer for EACH channel but that is not the case.I understand that most people do not use room correction or high end 3.5mm connectors but that was a big deal for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sound with two issues </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> I debated for a while between getting this sound card or a desktop unit like th schiit bifrost.  Having a LYR on order already and deciding that it would go on my desktop I decided to get a soundcard instead of the bifrost, it doesn't hurt that sound-cards are WAY cheaper then desktop units as well, as even the most expensive ASUS card is around $200 bills.1.  First off if you're going to but this unit, DO NOT use the asus drivers, use this:  [...]It's a modded driver that works much better than the asus one.  I had plugged in the D1 and spent the better part of an hour trying to get it to work.  Then when finally I had the driver installed sound wasn't coming out of all the ports, just one of them.  To fix this I tried to go into the asus sound manager which didn't open because it said the card wasn't properly installed...which it was.  By using the sound manager from UNI it fixed all these problems in a matter of seconds after it's installation.SOUNDYes this is why we buy these things...This card gives GREAT sound.  And after to doing a lot of research the reason I got this card is because I use external headphone amps and have powered M-Audio DSM speakers.  So I didn't need the extra juice of the Xonar essence.  So if you are like me and use either a receiever/amp or have powered speakers (as most computer speakers are), there's no reason to get the extra juice and headphone amp that the essence has.  This is rated with a 116db signal to noise ratio where-as the essence has a 120 rating.  If you can tell the difference then god bless you but I certainly can't as my friend has the same card and the sound is just as good on both.The sound quality compared to my asus P67 motherboard is night and day.  Asus motherboards do have better sound then most, but the card really did lift the "veil" off the music.  This is mainly because of the great DAC that this thing has.  It outputs super high quality 24 bit sound, and it's adds puncha nd clarity to the mix throughout the frequency spectrum.One thing I did notice is that my subwoofer is MUCH more punchy and well defined.  And while that does have it's own power as well, the signal is just way cleaner which separates the instruments much better.I also always thought that the slight buzz/white noise was just my cables, but it wasn't it was the motherboard.  This card got rid of ALL the white noise.  All that comes through now is the music, and it's dead silent when that isn't playing.All and all I'm %100 percent happy with the sound quality, I just wish that Asus would make a better driver and control system so that I could have that two hours of my life back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Performs above its price tag... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

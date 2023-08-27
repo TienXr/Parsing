@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1626390592 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> two thumbs up (if not more) </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved the way this book  was written, &#34;then&#34; and &#34;now&#34;. The story was engaging from the start. The characters were so well rounded you could feel what they were feeling and why. While a bit frustrating at times, this book is worth every minute you spend on it.  READ!!!!READ!!!READ!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Makes you longing. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love a good story. They are so few of them. This one should have been longer and this author should have more work.A reading treat. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Incredible love story wrapped in a top-notch thriller...supremely entertaining! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is an incredible love story. Additionally, it is a top-notch thriller that kept me on the edge of my seat. The cornerstone and driving force revolves around two amazing women whose love burst on the scene while they were both at the Royal Northern College of Music in Manchester, Great Britain. The story bounces back and forth between a current date and time titled Pakistan Today and a previous date and time titled The North of England, then. I liked that shifting back and forth from today to the past, because for me it was handled very well, with little confusion, and delightful balance and continuity. This is a winner!Charlotte Porter, aka Charlie, has returned to finish her schooling after recovering from the traumatic death of a very close friend. She is a voice major with an apparently angelic and marvelously expressive talent although it is not given much airtime. Moreover, she has an extraordinary family that is very supportive and pleased she has hooked up with Hazaar. Well, Hazaar kind of stalks Charlie after she accompanies her during her voice audition on the piano. Charlie is one half of the amazing love story, but additionally she blossomed into an extremely talented and successful British embassy task force negotiator re-uniting British nationals who have been forcibly relocated to Pakistan with their British families. When Charlie is this bit of a rogue negotiator, the thriller part of this book unfolds. Charlie is rather a multi-talented woman. I loved her!Hazaar Alim was born in Stockport, Great Britain. She is the youngest daughter of four with one brother of a devout Muslim family. Within the 'then' part of the book, she has cleverly avoided being married off, since she brings honor and prestige to her family via her extraordinary musical talents and her continuing education right through a doctorate program. She is necessarily within the closet from a sexual orientation standpoint, but definitely is out as she ingeniously and with determination pursues Charlie. Clearly, she is the other half of this magnificent love story. Hazaar has put together a well thought out path to her liberation. However, as Robert Burns originally so aptly stated and I borrow from him &#8220;The best laid plans of mice and men [daughters and lovers] often go astray.&#8221; Hazaar is an eye-opener!Charlie learns that Hazaar's name means nightingale in Arabic and it was a song titled Nightingale that eased Charlie's way into the Royal Northern College of Music. That is just the first of many touching and beautiful connections Charlie and Hazaar have. This multi-tiered story with a hot and sexy love story, an extremely exciting intense military-like task force operation marvelously intertwined with a host of outstanding supporting characters makes this book a wonderfully balanced and supremely entertaining read. I easily give this my highest recommendation. Truly, not to be missed!NOTE: This book was provided by Bold Strokes Books for the purpose of a review on [...] Rainbow Book Reviews&lt;/a>. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A good read </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed this novel and will read others by this author.  I can't give it a five as some of my main criteria were not met which are at least one good chuckle, shed a few tears OR be so engrossed that I absolutely cannot put the down.  There was good character development and great proofreading so no issues there. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A touching story!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I laughed, I cried, but most importantly I felt!!!  This is one of those rare stories that will stick with you for days after you've finished it.  This is the 1st novel that I've read by Andrea Bramhall and I love her style.  I will be buying everything I can find by her.  I highly recommend this book.  I can't imagine anyone being disappointed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A thought-provoking "romance-cum-thriller" with a British-Pakistani story </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I applaud Andrea Bramhall and BSB for writing an publishing this though-provoking story. It is not only superbly written, but focuses on the festering problem in the middle of Western societies, the rights of women from patriarchal societies. The sweet love story contrasts with the harsh reality of forced marriages and abduction of Western educated women into medieval societies. Thanks for tackling this subject and putting it into our focus. The story stayed a long time with me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An unexpected read </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bramhall has created two interesting characters in Charlie Porter and Hazaar Alim. Meeting at university, both from very different cultural backgrounds. The structure of mixing timelines and from the perspective of the two main characters is well constructed, bringing an additional element of a thriller to the mix. The plot is fairly simple but makes sense for the characters, who are well developed. The perspective of different cultural values is presented evenly, presenting both sides while heavily betting on a mainly western readership. I really enjoyed this book, and I wasn&#8217;t really expecting to.  I recommend it as a change from the standard lesbian romance and it stayed with me for days. This is a cut above. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Super read! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nightingale is a great book! The plot is super relevant to today's political and cultural challenges and so well laid out in a combination of flashbacks and contemporary scenes. Her two main protagonists, Hazaar and Charlie are richly developed as characters along with the supporting characters that are intrinsic to the story. Their connection is deep, hot and doomed from the start and you know it's coming as you read. Picking up their thread years later, you watch them come back together through a dramatic set of circumstances.Nightingale is a wonderful read that makes you want to sit down and inhale in one long read. It's well written with rich dialogue and great characterization. And....steamy! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brilliant </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> How incredibly challenging is it to do a past/present novel. But it's done so well I couldn't believe it. Absolutely brilliant. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A wonderful romance amid the harsh reality of forced marriage. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Charlie Porter is attending her audition for a place at University when a chance meeting in the ladies toilet changes her life.  A beautiful woman gives her advice that will change what she performs and steals her heart in a moment.Hazaar Alim is beautiful, clever and an amazing pianist. She comes from a traditional Muslim family where arranged marriage is normal and knows her father has been indulging her love of performing. She is living on borrowed time. When the call finally comes Hazaar feels she has no choice but to break both their hearts. Little does she know quite how terrible her decision will turn out to be.Ripped apart and unable to completely get over losing the love of her life, Charlie joins the diplomatic core in a vague attempt to reconnect. She spends her life helping British women who have been abducted to Pakistan escape their forced marriages. When a call comes in saying a British women is going to be killed, Charlie will do almost anything to save her.Fate brought them together once; time and destiny will tell whether their paths will cross again.----------Nightingale is an amazing and sometimes brutal tale of the fate of women forced into arranged marriages and abducted by their husband's family to places where western law and western agencies cannot reach them. At the same time it is a wonderful romance that tells the tale of two women who's souls connect from the very first day and are destined to love each other despite their separation. For one that love is the driver to help women in desperate circumstances. For the other it is the will to survive a despicable situation, and to live through anguish and pain.Andrea Bramhall's novel is timely and all too realistic. In the UK it is a known fact that too many women are forced into marriage and then taken to countries where they can be treated as slaves or held prisoner. We read frequent stories of abduction, of women being murdered for disobeying their husbands or fathers, of children disappearing. Finding and retrieving those women and children once they have left the country is an almost impossible task.Hazaar is a wonderful character. She vibrates off the page in her passion and intensity. Her strength of character, her will to survive and the desperate choices she has to make resonate despite our lack of personal experience. She wants to stay with Charlie, she knows that is the right decision for her happiness and sanity. But when faced with the choice of saving her father's business, and possibly his life, she cannot make the selfish choice. The consequences could literally destroy her.Charlie is a woman done wrong by her love. She knows Hazaar is holding back some powerful secret, but has no idea how destructive that will be. When faced with the truth she lashes out in pain and runs from the agonizing drawn out end of their relationship. But she rises above her own anguish and channels her energy into saving women like Hazaar. She is a woman on a mission, dreaming of finding the woman she loves, however unrealistic, and using her skills to rescuing other women from a similar fate.Brilliantly well written, the main characters and their supporting cast are skillfully drawn. The plot is cleverly planned and the switches between the past and the present, the consulate and the compound are well handled.  It is a tale of suspense that ingeniously keeps the pages turning, first to know Hazaar's decision, and second to know her fate.Ms Bramhall has carefully avoided making this an attack on the Muslim faith. The drivers of these criminal acts are men who lust for power and wealth. It is a story about patriarchy and ignorance, power and abuse. Of men who use the Sharia laws for their own gain and women who are powerless to stop them.This book will move you to tears. You cannot help but feel Hazaar's pain at the choice she feels she has to make, her despair when she realizes the consequences of that choice, and her passionate will to live despite it all. Charlie's hollow existence will also reach out to twist your heart.You need to read this book. There aren't enough stars to recommend it highly enough. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

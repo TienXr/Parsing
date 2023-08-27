@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000F4RHBQ <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent.... </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I saw Part I of this series when it originally aired on PBS many years ago.  I bought this to see the remaining episodes.  It was a worthwhile purchase!  I honestly think my area PBS stations only aired this one time, which wouldn't surprise me, given that it really is about--as its description says clearly--the lesbian relationship between these two women and its impact on ALL of those, but especially their husbands, around them.  Everyone in this production is a fine actor.  The story is inherently interesting, in part because it involved at least one famous person, Vita Sackville-West.  And these women, even without one another's dynamic relationship, were interesting people by themselves.  I must admit, to me, this production is driven by character and conflict.  If you want typical action-packed, fast-paced American viewing, this is NOT for you.  If you abhor lesbianism (for whatever reasons), this is not for you.  I did find myself splitting up these episodes, watching each on a different night, over three nights.  Much of this story is, at least I think, depressing.  I simply couldn't watch more than one episode a night without having it make ME feel down, but I'm very glad I have this production. It was worth investing in. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Platonic Passion </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-12-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> "Portrait of a Marriage" is the superb, controversial Masterpiece Theater miniseries from 1990. Nearly two decades old, it was shocking at the time, before the show became the redundant "Masterpiece Classic" and more historically than emotionally authentic. "Portrait" has endured. In the '90s, the Bloomsbury group inspired numerous movies, from this series to Sally Potter's "Orlando" and Emma Thompson in "Carrington.""Portrait of a Marriage" is a biopic of feminist author Vita Sackville-West and her diplomat husband, Harold Nicolson. They married, and had a deep emotional bond, despite the fact Harold had flings with handsome young men, and Vita carried on with women--such as Virginia Woolf. The series is quite affecting in showing their affectionate, passionate devotion. Janet McTeer and David Haig are an excellent, credible couple. Their marriage is endangered by Vita's longtime friend, Violet Keppel (Cathryn Harrison). Vita is torn between her husband's devotion and Violet's flighty passion. Harold provides constancy,despite the fact he has a handsome unseen lover named Edward in Paris. Vita and Violet are impassioned&obsessed.; One can argue that it was the infidelity and the obsession that was the problem, not the homosexuality."Portrait of a Marriage" is a superb period piece. It depicts a time when homosexuality was more stigmatized, and gender roles were more rigid. It's a powerful, passionate portrait. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Woman Hard To Like </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-22-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> It all sounds terribly thrilling at first: a marriage between two homosexuals of opposite sexes, enjoying married life while engaging in same-sex affairs. It's almost too good to be true, which is exactly what is shown in this engrossing dramatization. The acting is flawless, but the characters seem hardly attractive. Vita Sackville-West plays a terribly selfish, destructive person who talks a good game of devotion to husband and children, but loses herself so much in her passing lusts that she not only can't see why she should spend Christmas with her family, but can't see why the British should defeat Hitler. She's giddy with her new-found sexual liberation but becomes a stranger to reason and, finally, almost wholly unsympathetic. Her horsey bad looks and fabulous wealth evidently made her irresistible to some, but as acted this is a woman who verges on the detestable. Husband Harold is oddly weak and ordinary. Vita's girlfriend seems merely vulgar. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Epic!  Eloquently spans the spectrum of emotion, design, and quality film making! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> The brilliant telling of the real-life love affair between feminist writer Vita Sackville-West and novelist Violet Keppel, women lovers in post WWI England, is devastating and exquisite. The amazing and intriguing story of the intertwining real lives of the main characters is riveting and surprising; the characters are completely compelling and irresistable.  The drama of passion and the devastating jealousy between the women, combined simultaneously with real love and devotion between Vita and her bi-sexual husband, Harold Nicholson, fills every sense. The love scenes between the women are refreshingly realistic and passionate; with every liaison, Vita becomes more and more torn between her two loves.  Excellent cinimatography.  The period details are perfect.  A true experience to enjoy over a couple of evenings.Based on the book completed by Nigel Nicholson about his parents based on letters and journals left by Vita, this mini-series is absolutely wonderful! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A terrible "adaptation" of a great book </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-27-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm appalled by all the positive reviews of this rather tired and maudlin film which is said to be based on the altogether wonderful book "Portrait of a Marriage" by Nigel Nicolson.  As far as adapatations go, this is one of the least faithful I've ever encountered.  Either the writer of the film used various sources other than Nicolson's book, or she made things up (which is not likely).  Gone is the rich history of her mother and grandfather, of growing up, of her later years and relationship with Virginia Woolf.  Only a brief line or two mentions Vita's first romance with Rosamond.  This is not a portrait of a marriage, but rather the portrait of an affair.  Vita is portrayed as a spoiled malcontent trapped in a loveless marriage (which is the opposite of the portrait in the book).  The cast is not at fault; indeed they are all to be praised (especially McTeer).  Likewise, the production elements are all first rate.  It is the direction, teleplay and dramatic pacing which are at odds with the source material.  The characters are poorly drawn, and their motivations not well articulated.  What about Violet has captured and possessed Vita, is it her personality,her sexual magnatism, is she thrilling and vibrant?  Not here.  We have no "real" clue as to what has brought these two women together in such an all consuming passion.  These characters - as depicted - are spoiled rich brats; and it was hard for me to give a damn about them and their "classy" problems.  The book is so rich is detail, history and atmosphere which this film doesn't even attempt to capture.  It is a one note affair (pardon the pun) and one I can not in good faith recommend.  Please, please, please, read the book and skip the film. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> At Last! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-18-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Luckily, I was there to tape it, but if you didn't see this when it came on PBS in 1992, you missed it for 14 years.  I've been letting many a bisexual female friend borrow my copy, so I'm glad this is finally on DVD.  As popular as the topic of female bisexuality is now, I'm really surprised the producers didn't make this decision sooner.There have been many films where one spouse comes out as gay ("Brokeback Mountain," "Making Love," and "Lianna" are examples).  However, this was a rare description of a "lavender marriage" where both spouses are gay.  This film may be revolutionary to see for couples that fit that description.This work was quite pioneering for its time.  Cinema fans who love seeing women's narratives in Europe during the first half of the 20th Century will love this.  Works such as "Tipping the Velvet", "Henry and June", and "Paris Was a Woman" came after this movie and may have copied elements of it.Just like "Brokeback Mountain," this film has a tragic conclusion (I haven't given up the plot, you'll have to see it to know what I mean).  Since it portrays facts that really happened, I can't fault it much for the ending.  Still, be prepared for a downer!Though Sackville-West had a romantic relationship with Virginia Woolf,  it does not come up in this work. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ....How does your garden grow? </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> The story of Sissinghurst and the people that gardened it.  The time was so hard for anyone that didn't fit the norm.  But a woman to marry a man when the man loved her but was attracted to his own gender.  And a wife who learned to love another woman.  And a house and garden that kept them together over a life time of turmoiul, love and just wanting. I loved this tale and it will always live on my favourite list.  old by a child of the marriage the story is honest and so painful times.  But like the garden this couple tend can send a beautiful rose at times even if it only lives for such a short time before showing it's thorns.A beautiful tale but care, careful it just might break your heart. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wonderful portrayal of a torrid love affair... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This BBC adaptation provides a forthright look at the torrid love affair between Vita Sackville-West (Janet McTeer) and Violet Trefusis/Keppel (Cathryn Harrison). Set during post-World War I England, their affair continued for many years despite their husband's disapproval and attempts to separate the women.The intensity of their affair knew no bounds as the women abandoned their families to run away together for weeks at a time. Vita avoided suspicion when they were traveling by often dressing as her alter ego, Julian.Directed by Stephen Whittaker, the film was adapted from Nigel Nicholson's book A Portrait of a Marriage, based on Vita Sackville-West's journals and letters. Whittaker has captured the intensity of this affair along with the incredible excitement that must have come from dressing as man and wife traveling through Europe in the early part of 1900&#8242;s.Janet McTeer and Cathryn Harrison are phenomenal as Violet and Vita; their acting is superb. The women's ardent relationship is portrayed through numerous extremely passionate love scenes, which were quite daring for the time.Chris AldersonAuthor of the 2013 Lesbian Film Guide </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Controversial in its time,... moving </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had seen this  Mastrpiece Theatre mini-series almost 15 years ago.  I revisited a taped copy and loved it all over again. So I orderedfor my DVDs library.  I watched it again, and loved it as much as the first time.  Janet McTeer as Vita Sackville is wonderful, A stronglesbian at a time when being gay was not accepted at all, and people were forced into relationships that was not in their core. Vita islucky to find Harol Nicolson who was also living a double life.  Their marriage though full of side affairs was strong and tender, Thoughthey had  two children and Vita neglected both at times, she loved her family and their marriage endure.  Her affair with her childhoodfriend Violet threatened her marriage enough... and eventually survived through her strong will.made account of </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> PBS Series, Great Drama </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-17-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you enjoy period dramas or bios, check this one out..also a true story written by the couple's son, Nigel </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pretty but downbeat </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-07-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nigel Nicholson's book is a biographical gem and I expected a lot from the TV series. I was let down. It's prettily filmed, well acted and evokes the period well, but there was a petulant, downbeat feel to the screenplay that wasn't present in the book. Neither Vita Sackville West nor Violet Trefussis was presented sympathetically, which I felt belied the fact that both were sufficiently attractive in real life to interest many suitors of both sexes. The only character who came off well was Nigel Nicholson. Subliminal anti-gay bias in the production team? Despite this, I liked it enough to buy the DVD. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> the agony of longing </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-06-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I first watched this series when it came out in much anticipated weekly installments on Masterpiece Theater in 1992.  My rapture lasted from Sunday to Sunday and having now the full serving at one sitting allows me to recapture small nuances that had fallen into the abyss of forgetfulness (it was fourteen years ago!)  The story of the Nicolsons and of Vita and Violet is the story of a longing that exhilarates and crushes, as Janet McTeer's face and actions vividly capture.  Her longing for Violet, as compared to her true longing for her husband, makes one believe that loving only one person is perhaps unnatural and unhealthy.  Harold comes across as truly "male" in that he expects Vita to return to him even though he continues to pursue his same-sex relationships.  One sometimes wonders if his love for her is truly deep or whether his awareness of social convention is stronger than Vita's, as she continuously lives on the edges of her passions.  Vita is striking as portrayed by Ms McTeer, both as a woman and disguised as a man.  Violet is a striking beauty but comes off as more needy and less insightful.  Mr. Trefusis is portrayed as a prig, lost in a vortex of passion that he cannot feel, much less comprehend.  This is a most thoughtful and detailed "portrait" of relationships--male/female and female/female--without condescension or judgment.  Watch it carefully and come to your own conclusion to be sure: I suspect your thoughts about sexual relations will be profoundly shaken. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ONLY 2 DISCS ? </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-02-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I also taped this program when it showedon masterpiece theater.However,my tape is6 hours long with no commercials. Have they cut some of thismovie in order to put it on 2 discs?Let me know please </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

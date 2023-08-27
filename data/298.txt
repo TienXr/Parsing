@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00CS997GE <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-04-2013  
+<h2> review.text </h2>
+
+ <p> I gave this movie a 4 rating , because it is an old style entertaining western , with a range war that pits Brown and Cameron up against Ankrum's land baron.Brown is the marshal and Cameron is the drifter pushed off his land .Producer Blackburn's taut script is particularly good, and the climax in the movie is a running street battlewhich is effective .A very good western . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> short grass </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> If Allied Artists had made this 5 years later it would probably have starred George Montgomery. As it is we have the behemoth Rod Cameron in one of his better later roles. Splendidly directed by Leslie Selander, and presented in clear B/W 4.3 transfer with good sound, this is a western for all fans. Excellent reviews have already been written, so I'll be brief. A real pleasure to see Myron Healey in an early bad guy role along with his saddle pal Jack Ingram, and that's not all. Harry Woods has a great part, as do Jeff York, Riley Hill,Alan Hale Jnr., Raymond walburn, and even Tris Coffin makes a very brief anonymous appearence. Cathy Downs does her best with a poor part/script, and Johnny Mack B is very good as a sherrif (I didn't think his character was &#34;weak&#34;) All in all a fine western worthy of a personal 5 stars. Recomended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SHORT GRASS COURTESY WARNERARCHIVE </p>
+
+
+<h2> review.date </h2>
+  01-09-2014  
+<h2> review.text </h2>
+
+ <p> Rod Cameron as an honest if wandering frontier type holds on to his conscience and ideals aided by Johnny Mack Brown, in a character part and Alan Hale, Jr. Morris Ankrum is the antagonist, a part he plays with intelligence and a kind of warmth. Sensitive and unusual. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Maybe Better than the Four Stars I have Given it. </p>
+
+
+<h2> review.date </h2>
+  05-28-2013  
+<h2> review.text </h2>
+
+ <p> I have commented previously on several Westerns featuring Rod Cameron. SHORT GRASS is the third film with Cameron released by Allied Artists (Monogram Picture's higher budget releasing agent), and it came out in 1950. It was preceded by PANNHANDLE and STAMPEDE, both of which are also on DVD now. These three Allied Artists releases are superior entries, with good production values, equal to other "little A" Westerns released during the 1946-1950 period. (Monogram, itself, released three additional shorter, color Westerns with Cameron, and these have been put on DVD, as well, by Warner Archive)SHORT GRASS stands out for a number of reasons. First, there is the stellar cast: not only do we have Cameron, but featured co-stars include Johnny Mack Brown (the town sheriff, a role he also plays in STAMPEDE), Myron Healey, Stanley Andrews (the "Old Ranger" of "Death Valley Days"), Morris Ankrum (leader of the bad guys), Harry Woods (Ankrum's henchman), Alan Hale Jr.(of later "Gilligan's Island" fame, who becomes something of a sidekick for Cameron in this oater), the inimitable Raymond Walburn (the town doctor, who injects his famous humor into his role), Kermit Maynard (from former B-Western fame), Lee Tung Foo (who runs a restaurant), Cathy Downs (the love interest), and other familiar faces.The film has a feel of ensemble work to it. Everyone seems to know exactly what to do and what to say at just the right moment to make this truly a rip-snorting romp in the old West. The plot line is well-handled, the action even more fierce and rapid than that of STAMPEDE. SHORT GRASS doesn't drag at all. For old cowpokes desiring solid action, this one gets a highest recommendation.This Warner Archive DVD-R release comes in at 90 minutes (not the 82 minutes listed in various other sources). The picture quality is quite decent black & white.Now let's hope some of the remaining Cameron oaters make it onto DVD. Republic made eight Westerns with him, several of which appeared on VHS cassette(BRIMSTONE and RIDE THE MAN DOWN). They need (re)releasing on DVD. Columbia, hopefully, will release STAGE TO TUCSON. And Universal contracted with Cameron for several good ones which also need American release....PIRATES OF MONTERREY has shown up in Europe, but all of them are needed on this side of the Atlantic.Let us give thanks to Warner Archive for SHORT GRASS. When I saw this fine little film many years ago, I never dreamed I could one day own it. But I hold it in my hands as I pen this review. Recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another fine Rod Cameron Western </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> very good western .rather surprised me . always knew rod cameron did well in western. this movie proves it. regards ken </p>
+
+
+<h2> review.summary </h2>
+
+ <p> unsung hero </p>
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> This is a middle-budget western. Not a big John Ford or Howard Hawks film, not a small Hopalong Cassidy or Roy Rogers film but one of those sort of between. And the best is that we now are able to see them. John Ford is of course the greatest and often b-westerns are the best concerning action and great fast riding but these &#34;betweens&#34; certainly are worth watching. They were films with Randolph Scott, Joel McCrea, Audie Murphy and many other great heroes. In this picture it is tall and convincing Rod Cameron who makes life risky for the bad guys and he is supported by good ol' Johnny Mack Brown. Lesley Selander directs and that means lots of action and shooting and fighting scenes. The plot is very intense and the magic between Cameron and leading lady Cathy Downs ( My Darling Clementine herself ) is glowing. The western buffs' best friends namely the so called mainstays are richly represented. Harry Woods, Morris Ankrum, Jack Ingram and many, many more. And the print is fine so who could ask for more? Well, that should be for more of these films! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A present to western buffs! </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> Another above-average western with Rod Cameron. Good quality release highly recommended. Plenty of action with a good cast. Great stuff. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short Grass </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> I'm a fan of Rod Cameron and consider this one of his better films. I have also recently purchased `Stampede' and `Panhandle,' two more of his westerns. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short Grass </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> This was a fun western that I enjoyed. Routine, but if you like westerns I am sure you will enjoy this one. It was nice to see Johnny Mack Brown playing a different type character (in this case a weak sheriff) and I always enjoy watching Myron Healey. An enjoyable Rod Cameron western. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun western. </p>
+
+
+<h2> review.date </h2>
+  07-11-2013  
+<h2> review.text </h2>
+
+ <p> In the late forties Monogram Pictures began to move into the &#34;A&#34; movie realm by creating a subsidiary named Allied Artists by producing films with higher production values and longer running times, leaving their series pictures like Johnny Mack Brown and the Bowery Boys, under the Monogram logo. After 1952 all the films came under the Allied Artists logo. Three of the early Allied Artists pictures were westerns, Pan Handle, Stampede, and Short Grass, all starring Rod Cameron. Pan Handle and Stampede are noteworthy because they were written and produced by Blake Edwards and John Champion, Edwards went on to a great career with Peter Gunn and the Pink Panther and other filmsShort Grass was written by Tom Blackburn and directed by Lesley Selander, a good western director.The cast includes Johnny Mack Brown, taking a break from his &#34;B&#34; series. Cathy Downs, and Alan Hale, Jr. The writing, acting, and directing are good. The budget was perhaps too small to support the &#34;Cattle empire&#34;  theme. Better location work would have helped.Rod Cameron made two serials at Republic, &#34;B&#34; westerns and other films at Universal. He was a stalwart western hero in several films at Allied Artists in the fifties. William Witney, the great western director at Republic, said Cameron was the bravest man he ever knew because he divorced his wife and married her mother. Tall in the saddle indeed.The image and sound are good. It's a Warner Archive production of a fine example of a good western from 1950.Wade. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rod Cameron rides tall in the saddle. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

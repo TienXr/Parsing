@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B006K1IIAC <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-18-2013  
+<h2> review.text </h2>
+
+ <p> I have watched many productions but this one is imaginative and modern, fast-paced and believable, at least while i am watching. I have rewatched the episodes many times and am mesmerized and in their world each time. My  favorites are the first and last, those two I've lost count of the repeats.  The Woman (aaaah) is a favorite also. They are on  Netflix right now but won't be forever. Multi-region players are extremely inexpensive, and you get the full story. Masterpiece edits for time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sherlock and Watson in modern times. Woohoo!!! </p>
+
+
+<h2> review.date </h2>
+  03-05-2014  
+<h2> review.text </h2>
+
+ <p> We love Sherlock, and can't stop watching it. The extras alone are worth the price. One of the best shows (actually each episode is almost 2 1/2 hrs long, so more like mini movies) on TV today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Show EVER </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> My sister is a Cumberbatchbitch, if you dont know what is that, is a crazy fan of Benedict Cumberbatch so she really love this, love it for the christmas gift hahaha </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cumberbatchbitch </p>
+
+
+<h2> review.date </h2>
+  07-12-2013  
+<h2> review.text </h2>
+
+ <p> Really disappointed and should have read the reviews. I was so looking forward to seeing this but it would not play on my Sony Blu-ray player. Maybe this will be fixed and I'll be able to see the series eventually. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> would not play </p>
+
+
+<h2> review.date </h2>
+  11-07-2013  
+<h2> review.text </h2>
+
+ <p> One of the best British series on television. Benedict Cumberbatch is amazing in the role. The writing, dialogue and stories are amazingly interesting and intriguing! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watch it for Bennedict Cumberbatch. You'll be impressed! </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> Wow this is beyond good.  If you like mysteries and a touch of the bbc magic this show is for you.  You will love the actors they bring the characters to life.  If you happen to be a Conan Doyle fan like me its fun to watch the shows and figure out where the stories originate from.  A very well done show I hope it stays around for more years to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An up to date sherlock that stays true to the original stories </p>
+
+
+<h2> review.date </h2>
+  02-24-2014  
+<h2> review.text </h2>
+
+ <p> Sherlock series is the best ever.It has everything you could look for in a picture.I think everyone should see it!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sherlock third season </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> My son had these on blu-ray, and I watched them so much I decided I needed my own set; these were reasonably priced and arrived quickly.  Honestly one of the best TV shows I've ever seen, and definitely beats anything on currently.  The acting, writing, creativity and cinematography are absolutely top-notch, and the fact that Benedict Cumberbatch and Martin Freeman are now very sought-after actors is no accident.  HIGHLY recommend!!  (And ANXIOUSLY awaiting Season 3...!!!!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best show on TV </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> Thank goodness I have other ways to watch Blu-Rays besides My Panasonic Blu-Ray player because this set will not play at all.  I am able to get it to work on my Computer only.  BBC should try to meet the standard that most Blu-Ray players use, especially when the movies are not Region TWO. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sherlock Complete Series One And Two </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> If you have a laptop and can somehow find the rare and horribly expensive (not) HDMI cable, and if you have a television that has an HDMI port, you can watch practically anything. It's worth it to me to do it this way because 1) it's no big deal, and 2) the British version has the special features that I enjoy very much, and 3) why spend money to buy a different player when I actually have a solution at hand? As for the value of this 2-set series, if I were any more pleased I would have to sell all my belongings and move to London so that I could stalk the filmings. This whole series makes me happy. For anyone who has not seen it, you can stream it as I did. The memorable and clever dialogue, the inventive photography, the rare chemistry between Martin Freeman and Benedict Cumberbatch, the music, and probably other elements I'm not even aware of combine to deliver satisfaction to whatever place I sit and watch. I bought the DVDs because backing up to rewatch something while streaming is devilishly annoying and streaming doesn't give the special features. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> PAL format problem overcome </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

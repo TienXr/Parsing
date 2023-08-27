@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1610391667 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> I  read this entire book in one sitting. I simply could not put it down!!This was a fascinating portrayal of middle class Pakistan. The storytelling was colorful and rich with wonderful mental images.  I was so moved as I read about this family and it's struggles in the chaos of modern Pakistan.  The writing was riveting and the characters came to life for me, as did everything else in this book!This book was truly amazing and gave me a new perspective Pakistan today.  I'll certainly be looking for other books from this author! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Could Not Put It Down!! </p>
+
+
+<h2> review.date </h2>
+  05-13-2014  
+<h2> review.text </h2>
+
+ <p> A personal perspective of the life in Pakistan and the trials of family with the terror of the Taliban and it's grip on the young. The scary use of these innocent young men and the destruction of the innocent people.  A gripping tale that kept me engaged till the end.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pakistan Bargain Bazaar </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> In the same league as Mohsin Hamid and Khalid Hosseini, Bargain from the Bazaar jumps right off the page! Haroon Ullah has hit a home-run with this non-fiction book! A high paced and fast moving story - it is a true story of a middle class family in Pakistan and I could not put it down for days. The Lahore based family kept me turning on each page and wanting to know more. Clearly one of the best non fiction books I have ever read - I would rank this in my top 10 books list of all-time. I feel as though more people need to read this story of Pakistan because there are so many connections to life in America. It is truly about making something accessible where there has been so much distrust and suspicion. This book clearly took many years to research and to write. I'm a new fan of Bargain from the Bazaar! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Captivating! </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> In The Bargain from the Bazaar we follow the story of Awais Reza and his family as they go about their lives in a side of Pakistan rarely seen in Western media. In the book the author Haroon K.Ullah has manage to capture a detailed snapshot of life for those living in one of the world's most mercurial countries in a manner that will captivate and interest anyone regardless of their level of knowledge of the region. I particularly loved the authenticity of Ullah's descriptions as he manages to paint a vivid picture of the hopes and dreams not just of the family within the book but also for the wider population as Pakistan's future is shaped. Despite many of the positive changes within the nation, Ullah highlights the continuing threat to new generations from aspects such as fundamentalism and heroin as well as how western influences are threatening livelihoods and cultural identities. I would thoroughly recommend to book to anyone who wants to better understand the current situation in Pakistan and the Middle East as well as what it's future could look like. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fascinating and authentic perspective that will immerse you into Pakistani life. </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> After listening to an radio interview of Mr. Ullah on the Dennis Prager show  I knew immediately I had to read this book.  I came away with  a deeper understanding of Pakistan and the difficult times the country has to endure.  However, seen through the eyes of one family we do see that goodness and love can prevail.  I learned so much from this book and would highly recommend it to anyone that wants to understand the many facets of the country of Pakistan.  What a treasure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a great book! </p>
+
+
+<h2> review.date </h2>
+  03-15-2014  
+<h2> review.text </h2>
+
+ <p> I really didn't know what to expect when I read this, but it exceeded all of my expectations. It is really interesting to read (from a westerner's perspective) about life in Pakistan and my heart goes out to the families that have suffered as the nation goes through this period. I guess what was different is that it gives a grounds eye view of what the people are going through, rather than the sort of overview that you may get on ABC news for example. The Reza family presented a fascinating portrayal of everyday people right in the center of the upheaval...I read Three Cups of Tea, but forget about it, this is the most compelling book I've yet read on South Asia. I couldn't put it down. It's amazing stuff and I can't wait for more books by this author </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compelling </p>
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> This was an extremely readable account of a middle class Pakistani family's struggle amid violence, political turmoil, and extremism. It provides an important view of what this is like for real people trying to live their lives that we in the West often miss. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Important View into the Lives of Pakistanis </p>
+
+
+<h2> review.date </h2>
+  03-24-2014  
+<h2> review.text </h2>
+
+ <p> A highly readable account of the current situation in Pakistan centered on the Reza family whose head Awais is an ex soldier turned merchant espousing a middle class life style from his shop in the bazaar.  You follow with anguish the travail of his wife and sons, one of which becomes a suicide bomber.  Clearly conveyed are the human elements and attitudes of Pakistani society at both ends of the spectrum from decency and honesty to radical fundamentalism.  In the end honesty prevails, a welcome change from the more rabid portrayals of Pakistan offered by the media and others.  The author has done a sterling job of weaving his research and interviews into a  must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Bargain from the Bazaar </p>
+
+
+<h2> review.date </h2>
+  05-28-2014  
+<h2> review.text </h2>
+
+ <p> There is so many interesting stories to tell about Afghanistan, but this one was really so predictable - I just wanted to finish it so that I can go on to another book. I won't buy books by Mr Ullah again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Predictable </p>
+
+
+<h2> review.date </h2>
+  03-31-2014  
+<h2> review.text </h2>
+
+ <p> This book was amazing. I simply could not put it down. It gives new insight into life in modern day Pakistan. I was captivated from beginning to end. The emotions I got from the book are indescribable. It was real, full of the hardships of life without any understatement. Amazing book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Insightful </p>
+
+
+<h2> review.date </h2>
+  03-15-2014  
+<h2> review.text </h2>
+
+ <p> The Bargain from the Bazaar: A Family's Day of Reckoning in Lahore is a poignant and evocative story of a family living in modern day Pakistan. Set against the bustling backdrop of the Anarkali bazaar, Ullah conveys the fear, and struggle of the Reza family who represent an amalgam of typical Pakistani concerns: making enough money to stay in the middle class, pressures from Islamic extremists, love for Allah, gaining an education, fear of terrorist attacks. Ullah touches on the history and politics of the country without getting preachy, or bogged down in extraneous details. Instead, he has written a portrait of one family and through this lens is able to examine (and let the reader examine) life in Pakistan. Written in a clear uncomplicated style and full of vivid details, The Bargain from the Bazaar would be a great place for readers interested in learning more about Pakistan to start. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Recommended </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> Wow - this book really jumps off the page. This book is non-stop and really describes the South Asian lifestyle in-depth and really makes it come to life. This is the best book of the year in this type of genre - the vivid imagery and the captivating story really makes you feel like you're in a different world. Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> Although not usually a reader of nonfiction, the glowing reviews of this book made me very curious.  I can&#8217;t say I was disappointed.  The author has done an excellent job of painting a picture of Pakistan that helps reveal the complexities of that country.  By looking at one family&#8217;s experience, the reader can get an impression of the many disparate forces at work in that land.  My heart goes out to that family who are caught between a desire for the best for their sons, a love of their country as it has been for them, and the forces that are intent on taking their land back to the dark ages.  As a mother of two very different sons, I could relate how brothers raised under the same roof each receiving the same love of parents can go very different ways.The author gives just enough history of Pakistan before presenting the lives of the Reza family.  He doesn&#8217;t spend time attempting to explain the political situation and the deep corruption of the government but shows how the politics and corruption affect this one family.  Every direction the family turns is filled with  uncertainty and danger.  I can&#8217;t even begin to imagine living life like that.My only complaint about the book is the style of the dialogue.  Ullah is definitely an experienced writer of non-fiction; he is more interested in facts than emotional connection with the reader.  While much of the dialogue was very believable, it seemed stilted and &#8220;informative&#8221; rather than the natural give and take between speakers.  Minor concern: it is a book worth reading to help those of us who live in an isolated world walk for just a short time in very unfamiliar shoes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Walk in unfamiliar shoes </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> Best book I've read this past year--I simply could not put it down! The Reza family kept me turning on each page. I didn't know much about South Asia, but I liked how the author compared small town American to Pakistan. A very fascinating portrayal. I know many folks like Three Cups of Tea by Greg Mortenson, but this book is more gritty and real and destined to be a best seller! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a book! </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> Wow. Words cant express this profound composition. This book is such an emotionally captivating book as it looks to show how a family struggles through turmoil and chaos in modern Pakistan. This book exemplifies bravery, love, hardwork and determination crafting the truths about Pakistan. The book allows you to feel close to these people, as you are in the book yourself.Once you begin to read it will be almost impossible for you to put it down. The climax is compelling and the resolution is calming. I yearned to know what would be the outcome of the family and their struggle. From a person living in the western hemisphere, we often see happenings in South Asia from a general perspective as seen on television but this author ventured deeper in politiccs, crime, religion and even history from the lens of a modern family and grasped the details very vividly and uncomplicated and clear.  This is very compelling and I recommend to readers who are interested in learning more about Pakistan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stellar and Compelling </p>
+
+
+<h2> review.date </h2>
+  03-20-2014  
+<h2> review.text </h2>
+
+ <p> Well written, gripping story about a real life family in Pakistan and what they go through with a son who chooses to be a terrorist. Shows how USA policy's affect their lives. Great read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great look into life in Pakistan </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

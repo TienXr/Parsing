@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002X786XQ <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> Overall, it's decent.This was used to replace the blown front speakers of a Volvo V70 (2003), which was already a component system (but I upgraded the head unit to a $200 Kenwood).  I hooked up the tweeters side by side, and the originals sounded exactly the same (and unremarkable) as the Rockfords, so I only installed the drivers.  They have decent base, they mostly represent the frequencies but ultimately I wish I'd gone for the Punch series.  I feel that the system, in the end, sounds more or less as good as the original setup (which used paper cones).Incidentally, installation required quite a bit of silicone sealant and rivets to mount these onto the Volvo plastic brackets.Note also that while there is no crossover in this system, the tweeters come with integrated low-pass capacitors (Just like my OEM tweeters), and the drivers seem to not filter any frequencies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent but not great </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> another reminder is this setup does not come with the &#8226;ICC (Integrated Concealed Crossover) witch puts your component speakers in danger ... did not receive my speaker box or speaker wires either </p>
+
+
+<h2> review.summary </h2>
+
+ <p> did not recieve most of my order </p>
+
+
+<h2> review.date </h2>
+  05-20-2014  
+<h2> review.text </h2>
+
+ <p> Tweeters distort like nobody's business when you crank them up. Don't recommend this product if you want quality stuff. Arrrrrrrrrgh </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Distortion </p>
+
+
+<h2> review.date </h2>
+  07-14-2012  
+<h2> review.text </h2>
+
+ <p> Very satisfied with the speakers. They have much louder and cleaner mids/highs over the factory speakers. They sound best when they are in conjunction with a sub-woofer and a high-pass crossover. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic speakers </p>
+
+
+<h2> review.date </h2>
+  05-07-2011  
+<h2> review.text </h2>
+
+ <p> Bought these to upgrade a 4 inch speaker in my VW Vanagon.  They are located in the upper cabinet in the rear of the Vanagon.  The car needed a bit of modification to accept the speaker size, but worth it.  A second set of these were installed in the front doors, at the bottom.Powered by an Alpine Head unit and Alpine 4 channel amps, the sound is decent for an inexpensive speaker. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent speaker </p>
+
+
+<h2> review.date </h2>
+  09-04-2013  
+<h2> review.text </h2>
+
+ <p> Have these hooked up properly to a high quality Alpine amp and am not impressed. They do go loud and relatively clear however they have an obviously large gap in the midrange. In fairness these were pretty cheap so I guess I got what I paid for. Would not recommend to anyone to cares about full, rich sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Speakers are loud but lack mid range entirely. </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> If you appreciate good music and want to hear it exactly as it was recorded, the Rockford Fosgate Component series is definitely the way to go. With separate woofers, tweeters and crossover network, you won't miss anything, from the lowest lows, mid's and the really high notes. They sound Great with an amp or if you're on a budget, you can simply add these to your factory unit ad be pleasantly surprised at the result. I've had Alpine, Polk, Infinity and many others; and while they're all good, I believe the Rockford Fosgate line of speakers deliver the best sound for the price. Try 'em. You won't be disappointed! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rockford Fosgate Component </p>
+
+
+<h2> review.date </h2>
+  02-16-2011  
+<h2> review.text </h2>
+
+ <p> I bought these because they fit, and promised decent sound. Both were true. My location in my mazda minivan in the rear had a 6x9 but the mounting depth was so shallow, no others would fit. My 5.25s came with a mounting template that I drilled a hole in for the tweeters and put the whole unit in, fits well and sounds good. I recommend these little dynamo speakers. Please note that the low bass is soft, everything below a bass drum rolls off. FYI.Update: 2 years later and these speakers still sound great, still going strong. Isn't it nice when you buy something and it stands up to years of use? I think so.Enjoy.Jb </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Small dynamo performers </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> I bought these to upgrade my 4" cardboard factory speakers. It was a tight fit in a 2005 Chevy Aveo but 1" spacers and slightly offset mount made these work. They sound amazing, I upgraded my factory deck with a Sony aftermarket. I considered getting an amp but after listening to these for a while without, I won't bother. If you're listening to classic rock or similar, this is all you need. I have no other speakers installed. It's loud enough for me. Having the separate tweeters makes such a big difference, well worth the extra installation trouble. These are a bargain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Huge upgrade for me </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> i didn't expect much, but 40 rms should mean clear and clean at 40 rms. Mid range is almost non-existance, which makes it even more sad, how hard can it be to make an oversized tweeter that can handle 40 watts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fosgate fan, not impressed at all </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> What you see in the Picture is what you get. For some reason I thought I was getting 6'' rounds and I got the 5.25'' speakers. They work great I just had to modify the mounting brackets. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+
+<h2> review.date </h2>
+  05-23-2014  
+<h2> review.text </h2>
+
+ <p> simply changing the speakers made the factory unit in the Wife's Honda sound much better!  These speakers have great sound.  Price is cheap, replace all the speakers at once and prepare to hear the significant difference. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> made my factory unit sounds better </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

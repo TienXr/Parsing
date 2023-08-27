@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1848876076 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-21-2011  
+<h2> review.text </h2>
+
+ <p> This book is a modern re-working of the traditional 'country house' murder mystery genre. It is a generally enjoyable book with more than a nod to Agatha Christie (although has more of a similarity to her short story "The Erymanthian Boar" (in "The Labours of Hercules") than the explicitly-referenced "And Then There Were None". There is even a Poirot-esque denouement in the final chapters of the book.Like Poirot, the main protagonist - ex-police officer Hanne Wilhelmsen - follows in the tradition of 'detective as outcast'. As a disabled lesbian, the character of Hanne could have been used as a 'poster child' for political correctness; instead, her sense of 'otherness' is caused mainly by her somewhat irascible personality; this is not an issues-driven book.However, there are too many characters in the novel for the reader to actually care about most of them. I found myself having to look back to remind myself about whether a character had been mentioned before and in what context. A smaller cast would have helped the flow of the storyline and made it more streamlined. As it is, it is difficult to care about any of the deaths. Also, the ending appears to be influenced too much by Dan Brown - the novel would have been much improved had it finished a few pages earlier with the departure of the remaining guests.Stylistically the book evokes Henning Mankell more than anyone else, although this may be due to the translation. Although the translation is generally good there are a few points that don't quite work. For example, a crucial misheard message doesn't quite work in English as the words wouldn't have been confused by a competent lip-reader (which Hanne appears to be). This is a minor point, but these occasional jarring moments did serve to remind me that I was, in fact, reading a translation.Other than that, this book is well worth reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Henning Mankell meets Agatha Christie </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> Based on reviews and recommendation, I was looking forward to this book. My expectation of a rewarding read about an investigator with attitude wasn't met at any level.Our central lady investigator has plenty of attitude. Mostly unpleasant, patronising, supercilious, dismissive and antagonistic. I wanted to understand and like her, but found her intensely irritating and unbelievable. I struggled with the prose. It just didn't flow. There's a lot of repetition and the language is cumbersome. I couldn't decide whether it was down to poor writing or translation or a bit of both.The scenario should have worked. Sudden disaster, group of strangers entombed with a killer in their midst and the search to find that person. Gripping stuff? Unfortunately it was not a book with pace or tension. It was pedestrian and at times even predictable. The characters are cardboard cut outs, the location could have been anywhere. I had no sense of excitement about the country, terrain, people or predicament. The references to a mystery carriage were repetitive and intrusive. I lost interest and found the plot implausible.Unfortunately, I have another couple of later books in this series but I won't be rushing to read them anytime soon. This failed to grab me at any level.Comment Comment | Permalink </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed; dull and implausible. </p>
+
+
+<h2> review.date </h2>
+  02-01-2011  
+<h2> review.text </h2>
+
+ <p> Anne Holt's latest novel is "1222". The numbers refer to the height above sea level of the town where this modern version of the classic crime story takes place. The story starts with a derailment just as the train leaves Finesnut on its journey from Olso to Bergen. Plenty of injuries, but the train driver is the lone casualty. Amongst the 269 passengers who are evacuated to the nearby century-old mountain hotel are self-indulgent teens, German tourists, a church group, a sports team, the unseen occupants of a mysterious extra carriage,  a group of doctors (conveniently for those injured) on their way to a conference and retired police inspector Hanne Wilhelmsen. Add some locals and hotel staff, a snowstorm to ensure everyone has to stay put, a murder (or two) and you have the definitive locked room mystery. Hanne is not Miss Marple or Hercule Poirot: there's no rubbing of hands together with glee at the challenge; she doesn't want to get involved. Hanne is paralysed, confined to a wheelchair, limited to the lobby level. Whilst relying on those around her for some pertinent information, her powers of observation and deduction are obviously acute and she has the case solved in time for the classic denouement when the cops finally arrive.Anne Holt gives us a prickly heroine. She's cynical, perceptive, has a very dry sense of humour and an incisive wit. Hanne's inner monologue is a delight; her other characters and the dialogue are realistic and the action is non-stop. Holt touches on several topical issues and throws in a bit of philosophy. The Beaufort scale chapter headings are a fitting touch. "1222" gives the reader undiluted pleasure throughout: this novel is hard to put down. Marlaine Delargy's excellent translation certainly deserves a mention. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Murder in the snow </p>
+
+
+<h2> review.date </h2>
+  09-03-2012  
+<h2> review.text </h2>
+
+ <p> The author's narrative skill is the best in the business and the brilliant reveal at the end was terrific. Mysteries abound (who is the passenger in a private rail car now in the hotel penthouse?) and some don't come to light til the last chapter.Bestselling Scandinavian author Anne Holt does a good job of not boring those who know the series, while giving new readers great intro (however there are a couple spoilers). My household is anxiously awaiting the rest of the 8 volume series. Wonderful characters; Depth to writing often not found.What you need to know-* A train headed to northern Norway* derails in a blizzard killing the engineer* 269 passengers shelter in a remote historic hotel (think `The Shining').* And just like `Murder on the Orient Express' someone shows up dead* 47 year old Hanne Wilhelmsen is a passenger* She's a retired police inspector who has no desire to get involved* She's been paralyzed by a bullet and bitter* Then another Murder, panic by the passengers!* Bigotry & racism come out of the closet and a cast of quirky characters come to lifeExcellent translation </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Depth to writing often not found; Wonderful characters </p>
+
+
+<h2> review.date </h2>
+  12-08-2011  
+<h2> review.text </h2>
+
+ <p> Anne Holt's "1222" takes place during a monstrous winter storm in Norway.  When their train derails, hundreds of passengers take shelter in a nearby hotel called Finse 1222, "a real haunted house of building, with lots of hidden nooks and crannies...."  Fortunately, the highly efficient manager and her staff do everything they can to accommodate their guests.  There are plenty of rooms and enough provisions on hand to keep everyone well fed.  Among the assembled men and women are eight doctors, three German tourists, a few high-strung businessmen, members of a church delegation on their way to a conference, and a team of fourteen-year-old female handball players. In addition, a surly fifteen-year-old, Adrian, attaches himself to Veronica, an antisocial woman in her twenties.The first-person narrator is Hanne Wilhelmsen, a member of the Oslo police force for twenty years who is retired and confined to a wheelchair.  She is cantankerous at the best of times.  Under these stressful circumstances, she is even more brusque than usual.  When Hanne realizes that a killer is at large, she decides to initiate her own informal investigation."1222" is a talky and static mystery, awkwardly translated from the Norwegian.  The creaky plot lacks suspense and Hanne and the rest of Holt's one-dimensional cast are more irritating than engaging.  A sizeable group of people trapped in an enclosed space with a criminal should generate tension and anxiety, but it does not.  The only time the book comes to life is when a pensive Hanne contemplates the arduous path she has traveled.  She has endured more than her share of pain and suffering, and has done her best to adjust to her sadly circumscribed existence.  If you crave biting cold, fierce winds, and a juicy whodunit, there are many other Scandinavian writers whose works are being published in America, thanks to the monumental success of the Stieg Larsson trilogy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "How fragile life is." </p>
+
+
+<h2> review.date </h2>
+  02-15-2013  
+<h2> review.text </h2>
+
+ <p> Just because people are disabled doesn't mean they're nice.  For all I know Hanne turns into a remarkably attractive heroine, but I quit hoping around page 50.  I know main characters aren't supposed to be perfect but Hanne is just plain sour.  I like a detective I can empathize with but Hanne is as chilly as the blizzard surrounding her.  I've read many a thriller/mystery and Holt's What is Mine has many of the features I'm looking for.  I'd like to see more of Adam Stubo and nothing of Hanne Wilhelmsen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> unsympathetic main character </p>
+
+
+<h2> review.date </h2>
+  01-03-2011  
+<h2> review.text </h2>
+
+ <p> It doesn't take too long to establish that 1222 is a thriller of the drawing-room murder-mystery variety, where a group of people are holed-up together in a remote, isolated location, cut off from society with a killer among them. The similarity to Agatha Christie's classic And Then There Were None is so obvious it even occurs to Henne Wilhelmusen, a wheelchair-bound retired police officer who finds she cannot remain indifferent to the rapidly deteriorating situation amongst a group of 196 people trapped in a remote Norwegian mountain hotel in Finse, 1222 metres above sea-level, with a vicious winter storm raging outside.Holt plays out the situation in a fairly conventional manner, which is to say, it has much in common with the Disaster Movie. Although it is a train accident on the Oslo-Bergen line that has left them all stranded in the hotel Finse 1222 - trapped in a community with no in-roads and only accessible by the now closed railway line - the only casualty of the accident has however been the driver. When other violent deaths start to occur, speculation - not to mention hysteria - runs wild, particularly over the existence of a mysterious extra carriage attached to the train with armed security, rumoured to contain a member of the Norwegian Royal Family, or perhaps some other very important or indeed dangerous person.The Disaster Movie convention applies here to the cross-section of the public to be found on the train, which if it isn't statistically representative of Norwegian society in microcosm, at least contains the types of characters - businessmen, priests, doctors, trouble-making youths, celebrities, right-wing extremists and a small smattering of Muslims - where tensions are inevitably going to arise and divisions formed when they are all pushed together into a extreme, stressful situation. While Henne would appear to also be a token minority figure in more than one respect, she actually turns out is perhaps the most intriguing, unpredictable and non-stereotypical element of 1222, her background and attitudes remaining complex and untypical for a lead character.Elsewhere however, while it certainly delivers on all the expected plot-points and thrills that come with this type of situation, the novel doesn't really have a lot to offer that is new or original and it can often be rather irritatingly predictable and overly stage-managed, as these types of thrillers tend to be. Much of the success of the book then will depend on how you react to an ending which attempts to give the subject a rather more modern topical spin. Not having been sufficiently established earlier, it does however feel somewhat sensationalist and patched-on to a main narrative that is, at best, a rather average Agatha Christie-style drawing-room murder mystery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Average thriller with a sensationalist spin </p>
+
+
+<h2> review.date </h2>
+  11-26-2011  
+<h2> review.text </h2>
+
+ <p> At 1222 metres above sea level, the train to Oslo is derailed by icy tracks and the passengers are forced to move to a nearby hotel. Outside, the worst storm in Norwegian history rages while, inside, a murderer is at work.1222, by Norwegian author, Anne Holt, is a locked room mystery reminiscent of Agatha Christie's 'Then There Were None'. As the number of possible suspects dwindles, stranded passenger Hanne Wilhenson, once a police detective, now wheelchair bound, uses her considerable deductive skills with only the aid of her 'little grey cells' a la Hercule Poirot to eventually solve the case.Like the books from the Golden Age of Mysteries it pays homage to, 1222 is more puzzle than gore. However, if this superb novel follows many of the conventions of the British Cozy, it certainly does not adopt all of them. This is no sexually repressed, slowly evolving story. Hanne is a lesbian who, with her Muslim partner, has a daughter. And, as for plot, let's just say it has all the twists and turns, as well as the cast of quirky characters, of any modern thriller but it is able to keep the reader enthralled without the need for long, and often deeply disturbing, descriptions of murder's aftermath. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Locked Room Mystery Reminiscent of Christie </p>
+
+
+<h2> review.date </h2>
+  04-02-2011  
+<h2> review.text </h2>
+
+ <p> This is only the second Anne Holt book I've read. I enjoyed it. There is not alot of action. It is a murder mystery and the main characters use deduction to solve the mursers. The heroine is in a wheelchair but as an ex-policeofficer she is quickly on the case. I have a third book lined up to read. This is a stand alone book and not one of her series about Stubo and Vik </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A foreign mystery </p>
+
+
+<h2> review.date </h2>
+  10-26-2011  
+<h2> review.text </h2>
+
+ <p> I must be honest and state that I am either frustrated by Anne Holt's writing or my reaction to it. Anne Holt's works should be books that I thoroughly enjoy as I rate most of her contemporaries in the area of Nordic Noir in the 4/5 star range, yet her books start off really promising and then they fizzle out to me. This should not be the case as she is really able to write without weighing her books down with romantic scenes that some of her female contemporaries can't seem to get around. Yet, her characters are unable to be "emotionally attached" to and fall flat.  This really bothers me as a reader and I keep hoping that it will change for me, yet, I believe this is my second or third book of hers I have read and it doesn't. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GOOD...NOT GREAT! </p>
+
+
+<h2> review.date </h2>
+  11-15-2011  
+<h2> review.text </h2>
+
+ <p> Whenever I come across a new book from Anne Holt I buy it and read it in anticipation. She is a master not only in creating a certain atmoophere of cold tension but also in making it all believable. Most of the times the characters are split between their fears and anxieties and their pragmatic sense. 1222 is no exception. Hanne Wilhelmsen, a retired police officer, finds herself in a train accident and is dragged unwillingly into a crime investigation. Actually she starts leading the investigation as all access to the crime scene is cut off from the outside world due to the worst tempest in the history of Norway. Torn between her desire to be kept separate from the mob and, thus, keep her protective shell intact, and the urge to interact and therefore experience a little humanity, Wilhelmsen makes use of all her investigative skills to unveil the circumstances surrounding the crime.1222 contains some of the main elements of a traditional crime novel: a closed environment with a restricted number of suspects, a number of clues that puts us on the wrong track for a while until a new light on the events pushes us back on track. Even the traditional final scene, when the detective gathers all the suspects and starts asking questions and unveiling the events that led to the crime itself... it's all there, and when the final piece of the puzzle fits you can't help but to feel like you've taken part in the investigation as well or, at least, like you've been a spectator of it.Overall it's a great reading and Holt's narrative skills will make you long for more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A mystery just the way I like it </p>
+
+
+<h2> review.date </h2>
+  07-31-2011  
+<h2> review.text </h2>
+
+ <p> I didn't have high expectations when I picked up this book.  I mean, the title is so meaningless and the cover rather dull.  But I was gripped from the very first page.  After a train derailment in the alps of Norway, the passengers are stranded in a remote hotel for the duration of a violent storm.  The protagonist is an ex-policewoman who is now confined to a wheelchair.  Closed off from the world, the heroine is forced to connect with the other members of the hotel when one of the passengers is murdered.If I were to sum up this book, it would be Ice Station Zebra meets House.  The atmosphere the author creates is claustrophobic with the tension increasing in line with the rising winds and the number of victims. The ex-policewoman is a lot like the character of House, socially phobic but with an eagle eye for detail and a keen mind.  Watching her wind her way through the suspects, reluctantly forming relations with a small group of trusted allies, and solving the murder - which subsequently turns into murders - is a pure joy.The denouement was classic Columbo with the suspects gathered in the same room and the heroine targetting one person after the next, slowly revealing each clue until she finally corners the murderer and solves the mystery.  I could not put this book down.  It was like curling up beside a warm fire with a drink of hot chocolate and watching those wonderful old tv shows. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gripping mystery </p>
+
+
+<h2> review.date </h2>
+  11-02-2011  
+<h2> review.text </h2>
+
+ <p> I need to read this Agatha Christie classic.  I'm overdue, because this is the second novel I've read in the past few months that owes a significant debt to Ms. Christie's novel.  And that's not a criticism.  It's a brilliant structure, and it's used to good effect in Anne Holt's latest, 1222.I'll start by noting the unusual title of the novel refers to the elevation (meters above sea level) of the novel's setting, and the name of a hotel at that elevation.  In the opening pages there is a train crash high up in Norway's snowy mountains.  Most of the 269 passengers and crew get off with fairly minor injuries, but they're trapped in the mountains by a severe winter storm.  It'll be several days before organized help can arrive.  Fortunately, a handful of locals form a rescue team and evacuate the passengers to the nearby hotel, which opens its doors wide to accommodate everyone.The main character of the novel is a wheelchair-bound former police inspector named Hanne Wilhelmsen.  I believe that Hanne has appeared in prior novels by Holt, but this is the first of the series to be published in the US.  She's not a warm and fuzzy first-person narrator.  In fact, she's rather prickly, but she's an interesting lady with a complex back-story, and she's a keen observer of human nature.  In other words, she's exactly the sort of person you might want around when you're trapped in a remote location with a bunch of quirky strangers--and suddenly people start turning up dead.Ms. Holt kept me guessing along with everyone else for the duration of this very enjoyable who-done-it.  She embellishes the basic plot with several other side mysteries and red herrings.  I warmed up to Hanne enough that I'd love to continue reading her series.  Other characters were used more to fulfill their functions within the plot, but they were ably handled.  1222 isn't a major literary work, but I don't have a single complaint to voice.  It was written to entertain, and on that count, I found it to be entirely successful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> And then there were none </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

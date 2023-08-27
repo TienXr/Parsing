@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00GETKWFE <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-24-2014  
+<h2> review.text </h2>
+
+ <p> Ok Loved this action drama romance adventure! It was a wild ride from start to finish! I couldn't put it down! Loved the action the drama.....and the romance! Loved the paranormal element in the story....it was a really awesome read...Loved the a strong woman.....and equally strong man...element in the story! Buy it read it! You will love it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome ! </p>
+
+
+<h2> review.date </h2>
+  11-25-2013  
+<h2> review.text </h2>
+
+ <p> This was a good read with a twist at the end.  I would recommend this book for light reading but didn't really feel like it was something to sink my teeth into.  Great if you want something to read in a waiting room.I received an eARC from the publisher in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This was a good read with a twist at the end </p>
+
+
+<h2> review.date </h2>
+  11-27-2013  
+<h2> review.text </h2>
+
+ <p> It was my pleasure to read this author for the first time and wow boy she packs a good one. Great prologue the kind that says ha ha you are mine now. Revenge is alot of work and time with the determination to back it up and not let it go. Sometimes right reasons to person but not always rational as time goes on. Reese is got time in and no end in sight for hers. Funny about the town she is in they think she is someone who just runs a bakery. She also has a little bit something extra going on with result of her cause for revenge can anybody say human conductor? Get her too excited and zapping is her recourse. Learning to live with it and deal with it is also something else along the side she must get a handle on. Now mind you she doesn't do this all by herself, she does have help with finding out stuff she hired it. Griffin the fine investigator he is can be a good ally to have also. Sheriff Andrew also wants to be a ally but Reese just wants him to mind himself. Stuffed to the gills intrigue and adventure here and sometimes hair raising. Last but not least expertly woven in this story is romance. It is entered in at the right time and grows on its own the way this story needed it. Love does have a way of fueling things and shedding the light of a few things also. Since this is such a good suspense trying not to spoil too much for those who desire to read this one because it is one not to be missed. Would definitely read more from this author too. But first will have to rest the hands from all the gripping of the arm or seat while reading. Received an arc for a honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A different kind of kiss also included. </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> This was a pretty good read it was more adventure than romance but it was still a captivating plot. The only  issue i had is that the Fl and Fi words were missing the fi and fls. I have no clue why this is but have seen it happen in several other books I have gotten form Net Galley so maybe its just a format issue. The concept of super powers in real life is always intriguing and the way that it was handled in this story was wonderful, it was not all super powers and heroics it was a normal woman dealing with abnormal issues. I loved that. This is a fast and entertaining read that anyone should enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This was a pretty good read it was more adventure than romance but ... </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> Light suspense and a touch of romance plus electricity made this a fun read. Add to that the heroine having been married 4 times and you have yourself a great story premise. It was a quick read, fairly evenly paced. If you want a light afternoons read, this ones for you; likeable characters, witty dialogue and a fun flirty story.*I received my copy from NetGalley.com in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light Afternoon's Read </p>
+
+
+<h2> review.date </h2>
+  06-10-2014  
+<h2> review.text </h2>
+
+ <p> Yet again, Natalie J Damschroder brings the mystery, the suspense and the romance I so love in every story she tells. Don't miss out on this great book. But be ready to not do laundry while you hold on for the ride! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't miss this! </p>
+
+
+<h2> review.date </h2>
+  11-25-2013  
+<h2> review.text </h2>
+
+ <p> Solid 3.5 stars &#8211; heavy on the suspense, lighter on the romanceReese Templeton has not had any luck in the marriage department. She has been widowed twice, then divorced, and her current husband is hospitalized, in an unresponsive condition since the plane he was piloting crashed a year ago &#8211; a crash that Reece herself was in. After her recovery, Reese discovers that she has acquired the super-human talent of harnessing electricity, acting like a human Taser. She has also become determined to find the real culprit behind the plane crash, the secret partner whose identity her husband never revealed, but who wanted her husband out of the way when he wanted to sever their business arrangement. The same business arrangements that had brought a level of distrust and suspicion to their marriage.As she is recovering, Reese hires the services of a private investigator, Griffin Chase. Although she keeps telling herself that theirs is a relationship based on friendship, she slowly begins to acknowledge that her feelings for Griff have grown, and he also feels the same way.&#8220;Tears trickled into her hair. How could she have let herself fall for Griff? Yet another man, this time when she wasn&#8217;t even free to do so. He&#8217;s the best of them, her heart whispered, and that may have been, but it didn&#8217;t change the circumstances. She&#8217;d reached a point of no return with that moment on his bed. She couldn&#8217;t deny her feelings for him, but she couldn&#8217;t share them with him, either.As Reese tries to uncover clues to reveal the identity of the man responsible for the plane crash, she must thwart hired guns and unsavory characters &#8211; and thankfully Griff always has her back. The investigation heats up and Reese and Griff must work together to ensure Reese&#8217;s safety and bring justice for Reese&#8217;s husband.This was an action packed book, full of bad guys and drama. Reese it torn &#8211; she knows that she must push Griff away because she is still married and she can&#8217;t leave her husband until she brings him justice. She also knows that her quest for justice is something she must do alone since she doesn&#8217;t want Griff to have to compromise his ethics as a private investigator &#8211; a quest which will also hinder any chances of them having a relationship after things are finally settled.Griff was a great character, always there to support Reese, ever patient in waiting for her to move on from her husband, but never pressuring her in any way.Some of the scenes that Reese seemed to find herself in sometimes seemed a bit unbelievable, but since she had this awesome human-Taser superpowers it made them ok.There&#8217;s not a lot of heat in this book &#8211; more action and drama than romance, but there is a HEA, so all works out in the end! If you like your romantic suspense heavy on the suspense and lighter on the romance, this one is for you!I received an eARC from the publisher in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heavy on the suspense, lighter on the romance </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> Ever since Reese's husband Brian's "silent" partner had tried to silence them by sabotaging their plane a year ago leaving Brian in a vegetative state and her with residual side-effects from the plane being struck by lightning as it was going down, she has been on a mission to identify him and seek her vengeance. A KISS OF REVENGE by Natalie J. Damschroder is an action-packed thrill ride from start to finish.It's difficult not to feel for Reese, who has never really had a break from heartache and loss. First her father, then her mother, then her first husband who as a rookie cop was killed by a dirty cop. Her second husband died in a car wreck while on a business trip. Her third husband left her after six months when he tired of her and found someone new. And now Brian, for all intents and purposes has left her a widow again. She's unable to move on with her life and so she seeks closure where she can find it, by tracking down the man who tried to kill them both and she hires gorgeous private investigator Griffin Chase to help her do it. In between dodging criminals, well-meaning police chiefs, and even FBI agents in their sometimes less than legal means of finding clues and evidence, they find an electrifying attraction to each other. Given what Reese sees as must be a curse for any man who loves her, she denies her feelings for Griffin are anything more than friendly and does what she feels she must to discourage him. All to keep him safe from the chaos and destruction that has become her life. But he is not so easily deterred even when he knows she is technically unavailable. To Griffin, Reese is worth the wait. And the danger.AKoR is well-paced with action, danger, mysteries to be solved, bad guys to be caught, romance to be found, and a bit of a surprise at the end. A well-played surprise, Ms. Damschroder. Very well-played.Admittedly there were several scenes where I was shaking my head at Reese for her stubbornness and seemingly lack of the sense God gave her, with some of the foolish decisions she made. BUT more importantly, I realized I had not put AKoR down until it was finished and I had thoroughly enjoyed the adventure I had just taken with Reese and Griffin. Had in fact been hanging on every word. To me that alone deserves at least a four star rating.~Complimentary copy received from the Publisher in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Kiss of Revenge by Natalie J. Damschroder </p>
+
+
+<h2> review.date </h2>
+  01-18-2014  
+<h2> review.text </h2>
+
+ <p> Reese has been having nothing but bad luck, where her family members are concerned. From the death of her mother and father and then now husbands later (yes I said husbands as in more than one), can her life get any worse!! Straight from the beginning my heart went to Reese and everything she has gone through, everyone has a breaking point and in my opinion she has definitely reached it if I was in her shoe. You could almost say that she is definitely followed by nothing but bad luck!When she meets Griffin (who is the Private investigator she hires) and they automatically feel an attraction she tries everything she can to stay away from affections because of her past.This book has definitely lots of mystery with action and suspense all rolled into one. On top of that the author even managed to add some romance and a twist in the mix. I would have to say this was a great read and the characters that she created each brought their own stories to make this one a better one. Just remember when you read this there are parts of it that you will have to remember the world the author created for Reese.A Kiss of Revenge was an easy read and I did enjoy most of the book especially with the twist and surprises that the author threw us.I received an ARC in exchange for an honest review! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable Quick Action with some romance. </p>
+
+
+<h2> review.date </h2>
+  06-10-2014  
+<h2> review.text </h2>
+
+ <p> This is a story that contains all that, plus the touch of suspense and the paranormal as the main character, Reese, attempts to find out who tried to kill her and her husband.I did have some minor issues with the fact that Reese had two husbands die on her, a third divorce her and her fourth in a coma. However, the author gives good reasons for all these misfortunes that make it believable. And the new love interest, Griff, is adorable. I love the scene where he buys her a necklace &#34;because it's...you.&#34; I love that he cares for her even when the electricity pounding through her burns him.And yes, Reese is paranormal. Since the accident that put her husband in his coma, she has this &#34;thing&#34; with electricity.So... action, adventure, super-abilities, suspense, romance... it's all in there. No, this isn't deep literature, but it is a good story that made for an enjoyable read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Action, adventure, and romance all in one. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

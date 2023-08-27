@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0019825B4 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-21-2010  
+<h2> review.text </h2>
+
+ <p> Protects the GPS unit well, has been durable, and the magnetic clasp holds securely. I have used it regularly for two years without it showing any signs of wear. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Like It </p>
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> Very well made and my Garmin fits perfectly.  Great protection for the GPS when not in use.  I would highly recommend this case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gilsson Leather GPS Case </p>
+
+
+<h2> review.date </h2>
+  12-07-2009  
+<h2> review.text </h2>
+
+ <p> The Gilsson case is a perfect, easy access solution for the protection of your 4.3" GPS. The case is compact, sturdy and has a quality feel.  The GPS fit is just snug enough to be secure, yet just loose enough to allow quick and easy insertion and extraction.The magnetic snap strap assures that your GPS will remain safely in place. The velvety lining provides just the right amount of soft protection. Contrary to what other reviews here suggest, this case is nicely constructed of genuine leather, in fact, very high grade, fine grain genuine leather, so nice and smooth that it might lead some to conclude that it's not the real thing, but it IS. You will not be disappointed with this fine case offered at a great price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case And It Certainly IS Leather ! </p>
+
+
+<h2> review.date </h2>
+  12-05-2009  
+<h2> review.text </h2>
+
+ <p> A nicely constructed "wallet" for your GPS using quality material.  A sound investment in protection and storage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does What It's Supposed To...With Style </p>
+
+
+<h2> review.date </h2>
+  09-01-2009  
+<h2> review.text </h2>
+
+ <p> After searching and looking for a case for my nuvi 750, I was getting a headache viewing all the cases out there.  Almost all come up short or were difficult to use in protecting a GPS unit. The Gilsson looks and works perfect.  Can't believe anyone would care to have a case and fight a zipper or not have a strap that allows the unit to slip out. This one is the best and cheaper than some others.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best GPS Case </p>
+
+
+<h2> review.date </h2>
+  04-23-2010  
+<h2> review.text </h2>
+
+ <p> This is my favorite case to put my GPS in. The quality is good. It's not bulky so it fits well in the glove compartment or in your purse. I was surprised since there were negative comments about the quality not being as expected. But the one I received was better that I had expected. Nice case. I don't think that you will be disappointed in this purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Little GPS Case </p>
+
+
+<h2> review.date </h2>
+  07-01-2010  
+<h2> review.text </h2>
+
+ <p> This is a decent-looking case, well-constructed for the price.  Obviously synthetic leather-like material, smelled strongly of chemicals when I opened the packaging.  The best thing about it is its functionality.  I wouldn't want to carry my Nuvi around in a case that's open-ended... that's like asking for an expensive accident to happen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice fit for Nuvi, made with cheap materials </p>
+
+
+<h2> review.date </h2>
+  09-23-2010  
+<h2> review.text </h2>
+
+ <p> This is a quality case for my4.3 inch widescreen Garmin N&uuml;vi 855.  This is model GL43. It is plain on the backside, with no belt loop or clip. The model with the belt clip is GL43BC.Pros:- Nuvi 855 seats perfectly in the case.- Black felted inner liner.- Strong magnetic clasp.- Inside the large front pocket are three divided pockets to hold SD cards.- Perfectly even stitching.- Smooth outer surface.No cons whatsoever.There's some controversy in the comments, about whether this is a leather product. American leather goods are almost always stamped with an imprint stating it's genuine leather. This has no marking, nor a tag on the case itself, stating what it's made of, or even the manufacturer's name. The outer cellophane wrap just calls it a "4.3 universal case." without mentioning "leather." Foreign imports may have a different standard.However Gilsson Technologies is a big name brand, carried by major etailers, so I doubt they would label a non-leather product as leather. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits Nuvi 855 </p>
+
+
+<h2> review.date </h2>
+  08-20-2010  
+<h2> review.text </h2>
+
+ <p> Fits perfectly over my Garmin Nuvi 765T.  No problems with the power accidently turning on. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case </p>
+
+
+<h2> review.date </h2>
+  01-24-2009  
+<h2> review.text </h2>
+
+ <p> This is a nice quality case for those who like simplicty. The price is good too. I looked at the dimensions and took a risk when I bought this knowing that my Nokia 500 GPS may not fit in it because the underside of the Nokia is curved outward instead of flat. Fortunately the Nokia fits but barely and only if inserted in a specific way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice quality case </p>
+
+
+<h2> review.date </h2>
+  11-17-2009  
+<h2> review.text </h2>
+
+ <p> This case is perfect protection for my GPS unit. It's ease of use, combined with quality leather construction makes it the best choice to protect an expensive investment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Choice </p>
+
+
+<h2> review.date </h2>
+  06-14-2010  
+<h2> review.text </h2>
+
+ <p> I don't know how people promote thie item vs the original one made by Garmin. I bought it based on good reviews for my Garmin 1390T. It doesn't fit tight and is very loose, so does not provide protection. The original Garmin fits right and is tight and much better and cheaper. I bought the Garmin one after and I was going to return this one but luckily I bought a Toshiba 320G external hard drive and it fir perfectly in this case, so I kept it for that reason only. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Bad, do not buy </p>
+
+
+<h2> review.date </h2>
+  03-06-2010  
+<h2> review.text </h2>
+
+ <p> I've searched the big box stores, and didn't find anything as nice as this case.  It fits the Nuvi 765t perfectly, and has a nice slim design.  The pleather fabric is great, as it looks like leather but also keeps the price down to very reasonable.  There is not a belt clip or carabiner ring, so you will need a pocket or other bag to tote it around. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice case </p>
+
+
+<h2> review.date </h2>
+  05-25-2010  
+<h2> review.text </h2>
+
+ <p> I SEARCHED AND SEARCHED ON LINE AND IN BEST BUY FOR A GOOD CASE THAT WAS NOT TOO BULKY.  IT WAS RIGHT IN FRONT OF MY EYES.  AFTER TRYING FOUR OTHER CASES, TWO ON LINE, WHICH I HAD TO PAY RETURN POSTAGE FOR.  I TRIED THE CASE LOGIC CASE WHICH WAS WAY TO BULKY, TWO THAT I TRIED AT BEST BUY AND THE GARMIN PREMIUM FOLDING CASE ON LINE WHICH WAS NOT BAD, BUT STILL TO BULKY FOR MY SUMMER TRAVELS.  THEN I TRIED THIS ONE AND I'M CERTAINLY GLAD I DID, THIS CASE IS PERFECT FOR MY NUVI 765T. A GREAT CASE AS COMPARED TO THE OTHERS I SAW AND TRIED.  THE UNIT FITS PERFECTLY WITH NO WIGGLE ROOM AND NOT TOO TIGHT.  THE LEATHER AND IT IS LEATHER, IS FLAWLESSLY SEWED TOGETHER.  IT HAS A NICE LINING AN SOME PADDING TO PROTECT THE UNIT.  THE POCKET ON THE OUTSIDE WILL BE USEFUL TO MANY.  BEST OF ALL, IT HAS A STRONG MAGNETIC CATCH SO NOW I FEEL SECURE THAT MY NEW GPS WILL NOT GO THE WAY OF MY PREVIOUS ONE.  IT FELL OUT OF THE GARMIN CASE, WHICH HAD NO STRAP AND BROKE THE SWITCH.  BY THE WAY GARMIN CHARGES $95.00 PLUS YOUR COST OF SHIPPING TO REPAIR A GPS UNIT.  MY UNIT WAS THREE YEARS OLD. SO FOR $199.99 WITH NO TAX OR SHIPPING ON A SPECIAL OFFER, ON LINE, FROM BEST BUY, I GOT THE 765T.  THE PRICE IS GREAT ALSO.  I FOUND THE SAME CASE ON SEVERAL SITES FOR $35.95  I HIGHLY RECOMMEND THIS CASE AS YOU CAN TELL FROM MY REVIEW.  IF YOU HAVE THE 765T OR ANOTHER UNIT WITH THE SAME MEASUREMENTS, DO YOURSELF A FAVOR, JUST ORDER THIS CASE AND LEARN FROM ME. THE SEARCHING IS NOT WORTH THE HASSLE.  JA FROM NJ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT CASE, JUST WHAT I WAS LOOKING FOR </p>
+
+
+<h2> review.date </h2>
+  11-02-2010  
+<h2> review.text </h2>
+
+ <p> This thing is well designed and of robust enough construction to endure the hostile environment of a car's glove or other storage compartment. This is my second one; I lost the first after leaving it at a hotel. I got a second because it is perfect for the Nuvi. It doesn't add to the size/footprint of the Nuvi, but offers enough shock dampening to protect the GPS. The inner panel is a material that will not scratch the screen. The buckle is magnetic actuated and of strong adhesion to securely hold the Nuvi. Even if the magnet was weak, the compartment is snug enough to hold the unit in place even if you held it upside down. Thickness of leather is stout and stitched well.A fine product to compliment your Nuvi both in looks and protection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for your Nuvi </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> Didn't want my handy dandy garmin gps device to get scratched up.  It fits and projects the device very well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> gps case </p>
+
+
+<h2> review.date </h2>
+  05-08-2009  
+<h2> review.text </h2>
+
+ <p> I purchased this case for my new Nuvi 255W. This case much better then an original Garmin case. Design is better for inserting and removing GPS and at very reasonal price. Material is high quality and slick. This will protect GPS well and don't take up much space. Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Case for Garmin 255W - Excellent! </p>
+
+
+<h2> review.date </h2>
+  08-23-2009  
+<h2> review.text </h2>
+
+ <p> The Gilsson case for the Garmin Nuvi is attractive, well built and a good fit for the Nuvi widescreen to protect the LCD screen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gilsson GPS case </p>
+
+
+<h2> review.date </h2>
+  07-13-2009  
+<h2> review.text </h2>
+
+ <p> Im using this for a Garmin Nuvi 255WT. The GPS fits nicely inside.I would definitely recommend it to a friend.About the case:-strap closure across the open end with a magnetic snap-semi rigid and provides good protection to GPS screen-black in color-felt lining insideThe front pocket will:-accommodate a 2.25" x 4.5" card (completely inside)or-accommodate a 3" x 4.5" card (.75" exposure outside)Inside measurements of the case (with strap closed):.88" x 3.13" x 4.88" (7/8" x 3 1/8" x 4 7/8")You're pushing the limits if you try fitting anything larger than the dimensions given above inside it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Measurements / Better than what I found at local stores </p>
+
+
+<h2> review.date </h2>
+  06-17-2012  
+<h2> review.text </h2>
+
+ <p> I love the case because it helps keep the screen from damage. It is a snug fit because I keep my USB connector on so I cannot snap the case. I have made it work for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gilsson 4.3 inch Leather Case </p>
+
+
+<h2> review.date </h2>
+  06-12-2009  
+<h2> review.text </h2>
+
+ <p> It protects my GPS and because of the way it is made, it won't accidentally hit the power slider and turn on the GPS.There is a little pouch in the front great for small notes or an SD card.Looks great, light, fits my 760 perfectly and won't scratch the screen.GET IT </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Great </p>
+
+
+<h2> review.date </h2>
+  01-23-2010  
+<h2> review.text </h2>
+
+ <p> I'm quite glad I got this Glisson product for my Nuvi 255W.  Money well spent to give me peace of mind while storing my GPS.  The magnetic, snapping closure was an appreciated surprise.  I wouldn't want to put much more than an SD card or business card or two in the little pockets.  I'm glad it's not open ended.  I really do think it's the perfect case for this GPS.  Snug, but not too tight.  I can put it in a draw / glove compartment without worrying that something will happen to the screen.  Others have complained about the fabric inside the case, but I think it's fine and will not harm the GPS.  I'm honestly pleased with this product and would recommend it for a fine protective / storage device for your correctly fitting GPS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just right for it's purpose </p>
+
+
+<h2> review.date </h2>
+  12-29-2010  
+<h2> review.text </h2>
+
+ <p> The case is very sturdy, I have owned it since April 2010. My Garmin 765T fits inside snugly, but loose enough to easily remove. The case looks to be made of quality material and shows no wear. It has protected the Garmin from scratch quite well.  I would recommend this case to a friend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gilsson 4.3 inch leather Case for Garmin 765T </p>
+
+
+<h2> review.date </h2>
+  11-19-2009  
+<h2> review.text </h2>
+
+ <p> Although I don't think it's truly made of leather, this case is a nice home for my Garmin nuvi 855 when its not on my Garmin Portable Friction Mount.  The GPS unit fits nice and snug and the magnetic strap fastens securely.  A spare battery and memory card fits well in the outer pocket.  There is a little cushioning, but not enough to adequately protect the unit if it is sat on or dropped on the pavement.  If you need that, get a hard case.  Overall, a great case for the price.Update (2010-08) - After using it for over 8 months, my only additional comment is that if you store an extra battery or memory card in the outside compartment, the item will fall out very easily if the case is inverted or placed on its side.  Otherwise, case is OK. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Always use protection.... </p>
+
+
+<h2> review.date </h2>
+  04-11-2010  
+<h2> review.text </h2>
+
+ <p> This is a great case for my garmin gps, It is well made and fits perfectly. I am very satisfied with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great GPS Case </p>
+
+
+<h2> review.date </h2>
+  07-22-2011  
+<h2> review.text </h2>
+
+ <p> The ONLY negative I can think of is that I would have preferred that the outside had a little texture to it, the smoothness of the outer surface can cause it to slip out of your hand if say you are pulling it out of your purse & it catches on something. If you pay attention to what you are doing, no problem. Price reasonable, received when promised. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works for me! </p>
+
+
+<h2> review.date </h2>
+  05-23-2014  
+<h2> review.text </h2>
+
+ <p> I bought this for my Garmin n&uuml;vi 255W and could not be happier. It fits perfectly and protects the GPS. Honestly: How much more can you expect? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good case... </p>
+
+
+<h2> review.date </h2>
+  09-11-2009  
+<h2> review.text </h2>
+
+ <p> Much better than the standard case sold by Garmin, the magnetic / post style strap does it's job and keeps the GPS in place. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oustanding GPS Case </p>
+
+
+<h2> review.date </h2>
+  02-17-2013  
+<h2> review.text </h2>
+
+ <p> We bought this case for my wife's Garmin Nuvi GPS in 2009, and it is still going strong and still works / looks like the day we bought it.Would recommend to anyone looking for a nice case for their Garmin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gilsson 4.3inch Leather Case - Four years and going strong for our Nuvi! </p>
+
+
+<h2> review.date </h2>
+  04-16-2009  
+<h2> review.text </h2>
+
+ <p> I bought this case because I wanted a high quality LEATHER case for my Garmin Nuvi 760. While the size, shape and functionality of this case is superior, the quality of the materials is not. First and foremost, it is FAKE pleather, and second, it is lined on the inside with some kind of synthetic velor material that isn't even sown down on the edges. I wanted a case that I could expect to last for years to come. This is not it.2 stars for high functionality, but not the "premium leather" product that was promised. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NOT LEATHER </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

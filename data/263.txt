@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B001UJIMIC <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-13-2013  
+<h2> review.text </h2>
+
+ <p> Hell i thought she had a good thing until she caught homeboy. Goes to show you, you never know a man/woman until you get all facts. he was on riding her so damn hard it was actually hilarious. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> crazy </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> Like most black films it could have been better,the actors were okay but the writing was juvenile and lacked depth. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It could have been on my mind. </p>
+
+
+<h2> review.date </h2>
+  07-04-2013  
+<h2> review.text </h2>
+
+ <p> I was not sure about this. Storyline is good. Has comic and drama moments. I only know of two actors in this . I actually enjoyed this movie about a young teacher who was hurt by her ex,  her dedication other students, and her friends. She is on a journey to loving again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly good </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> Agh don't remember this movie. The actors did their job; not sure what else to say. I have no idea? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mmmm, I watched this? </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> A movie for a great laugh and talented cast given a basic script. The lead character singing was impressive and a natural talent. A girly movie. Enjoy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute and entertaining. </p>
+
+
+<h2> review.date </h2>
+  09-29-2013  
+<h2> review.text </h2>
+
+ <p> I liked this movie. I'm not one for romantic movies but it was really cute. It was funny but not to sappy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Butterfly </p>
+
+
+<h2> review.date </h2>
+  12-28-2009  
+<h2> review.text </h2>
+
+ <p> I liked this movie because it lets you know that women really don't need men to become whole, </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Nice </p>
+
+
+<h2> review.date </h2>
+  01-23-2010  
+<h2> review.text </h2>
+
+ <p> Outside of the attractive girl on the cover, this film's storyline and substance left much to be desired. But I do commend the producers for getting it made. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's okay but </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> Excellent movie! The movie of knowing how to trust again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must See </p>
+
+
+<h2> review.date </h2>
+  11-15-2013  
+<h2> review.text </h2>
+
+ <p> i was a little confused by the strange range of reviews.  they were heavy enough on the negative side that i almost didn't watch.  glad i did.  it really is pretty good.  some of the acting could be better, and about ten minutes of it was wasted on unnecessary filler.  still, i liked it.  one of these days i might watch it again.one thing i really love is the song played at the end of the credits, &#34;it's only you&#34; by felix linden.  liked it so much, i coughed up a whole $.99 for it.  now that's a song worth listening to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not as bad as they say </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> Thank God for Amazon Prime because I would have been highly upset to have paid to rent this &#34;movie.&#34;  I was trying to make it to the end but just couldn't!  Watching someone barf right into someone lap while on a ferris wheel is not my cup of tea!  This film definitely proves that you don't have to go to film school to write a script.  Before I die, I guess I'll take a stab at it and I can bet it'll be 10 times better than this crap! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Worst I've seen in a long time! </p>
+
+
+<h2> review.date </h2>
+  05-06-2013  
+<h2> review.text </h2>
+
+ <p> If women could hear what men were thinking, I don't think we would like what they were saying. I enjoyed this movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Movie </p>
+
+
+<h2> review.date </h2>
+  09-11-2010  
+<h2> review.text </h2>
+
+ <p> The cover is more professional than the movie.Casting left much to desireBetter looking women in local barThere was no attraction between actors.Felt like a college level workI just watched 9, & that was top notch for college level work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This movie isn't on my mind. </p>
+
+
+<h2> review.date </h2>
+  08-19-2012  
+<h2> review.text </h2>
+
+ <p> Its a little budgeted but aside from that, the situation is realistic and the leads are attractive. That little boy had me laughing. I definitely laughed quite a few times. Id love to watch this again with a group of people. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I enjoyed this movie! </p>
+
+
+<h2> review.date </h2>
+  10-09-2010  
+<h2> review.text </h2>
+
+ <p> One could tell that ametuer actors were used. Some acted better than others. Ayo (new boyfriend)did a good job. The first male actor was not so good. The story line was nice and I'm sure it's every woman's wish to hear the thoughts of a man. Sure would save time. Overall, a good film if you just want something interesting to pass time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the worst film ever </p>
+
+
+<h2> review.date </h2>
+  12-17-2013  
+<h2> review.text </h2>
+
+ <p> I was 20 minutes into this movie, and I just couldn't take any more....stupid. ...more like a stage play, not an actual movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> She's Out Of Her Mind Lol </p>
+
+
+<h2> review.date </h2>
+  03-20-2010  
+<h2> review.text </h2>
+
+ <p> Ok the acting was horrible, it was definitely an amateur work but I guess exposure for the lead actress Sherial McKinney et al. She looks so much like a younger Halle Berry, without trying but also seemed to try to act like her as well. the story reminded me of a cross between Boomerang with the Eddie cheating on her and coming back and it reminds me about a reverse role of the movie where the guy can read women's thoughts. It doesn't explain how that happened for her to hear men's thoughts other than she woke up in the library and read a bunch of books. It was predictable in that you knew how the movie ended.  I can't believe I watched this  but I skipped through this after the first five minutes. I surfed the net most of the time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Glad I didn't pay to see it </p>
+
+
+<h2> review.date </h2>
+  07-13-2013  
+<h2> review.text </h2>
+
+ <p> This movie was actually pretty good. It did not look low budget. It had a really nice story line to it and the actors were really good. It's worth watching. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Good </p>
+
+
+<h2> review.date </h2>
+  01-18-2012  
+<h2> review.text </h2>
+
+ <p> I enjoy all the movie that i order i have not seen it yet but i no that i,m going to enjoy watching when i make time you no i love all my movie </p>
+
+
+<h2> review.summary </h2>
+
+ <p> no thank </p>
+
+
+<h2> review.date </h2>
+  01-07-2013  
+<h2> review.text </h2>
+
+ <p> I liked it.  It needed more spice.  You can't blame all men because of one man's mistakes or bad ways. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An alright movie </p>
+
+
+<h2> review.date </h2>
+  08-23-2013  
+<h2> review.text </h2>
+
+ <p> This is a cute movie with a cute story line. However, I wasn't impressed by the acting. It is a relatable story to any woman who has ever been hurt and has a cute ending. It's an ok movie for girls night, but wasn't my favorite. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute, but kinda slow going. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

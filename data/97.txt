@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0050PL7SE <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-16-2011  
+<h2> review.text </h2>
+
+ <p> Thankfully my husband tried this cord out before installing it in our walls. This product produced a snowy effect on your projector. We bought another one on this site that costs about the same and it works great. We hooked this up to a Mits HC4000. Its too bad we wasted $30 dollars on this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Defective  product. </p>
+
+
+<h2> review.date </h2>
+  07-17-2013  
+<h2> review.text </h2>
+
+ <p> From the living room into our kitchen.  Works perfectly.  I wish I could say the same about the multi-switch I bought to go with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> From the living room... </p>
+
+
+<h2> review.date </h2>
+  07-02-2013  
+<h2> review.text </h2>
+
+ <p> This is the 4th cable from Aurum I have purchased. These cables work great. I have not used them for anything greater than 1080i. I have the cables run outside under a covered patio but have had absolutely no issues with them. If you need cables, these work great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great cable, great price </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> I am not using this for hd video so I may not be noticing any loss.  I use it for running slide shows and karaoke and have never noticed any problems at that video quality.  I am using 8-13 mp pics in my slide shows. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  02-20-2013  
+<h2> review.text </h2>
+
+ <p> I needed a a pair of good quality longer length HDMI wire. This accomplished the task. The wire seems heavy duty in construction, it has good connectors, fiber weaved outter layer of the wire and nice gold terminals. I'm very happy with the price, shippment and picture quality of these wires. I've used them for ~6 months and no issues with either of the wires. I have also referred these to 2 freinds and they are happy with the ones they bought as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good HDMI Wire </p>
+
+
+<h2> review.date </h2>
+  08-24-2012  
+<h2> review.text </h2>
+
+ <p> this is a great item nice touch and amazing data transfer for audio and video hd this is my Diablo 3 ali in the most longest player journneys </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THE BEST! </p>
+
+
+<h2> review.date </h2>
+  03-10-2012  
+<h2> review.text </h2>
+
+ <p> Great "looking" cable & construction.  But it didn't work for us, and our Crestron installer confirmed that it doesn't work ("signal not supported").  So back to ordering a quality cable.  Fully agree with the other review to use Monoprice 22ga.  Costs more, but not when you count wasted time and cost of returning this one (which we probably won't even do). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks good, doesn't work </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> Great HDMI with no noticeable loss in picture/audio quality.  I purchased to extend my computer to my 55&#34; TV. Works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Low loss </p>
+
+
+<h2> review.date </h2>
+  12-08-2012  
+<h2> review.text </h2>
+
+ <p> Did not notice any issues with picture quality over the distance.  While flexible for getting thru walls and under floors, the ends are wide and required some 'shaving' to narrow to get thru wall and spaces.  Overall this cable worked as expected. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good picture quality, ends thick for getting thru walls </p>
+
+
+<h2> review.date </h2>
+  01-13-2013  
+<h2> review.text </h2>
+
+ <p> We have eight Aurum cables ranging from 25 to 50', built into our remodeled walls, and they all work great.And they include velcro cable ties - nice touch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent cables </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> I install home theater and home cinema and in many installations the requirement for a long distance HDMI is a must.This cable was installed to an Epson 5010 LCD 3D projector.It worked perfectly with no signal lose.3D tested perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Aurum Ultra Series - Speed HDMI Cable (40 feet) - CL3 Rated </p>
+
+
+<h2> review.date </h2>
+  04-13-2013  
+<h2> review.text </h2>
+
+ <p> I bought this 2 years ago and I thought it was the best HDMI for my videos and gaming...I really recommend buying this if you are looking for space because I connected my HDMI to the TV and leads to my iMAC, Macbook Desk, my Xbox and PS3 station. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AMAZING </p>
+
+
+<h2> review.date </h2>
+  01-17-2014  
+<h2> review.text </h2>
+
+ <p> I have it hooked up to an Epson projector and have had no issues with my Xbox or 3d blu-ray content. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No issues </p>
+
+
+<h2> review.date </h2>
+  05-20-2012  
+<h2> review.text </h2>
+
+ <p> Looks Good, Works Good- 5 stars!  (With respect to the Low Ratings that were posted - this is my own experience with the product. - Nope, I don't work for Aurum - just a 3D Enthusiast since 1985, and I can Assure you I would have returned an unsatisfactory product.)  Just bought the LG D2342P-PN FPR 3D monitor from Amazon (check out my separate review on this).  I needed a 40 foot HDMI 3D High Speed run from my LG monitor and PC setup to the family Sony PlayStation 3 and DirecTV DVR Set Top Box near the TV.  I was pleasantly surprised by the heavy build quality and the materials used.  My cable run is a simple and common one - behind furniture along the floor, across a few electrical cords plugged into the wall.  Connected this new Aurum cable to the DirecTV box and tested DirecTV's 3D channels -- I found it Works Great! The LG monitor displayed Crystal Clear 3D and Great Sound among the 3D channels.  Ran my DVR recordings through the Aurum cable - I found All recordings were Crystal Clear and had Great Sound.  Sony Playstation 3 also worked OK.  If the 40 foot Aurum Ultra is this good, I wouldn't hesitate to buy the shorter lengths if I needed them.  No need to buy "Boutique" cables at $100 for 1 1/2 foot lengths.  Just buy this one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks Good, Works Good! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

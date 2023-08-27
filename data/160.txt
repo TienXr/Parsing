@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 6302116996 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-22-2012  
+<h2> review.text </h2>
+
+ <p> This is Fun!! Frankie is a bit old for the part at 48 tryin to be 35!! but always great to watch Frankie!! Lee J.Cobb as Dad is just Hysterical!! Cobb wasa briliant Dramatic Actor but watch him handle Comedy!! Molly Picon is fabulous!! A Great Cast and most enjoyable!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CLASSIC AND FUNNY </p>
+
+
+<h2> review.date </h2>
+  05-08-2006  
+<h2> review.text </h2>
+
+ <p> This is one of the few movies I distinctly recall going to see with my family as a kid. I could tell you exactly where we went, et cetera. That memory being so vivid tells me that this movie was fun for the whole family or I would not recall it so vividly. Overall most Sinatra's movies are pretty good. This one he makes a believable playboy with the part of his concerned father played expertly by Lee J. Cobb. The whole movie is pretty lighthearted stuff and one most families can laugh at still today. Certain chords struck about young men acting like playboys and their parents concern for them settling down will likely never go out of style. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sinatra and Cobb at their best </p>
+
+
+<h2> review.date </h2>
+  02-11-2012  
+<h2> review.text </h2>
+
+ <p> I love Sinatra in comedies because he is such a natural.  Between his innocent blue eyes, sunken demeanor and serious expression he exudes a certain 'little boy lost' charm. He could have done slapstick but that was not his era. The women in his comedies are often gorgeous and silly with usually just one serious female lead...the one that intends to land him.In this role, Sinatra is the eldest son raised in a strict Jewish home with a typical doting mother and overly emotional father.  The parents are very key in this film and both absolutely SHINE in their appointed roles.  Sinatra is working in his fathers plastic fruit business and maintaining a well appointed apartment that has been literally, given him by one of his female suitors. He is too proud to be a kept man but he is not at all opposed to being tenderly coddled by his various love interests.  He will prove to have many female suitors in this role, all from various walks of life - each interesting and unique and some, noted actresses whose day was yet to come.Sinatra may think he has the wool pulled over his strict fathers eyes but he doesn't....not in the least.  The rows between him and his father are increasingly noisy but harmless and shot through with deep family concern.  All 'dad' really wants is for his sons to be married and begin raising families.  As the eldest, Sinatra is getting up there in years - approaching thirty no doubt in this role but his adoring younger brother wants nothing more than to emulate big brother - in all ways.  Little brother wants no part of the family fruits, literally and moves in with big brother who welcomes him with open arms, taking care to show him the ropes of life in the big city.  As Sinatra moves through the process, little brother learns more from watching big brother than listening and begins to take over his somewhat famous brothers womanizing bachelor role.Needless to say, this creates a growing tension between the two brothers that finally erupts in a wild party that little brother throws in big brothers bachelor pad.  Big brother walks in on it and in fatherly fashion, rails at little brother and disciplines him before his new crowd of friends.  Meanwhile, Sinatras serious love interest has forced him to make a choice; marriage or immorally live together.  The pressure from all sides leads not to an explosive ending but a realization....what Sinatra really wants is a simple life with one girl, the right girl.  The ending falls together beautifully when his parents arrive (after their own quarrel over the boys has sent them both spinning in different directions) to meet Sinatra and new WIFE.  Little brother meanwhile, steps into big brothers old role, old apartment and womanizing lifestyle...with hopefully some new lessons learned.Not a movie that directly reflects quality lifestyle values despite no actual sexual scenes, nudity or heavy use of foul language...but a lesson is learned in the film that does reinforce the importance of committed love and of family ties. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charming Sinatra and Silly Women </p>
+
+
+<h2> review.date </h2>
+  01-03-2014  
+<h2> review.text </h2>
+
+ <p> Sinatra has made himself a most delicious sandwich with Jill and Barbara (not to mentikon several part-timers including "Connie"(Phyllis Mcguire) who happens to be married to Dan Blocker (all 300 pounds and stetson hat of him)Tony Bill plays Frank's younger brother who wants to emulate his playboy brother.  I find this casting was a mistake but it didn't harm the pleasure of watching Frank and his various harem cavort...you have Jill St. John (dumb as a box of rocks) Barbara Rush (looking for something other than an affair) and other ladies involving themselves to the point of Dan Blocker cold-cocking Frank.Adding to the mix are Frank and his brother's domineering father (Lee J. Cobb) much shouting and ranting and their mother trying to make peace and you have a convoluted, funny and entertaining movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jill St. John and Barbara Rush </p>
+
+
+<h2> review.date </h2>
+  01-27-2013  
+<h2> review.text </h2>
+
+ <p> ...unless you want to become less of a Sinatra fan.  I was too young to see this when it was released and over the years saw only a few minutes here and there when it was on TV.  Always loved the theme song and figured the movie had to be as good.God almighty, was I wrong.  The most charitable way to put it is that it hasn't aged well.  You have Frank hamming it up, Tony Bill as one of the most annoying characters ever, and Lee J Cobb and Molly Picon overplaying their roles.The women who are involved with Frank are stupid, promiscuous, or adulterous, or a combination of all three.  I'm not a big fan of alleging sexism but it was impossible to ignore it in this movie.Keep your opinion of Frank unsullied.  Watch him in The Manchurian Candidate, or ever Ryan's Express, instead. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't Do It... </p>
+
+
+<h2> review.date </h2>
+  06-22-2010  
+<h2> review.text </h2>
+
+ <p> Finally able to purchase this on dvd!! Now if we can find The Swinger" with Ann-Margret it would be great!  Love these older movies coming to dvd finally... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the good old days............... </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> For the fans of Frank and the lovers of a great comedic plot. It is a good clean movie which you can watch with you little ones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great show! </p>
+
+
+<h2> review.date </h2>
+  07-08-2013  
+<h2> review.text </h2>
+
+ <p> What fun it was to see Frank Sinatra and Lee J. Cobb in one of their earlier film efforts.  Cast as son and dad, they're professionals all the way, carrying this comedy fest effortlessly.  Frank graces viewers with his memorable voice a little (but not enough!).  Yet, his acting stands on its own, whether he sings or not.Sinatra plays the ultimate man about town.  How dazzled Sinatra's younger brother is seeing his charming sibling feast on a life of freely "blowing his horn."  Sinatra's glamorous living includes always looking cool, mangling the truth as "needed," living beyond his means, missing work in favor of his love life, merging business with pleasure, and juggling a bevy of beauties.When baby brother turns 21, he leaves home and moves in with Sinatra, who is more than happy to be his brother's good-times mentor.  But that's when the complications in Sinatra's already dizzying life threaten to spin out of control.  It's not that baby brother gets in the way, but rather that since both brothers are employed by their dad, this change in the family household rocks the parents like a comedic earthquake.  With the "good son" living with the "bumb," who knows what will happen! (Lee J. Cobb, as the dad, is certain it means the worst!)It's a very clever script with terrific dialogue. The quality of writing is so consistently good, you don't want to miss any part of it.  Happily, the humor never suffers even when some serious plot twists occur.  The movie is more about its wonderfully outrageous characters than anything, but it also tells a satisfying story.  (On a side note, included in a party scene is a fun, little, between the lines nod to Sinatra's friendship with JFK.)This film is a class act rising to high entertainment standards.  As such, I could easily watch it again, while enjoying every minute.  Try it.  It will not disappoint. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 102 minutes of terrific entertainment </p>
+
+
+<h2> review.date </h2>
+  06-06-2012  
+<h2> review.text </h2>
+
+ <p> I have been waiting for this to come out on DVD.  I love Frank in this movie, with so many other stars. Good old-fashioned boy meets girl, boy is a swinger, boy is ready to settle down. Just the right length for a sit down and relax movie. It's swinging'! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun old fashioned romp of boy meets girl </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> I love a lot of different things about this movie. Mr. Sinatra is wonderful. Love his playful acting. I love the apartment! It fits a lot of my ideas about that time period (since I wasn't born then) lol. Would have been an excellent Ray Pack movie but still glad it only starred Frank. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> have always loved his movies </p>
+
+
+<h2> review.date </h2>
+  12-19-2010  
+<h2> review.text </h2>
+
+ <p> This is one of my favorites of Frank Sinatra. It's about an aging bachelor (who doesn't realize it);a "swinger" who doesn't want to get married. Enter the seen, his younger "coming of age" brother, who he shows all his "techniques" , too. Silly characters, meddling parents and just a whole lot of fun!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful comedy </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> I forgot how good these actors were at portraying the behaviors that were in the public consciousness about Jewish mamas and papas in that time of our society.  Had me laughing so hard, it had to be good for my immune system.  Frank Sinatra portrayed his persona as a 'swinging bachelor' and the women, as the 50's sex symbol stereotype, including being stupid too. Glad we got that changed around.  If you want a good look at the 50's and how we looked and dressed, and our expectations, this is a great movie.  In fact I think I'm going to buy it so I can watch it a lot.  There is also a surprise cameo, but I'm not going to give it away. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great parody on Jewish family life </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> Such a good way to loose your self in a time capsule.  How can you go wrong with Frank Sinatra? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a fun movie! </p>
+
+
+<h2> review.date </h2>
+  03-11-2012  
+<h2> review.text </h2>
+
+ <p> This film is a real "period piece" from the early 1960s (1963) and I still remember Sinatra's bachelor pad apartment from when I saw the film on the "big screen" back then. It was released on VHS years ago (many) and is NOW making it's DVD debut (Blu-ray also - though I don't think there are any different features and the DVD print is gorgeous enough.). It has been restored and the colors are vivid - even on my 30 year old standard-def TV. The sound waivers a bit but it's harder to "restore" sound than image. And this was - I'm told - transferred from an original 35mm print. (It will be released March 27, 2012)As to the plot - you can read about that in other reviews here (the plot hasn't changed since it's VHS release!) but this was a period when sex was IMPLIED. And Women's lib had not fully come into being. So we get Jill St. John as a really ditzy redhead who can be VERY sexy with her clothes on in the seduction scenes. Sinatra is of course the big name star here but he was trying to play a 38-year old when he was 47 at the time. The new "discovery" Tony Bill was being touted as a future star but I found the film drop every time he was on the screen. And we see where his career went. The gems here are Molly Picon and Lee J. Cobb as Sinatra's very ethnic Jewish parents. (Ok TRY to think of Sinatra a Jewish son.....) Picon is the typical old-school Jewish mother (she played the part often) and Cobb is her match.There are other big names her that make the availability of this on home video essential. The film was based on Neil Simon's first Broadway comedy. The script was written by Norman Lear (long before "All in the Family" and "Maude". And it is directed by Bud Yorkin (a well known TV producer/director who did many music "specials" in the 1960s). Oh, did I forget the music by Nelson Riddle?So, the film didn't hold up as well as I remember it but, when it got boring or stale I just concentrated on the eye-popping color and set decoration. (Though - because this was originally a stage play - there are very few "locations" and much of the action takes place in the Sinatra character's apt.)A nice time capsule.Steve Ramm"Anything Phonographic" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An early 60s "sex comedy" (with legends Molly Picon and Lee J. Cobb and Frank!) finally on DVD in GORGEOUS color print! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

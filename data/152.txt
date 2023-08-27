@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 0783245149 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-01-2011  
+<h2> review.text </h2>
+
+ <p> Not bad, pretty good movie. It's great except for the fact that the creature wears clothes and that it never reveals weather the creature lives or dies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Creature Wears Clothes </p>
+
+
+<h2> review.date </h2>
+  11-09-2012  
+<h2> review.text </h2>
+
+ <p> The Creature Walks Among Us, 1956 filmA couple rides down a highway in a convertible automobile (the weather is sunny). Mrs. Barton meets the scientists. They have a laboratory on the ship, which leaves for its destination. Some pings detect fish in the water. Mrs. Barton uses a rifle to shoot sharks. A powered boat takes them to a dock. An alligator hunter tells what happened to him: he was attacked by a "devil". The blood stain on a knife has information. They discuss the options. Mrs. Barton wants to join the exploration team in the water. [Underwater photography must have been a new technique.] Sonar shows three blips. Suddenly there is a fourth blip! The three swimmers don't see it. The music is part of the drama. The creature swims along the bottom. Mrs. Barton is rescued. [This pads out the story.] Bill Barton is jealous of his wife. The ship goes upstream into shallower water at night.They reach the limit for their ship. A small boat is used for the search. Rotenone is used to paralyze fish so they float to the top. They hear a strange noise (African monkeys?). The creature jumps up to knock over the light! Then he upsets the boat! But the poisoned arrows put him out and allow a capture. The burns affected his gill, he is not getting enough oxygen. This can caus brain injury. They study this patient. "Unresponsive." Their ship travels to California. They view the patient's hands, then his skin or scales. Metabolism affects alcohol consumption and effects. Bill speaks to Maria. The creature leaves his room and jumps over the side. Can he be rescued? Yes, and they analyze his brain functions. Back in Sausalito the creature can walk and breath air. The sheep are frightened by this jolly green giant. Bill and Maria argue. Is the creature changing?Is love returned by hate? Loyalty by infidelity? If so, something has to be changed. Does terror cause violence in humans? The creature watches Maria enter the water. Somehow a big cat approaches the lambs and attacks! The creature kills the mountain lion! Later Barton fires an employee and tells him to leave in the night. [Everything he has fits into one suitcase.] A remark causes a murderous rage. Can he blame the creature? The creature breaks out of his cage! He runs amok destroying furniture and throwing a man off the porch. The test failed, the creature defended itself. Mrs. Barton leaves. The creature is heading for the coast and the sea. The story ends.This movie is not as good as the earlier two. Sequels continue until the audience stays away. The theatrical trailer says it was part of a "2 for 1" offering. Only fans of the series will want to see this movie. Its adult themes make is less view-worthy for most people (although it could be scary to some.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rescue and Conflict </p>
+
+
+<h2> review.date </h2>
+  08-22-2000  
+<h2> review.text </h2>
+
+ <p> This movie really dosn't offer anything new.Scientist track the creature down in the everglades and in the battle the horriably burn the creature  requiring emergency surgery to save his life The result a much different  looking and docile creature who can breathe air. The creature who then  stands around in a pen with some sheep lookinng at a nearby pond. While the  man who finanacied the expeditition fights with his wife. and in a jealous  rage kills the man whom he thinks his wife is sleeping withand tries to  blame the creature who escapes and kills him. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Should have quit while they were ahead </p>
+
+
+<h2> review.date </h2>
+  03-10-2013  
+<h2> review.text </h2>
+
+ <p> Another band of irreverent scientists heads deep into the Amazon to capture the Gill-Man once again, this time with the intent of jump starting the creature's evolution. The experiment is a startling success, but the creature is horribly burned in the process, and sheds its damaged scales to reveal an eerily human undercoat. For a time, its training and conditioning seem to be paying off, but the observant creature also absorbs man's cruelty in the process, and sets off on a destructive rampage back to the sea in the thrilling climax. The third and final installment in THE CREATURE FROM THE BLACK LAGOON trilogy shares the same strengths and weaknesses as the two preceding films. As always, it begins with a tedious river voyage through the Amazon that is more dreadfully boring than ever as the supposed scientists spew out the usual pseudo-scientific babble. We are privileged to more terrific underwater photography in the same style as before, up until the creature is captured and burned. From here, things take an ethical and philosophical turn as the men attempt to take the beast out of the jungle, but fail to take the jungle out of the beast. The drama that unfolds between the controlling Dr. Barton and his philandering wife does little for the plot besides setting up an excuse for the creature's monstrous rampage in the end. Don Megowan does an excellent job at conveying raw emotion through the creature's thick make-up, lending the Gill-Man a much needed sense of empathy and remorse. This is especially true in the closing scene as he returns to the sea. A certain improvement over the first sequel, THE CREATURE WALKS AMONG US is a strange but interesting choice as the series closer.-Carl ManesI Like Horror Movies </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ILHM Reviews: The Creature Walks Among Us </p>
+
+
+<h2> review.date </h2>
+  10-05-2002  
+<h2> review.text </h2>
+
+ <p> Third of the "Creature" movies, it is better than "Revenge Of The Creature" but not as good as the original "Creature From The Black Lagoon". The Creature is again captured and after being badly burned and near death, it is discovered he has lungs he has never used. Some minor surgery and he is now a land creature. He is also more manlike since his outer skin was burned off to reveal a different look. Well acted and a good classic monster movie. Im still waiting impatiently for this one as well as Revenge to make it to DVD.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Torture of the Creature part III </p>
+
+
+<h2> review.date </h2>
+  06-21-1999  
+<h2> review.text </h2>
+
+ <p> Again the gill man is captured and ends up going on a rampage, and killing people, AND falling in love with a human girl, AND!!!!, well I think you get it. Since the first film that formula hasn't changed. In REVENGE OF THE  CREATURE nothing is different, but the movie is exciting enough and  romantic enough to make you care about the same old story. But this movie  barely keeps your intrest, and in the end actually almost makes you ashamed  to be human. I won't give away way though. All in all this is a good movie  but pales in comparisin to it's predesessors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WORTH WATCHING! </p>
+
+
+<h2> review.date </h2>
+  12-27-2010  
+<h2> review.text </h2>
+
+ <p> This movie while entertaining is the least of the Creature movies.  It has a novel twist but the acting and suspense are not as good as the first two movies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Third time is not the charm </p>
+
+
+<h2> review.date </h2>
+  10-26-2004  
+<h2> review.text </h2>
+
+ <p> "The Creature Walks Among Us" is the final film in the Universal trilogy that began with the classic B-monster movie "The Creature From the Black Lagoon."  Just as the first sequel, "Revenge of the Creature" was a step below the original, this 1956 film continues the cinematic descent for what is still the best looking rubber suit monster of the 1950s (and well beyond, for my money).  Having found a relatively successful formula in the first two films directed by Jack Arnold, the studio turned to John Sherwood, a relative novice director (but experienced second unit/assistant director).  Although the script was by Arthur A. Ross, who wrote the original "Creature" feature, he takes the story in new direction that just does not work as well.Basically what we have this time, along with the requisite love triangle involving the creature and a couple of humans, is a mad scientist element added to the mix.  Dr. William Barton (Jeff Morrow) has a beautiful wife, Marcia (Leigh Snowden), and decides to head off to the Everglades to capture the creature using the radar on his fancy boat.  Apparently after escaping from a Marineland in the Jacksonville area the creature was heading south, back to the Amazon, and got as far as the big swamp.  Aided by the more manly Dr. Thomas Morgan (Rex Reason), Barton succeeds in catching the creature after it corners their boat in shallow water by throwing gasoline on him and lighting him on fire.  Back in the lab, he discovers that the injured Gill-Man has lung tissue, so he turns the creature into an air breather, ostensibly to save its life, but also to further the cause of evolution in some grand manner.But the real reason for this, as I see it, is to avoid doing all of the underwater photography that was the hallmark of the previous pair of creature features.  However, the result is that the creature ends up looking like a lumbering, awkward, fish (man) out of water.  Then they put the ex-Gill-Man in a jump suit, covering up that great costume (because it has all those burns, you understand), and convincing me the people making this movie did not know what they were doing."The Creature Walks Among Us" qualifies as a message film.  Dr. Barton is tampering with nature and this is clearly not a good thing as we watch the poor, tortured creature, who can no longer return to the water that has always been his home and come to the conclusion that it is the human who is the monster this time around.  Fortunately there is also Rex, the "good" doctor, who saves the creature when it makes the mistake of returning to the water and who has deep thoughts about the nature of humanity.  The other big twist is that even Marcia Barton gets the point, and this time beauty is interested in the beast.  This film ends with the creature wrecking havoc on the puny humans who get in his way and the pathos of what we are led to believe is the creature's tragic demise (no good movie monster ever really dies).The best part of "The Creature Walks Among Us" is the early part, when we are still indulging in underwater ballets between the creature and the scuba-diving young woman twirling around in a mass of caressing air bubbles (the eroticism of these sequences had to be a big selling point of all of these movies).  Snowden, who had starred in the infamous juvenile delinquency flick "Hot Rod Rumble," is certainly the least alluring of the damsels in distress from these films, making Morrow and Reasoner, both of whom were in the sci-fi classic "This Island Earth," look a lot better in comparison as actors.  Besides, she is obviously the object of desire for pretty much every man in the film, so the madonna image is impossible for her to maintain.As always, swimmer Ricou Browning does the creature in underwater mode while Don Megowan, who had done monsters in "The Werewolf" and "Creation of the Humanoids," does the work as the air-breathing Gill-Man.  My preference for the performance of the former over the latter aligns perfectly with the parts of this film that work and those that do not.  "The Creature Walks Among Us" is a monster movie that has its heart in the right place, but whose head needed to spend some serious time rethinking what it was doing in this one because even its best ideas are inherently problematic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bad mad scientist turns the creature into an air breather </p>
+
+
+<h2> review.date </h2>
+  11-03-2002  
+<h2> review.text </h2>
+
+ <p> That would have been the ad slogan for this film, if the posters were honest.  Anyway, it is the last and least of the three CREATURE films.  Fairly entertaining, but it lacks the talent of Jack Arnold (who directed the first two) and Nestor Paiva (who was always fun as &quot;Lucas&quot; in the first two).  Yet another expedition goes in search of the Gillman and finds him, but he gets badly burned up in a fire, and those ever-clever scientists surgically make him into an air-breather!  This is supposed to have something to do with preparing humans for space travel.  When next we see the Gillman, he is wearing clothes (not the snazziest fashions, however) and has somehow gained weight, possibly due to a lack of exercise.  The final scene, in which the old guy tromps back to his beloved water, not realizing he is no longer a water-breather, is rather moving.  But when a monster movie has a lot of contrived conflicts that have little to do with the monster, you know they are getting desperate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Gillman Wears Clothes! </p>
+
+
+<h2> review.date </h2>
+  01-12-2009  
+<h2> review.text </h2>
+
+ <p> This movie is one hour and eighteen minutes and released on April 26, 1956. Ricou Browning, who playe the Creature in the water, is the only one to be in all three Creature movie. Another piece of trivia is Rex Reason and Jeff Morrow were in the movie This Island Earth. The first two Creature movies were great to watch. As for this one, let just say they did not listen to some true advice: if it is not broke, don't fix it. The story is lame and gone is the great underwater scenes. Also they made the Creature a land animal and made him put on weight. Only buy if you want the trilogy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the best of the three </p>
+
+
+<h2> review.date </h2>
+  02-21-2008  
+<h2> review.text </h2>
+
+ <p> The Creature trilogy comes to an end with this film. Low budget effects, recycled footage and too many talky scenes keep this film from being great. After the first two films,....where do you go with this one? Interesting idea.....lets make the Gillman an air breather! I would love to see Cronenberg tackle this film like he did with 'The Fly'! This would be a grand candidate for a remake! It's an enjoyable entry but, it's not in the same league as the original. This is available on DVD on The Creature From The Black Lagoon Legacy set. The DVD transfer is excellent and there are some interesting extras. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> INTERESTING IDEA FOR THE LAST CREATURE FILM! </p>
+
+
+<h2> review.date </h2>
+  01-13-2012  
+<h2> review.text </h2>
+
+ <p> I'll say one thing- the studio sure 'milked' this for all it was worth.  The first episode of the 'Creature' was a big hit, and 2nd (Revenge of the Creature) did OK.  But this last episode was pretty tame.  But, then again, back in the 50's, sci-fi was top dog-right? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally, the end of a series </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

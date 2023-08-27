@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00HHB182E <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-27-2014  
+<h2> review.text </h2>
+
+ <p> The description of the crazy war was very realistic. I felt like I was apart of the controlled chaos and felt the pull of living in a less civilized barbaric place. The book tells one of the many stories that no one will ever know where fantasy and insanity begins or ends. I have heard stories where the enemy would use fear tactics to drive the soldiers crazy. The use of psychedelic drugs could have created many monsters during ware, nothing like LSD, bullets, and dead bodies to get the imagination cranking. However, this story is about a real monster that collects heads. Who knows what lurks in the deep jungles. Cannibal monsters had to live somewhere, why not in the middle of Vietnam during a brutal.war. Lots to.eat..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JUNGLE ROT </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> If I could give this ten stars I would. Once again Tim Curran has done an excellent job of mixing research, the supernatural, and fine writing. Not for the faint of heart. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vietnam </p>
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> Another fantastic story from Tim Curran. As always with Mr Curran there's suspense, gore, action, a great storyline,  and real characters.  In my opinion Mr Curran is the best thriller/horror writer working today. I have yet to be disappointed by one of his books and I've literally read them all, no joke.  Do yourself a favor, buy one of his books and see for yourself,  he's the best. On a side note, half way through Headhunter there is a reference to one of his earlier books that long time readers, such as myself, will appreciate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Grand Slam From Curran </p>
+
+
+<h2> review.date </h2>
+  04-03-2014  
+<h2> review.text </h2>
+
+ <p> This is quite a bit more than I expected.  I was thinking it was going to be a good old fashioned Curran monster romp novella---which is a good thing, he is one of the best at those.  However Headhunter is much more.It is a testament to how good a horror novel is if you can say that it would be a complete and satisfying read even without the horror elements.  This novella is a very good straight forward war story about Vietnam and works on that level as well.  I had a strong feel for the time, the characters, the jungle, combat, the whole experience and really admired the detail and research.And then we get to the horror element, and it is truly horrific, and I feel that this is one of Curran&#8217;s best.Check it out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of Curran's best. </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> Not one of Tim's better efforts, but a nice try.  I thought the build up to the creature was pretty good, the mood was set, but the ending felt kind of weak.  Full of gruesome details of body parts and heads being ripped off.  Edited to take out a spoiler alert (on why I felt the ending was weak).  Maybe a longer story might have helped flush it out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The ending felt kind of weak </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> Another great read from Mr. Curran. Headhunter is dark, gritty and mean. I felt totally drawn in and got lost in the tale. You really get a feel of the chaos that was the Vietnam war and how it must have been for the soldiers, A total nightmare. Add in the creature stalking the lands, taking heads and it's one hell of a scary read. Highly recommended!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jungle Horror!!!! </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> I want to just let everyone know that Curran is pumping out some great reads lately. Not only was his &#34;Fear Me&#34; and &#34;Puppet Graveyard&#34; short masterpieces, but now comes &#34;Headhunter&#34; --- a nighmarish ride into the Vietnam War that has a monster so repugnant that this book just might keep you up at night thinking about it.Gruesome firefights, and a jungle full of severed heads highlight this revenge piece as a field journalist attempts to make sense of a trail of horror that a creature so vile has left behind. Curran's strength is his descriptive writing, and you will get plenty of scares in this work...To say more would give away too much. Fans of Curran will love this piece. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gruesome Ride Into Horror Hell </p>
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> Hello, Mr. Curran can definitely tell a good story.  The details are very good.  It reads like you are watching it on T.V.  I liked it.  Thanks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VERY GOOD SHORT STORY!! </p>
+
+
+<h2> review.date </h2>
+  01-19-2014  
+<h2> review.text </h2>
+
+ <p> Very few authors can compare to the sheer imagination of Tim Curran when it comes to conjuring up things that you wouldn't even think of in your worst nightmares!  A little long in the army details for my personal taste, but a captivating tale that you won't want to leave until the final page is turned, nonetheless.Recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Army based tale by veteran author of horror, Tim Curran! </p>
+
+
+<h2> review.date </h2>
+  03-27-2014  
+<h2> review.text </h2>
+
+ <p> Wow. This was a great story,as ever a fast great read,.  I'm looking forward to reading more if Mr.Currants work. This boom is a tot must have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OmG!!! </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> Headhunter was a very good quick read. I have enjoyed reading Tim's books over the years and will continue. The story is about a reporter(Mike McKinney) in Vietnam(1970)tracking down this story. About some thing that's seven or eight foot tall that smells bad and cuts the head off the people it kills. A sort of spook or legend they call the Headhunter that tales are told about in that area. The story had a good flow and was well written. I gave Headhunter 4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nam + Curran = Horror! </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> This is a very, creepy, suspenseful read.  The horror of the Vietnam conflict is captured perfectly and realistically, along with the inner demons War brings out in men.  And there is a literal kind of a demon in here as well.  Quite honestly the best thing I've read in a long time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Platoon Meets Predator" </p>
+
+
+<h2> review.date </h2>
+  01-28-2014  
+<h2> review.text </h2>
+
+ <p> I have just started reading this author, and while I did not like this as much as his other books, it is still pretty good or the genre. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

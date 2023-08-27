@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BH1SMA6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great After Bared To You </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is a very modern romance with lots of steamy scenes that reminded me of Gideon and Eva. But it also has some great stuff with characters in it. I liked seeing Jessie and Zach's relationship as much as Paul and Emma's.It is a graphic book, but if you read 50 shades of grey or bared to you, you've seen it before and probably liked it. Read it for the story. I hope that we read more about Emma and see if she and Paul can make it. Great read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exhibitionism at it's best! Are you ready to love in public? I am now! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am adventurous, but I've never been "love in public" brave. This book has a really interesting hook that we have all wondered about. What is it like to hook up in public? There are some very hot scenes between Emma and Paul her incredibly hot man (I imagine a Ryan Gosling/Bradley Cooper/Channing Tatum hybrid....wow). The characters are great in this book and are the real reason to read it. Jessie and Zach are another favorite couple. This is a unique book, with a main part, a short story at the end and a little interview too. What a tease! If you like hot stories with real characters, this is well worth your quiet time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This had my FULL attention </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really wanted to give this 5 stars but I held back because there were parts of this book that I feel could have been more complete. I really loved the characters, felt that the plot was great but wanted to have a more linear story line. I am the type of reader that hates 'teasers' because I want to be COMPLETELY surprised when I read a story. Knowing that there will be issues with the characters before I even meet them leaves me feeling like I can just skip ahead since I know what will ultimately happen. In this case, you learn just enough to pique your interest without giving too much away. I felt like Vik was sort of an awkward character, I didn't know much about him (other than that he was hot, powerful and wealthy) and yet he played a big part at the end of the story. A few more pages getting to know more about him and his motives and his reasons for his feelings towards Paul would have been nice, maybe a sequel? Worth the price, it definitely held my attention and would recommend this to others. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love at first sight is real! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Our main characters find themselves fated to be together.  How this love evolves and grows makes for a very HOT and enjoyable read.  Well written, with well defined characters, you will find yourself unable to put this book down. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Suprisingly Good Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I didn't go into this book expecting more than a few simple sex scenes. I got a lot more.The plot starts off very corny, with a movie star coming to town and hitting on the small town girl. But as the book progresses, both the characters change and learn about each other. The sex stays hot, but it gets deeper because of the writing.I probably wouldnt rate it this highly if I hadn't expected so little from it. But it's a great book with romantic scenes, a true love story between Emma and Paul, and a lot of fun. Read this book now! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Terrible! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the book of a small town girl who meets, and falls for a big celebrity. The writing wasn't good. The characters were annoying and unlikeable.  I didn't finish the whole book, and wish I had stopped reading sooner. Total waste of time. The best part of the book is when the hero tries to impress the heroine by lighting hundreds of candles in a cornfield. Am I the only one that thinks that is totally insane... Wouldn't that be a pretty big fire trap? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> who is Sophia Moore </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really liked this story, but at times it seemed a little unbelievable. But more importantly i want to know who the author is and the actor are! The interview at the end adds too the mystery and the romance. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very catchy story format that made you want to know more </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was very pleased with this series overall.  The way each part started at the pivotal point then took you back to the start to show you how Emma got there worked really well.  It's like you were instantly drawn in, wondering what happened to get her to that place.Emma was annoying at times, but I think it was her being naive and afraid to make a decision when the outcome was unknown.  And Paul.  I loved him then loathed him, sort of liked him again - wanted to slap him then allowed myself to see he was flawed and messed up.Very glad I picked this up, the story was good, was not typical and the sex was the perfect temperature. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Still in the minority, but it was growing one me </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> So I read book 1 originally and wrote a separate review. That book was just ok for me. However, after reading the remaining books, the series did grow on me. I still can't say I loved it, but at the end I did like the series better and wanted to see where Emma and Paul ended up. I can say that she was still a little annoying...at first...but by the end of the last story I liked her better. I still think she is a bit too judgmental (especially with Jessie), but not as horribly as she came across in the first book. Paul actually became more real to me too. In the first book, he was kind of flat...I can't say that I completely get him, but the more history shared the more likeable he became, even when he was making the worst mistakes. He wasn't a bad guy, he just wanted the attention he didn't get as a child and in the most unconventional way at that.With that, Sophia, thanks for letting me read the remaining books. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Interesting </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Liked the plot, kind of different. The main character and her bestFriend was showing a different friendship. The actor was hard toUnderstand, why he need to hurt her if she was the best thing thatHad happened to him. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Silly But Fun Fantasy Romance </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you didn't like the cheesy romance of Fifty Shades of Grey, you won't like this. Of course, this doesn't have all the S&M; stuff either, so you might want to give it a chance.This book is about the relationship between a clueless girl and a clueless guy. Sounds normal, doesn't it? The gimmick is that they start hooking up in public and, as they do, it connects them in new ways.I recommend the book because, although the story is predictable like any romance, it had nice characters and a few good turns of phrase. At one point, Emma calls something like "the tongue of a shoe" in a very amusing way.I didn't like the character of Vik that shows up later in the book and I would have liked to know more about his motivation. But I won't spoil it here. The relationship between Emma and Paul made that less important.Read this book if you like hot romance and characters with heart and feeling.Full Disclosure: I received this book via a giveaway on LibraryThing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Needed more development... </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was okay - the story line to me had some potential, but the characters were undeveloped (so you couldn't really connect or empathize with any of them) and came off as a bunch of emotionally thwarted pre-teens rather than people in their twenties. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun & sexy </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ok- who hasn't dreamed that their life couldn't get better & for some gorgeous celebrity to come sweep them off their feet? What we don't dream is the reality of being thrown into the celebrity lifestyle, no privacy & that even celebrities have problems.  This books moves fast - at times a little too fast. But I like the characters & all their flaws. I'm glad to see friendships & true love win out even though it takes work to stay together - ah life. I also liked the &#34;fun&#34; of a relationship being brought out between Paul & Emma. It's a wild ride of a story - enjoy! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

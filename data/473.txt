@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00GQOFFEA <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-21-2013  
+<h2> review.text </h2>
+
+ <p> Quick read, seems only appropriate for a book on minimalism. Thought provoking, inspiring and practical. Love core concepts of not allowing my possessions to own me (spot on) and striving to only have that in my live that provides meaning and happiness. Recommended reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick read, appropriate for a book on minimalism </p>
+
+
+<h2> review.date </h2>
+  12-20-2013  
+<h2> review.text </h2>
+
+ <p> This is something we have been working on for a few years now. We all seem to have way to much and in this book I learned more ways to keep moving in this direction. If you are thinking your life is on over load and you have to much of the world and not enough room for God in your life check out getting rid of some of the world </p>
+
+
+<h2> review.summary </h2>
+
+ <p> life </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> I really like this book.  She has a lot of great ideas and ways to implement de-cluttering and freeing yourself from stuff!  Great minimalism reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> Live More With Less by Karen Alexander is a good book about how to simplify our lives and clear out some of the needless clutter we all have. The author writes about how if we are willing to embrace a more minimalist style of living we may actually have fuller life. By eliminating clutter we then may change our mindsets and improve our lives. Some of the main topics the author talked about in the book were:&#8226; The benefits of minimalism and if it's right for you.&#8226; How to develop new habits.&#8226; How to stop procrastinating and get motivated.&#8226; Skills to help you make decisions.&#8226; Organizing and decorating tips for rooms in your house.&#8226; How to get more time to do the things you love.&#8226; Save money.&#8226; Reduce stress and get your life in balance.I want to state again I enjoyed this book and I think you will too.Thank you for reading my review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Live More With Less is a good book about embracing a more minimalist life and in turn improving our lives </p>
+
+
+<h2> review.date </h2>
+  11-21-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoyed how the book had not only practical organizational advice but also had the intangible benefits well highlighted. This is a great book to help clear out clutter.  I especially think those that are downsizing would benefit from this concise and informative read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great advice </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> Someone ask me to order this and it was a gift, I have not heard anything negative from him so that's a good sign:-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ordered as a gift </p>
+
+
+<h2> review.date </h2>
+  12-26-2013  
+<h2> review.text </h2>
+
+ <p> I will be referring to this book as I try to apply downsizing, decluttering, and living more simply.  Thanks for the great tips! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Information </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> Thank you Karen.  Your topic is dear to my heart & self-esteem.  The ideas presented are all common sense & likely included in many " Get Organised " books.  However, having said that, I appreciate the way you presented these ideas, especially the abundance of encouragement all thru your book.  You were right...I'm fired up to get started so I'll have to be mindful of the tendency to take on way more than I can accomplish & be mindful of taking little steps at a time.  I read your whole book  (Kindle Fire HD (2012) on a plane trip this morning.  I'll start my notebooks & start decluttering  tomorrow.  I promise MYSELF.  I CAN DO THIS! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Kick in the Pants "JUST DO IT" Book </p>
+
+
+<h2> review.date </h2>
+  12-05-2013  
+<h2> review.text </h2>
+
+ <p> I had already put some of these plans into action before I finished the book. This book is an excellent source for making your life easier. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic book! </p>
+
+
+<h2> review.date </h2>
+  12-10-2013  
+<h2> review.text </h2>
+
+ <p> You'll feel as if there's someone right by your side, cheering you on as you tackle the clutter in your life with this guide. Alexander speaks from experience, so these are tips that will bring you the results you're hoping to achieve. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Speaks from experience! </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> She has a lot of practical advise for starting to clean out and get rid of items. Good suggestions and a quick read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, quick read </p>
+
+
+<h2> review.date </h2>
+  06-11-2014  
+<h2> review.text </h2>
+
+ <p> Finally and at last a true Author who can actually articulate for us just what we need to do to be successful in the war on clutter. This book was a pure joy to read because of the positive, uplifting advice and the how-to steps to get you where you want to be---clutter free! Thank you so much for thinking of this topic and taking the time to write us such a clear, easy to follow self-help book. =))I would suggest (and have already) this book to anyone, if I were asked. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Live More With Less: The Gift of Minimalism: Simplify, Declutter and Get... Karen Alexander </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0002SQ0AE <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-24-2007  
+<h2> review.text </h2>
+
+ <p> Even though this system is a bargain, a surround-sound system it is not.  It is a 3-speaker system.  That's because the far right and left speakers are so dominated by the booming bass as to render them to be nothing more than bystanders. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Overpowering Bass </p>
+
+
+<h2> review.date </h2>
+  08-28-2006  
+<h2> review.text </h2>
+
+ <p> This system is a awesome one for GAMING, especially, the bang for the buck. It is built well and all seems to be of high quality.However for music it leaves a lot to be desired. The bass is too boomy. The mid range is at best ok and there is really a lack of treble. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great for GAMING </p>
+
+
+<h2> review.date </h2>
+  09-12-2009  
+<h2> review.text </h2>
+
+ <p> Purchased these speakers used but the quality level was still great! Use the audio ports on the motherboard and quality of sound produced is wonderful. No need for extra sound card because I'm only using it for home listening pleasure. Overall a great purchase and great price TOO!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great purchase! </p>
+
+
+<h2> review.date </h2>
+  11-29-2004  
+<h2> review.text </h2>
+
+ <p> I purchased these just the other day at Circuit City for $70.00 more, however, the speakers are completely worth it. They pound so hard that my neighbors called the police... and that was after I turned the bass way down. I purchased the speakers to go with my windows XP media edition PC, my gripes however are as follows.1. The rear cables should be longer. Yes, I was able to buy longer RCA connectors to extend them, but it was rather inconvenient.2. The subwoofer has a giant amp on the back of it, and everything plugs into that. So many wires! I wish they'd just consolidated things somehow.3. The base of each speaker rotates. I'm not sure why you'd rotate just the top of the speaker when you can rotate the base as well. Seems like just another part which can be broken.other than that, I'm satisfied with the speakers, the bass, and the remote. I sorta wish the remote was wireless, but what can I expect for $200.00.Hope this helps you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 70.00 cheaper on Amazon? DAMN IT! </p>
+
+
+<h2> review.date </h2>
+  05-25-2007  
+<h2> review.text </h2>
+
+ <p> To start with, the 5 unamplified speakers and sub in my home theatre cost almost exactly 10 times as much as this entire speaker system cost, so I've got a pretty good idea of what good sound sounds like.  I'm not one of those guys who thinks the 6x9's in my car are "bangin!".  So, on to the review.I gave this speaker system a 5-star rating not because they sound as good as my home theatre speakers- they don't- but because they sound exceptional for the price.  The satellite speakers stay clear and mostly distortion-free as high as I am comfortable with pushing the volume.  The speakers will never blow out any windows, and they can't compete in sheer SPL with higher-powered speakers, but they certainly go loud enough.  They do start to sound harsh toward the upper-eschelon of the volume range, but to me, that's too loud anyway.The sub is a modern marvel of engineering- it may not be precise, but what it gives up in intricate detail, it makes up for in sheer thump.  In fact, at lower volumes, it thumps noticeably harder than my much more expensive sub in the living room.  I'm surprised how much air such a low-priced sub can push out.  Again, it can't compete with high end equipment on sheer volume, and I would never discribe the bass as "tight", but I get a grin on my face just thinking about just how much bass an inexpensive sub can put out.Definitely recommended.  This system puts the much lower-powered X-540 to shame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price </p>
+
+
+<h2> review.date </h2>
+  08-07-2007  
+<h2> review.text </h2>
+
+ <p> Sorry that this is such a lengthy review.  I had upgraded to these speakers from the logitech x-530's.  The x-530's had really impressed me for its price.  Another great speaker system, indeed.  I saw these z-5300's speakers and did quite a bit of research before my purchase.  This system put out around 3x more power than my old system and also came with a game console adapter which is why I really wanted these.I was stunned at the the sheer power the bass was putting out.  I had tested it out on my Xbox before my computer.  Halo 2 never sounded so real!  Hearing every bullet and rocket fly by while hearing the sound of the running water from the environment just astonished my friend and I.  Then I hooked up the system to my laptop.  Surround sound never sounded so good!  Clear, crisp, even sound throughout.  I loved how the system included an adapter for game consoles, but the only problem with it is that the adapter only hooks up the left and right AV cords and converts it to 2.1 speakers.  I was hoping it would convert to the entire 5.1 system, but I ended up just buying a seperate adapter from logitech to do that.  One other small problem that I have is that sometimes I get small clicks while listening to music.  That could easily be due to the quality some of my old media files and old video games that I play though.  Some of the other reviews here also mentioned problems with the bass being too loud.  Yes, this system can be quite "aggressive", but with a good sound card and even with the included wired remote, you can adjust the level so that the bass is even completely off (which is a good thing in certain situations).  Personally, I haven't had any bass problems, but I am a bass junkie. Other than that,  these speakers are really worth it.  Highly recommended!!!Summary of this long reviewPros: Clear sound, massive bass power, included game adapterCons: Partial clicking sounds (but could easily be the result of my old media files), wish it came with complete 5.1 conversion game adapter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT SPEAKER SYSTEM!!!! </p>
+
+
+<h2> review.date </h2>
+  08-23-2007  
+<h2> review.text </h2>
+
+ <p> ......Of course, by the price I've payed for this item I could not expect to have a Bose quallity sound, but, it has a main problem which is you cannot turn down the bass volume till wherever you want, so it is always a "Bass Concert" what you hear; without the posibility, if you want it so, to turn out the bass, or as I wished, to put it's level exactly where I wanted. You could turn it down just till certain point, but even so, the subwoofer sounds over the rest of the speakers. And the rest of the speakers have not a very beautiful sound with an unavoidable excesive middle range frecuence. And what they say about 280 watt, I'd say that they are 270 for the sub and 10 for the rest of the speakers which cords are too short for a home theater. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No way to put the bass level where it must be </p>
+
+
+<h2> review.date </h2>
+  11-29-2005  
+<h2> review.text </h2>
+
+ <p> Ordered this speaker from Amazon with free shipping but had to wait for 2 weeks to get it. Well, free shipping then you need to wait longer. Anyway, this speaker is the best PC speaker that I tested. I tried Alteclansing, cyber acoustic, some of them have clear sound but no bass, some of them have too much base and no clear sound. End up I returned everything and get this $ 199 5.1 speaker set. Now low down the price to $ 123, so it is a good buy. Check Compusa to see how much they are selling this speaker and compare to amazon. The surround sound is very clear, no matter in high, mid and low range. Play BF2, FEAR, COD2, HL2, DOOM, Quake4 with thunder rocking sound. Listen to pop, classical muscic with clear sound. DVD movies rock too. A lot of people complaint the cord of the rear speakers are too short, but for me is ok..perfect setup in my room. If you want to set it up as home theater, then you will need extension cord for the rear speakers. The corded controller is big and easy to use. The green and orange LED is pretty after I turned my room light off. Finally, I got a perfect set of 5.1 speaker. Logitech good product. Amazon good price but slow shipping. perfect 5 stars for this product. Go to get it, this is the speaker you will like. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> best PC gaming speaker. Good for music too </p>
+
+
+<h2> review.date </h2>
+  11-14-2009  
+<h2> review.text </h2>
+
+ <p> I guess I forgot to post a review for these speakers when I got em. Not such a bad thing, I guess. Cause now I can let you know that after 4 years, these things sound as good as they did the day I took them out of the box. I have enjoyed playing games, watching movies, and especially listening to music with these speakers.  Of course it is not all just the speakers, a good sound card is pretty much required to get the most out of them.The subwoofer is massive and the bass can be a little overwhelming, but if your audio software has a setting for low frequency crossover, you can easily adjust the amount of bass that you want coming through.Not only do these speakers sound good. They also look good. Both with and without the grilles attached.This purchase has really sold me on the quality of Logitech products. I am the kind of guy who expects stuff to last forever and this surround sound system has certainly met my expectations in that department.I will be looking to Logitech first from now on when replacing any failing components on my overworked PC. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4 years later and still going strong </p>
+
+
+<h2> review.date </h2>
+  05-21-2013  
+<h2> review.text </h2>
+
+ <p> i love it gets the job done made my pc setup sound nice. had to eventually get rid of it but it was worth the money when i had it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great product </p>
+
+
+<h2> review.date </h2>
+  06-11-2007  
+<h2> review.text </h2>
+
+ <p> If you have the (...) 22inch monitor with the (...) graphics card and the (...)computer, don't try to look cheap for 'gaming speakers'. I have to admit they are pretty decent but I ended up returning them because I am one of those people and I just thought for (...) less than a similar product, I would try these guyz out.In the end, I think the bass is too muddy, and the sound is a little distorted. The only reason these speakers get loud is because of the wall booming bass. Most basses now can boom your wall down, but none have sounded so muddy as this one did.Pros: Nice aesthetic touch with grills, wires were long enough, cute wired controller, easy to set up, work well with games with the bass on minimum, Amazon rocks.Cons: Not the best for music, Bass is awfully loud even on its quietest setting, bass is not precise, speakers are pretty big, prices are not good enough to buy in stores since returns in stores can be a pain in the butt. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For $130, not bad... for $200.. look for better monitors </p>
+
+
+<h2> review.date </h2>
+  01-20-2008  
+<h2> review.text </h2>
+
+ <p> Reading some of the reviews I've notice some people have a bass problem and some don't. Why is this? I think its the sound card. I have a creative x-fi and don't experience no such bass problems .. In fact I increased the bass with no such problems that some people are having. I think having these speakers need a good sound card. Maybe i should of disable my sound card and used onboard sound to see . But I'm a little lazy today , beside other people with onboard sound should write a review . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  11-04-2010  
+<h2> review.text </h2>
+
+ <p> I just got rid of these speakers.  I donated them to my friend when I moved from Texas to Alaska.  They still worked as perfectly as they did they day I got them.  Everything about these speakers was perfect.  The sound carried well, and did not distort at high volume. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Speakers that I have Owned </p>
+
+
+<h2> review.date </h2>
+  06-28-2005  
+<h2> review.text </h2>
+
+ <p> I love my first 5.1 speaker system, because it's at a affordable price, and I like the color of black and sliver together. The 5.1 surround sound THX performance. The sound is like...In one word: POWERFUL! The 4 satellites speakers with the center channel speaker are Mid-range and they aren't little lite weigh speakers, There HUGE! There must weigh one or two pounds each, and there have heavy duty, thick and strong cords, also color coded! So it's easy to set-up, others have complained about how short the cords are but in my situation, there too long, which is good, I got what paid for! They also have notches at both bottom sides of the 4 speakers, so it a be easy to mount on the wall they can swivel too, GREAT! The Z-5300 "E" With a cool new look has silver speakers and removable black cloth grills. This has got to be the biggest and heaviest subwoofer I've every seen, now I know there's bigger ones out there, but this one is BIGGGG! Also it's a powerful one too. This subwoofer is built with a dual chamber, so it'll play louder and lower for a the greatest bass ever! Now on the back of it. It has an on and off switch, and a you change the level of surround sound, to what you want or have, like from 2.1, 4.1, and 5.1. In my case I have a CHAINTECH C-Media AV512 8738 6ch Sound Card, so I can put it on 5.1. But I think I have get a better sound card. I've never heard of SoundTouch before, it's a wired remote control that controls everything. I like it, its cute, though I wish it could be wireless, but I would have to pay about a 100 bucks more for it! Which I don't have... HA HA! A 2 year limited warranty, I'm glad that it's there, for security reasons, hopefully nothing happens and I wouldn't need it. As for the video game console adapter, I don't think I'll need it, because I don't video games, but I have family so I'll probably give it to them or find another way to use it. Once again I didn't go to newegg.com because they jacked-up price. I hate when do that, but I'll still go there for my Tech stuff. So instead I went to UpgradeSounce.com where they have FREE! Shipping and handing on everything, with it Fedex ground shipping. You have choice between Free ground shipping, 1-3 day express shipping 49.95! And I don't know anybody who go for The 2 Day Air 147.65, or The Next Day Air 164.30 shipping! I only paid 152.00 did I tell you that it's shipping/handing is free....LOL, and wasn't about to pay 49.95 dollars exras for shipping. NO WAY! What's included 4 satellites speakers, 1 center channel speaker, 1 subwoofer cables: power cord, color coded audio cables, SoundTouch wired remote control, a 2 year limited warranty, user's manual, video game console adapter. NOTE: Like I said before, if you like to have a great sound performance like me, then I recommend a better sound card like one from Creative Labs.Creative Labs[...]Pros:The 5.1 surround sound THX performance which make these speakers sound POWERFUL, affordable price tag, new Z-5300 "e" has better color than the Z-5300, it has sliver speakers with black cloth grills, 4 great satellite speakers with heavy duty cords, with one center channel speaker, one large powerful subwoofer, with controls on the back, like a on and off switch, also you can change the level of surround sound you have from 2.1 to 5.1, SoundTouch wired remote control. The remote also have a heavy duty cord, a 2 limited warranty, and video game console adapter, its good that I have one, because I can always find another to use it, but I don't like playing games.Cons:There's not too many cons, here.... But the fact that the remote is wired, and not wireless, this is no real problem for me though, the 4 speakers/center speaker could put out bit-better quality of sound, because the subwoofer can sometimes overpower them...But this also not that big a deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW! What A Powerful Speaker System!!! </p>
+
+
+<h2> review.date </h2>
+  07-15-2007  
+<h2> review.text </h2>
+
+ <p> These speakers deliver surprisingly good sound for the price, and size. The sub woofer design does allow for more bass than anybody needs as many people have pointed out, but it is a very fulfilling sound.For games it is awesome sounding, and teamed with a Creative X-Fi sound card, it's easy to configure the different output options other than switching the slide switch behind the woofer.For music it sounds very crisp, clear, and still plenty more bass than ya need. The mids could be better, but tweaking the eq settings in your sound card software can patch that up. When I switch my X-fi from game mode to entertainment mode however, I do get some static-y crackling, as if somethings not shielded, that you can hear when there is no sound output, or very quiet music passages. Not sure where this is coming from, but since it doesn't happen in game mode, sounds like it's from the sound card.The woofer enclosure is indeed VERY large, if you put it under your desk, you either have no room for your feet, or a nice footrest. Cables are adequate for putting around you as you sit at the computer, if you want them in the 4 corners of your room you can get extensions, they are just standard rca audio connectors, unlike others that hardwire them in, or use some weird plugs.My first one arrived with the center channel not working, it was the amp, not speakers. Amazon sent me a replacement right away, before I sent the defect back even. Very nice, although I was told my cost for shipping back would be credited back, and it hasn't.Replacement works fine, fraggin and crankin the tunes for about a month now, and glad I made the purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> surprising sound quality </p>
+
+
+<h2> review.date </h2>
+  10-11-2010  
+<h2> review.text </h2>
+
+ <p> NOT worth the money... as is with most of Logitech's products, in my experience. For how much these were, they should have lasted longer. I never put these things up much more than halfway, and the damn sub blew after 2 weeks. At first, it WAS pretty great bass, though. Then, all the sudden I realized it sounded like garbage. I thought it was due to the placement of the box, but I was wrong. At this point, it was too late and warranty period was over. The rest of the speakers sounded decent, but nothing amazing. I kept them for a while, dealing with the crappy bass and just sucked it up. I'd recommend steering clear of Logitech, unless you really hear good things about the product and have good luck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Overall average speakers... </p>
+
+
+<h2> review.date </h2>
+  12-23-2013  
+<h2> review.text </h2>
+
+ <p> I realize I procrastinated a tad in reviewing these speakers as my account clearly reminds me I bought them in March, 2006. That said, I believe it's worth mentioning that eight years down the line, these are still the best computer/TV speakers in my household. If anything they sound even better than the day I bought them -- and these bad boys can REALLY get loud with no distortion to speak of.  Just make sure you get a good sound card to get them pumping -- stray away from Creative, had a lot of issues with their driver for Windows 7 -- and enjoy!I am betting that even now, there aren't sets BETTER than this one. Perhaps the same and with an added optical input which might give &#34;purer&#34; sound. But nothing can take away the 8 years of joy they've given me. And they would you should you still be able to find a set....likely at rock-bottom prices. I say: go for it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  03-21-2005  
+<h2> review.text </h2>
+
+ <p> These speakers are an excellent buy!  You'll want a Creative Audigy2 ZS Sound Card to go with them, to give you true 6-channel sound.  Also, you need the Creative software to tweak the tone.You'll calibrate the speakers for 5.1 sound.  Then turn the bass all the way down on the Logitech control, & you'll also want to turn it down to 20% on the Surround Mixer.  On the Graphic Equalizer you can turn up the 4k to around +4.5db & the 8k up to +12db.  Once you make these adjustments, you have an amazing system with the sound of your artist playing loud & clear right in your room!  I bought mine directly from Amazon, & I'm very happy with them! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Logitech Z-5300e - Great for the money! </p>
+
+
+<h2> review.date </h2>
+  06-04-2005  
+<h2> review.text </h2>
+
+ <p> Well, my last review (question really) about how long the rear speaker wires were wasn't very helpful to most folks. (0 out of 10).  Well, I've answered my own question by finally getting the set.  For those who also want to know, the wires are about 16 feet I think, going by the ol' finger tip to finger tip test (I'm 6', and it spanned the distance twice and then another 4' or so.)Anyway, here's what happened when I finally got the system.  I was upgrading from a Logitech Z-640 5.1 set to the Z-5300e.  The 640 set was decent, but had very little mid-range, if at all, and the 25w sub just didn't have the punch it needed to sound good for DVD playback and music.  Oh, the reason I brought this up is because I had my sub sitting on a shelf about 6" above my monitor.  It was fine.  Didn't affect anything.  And so I get the Z-5300e set, and for those who have it, know the sub is HUGE. (11.5"w x 12"h x 14.25"d &lt;- and that's without the wires hooked up (add another 4" minimum with the wires).  Anyway, I tried setting the sub back up on the shelf where my old one was.  It pulled the color out of my monitor!  Not all of it, but damn near all of it.  Damn big magnet in that thing.  I told the clerk at Radio Shack about it (more on this later) and she said hitting the monitor's "Degauss" function may have fixed the problem, but I didn't want to have to worry about it.  So I decided to put the sub on the floor as Logitech suggests.  By doing so, I required rear wire extensions, because I lost about 6' of length that I needed.  So that's where the trip to Radio Shack comes in.  Bought two 6' extensions for $6.Anyway, so I get it hooked up and WOW!  Major sound coming out of these relatively small satellite and center speakers.  Of course the sub handles most of the low end.  This system sounds better than what I've got for my main TV.Many people complain about the over punchiness of the sub.  I agree, it's a bit strong and overpowering if your only control over it is the provided remote control.  However, if you have good soundcard software, as which comes with most Creative Labs high-end surround sound sound cars, there are several bass level adjustments in it that you can back off the bass level to a point where you can practically minimize the bass.  For example, for the Audigy 2 card series, there's a bass cross-over control and by sliding the control to the right, you can take almost all bass out of the sound.  I ususally set my slider at a quarter of the way across from the left (bass side) and it's adequate.  And then if you have separate bass/trebble controls too, you can lower the bass there as well.But if you like bass, this 100w baby can do some serious thumpin'.  It has a dual-chambered construction where the cone is inside the box mounted on a center divider which allowed the bass to resonate better than if the cone was mounted on the outside.Some people also say that there's no on-system cross-over from the sub to the satellites.  Well, duh?  The satellites are not woofers.  They're basically mid-range speakers that can duplicate tweeters as well due to their dual drivers.Break-down:Pros:Awesome sound for an affordable price.Well-constructed speakers.Enough wattage for your PC or console game system.Cons:Relatively short speaker wires.Wired remote control.Inadequate on-board control of bass level.But with that last one, you can tailor it better if you have good software with your soundcard.Also had I not had to put the sub on the floor, I wouldn't have had to buy cord extensions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My experience of upgrading to this system. </p>
+
+
+<h2> review.date </h2>
+  12-09-2006  
+<h2> review.text </h2>
+
+ <p> I just purchased, installed and am enjoying the great sound.  I have about a 10x10 room and it was vibrating other parts of the house at about 1/2 full volume (that's about all I could take)...The 5.1 surround is excellent and does immerse you. I played Flight Simulator and it definitely felt more realistic with these speaker. I then watched about an hour of Lord of the Rings, the first one, and was amazed at the sound clarity. The taps on the glass, the smacking of lips, very subtle and clear sounds. AMAZING!My only gripe is that the connectors from the subwoofer to the sound card are pretty short so I had to put the sub next to me rather than in front of me... The cables, on the hwole, are all too short. I'll probably head to Radio Shack and extend them so I can optimize the sound even more.All in all, very pleased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good price - great sound </p>
+
+
+<h2> review.date </h2>
+  05-09-2005  
+<h2> review.text </h2>
+
+ <p> Speakers are excellent quality. The only problem is the cable length are not long enough to keep it far apart. Best ever deal I had got from Amazon $13.30 with free shipping(in march. It was a price mistake of the day(later changed to $133.99). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best deal Speakers for the price </p>
+
+
+<h2> review.date </h2>
+  04-28-2005  
+<h2> review.text </h2>
+
+ <p> I bought these from Amazon.com last summer (the gray Z-5300 model) and I love these speakers more than anything. These are my favorite speakers!I bought them last summer for $130 and I'm glad I made the purchase. The speakers sound great and the subwoofer is outstanding. I believe it's 100 watts alone, while the rest of the speakers are 180 watts in total. I wish the remote was wireless like the Z-680/Z-5500 but for $120 you can't expect that. It comes with an adapter that lets you use these speakers on your PlayStation/GameCube/Xbox, etc. It works well with 2.1 speakers as well if you don't want to use these. They sound great with THX movies such as Finding Nemo and Monsters Inc. The rear speaker wire length is fairly short but it hasn't caused any problems for me yet. These speakers are very durable and I'm very grateful to Logitech for releasing an extremely affordable 5.1 system to the consumer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best $100 I ever spent. </p>
+
+
+<h2> review.date </h2>
+  10-18-2007  
+<h2> review.text </h2>
+
+ <p> I got these to replace some old creative 5.1 speakers that were slowly going out on me. The creative had a good run, but this system really caught my eye for the price and power. It was easy to set up, though I was a bit surprised to see RCA connections for everything rather than ye old speaker wire. My only complaint is the front speaker wires are short, but in my mind that's not enough to take away a star over. The sound is crisp, powerful, handles a good range, and they system can get pretty loud. I can only bear it at about 50-60% power depending on what I'm listening to. The bass IS very strong, the sub is a behemoth... but it is adjustable via the controller. And if you're an audiophile you will have EQ software on your computer anyway. More is better than not enough if you're a sound freak like me and tweak the EQ constantly. I'm very happy with it. I plan to use it for a long time, it even looks cool too :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sound, good bass, plenty of power </p>
+
+
+<h2> review.date </h2>
+  03-02-2008  
+<h2> review.text </h2>
+
+ <p> I've owned these speakers for about 6 months now and haven't been disappointed. I really wanted to spring for Logitechs digital Z-5500's but couldn't pass up the deal I found for these.These go on sale quite often, and normally you can find them with a hefty mail in rebate. I got my setup for $48! Thats an absolute steal for these speakers. At the time the z5500's were selling for over $300 so it was a no brainer for me.I have these setup in my computer room which is fairly small. These cables are color coded and extremely easy to setup. The only drawback is the shorter length of the rear speakers. I never actually measured them but they seem to be around 15ft. That isn't that long when you want to mount them on a rear wall and try to hide the wires. I went online and purchased an RCA cable extension for like $2 and was good to go!The included hand held volume adjuster acts as the main control hub. You can adjust the volume, the subwoofer, fade, etc from there. It will also integrate into your soundcard with no problem. I set the volume to %75 on the actual Logitech module, then use my Logitech mouse or keyboard to control the volume through my soundcard. It's much more convienant rather than reaching for the wired Logitech module. This way I can just tuck it away out of sight.I had to do quite a bit of tweaking to get them to sound how I wanted. The trouble is not all sources sound the same. Once I find a good setting for movies I find that I need to readjust things when I listen to music. This more has to do with your soundcard though and adjusting bass,treble,EQ, etc.One pet peeve of mine is that this is not digital. I knew that going in but I really do wish I had opted for true 5.1 DD surround sound. This setup does a good job of simulating surround from a stereo source but I find the rear speakers a bit lacking. Even when I turn the rear speaker volume up it just doesn't sound quite right. With true digital 5.1 different sounds are actually coming from different speakers. With these the same sound is just spread across all speakers but the rear speakers always seem less powered/muffled/low.The bass on this system is definitely on the strong side. I actually think it makes things sound muffled when even at %50. After lowering the bass on the module and tweaking my soundcard settings I got it to sound just right. It still shakes the room, but doesn't have that muffled effect.So while theres definitely some minor annoyances with this system it just can't be beat for the price when on sale. It all depends on what price it's at when you go to purchase. Right now I see Amazon charging $156 for these and only $199 for the Z-5500's! I would certainly, without a doubt, spend the extra $44 and get true digital surround sound. (If your soundcard supports digital of course!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great computer speakers, even better price! </p>
+
+
+<h2> review.date </h2>
+  01-27-2008  
+<h2> review.text </h2>
+
+ <p> I just finished hooking up this system to my SB Audigy soundcard and am very impressed with it so far.  Once I went into the soundcards speaker setup section and done some fine tuning there, then came back to the hand-held unit of the speakers I was better satisfied with them, especially after turning on the "matrix" section of it, it brought regular CD music to a very good surround sound.  I am not a "gamer" but I would guess that it brings that out quite good. Haven't as yet used it for a movie, although I would guess that it works very good as well, I like movies on a larger screeen than what a PC has. The only drawback I have with it, the front speakers cables should have been longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good </p>
+
+
+<h2> review.date </h2>
+  01-13-2011  
+<h2> review.text </h2>
+
+ <p> Ill make it short - 3 houses later and over 10 years at blasting volumes... the 5300 keeps thumpin and rockin.. nuff said. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kick Butt Value </p>
+
+
+<h2> review.date </h2>
+  10-04-2007  
+<h2> review.text </h2>
+
+ <p> I can't say enough good things about these speakers. This will be the third set in my house. Excellent base response, can't beat'em for video games. Realistic sounds/surround sound. Easy to hook up and fine tune if you want, or just leave with factory settings (still sounds great). Can't beat the bang (or "boom") for the buck. Delivery is astounding. Was at my door before I even got the email saying when it would arrive :)  My son spent about 3 times the cost of these speakers for something else and they don't sound anywhere as good as these ones do.Trust me.....buy them, you won't regret it! We've already recommended these to atleast 6 other people from around the country (fellow gamers) and not one has a bad word to say. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> crankin' speakers! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

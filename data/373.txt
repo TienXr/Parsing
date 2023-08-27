@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1892145707 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> It is a great LOOKING book. It is heavy with great paper and imagery, but not much to read. it is interesting to see the things that can be found still in specialty shops in Paris, but some of the things are price-y and i wondered how often someone other than stylists like the author would be looking for these things. i would like to be able to chance encounter a shop or two like those in the book!That would really make any one's trip to Paris memorable! When you get to Paris, unless you are working, you kick back and wander. Maybe I'll look for a couple of the shops in the book! Next time! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> so-so info! </p>
+
+
+<h2> review.date </h2>
+  06-06-2009  
+<h2> review.text </h2>
+
+ <p> i was disappointed with the photography in this book-- it is dark and a lot of images are out of focus and hard to make out-- if you are looking for a shopping guide, i suppose that you will find this book adequate-- if you are are looking for inspiration or really wanted to revel in the creations of these artists, you will be sorely disappointed-- </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a disappointment </p>
+
+
+<h2> review.date </h2>
+  09-13-2009  
+<h2> review.text </h2>
+
+ <p> Paris:  Made by Hand is a tiny little book that feels very good in your hand, but it is not what I expected.  I was disappointed.  I thought it would show me THINGS and shops in Paris where I could find things hand made and vintage when if ever I got there.  It didn't.  It had pictures of off the beaten path shops that the author visits when she goes to Paris.  The merchandise was not very interesting to me.  I didn't find anything I could decorate or style with or really anything I found particularly chic.  The photos were difficult to make out.  They were dark with little or no color, but not black and white either.  Maybe it was just me.  It didn't do anything for me.  Take Amazon up on the offer and "look inside" before you buy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Heart Paris Any Time But Not In This Book </p>
+
+
+<h2> review.date </h2>
+  05-11-2009  
+<h2> review.text </h2>
+
+ <p> Unless you shopped at high-end boutiques and specialty stores in a handful of large American cities, it used to be that you had to go to Paris to buy French goods. Now my wife buys Anne Fontaine blouses at a discount mall --- and these are the top-of-the line items, not a lesser-quality collection made just for the outlets. That's a good thing. Still, it's one less shop to visit if and when we haul ourselves back to France.Not that I need a reason to go to Paris, but I have a have a new one --- a book written and photographed by Pia Jane Bijkerk, an Australian stylist who works in Paris and Amsterdam. Appropriate that she should do both jobs --- her book celebrates the "fait main", the work of the hand.You know how it is. You wander a city, skipping the establishments you know well. Soon your eye spots what you've overlooked. One find leads to another. Before you know it, you have a collection of shops that are one-of-a-kind and out-of-time --- restored objects and furniture, fabrics not seen for decades, paper you'd never put in a Hewlett-Packard tray, vintage jewelry and more. And you have a list of workrooms that specialize in unlikely services. Umbrella repair, anyone?The joy of these places goes far beyond the beauty of what's on display. These small businesses are statements: History matters, artistry can't happen on an assembly line, there's a value to tradition. More, they're statements about Right Livelihood, for their owners cannot possibly hope to expand their enterprises. These are artists. They may charge plenty of euros for some of their work, but they're in it for love, not money. As you can't miss their intent, a visit to these shops is an invitation to fall under their spell --- indeed, to fall in love.Ms. Bijerk is not a sadist. That is, she gives the web addresses of most of these businesses, so you can visit --- and shop --- virtually. Not as good as a trip to Paris, but we make do. And, if you are good at rationalization, what you don't spend on travel, hotels and meals translates to more you can spend by shopping online.I particularly liked:-- Alexia Hollinger, an artisan who saw no reason for handbags to be made only of leather. She scoured second-hand shops for fabric and began making seriously beautiful bags.-- Legeron, where the fabric blossoms are well worth a climb of five flights.-- Ultramod, for silk ribbon from the 1940s and rolls of silk from the 1930s.-- Marie Louise de Monterey, for vintage dresses and blouses, most often from the 1920s.-- Oh Dis Le Moi, for jewelry that can be clipped on, giving a touch of sparkle where once was only fabric.-- Mahlia Kent, creator of custom-made textiles but also, at more reasonable prices, scarves and coats made from leftover wovens.-- French Touche, for accessories, but mostly for screen-printed cushions and notebooks in colors and designs not seen for decades.-- Estelle Lemaitre, my absolute favorite, because who can resist a feather-lined lampshade?Ms. Bijerk has organized the book sensibly, by geographical proximity. "So you don't have to deal with the metro too often, each chapter is 'a wander', designed so you can walk from handmade place to handmade place with ease," she says. Sweet. But her photographs are so appealing, her descriptions so distinct, that an hour at your desk, computer on, is almost as good. And with a wineglass at your elbow.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful things not in tour guides; this book is to swoon </p>
+
+
+<h2> review.date </h2>
+  06-24-2011  
+<h2> review.text </h2>
+
+ <p> When I looked at the reviews for this book, it quickly became obvious that the positive ones were largely from folks who have been to Paris, while the negative ones were the opposite.  To the uninitiated, knowing the metro stop and the arrondissement of any address is Paris is exactly how we navigate, supplemented by our handy dandy Paris par Arrondissement pocket guide to fill in the particulars.  For the reviewer worried that many of these places might not be in business forever, ce la vie.....you will still find other interesting shops along the way.  For instance, when I was last in the 12th Arrondissement, Viaduc des Arts, one of the ateliers was owned by a woman who ironed the linens of the well to do with lavender water, and could be seen hard at work in her atelier.  Another repaired priceless tapestries, examples of which were easily seen through the large arched window.  On my way there from the Bastille metro stop, I ran into an enormous tented antique & bricolage fair, which is a yearly event; so large, it exhausted me before I exhausted it.A lovely aspect of this book is it takes you away from the familiar souvenir stores that populate major street all tourists navigate to smaller streets, more characteristic of the Paris where natives live, to search for unique and lovely items still made by hand. On the way, you will probably find your own treasures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful Guide for Unique Gifts </p>
+
+
+<h2> review.date </h2>
+  05-04-2011  
+<h2> review.text </h2>
+
+ <p> I was excited to see this book when it came out, and coincidentally purchased a copy in Amsterdam at a book-signing with Pia. When I travel, I like to bring home something that is a unique expression of the artisans of the place I have visited, or just something that is not so mainstream. While many of the resources in Pia's guide are fashion related and I didn't visit them, I found the home accessories / tabletop to be great. A friend of mine who lives in Paris flipped through the book and verified that it is indeed an excellent selection of high quality shops worthy of visiting. Many of the shops, as you may have already guessed, are quite expensive.The small size is a plus because it fits into your bag very well. The images are also nice although I would -not- consider this to be a photobook or 'inspiration' book as it appears other reviewers thought it would be. It is a guide to shops which offer hand made and/or custom-made accessories (clothing, fabrics, tabletop) in Paris, and a very very good one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great resource for unique shopping in Paris </p>
+
+
+<h2> review.date </h2>
+  08-10-2010  
+<h2> review.text </h2>
+
+ <p> When in France do as the French do with the aid of this little book full of chic objets and decorator's items. I would be very surprised if you are not enchanted with the shops and profiles in this book. It probably means you have one foot in the grave already. Pia has an eye and flair for design. She has hunted out the best that Paris has to offer. Ateliers that you might never come across on your own meanderings through the streets of Paris in search of Je ne sais quoi. Take this on your next trip and discover a whole new world within Paris - one that can enhance your life with hand-made items. Find your hoard of unique French style to bring back home. Lots to like and yearn for. Just two little niggles, some of the websites are not working or are incorrect - always a problem with books of this nature. Also the photographs are so dark and dim.  Yet this book is worthwhile. This review first appeared on Karen Platt's book review website. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> resourceful Pia </p>
+
+
+<h2> review.date </h2>
+  10-01-2011  
+<h2> review.text </h2>
+
+ <p> I lived in Paris 10 years ago and still visit every 2 or 3 years. I would definitely take this book with me the next time I visit. The size is just perfect to carry around and there are a lot of interesting shops featured that are new to me.Pia Jane Bijkerk is a well-known blogger-photographer-stylist. Her work as a stylist certainly put her in good stead to find cool off the beaten track shops selling interesting artisan, handmade, vintage and unique ware. Unfortunately, a lot of them are expensive but I couldn't resist checking them out and rummaging through the treasures inside. The book would probably be of interest to Paris residents or regular visitors but I don't know how attractive it would be to a first-time tourist with limited time in the city unless he/she has a special interest in such shops.The book is nicely structured with the shops listed geographically according to Paris districts, and useful information is provided like the shops' addresses and websites. But a map with the shops marked would have been helpful, especially to new visitors to the city.While I appreciated the information in the book, I found the photography somewhat dark and moody,  although that may be popular now with the off-focus /soft focus trend thanks to apps like Hipstamatic (this book is now 2 years old though). I didn't think that style worked well with a book like this, where you want to display the products and not just the shops.As a Paris lover, I like the book. If you don't know the city well, it may not be on your must-have list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> taking this on my next trip to Paris! </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> This sweet little book is a keeper. Not so much as I am heading to every shop in Paris, but to dream about doing so by reading its pages. It fits in a purse and is nice to pull out when waiting at a drs. office. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A nice book to carry with you </p>
+
+
+<h2> review.date </h2>
+  11-22-2010  
+<h2> review.text </h2>
+
+ <p> This book probably won't be of much use to you if you are a casual tourist because it doesn't include any orienting map to give you an overall view of where the different artisan shops it features are to be found.It is organized according to "Arrondissements" or "Districts," and gives the address of each shop. But unless you take the time before you leave on your tour to plot these locations, or unless you are already familiar with Paris' geography - you probably won't have the time to search out the various locations after you actually land in Paris.There are lovely golden glowing photographs of some of the handmade or refurbished products to be found. However, I can't help but feel you might face another problem finding the shops selling these items. Although some of the stores were founded decades ago, I fear that the continued economic downturn might have forced many to close their doors. In bad times, people probably don't give priority to buying hand-embossed stationery or restored antique tricycles. So even though this book was printed in 2009, I wonder how many of the featured shops might already be gone.In summary, "Paris: Made by Hand" seems likely to be most useful to expatriates living in Paris or to others who have the luxury of extended stays there. The average tourist will probably face some frustration trying to track down the beautiful luxury wares pictured in these pages. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Of Limited Use </p>
+
+
+<h2> review.date </h2>
+  10-02-2010  
+<h2> review.text </h2>
+
+ <p> If you have the time in Paris to explore more than the Louvre and la Tour, then you need this book.  It's a treasure trove of wonderful little shops that I think in the past I've walked right by.  My daughter visited a few last year and was delighted.  It's carefully laid out by arrondissements and the photographs are very well done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Must Have </p>
+
+
+<h2> review.date </h2>
+  12-29-2009  
+<h2> review.text </h2>
+
+ <p> This book is a must have for anyone traveling to Paris looking for hidden treasures. I have traveled to Paris several times and most of these shops are brand new to me. As a photographer and stylist, the author obviously has her finger on the pulse of what shops really stand out in the city. As the book is broken into arrondissements it is easy to open up the book no matter where you are in Paris and to explore the area shops. I live in Tokyo and am spoiled with amazing paper shops but this book has highlighted several worth visiting on my next visit including Kanea, Papier Plus, and Melodies Graphiques. The size of the book too is perfect for throwing into your bag. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Insider's Guide to Cool Shops in Paris </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

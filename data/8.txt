@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0000AZJZT <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-21-2011  
+<h2> review.text </h2>
+
+ <p> Amazon screwed up - the reviews here are mostly for other types of print servers; not the TE100-P1U. This print server worked great for two pcs running WinXP, but it does NOT work on Win 7 because the server Amazon sent me is the older hardware version A1. None of the downloadable files at the Trendnet website are new enough to include Win 7. If you read more reviews here, be sure the reviews are for the correct model! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Read the title of the review first! </p>
+
+
+<h2> review.date </h2>
+  03-17-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this to network my wife's lenovo laptop and my macbook.  Once I received it I found that it would only work with a Mac on postscript laser printers.  So back it goes.  I;m rating it a one as it didn't work for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Won't work on Mac laser printer unless it;s postscript </p>
+
+
+<h2> review.date </h2>
+  07-06-2012  
+<h2> review.text </h2>
+
+ <p> Thanks to this little device, I am now able to print wirelessly using my new print server.  The setup was as easy as 1-2-3.  Following the instructions that came with the print server, I had everything up and running in a very short period of time. Now I don't have to "pug" and "unpug" the printer usb cable into my laptop in order to print. Also, I've saved the money that I would have spent in buying a wireless printer. I purchase this print server on  May 10, 2012. It is now June 3,2014 and I am still loving my wireless printing with my Canon printer, I am now looking at expanding my network by either adding another Trendnet 1 port print server or adding a 2 port serve. If I could give this product "10 Stars", I would. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little device - Love it! </p>
+
+
+<h2> review.date </h2>
+  11-08-2012  
+<h2> review.text </h2>
+
+ <p> Purchased this print server to replace old printer server that stopped working.I previously had Linksys print server which was very annoying to configure and then Tritton one (now discontinued). Loved the Tritton one particularly for the ease of use and setup and complete configuration via web browser by going to IP address.My internal domain is standard 192.168.1.x whereas the TrendNet was preset to 192.168.0.x which required me to install the CD and manually change the IP number to 192.168.1.xx (or you can set to completely be DHCP - I wanted manual so each time the router resets, it points to same IP number since I have both PCs and Macs and IP number works better for me).Once I installed the CD and did the change to my own assigned IP, I tried printing from every computer on the network with the previously configured printer and IP number (I used same IP number since the old print server died) and fingers crossed, lo and behold, everyone worked perfectly. No other changes were required (again, since I had already had this printer and same IP number on each computer).I would have given this a 5-star rating if I didn't need to install the CD. The CD must be installed on PC only, not Mac.I will also come back in 6months+ and update review. I would possibly update this to 5 star rating if no problems with the print server. The connected printer is an HP LaserJet P2015d. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So far so good, fingers crossed; prefer not pre-set IP out of box. </p>
+
+
+<h2> review.date </h2>
+  06-05-2012  
+<h2> review.text </h2>
+
+ <p> There are many good reviews that give you an ideal of some of the installation problems and solutions. On page 25 of the full Users Guide it states "Extensive knowledge of LAN will be helpful in configuring the printer." The good news is that the technical support was excellent. There was essentially no wait time and the technician was very knowledgeable.My problem was that neither Win 7 or my network analysis program could "see" the print server. Since my router uses sub-net 192.168.1.x and the default of the print server is 192.168.0.1 you can understand why there might be a problem. I do believe the Windows system design should allow a browser to access the other sub-net but for whatever reason that didn't work. The technician had me hook a computer directly to the server and set the computer IP to the correct sub-net where I could now access the print server and set its IP to 192.168.1.30 (or some other address not already used in my network). Then one needs to carefully go through the procedure in Chapter 6, starting on page 46. Be sure to use the IP you assigned to the print server, not the one shown in the Users Guide that is on the other sub-net. Of course if your sub-net is already 192.168.0.x things will be a bit different but the Technical Support folks are there to help.It would seem that a mechanical sub-net selection switch and an IP address higher up in the range on the print server might save folks a lot of installation pain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Difficult to install, Great technical support </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> Connects windows, mac and linux boxes to Samsung ML1710 with no setup or operational issues.  This was a good value for my application. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what it needs to </p>
+
+
+<h2> review.date </h2>
+  02-18-2013  
+<h2> review.text </h2>
+
+ <p> I bought this to put on my home network.  I have several computers with a variety of operating systems.  OS X, Linux, and Windows all work well with it.  If I had to do it again, I would. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It just works </p>
+
+
+<h2> review.date </h2>
+  10-25-2010  
+<h2> review.text </h2>
+
+ <p> I use these for label printers in a factory that print from UNIX in RAW/postscript form over LPS and have had no issues.setup is easy, but you do have to load their setup tool but it finds it on your network through the tool and it's easy from there.completely uneventful product, just how it should be.I would give it 5 stars but Trendnet really needs to change this from ugly blue to something more invisible to be stuck on the back or side of a printer. their physical design is just really really sad, I know, not important but really, how hard is it to make all the screen printed labels on it the same Font? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> commercial strength </p>
+
+
+<h2> review.date </h2>
+  11-22-2012  
+<h2> review.text </h2>
+
+ <p> Turns a workhorse laser printer into the family print server.  No more &#34;can you print this for me?&#34;, especially when sitting on sofa with a laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Setup takes attention, but prints like a charm </p>
+
+
+<h2> review.date </h2>
+  03-01-2012  
+<h2> review.text </h2>
+
+ <p> Upgraded to the latest firmare through a web interface, works fine under linux. Debian couldn't figure out what driver to use, eventually fed it by hand. Printed a test page, works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine with Linux </p>
+
+
+<h2> review.date </h2>
+  01-29-2010  
+<h2> review.text </h2>
+
+ <p> I have not been able to get this thing to work from multiple computers and with multiple printers.  The unit claims it sees my printer, claims it has received a print request, and then it doesn't print, yet printing occurs when I connect the printers directly to the computers.  Thus, I recommend you avoid the unit to avoid potentially wasting as much time with it as I have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Avoid </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> First, let me say the picture in the listing (white plastic case) indicates V3 hardware. On my order I got the blue version of the same case which is V2 hardware. I don't know if there is a significant difference between the versions, but the latest firmware was from 2007 on the one I received. This is NOT a issue with the product so much as the seller's stock. Harrumph.The printer to be served is an HP K8600 wide format printer with only a USB interface. The print server came with a thin manual, a power supply with attached cord, and a software CD.Don't bother with the CD. It would not auto-run on Windows 7 Pro (fully patched) from a user administrator privilege. When I tried to manually run the setup the error it gave was related to writing the registry. I download an updated configuration program from the Trendnet site that installed and worked on Windows 7.With the working config program I upgraded the print server firmware to the latest version. Even after the upgrade the Windows 7 could not auto-detect the printer on the network. The wizard was the only way to get a printer recognized and installed on the TE100-U print server.I had to use the print server wizard software to setup the printer on windows 7. That worked fine and the printer was available on the network to the 3 computers that we wanted to share it. In my experience most other print servers have a plethora of network printing protocols available. NOT this one. It is TOTALLY proprietary.The V3 hardware may offer more than the V2. I hope so.This Print Server is a pretty radical departure from my experience with other Trendnet networking products. They were typically pretty feature-rich and used common networking standards. Still, it did what it ultimately was supposed to do - connect a USB printer to computers over a network.Hope this helps someone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DOWNLOAD the Latest Software, NOT STANDARD Network Printing Protocols </p>
+
+
+<h2> review.date </h2>
+  08-27-2012  
+<h2> review.text </h2>
+
+ <p> I have a HP 1020 Laserjet and it is listed as being compatible so I gave it a shot.  Well, after spending a couple of hours trying to get this to work, I finally gave up and returned it.  I was able to see it on my network and installed all the applications just fine but my printer status always showed "offline" and after doing more research I found out that my printer isn't compatible as it's not a "HOST" type printer.  I emailed Trendnet support and never received a response either, nice huh?  I guess you get what you pay for, made in China electronics typically are half rate and so is their support.  I ended up installing new HP drivers and was able to share my printer using the Win7 Homegroup services and so far, so good.  I'll never purchase a Trendnet product again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't buy it!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007CSROT8 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-07-2012  
+<h2> review.text </h2>
+
+ <p> In this succinct guide, Flora Brown, PhD. offers advice you can refer to any time you feel stuck in pretty much any area of life. Simple points about procrastination, when NOT to putt all your ducks in a row, and self confidence boosters can perk you up in the moments you feel lost or  immobilized without knowing why.I especially like the reminder about buying the building - before making the purchase she and her husband didn't own the building. So if something caused them to no longer own it, well, they would simply be back where they stated.Keep this little treasure trove handy to get you through your more challenging ventures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick Pick-Me-UP Guide To Dailyu Success </p>
+
+
+<h2> review.date </h2>
+  04-25-2014  
+<h2> review.text </h2>
+
+ <p> this book is a short and sweet resources on how to overcome confidence issues in your life. in a personal and succinct way, Dr Brown provides practical suggestions on how to get unstuck  by telling stories from her own life. you will learn how to avoid sabotaging your own success, the psychology about who you decide to tell your dreams and goals to, and how to build your confidence to exercise like listing  your past achievements your strength andyour goals. her suggestions have worked in my own life, and I am presently embarking on activities to help me meet my own goals. get this book.  Read it one or two times.  Start applying what you learn, and you WILL make progress. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick read packed with practicle and doable recommendations. </p>
+
+
+<h2> review.date </h2>
+  03-28-2012  
+<h2> review.text </h2>
+
+ <p> I'm sure everyone gets stuck sometimes! Well not any more. With Flora Brown's handy guide, you can practice "intentional activities", up your confidence level, and increase your happiness and success. Practical tips, useful advice, and positive energy infuse this wonderful tool to move through life and business ups and downs. I now have useful actions I can take any time I need to move forward to reach my goals. Thanks Flora! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Creative & Practical </p>
+
+
+<h2> review.date </h2>
+  05-15-2014  
+<h2> review.text </h2>
+
+ <p> Wow what a great book about momentum.  I've been stuck in many areas of my life at different times.  Often I've found getting unstuck and gaining momentum to be the hardest part about making a positive change.  Check out the chapter on gaining confidence based on failure.  It's a great reframe and that one chapter is worth the price of the book alone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gain Confidence and Get Moving </p>
+
+
+<h2> review.date </h2>
+  04-25-2014  
+<h2> review.text </h2>
+
+ <p> Everyone needs a coachand this book can serveas one for sure! This bookis packed with info that willhelp you leap over road blocksthat have stumbled you in the past.Great road map to success- Thanks </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Book! </p>
+
+
+<h2> review.date </h2>
+  09-11-2012  
+<h2> review.text </h2>
+
+ <p> This book is a powerhouse of tips and action steps for anyone who feels stuck and indecisive. Flora Brown's tips and sage advice is a much-needed reminder for me when I need to regain my confidence and take intentional action. I highly recommend this book to anyone who wants to accomplish a goal, make a decision, get unstuck, and move forward without fear and self-doubt.Master the Genie Within </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wise Words to Move from Stuck to Action </p>
+
+
+<h2> review.date </h2>
+  10-02-2012  
+<h2> review.text </h2>
+
+ <p> How to Get Unstuck is a handy little book to have around. It is like a digest version of a lot of other self-help books; it doesn't really contain any advice that we haven't read before, but it boils down the most useful advice into useful, easy to read chunks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A handy book </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> I am a big fan of personal development being a certified life coach and I have to say the chapter on intentional activity is pretty eye opening. Some days you might have to &#34;force&#34; yourself into action but it pays off huge. Just by taking that first step you can really become unstuck from the rut you are in. It may not happen the first time but with consistent action you will get there. There will be some work to do but you will be rewarded with overflowing confidence again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Time To Get Unstuck </p>
+
+
+<h2> review.date </h2>
+  08-31-2012  
+<h2> review.text </h2>
+
+ <p> This is a wonderful little book, it is like having a caring friend there with great and practical advice.  The title might seem like a big promise, but I found just today, following one of the suggestions in it, helped me get back on track, immediately.  There was also some very useful advice at the end, which made me ask myself - do I want to walk away from this project?  Seriously?  Because I can if I want to.  That's when I decided that is *not* want I want, and after re-reading the author's wise suggestions, it was enough to get me back on task.  Many thanks to the author for writing this and sharing it for such a reasonable price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent advice </p>
+
+
+<h2> review.date </h2>
+  04-26-2014  
+<h2> review.text </h2>
+
+ <p> Getting Unstuck is a simple practical kick in the pants.  When you're stuck, stop and go around, let the ducks step out of line every once in a while, and stop blabbing to everybody and their brother about your goals - it wont help.  Great common sense wisdom to refer to when we, as humans, tie ourselves in mental knots to the point that we can't or don't want to move forward. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Getting Unstuck </p>
+
+
+<h2> review.date </h2>
+  04-26-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book. It's a short read packed with useful strategies to get you unstuck and taking action toward your goals. I really like the author related the main concepts discussed in the book to her real-life experiences. This made it more accessible and inspiring. I especially liked the chapter on the five ways to increase your happiness and your success. Well done! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strategies to Get Unstuck </p>
+
+
+<h2> review.date </h2>
+  06-26-2014  
+<h2> review.text </h2>
+
+ <p> I liked the idea just to find something to do when you are stuck. I don't really know how much the rest of the book goes with this central idea, </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A few good ideas </p>
+
+
+<h2> review.date </h2>
+  04-26-2014  
+<h2> review.text </h2>
+
+ <p> This is such a great read. The author share some proven steps to build up your confidence. She talks about strategies on how to get unstuck, gain confidence, maintaining it, and goal setting. Very practical tips that helps! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Advice! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

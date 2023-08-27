@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000UNYJVI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Blair Witch meets Cannibals </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-08-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I seem to be the odd man out here - I really enjoyed this movie.  Its very much Blair Witch meets hungry natives.  Its about a double date team that decides to hunt for a long lost Rockefeller who supposedly went missing in the 1960s somewhere along Papua New Guinea, Papua or Irian Jaya. This group, while enjoying Fiji, collectively mind melds into the fantasy that they might actually find him, and somehow earn untold riches, despite their awareness of the island's human flesh fancying natives. The story unfolds in a Blair Witchian style, with the team using a handheld camcorder to record their adventures.  That approach, while likely to be scoffingly disregarded by cinematic snobs as tired, was particularly effective for this film.  The viewer gradually learns of these folks' experiences through their eyes, which are often well occluded by drugs, alcohol and jungle. And this becomes all the more menacing as the crew encounters decorative (or cautionary?) skulls along the banks of a river.  The rest is obvious.  One very good note - the on-screen violence and gore is minimal.  For some reason, I no longer enjoy watching people be eaten alive or otherwise tortured, and this movie stays dangerously close, but never so close that I felt uncomfortable. Most of the violence and horribality is offscreen and implied, and any visual encounters are usually after the fact.  Anyway, I highly enjoyed and offer my enthusiastic recommendation. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun Blair Witch knockoff ... with cannibals! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-12-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Blair Witch ProjectmeetsKeep the River on Your Right - A Modern Cannibal Tale. Jonathan Hensleigh conceived of the film, about two couples who head into the jungle of Indonesian-controlled Papua New Guinea to find a decades-lost Rockefeller son. See, the seed of this tale is the real-life disappearance of Nelson Rockefeller, son of the U.S. Vice President at the time. Nelson was an anthropologist lost in a cannibal-infested jungle. Maybe he got eaten by a shark. Maybe he got eaten by people. Maybe he got made king by a man-eating tribe and lives to this day as a grizzled white man among his dark subjects.The ride is a fun one, even if it is predictable once things start to go downhill for the quartet. The improvisational work before the camera is fairly good, although four super-good-looking people willing to throw themselves into certain death - or at least terrible risk - is a bit baffling. A little bit more characterization needed to be established to make us really believe these kids would go this far all alone for $250,000 individual paydays. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Welcome to the Jungle, We'd Love to have you for Dinner. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-10-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Well it definitely ain't Cannibal Holocaust, that's for sure,but it's does have a few of it's own moments.None nearly as graphic or remotely as brutal, mind you.Four morons set out into the jungle in search of the lost Rockerfeller,in hopes of rescuing him, and claiming the million dollar reward.What they find instead is hostile, blood-thirsty, cannibals who paint themselves white, and well.....they eat morons.The dialogue is juvenile, but it keeps the story moving.Struggles within the surrounding communities, as well as highway robberies, prevent the viewer from losing interest before entering the jungle.Once inside the green labyrinth away from civilization confrontations flare, and the stupidity flows in abundance.Obvious connections will be drawn between this and "The Blair Witch Project" due to the identical style and pace.But this flick had one thing going for it that it's predecessor didn't.A visible, tangible enemy.If "Blair Witch" ended with cannibals, you'd essentially have this flick.Sadly though, none of the violence takes place onscreen,all you're ever witness to is the bloody aftermath,(chick hung from a pole through her head, various organs and limbs scattered about, and a writhing, limbless wonder)My one major gripe is that they don't even bother to show the cannibals eating people.Which is insane, considering this is a cannibal movie!!But like I said it does have it's few redeeming moments.MORAL OF THE STORY:Easy Money comes with Hard Consequences </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Blair Cannibal Project </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> An 80minute cannibal flick from Dimension Extreme?  Sounds like my kinda senseless gorefest.  Well, don't believe the bloody hype.  This handheld camera venture is more of a documentary on human stupidity than on barbaric cannibalism.  For shame....The setup is pretty interesting, and is rooted in fact.  In 1961, the Vice-President's son Michael Clark Rockefeller disappeared after a boating mishap during a little expedition in New Guinea.  A massive manhunt ensued, but after the diligent search proved unsuccessful rumors surfaced that he drowned, was shredded by crocodiles, or even devoured by cannibals.So, four decades later a group of young whippersnappers get the brilliant idea to go into the jungle searching for some clues on Rock's fate.  They have outrageous dreams of selling the info to the tabloids for a million bucks.  Yee-haw!Of course, this was a bad idea.Bad things could happen....  Really bad...Most of this movie is about two couples walking through the jungle, bitching and moaning.  Unbelievably uneventful.  Not to mention the quest is entirely incomprehensible.Not much action here at all.  No nudity.  No human devourage shown either.  We basically are just shown glimpses of the aftermath, which is of course pretty brutal looking.I'd say skip this unless you're bored.... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Had potential </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-15-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This film had potential to really be better than it was.It wasn't bad by any means though.The basic idea is 4 friends who set sail to a new guinea port to explore the new guinea jungle to try and find Michael Rockefeller,hier to the Rockefeller throne.He supposedly went missing 40 years ago and there supposedly have been sightings of a white man with the natives.Is is still alive?did natives who are known to be cannibals eat him?did he die some other way?The one friend knows a helicopter pilot who has flown over this area and supposedly seen a white man.They get the coordinates(also a van) and before long the 4 friends are out looking for him.They end up getting shot at at the one border.Before long the friends(2 couples) are arguing and split up.I say it had more potential because a couple times it seemed like something was happenning and it would just cut to the next day.It did that a couple times.Also this movie  had possibly the most annoying character ever in a film.The one friend Mikey is so annoying,ignorant and stupid you almost want to kill him yourself.With all that being said the last 20 mins when these natives are seen isenjoyable and worth a watch. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bad </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another one of those &#34;found footage&#34; films made popular by THE BLAIR WITCH PROJECT. Besides the shakey camera work, it takes forever for the horror aspect of the film to appear and when it does, it is a total letdown. Watch CANNIBAL HALOCAUST instead. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Omg, the horror! That's 90 minutes of my life I'll never get back! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> What an awful movie. Save your money & your time by watching Cannibal Holocaust. This was a huge rip off of a good classic. The only good thing I can say about this movie, besides seeing the credits roll signifying the end, was seeing the blonde with a skewer through her mouth (meaning she can never, ever rap again). That's  the only reason this movie got 2 stars instead of 1. From one true horror fan to another, save your money and your time. Money can be returned but if you waste your time on this garbage...it's gone forever. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Horrible! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-22-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is one boring, frustrating mess. Probably the worst thing about this very short movie is the hand-held camera technique used throughout. Think "Blair Witch" without the suspense and talent. You follow two couples who spend their time bickering and bitching and lose any interest in them as people. Then you never see any cannibals--all suspiciously caucasians wearing dark make-up--until the very end. There's zero gore or suspense. For long segments there's pitch darkness when the camera lays on the ground. As for the jungle, it all looks like it was filmed somewhere in American canyons. The people never emerge as real people but only as stereotypes of shallow, unlikeable American kids. The box illustration is completely misleading. It makes you think you'll be treated to something like "Cannibal Holocaust"--a masterpiece of gore and exploitation. I'm thankful I only rented this through Netflix. I fast-forwarded through nearly all of this mess and that was still too long. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Go watch grass grow instead.....you will have more fun!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> SPOILER ALERT.Man oh man what a bad film. I hope these people who were in the movie don't call themselves actors after this farce. Four `college' age youths who meet up in Fiji decide to track down a vice President's son Michael Rockefeller who disappeared in 1961 off the coast where the Asmat tribe reside in the Papua province of Indonesia. These kids think that by finding proof that he is still alive will bring them at least a million bucks so they decide to leave the comforts of Fiji and head off to Papua New Guinea. Well the movie up to this point had really sucked so I thought maybe now that they are headed into the danger that it may (for the love of all things holy) get better-it didn't. First of all, they all load up with back packs not much larger than what I used to take to school on a daily basis.  Second, with the available information given or lack thereof they do not have much hiking experience. Third, they are quoted as saying that the Papua province is the second most dangerous place in the world only behind Iraq yet they feel with their limited hiking experience, a single firearm and no guide that they might be `ok'. Now I know if horror films all made sense then there would be very few of them but I can state this in the case of this film because it is not horror, not suspenseful but just extremely boring. The four cant stop bitching at one another till one couple decide to leave on their only raft and leave the other couple stranded in order to get more of the money-plus they are tired of the other couples crap. They start to see natives along the shoreline and think that this might be a good time to get off the raft (bad idea for any of us) even though they have not been shown any signs of aggression. Once off the raft and into the jungle they are confronted and that's when Mike starts firing at the natives killing a couple but since there are twenty of them who have been trained their whole lives to use a bow and arrow, they make Mike pay for his wrongdoing. At this point the girl is running through the forest back to the river (that they should have never left) and this is when the `documentary style' filming hurts the film because no one (especially her) in that position is going to continue to film while running for their lives. Well rewind the tape now because the other stranded couple decides to make a perfectly good raft and proceed to do the exact same thing as the first couple including getting off the raft in a hostile area!! They find the bodies of their two friends and then some newly killed missionaries that they ran across earlier in their trip. Funny thinking about it now is that some were eaten and some were just killed. The other guy finds Mike half eaten so he does him a favor and shoots him with a gun in the middle of the night. Nothing like keeping a low profile when you are in a cannibal infested jungle!!. Finally the couple that is left find what appear to be different natives and these natives act like their friends until they kill them and cut them up. The end. And then I died................ </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Worthy addition to the cannibal genre </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-21-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> First off this is not a remake of Cannibal Holocaust. Not even close. Cannibal Holocaust is known for its over the top depictions of violence and gore. This film is very subtle and tame by comparison. In fact, this film is much more similar to the "Blair Witch Project" in it visual style and dramatic unfolding of events. Some viewers will be disappointed that no one gets eaten, decapitated, raped, or eviscerated in this film. And the killings occur mostly off camera. So what makes this film worth watching? Its the expert character development that occurs in the first 3/4 of the film. The two couples that take a trip to New Guinea to search for fame and fortune become so grating and unlikable halfway through the film that the veiwer can't wait for them to get theirs. When they do start to get picked off it is a catharsis for the viewer. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A watered-down "Canabal Holocaust"! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The fact that Michael Rockefeller did not sue the makers of this movie is proof that he's dead! Although this film is only 82 minutes it seems longer because of A) the ridiculous overacting and B) the real action doesn't start until a whole hour in- 75% of the running length! By then you're bored and distracted- looking more at your watch than the screen. Instead of this watch &#34;Doctor Butcher&#34;, &#34;The Blair Witch Project&#34; and the &#34;In Search Of&#34; episode in the missing Rockefeller. True, that would be longer but you get the same effects with better material! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Most on a Jacket </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Mostly drunk twenty-something from Australia and the US hang around jungles of Papua-New Guinea and neighbouring Irian Jaya of Indonesia, known historically a Scull Hunter Land, with predictable results.Two moments are the most to conclude: no way to be smart in the wilderness if even so nice as screened, and bit for in independence of this province from Jakarta is a laughing stock.In comparison with "The Blair Witch Project" this mocumentary is lacking intrigue  while quite boring "Cannibal Holocaust" is even more dynamic. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Frightening </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I don't know if mainstream audiences are numb to true horror, or that they have been so saturated with action and blood and guts that they can't sit still for a story that builds.  Unlike most of the reviews, I found this film to be disturbing and horrifying. Horror is my genre that I love to watch and I love special effects, but this film had an eeriness about it that caught me off-guard. It starts out in Suva, the capital of Fiji. Maybe it was the fact that I had been to Suva, and to one of the Fijian islands that affected me. Aside from that, the hurky-jerky video cameras that taped the ordeal of four very ignorant twenty-somethings, was, I agree, similar to the Blair Witch Project, but lent a feeling of authenticity to the "vacation" the foursome was on. It reveals the division between the two couples--one couple very rationale and cautious, driven by the goal to find Michel Rockefeller who had disappeared in 1961, and the other couple who viewed the journey as a lark and partied hearty every night, which underscored their inability to take anything seriously and led to their demise. The four are pulled into the jungle by their morbid curiosity and ignore the "signs" that would send most people running in another direction. That's what makes it "real." They are driven, ignorant city dwellers who have no concept of the area or its flesh-eating inhabitants. The movie slowly builds, but if you put yourself there, on the raft, in the jungle, this film will grab you. But, I also liked Open Water which bored most people. You have to view these documentary-like horror flicks for what they are --- subtly unsettling, and very disturbing because they COULD happen. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ....terrible </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-17-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> one of the worst films ive ever seen seriously dont waste yer time on this, im not sure how anyone whos rated this movie wrote more than a paragraph of review, this simply is a movie of stupidity and bad filmography/storyline. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Disappointing </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-19-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> As you've no doubt read from previous reviews, the DVD packaging and description of Welcome to the Jungle would make you think that this is a 21st century Cannibal Holocaust.  Well, as you've no doubt figured out by now, it ain't.  Welcome to the Jungle is instead an ill-fated semi-character study that follows a group of people (Sandy Gardiner, Callard Harris, Nick Richey, and Veronica Sywak) as they head into the New Guinea jungles in search of the heir to the Rockefeller fortune, who has been missing since 1961.  We get to know this crew, for quite a while, before there is any action with cannibal tribesmen.  All the build-up would be acceptable with we actually came to like the characters here and there were ample amounts of blood and gore (which are usually synonymous with cannibal flicks), but alas, the characters are annoying (and the acting is pretty bad to boot), and there is barely any blood to be found.  Written and directed by Jonathan Hensleigh (the writer/director of 2004's The Punisher), Welcome to the Jungle is dreadfully underwhelming to say the least.  While Hensleigh's filming technique offers a bit in the realm of suspense, it doesn't last long.  Not to mention that at a brisk 80 plus minute running time, the film just feels poorly conceived.  All in all, Welcome to the Jungle is an example of not judging a book by its cover.  The film isn't scary, and old fans of the cannibal genre will be extremely disappointed with the end result here.  That aside, the film may be worth a look at the very least for horror fans, but there isn't enough here to really recommend it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> waste of time and money </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-15-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've been watching for well over an hour and nothing has happened except stupid juvenile back and forth banter.  The kids shout each others' names to irritating excess and in that situation you wouldn't keep shouting "COLBY!" like a broken record when there's nobody else for miles around except for Colby as far as you know and he's standing right there in front of your face in the jungle.  And if there were someone else it might not be friendly.  This is a real amateur swindle-job by people who don't seem to have ever gone outside on a hike.  Don't buy it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> please god make it stop </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-28-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> memo to the universe HAND HELD CAMERA SHOTS ARE CRAP. THEY WERE CRAP IN THE PAST, THEY ARE CRAP NOW, AND THEY WILL BE CRAP IN THE FUTURE. IF YOU ARE TOO STUPID TO MAKE A FILM WITHOUT THIS STUPID GIMMICK DO NOT MAKE THE FILM. I AM WARNING YOU AND I MEAN IT. DO NOT MAKE ME HAVE TO REPEAT MYSELF BECAUSE I WON'T BE. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Quite possibly the worst... </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-05-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> The DVD cover contains a quote:  "Quite possibly the most terrifying film of the last decade."  Say what?  Here's my quote: "Quite possibly the worst film of the last century."  What a total waste of time...and money.  I bought the DVD for a penny...but had to pay $2.99 for shipping.  It was still a rip-off...one of the worst (worthless) films ever.  And how can producer Gale Ann Hurd allow them to put her name on the cover with her credits for such classic films as "The Terminator" and "Aliens"?  Sounds to me like Gale is desperate...but I'm not.  I'll never buy another film produced by her...ever.  What an embarrassment to the film industry.  Shame on you...and "shame on YOU (the viewer)" if you buy/watch this abomination. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> WELCOME TO THE BUNGLE </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-08-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the movie that does disservice to cannibal movies.  Four of the stupidest college-age kids venture into the jungle of New Guinea in the hopes of solving the mystery of the disappearance of Michael Rockefeller in 1961.  They meet up with a friendly bunch of natives who actually hand a cigarette lighter with Rockefellers initials to our quartet of dopes. Huh?Twice in the movie each couple construct a raft and as they are floating along they become nervous when they see an increasing crowd of seemingly hostile natives carrying spears and bow and arrows.  So what do our genius's do?  They dock the raft onshore and start running through the jungle with the cannibals in hot pursuit.  What????So the obvious happens.  They get eaten and the cannibals get indigestion. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> disappointment to the max </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-16-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Welcome to the jungle is a 82 minute piece of pure garbage.It is amnother blair witch, cloverfield type movie filmed by hand held cameras.Most of the time all you see is the actors being really dumb.  the two couples should never have been put together for any other reason then a battle to the death.  Since they seemed to have hated each other.  this movie will put you to sleep.  You can fast forward to thew last 10 minutes of the movie and just watch that.  YOU WILL SAVE TIME.NEVER RENT, PURCHASED, OR BOTHER WATCHING THIS MOVIE.THIS FILM IS NOT WORTH THE UNRATED TITLE GIVEN TO IT.I'VE SEEN PG-13 MOVIES WITH MORE BLOOD/GORE AND VIOLENCE IN THEM.TREMORS 2 AFTERSHOCKS FOR EX. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bring You to Your Sha-na-na-na-na-na Knees </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-16-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Based on the jacket of this DVD, I set my expectations for "a bloody gore fest." Trust me, Welcome to the Jungle qualifies more as a bore fest than a gore fest.I didn't say it was a bore fest exactly. But the Welcome to the Jungle cast doesn't even run into their first native tribe member until about an hour into the film, and the film is only about an hour and 20 minutes long.Back in 1961 Michael Clark Rockefeller (heir to the Rockefeller fortune) disappeared after a boating accident during an expedition in the Asmat region of New Guinea. It was speculated that Rockefeller drowned, but sensationalized by the theory that he was abducted, living among or perhaps even eaten by cannibals.Welcome to the Jungle is about two young couples that get the bright idea to take their inexperience and hike into the Asmat jungles to see if they can find any proof of Rockefeller's true fate. Going back to the jacket of the DVD, it tells you that trouble starts when the couples run into "a fierce tribe of cannibals deep in the jungle." This gives you the impression that our couples are indiscriminately attacked while on their innocent trek. But everyone knows that today's Asmat Tribesman would only attack if provoked, right?...Like, say, because some knuckle-head desecrated an Asmat gravesite.Some of the cast do indeed get brutalized. But a gore fest? No.Friday the 13thhas *a lot* more slicing and dicing than you ever see in Welcome to the Jungle. In fact, you never actually see any of the real brutality while it's occurring in Welcome to the Jungle; you do see some of the carnage...but certainly not in the large doses that all of the hype seems to suggest.Welcome to the Jungle has that handheld camera,Blair Witch Projectfeel throughout. Writer/Director Jonathan Hensleigh (also directed 2004'sThe Punisherand co-wrote a bunch of very popular flicks) goes for storytelling here...not shock. Yes, when things finally get ugly in this movie...it ain't pretty. It's R-rated stuff, but probably tamer than you're thinking it is.So all in all...it's an okay movie. I'm no gore-monger, so the lack of it was just fine with me. With the underlying sense that something horrible is going to happen, Hensleigh does a masterful job of quenching the boredom of what amounts to more of a jungle expedition documentary than an all out Horror film.Well gotta go. Lunch is served. Beef carpaccio...mmmmmmmmmm. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

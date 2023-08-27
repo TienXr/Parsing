@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00G9GS966 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> Short but full of useful info without anything unnecessary. Very helpful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> A well written and informative book.  This book is too the point and free from dross and padding.  Lots of very useful information. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very useful book </p>
+
+
+<h2> review.date </h2>
+  03-24-2014  
+<h2> review.text </h2>
+
+ <p> I didn't find anything earth-shattering in this book, but it has some good ideas, well-presented. The author mentions that bad reviews are a good source of constructive criticism, so that's what I'm doing here.1. At the end of his book, he has a link for leaving a review. What he doesn't have is a link for a direct email to him. He suggests doing that in other places, but doesn't do it in the book. If he had done that, I would have made these criticisms privately.2. The image for this book is of a hardcover book, yet I don't see that he has a hardcover version. If he doesn't have one, that's false advertising, giving an impression of legitimacy that may not be warranted.3. The hardcover book in the image is a lot thicker than it would be if it were made from the content of this Kindle book. Again, misleading.4. He says that if you want a link in your book to allow a user to conveniently review it, you need to publish it, get the URL for the review page, then publish it again. That is not necessary. All you need to do is have a link to a page that redirects to the review page. Set that page up, then just edit it once you've published.5. He says that to send free copies of your book to reviewers, you need to purchase it, and gift it to them. A better option may be to just email them the MOBI file. There's no DRM, but that may not be an issue for you. If there's some other problem with that option, he should say what it is.6. He says &#34;Keep things simplified&#34; which has a slightly different meaning from &#34;Keep thing simple,&#34; which I think is what he means.In summary, he recommends changing your book to address negative reviews. I've presented some problems with the book that should be addressed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Generally Good -- Here's Some Constructive Criticism </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> Nothing in this book that I did not already know and had already put into play. Be wary of these types of books. Anyone that says he publishes a book a WEEK is not a writer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Waste of my time </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> This is the second Alex Foster book I've bought and read this weekend. Just as with Writing a Kindle Book a Week, this is tightly written and is a page turner, which is no simple task with nonfiction how-to information.Although I found some of the information to be common sense, of course, I did learn a good deal by reading this and feel certain I will earn far more sales because of his insightful tips.Probably the most valuable information Foster provides is in regards to avoiding violation of Amazon standards. I highlighted several points for my future reference.Foster also offers salient advice for avoiding reviews that might come if your book is not seen as a bargain. And, even more helpful is learning how to deal with reviewers who only want to sink your book for reasons other than merit.As readers may see, I am becoming a fan of Foster's useful booklets. It's refreshing to see some write nonfiction in an easygoing, yet fast-flowing style. I say this, despite years writing technical military quality control procedures and plans. That sort of writing can be dull (but still quite useful, of course).I only hope that my future nonfiction writing will be as useful, interesting, and as fast-flowing as this, Kindle Reviews: How to Get Reviews for Your Kindle Book, by Alex Foster.Buy it, read it, then read it again. Possibly you'll be singing its praises also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth it's weight in gold for writers wanting their books reviewed WITHOUT violating Amazon rules & standards! </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed the information this book provided. It was short and to the point yet provided a great overview into how the amazon review process works. There are strong tips which will help your book get noticed. I also liked the descriptions of the two kinds of negative reviews and how to deal with them. When you put a lot of work into producing your book this book is a great companion to aid in the promotion of your work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great introduction to the review process </p>
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> I figure it is only fair to offer a review on this book, as it clearly has the Amazon content seller in mind. This book covers a lot of ways to help get reviews for your book. However, it also has helpful information on getting your book READ, such as what prospective readers use to decided if they want to purchase a book. Additionally, it covers pricing topics, such as when to offer your content for free or a reduced price, and which price points make sense for your book. There is also a section on what to do when you get a lousy review, which is unfortunately unavoidable sometimes. I think the most helpful part covers how to give your book as a gift to readers, I had no idea you could do that!Lots of great info, plenty more than just how to get reviews, and a lot of practical advice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ton of info </p>
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> The author gives some great tips and ideas for getting your book reviewed, as well as what you don't want to do to get your book reviewed.Some of the tips are really great, and ones I try to do, there are a few, however, that I had not thought of, and they're common sense ideas, so I'm glad that I got the book, and can employ them the next time.All in all, this book is definitely worth getting and reading, you'll learn something! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Ideas </p>
+
+
+<h2> review.date </h2>
+  03-03-2014  
+<h2> review.text </h2>
+
+ <p> This book actually gave excellent information for both sides: those writing the kindle books and those writing reviews on Amazon.I was actually quite surprised when he recommended authors not respond either way to negative reviews (he gives very detailed reasons as to why).I have seen authors respond in either very gracious or very hostile ways to negative reviews. I liked whenever I seen an author had treated the writer of a  negative review kindly; and I seen instances where persons leaving comments got very upset at authors who got hostile to the person who had given a negative review. I definitely understand the reasoning for an author not responding in a negative way to a negative review, but now I also understand why it's recommended not to respond at all. He gives excellent reasons not to respond even in a positive way to negative reviews. VERY insightful!I learned a lot from this book. It was very well put together and well written. It's a book well worth reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellant Information For Both Sides </p>
+
+
+<h2> review.date </h2>
+  11-16-2013  
+<h2> review.text </h2>
+
+ <p> I was very satisfied with this book. It is informative and well written. I respect his honesty about what you can really expect as far as how many people actually leave reviews. It's easy to claim your book will show people how to get hundreds of reviews, when in truth it's not that simple. I also found his advice on titles, covers, descriptions, and pricing very helpful. I plan on following his advice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How to get reviews </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

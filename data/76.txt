@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0045OVSCQ <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> Pack this baby with four Energizer Ultras, put a 32 GB SDHC in the camera, and try to fill 'er up!  I haven't had this setup long enough to tell you by how many times it outlasts the rechargeable batteries.  I can only tell you that it's a lot.  If you have ever turned a camera on and off, nursing a dozen last shots from a dying battery pack, you will appreciate what the Energizer Bunny (and this battery holder) can do for you.  This is my best K-30 accessory, other than the 18-135mm waterproof lens.  Both are a MUST-HAVE!  Energizer ULTRA, rated #1 by Cons. Rep. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pack for power </p>
+
+
+<h2> review.date </h2>
+  11-01-2013  
+<h2> review.text </h2>
+
+ <p> yup its expensive, however its built for the camera, and the construction is what i expect from pentax. its a very solid addition to my camera, in both utility (spare power source) and construction, tight and solid.no complaints </p>
+
+
+<h2> review.summary </h2>
+
+ <p> its expensive </p>
+
+
+<h2> review.date </h2>
+  10-17-2012  
+<h2> review.text </h2>
+
+ <p> This item arrived (from Amazon) the next day after it shipped. And although 'PRIME' didn't charge shipping, per se, I had to pay our State's (WA.) exorbitant sales tax. I considered some MUCH cheaper alternatives, but they would ship from China and take a month of Sundays for arrival. They also looked like cheaper inferior plastic knockoffs. I was pleasantly surprise to find this item was built better w/copper electrical contacts and a solid feeling metal top that fits easily into the K30 sleeve for it. The biggest bonus is, with Accupoint's 2900 mAH batteries (I bought a slew of them), it provides about 2/3rds more power capacity than the stock lithium battery that comes with the K30. However, it also adds noticeably to the weight of the K30 body. Still, I estimate this will allow me to take around 700 shots instead of 400 with the under-powered lithium stock battery.So, the price is discouraging, the the potential extra capacity is encouraging. The additional weight is a disincentive, but the freedom from proprietary batteries is an incentive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spendy extra capacity </p>
+
+
+<h2> review.date </h2>
+  10-26-2013  
+<h2> review.text </h2>
+
+ <p> Adapter fits perfectly in my Pentax camera. Great for use in 'got to have power now' situations. Unfortunately, the camera eats up AA batteries. Buy a very large supply of batteries if this will be your sole source of power. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Adapter is what I expected. </p>
+
+
+<h2> review.date </h2>
+  09-19-2011  
+<h2> review.text </h2>
+
+ <p> I recently purchased a Pentax K-R after my *istD died. What I loved about the *istD was the ability to use rechargeable, CRV3 or AA batteries. Without this adaptor, you cannot use AA batteries in the K-R. For me, it is nice to know if you are in a jam, you can run to the store and buy a few AA batteries to keep you powered up and snapping away. The adaptor doesn't seem like much and seems expensive for what it does, especially considering the older cameras didn't need an adaptor. That is why I rated it four stars instead of five. If you do not have this adaptor or extra rechargeable batteries, you will not be able to take pictures. I had that happen to me the second day I had the camera. After shooting a day of pictures, the rechargeable battery died. I did not realize the power would be depleted so quickly. I wanted to take pictures and couldn't until the battery charged up again, a couple hours later. That same night I bought this adaptor and a couple extra rechargeable batteries. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Necessity for the Pentax K-R </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> I bought this in case I was unable to charge my other batteries--it is great for travel because I should be able to find batteries anywhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great! </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> While it fits well and works, the 1.2V NIMH batteries I use don't have enough juice to make it really worth owning over a battery, especially considering the cost of both items.  Initially I though my lifetime supply of NIMH batteries would make it worthwhile, but the fact is that the camera is never happy when I use it.  The power lever is either too low to use right off the bat or runs low very quickly.As a backup, with non-rechargeable AA batteries, i.e. 1.5V, this might be worth owning, but I think a second or third D-LI109 battery would be a better purchase.  SeeOpteka D-Li109 2000mAh Ultra High Capacity Li-ion Battery Pack for Pentax K-R KR Digital SLR Camera{Revised}As preparation for an upcoming trip to Africa I loaded this battery pack with NiMH batteries and set it on the intevalometer setting for 1 shot every second.  It ran for about 4000 shots before the batteries died.  The battery indicator shows full and low charges depending on I don't know what.  Switching the camera on and off seems to do it.  I'm taking this device and 7 packs of regular alkaline batteries along in case I'm unable to charge the D-LI109s. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> May be better than no batteries at all </p>
+
+
+<h2> review.date </h2>
+  02-08-2011  
+<h2> review.text </h2>
+
+ <p> This comes in really handy when you need more battery power. With this adapter you can use rechargable AA or plain old buy-anywhere-disposable AA batteries.This is well manufactured. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great accessory </p>
+
+
+<h2> review.date </h2>
+  11-04-2012  
+<h2> review.text </h2>
+
+ <p> It works as it is supposed to and it will save your photo session if you run out of juice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Saves you in an emergency </p>
+
+
+<h2> review.date </h2>
+  04-11-2011  
+<h2> review.text </h2>
+
+ <p> I bought this instead of a second Li-on battery so that I could be sure to always have access to batteries. The Li-on takes a couple of hours to charge and the Rechargeable AA batteries take 15 minutes. I use the AA's as my main source of power and hold the charged Li-on as my reserve.What else can I say the product works as stated.Amazon did what Amazon does I received this item fast and properly packed.I recommend Amazon to all my friends they've never let me down and their prices are more than fair. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked as it should </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> When I placed lithium dry cells in the holder, the cells got very hot. No matter which cells I tried I had the same result. Must have been a short circuit in the holder.Amazon refunded my money and I ordered another one which works fine.Kudos to Amazon for fast and courteous handling of this problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Didn't work - short circuit </p>
+
+
+<h2> review.date </h2>
+  06-26-2012  
+<h2> review.text </h2>
+
+ <p> I used this with my Pentax K-r which uses square batteries. I have multiple squares, charge them all, but still carry this in my bag. You just never know when you need it. When I used it, batteries loaded easily, slide right in and worked fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Well - Great Alternative </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> RE: Works well in Pentax K-rOEM adapter to add AA batteries to use K-r. Works well, great for traveling. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well in Pentax K-r </p>
+
+
+<h2> review.date </h2>
+  12-10-2012  
+<h2> review.text </h2>
+
+ <p> Got this for my new K-30 DSLR. Works perfectly when paired with Eneloops rechargables.One of the batteries was a very snug fit but that was the only "issue."Kind of an expensive product, but I like the ability to use AAs instead of the included battery (loved using AAs with my K-x). Would highly recommend for anyone's K-30. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works very well with K-30 DSLR and Eneloop batteries </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> This is a no brainer if you like to have peace of mind when out and about shooting.  Works flawlessly with my camera.  I like it because if I am ever away from some type of charging outlet a pack of AA batteries are always around and sold everywhere.  Buy it for peace of mind at the very least. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must need accessory for the K-30 </p>
+
+
+<h2> review.date </h2>
+  11-25-2012  
+<h2> review.text </h2>
+
+ <p> This product worked as was described, gives me the ability to buy Batteries anywhere to keep on taking pictures don't have to wait for a recharge of main Battery. And easy to use </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Battery holder </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> I prefer using AA batteries over the Li-Ion. For one thing, having backup batters are extremely important for photography and Li-Ion batters are so expensive. Aftermarket ones are a lot cheaper, but you often get what you pay for. I'd rather not spend a hundred dollars getting two backup batteries when I can buy a four backup sets of Eneloops for $40. Also stuff happens. Sometimes you forget to charge your batteries or even lose a battery (happened one time in Taiwan when I dropped one of my backup batteries into a sewage drain). With AA batteries you can just go to the nearest drug store, supermarket, or Wal-mart and pick up new batteries. It's much more convenient than Li-Ions. It's such a big deal that having a AA adapter was one of the reasons I picked the Pentax K-30. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must Have for the Pentax K-30 </p>
+
+
+<h2> review.date </h2>
+  09-26-2013  
+<h2> review.text </h2>
+
+ <p> Having the ability to use AA's in a crunch is a great feature of my Pentax K30 that has been more useful than I thought it would be.  I almost bought one of the generic brand adapters, but picked up the Pentax branded one since it looked a lot more robust and well made.  I'm glad I did, because this thing feels very nice for such a small accessory.I highly recommend this adapter to owners of compatible Pentax SLR's. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does exactly what it should do </p>
+
+
+<h2> review.date </h2>
+  05-07-2012  
+<h2> review.text </h2>
+
+ <p> I saw other generic battery holders for a cheaper price but did not know if the quality would be there, so I opted to pay the extra to get the OEM from Pentax.  Works well and is nice to be able to have another battery back-up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Officiar Pentax </p>
+
+
+<h2> review.date </h2>
+  03-07-2013  
+<h2> review.text </h2>
+
+ <p> I need this for my camera as a backup power source. Works great--was shipped to me very quickly. I'm happy with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  01-18-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this item as an accessory to my Pentex camera. I live in a rural area and work for a newspaper and when I need my camera and the battery is not charged -that is not an option. With this little accessory I can run down to the local store and pick up regular AA batteries and pop them in and be running in no time. Otherwise I would be ordering online or making at least a 3 hour drive to a large enough area that MIGHT have the battery I needed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Acessory purchase </p>
+
+
+<h2> review.date </h2>
+  12-30-2011  
+<h2> review.text </h2>
+
+ <p> I haven't used it yet so can't comment on it's utility.  However...why is this an extra and why so bloody expensive?  Include it with the camera and make your KR owners very very happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Why isn't this included with the camera? </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> I use rechargeable AA batteries, and now I can take a pocket full of them with me and shoot all day, never worrying about when the battery brick will suddenly give up the ghost. The adapter seems a little pricy for what it is, but it works well and will last as long as I don't get too anxious getting out of the PIB battery slot. :-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hurray! No longer a slave to the factory battery. </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> Many people buy the cheaper alternative brands of this product, but I feel the Pentax brand is better built and may last longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than Cheap Alternatives </p>
+
+
+<h2> review.date </h2>
+  08-18-2011  
+<h2> review.text </h2>
+
+ <p> It's a really nice to have accessory with the K-r and comes handy when you have your LIon battery ran out. Feels not well built though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pentax K-r 39100 AA Battery Holder-Adapter D-BH109 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

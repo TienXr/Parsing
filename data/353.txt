@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1613722729 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-21-2014  
+<h2> review.text </h2>
+
+ <p> This book was the first one that I read by Shira Anthony. It made me fall in love with both her as an author and music all over again.Blue Notes takes you on a fabulous tour of Paris while giving us the story of Jason and Jules coming together to find love. It was great to see that their journey wasn't easy. They had some bumps along the way that made the story that much more real. They also needed more than just love to make it work. So many books end when the main characters say &#34;I love you&#34;. But Blue Notes kept going to show us how they managed to make the love work.I highly recommend this book, you will love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First is always the best </p>
+
+
+<h2> review.date </h2>
+  01-23-2012  
+<h2> review.text </h2>
+
+ <p> When his fianc&eacute; Diane cheats on him with another man, Jason Greene tells his law firm he needs a couple of months to put things in perspective, and takes off to Paris, where he spent part of his younger years.  His plan to relax and regroup doesn't quite go the way he expected, when he encounters Jules, a young French jazz musician who makes a pass at him.  To Jason's surprise, he becomes fascinated with the young man, and they become more and more involved in each others' lives as the weeks pass.  They discuss their past experiences and disappointments, while silently wondering whether they will have a future together.Ms. Anthony explores the more confusing aspects of sexuality in a simple story that should resonate with others who may have faced similar situations, where common sense loses out to what your heart is telling you is right.  Sexually explicit, but not excessively so.  I give the book four stars out of five.- Bob Lind, Echo Magazine </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Common sense loses out to what your heart tells you is right. </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> Wonderful story with wonderful characters.  Author is a great writer.  Loved the romantic setting of Paris.  That was a bonus.  All around great read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> loved it !  wounded heart American lawyer goes to Paris </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> Having just finished this one I can say this was possible the most romantic or maybe it's just because it's the freshest in my memory lol.Watching Jules and Jason grow closer had me feeling all warm inside. The slow build from friendship to more worked perfectly for me.There are no big dramas or deep angst in this book, unless you count the slight hic cup at the end. Typically I wanted to smack a few heads together.Surprisingly I found even though I wanted to hate on Diane and her lousy timing, I found I couldn't. Maybe if she had stuck around I could of, but she at least had the sense to bow out gracefully lol.Another journey into the lives of two guys meeting and building a life together. I'm already looking forward to the next book so I can catch up with them all again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blue Notes </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> Picked up this story because honestly, how could I resist: Lovers in Paris who are immersed in music?! Was I ever happy that I did pick it up(and could barely put it down)- what a wonderful story.Jaz is a Parisian educated American who returns to Paris as an escape, and in doing so ends up coming to terms with his sexuality and his past demons with the accompaniment of Jules, a gifted violinist with a troubled history. I absolutely loved both Jaz and Jules and found their actions to be completely genuine and plausible - even throughout a major misunderstanding. The author beautifully integrates the cities of Paris, Milan and Grenoble as characters unto themselves. Jaz's sister Rosalie is a gem.**I see this is labeled as &#34;#1&#34; in a series. Bring on the next one! I'll definitely be checking out this author's other works** I wrote the above review nearly 2 years ago when the first edition of Blue Notes was released. Since then, I have rated the entire series as 5 star reads. Spectacularly engaging writing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lovers in Paris who are immersed in music?! Picked this one up and could barely put it down. </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> Quite classical vacation fling plot, on this occasion in a winter Paris, always remaining the city of love, what is probably the most interesting thing of all is Jason&#8217;s character and is approach to realizing he is in love with a man.Jason is a successful lawyer in Philadelphia with a beautiful fianc&eacute; and bright future planned ahead. But then he comes home one night to find his fianc&eacute; in bed with another man and this opens the drawer of doubts in Jason&#8217;s head. Profiting of the empty Paris apartment of his sister Rosalie, he decides to take a two months leave of absence. On the first night in Paris, Jason, a jazz lover, enters a club an meets 22 years old Jules.At this point it arrives what I said is the most interesting aspect of all: Jason isn&#8217;t questioning his attraction to Jules, sure he wonders why he is attracted to a man when he was in love with a woman just days before; but Jason&#8217;s questions don&#8217;t arise from prejudices and sincerely the fact that Jules is a man isn&#8217;t really an issue, more troubling is that he is so younger than Jason. Jason had some homosexual experiences in college with a buddy friend, but nothing important and nothing that left him with regrets. Basically Jason is on the middle of the Kinsey scale, being equally attracted by men and women; gender is not an obstacles, problem is the compatibility of the partner.Anyway, Jason is in a moment in life where an age difference is not something that will prevent him from enjoying the Paris fling, and from fling to love the step is short.From Jules&#8217;s side, this is a typically Cinderfella story: kicked out from home at 16, Jules lived on the street and then thanks to the help of good friends; now he is a struggling artist who would love to be a jazz artist, but probably he was destined to end as waiter. Jason&#8217;s connections will help him to find his path, and if that means that their love will also have a component of gratitude, well, that is right, and coherent with the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blue Notes by Shira Anthony </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> I picked up the second edition because I was curious to see what changes had been made (mostly it's &#34;clean up&#34; stuff--the kind of stuff most of us wish we could change after seeing what readers had to say)--but I'm glad I read it again, because I was reminded of why I loved this story so much in the first place.  :)Like everybody, I love books for different reasons. Characters (Jules!), or situations that make me happy (like Jason who runs away from a bad breakup only to meet the future love of his life), or themes that just plain work for me (music/musicians--what can I say? I was in band from 4th grade through 12th and have a soft spot for music-types.) These are personal and subjective, and probably not much help to you (unless you like musicians, stories that begin with heartbreak and turn into HEA, or rakish waifs).So let me try to be a little more objective:There's a perfect, delicate balance struck in Blue Notes between giving the reader enough description to transport them onto the streets of Paris (somewhere I've never been), without ever bogging the story down. Images of people and landmarks are painted clearly and beautifully.Dialogue. It's spot on. Perfect. Characters sound like real people.Characters: Okay, maybe this one is a little subjective, but I can't help but adore Jules. Of course I love Jason, too, but Jules stole my heart from the first time he came onto the page. But there's also something to be said for characters who think, act, and speak like real people, characters that are well thought out and three dimensional, which is exactly what Shira Anthony gives us.All in all, a thoroughly enjoyable read, and a great introduction to the series (although there's no real sequence to the books, they can be read in any order.)  Of course, I may be biased; I have a thing for sexy musicians  ;-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Second Edition Review </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> I loved this book. Please see my full review at the Smoocher's Voice blog.Victor Hugo wrote, &#8220;Music expresses that which cannot be put into words and that which cannot remain silent.&#8221; This quote seems to summarize the theme of Shira Anthony&#8217;s novel Blue Notes, and in fact the entire series, well.Blue Notes is more than just a love story. It is a romantic tale exploring a journey of discovery, growth and coming to terms with the past. Both Jason and Jules are lost, and their connection through the love of music seems to pull them together and heal them. Jason and Jules need each other, and that is a startling revelation for Jason.Blue Notes is the first book in a phenomenal series. Although this book can be read as a standalone, this book begins a journey into Anthony&#8217;s world. The men Anthony writes about are romantic, sweet and haunted. Although there is a fairytale-like quality to the books, especially this first one, there is also a sense of realism, which can be attributed to some autobiographical elements. Although this book is not the best in the series, Anthony&#8217;s style clearly shines in the descriptive passages and character development.Anthony&#8217;s prose are poetic. There is an underlying soundtrack of classical and jazz music that permeates this book, especially the scenes as Jason and Jules explore Paris together. And while Jason takes Jules on a romantic exploration of the City of Love, Jules takes Jason on a quest of growth and passion. Jason reconnects with his past and music and discovers that being needed by another person is wonderful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shira Anthony&#8217;s prose are poetic </p>
+
+
+<h2> review.date </h2>
+  06-08-2014  
+<h2> review.text </h2>
+
+ <p> Very enjoyable read. Jason and Jules are wonderful characters with great chemistry.  The best reason to read this book, though, is that it is the start of a great series, and all of the characters are terrific. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Start to Great Series </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> &#8220;Life's gonna take you, where you never thought you'd go....When you finally think you've got it down, It isn't so. It's not always getting what you want, but wanting what you get...&#8221; Carrie NewcomerIn a drastic moment of truth, Jason Greene of 'The Blue Notes' by Shira Anthony gets a reality check. In the flash of an eye, he realizes that his life, everything he's worked so hard to achieve, doesn't exist. As painful as it seems, Jason is actually receiving a very precious gift; rather than going along blindly pursuing what he thought he wanted, he's put in a position to question and re-evaluate himself. Jason learns that, in the journey of life, it's not what we achieve, as much as it is the joy the accomplishments bring us.Jason Green doesn't realize how unsatisfying his life is until he's forced to think about it. Everything in his life seemed so perfect&#8212;perfect fianc&eacute;e, perfect job, perfect life, but it isn't true. His fianc&eacute;e is unfaithful, his money brings him no joy, nor does his job for which he gave up his first love, music. Jason is understandably confused and mournful since his world is turned upside down. He's invested so much energy in manipulating his life, that he's thrown the baby out with the bathwater. He's hidden parts of himself that are now screaming to be expressed and he feels lost and vulnerable, not knowing what to believe. When he escapes to Paris to re-group, he meets Jules, a compassionate, delightful, talented, and sexy young man, who has him questioning his own sexuality, something else in his life that Jason has tried to control because it didn't fit into the master plan for his success. What he leans in Paris is that instead of being in control, he's let circumstances control him. What he needs to learn is that life and feelings can't be controlled or manipulated; they just are.Jules encompasses everything that Jason is running from. He's strong, independent, a musical genius, and has a sensuality which proves to be irresistible; but Jules has his own demons to fight as well.  Although Jason doesn't realize it at the time, Jules is his guardian angel and knight in shinning armor at the same time. Jules helps Jason see the true misery inside; he holds up a mirror and reflects his feelings back to him. Through his persistence and intensity, Jules helps Jason accept parts of himself that have been buried for a long time. He helps Jason tackle what Jason has always considered his weaknesses and failures as he learns to accept himself for the wonderful person others see. In a similar way, Jason does the same for Jules. Jason combines that which was good in his old life to help and influence Jules. As they learn to love themselves, they also fall deeper in love with each other. Ultimately, it's their love and appreciation for music which strikes a cord with both men, enabling them to find redemption and peace of mind and spirit.It's difficult to imagine a more romantic setting for a love story than Paris and a more healing one. Music, the universal language&#8212;enjoyable, inspiring, soothing, and healing. Shira shares her love and appreciation for both in this intense, but pleasurable story of love. She finds a way to be tour guide, mentor, and story-teller all in one, helping us appreciate the city, but also music as she beautifully words phrases which express the emotion involved. I love this story and, although Jason is a marvelously crafted character, Jules is the one who totally won my heart.  I recommend this to everyone who loves music and appreciates its intrinsic soothing abilities and enjoys a touching, realistic romance with some complications along the way and definitely a happy ending. Thank you, Shira, for the beautiful, heart-felt story, the Parisian tour, French lessons, and most of all for introducing us to Jason and Jules.Originally posted at Rainbow Book Reviews. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blue Notes by Shira Anthony </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> From Love Romances & More Reviews-review is written up for version 1 of this book.Shira Anthony delivers an exquisite story in BLUE NOTES and one I found myself reading twice in one weekend. Superb characters to root for, a backdrop of the famed city of Paris, and a passion that is born of friendship. What Shira Anthony has done is deliver a story that will stir the senses, steal your heart and make you long to follow the paths Jason and Jules walked in Paris. With the right amount of simmering sexual tension, mystery, romance and a few twists to keep the reader on the edge of their seat, this author completely and unequivocally delivers a love story that will make you tear up at the end. I love a good book that makes me feel the emotions of their characters and Shira Anthony does it with sheer enjoyment.Meet Jason Greene. On the fast track to make partner at his law firm, has the perfect fianc&eacute; and more money he knows what to do with, Jason finds his life perfect&#8230;until it all comes crashing down on him. Running away doesn&#8217;t solve all his problems but it does give him time to breathe, find the answers he needs and in the process, fall in love-with a man. Jules is like no other person Jason has ever known. He is fun, sexy, and a musician who plays the sweetest music to Jason&#8217;s ears. Friendship then love comes for these two and before they can blink, both are surprised at how fast they have fallen. I loved the connection between Jason and Jules. The sparks between them fly fast and furious and the reader is hooked from then on. This is an author who knows how to let her characters shine-warts and all. She lets Jason and Jules run with the story and it works, completely captivating me till the very end. The chemistry between Jason and Jules is at times, hot, erotic and soothing, like a jazz song. There are a few secondary characters that help keep the story moving along smoothly.BLUE NOTES is a wonderful, emotional story of two people working through their issues to find their own happily ever after. If you enjoy jazz, friendship turned to love and a story so smooth, it&#8217;s like a good bottle of Cabernet then I recommend you grab BLUE NOTES and settle in for several hours of reading enjoyment. I look forward to reading more from this talented author in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just plain awesome </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> This is my first book from this author and it is a good story. Jason escapes to Paris France after finding his fiance with another man. He decides to stay at his sister's house and have the time to forget the past. Jules is a young talented musician who plays when He can at a club with 2 of his friends. The first night of Jason's time away , He meets Jules at the club . Jules immediately starts flirting with Jason , but Jason has never had a relationship with a man ... Jason invites Jules to stay the night , but in separate bedrooms. Jason , under the pretense that he doesn't want  sightseeing alone , invites Jules to stay more time.They start a physical relationship with the beginning of feelings for each other. It is interesting that regardless that Jules is younger than Jason , he really helps Jason confront his fears and tries to help him with discovering them. The story has a period of difficult moments between the characters but always is evident what they are and what they have. Love how Jason's sister Rosie is a intricate part of many things without being overbearing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blue Notes ! </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> Another ScatteredThoughtsandRogueWords.com reviewRating 5 stars out of 5I loved Blue Notes, from the characters involved, through the streets of Paris where they lived and loved, and finally in the music they listened to and created. It took me a bit longer to read this story as I kept stopping to search for a particular selection of music to listen to as I read (Bach Sonata 2 in A Minor was the first) which gave me a deeper appreciation for the scene I was reading. As I listened I was in tune with the emotions of the characters as the music engaged them. Shira Anthony matched music to the men and the story. What beautiful harmony she created.Jason is a man in flux. His life is upset upon learning of his fiance's cheating. Unhappy with both his romantic life as well as his dull but successful career, Jason returns to Paris in winter for a vacation and to reflect upon his life. I love Paris and here the author writes about Paris with knowledge and love evident in every sentence. Jason meets a young musician on his very first night in the city who seduces him with his music and flirty demeanor.Jules upsets Jason in so many ways. He is young, vibrant, with the air of the &#34;streets&#34; and gay. Jason has always acted and behaved straight while inwardly acknowledging his attraction to men. Both share a love of jazz and classical music. From that shared love, they slowly build a relationship that pulls in the reader from the very beginning. All of the characters are wonderfully fleshed out, including the secondary and satellite people around them. Jason's sister, Rosie, is especially charming and winning.Shira Anthony does provide a Blue Notes soundtrack on her site shiraanthonydotcom but I was disappointed to find only 3 selections listed (I know, what whining to be sure).* I would have loved to have had a list in hand for all the music she used to listen to instead of stopping to look for soundbites. Josh Lanyon is great at this and has spoiled me. But that is really such a minor complaint when she delivered such a wonderful book and music along with it.*(update note: Shira Anthony has provided the songs for each of the Blue Notes story on her website, including links to various performances.  Be sure to check it out.)So bravo. Loved it. Encore, encore! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Moving, Melodic Story of Love </p>
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> Romance is my thing. I am a sappy, romantic fool and I adore stories where characters are blindsided by love. Please understand that I do not get caught up in the mechanics or intricacies of the process. I have no issues with love at first sight, in fact I find stories where the heroes fall hard and quick to be very entertaining.What could be a more romantic setting for a love story than Paris? In Blue Notes there are all of the classic elements that make passion come alive in an enchanting backdrop. A great setting, a hero that is filled with angst and heartache needing to be soothed, and a gifted young man who has suffered too many of life&#8217;s injustices badly needing a hero.  On top of all that we also get music. I think it&#8217;s the musical element of this book that is the glue binding it together and making the story unique.If you have not had a chance to read any of the &#8220;Blue Notes&#8221; series by the very talented Shira Anthony I highly suggest you start here now. It is a beautiful and heartwarming escape to Paris with a sweet love story and very sexy men.Review originally written for Prism Book Alliance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I highly suggest you start here now </p>
+
+
+<h2> review.date </h2>
+  03-22-2014  
+<h2> review.text </h2>
+
+ <p> I loved re-reading this book.  I enjoyed it the first time and went back and found my  first review so I could compare reading experiences.  Here's my first review:"I received this as a free galley from Netgalley.com. Although I had my doubts about a very young, very poor Frenchman and a rather older, established so-called straight American finding true love together, it was a nice midlife crisis wish-fulfillment story. It's a little confusing at first whether the American is married or not--the author made this a little ambiguous. The age and culture difference was also a little hard to swallow, but the author did a good job of bridging the gap by developing the characters well and giving them enough obstacles to work around toward a decent relationship. And meanwhile, there's Paris and jazz and a very gifted young musician and a man who takes a chance on a lot of unknowns, and of course, trouble along the way. So, it worked, and that's down to the author's skill in creating characters and story-telling and her descriptions of Paris and jazz. It's a romance, right? And a slightly different take on the Cinderella story, but overall I liked it and will definitely look for the author's next book."Re-reading this book after so long, and then having read the rest in the series, which has gotten close to wrapping up, just made this book more delicious to me.  Ambiguity all cleared up, and some of the other characters that I got to know and love were present.  After reading Blue Notes a second time, I had none of the quibbles that I experienced the first time, but since then I've read many more M/M romances and Blue Notes and the series remain among my favorites and some of the most well-written in the genre.  In fact, I'm re-reading the rest of the series so I can re-visit all these wonderful men.  Thanks, Shira, for the gift of adding more richness to this already great book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect. </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> 4.5 starsNot much to say about this that hasn&#8217;t been said before. I loved it!From the characters, the setting and the music references &#8211; I loved it from start to finish. The writing was very good. I enjoyed how the characters developed throughout the story and how the author managed to give insight into both characters to make me want to cheer them on. Jason was a great characters to get to know, but it was Jules who won my heart. He wore his heart on his sleeve and I just wanted to take him home with me. He was strong yet vulnerable, lovable and sexy. I so enjoyed how he seduced Jason and I admired his loyalty to his friends, brother and his music.What made this an even more enjoyable read were the music references. I especially enjoyed how Shira Anthony made Paris and the music come alive throughout the story without making me feel overwhelmed.I liked the romance aspect of the story. It felt believable and not too &#8216;out-there&#8217;. The secondary characters were a great addition too. I especially enjoyed Jason&#8217;s sister and something about Sam intrigued me.I enjoyed this book very much, so much so that I read the whole series during the weekend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great romance! </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> It&#8217;s really hard to put in words what one feels deep inside one&#8217;s soul after reading a story as beautiful like this. It&#8217;s not meant to be mushy, it&#8217;s not meant to be life changing. It&#8217;s simply an alternative love story that was written with love and most definitely published with even more love. First of many, hopefully not the last.The first time I read a gay oriented novel (better known in the book world as M/M or F/F) it wasn&#8217;t a conventional situation. It actually wasn&#8217;t a full M/M romance but a m&eacute;nage  trois type story. The experience of reading a heart melting love story like the one the two main characters had only spiked my curiosity. A few years later, I am a hopeless romantic fan of M/M romance.When I first heard about Shira Anthony&#8217;s &#8216;Blue Notes&#8217; series, my mind traveled to all those places like New York, Paris, Milan, London and Vienna known to be cities with deep cultural value to classical music lovers. I do confess I don&#8217;t particularly like or feel attracted to it myself, but the greatest love stories usually have such remarkable scenarios. Jason and Jules&#8217;s story couldn&#8217;t have less.Set in the beautiful City of Lights, Mrs. Anthony gives us the story of a struggling young man, who&#8217;s only wish is to be a successful jazz musician, and a workaholic lawyer who one day comes to terms with himself about his life after discovering his own fianc&eacute; in bed with another man. Jason flies away from the hectic and stressful life he runs in Philadelphia and lands at his sister&#8217;s apartment in Paris. Jules on the other hand, is fighting to make his dream come true and someday become the jazz musician he always wanted to be. He belongs to a trio of talented musicians that like him, only want to succeed.The way I see this story is quite simple:FAN-FREAKIN&#8217;-TASTICYou could easily believe this is a typical story of the clich&eacute;d straight man who tries it once with another man and afterwards decides he likes it an suddenly he&#8217;s gay.In reality, this is a story way more elaborate and complex than that presenting very realistic situations and emotions. The drama that we witness thru the pen of Mrs. Anthony will only make you realize, how wonderful it is to finally discover that hidden part every human being has: a musical self, an animal lover, a doctor, a mentor. Name it as you wish, Jason&#8217;s realization that Jules was indeed that missing piece to his puzzle only gave him freedom.And Jules, troubled boy that he was, found in Jason his muse, the key to his musical heart that wants to succeed, surface from all odds and personal tragedy and finally be able to do what he most wanted to do: be a musician and share with the world. The trials that Jules had to go thru in life have only made him the man he is now, and the only thing missing in his life is a man like Jason to share it with.This is how a romance novel should be written. In all, what you will learn by reading this book is how emotional and creative this story is. How one man who has it all, a career, money, luxury, a super hot fianc&eacute; and apparently a happy life, discovers how the simple things in life; like a struggling Jazz musician from a humble upbringing, can knock him off his feet and make him realize how beautiful it is to accept his own nature, to fight together and make a life full of love, trust and music. Blue Notes will make you wish you were there in Paris, sitting at a small caf&eacute; listening to Jazz music, maybe a melody composed by Jules called &#8216;L&#8217;amour Toujours&#8217;. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oh! Paris L'amour! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

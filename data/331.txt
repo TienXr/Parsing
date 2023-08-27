@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1592333710 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great reference </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have found this app to be really informative and helpful.  There is an assortment of makeup plans that are designed for the amount of time that you have available. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Beauty Bible </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love this book! This is my beauty bible! It gives great ideas and pointers on how to achieve great looks depending on the time you have. I promise that each look is tried and true! Love Love Love Robert Jones!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love Robert Jones </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> While this book is informational and educational, it is a tiny bit redundant.  Seems Robert Jones wrote three or four books that are nearly carbon copies of each other. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> book I got for kindle.there were a few pages that the pictures were covering the words which was prolly not supposed to happen but ya other than that I truly loved the pictures n loved the book,I wish I would've found this book sooner like when I was fifteen lol my makeup would've looked a lot better. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent book, like an owners manual for femmes </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-20-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is not the holy grail of books on makeup but it is an excellent source for understanding palette selections, brush techniques, basic theory, an excellent discussion of foundations / concealers, and balancing features.  All the looks are cute, polished, and conservative.  I tend toward edgier looks if even polished.  That said, I still learned and am learning new ideas that will be staples in my applications, especially about concealers, foundations, contouring and highlighting.  To get the most out of the book, read, read, read the details - that's where the nuggets of goodness can be found. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent instructions </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-10-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Visually- this instruction book is clear and consise and very well done. I regret they didn't include a section on makeup for women over 40. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great ABC </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I do not know how to apply make up because I always thought that it was a waste of time. Now I am in my 30s and I found myself unable to apply makeup correctly, for work or for a party. So I took myself for a challenge;Few things you should know:- If you do not know the rules how to apply the make up, the 5 minutes could become easily 30 minutes (at the beginning); after 3rd day I was down to 15 minutes (as long you don't change the style);- You need good tools (5 good brushes, good foundation with matching concealer and powder); if you go to a salon / mall they can help you choose the colors correctly (kind of pricy but the colors will match and you do not have to struggle); I also invested in a good face illuminator and eye primer... I am not an expert but I do see a nice base.- Read the book intro on colors and on applicators, and put book marks at 1-3 looks that you want to achieve... For myself I placed a mark on prepping my face (concealer, foundation, brush) and one on the look (I chose Latina look because I do not have to play with the colors for now);I think this book is good for true beginners or for people who want to improve their skills. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> so far so good </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-15-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> i got this on my kindle. althought I'm not finished w/ this book , so far I'm satisfied.  it shows you different type of looks and in some ways, some of the steps and brushes they tell you to use is very repetitive which is nice. Only disappointment is that I was really trying to find a tutorial on how to do eyes and contouring.  this book pretty much just tells you to put color on the crease from the outside corner in, or put color/contour the outer 3rd of the eye,etc. but doesn't tell you how to do it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great "New" makeup </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great step by step book for the new look of makeup for today.  The only complaint is that the photos could have been a little bit larger. Other than that, worth it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> WOW, who could have thought robert jones could have written an even better book!!!???? </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-07-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> WOW this book is amazing!!!!! model rage (20's- 50's) perfect!!!! ethnic mix perfect (all skin tones)!!!! the concept is amazing!!!! 13 girls, 43 looks!!!! and what great looks (everything from everyday to colorful to dramatic) all based on time 5 minute looks, 10 minutes looks, 15 minute looks and 20 minute look!!!! what a great concept looks based on the amount of time I have!!!!!the book is so beautiful and sooooo many great photos!!!!! there has to be thousands of photos (320 pages)!!!! every look have complete application photos!!!! the foundation of every look is creating flawless looking skin, and I agree with others, it is his best job ever!!!! the highlight/ contour section AMAZING!!!!girls you are going to love this book as much as I do, I am sure of it!!!!!!! take it from someone who really knows makeup!!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004QOY0I4 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> It works great. I had a ceiling fan that wasn't turning at all, but you could hear the motor trying to turn. When I looked inside to see if a wire was loose, I noticed a greyish lump on the bottom of the capacitor. I checked the numbers and replaced mine with this one. There was a slight difference in voltage for the red wire (old one was 280v vs 250v), but i replaced it anyways. Just followed the diagram since the wires on the fan were different colors than the one on the capacitor. Crimped the wires together, hooked it all back up and the fan works great. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Product, Excellent Price </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> When my ceiling fan lost two of it's three speeds, I took it apart and determined that the capacitor was bad.  After receiving this part, I installed it and the fan is working like new again.  The part works great and was very inexpensive. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ceiling Fan Capacitor </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great item to replace my faulty module in my outdoor ceiling fan.  The motor was running slowly and this fixed the problem. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Still works </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Three years later and this thing is still working. What more can you ask from something like this. Got the job done and is still going strong on a 16/7 duty cycle. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Satisfied. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As soon as I got it I compared it with the original one that burned out. All the wire configuration were the same as the old one. After installation my ceiling fan came to life better than ever. I fully recommend it for replacement. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great solution to broken fan! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was simple replacement to resurrect a ceiling fan that was crawling at slow speeds.  I opened the lighting cap and exposed the capacitor and other related items to find the capacitor was bloated and presumed it was the failing item.  After plugging in the part number on google I was lead to a few sites with equivalent parts from different manufacturers.  The 1st I called wanted to charge $20 for the part.  I quickly ordered it thinking $20 was cheaper than a new fan.  Then I curiously clicked through another link to Amazon and found the part for a fraction of the other site.  When I tried to cancel the order from the original site the guy gave me a hard time saying other parts were cheap knockoffs.Well we all know where this story is going.  The Amazon vendor was perfect and saved me $15.  Part has been running fine in the fan now for over a year.  Don't hesitate to get this one from Amazon and fix your fan if this is the problem part.  Even if it fails, you can buy 4 for the price of the one from the $20 vendor. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Seems to be the right item... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The wire colors are a little different, so I'll have to figure out which ones match up for the fan speeds, but the replacement should be straight forward. This is for a cheap Walmart Harbor Breeze fan in the house I bought - the old cap blew out.I'd rather do this than buy a $60 replacement, even though the fan is somewhat ugly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> works perfect, fixed the problem on the ceiling fan </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My fan was on one speed only, slow.  I read on Amazon that it was the capacitor.  Replaced it, and now I am back to three speeds on my ceiling fan.  Highly recommend. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ceiling Fan Saved !!! :) </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My mom decided do replace the light fixtures and fans in her house, and gave the old ones to me. The lights were ok, but the ceiling fans were pretty nice. When I installed my favorite fan in the kitchen, I found out that it only worked on low speed. I tore into it and seen the capacitor was split open. I figured I would have to replace the fan, but seen a brand name, item number, and wiring diagram on the unit and thought I'd see what I could find. I'm glad I did. Amazon came through for me again with having the capacitor available and at a decent price. There were even cheaper versions available as well, but I decided to stay with the name brand unit. For a $20 investment, I saved a beautiful fan. My advise to anyone trying to do this, if an exact replacement is available, go that route. The new capicitor had the same color wires coming out as the old one, and it had the diagram with all the specs for each speed. It's so much easier when you're simply swapping direct replacement components. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice product </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the first time I was working on my ceiling fan. The capacitor I got from them was good... As soon as I replaced it, it worked great.. so 5 stars to them.... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Saved me from buying and installing a new fan. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was all I needed when our ceiling fan went from 3 speeds to one speed. I replaced it myself in less than an hour and now the fan is as good as new. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 99 part saved me hundred$ </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I would give this product/seller &#9733;&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;'s if possible. I ordered it Thur. afternoon, it shipped from TX -> NC and was in my mailbox Sat. morning (2 days). Its electrical ratings and wire colors are an exact match for the dead capacitor, so it was installed and the fan running perfectly at all speeds within about 15 minutes after I took it out of the envelope.A few additional details, in case you're interested: The fan that died was one of three I purchased about 18 years ago. Because the fans are all within view of each other and are identical, I initially thought I might have to replace all three fans for several hundreds of dollars, rather buy just one and no longer have a matched set. All three fans still look good as new and none has the slightest wobble even at high speed.Once I got up on the stepladder, I smelled the very distinctive electrical overheat odor, and, sure enough, after I removed the light fixture, I could see the capacitor bulging on all sides. My first thought was to check Amazon for a 5-wire ceiling fan capacitor. The first hit was an exact match for the dead capacitor. And, it only cost 99. Even if the nearest hardware store had one of these in stock, I know it would be much more than 99. Plus the gas I'd use to make the round-trip would cost more than Ceiling Fan Parts Superstore charges for shipping, so this is an exceptional deal.Just a final note to any DIY rookies: Make sure all electricity to your fan is turned off before you start poking around the fan wiring. The house or your apartment circuit breaker panel is the best place to do that. If the fan and/or fan light is controlled by a wall switch, don't assume turning off the switch kills all electricity to the fan because most likely it doesn't. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

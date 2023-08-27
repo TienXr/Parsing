@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B006HIKIP6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-19-2013  
+<h2> review.text </h2>
+
+ <p> I am very pleased with this monitor.  As others have mentioned, the stand is great.  Sometimes I sit up while using the computer, other times I lean back and this stand makes it very easy to get the perfect view no matter my position.  I also like the onscreen menus which are controlled by buttons on the side.  I find that much easier to use than the little pivot button some monitors have. And, unlike some monitors which are labeled 24 inch but are really only 23.6, this one is actually 24 diagonal inches.I love it and based on this monitor, BenQ is now my brand of choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great features at a reasonable price </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> OK, the RTS display mode, really is only good for RTS games...  Looks washed out on a standard desktop, or web browsing....I am using the HDMI port, to my GTX560 Ti boot.  When UAC does it's screen goes black bit..  Sometimes the display complains signal out of range, and I need to power cycle the monitor.  It's minor, and I haven't troubleshot it to figure out where the problem lies..  Could be the HDMI cable, the card, the display, or just that I am using HDMI and not DVI.  However, if this plays into your desire for the perfect display, well.....  it's not 100 percent perfect.  Well worth the buy however! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great upgrade, with a possible minor glitch... </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> Bright, responsive, and useful for PC and console gaming. The profile settings of the monitor are great for FPS gaming and I have no issues to talk about at this time. Overall a sturdy and well-designed monitor. This monitor is slightly expensive, but you get what you pay for, and a year later there are no dead pixels or issues at all. Keep it up BenQ. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  09-06-2013  
+<h2> review.text </h2>
+
+ <p> Picture is crisp and clear. Uber fast response. My only complaint is that it is a bit more expensive that some other comparable monitors on the market. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great gaming monitor. </p>
+
+
+<h2> review.date </h2>
+  10-10-2012  
+<h2> review.text </h2>
+
+ <p> BenQ has really listened to gamers, and provided them with displays that are optimized for their needs.  I think there are details that may work better on one game than another, but BenQ seems to have come up with the best overall displays for gaming.  The price is very reasonable for what you get. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding quality -- a must for gamers </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> Tons of options in the menu. Navigation buttons are cleverly thought out and convenient. The screen quality is excellent for a non-IPS. The blacks are black and best of all, the response time is very fast. I sold my 27&#34; IPS to my brother and bought this. IPS monitors still have too high of input lag and I saw lots of ghosting in games. For the price, this is a great deal. The build quality is sturdy and it even has a adjustable stand, which is excellent.The reason for the 4 stars is because whoever is selling these, they go to great lenghts to make the monitor look brand new, when in fact, it is not. Many of these are returns or refurbished sold as new. Buyer beware and make sure you check carefully when you receive yours. Way too much of a hassle to return, specially when I'm stuck without a monitor for over a week... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality, solid LED monitor </p>
+
+
+<h2> review.date </h2>
+  07-15-2013  
+<h2> review.text </h2>
+
+ <p> I understand that some people have complained about the color and crispness of this monitor, however that is only because they didn't go into the OSD Menu on the monitor and select a display profile.  After you switch it, it's perfect.I love:-the swiveling, height adjustable base-the resolution-the speed-the crisp images-the size (this is the sweet-spot of the market, IMO)-great connection options-looks great with my MacI was less impressed with:-not having the best display profile selected out of the box </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow!  Gorgeous display! </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> I looked online for the best rated monitor and this is what I found to go with my CyberPower Black Pearl water cooled gaming machine. I upgraded from a 5 ms refresh rate to 2ms w/ this monitor which hasn't increased my survival rate online but did jack the graphics on a couple games to where I get killed while standing marveling at the detail. Has a nice flat matte screen that does not reflect nor smudge as easily. The base is solid & heavy and will pivot maybe 180* side to side. The support arm telescopes up / down 4"- 6". The screen itself tilts forward and back and will swivel 180* so that the height is greater than the width. I can find no negatives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I need all the help I can get ! </p>
+
+
+<h2> review.date </h2>
+  12-26-2013  
+<h2> review.text </h2>
+
+ <p> What a great monitor. Crisp, clear and fast. Pictures look better than ever and games are in my opinion much more clear.I recommend this to anyone looking for a monitor. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couldn't be Happier </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> BenQ has been on my radar as a gaming monitor for a while. I did a lot of research and my wife bought me the RL2450HT for our 1 year wedding anniversary. This is the RTS (Real Time Strategy) version monitor, and that is important to understand. The RTS version comes pre-configured to use the RTS setting out of the box. Keep this in mind the first time you plug it in and power it on as it will likely disappoint you unless this is why you bought it. You need to make adjustments and I set it to RGB setting and turned the brightness down to a setting of 5. This gave me a great 1st setting, but I also needed to run the monitor calibration tool in Windows to close up the gaps with gamma and grey shading. Once I did I found my BenQ monitor to be perfectly beautiful and sharp and crisp at 1080P.I would highly recommend BenQ monitors for their refresh rate of 2ms is rocking fast. The step up in this monitor will cost you an extra $150 for a 1ms response rate but I honestly felt this monitor did perfectly well. Just remember it is setup for RTS games mainly, and the color will not be as crisp and bright as other monitors. Look past that and you find a great monitor that hands Need for Speed, Skyrim, and most FPS games perfectly. The build quality is amazing as well and shows in just how much detail they put into making this monitor. It feels sturdy and strong and comes with rotation and height adjustment that makes other monitors feel lacking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Gaming Monitor, just need to set it up correctly </p>
+
+
+<h2> review.date </h2>
+  12-26-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this monitor as a replacement for two 20&#34; monitors (Dell and Visio) I used for gaming purposes. This BenQ is better than my previous two monitors in every way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Favorite Monitor </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

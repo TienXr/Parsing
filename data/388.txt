@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 9163082535 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Irresistable Children's Breastfeeding Book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-17-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This small rhyming book is irresistable. Rhyming text paired with colorful illustrations show situations my sons are familiar with: tandem nursing and nursing in a bath. Unique, important and fun! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My daughters favorite! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-17-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> My daughter LOVES this book. She especilly loves the kitty and puppy that are featured. And she has also started to do the sign for 'phone' when the mom is talking on the phone and she says "HI!", it's so cute.Really this is also my favorite book to read her. (well one of my favorite two, the other is an older 'study book' that is no longer in print). It is intresting to adults and children with bright artwork and rhymes on every page. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice message, cute book </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-17-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> As the mother of a nursing toddler, I bought this book for my daughter, thinking she would like seeing other babies nursing. It is a cute book and she does like it - especially some of the pictures that she finds funny, like the baby who has "milky on it's face." I didn't give it four stars because some of the rhymes are a bit forced so the language doesn't flow as nicely as it could. But, overall, a nice book that has a positive pro-nursing message for little ones. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Grrreat book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> You have to add this to your collection! The pictures are humorous and the words stick with you! "My best milk comes from my mommy!" I leave it on my coffee table as a conversation piece. My sons love the bath scene and the tandem nursing page! Great book! LOVE IT! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hooray for another children's breastfeeding book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-30-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Any children's book about breastfeeding is an asset to the much needed support and promotion of breastfeeding. This book has delighted my children countless times. My daughter especially likes the picture of a baby nursing the the bathtub. She signs bath and nurse over and over. A small and sturdy board book, Breastmilk Makes My Tummy Yummy is especially great for little hands! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice book </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-11-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> Any book that advocates nursing and also shows toddlers nursing is A+ in my book!!!  I wish there were more of these available. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Okay </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I hate to be the killjoy, but I was underwhelmed by this book.  It IS nice that it's a book about breastfeeding for toddlers.  The illustrations are kind of cute, and my kids enjoy looking at them.On the other hand, I think the writing is terribly clumsy.  "Breastmilk makes my tummy yummy -- my best food comes from my mummy?"  Not my cup of tea.  Too cutesy-wootsy, even for a board book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> love it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-29-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love it!! It has great pictures and even shows tandem nursing! This is one of my son's favorite books!A must have. :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Terrific read for breastfeeding young ones </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This terrific little board book is simple, sweet, and perfect for young breastfeeding children.  Even has a plug for tandem nursing.  Love love love!  My children both loved this simple book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Book for Natural Parents </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-11-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> The rhymes and illustrations in this book are adorable. It is nice to see a book that treats breastfeeding so naturally.  My kids really enjoy it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> So cute and familiar! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just gave this book to my nursling for his second birthday. He really seems to like it! Personally, I really identify with the different aspects of nursing presented. I also like the multicultural representations and the varied age ranges of the babies/children shown. I felt like nodding in affirmation along with it--"yes, yes, my daily life!" I think that my son and I will enjoy this book many times over the next year or so! I do not permit books portraying bottle feeding in our home, so consequently we have very few books that are about mothers and babies. I'm so pleased to add this one to our home library. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Such a wonderful book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-21-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the only baby book I've yet seen that actually mimics my son's daily life.  He doesn't drink from a bottle, sleep in a crib, wear disposable diapers, or have a blanket.  It seems that most books for infants and toddlers center on these themes.I like the book for it's simple, yet engaging rhyme, and colorful illustrations.  This is definitely a winner.  If your baby or toddler is breastfed, you won't go wrong buying this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Recognizes breastfeeding as normal </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-01-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this for my breastfed daughter's first Christmas. It's great to have a children's book that recognizes breastfeeding as normal. I'm sick of having to skip over books that show babies with bottles! I'm glad this book is here. The illustrations aren't top notch, but they're fine. Some of the prose is a bit forced, but again it's all worth it to have something so positive. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great idea but... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a huge breastfeeding activist and was very excited to receive this picture book- but like another reviewer I was left feeling extremely underwhelmed.The rhymes are forced- the writing is just sloppy.  I really would have believed it was written by a 6th or 7th grader.Yes it is cute and yes it contains lots of pictures of breastfeeding and yes I still have it out on display in my midwifery practice so that the kids can flip through it- still I find myself cringing a little bit in embarrassment when the child asks their parent to read it aloud.  This line in particular is the one that gets me every time:"Sometimes it is fun to let- the milky make my face all wet."Hmmmm... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

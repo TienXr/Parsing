@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004H3OVRO <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-09-2011  
+<h2> review.text </h2>
+
+ <p> I was sort of on the cutting edge by buying my Macbook Air before there were adequate accessories available for it. There were plenty for the 13" but not for the 11". I waited a while and sure enough this product hit the market and its GREAT! I got the purple and just ordered another for my Macbook Pro 15". It was a little difficult to snap on, but maybe that's because I also have a Stealthguard on it. It looks great and protects my computer! What's not to love! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this case! </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> Most cases chip at the edges, but this one still looks new!. Nice and sturdy and great pink color :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> best I have had </p>
+
+
+<h2> review.date </h2>
+  07-30-2012  
+<h2> review.text </h2>
+
+ <p> My goal for ordering this product was two-fold. I wanted to protect my investment and personalize my MacBook. I want to say I do believe I've met both of my goals with this product. Not only does the color and fit make my MacBook look great, it has a good feel and fit that will protect it from scratches as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice addition to my new MacBook </p>
+
+
+<h2> review.date </h2>
+  12-31-2011  
+<h2> review.text </h2>
+
+ <p> Its been almost two weeks since I bought this iPearl cover, and so far so good. The quality is good, even though I had my doubts because on some reviews I read that the cover tends to crack, well it hasn't happen to me... About the process of putting the cover on my MBA, well it was hard... Actually, I still cant put it on right, Im scared if I keep pushing the only part its not correctly fit, I would harm my MBA. On the other side, the bottom part its not really pretty, it has like big gaps to let the laptop aired, its not cute but its better for the MBA. I would definitely recommend you buy this case for your MBA, is really pretty and it protects your laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice color, good quality so far </p>
+
+
+<h2> review.date </h2>
+  11-16-2012  
+<h2> review.text </h2>
+
+ <p> I got this for my macbook air 11 inch. It fits great and adds no weight to the computer. It will protect it from scratches but NOT if you drop it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pink </p>
+
+
+<h2> review.date </h2>
+  11-17-2011  
+<h2> review.text </h2>
+
+ <p> This is a steal for 20 bucks; i was expecting this to be subpar because it was less than half the price of the name brand ones being sold on apple's site. The plastic is more sturdy than I thought it would be and the color is marvelous. I spent way too much time staring at the image on amazon and thinking "This color is shopped, it might be completely different!" which it isn't at all.I didn't have issues with putting on the case- my trick was to make sure that the case is flush against the edges and make sure you grip the little tabs and it will pop into place. I don't think its ill-fitting at all, its very secure. I'm sad I didn't buy it earlier because I dropped it in class (how embarrassing) and put a small little ding on my brand spankin new macbook!!! The best part about it, is that fully assembled it still fits into my La Robe laptop sleeve! YES, AMAZING.My qualms about this is that the bottom is not the most aesthetically attractive thing on earth but no one can see it but youuuu. Not to mention you can't plug in your charger without blocking your USB port because its too loose the other way around. wompwompwomp, should have thought of that! As mentioned, it does add a little weight to your computer. And I personally don't care for the little feet.as for the keyboard cover I already had one but I guess if this one becomes worn out I have another one. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great product </p>
+
+
+<h2> review.date </h2>
+  02-13-2013  
+<h2> review.text </h2>
+
+ <p> I bought this to protect my new MacBook Air and it does just that!  The vents at the bottom are great - I don't feel like my laptop is going to overheat!  Unlike some of the other reviewers, I didn't have any trouble getting the case onto the laptop - once I fit the little prongs on one side, I was able to just pop the other side on with a little push.  Easy peasy!My only complaint is that the edge at the front where your palm rests while typing can be uncomfortable at first, but I adjusted quick enough - it rarely bothers me anymore after a couple weeks! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case! </p>
+
+
+<h2> review.date </h2>
+  07-24-2011  
+<h2> review.text </h2>
+
+ <p> I love this case and am very pleased with the purchase. The case fits my MacBook Air absolutely perfect! It is very secure and has not come off once. I had no problems putting it on as some of the other reviewers had. It's sturdy and is not bulky at all. So far it seems to be scratch resistant and I put my MacBook in my purse so that's saying something! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love the case and love the price! </p>
+
+
+<h2> review.date </h2>
+  08-25-2011  
+<h2> review.text </h2>
+
+ <p> I just purchased this cover along with my MacBook Air 11.6in and was a little leery that it would not fit properly.  But to my amazement it is a perfect fit.  I do however have one small problem - you really cannot plug in the power adapter into the Mac without covering the USB port as the edges of the cover are too close on the opposite side.  But other than that really like the case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect Fit </p>
+
+
+<h2> review.date </h2>
+  05-19-2013  
+<h2> review.text </h2>
+
+ <p> It does what it says it is supposed to do...it is pink, it is gorgeous and makes the laptop amazing and protects it well. no complaints. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It does what it says it is supposed to do... </p>
+
+
+<h2> review.date </h2>
+  01-24-2013  
+<h2> review.text </h2>
+
+ <p> Fits the macbook air like a glove. Matte finish to the plastic and apple logo shines through. No issues with getting the case on, like others have described. It doesnt add bulk to the computer. No creaking when screen is adjusted. Highly recommend it. I have purchases a second one in a different color. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

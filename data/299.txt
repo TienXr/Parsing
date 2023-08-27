@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00DXOHR6K <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ok, i'll join the throng </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It would seem that the point of reviews for this product is to moan about the price or to give personal opinion about the quality of certain seasons or the entire show. In short, whatever you do, don't discuss the actual product (which, it should be noted, hasn't even been released yet). So I won't violate that high standard either. In fact, I am making a point of writing this before the final episode airs so I can be even a little more uninformed about what I'm talking about. I look forward to all the "useful" ratings that this review will receive. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great set. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this for my mom for Christmas, and she loves it. She loves that it come in the wooden box, like the one Dexter has, and not some cardboard box. Great series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing collection for amazing show! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love when a show beloved by so many goes over the top with their Blu-ray collector's editions.  And of course the Blu-ray collection of our favorite serial killer definitely delivers.  I prefer this collection over theDexter: The Complete Series Collection Exclusive Gift Set [Blu-ray] this one is just much more Dexter in my opinion.Now many are complaining about price but this is a "collectors edition" and they are usually pricey.  I personally am like many people and already have seasons on Blu-Ray so I'll be skipping this collection.  BUT IF I WANTED A COLLECTORS EDITION OR GAVE IT AS A GIFT, THIS IS THE ONE TO GET!Thanks for reading. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A must for all Dexter fans </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great concept having the discs housed in Dexter's trophy blood slide box.  I took a star off because the grain on the box is not actually wood, but a paper print pasted onto the wood. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great TV Show </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I received this package a few weeks ago i was skeptical of ordering it after reading some of the negative reviews. I paid 179.99 for this set and when it came in the mail I opened it immediately and was pleasantly surprised the book was a nice addition with all the artwork it contains the box was a slight letdown but what do you expect for the price. I love this set none of the product was damaged in shipping and it looks great. For the price its a great collection as opposed to buying all eight seasons at once. I didnt get into the show before it was cancelled so I did not have any of the sets. I highly recommend this for a Dexter fan who loves the show but never bought any dvd sets </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Most will already know what the show is all about so Ill review the packaging.I loved it.  Granted the box is not actual wood, for those that believed it to be its not.But I like the way it was designed and set up.  I organized the blu-rays from first to last season and theres enough slots in the box for everything.  I got this for $110 when it was on a deal of the day so its a no-brainer for me. Some of these sets are quite expensive, no way would I pay $250+ for any of these sets.  Wait till the set comes down as its inevitable </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great idea for a box set of Dexter... </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I read many of the reviews before I bought this set so I knew what to expect. I think the idea is awesome to have a complete Dexter set that appears like his box of blood sample files. The box itself looks nice and seems quite sturdy even though it is made out of thick compressed cardboard with an imitation wood texture. It probably would have been more thrilling if the box had been made out of real wood as was used in the cage for the Land of the Giants complete set, nevertheless it is still nice and probably lighter this way. The disc holders slide easily into plastic slots and each has a blood sample image on the backside of the disc holder which is a separate piece of thin plastic attached to the back of the disc holder. These disc holders have no top side. It might have been slicker if the blood sample was one and the same as the disc holder, or to have coloured the disc itself red. Individual dividers separate the seasons. Sturdy hinges and a latch made out of metal complete the box. Also included is a 44 page book of photos with images of Dexter and other actors from the tv show. A bonus disc has special features for each season, as well two short special features, including "The Code", and "Evolution of Dexter Morgan", and a 67 minute feature entitled "Rubin Museum of Art Special Presentation with Michael C. Hall" which has an interesting discussion between Hall and psychologist/author Kevin Dalton about serial killers and psychopaths and the Dexter character. The box set is quite large at about 14"x7"x 6". The cardboard on the front, back, top and bottom are about 1/4" and the sides are 1" in width.This box set looks quite impressive and elegant beside my other cardboard box sets of the Alfred Hitchcock Masterpiece Collection, the complete Battlestar Galactica, the definitive collection of the Twilight Zone,  and the complete series of Deadwood. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Four Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> SO far so good- thru the first season </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dexter: What Actually Constitutes Right & Wrong? </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> "Dexter" is a story that analyzes Humanism and inquires what constitutes morality through the depiction of a moral serial killer stopping immoral killers and numerous forces constantly seek to condemn such questionable actions.  It is based off Jeff Lindsay's novel: "Darkly Dreaming Dexter"; a reading of this literature provides significant insight on the reasoning for the TV show's controversial social commentary.  This review rates each season of Dexter and provides an overall series rating derived from: a baseline that is established by the first season, and the entertainment trend that provides viewers with stories containing "grey" commentary instead of "black and white" commentary.  Such an analysis is meant to cater to people who: have never read the novel, do not know anything about the show, have heard about the "immorality" of the character Dexter Morgan, and are debating whether to watch the series.FACTORS OF CONCEPTIONIn 2006, "Dexter" joined the entertainment trend that expedited "grey" social commentary: stories encompassing characters that lied, blatantly manipulated others, questioned religious institutions, broke the law, stole, tortured, and killed.  It can be debated when this trend first began, but it is clear: various genres of TV shows from a decade before paved the way for "Dexter."  Series like: "Buffy the Vampire Slayer", "Angel", "The Sopranos", "24", "The OC", "Dead Like Me", "House M.D.", "Weeds", and the revived "Doctor Who"; contained key characters who could not easily be defined as "good and moral" because they became less moral as their story progressed; thus TV shows were parting from the strict "black and white" commentary found in many shows from the 1950s-1980s era.  "Dexter" broke all boundaries of this trend by telling the story of Dexter Morgan who is a serial killer that: 1. holds a moral code that dictates his choice of actions, and 2. truly loves those closest to him.The novel "Darkly Dreaming Dexter" provides a comprehensive explanation to the reasoning and acts of Dexter Morgan; it is highly recommended one reads this book to obtain the explanation for it is a great aide to further understand the TV show.  "Darkly Dreaming Dexter" is piece of literature filled with metaphorical use of storm conditions,  and it contains a literary technique that caricatures the negative stereotypes of: adoption and murderers.  Negative stereotypes of adoption and murderers are often coupled to claim: 1. adopted children cannot be trusted, 2. adopted children are likely to murder their adoptive family therefore; leave orphaned children in the foster care system, and 3. murderers have no humanity thus they should be shunned.  Caricaturing these claims, "Darkly Dreaming Dexter" refutes the negative stereotypes about adoption and murderers.What results is commentary stating: 1. adopting children is better than leaving them in the foster care system, and better than leaving them with biological parents who are malefactors; because with the proper parenting, adopted children can be raised to be good, 2. adopted children will not murder their family but will actually be loyal to loved ones, and 3. murderers can hold morals which dictate their actions thus one must question if murderers can be simply labeled as bad and evil.  Such commentary is presented through a story that informs readers that as young children, Dexter Morgan and his brother lost key parts of their humanity when they witnessed their mother's murder.  This traumatic event manifests the brothers' need to kill, and the orphaned brothers end up in two different social environments in which they are raised.  Dexter is adopted, but his brother is left in the foster care system.  Under the guidance of his adoptive father, Dexter learns a moral code that controls his need to kill; the code calls for the vetting of immoral serial killers in order to gain comprehensive justification for their murder.  Lost in the foster care system, Dexter's brother is denied the teaching of such a code and in turn becomes an immoral serial killer.  The story culminates with the two brothers reuniting in a violent confrontation with social commentary that argues: Dexter is the better person; though he is a murderer, Dexter acquired a moral code to dictate his actions that resulted from a social environment of a caring adoptive family.A key feature in "Darkly Dreaming Dexter" is the manifestation of an entity that only communicates with Dexter: the Dark Passenger.  The Dark Passenger can speak to Dexter in his mind or materialize itself as a visual representation of another person, and its main goals are to justify Dexter's actions and ensure Dexter's survival.  This entity is also a key feature in the TV series: the Dark Passenger exists in Dexter's psyche, it appears as Dexter's loved ones who have died, justifies Dexter's actions, and functions to keep Dexter alive.  Understanding the novel's: caricaturing, metaphors, social commentary, and key feature of the Dark Passenger aids in the comprehension of stories in the TV series.SEASON 1 = five starsThe first season receives five stars due to its overall accurate adaptation of "Darkly Dreaming Dexter."  The season strays slightly from the novel's story, it provides needed elaboration of events depicted in the novel, implements the novel's use of metaphorical storm conditions, holds the exact social commentary from the novel, and it only makes one blatant but acceptable alteration to the novel's story.The show's storyline accounts that Dexter is a blood splatter analyst for a Miami police department and he is hiding his true nature from all he cares about.  His adoptive sister Deb is unaware of Dexter's secret need because their adoptive father excluded her from witnessing the instruction of Dexter's moral code.  Deb is a police officer who is also employed at the Miami police department and the entire department ends up having to track a serial killer who leaves victims drained of blood, sliced into pieces, and frozen.  Dexter and Deb are very close and they both support each other as they each pursue meaningful relationships with other people.The characters are well cast, the story is well written, intensity keeps viewers highly engaged, resolution is delivered but also entices one to learn what happens next, and the season is a nice contrast to the crime shows: Law & Order, CSI, Monk, and Bones.SEASON 2 = four and a half starsThe second season depicts events which transpire when Dexter's past murders are discovered by the Miami police.  The police do not know who actually committed the murders, therefore they engage in a large scale manhunt.  What ensues is a cat and mouse chase between Dexter and investigators which entails: an officer coming incredibly close to identifying Dexter as the killer, Deb falling for one of the investigators, the emergence of a lone woman who becomes captivated by Dexter; therefore is willing to kill to protect him, and Dexter conducting acts to elude adversaries so he may maintain meaningful relationships with his girlfriend Rita and her children.A four and half stars rating is due to a loss of social commentary that compares adopted children to foster care children, and the slight loss of comparing degrees of morality between murderers.  The first season made these comparisons in a very philosophical manner because it incorporated the same type of philosophy that is masterfully presented in "Darkly Dreaming Dexter."  But the second season of "Dexter" no longer used the novel as source material because the first season had engulfed it all; therefore the show's writers had to develop new material, but the writers were unable to present it in the same manner as author Jeff Lindsay.Characters remain well cast, the story well written, intensity keeps viewers highly engaged, resolution is delivered and once again gives enough enticement to learn what occurs next.SEASON 3 = four and half starsThe third season accounts the events of Dexter confronting two separate serial killers; one is an unidentified lone wolf and the other is a government official.  The entire Miami police become determined to prevent all the murders, and Dexter's secret need clouts his choices of: individually stopping the killers, or collaborating with his police department's pursuit of the killers.  Deb continues to interact with various lovers, struggling to find a person who can understand her.  Dexter and Rita determine they are in love and the two get married.A four and half star rating is given because the season clearly demonstrates it would be incredibly difficult to obtain the first season's same amount of intensity and its comprehensive philosophy regarding murderers' morals.  However, philosophy about trusting others successfully replaces this loss with a culmination of Dexter finding love and being able to start a family of his own.The characters are well cast, the story is well written, intensity keeps viewers highly engaged, and an incredibly happy resolution is given but also produces concern for future events.SEASON 4 = four starsThis season depicts Dexter performing a comprehensive vetting process of a serial killer who has successfully established a familial cover life thus preventing Dexter from easily stopping the killer.  During this vetting, Dexter's own child Harrison is born adding to Dexter's role as a father figure and his role as a husband to Rita.  Deb obtains information that could put her on path to discover Dexter's moral code.  A key distinction in this season is the occurrence of the killer learning of Dexter's identity which enables the killer to severely harm Dexter and Dexter's loved ones.  As this conflict unfolds, Miami police officials engage in romantic endeavors.A four stars rating is given because the depiction of police romance detrimentally slows down the intensity of the conflict between Dexter and the serial killer.  It is debatable if the romance is needed: it does balance out the immense intensity of Dexter's pursuit thus gives viewers a breather, it develops the characters of police officers, but it is not written well for it feels forced which leads one to question if the romance is simply filler, and it completely destroyed the possibility of having viewers on a non-stop thrill ride; thus one can argue that the romance is not needed and should have been edited out.The characters are well cast, when present; intensity keeps viewers highly engaged, intriguing philosophy about trust remains, the season presents the show's first cliffhanger, but part of the story's writing feels forced.SEASON 5 = five starsThis season tells of a young woman who is captured by a cult of killers, is rescued by Dexter, and then works with Dexter to take down the cult.  Such an excursion brings the two incredibly close to one another, and it causes Deb to increase her inquiry about Dexter's actions.A five star rating is bestowed due to the return of social commentary that compares the degrees of morality between murderers.  The casting of actress Julia Stiles vamps up this demonstration because Stiles masterfully portrays reasonable justification for becoming a murderer.  Philosophy about trust becomes even more comprehensive, high intensity is consistent throughout the season, characters are masterfully casted, quality of writing is wonderful, and resolution results with the right degree of enticing viewers to ponder how Dexter will influence people in the next season.SEASON 6 = four and half starsEvents detail the actions of religious extremists who kill to bestow religious judgment upon victims thus causing Dexter and the Miami police to pursue counter measures.  Deb becomes seriously involved with a lover and stumbles upon an event that would clearly inform her about Dexter's moral code.Four and half stars results from inconsistent intensity in this season, however new intriguing philosophy about religion is given.  Social commentary about degrees of morality between types of murderers becomes more controversial thus more thought provoking; it makes a daring move to comment on religious extremists.  Dexter's character is further developed by his own inquiry about faith in religion and his pondering of the possibility of obtaining divine forgiveness.  Such an endeavor is a story arch that carries into the next season.Characters are well cast, intensity varies, intriguing new philosophy is bestowed, writing is of good quality for it masterfully toys with viewers, and the season ends with a cliffhanger.SEASON 7 = four and half starsThis story introduces a serial killer who intrigues Dexter and leads to his understanding of the killer's motives; Dexter then emotionally struggles with how to stop the killer.  Deb and a separate police officer uncover some of Dexter's past and recent actions resulting in a climatic confrontation between Dexter, Deb, and the officer.A rating of four and half stars is bestowed due to a lack of consistent intensity.  Though it is debatable if Dexter's comprehensive vetting of the killer can be considered to be intense, some events resulting from the vetting are less intense than others.  But new philosophy about what constitutes love is given and it is delivered in a very intriguing manner: Dexter's ability to love is further developed.  Social commentary about the degrees of morality between types of murderers remains strong, characters are well cast, writing is of good quality, and the season resolves with a surprise ending.SEASON 8 = four starsAccounts of this season entail Deb hating Dexter after learning about some of his questionable actions and this confrontation clouts Dexter's ability to catch a serial killer that is acquiring parts of victims' brains.  Distinct to this season is the implementation of a mother figure to Dexter who helps him see his own goodness and defines the need for Dexter's actions in an incomprehensible world.A four stars rating is given because this season has a slow storyline, the killer is not as intriguing as past ones, however; advocating for placing children with a caring adoptive family is bestowed just as it was in the first season.  Catching the killer is not the focal point of this season, justifying the need for a person like Dexter and advocating for caring foster families; is the sole aim of this final season.  Such justification is given through the various ways conflicts are resolved between Dexter and his loved ones, and given with social commentary delivered by a new mother figure.  This season masterfully incorporates metaphor to bestow justification and represent conflict within Dexter's psyche; such use of metaphor pays tribute to its use in "Darkly Dreaming Dexter."  The season also masterfully toys with viewers' expectations.Characters are well cast, intensity varies, writing is of fair quality for it is slow but masterfully toys with viewers and uses metaphors as well as surprises, and the series has an ending that is left open to interpretation.SERIES RATING = four stars"Dexter" receives four stars, which is a very good rating for an eight season duration.  Such a rating results because the series puts forth much needed social commentary about the "grey" of humanity.  The show masterfully refutes the existence of a "black and white" world thus thoughtfully examines what constitutes a definition of "right and wrong."  Such an analysis is delivered through controversial but explanatory events that do cause Dexter to grow as a human being and become free of his Dark Passenger.  The existence of controversial events may cause individuals who consider themselves as very moral thus are very judgmental of others; to be unable to comprehend the show's social commentary, but individuals who are open minded to the need to question what actually constitutes morality and are less judgmental of other people; are more likely to comprehend the show's position on what defines "good and bad", "right and wrong", and "black and white.""Dexter" is also welcomed because it helped set the groundwork for various genres of TV shows which followed its premiere.  Shows like: "Terminator: The Sarah Connor Chronicles", "Breaking Bad", "Nurse Jackie", "The Vampire Diaries", "The Secret Circle", "Nikita", "Boardwalk Empire", "Game of Thrones", "Homeland", "Scandal", "House of Cards", "Hostages" and "Bonnie and Clyde: Dead and Alive"; contain major characters that cannot easily be defined as "good or bad" thus leads one to question what actually constitutes "right and wrong."  Series such as these are in debt to the conception of "Dexter." </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Better than I even expected </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Show's obviously amazing!!! I had seen a lot of poor reviews on the construction of the box set, so  was a little apprehensive, but I was actually impressed. I have the real blood slide box from the show so I am a fan of details. It is tough cardboard with a metal latch.The inside has plastic slots for the disk. The disk holders are the slides with blood marks on them. it's actually pretty cool. Everything fits well together and it looks cool. Yes, it can't take much abuse.....so don't abuse it!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Worth the money </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I own quite a few box sets, and this is the coolest looking one I have. I love it. I would have paid full price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Jen's Reviews </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> As a long time fan of Dexter, this is a great collectible set. Look we may not be happy with the ending , but it was a great series. I loved Hanah Mckay. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> BRILLIANT </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> WELL obviously DEXTER was one of the better TV shows of ALL time  however the presentation of the complete series is GREAT.  The DVD case is a slide box like the one Dexter used to save his blood samples he took from each victim  very cool.  Nice booklet of ART and pictures from the show.  All in ALL a GREAT collectors set </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dexter Series </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good set of dvds of the Dexter series. Its a must have if you're a Dexter fan. Cardboard box though, not wood. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The best entertainment for this time of year! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Dexter keeps my blood stirring on these cold winter nights.  I love the quality of the blue-ray.  I did not like the dvd quality at all.  I wish the case was real wood though, that would have been a nice touch.  The case is simulated wood grain looking cardboard.Dexter doesn't dissappoint! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Literally the best you could have asked for. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the most thoughtful and intricate box set I have ever set my eyes on! The GRAFIX book is great, but the real star attractions are the blu-ray &#34;slides.&#34; Like Dexter, you arrange the &#34;slides&#34; (discs splattered with blood) in a wooden &#34;blood slide&#34; box. It's eerily fun and exciting! All the discs contain everything as if buying the separate seasons themselves, with all the bonus content and more on a final disc. Plus, extra room for whatever movies or extra content are released in the future! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Have no Clue </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this as a gift my nephew.  I've never seen the show, know nothing about it at all, so I will rate by what he thinks of it.  He says it's a really good show that it can be intense, interesting, and at times exciting. He said it has good stories. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good first part of the series, lackluster second half </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This show is a prime example of a TV show overstaying its welcome.  The first four seasons of the show were great, but the last four were terrible, getting progressively worse.  The series ending episode was rushed and didn't fit in with the rest of the story.  How does one man change his habits through having a eureka moment?  It doesn't work like that for sociopaths, and that's exactly what Dexter is.  I would avoid this series and look into better shows like Breaking Bad or Sons of Anarchy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great show, but wait until Black Friday to order </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Some reviewers bemoan the high pre-order price for the Blu Ray set (about $320 at the time I'm writing this).  Don't pre-order at this price.  Wait until Black Friday, when Amazon offers many popular sets at significant markdowns.  Last year on Black Friday, Amazon had The Lord of the Rings complete extended editions blu ray set for $49.99 (list price $120), and similarly steep markdowns on The Dark Knight trilogy and complete Harry Potter on blu ray, and many others.  I wouldn't be surprised to see Amazon or other retailer offering the Dexter blu ray set for $199 on Black Friday or at some point during the holiday shopping season, and it would be a shame to have paid over $300 for it.EDIT November 11, 2013:Amazon is starting their black-friday deals early this year.  They've dropped the price of this set (Blu Ray version) from $320 in September to $270 in October to $220 now.For $220, this set is worth considering:  it comes to $27.50 per season, plus you get a lot of cool extras and collectible packaging.Will Amazon reduce the price even further?  They won't tell us.  So we have to guess whether $220 is the best deal we're gonna get.  Hold out a bit longer and you might save a few more dollars if they lower the price again--or they might raise it back to $270 or $320.  I'd rather not chance it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What about us "Dexter" fans who have been buying most seasons all along??? </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have 5 seasons of "Dexter" on Blu-ray, but ran into an impasse with season 6, which I felt had too weak a villain (Colin Hanks) and far too much emphasis on religion, so haven't gotten around to buying the final 3 seasons. But now there's THIS, which is a novelty and may have video extras unavailable to those of us who buy individual seasons. Too many of us longtime "Dexter" fans have been buying the Blu-rays or the DVDs all along, and it would be foolish to spend $200+ just for the final season or 2. I own most seasons of "Dexter" on Blu-ray, and the picture is quite crisp and Daniel Licht's amazing music sounds fantastic, so I highly recommend the entire series to fans of the show. And, interestingly, I've found that one can go back to an old season and enjoy it almost as much as you did the second and third times, which can't be said about too many other shows these days. Follow-up: I have since bought my missing 3 seasons of "Dexter," so now I have all 8. But wish they would collect all the extras on a single disc we can buy. As Showtime approached the start of their broadcast of the final season, in addition to showing the entire previous 7 seasons, they had a wealth of short pieces with various members of the cast as well as hot promos for each season. And oh how I wish they could collect all of THOSE to put on a special disc -- I'm sure many of us "Dexter" fans would immediately buy it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dexter's Dark Legacy (Spoiler) </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a sad year 2013 turned out to be for television. Breaking Bad and Dexter both ending within the same month. Dexter is one of the greatest shows ever, and this box set looks so cool! I love the design, which they based off the blood slide box that Dexter keeps inside his air conditioner, containing all of his trophies. The special features that are new to the complete set include:- Behind-the-Scenes Cast Interviews, Features and Promos.- The Evolution of Dexter Morgan, an all new documentary chronicling the titular character of Dexter and his dark passenger.- The Code, an all new documentary featuring the creation of Dexter Morgan and his world.- Exclusive Grafix book featuring artwork and photography from 8 seasons of Dexter.- Unique box set design based on Dexter's blood slide box from the show. A paper tab stands out to separate each season from each other.To those who are coming new to Dexter, I cannot recommend this series enough. The show follows the path of Dexter Morgan, a serial killer who channels his dark urges onto the guilty. Dexter was different ever since he was a small child, and sensing the darkness inside of him, his police officer father, Harry Morgan, helped Dexter channel his desire to kill by teaching him a code, that dictates he only kill other murders. While many would think of Dexter as a monster, he still has a lot of humanity. In fact many times over the course of the series, you will find yourself emphasizing with Dexter, which is sort of the whole point of the show, that there's a little bit of him in all of us. Each season tells a different story, and brings Dexter into conversation with a different aspect of his dark side and how it relates to "human" issues.Season One:Season one introduces us to Dexter Morgan and the people he surrounds himself with. We are introduced to his girlfriend Rita and her two children, which he describes as more of a disguise or normalcy than anything else. He also has a foul mouthed adopted sister named Deborah, or "Deb" for short, who he describes as the only person that really loves him. The first season explores Dexter's hidden desire to be normal, to be accepted, and involves a game of cat and mouse between Dexter and another serial killer known as the Ice Truck Killer. As the season progresses Dexter learns more and more about his past, and about the terrible events that made him into a monster, and through doing so, he discovers a connection between himself and the Ice Truck Killer that goes far deeper than a passion for human dismemberment.Season Two:Season two opens with a twist, several months after killing his brother, Dexter is off his game, but he snaps to when the police have found Dexter's dumping ground for dead bodies, and have officially opened an investigation into the serial killer deemed The Bay Harbor Butcher. The season focuses mainly on Dexter trying to sabotage the police/FBI investigation from within. Given that he works as a blood spatter analyst for Miami Homicide, and that his sister is a detective, he is of course in a prime position to be on the inside track of the investigation. This is unfortunately complicated by the meddling of Sargent James Doax. Doax doesn't trust Dexter, as he believes he had a connection with the Ice Truck Killer, and has always sensed that there was something off about him. A large theme here is Dexter trying to juggle his life as a serial killer, while keeping it from Doax and the police, while simultaneously dealing with issues in his personal life. New to the cast is a dangerous woman named Lilah who becomes obsessed with Dexter's dark side. She's sort of depicted as Dexter's polar opposite. While Dexter has a thing for the cold and air conditioning, Lilah is a pyromaniac/pheliac who is obsessed with fire.Season Three:The third season focuses on Dexter as the family man. Learning in the first episode that Rita is pregnant with his child, Dexter tries to imagine what his life would be like as a father, and takes on an increasingly more parental role in the lives of Rita's children Aster and Cody, and even proposes to Rita. Dexter also takes on a sort of protege this season. He's able to make his first real friend, a district attorney named Miguel Prado, who believes that Dexter killed the man who murdered his brother. Dexter is initially delighted to have a real friend, and even takes Miguel out killing with him, however before long we start to see that two monsters can't really be together for too long before turning on each other, and Dexter and Miguel wind up at each others throats. The new serial killer this season is called The Skinner, and is rampaging around Miami doing exactly what you think, skinning people. He and Dexter really don't come into contact with each other until the end though, he serves more as a nemesis for Deb throughout most of the arc.Season Four:The fourth season is widely regarded as not only the best season of Dexter, but some of the best television ever filmed. This season focuses on Dexter trying to balance his new life as a father and husband with his other life as a murderer. The killer this year is known as Trinity, and is one of the oldest and most successful serial killers of all time. Trinity is also a family man, and Dexter believes that he can learn how to balance his two lives by studying him. This season demonstrates that you cannot be a father, husband, and killer. It either leads to the complete destruction of the family, as with Trinity, or constant lying and being stretched to the limit as with Dexter. Here we also see Deb begin to uncover the truth about who Dexter is, finding out that his brother was the Ice Truck Killer and about the way his mother was killed. The way that this season ends is one of the defining moments of the series. It's surprising, and brilliant, and tragic all at the same time. What makes the final scene so heartbreaking is that right before Dexter comes home to find what Trinity has done, he is speaking for the very first time every about someday having a life without his dark passenger. His final words too "I'm what's wrong" show the parallels between him and his sister Deborah.Season Five:Season five picks up immediately where season four left off. Beginning here we see Dexter trying to deal with Rita's death, and with the loss of his family, as Astir and Cody move away from Miami with their grandparents. Dexter bonds with a woman named Lumen Pierce, who was raped and tortured almost to death by a group of people, when Dexter kills her captor and rescues her. Dexter and Lumen eventually form a romance together. Unlike Rita, Lumen knows exactly who and what Dexter is and still loves him for it. We see more of Deborah beginning to subconsciously accept the real Dexter here, when she confides to him that she wants to kill the barrel girl murderers herself. She even allows the two killers to go free after discovering the body of one of their victims (not knowing that it was Dexter and Lumen). I have to say, this season surprised me with how good it was. I initially thought that seeing Dexter immediately hop to a new woman would be forced, but seeing them form an awkward killer bond, and watching Dexter his his own pain by helping her deal with hers is absolutely marvelous.Season Six:A lot of people didn't like season six, but I think it was just misunderstood. Taking place about a year after the events of season five, Dexter, whose life has finally reached a semblance of balance and order, now explores some of the greater mysteries behind the meaning of life, and if there can really be light within his darkness. The villains of this arc are two religious zealots who become known as the Doomsday killers. The Doomsday killers want to bring about the apocalypse by reenacting some of the more gruesome parts of the book of Revelations. Along the way we get to see some pretty narley murders, which is always fun. This season explores the best and worst aspects of religion, the worst in the form of the Doomsday killers, and the best in the form of a reformed murderer named Brother Sam, who teaches Dexter to look for the light in the darkness. The most memorable moment in the series comes in the final moment. I won't say it here, but it leaves us hanging on a huge cliff-hanger.Season Seven:Season seven picks up immediately where season six leaves off, Deborah has just witnessed Dexter killing Doomsday and he has some explaining to do. At first it seems Dexter is able to BS his way out of the situation, but by the end of the first episode Deb knows that he's a serial killer, and the Bay Harbor Butcher. This season has some of the best moments between the Morgan siblings. After all this time, we finally get to see Deborah and Dexter talk about who and what he is. The season centers a lot around Deborah trying to change Dexter, and then later coming to accept him for who he is. We also meet Hannah McKay, yet another blond that Dexter Morgan falls for. Hannah and Deborah spend a lot of time at odds, and Dexter finds himself having to choose between his sister and a woman that he might be in love with. Oh did I mention Hannah is also a serial killer?Season Eight:The final season disappointed a lot of the fans, and I'm sad to say that I do include myself in that. I won't spoil the ending, but the ending does a fairly decent job of ruining itself. It was just a bad way to close the series, a sour bite to and an otherwise fantastic meal. I still recommend Dexter to anybody though. We had many great years, and the show will always hold a special place in my heart.My one beef with this box set, is that it's pretty expensive. I would wait for the price to go down, or maybe for black friday. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beautiful Box Set </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> We have loved the Dexter series and were waiting for a box set to come out. The box is gorgeous and has exactly enough slots for all discs. Looks just like Dexter's blood trophy case front he series. Highly recommend for any Dexter fan. Sorry to see the series end. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Item received is not as pictured! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Item not as pictured: dvds come in cardboard box not the wooden box as shown, no artwork, no extras. Disappointed.Item not as described.  The site says you are purchasing: grafix picture book, wooden box, dvds, & disc cases that resemble the blood slides.  What you get: just the dvds in cheap clear jewel cases in a cheap cardboard box (no 'blood' like pictured, no wooden box and no pictures).  Picture needs to reflect what you get and discount/refund given for fraudulent advertisement.Email received after inquiry:spr_media - Amazon Marketplace &lt;dxp09mhd2tnn8rj@marketplace.amazon.com>5:19 AM (3 hours ago)to meI am sorry the Dexter Complete Series did not meet your expectations,it is what it is. If you would like to return it. Please do. Amazon wantsand expects only complete customer satisfaction.  I assure you thatyou purchased what I received as the complete Dexter DVD series collection.I am sorry.--- Original message ---I just received the Dexter dvd collection in a cardboard holder box; item is definitely not as described.  The description and picture shows a nice wooden box, an extra dvd, and a graphix picture book but I didn't receive any of those nice items.  Please help? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 8 years of wait are finally over </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've waited 8 years to get a collectors edition of Dexter the complete series in BR, and looks like it is finally out. I feel bad for all those people writing negative or 1 star reviews when it comes to this little treasure. Dexter is a great show. It is showtime's bestseller ever and if you compare this little bundle of joy vs every season in BR individually you'll end up paying practically the same.Plus the little blood slide box that houses the disks couldn't get any better. Well worth the $$$. This is for serious Dexter fans out there and I really hope I am not disappointed when I get it in November :D </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I love the show......BUT HATE DEBRA ! ! ! ! ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Season 1 to 6 she was ok. But the last 2 seasons all the crying and the faces she makes was just 2 much!!! season 8 was way over the top !  was a very very good show to watch. I did the hole 8 seasons in 7 days....... it was like a long never ending story that you just cant stop. Some of the best T.V shows of all time are from HBO and Showtime.  This is one of them </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wait and read reviews first ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I for one will be waiting to see what other people have to say about the quality of this product before I spend the money. I almost purchased the complete desperate housewives set but read terrible reviews. Decided to pick up each season which was cheaper anyways ! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Keepsake and very Entertaining </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sometimes word of mouth could use a breath mint </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> When everybody and their sister fawned over this telly show I tried to hop aboard right around season 4.  Personally I'm not one to get engaged into a show until it's well under way with quite a few seasons.  That way I know it has a track record.  I fell victim to watching that Sunset 60 show from the get go.  Got myself all emotionally invested in those shallow characters then it got cancelled half the season through which was 4 episodes far too many.Anywho, I gave this show some ample time and listened intently to my little circle of family, friends, co-workers, fellow congregants, stalkers and busboys go on and on and on and on about Dexter and is wacky doings.  So I got a season 1 disc in the mail on loan from a major online rental company-I can't remember the name it eludes me at this time.  The first show was a bit stiff but aren't they all.  Halfway through I recognized Dexter as the actor from Six Feet Under and I loved him in that-what a show that masterpiece was.  But then Dexter's sister shows up and there is something wrong with that woman's forehead or jawline.  Can't quite pinpoint it but she's a fine enough actress.  The rest of the cast is solid and all.  But as I meandered through three or four more episodes it just didn't hook me.  I even skipped ahead to renting disc 1 of season 2.  Still no luck.But just cause it's not for me doesn't mean it isn't for you.  I guess I'm no longer enamored with serial killers and torture scenes.  I guess when somebody gets one over on me I'm doing my best to learn to live with it rather than harbor weird obsessive revenge fantasies.  So there really is no place in my mind and heart for Dexter.Also I'm not that particularly fond of trying to figure out a man lacking a complete sense of empathy and basic human decency.  I don't see him in anyway as being remotely compelling to watch.  I tend to cross the road to the other side of the street when I see an Anti-Social sociopathic psychopath walk my way.  But then again my limbic system's threat response is properly calibrated. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

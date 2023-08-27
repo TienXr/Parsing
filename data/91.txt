@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004QYM55O <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> MUITO BOM </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> PREO MUITO BOM.MATERIAL E BOM TMB. NAO EH A MAIOR CAPACIDADE QUE EXISTE A VENDA MAS ATENDE TODAS AS MINHAS NECESSIDADES. MELHOR CUSTO BENEFICIO.OTIMA ESCOLHA. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 2GB Memory Card </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This MicroSD card is a perfect backup for camera memory and easily exchanged when filled if you are like me and take a lot of high-resolutions photos. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing Price!  Works fine, too! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> These Micro SD cards are an unbelieveable deal!  They came in 2 days, and work perfectly.  I gotta order a few more!!!I see the price went up - at 99 cents/free ship, I should have bought as many as they had!EDIT:  I noticed the price went back down to $1.09 - bought another one! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cheap but works </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ordered a couple of these for my son's phone.  I load them with MP3 songs and new pictures for him to add to his phone.  Work great. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Price Good Quality </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> While it did not come with a case, I didn't need one and I saved a lot on the cost. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> No name brand that works just fine. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> classic example of excessive marketing and packaging.  No name brand works just fine.  So far so good.  I used it on my Samsung Flight phone and it formatted ok, plus it's currently holding my pictures, audio, and email. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Got this to go with a ROKU player.  It works and is reasonably priced.  Not much more to say.  If you have or plan to buy a Roku, you'll eventually want to add a memory card.  This one worked for me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> excellent product </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> One quality product with an affordable price I can also say that fits my needs which are files to my mobile device </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 2 GB MicroSD </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Works great and performs to my expectations. Arrived at my home in only a few days.Works great and performs to my expectations. Arrived at my home in only a few days. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect for my Roku 3 </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very inexpensive, quick shipment, secure packaging. Fits the bill perfectly for my Roku 3. I do not intend to add a lot of channels on my Roku 3, so 2 GB is perfect. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great price </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> price is what recommends this product . hard to believe that they can get so much storage on such a small item </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good product </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good product. I used it in one of my GPS units for extra memory space for new map . Thank you </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 2 GB MicroSD Card </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The card was just as advertised, it works great with my fish finder and was a good deal for the price </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very good product </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> They make the most durable cards.  However, if you are going to have a micro card you may as well pay a few more dollars and get some more memory - go with an 8G, at least. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 'nuthin' better' for bootable USB. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> 2GB isn't much space these days, but for bootable USB storage there's not much better.  And for the price, it's heard to beat! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great buy </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's a 'sd' card, what more can we say.  Well I guess it is great as the card took my file transfers quickly.  Great price, do recommend! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 2 GB MicroSD Memory Card (Bulk Packaged) </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Does what it says, no complaints.  Came on, it works fine.  Nothing much else to say.  Sorry don't have much to say. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> More than expected! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Not only does this 2 GB card work perfectly in my Samsung cell... It came with an adaptor that makes it a standard SD card size which allows me to load it with photo's, music, etc, straight from my computer... Which is much faster than loading through the phone adaptor cable.  Also came with a clear plastic case to store the adaptor safely. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

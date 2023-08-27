@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B008SW6JHK <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-08-2013  
+<h2> review.text </h2>
+
+ <p> Rhyming is cute but it is very repetitive. Maybe read for bed to help a child sleep but not something I could use in my classroom. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ok </p>
+
+
+<h2> review.date </h2>
+  08-09-2012  
+<h2> review.text </h2>
+
+ <p> This cute little book, complete with photos is ideal for six year olds.The basic story is about the child's night light and how the light protected the child from all kinds of bad things in their room. It would be super if you have a child who is afraid of the dark and you want to encourage them by giving them a nightlight. most of the words are easy to learn and read.While it talks about monsters and other things, the photos are cute enough to offset the fear a child might experience by talking about those things. However, as all books for this age group, the wise parent Will preview the book to ensure that it doesn't give their over imaginative child ideas about things to be afraid of. My own Granddaughter enjoyed reading this with me on my iPad, and giggled at the monster and zombie.Our Granddaughter still has a battery powered nightlight for her own use ... So I know the power of this little tale. :-)However, as a pastor, I am also teaching her about the light of the world that never goes out. So for parents who want to use this tale, this is a good beginning story for young children beginning to learn about Jesus. Kids can relate to physical things better than esoteric words, so teaching them about Spark, the light, can be a lead in to them later understanding a different meaning.For those who are not Christian, the tale easily stands on its own as Spark simply being their nightlight.I was provided a gift copy of this book to read to my Granddaughter for a review.EditI thought this would be a one time story. Instead, she climbs up in the chair with me and asks to read it, after repetition, she even reads the harder words. It has become a favorite adn continues to be one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Favorite-Granddaughter keeps asking for the story! </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> Mark Smith is clearly a new force in children's literature. This book is deceptively simple with cute illustrations your youngster will love. You will like it because it's easy to read in one sitting and because it opens doors to another child who sees things in the dark - as I did when I was little.Mark has put together crisp, thoughtful text, fun illustrations and a concept any parent can identify with. Your little one will love this book and so will you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Children's Book </p>
+
+
+<h2> review.date </h2>
+  02-12-2013  
+<h2> review.text </h2>
+
+ <p> This is the perfect bedtime story. All about a nightlight called Spark.Some children never need a nightlight, others just for a short period during their life and then there are some that need that extra bit of security at night.This book portrays Spark as the bright fighter of all things that go bump in dark including vampires, lizards, zombies and snakes.Suitable for early readers with the rhymes to make the word associations easier and it will most likely be very popular with the younger children.Although I loved the illustrations I do think it would have looked nicer with background colours, images of the bedroom, perhaps even with more illustration.I received a free copy of this book for my review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spark, the bright nighttime hero.. </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> "Spark the Night Light" is a simple, colorful, rhymed story for children who fear the dark (which is most of them at a certain point).The illustrations are simple but nicely done. The rhymes are short and cute. The story is one I will be reading to my twin grandchildren as soon as they are just a bit older. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spark at night - what a delight </p>
+
+
+<h2> review.date </h2>
+  06-21-2013  
+<h2> review.text </h2>
+
+ <p> Cute little story for bedtime. My kids keep asking me to read I again and again. Cute pictures too! I recommend this especially for those little kids who don't like the dark. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super cute kids book </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> Kids have the wildest imaginations and going to sleep at night those imaginations can get them all wound up.  This is a cute and useful book for those who are scared of the dark. Get them a night light and read them the story.  Rhyming books are fun to read no matter how old you are.  The pictures are bright and cute. I definitely recommend this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for Kids who are Afraid of the Dark </p>
+
+
+<h2> review.date </h2>
+  01-24-2013  
+<h2> review.text </h2>
+
+ <p> Graphics looks simple, but somehow are quite effective.  Same for the sentence structure and plot.  It has practical application of helping kids get through the night, and kids can easily relate to this concept.  It's a fun read; good job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> surprisingly great </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> A perfect little rhyming book for the young set. Spark is a night light that protects it's friend/owner from all sorts of weird stuff during the night, then sleeps himself during the day. Liked the artwork here(the author Mark Smith takes care of both the writing and art) as each page has a rhyme.Should be just right for the young child getting his first learning in reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fine Litle Book... </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> Spark the Night Light gives young children a way to deal with fear of the dark by the simple use of a nightlight. Children love stories with things that are scary but under control, thanks to Spark in this story. It gives the children confidence and helps them form problem solving skills by seeing how to chase away fear of the dark.One simple illustration per page makes it easy for the young child to follow the story and take in the simple ideas written in the words that rhyme. The rhyme presents language sounds and patterns to help the child hear and understand language and its uses in the written word.This is an excellent presentation of simple, understandable and appealing illustrations with simple words to match for the young child to grasp. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spark the Night Light </p>
+
+
+<h2> review.date </h2>
+  02-06-2013  
+<h2> review.text </h2>
+
+ <p> "Spark" is a cute illustrated rhyming story to read to kids at bedtime. In the story, the clock shows bedtime at 8:00 PM, so it's obviously aimed at pre-schoolers. While the child sleeps, Spark the night light is on duty keeping away the monsters, creepy crawly things, bats, spiders, and other scary creatures of the night.It's a cute story that young kids will enjoy. The rhymes are simple two-liners, and the color illustrations of the various nighttime monsters are well done. It's an excellent way to send the kids off to sleep knowing that their night light will protect them from all the scary things that go bump in the night. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Spark kept me safe all night" </p>
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> This was a cute little book about a night light.  There were pictures on each page which is a big plus for my son.  It was a rhyming story-which I enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute! </p>
+
+
+<h2> review.date </h2>
+  02-11-2013  
+<h2> review.text </h2>
+
+ <p> Spark the Night Light by Mark Smith is an excellent rhyming book which works great as a bedtime read or as a first reader for young children. Its simple message and cute illustrations help dispel and protect against all those scary things that go bump in the night.I read the book with my six year old grandson and he enjoyed. What the heck, Grandpa enjoyed it to.This is a great little story which should be on your bedtime reading list.[Please note: I was given a free copy of this book in exchange for my honest review.] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for Bedtime and First Reader </p>
+
+
+<h2> review.date </h2>
+  05-15-2013  
+<h2> review.text </h2>
+
+ <p> My little boy loved  this story. It has really cute pictures and a really cute concept. New favorite for sure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet spark </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> Night lights rule for every child who reads Spark. A requirement of childhood is having a night light to keep away monsters, creepers, snakes, and spiders - as Spark stays up all night doing.The rhymes are kid friendly; the illustrations creative, which combined makes Spark a perfect story for the young reader.If your child is night light deprived, he or she will be asking for Spark at the end of Spark - A Bedtime Rhyming Picture Book by Mark Smith. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Night lights rule! </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> This is the second rhyming child's book that I have read by Mark Smith.  He certainly is very devoted to the education of children and making them very comfortable when it comes to bedtime.  "Spark" is the happy ray of light that helps make children comfortable during the night.  The reader can help a child who is afraid of the dark and perhaps frightening dreams.  Placing a nightlight in a child's room while reading this bedtime lesson will help a child sleep, thus the parents will sleep well, too!  "Spark" is with all of us.  I depend on a nightlight myself, just to remind me where I am -- comfortable in my safe, warm bed.  A great idea, Mark.  The illustrations are darling, too.  I'm so pleased that you are inspired to light the light of a child's brain...thus you are 'sparking' mine, too! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "The Warm Glow at Bedtime" </p>
+
+
+<h2> review.date </h2>
+  06-10-2013  
+<h2> review.text </h2>
+
+ <p> This is a cute little story about a little boy and his nightlight that keeps him safe at night.  Very cute illustrations </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute book </p>
+
+
+<h2> review.date </h2>
+  05-09-2014  
+<h2> review.text </h2>
+
+ <p> cute rhyming story for kids who are afraid of the dark and need a night light to calm them down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice rhymes </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> I got this book for free via kindle buffett app but after I reviewed it on my tablet I removed it for the following reasons: no rhyme so it does not flow the way my daughter enjoys: (2) if your kid is not afraid of the dark this book could lead them to believe that they should be; and (3) the artwork was a little plain and unimaginative for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only for a kid who is afraid of the dark </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> Both my 6 year old, who could read most of the words, and his 3 year old sister loved this book. The pictures are cute and the rhyming is fun. Just a little silly to reassure little ones that nothing will get them in the dark. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun bedtime book </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

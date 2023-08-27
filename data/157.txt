@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 6300181758 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Again a hit and a classic of the era </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> WOW again the fashions the style and the look of the times the last in the Airport set and one of the best  One Odd thing during the filming of this and the run of the concorde series of planes no crashes or mishaps were reported  the flight history of the plane was as near spotless as can be  the stunning memory now is decades after this film concorde had one great failure in takeoff  and then grounded. Art making history ?? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wake up Amazon! Remove bogus reviews! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-04-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> The reviews here are mostly for Concorde: Airport 79 rather than this documentary about Concorde. I have no idea why Amazon is so asleep on this one! Anyhow the documentary is for anyone who ever flew, or wanted to fly, on Concorde. The most beautiful and iconic commercial jet ever to fly, she arrived just as fuel prices started to soar. Talk about bad luck!Concorde the movie was rubbish. This film traces the history and last flight of the ultimate speedbird. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A better parody then even Airplane! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2002  
+<h2> REVIEW TEXT </h2>
+
+ <p> While Airplane! is noted for it's vicious parody of the Airport (and similar) line of disaster films, The reward for the best "Airport" parody has to be Airport 79, The Concorde:The fact that this movie is played seriously makes it even more effective.Most disaster films are satisfied with One disaster.  In Airport, it was a bomb, in Airport 75, a mid-air collision, in Airport 77, a water crash landing and sinking.Not to be outdone, Airport 79 has no fewer than 6 life and death situations to be played out over it's roubhly 90 minutes of playing time.The poor Concorde crew and passengers on a single flight deal with:1.  Near Collision with "Greenpeace style" hot-air baloon full of protesters.2.  A rougue Cruise Missile targeted (nefariously) at the Concorde during a Missle test3.  A Mercenary F-4 phantom pilot who tries to shoot down the plane.  (thwarted by the timely use of a flare gun and an open cockpit window (don't ask)4.  A "No Brakes" landing in Paris which nearly leads to a runway overshoot despite the help of numerous "safety nets"5.  A "device" planted in the luggage compartment which opens the luggage compartment door at altitude and results in nearly ripping the plane apart6.  An Emergency Crash landing at a Ski Resort in the Alps.Though this film rarely takes itself to seriously, (i.e. Martha Raye trapped in the Lavatory during the missile attack) it is serious enough to realize that this was intended to be a drama.  Which makes it that much more hilarious.This movie is a worthy purchase simply for the pure cheese of it.  It serves as an appropriate bookend with the Original Airport to show how the franchise went from riviting to rediculous in four short films.... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wasn't That Bad, But Terrible Nevertheless. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-28-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Viewed: 8/08Rate: 48/08: The Concorde...Airport '79 isn't as bad as people say. The movie is sometimes good and sometimes not good. A few laughs here and there, several nice performances among the low-quality cast, and a couple of good moments are found throughout The Concorde...Airport '79. George Kennedy gets the most screen time in this fourth part out of the entire Airport series and makes the best out of it. Alain Delon did a great job complementing his co-star. One of the better parts of the film is the clear display of American Sign Language by the Russian wrestler. Susan Blakely gave a very wooden performance as Maggie Whelan and looked like that she was saying "whatever" much of the time. Maybe I was amiss about Robert Wagner not getting the respect he deserves as a villain because he could have yelled, "Dammit, I am Robert Wagner!" Meanwhile, I enjoyed the disaster parts and thought they were exciting at times. After what had happened the first time with the Concorde, I was surprised the plane was allowed back in air the next day after such a quick inspection. Even more surprising is the lack of fear among the passengers as they were perfectly fine returning back to the same plane for another trip, going from Paris to Moscow. Realistically speaking, the number would be five percent of that group. To my puzzlement, people thought that The Concorde...Airport '79 is a laugh riot. Sorry I don't see it that way as I felt the film was just fine but could have been better. I know the plot is stupid...but still. All in all, The Concorde...Airport '79 is not as great as the original and the third part but certainly much better than the second part. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Comedy and the Concorde </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-06-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> This has got to be the funniest of the Airport series. The only cast  member remaining on board was Geroge Kennedy, and personally I think he  should have bowed out of it. I brought to an end a long running movie  series from Producer Jennings Lang, an excellent disaster film producer,  but I can understand why he left after this one. The effects are cheezy  even for that time, as the F-4 Phantom II and the cruise(!) missile look  like someting out of a 1950's serial.(How can a Cruise Missile attack an  AIRCRAFT?????) Not to mention the barrier net sequence with the Concorde,  looking for all like the glorified model it was, making you laugh out loud  even in the theater during it's theatrical run! None of the cast members,  sans Kennedy really seemed to take the film seriously, and it showed. I  mean even TV shows at the time had much better effects and writing!Now  with the crash and sorrowful deaths of 113 souls in the Paris crash of the  Concorde, I just bet the Hollywood Disaster Machine jumps back on board,  call Mr. Lang and regurgitates this series, possibly with Bruce Willis or  Keanu Reeves, in place of Kennedy.And can anyone explain why this is the  only one not avalible on DVD?????? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> liked it </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have always liked the airport series if I could afford it I would buy it  yes I would recommend it to others </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hysterical classic of trash cinema...... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-31-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> Take a hyper-masculine George Kennedy, add a flawlessly coiffed John Davidson, mix in a bit of pot-smoking Jimmie Walker, and finish off with a complete lack of drama or suspense and you have one of the finest guilty  pleasures ever released. While the first two &quot;Airport&quot; films will  always stand as the best, the final entry in the series manages enough  unintentional laughs, groans, and awful attempts at special effects to keep  fans satisfied. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The plane starts to fall apart, and so does the movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-13-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> For the first 20 minutes of this endless film, I thought this would be a good movie. Then the problems started. Basically, the plot revolves around a female reporter who stumbles upon some illegal arms selling done by an American company to terrorists. Documents in hand implicating the wrongdoers, she hops aboard the Concorde on its flight to Paris and then to Moscow for the 1980 Olympics (which the Americans boycotted, but oh well).One problem with this is the "Love Boat" casting for the plane. There's Jimmie Walker! He gets high in the bathroom! There's Charo, on screen for 1 minute! There's Emanuelle from those soft-core porno films! There's Martha Raye! There's Cicely Tyson! Her son needs a heart transplant, and she's taking the Concorde, along with the heart, to deliver it to him. Shades of Airport 1975 much (with the kidney transplant)? There's an old lady who has to go to the bathroom when she gets nervous! Isn't that funny? There's Patroni (George Kennedy) who has appeared in every Airport film. He's the pilot of this one, along with Alain Delon. "You pilots are such men!" snips the stewardess. "Honey, that's why they call it the cockpit!" Patroni zings. Score one for the male chauvinists!There's also a missile or something that's trying to shoot down the Concorde, but the Concorde evades it and lands in Paris but the movie STILL ISN'T OVER. There's another hour and another flight and another dangerous crash landing to get to. The movie doesn't know what it wants to be - glossy international drama? Comedy? Disaster film? It turns into an unintentional comedy, especially with the incredibly fake scenes of a toy model of an airplane flying against a blue screened in shot of a sky.High camp comedy? Yes! Exciting film? No. I suggest watching this with a bunch of friends and proving your own running commentary over it trashing the film. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> everyone got it wrong... not the Airport series. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-01-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> this show has nothing to do with the Airport series.everyone is wrong.this is just a 60 min. show about the first men to fly the Concorde. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> You were expecting a 4-Star movie ... with CHARO??? </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-31-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yes, this stellar cast incudes that 70's icon Charo. Anything with her can't be expected to be taken too seriously...or can it?  At least she had the good sense to get off the Concorde when some of the others decided to go ahead and stay for the second half of the trip. She had the &quot;sense&quot; to leave when she couldn't bring her chihuahua onboard.  Tell me now, would you have wanted to go on with the trip after what happended in the first half? ;) Coochi, coochi poochie.  Anyway, the movie is a piece of rainy afternoon &quot;fluff&quot;.  I wouldn't take it to seriously -- very forgetable &amp; just for laughs.  A DVD would be nice, though.  Just to complete my &quot;Airport&quot; set.  Question... when Susan Blakely's charactor got in the taxi in Paris after her break-up with her arms dealing boyfriend, where did the dog come from and where did it go? Looks to me like it got in the taxi with her -- just wondering. :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> THINK MADE FOR TV MOVIE </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> When you see that George Kennedy is now flying planes, you know what you are in for.  What you are in for, may or may not, have been made for television, but it certainly has that particular small screen look. At any rate, expecting nothing but your average such film, with its one Big TV Star, Robert Wagner, and you should find yourself entertained by the shenanigans. Oh, yes, the Older Star Who Makes An Appearance, is neither earlier Airport's, Helen Hayes or Gloria Swanson, but reliable, ever-popular, Eddie Albert (senior). You needn't know the hazards of flying this Concorde in advance, enjoy the multiple efforts to destroy it as they occur. Of course, if you want serious airplane drama, John Wayne's  epic is still  available. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Airport '79 or Airplane '79? </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-26-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Mach 2 barrel rolls?  George Kennedy in a bedroom scene (barf)?  And the most amazing is while under missle attack (!!!???) they never radioed what was happening!  This film is just totally unbelievable.  Don't waste your time.  Oh, did I mention how is it that Joe Patroni went from airplane mechanic to Concorde pilot?  I thought he was only licensed to taxi (Airport - 1970). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not Bad, But Not Good Either </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This picture hit the big screen on August 17 1979 starring George Kennedy as Joe Patroni, Susan Blakely as Maggie Whelan and Robert Wagner as Dr. Kevin Harrison. The picture opens with a shot of the airport in Paris France. The Concorde gets ready for take off as it heads for its destination at Dulles Airport in Washington DC. After the plane lands in the Nations Capital, it takes about  hour for all the people and the plots get set up. Right before Maggie gets ready to board the plane she's met by Dr. Kevin Harrison. Harrison wanted to see her off and wanted to know if Maggie received the package that she was waiting for. As Maggie is going to the gate, she's met by a woman in a wheelchair and is given the package she was waiting for. After Maggie gets on the bus to go to the plane, she opens the package and starts reading the contents. On the side of the bus in a walk way Dr. Harrison is following Maggie and watching her read the contents. The material proves that Dr. Harrison is doing dirty business with people over seas. After the plane has been in the air for a while, Patroni gets a warning call that a malfunction missile is in there area and is out of control. Patroni has to do his best flying ever, as he has to take dangerous methods with the plane if they want to avoid the missile. The missile is eventually shot down by local air force planes. However, Patroni problems are only being because someone doesn't want Maggie to put the content of the package on the air. Here's some facts on the plane that was used in the movie. The Concorde that was featured in the picture made its first flight as F-WTSC on January 31 1975. This Concorde was the seventh plane of its kind built. The plane was however, registered differently. It was registered as an F-BTSC in May of 1975 and was used in the picture with the same register number. The Concorde was leased from Aerospatiale in France for the picture and after the picture was done, it was sold to Air France in 1980. This same plane crashed after tyro bust caused a fuel tank to rupture and caught fire while taking off from Charles De Gaulle Airport in Paris on July 25 2000. I though this movie after a very slow start was good as far as the suspense that keeps you interested in a movie. I though Susan Blakely was excellent in her role as the TV Reporter Maggie Whelan. I though that Robert Wagner was excellent in his role as the villain. Eddie Albert did a good job as the planes owner and there was even a very young and gorgeous Sybil Danning in this picture even though she didn't play a big role. Over all I give, this picture 7 weasel stars because it takes a while to get the movie going. You can get this movie on DVD right her on Amazon.Com </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A true offence to spectator' s intelligence! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-30-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> This one of these pop corn films, with a hard to die script, that defies viewer's intelligence. A Concord that skillfully raffles all sort of aerial attacks without major inconvenient, supported by secondary plots that frankly have nothing to add; like islands in the middle of nowhere. We will watch to a solvent actor such George Kennedy, trying to make his best to save this horrid movie. An insipid role for the divine Goddess Silvia Kristel (Emanuelle), Alain Delon, cold and enigmatic.The movie has two dramatic sequences; the second is still more laughable; when a floodgate opens at thirteen feet height, you wonder how the floor begins to crack to create an enormous hole on the central section of the plane and you begin to feel the lack and required support around the consequences of Pascal Principle and other evident laws of the Mechanics of fluids, you will - at last - realize that this is a cartoon comic that pretended to work out as another commercial entry of the well known and exploited use and abuse of the catastrophe films that nourished all the available spaces of the screen, spanning well gigantic budgets (Poseidon, Towering inferno,  Airport and Earthquake) that worked as a very well planned evasion films, product of the profound social disenchantment in which the social body was immersed at those awful times that you and me well know about.This abrupt final would seem to indicate the budget and the powerless creativity ended when the plane landed in the middle of the snow, or perhaps failed because of the fact the lack of oxygen affected seriously the neurons of many involved people. Maybe the film was extremely intelligent for most of viewers around the world, who were incapable to understand such enigmatic and complicated picture: it's up to you the final decision. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This Concorde has three difficult flights in one movie. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-10-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the fourth and the last in this series of "Airport" films.  George Kennedy appears again as he has in all four films as "Joe Patroni".  Brian Morrison makes a third appearence as "Joseph Patroni jr.".  Monica Lewis and Alan Fudge return too.Robert Wagner plays the ruthless enemy in this one.Martha Raye adds comic relief as the passenger who constantly needs to use the lavatory.The pilots are: Alain Delon, David Warner, George Kennedy (!).Your Stewardesses are: Sylvia Kristel, Isobel Estorick, Laurie Hagen.Your Stewards are: James Parkes and James Leigh.The Passengers: Avery Schreider, Sheila DeWitt, John Davidson, Andrea Marcovicci, Mercedes McCambridge, Cicely Tyson, Nicolas Coster, Eddie Albert, Sybil Danning, Martha raye, Monica Lewis, Jimmie Walker, Susan Blakely.Also  in the film: Macon McCulman, Frank Parker, Kathleen MaGuire, J.D. Cannon, Jose Ferrer, George Innes, Bibi Andersson, Jessica walter, William Schallert, Ed Begley Jr, David Matthau, Mario Machado.Note: When the Concorde lands after the bladder-holding action, hang on!  These passengers will take a another flight the next morning for an even more scarier experience.Funny Line: "I would love to see what my horoscope said for this morning".--said by George Kennedy.Original Running Time: 2 hours, 03 minutes.The original Network television broadcast added 19 minutes of footage not shown in movie theatres.  This additional footage is not available on the VHS nor DVD versions.George Kennedy also appeared in the all-star disaster film,Earthquake(1974) and another airplane disaster tv-movie INTERNATIONAL AIRPORT (1985-tv). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Stars try to carry poor special effects </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As with the other &#34;Airport&#34; movies, a list of stars draws interest but pitiful special effects make it laughable. I watched this because it was &#34;part of a set&#34; with the other &#34;Airport&#34; movies. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Concorde: Airport 79' </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-08-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> After seeing my Favorite Airplane! movies it's kind of hard not to ruin the Airport series of movies, and while this movie has been often criticized I liked it, *Spoiler*The Villain Ironically was to become a villain in real life and some say get away with it. (Wagner along with Walken and Natalie Woods, Who Did it?) The effects look compared to now outdated but don't let take away from an otherwise serious and yet good movie. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Silliest Airport. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-10-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> Also the most fun; Watch with some one who knows advation and concordes.Both of you will bust a gut laughingout loud. For example : doing a loop-de-loop at mach 2 ? LOL </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> "LOVE BOAT SOON WILL BE MAKING ANOTHER RUN, THE LOVE BOAT PROMISES SOMETHING FOR EVERYONE!" </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> 'Airport 79 Concord' is embarrassingly bad, even for this type of film. With "JJ" Jimmie Walker and Charo in the mix, it's hard not to think of this film as a predecessor to the 'Love Boat'!This installment takes forever to get started, meeting the cast and setting up the inevitable disaster that will unfold, but this time the action is almost non-existent! I won't even get into the credibility of this uninspired C R A P fest!....no wonder this was the last one! It's available on a box set with the other 3 Airport films at a bargain price so it your a fan of the series....... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Top marks for the sheer hilarity of it all! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another one of those cheesy 1970s disaster flicks succeeds in entertaining in all the wrong ways! In this final outing(one presumes) of the AIRPORT series, the Concorde, with the Russian and American olympic teams on board  is under attack from a billionaire arms industrialist whose wife has stolen  secret documents detailing illegal arms sales to enemy countries. So what  does he do? Attack the Concorde with a cruise missile, a fighter plane and  a saboteur. As if this wasn't enough, the plane has to land into nets at  Paris - one of the film's most memorable and funniest scenes! There's an  impressive cast - Alain Delon, Sylvia 'Emmanuelle' Kristel(keeping her  clothes on), George Kennedy as Joe Patroni, Eddie Albert being allocated  the best seat on Concorde(! ), Robert Wagner and more. As far as the  dialogue goes - examples as follows:KRISTEL: Oh you pilots are such men!  KENNEDY: They don't call it the cockkpit for nothing baby!(later, as the  plane is in emergency dive)SUSAN BLAKELY: Oh my god! Noooo! It's the worst  thhhing they can do! Oh God please no we're going into the ocean, oh  noooo!(speaking into a tape recorder)I think one gets the picture. For  the sheer audacity of it all, a must see! Highly entertaining in a camp,  cheesy way! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> old time gal! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you love good disaster movies like I do.  This is a must have to  complete the Airport saga series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> They're sending the wrong movie! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-18-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ordered Concorde (1979) starring Alain Delon and Susan Blakely, the 4rth Airport movie, from this page, as advertised, but they sent a 2000 documentary called Concorde.  I sent it back.UPDATE: Amazon.com has revised the product details to cover their mistake, and are giving me a refund. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What Were They Thinking???? </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-07-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> In the words of the great philosopher Curly Howard, &quot;Nyuck! Nyuck!  Nyuck!&quot; </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> In-Flight Disaster </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> "The Concorde - Airport '79" surpasses the unintentional hilarity of "Airport 1975" with an even worse script and miscasting galore. One of the final nails in the disaster-movie coffin, thereby paving the way for "Airplane!" David Lowell Rich also directed the equally ludicrous "SST: Death Flight" (1977) - a made-for-TV clunker featuring yet another "Hollywood Squares" cast. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Absolutely amusing in places, but still worth a look! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-30-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> This film is actually quite good, even if a complete suspension of disbelief is needed to watch it. The Concorde, the most beautiful aircraft in the world, is under attack from Robert Wagner as his lover Susan Blakely holds documents proving illegal arms sales to countries not friendly to the USA.Added into the mix are the Russian Olympic team, and in a throwback to Airport 1975, a human heart is on board for part of the journey - which is really a superfluous sub-plot, though it does help with the amusement factor later on!The movie actually makes you laugh in places, and the suspense isn't very suspensful anymore, but it's good to grin at, and of course watching the plane is always fun.Seeing it on DVD would be quite nice as the rest of the series are on DVD now. Also, this movie had extra scenes for Network Television as well, so they would be a nice bonus on the DVD also - from memory there is a good 20 minutes or more. The original trailer would be nice too.I enjoyed this film an awful lot as a 7-15 year old - it was awe inspiring. As I got older, I came to find it funny - so I guess it appeals to all ages.The film also features Mercedes McCambridge, an Academy Award winning actess, and it's nice to see a young David Warner (the manservant to Cal in Cameron's Titanic) in a major role. Sylvia Kristel and Alain Delon both play their roles with flair, as do all the minor players. Well worth a look or 12. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

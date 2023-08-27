@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004LGTRHQ <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-24-2011  
+<h2> review.text </h2>
+
+ <p> Yikes!  This guy may want to invest in a better editor.  The first few pages were so filled with excessive punctuation and grammatical errors (not to mention errors such as spelling the phrase "en garde" as "on guard") that I was unable to move forward with what seemed to be an interesting premise for a story.  Glad I didn't pay for it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poorly written </p>
+
+
+<h2> review.date </h2>
+  08-01-2011  
+<h2> review.text </h2>
+
+ <p> This book was a pretty good fantasy novel with some fairly original ideas, i enjoyed it and bought and read the next two books in the series. Unfortunately although this first novel was free, the following books are $4.99 each. This wouldn't be too bad except each book is shorter than the one before it and not worth the price. If they were $2.99 i probably would have finished the series, but paying $4.99 for a book i can finish in one night is not what i consider a good deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good fantasy </p>
+
+
+<h2> review.date </h2>
+  04-19-2012  
+<h2> review.text </h2>
+
+ <p> While there were some rough spots, Under The Stairs was pretty good, I'm looking forward to reading the sequel!I didn't find any of the scenes to be overly gratuitous towards violence, and I found most of the characters to be well written.  Sure some of them seem to be caricatures of themselves, but I felt that was kind of the point, especially after reading the last chapter.Definitely worth picking up.  It's a light read, but was interesting enough to keep me wanting more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Drew me in </p>
+
+
+<h2> review.date </h2>
+  09-18-2011  
+<h2> review.text </h2>
+
+ <p> It got better as I got further into it. The characters besides a few were not very interesting. But the story itself was creative and fun and pretty interesting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Imaginative </p>
+
+
+<h2> review.date </h2>
+  05-06-2012  
+<h2> review.text </h2>
+
+ <p> Its like the author knew that the main character was boring, and that the story was slow, so they tried to make it up with very hard to pronounce names...couldnt get into this story at all, even after two chapters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too slow,names are too exotic </p>
+
+
+<h2> review.date </h2>
+  07-21-2011  
+<h2> review.text </h2>
+
+ <p> I downloaded as a free book, not expecting a lot, but I was floored.  I was drawn in immediately and could not put it down.  I don't usually go the fantasy route, but this book is so well written, with such wonderful characters and settings you will love it.  A world inside a dome?  Colored bands for each land?  No sickness?  It is a MUST read, then go on to read the rest of the series.  I am now up to book 7 and still loving it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book amazed me~MUST READ </p>
+
+
+<h2> review.date </h2>
+  09-27-2011  
+<h2> review.text </h2>
+
+ <p> Admittedly, the torture and the way the girl was treated could have been skipped, or at least, just alluded to, but it didn't overwhelm the book and other than that I enjoyed it very much.I'm not sure I'll enjoy the rest of the series, because the charm of the book was the "fish out of water" aspect of the main character, John Lyon, being thrust into a different world and role.  Watching him learn and adjust was what made the book for me.I believe future books are more about the development of the world under the stairs, and since John Lyon has learned how to cope, future books will have a different feel.  I might still try it, but I'm not as anxious to forge forward as I may be for other types of series.I also thought the idea of a world with colored bands separating the lands was clever. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Admittedly, the torture could have been skipped </p>
+
+
+<h2> review.date </h2>
+  06-07-2013  
+<h2> review.text </h2>
+
+ <p> lead character disappears into another dimension through a portal under his stairs. Time runs differently in each dimension and he is a great wizard in this other place. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> disappeared into another dimension </p>
+
+
+<h2> review.date </h2>
+  08-23-2012  
+<h2> review.text </h2>
+
+ <p> I read this book several months ago and have needed some time to let my thoughts on it percolate. There are a number of things I liked about this story, but there are numerous challenges as well.First, I enjoyed the setting a lot. I grew up in the KC area and could easily visualize the streets and school setting. The book starts slow, maybe too slow. Some people were disturbed by the descriptions of torture right up front and that bothered me a bit as well. But I think I would have been less disturbed if there had been some kind of well-defined reason or payback for it. The world building is inventive and intriguing. I am also fascinated by the possibly scientific explanation for the magic, but this is something that needs more development. I wish I could say as much for the characters. Aside from John Lyon, the main character who is transported to a different world via an access under the stairs in his new, supposedly haunted, home, none of the characters had any redeeming qualities to be seen. Except for maybe his friends in this world, but their roles are pitifully minor.Although an editor is credited, it is clear that his degree was not English. Just because you are a professor doesn't mean you have mad grammar skills. For example: "Three, threatening shadows", "livered servants (Were they wearing liver? Or just had intact livers?)", "hot, berry pies", "then hads of cities", extraneous exclamation points and other questionable punctuation choices, etc.There's promise here, but it needs some more work. 2.5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost there </p>
+
+
+<h2> review.date </h2>
+  10-06-2012  
+<h2> review.text </h2>
+
+ <p> By no means a terrible book I found it hard to really get into this. We have a world created seemingly out if convenience with items magical ability to translate languages and how the people never develop on their own. The characters motivations are somewhat one dimensional to a fault. I find John-Lyon unlikable.Still it isn't terrible and I made it through though you will want to shoot the editor for over use of "..." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ehhh </p>
+
+
+<h2> review.date </h2>
+  09-04-2011  
+<h2> review.text </h2>
+
+ <p> At least it was free and now I know to avoid the author in the future. Gratuitous torture and poorly written. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nasty </p>
+
+
+<h2> review.date </h2>
+  08-02-2011  
+<h2> review.text </h2>
+
+ <p> Yeah, there are typos and other editing issues. And, yes, the book starts with a torture scene.But after that, it's more a normal book.  The only thing is that you have to go along with the world he's created, where the rules for day/night, weather, magic, etc aren't the rules we have in our world.  So long as you go along with that, it's a fun read (although I thought the cat thing at the end was a very annoying deus ex machina).It's basically a story of a fish out of water, and I think does a good job showing what a person from our world might do if suddenly finding themselves in a completely foreign world, where things we take for granted don't exist, and other things we find variable are steadfast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Typos: yes, torture: yes, fun story - yeah </p>
+
+
+<h2> review.date </h2>
+  08-30-2011  
+<h2> review.text </h2>
+
+ <p> I liked this one a lot. Looking forward to book 2. I didn't, however, like Mice & Murderers another title by this author. I will definetly have to be more choosy. This one is a fun one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review of Under the Stairs </p>
+
+
+<h2> review.date </h2>
+  09-30-2011  
+<h2> review.text </h2>
+
+ <p> There is a lot of potential in this book and if you're the type of reader who enjoys looking for things to enjoy in a rougher book, this may be worth the download for you (especially while it is free).  I do, however, recommend it with strong reservations because of all the issues with the book.First of all, the book has an editor credited, but he appears to be related to the author in some way.  This is a book that strongly needs the attention of a serious editor.  The entire book is written in a bizarre, non-standard style.  There are dozens of exclamation points (outside of the dialogue, in the body of the book) that give it the tone of having been written by an excited teenager.  Any sort of transition or pause is marked by "........" which gets very distracting.  In a similarly amateurish way, timelines seem to be a little off.  I couldn't get a feel for how long John Lyon had been living in Kansas City - at some points it seemed like it had been a week or two, but his students were also asking about making up tests (which would be weird for the first week of classes) and he had a well-established friendship with somebody who we're also told he had known for just a month or so.The world created by the author is interesting, but it often has a "Dungeons and Dragons for Dummies" type feel.  It's a very surface-level world and you've got characters spouting off about being the "Etherial" or the "Crystal-Mage."  Since you're just dropped in, it can feel overwhelming, especially in the beginning.  And the whole "It's magic" thing is pretty much used for anything that might not make sense.Characters are rather one-dimensional.  King Yarro reminded me of an eco-villain from the old "Captain Planet" television show - not in that he wanted to trash the world, but that his motivations were evil in a silly way.  His interior monologue is just a constant stream of cartoonish evil - he doesn't care about anything but his own pleasure.  Even evil people usually think they're doing something right, it's just their take on the world is twisted towards their own motivations.  It doesn't make sense that this guy would hate his country and his son just because he's a bad guy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I liked it, but don't know if I can recommend it </p>
+
+
+<h2> review.date </h2>
+  07-27-2011  
+<h2> review.text </h2>
+
+ <p> If I could do half stars, I'd give it 3 1/2.  I almost gave up on this book early on - the tone used in describing some torture is rather disturbing (to me it seems to over-objectify the victim).  I also found it hard to follow the plot early on.  There are some strange transitions in the book, almost as if a paragraph or two were cut out - leaving a thought unfinished.  I stuck with it though, and am glad I did - the storyline seemed to fill itself out nicely, and it ended up being a fairly decent read.  The plot line and characters were definitely original, and I give the author kudos for creativity.  In summary, I found that I had to make a little bit of effort to read this book, especially early on, but in the end found it worth it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Good Book </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> I love the idea of other dimensions just outside our peripheral vision.  This story was engaging and fun.  For those fantasy geeks, you will love this story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another World under the Stairs </p>
+
+
+<h2> review.date </h2>
+  07-24-2011  
+<h2> review.text </h2>
+
+ <p> The premise of this book sounded interesting so I gave it a try.  The opening chapter describes the terror that a young girl captive in a dungeon experiences as she is dragged from her chains and strapped down to be tortured by "priests".  As she has been through it before, several methods of torture are described vividly as she tries to predict what they will do to her this time. It made me sick to my stomach.  Perhaps the book gets "better" for some after that, but this was not worth the download, even for free.  I don't find torture to be entertainment and this review is intended to help inform those who would otherwise have little idea that this book is so graphic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I wish I had never downloaded this book. </p>
+
+
+<h2> review.date </h2>
+  08-30-2011  
+<h2> review.text </h2>
+
+ <p> The title drew me in, Something scarry lives under the stairs.  I was so dissapointed for what could have been a good read for me turned out to be a waste of time.  Don't recommed it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> dissapointed, not what I was expecting </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

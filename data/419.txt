@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B008KCUV18 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brilliant ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Brilliant ! Thought you knew everything there was to know about the legend that is The Rock ? You will when you read this fantastic little gem . </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bring It On! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a super e-book this little one is.  For the modest download price it is well worth every penny.  If you are part of the Cenation then get yourself a copy of this e-book from Amazon. Cathy </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> THE ULTIMATE JOHN CENA BOOK </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Paul White's WWE e-book about John Cena is the best available. If you own a Kindle or a Smartphone then you will want to get yourself a copy of this truly superb e-book. It is quite simply jam packed full of interesting trivia entries about The Champ. Top marks well deserved for this e-book which is a super download offer from Amazon.  Just how much do you know about John Cena?  The answer is easy, just download this e-book from Amazon and you will soon discover the answer.  And I can also highly recommend Paul's  "101 Things You May Not Have known About World Wrestling" and his e-book about The Rock. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Rising above the Rest </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love sports e-books and when they are about WWE then that is even better.  And this one is in a class of its own with 50 things about John Cena that all fans of The Champ will want to download.  Great value at the price too.Jonny </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Captivating </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> A super e-book about John Cena which you can instantly download and test your fellow Cenation members knowledge of The Champ.  50 John Cena trivia entries, many of which will be new to you.Katie </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> John Cena In A Nutshell </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> All you could possibly wish to know about The Champ is niow at your fingertips thanks to this great little e-book from Paul White.  50 trivia entries about one of the greatest wrestlers of all time.  A great buy from Amazon. Kenny </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> John Cena - A Fan's Guide to the People's Champ (WWE Series) </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Paul White as done it again brilliant well thought out book for all the WWE fans. Lets you into the secrets of WWE </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> THE GREATEST </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-20-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a fitting tribute of a little e-book to one of the sport's most iconic and most entertaining wrestlers of all-time.  50 handy little pieces of Cenation trivia in a very reasonably priced e-book you can download on Amazon.  If you like this then check out John Cena & The Rock - 100 Things All WWE Fans Should Know which is another great e-book download.Seamus </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> PAUL WHITE IS WWE's NO.1 STAR </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Paul White has to be without question the best WWE sportswriter given the number and quality of the WWE e-books this Irish author has had published.  This one, his latest on John Cena, is a highly informative look at The Champ and what he has achieved in his career.  Paul White gives us the background to some of the greatest moments in the history of Cenation.  And check out Paul's equally brilliant "101 Things You May Not Have known About World Wrestling" and his e-book dedicated to another WWE Superstar, The Rock.Granni </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Rocktastic! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This e-book is simply Rocktastic!  If you are a fan of The People's Champ then this little beauty is ideal for you.  And it won't cost you the earth.  Love it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A FITTING TRIBUTE TO THE TRUE WWE CHAMPION </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> What an absolutely amazing book about John Cena, the true WWE Champion, Paul White's latest WWE e-book is.  This little e-book just has so much information contained within it for the superb price that you just simply cannot afford to let it pass you by.  Did you know that John Cena is left-handed and only discovered sports and weightlifting in his teens?  Or that he used to work in the reception at Gold's Gym in Venice, California and only decided to embark on a career in professional wrestling after a wrestler-in-training at the Gold's Gym encouraged him to enrol in a wrestling class to learn the ropes?  Well download this amazing book from Amazon and discover so many more things about this WWE Superstar.  And if you are a WWE fan then I can also highly recommend Paul's absolutely brilliant "101 Things You May Not Have known About World Wrestling." </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Champ is Here </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a Champ of a book for the Cenation, full of facts the will have even the most avid fan of Thug-anomics looking for more </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

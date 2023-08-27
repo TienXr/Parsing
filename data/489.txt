@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00K1S9SMM <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-20-2014  
+<h2> review.text </h2>
+
+ <p> What an unexpected treat! This is one of those stories that will start off with a bang and not let up until the very last page. It really keeps on a great pace throughout.The concept of this story was very imaginative and the execution was there. It was spooky, with surprises and a plot that kept giving to the last page. It packs a lot into a short Novella that will keep any reader engrossed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Lot Packed into a Novella </p>
+
+
+<h2> review.date </h2>
+  05-16-2014  
+<h2> review.text </h2>
+
+ <p> This very short novel rushes speed ahead from the first paragraph. I was impressed that a clear characters were able to be developed in just 22 pages, and have a plot that was interesting from beginning to end. You have to feel sorry for Dumdie, as it is not her fault that she see's spirits-this seeing of spirits is what landed her in the homeless shelter {old mansion-refurbished} to begin with. While some know of her abilities, nobody was prepared for a spirit to contact her at this location. This was supposed to be the beginning of her road back from losing everything. When the shelter is in danger of closing its doors is where all the puzzle pieces start to fall into place. Who is the spirit? What is the spirit searching for by reaching out to Dumdie? This is one book that you should take the time to read to find out the outcome. Brilliant use of characters, descriptions, scenes, and fast paced plot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short, Quick, Mysterious, & Entertaining </p>
+
+
+<h2> review.date </h2>
+  06-29-2014  
+<h2> review.text </h2>
+
+ <p> The Ghost in the Closet by M. K. Theodoratus is a great little short story about a young woman who goes by Dumdie.  Dumdie has been teased by her family and others as a result of her gift to see spirits.  This &#8220;gift&#8221; has recently lead to the loss of her job and her home.  She is fortunate enough to be given a chance to get herself back on her feet when she is given a spot at the Archinhauser Shelter for Homeless Women.  As soon as she moves in, however, she can tell that something is amiss and is afraid that her gift may resurface and get her kicked out of yet another place.  While this story was very short it was also very well written.  I liked the element of suspense in the story that came from what will happen to Dumbdie and the other women as a result of the ghost in the closet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great short story </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> Theodoratus does an excellent job of following a side of society that is all too often forgotten and it is done in a way that doesn't make you pity them or have apathy for them, but in a way that makes you sympathetic and empathetic instead. It is a well written story that really captivated me. A great read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Story About Society And Those That Live Within </p>
+
+
+<h2> review.date </h2>
+  06-23-2014  
+<h2> review.text </h2>
+
+ <p> M.K. Theodoratus states in her bio as a fantasy author, `Magic and fantasy have been part of my life ... like forever. I started telling stories after my imaginary friend came to play with me on the front porch when I was about three. By the time I was in sixth grade, I was reading any story connected with magical worlds, ghosts, witches, and things paranormal, though I didn't much care for blood-drinking vampires. Still don't, with few exceptions. Then, a teacher introduced me to the idea that I could write my made-up stories down. Now I write fantasy. While grumpy Far Isles Half-Elven are closest to my heart, I play in worlds that deal with half-elves, gargoyles, ghosties and other magical beings. I'm one of those early writer types. Wrote my first novel in the sixth grade. The teacher demanded a short story for an English assignment.  She got am unfinished Nancy Drew pastiche -- "The Clue of the Clay Cats" -- and gave me a "C" because, at 25 handwritten pages long, I hadn't finished the story.  [Most of the other kids only wrote two to four pages --  *snarl*, *snarl*. Do you think the grade still bothers me?]&#8232;&#8232;By the next summer, I had finished a novel-length story.  Even borrowed my mother's typewriter to type it.  My one reader -- the children's librarian -- thought it was pretty good.  So, I wrote more short stories for fun.  Even sold some to the children's story sections in a couple newspapers. They are buried in the sands of time. Writing stories became addictive. You are now seeing the result.'  And so we meet this Delightful lady in her story THE GHOST IN THE CLOSET.Dumbie is a recently jobless homeless older lady who has been living in her car (as has her friend Hanna) until they take up residence in the Archinhauser Shelter for Homeless Women. Despite the fact that living in a home is better than dwelling in a winter car, Dumbie has an additional problem to the steps she must climb to her room, the KP duty she inherits from the foreman of the home - Dumbie sees ghosts.  It is a problem with which she has lived since childhood, some referring to her `gift' as having TIAs. But as Dumbie and Hanna settle in, Dumbie discovers she shares a room with a none to complacent former tenant of the home - a lady with inheritance problems regarding the Archinhauser home.  Though it may sound a pit preposterous, the way Theodoratus spells it out (!) gives a taste of the high quality of writing of the book: `Dumdie tried to pull away from Hanna's digging fingernails. She struggled to keep her voice calm. "W-w-who are you? I'm D-dumdie." Her stutter returned with a vengeance. "Mayebelle. This was my home, but my nephew and his wife kept me locked me in the closet before I lost my body." The ghost frowned . "Things are different in here. Where did all the boxes and trunks go? Did you steal them?" The air dropped a dozen degrees as she paused. "No, it must've been James." A bit of warmth flowed back into the room. "The room was b-bare, except for the furniture, wh-wh-when I came here....etc'Writing like this is rare and is merely a brief taste for the sophistication of Theodoratus' dealings with age, social issues such as homelessness, ghosts, inheritance issues, and much more. She is a delight to read! Grady Harp, June 14 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 'Craigbourne has about as much fight as a wet dishrag.' </p>
+
+
+<h2> review.date </h2>
+  05-14-2014  
+<h2> review.text </h2>
+
+ <p> This is a novella about a girl named Dumdie and her friends who are living on the streets.Dumdie and her friends get moved off the streets and sleeping in cars to living in a mansion.What they don't know is the mansion is haunted. When she goes into her room, she finds a ghost in her closet and her room is the the coldest. The ghost tells her to look for something very important. Does Dumdie find what the ghost want her to find? Do they get to stay in the mansion or do they leave?  Read the novella to find out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Different </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> I received this book from the author, and from Paranormal Romance and Authors That Rock. The ghost in the closet is a short little story about a homeless woman who moves into a shelter. Together with two friends she and the ghost of the mansion have to solve a mystery. I enjoyed the characters, the scenes and the fast paced plot. The author managed to create a great character who was very relatable.  Although it was a short story I wish there had of been a little more detail in the ending. I'd recommend this story to someone looking for a quick little ghost mystery . I'm giving this story 3 fangs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick little ghost mystery </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> A short-but sweet story, that took me all of a half-hour to get through. I recommend this book for short commutes or sessions at the gym. It's a simple story about losing hope and finding a new home. Would be great as an expanded story, with a little more mystery thrown in.4/5 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chilling </p>
+
+
+<h2> review.date </h2>
+  06-28-2014  
+<h2> review.text </h2>
+
+ <p> This was a quick, short read but the author did a great job of creating a world of paranormal activity as well as the characters. It is quite impressive how well she composes it and pulls it all together. My only complaint is that it is too short and could have been developed into a full blown novel with ease.Great read overall. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Little Novella </p>
+
+
+<h2> review.date </h2>
+  06-30-2014  
+<h2> review.text </h2>
+
+ <p> If you are looking for a great short story that you can read cover to cover before bed or on a short flight then The Ghost in the Closet by M. K. Theodoratus is a great choice for you.  The Ghost in the Closet is a short story about a young woman who goes by the nickname Dumbdee.  Dumbdee has seen ghost her whole life and been teased for what people see when she reacts to her sightings. She is a quiet woman who shies from confrontation.  The most recent victim of her sightings is her job and her housing.  Being newly homeless she finds herself in the Archinhauser Shelter for Homeless Women looking to make a fresh start.  At least, that is what she is hoping for until she notices that there is a ghost in her room.  The Ghost in the Closet made for a great evening read and I am sure that you will enjoy it too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Short story </p>
+
+
+<h2> review.date </h2>
+  05-02-2014  
+<h2> review.text </h2>
+
+ <p> This was a very interesting short story that followed a character in a segment of society that you never really think about. The author does a great job of making the reader relate to the main character. I just hope I'm never in that position myself! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting story </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

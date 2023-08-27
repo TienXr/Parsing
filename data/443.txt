@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00CE3FX6W <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> I liked this story quite a bit! Yes it was somewhat unrealistic, the plot had some odd turns to it, and it had a rushed ending, but I still liked it! I liked the characters, Danny is so strong and stubborn, Harry is so patient with him. Sylvia and Mary are the mother figures Danny needs so badly. The people in it that help Danny, Harry, Harry's mother, Ben, the doctor whose name I can't remember, Sylvia, Mary, all are good souls. Then we see the oposite as well, Danny's parents, his first boyfriend and his parents, the people at the Hope House, all try their best to break Danny down. They don't quite succeed, there is just enought left for the others to rescue.It was a good attempt at telling a dark story. Not perfect, not always realistic, but it shows the goodness in some people, which we all need to see. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good story! </p>
+
+
+<h2> review.date </h2>
+  04-20-2013  
+<h2> review.text </h2>
+
+ <p> Right from the first sentence The Sky Is Dead had my full attention. The prologue sees us meeting David at the age of twenty-nine with his lover, Jack. When Jack asks him why, even with over eight years as a couple, he's never mentioned his parents to Jack, we embark on an all too possible story of David's past.While I'm not much of a fan of present tense, it suits this story. It's gives the words and pacing a gravity that is in keeping with the subject matter. And the words are both unwasted and beautiful. But that's not to say there isn't lightness. There is. There's funny, playful moments that caused me to smile so wide my cheeks hurt. I loved the growth of Danny/David. He's such an interesting, wonderful character. Despite all the adversities he's faced, there's such a sense of fun and mischief about him that is an integral part of who he is. Even the life he's led since having his family turn his back on him have been unable to beat that out of him. I like that, although it's not pushed in the reader's face at every turn, the fact that the things that have happened to Danny have left invisible scars.Read the full review at Live Your Life, Buy The Book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing! </p>
+
+
+<h2> review.date </h2>
+  09-29-2013  
+<h2> review.text </h2>
+
+ <p> I love this author's work, but this book is ridiculously unbelievable. How can you spend months with someone and 18 months later you don't recognize them. No. So much is unanswered, details added for no apparent reason and reasons for actions were incomprehensible. Not worth the price. Sorry. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Sue Brown's best </p>
+
+
+<h2> review.date </h2>
+  05-02-2013  
+<h2> review.text </h2>
+
+ <p> I have to say at the outset that I am huge fan of Sue Brown's work. I have read virtually all her offerings and loved them all. Some more than others of course, as is the way of things.But this particular story of Danny and Harry touched at my heartstrings and took me to a place deep inside myself where I really felt grateful for what I had and for where I'd come from.Danny is a gay, eighteen year old homeless boy, sleeping rough under a bush and just trying to survive. Kicked out of home when he was sixteen for kissing his boyfriend on New Year's Day, Danny finds himself having to make his own way in what is a very tough world. He trusts no one, doesn't let himself get attached to anyone because he's loved and lost before. He does what he can to survive and some of it he's not proud of.And then Harry bumbles into his life. Sixteen year old Harry, an innocent in Danny's world, but a boy who makes his presence felt and decides that Danny needs his help. From that point on, their two lives become so intertwined and Danny finally starts to learn to trust people again. Then Danny's heart is broken again and he vows to never let himself be vulnerable again.It sounds as if Danny is destined for loneliness but that really isn't the case at all. This is an uplifting, beautifully written story, sketched with compassion and love, and a lot of tear jerking moments. The characters are masterfully drawn, with all their flaws and strengths and Danny himself is a wonderfully example of a character that simply breaks your heart and makes you want to hold him tightly and tell him everything will be all right. His strength, his quirks and his ability to rise above his life on the streets is inspiring.Suffice it to say, I was rooting for Danny to be happy all the way through this book. When he finally manages to find his happiness, in a way I won't tell anyone about as it would spoil your enjoyment of the journey of `getting there', I did shout out aloud in glee that what I'd hoped would happen, happened.It is a story of adversity and how people can overcome it just by a strong sense of self and help from others who care without judging others for their sexual persuasion or their beliefs and value system. This is something we should all aspire to and promote wherever we can.The author is a skillful storyteller, weaving a tale of real people in real situations and I applaud her ability to tell us about what's in her imagination in such a way.Reviewed by Susan Mac Nicolfor TheRomanceReviews.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Uplifting, beautifully written story </p>
+
+
+<h2> review.date </h2>
+  05-01-2013  
+<h2> review.text </h2>
+
+ <p> This was a wonderful story with such vibrant characters. I could really feel every moment of happiness and despair in Danny's life. I feel that the ending could have been just a touch longer, though. It felt like things were wrapped up a tad too quickly, but other than that, absolutely wonderful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderfully passionate, couldn't put it down! </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> Alrighty then. First, I seldom give out five stars. Not because I didn't enjoy the book, but because it is rare that I LOVE a story enough to rate it that highly. The Sky Is Dead is such a story. It is an easy read, and the characters are very likeable.The story starts out with David and Jack having a disagreement about David never talking about his parents. Seems a bit odd that it suddenly becomes an issue thirteen years into the relationship, but just go with it. I promise you, it won't be an issue. We learn that David aka Danny, was kicked out of his home at age sixteen for being gay.There, that's all you get from me. Anything else might spoil the story. And it is a book you want to read. Full of emotion and just enough drama to keep the story moving along. It is a feel good story of the best kind. Great job Sue Brown. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Sky Is Dead </p>
+
+
+<h2> review.date </h2>
+  05-03-2013  
+<h2> review.text </h2>
+
+ <p> I've always prided myself on the fact that 9.9 times out of 10, I can accurately pick out the plot line of a story early into the book.  Sue Brown has accomplished the near impossible by sending me in an entirely different direction with "The Sky is Dead."  That is a huge achievement.This is truly a remarkable story that left me staggering with so many emotions as the story played out.  Yes, it was hard reading about the suffering and hardships of a young homeless man, but that is nothing as the story gets into the real heart of the matter.Sue did a brilliant job; absolutely outstanding.  This is the reason I come back to Sue's work time after time, because she is a story-teller extrodinaire.  Thank you Sue for again creating such a first-rate story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exceptional only as Sue Brown does </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> Sue has written a wonderful story that has some truth for some in it. I pray that families can accept there kids for who they are and the kids who have been lost are found by someone loving. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the sky is dead....alive </p>
+
+
+<h2> review.date </h2>
+  05-05-2013  
+<h2> review.text </h2>
+
+ <p> I saw the effusive 5 star reviews and thought this would be a great book. It wasn't. I am now wondering if the reviews were written by friends and family of the author.***SPOILERS BELOW***There are several reasons this book falls flat. First, tackling homelessness in romantic fiction is an ambitious endeavor, and here, the writer didn't do it justice. If you've ever seen homelessness up close, you'll understand why it's near impossible to romanticize it. The protags fall in love while one is homeless and the other is in high school. The love seemed incredibly fake. When someone is homeless sleeping outside in the dirt, their looks, teeth, smell, hair, body, clothes, demeanor etc do not evoke romance. That Harry falls in love and is sexually attracted to Danny seemed far-fetched and way too contrived. Harry literally had to bring Danny a toothbrush in order to make a kiss happen. Um, okay. I guess the toothbrush solved the sexy vs. homelessness problem.Also absurd is the idea that Harry had to leave without warning, only to return and not recognize the person he claims to love so much. Really? You love someone with your whole heart, fantasize about them endlessly, cross the Atlantic to find them.... but you can't recognize their voice? The way they move? Their height? Their hands? Eyes? And you've been intimate--so you don't recognize him sexually either? ABSURD. This whole aspect of the story line is a joke, and I just couldn't get on board.And, the likelihood of both lovers changing their names is another farce. The reason Harry/Jack goes by a different name when he lives in America made no sense. "Jack" moves back to England, reconnects with his true love, doesn't recognize him, proceeds to date him for YEARS and then finds out about the deception (for which, like every other plot device in the story, there is only a bogus explanation) and then insta-forgives the lie which has spanned their relationship all these years. Wait, what? These guys have been together for years, but Harry/Jack never learned of his lover's past? Danny never slipped up and mentioned that they are each other's first love? Danny never mentions that he was homeless as a teen? Never mentioned his family? Never explained his coming out story?  Well, what in the heck did they talk about for all those years?! And how is a deception this major forgiven in just a paragraph of text? I was flabbergasted.  It is really the most ridiculous book I've read in a very long time.It's a highly disappointing to read a book that is billed as deep and insightful only to find that contrived plot devices are all the story has to offer. I don't recommend this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Forced and Unrealistic </p>
+
+
+<h2> review.date </h2>
+  04-28-2013  
+<h2> review.text </h2>
+
+ <p> THIS STORY IS SAD, BUT TRUE, SO HEART BREAKING TO SEE PARENTS TO THROW THEIR CHILDREN AWAY. FOR WHAT? BEING GAY. SAD. WE MEET DANNY/ DAVID A CHILD OF THE STREETS, HE DOESN'T TRUST. WHY SHOULD HE? ALL HE HAS LOVED IN HIS SHORT LIFE HAS LET HIM DOWN. JACK/HARRY WHO COMES TO LOVE DANNY. A GREAT STORY, WALK THROUGH DANNY'S STORY YOU WILL LOVE IT. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CAN HE TRUST? </p>
+
+
+<h2> review.date </h2>
+  05-02-2013  
+<h2> review.text </h2>
+
+ <p> Such a wonderful yet tragic story of a young man cast out by his homophobic parents.  Left by his boyfriend and shattered by being so cruelly cast aside.  He spends years as a homeless teenager finding love and then losing it again.  There is hope though even through the most horrible of circumstances.  Danny/David is every child who has been forsaken by parents, family and community simple for who they choose to love.  Ms. Brown has written a wonderful story with characters that feel so real you want to reach out and hug them.  A wonderful recommended read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> wonderful story </p>
+
+
+<h2> review.date </h2>
+  04-28-2013  
+<h2> review.text </h2>
+
+ <p> Sue Brown is one of my favourite authors in this genre. The way she shapes a character and tells their story is always spellbinding. She has taken a very emotional subject and hasn't held back for the sake of making a pretty little story, every punch is felt, every emotion awakened to leave your heart aching for Danny and the situation he's been thrown into by the ignorance of others.As always, beautifully crafted and shining a light on a very real problem in today's society, a problem that shouldn't exist anywhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heartbreakingly real </p>
+
+
+<h2> review.date </h2>
+  04-17-2013  
+<h2> review.text </h2>
+
+ <p> I loved this story. However, the author really left some loose ends in this one and the ending was so rushed. Nothing makes me as angry as spending time getting attached to characters only to have the ending rolled up with 3 paragraphs.The story was great and I loved the characters, the last few pages left me annoyed and angry. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book with a ton of loose ends and a rushed ending </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> I don't weep over many books or movies but I was on the verge of tears with this one. The story is heartbreaking and knowing that gay teens actually face this like this is even more unsettling.Ms. Brown paints a realistic story with Danny/David and Harry/Jack facing so many obstacles to fall in love. I adored boith the characters and wished to know about them in the future. Perhaps a sequel?Thank you Sue Brown for a fascinating read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Had me near tears... </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> The story starts off in present time, with David facing his fears of telling his long time partner the truth about his past. Having been thrown out by his parents at the startling age of 16 for being gay, life has been a hard road for David. Homeless, he was forced to subject himself to damaging abuse at the hands of other men, he was stabbed and his poor body has rattled with sickness brought on by his surroundings.Everyone he's ever loved has left him. First his parents, then Steve and now Harry. He's understandably cautious when Mary and Sylvia offer him a flat, rent free. Having lost her son to a gay bashing, Mary has spent the last several years opening her heart and home to young gay/trans kids to give them options aside from living on the street or in shelters. Her daughter Sylvia introduces her to David after his most recent hospital visit with yet another bought of pneumonia.Mary insists that David pull his own weight, and that includes helping out at the homeless shelter he himself used to frequent. It's here that he meets Jack. A force of nature is what Jack is. And David recognizes him immediately as someone from his past. After eight years together David finally opens up to Jack. Once Jack has gotten over the shock of the secrets David has held locked inside these past eight years, will it make their bond stronger? Or will it tear them apart? Leaving David lost and alone, just as he's always feared.Brown has written an emotionally raw story of young, gay, homeless teen. The realism of this story drew me in from the start. I found myself tearing up a couple of times as I learned more about David's journey that started as Danny. How he was used and abused and tossed aside like garbage, made to believe he was worthless and ugly. Then how the love of two strangers and a inexperienced young man saved his life and taught him that he truly was worthy and loveable.*I received a copy of this book in exchange for an honest review* </p>
+
+
+<h2> review.summary </h2>
+
+ <p> emotional and raw but worth the read </p>
+
+
+<h2> review.date </h2>
+  04-18-2013  
+<h2> review.text </h2>
+
+ <p> Dont let the title of Sue Brown's new book TheSkyIsDead, give you the mistaken opinion that this book is all dome and gloom.  As with all her books its filled with plenty of suprises which include a coming of age story told a bit differently in the middle of living a hard life on the street.  In my opinion this thoughtful, enjoyable, and thought provoking story will be one I will re-read several times.  another reviewer mentioned an abrupt ending which frankly  didnt notice so this is a 5 star book for me </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gritty look at living on the streets </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002P3KMPI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-02-2010  
+<h2> review.text </h2>
+
+ <p> This computer replaced a six-year old Toshiba Satellite laptop that served flawlessly, but is clearly in its final, noisy days.While it's far too soon to know if this Asus product can match that length of service, their motherboards enjoy a good reputation among the build-it-yourself crowd and their netbooks have been well received. After exercising this computer for a short time, I'm very impressed.This laptop is very strong in four areas that helped me narrow my selection from a dizzying array of laptop choices in its price range:(1) display size and quality (15.6 inches, crisp and bright, separate video processor with 512 MB of its own memory)(2) system memory (4 GB DDR3)(3) battery life (Asus advertises 12 hours; more on how they get to this below); even without the tweaks that get you to the high end, it offers great battery performance.(4) length and scope of warranty coverage.About the battery life which other reviewers have criticized as not meeting the marketing hyperbole (Amazon indicated 11+ hours and a sticker in the packaging claims 12+ hours)....Asus has a power control scheme offering the option to select from two video adapters: a discrete NVIDIA Gforce G210M video processor or the integrated Intel display adapter. Users then have to decide whether they want enhanced video or extended battery life. A small power button above the keyboard lets you make this selection. You can also select an auto mode, which makes the choice for you based on whether using AC power or the battery is being used.Asus also includes a power management utility offering four power setting scenarios (high performance, entertainment, quiet office or battery saving). Each of these can be further customized (display blanking, screen savers, sleep mode, etc.) as you determine your balance of performance vs. battery life.So: can you really get 11 or 12 hours of battery time? Maybe.IF you select the battery saving mode, and IF you accept the diminished video performance, and IF you give up power-hungry goodies (like with Windows sidebar) and if you avoid power-intensive tasks (like CD burning or video rendering)...you might get there. I always figure the marketing figures are make some best-case assumptions...What I have done it used this machine for six untethered hours while enjoying the enhanced video and writing to multiple DVDs. As an upgrade to an old machine that could barely get to 90 minutes away from an AC outlet: six hours battery time for full-featured operation is excellent.Their support seems better than many other manufacturers. I registered with the Asus support site, and posted a question about operating the webcam. Within five hours, I had an email response. Very impressive. Although I haven't tried it --or had a need to-- they also have a 24/7 toll free number.Asus offers the following mix of warranties on this computer in the US and Canada:-30 days for "bright dot" (hot pixels...they don't say anything about about dead ones!) on the display. ANY singe pixel qualifies for this.-1 year on the the battery-2 years on the computer-1 year accidental damage coverage (which they immediately extend to 2 years when you register online)-two way shipping for any repair/RMA situations.For the money, this is a superb laptop choice and Asus appears ready to stand behind it.Why not five stars?Small issues with the overall package.Each is minor, a and couple are a matter of personal preference rather than an actual flaw. However, they probably reflect how Asus achieved this combination of price point and computer performance. While they don't detract from the overall value of this machine, they collectively stand between four and five stars. If there were a 4.5 star option, this computer would be there.Gripes:(1) No recovery media is included. An automated utility prompts you to run it at setup (or you can do so anytime you'd like to afterward). You will need four DVDs to do this; if you use DVD-RW media, this will take well over an hour). Just like with user manuals in soft copy: this is something that should not be pushed to the consumer, and should have been in the box. Even though the utility interface indicates success (or not), I'm left with less confidence in my self-made recovery media than I would have with media that shipped from the factory.(2) No speaker volume control wheel. Volume is controlled either with via the task bar (using a mouse or touchpad) or FN keys.(3) No physical switch to turn the wireless adapter on/off. This is done either through a FN key or a task bar icon (and you may not remember the latter, because it can be hidden under Windows 7 options!).(4) The webcam software was not easy to identify. This was mostly because of a silly, cartoonish user interface that also makes it hard to use. They could have done better by talking to at least one user.(5) Others have written about the super glossy wrist-rest area. It's an an absolute fingerprint magnet and skin oil pallate. A matte or brushed finish, similar to this machine's outside cover could have eliminated this. I'm considering fine-grain sandpaper to roughen this area up!(6) I prefer a power adapter that plugs in at the rear of a laptop. This one plugs in on the left side, which can be in issue depending on the AC outlet location.(7) One of the three USB ports is at the front right of the machine. If you use this for a mouse (as many right-handers might), you'll have mouse cordage right where you might prefer to place the actual mouse.None of those are serious enough to diminish a "buy with confidence" bottom line for this computer. It's light, powerful, power-stingy and full-featured. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Superb performance for the money; great mix of features </p>
+
+
+<h2> review.date </h2>
+  05-29-2010  
+<h2> review.text </h2>
+
+ <p> This is my first laptop PC after using desktops for the last 11 years. All I can say is that I do not suffer from buyers remorse on this item. The touch pad is responsive. The laptop is very slim and portable. My only complaint is the screen is not a matte finish like the desktop monitors. (get alot of glare from light). I bought this as mainly a device to watch streaming movies and as a portable DVD player. I had it 15 days now so there is no way I can return it....its here to stay. Runs very quiet and the speakers are OK for a laptop. Does not get hot as the processor is a 1.3 GHZ duo core. Some of the plusses I like on this unit:Runs Windows 7Has a 9 hour battery lifeSlimQuiet15.6 inch monitorAnd as I stated, the only con is the screen is not a matte finish (gets glare from light)Asus is the new kid on the block and they are coming up with some awesome technology. (They are also getting involved with electronic e-readers). I would say get this particular model as you get a nice 15.6 inch screen with a 9 hour battery life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Asus is a winner </p>
+
+
+<h2> review.date </h2>
+  04-20-2010  
+<h2> review.text </h2>
+
+ <p> I should have listened to those who complained about the screen & the fact it has a very narrow sweet spot for viewing.ASUS really dropped the ball on this & I ended up paying for it.  It is surprising to me that it got into production this way.  Somebody in the company should have said: Stop! and fix it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Screen sucks </p>
+
+
+<h2> review.date </h2>
+  12-11-2013  
+<h2> review.text </h2>
+
+ <p> Pros: Very attractive thin relatively light design.  Feels REALLY solid.  Full sized chiclet kebyoard is comfortable to type on.  Includes a number pad if you use it.  I have never used it.The dual video cards are more a hindrance than a useful feature.  When the laptop switches over to the nvidia card there is a considerable pause and you can't do anything while it does this.  It gets old real quick.The trackpad is the same surface as the plamrest so you will frequently move off the trackpad and look down and realize only by looking down that you are no longer using the trackpad.  Also quite annoying but if you use an external mouse no biggie.The single bar trackpad buttons are also annoying but overcome with an external mouse.Sound quality is excellent.  You will easily notice the difference when you hear it.  I use headphones so this is a relatively little used benefit.The battery certainly does not last 11.5 hours as advertised but it does go 4+ hours. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> attractive / thin 15.6 inch laptop with solid construction but with some problems. </p>
+
+
+<h2> review.date </h2>
+  01-20-2010  
+<h2> review.text </h2>
+
+ <p> My Rating: 4 1/2 Stars.Pros: A mobile laptop.  Light weight.  Great Screen LED is Nice.  Full keyboard although its a 15"er. Modern CPU that gives you enough speed without sucking all the juice of the battery. Gets you 5+ hours . Discrete Graphics Card. 4 GB of DDR 3. Runs some games. Not Cluttered with 3rd Party Software. Asus programs are helpful. Windows 7 is better that Vista ! Claims to have a 2 year warranty.Cons: 1) Integrated Mouse Button is bad. Its a stiff button. 2) It doesn't bother me but I could see other picky people be bothered by the Gloss finish; it does get smudgy easily.Overall I like this computer. Hardware wise its worth every cent. It was exactly what I was looking for with the right price. I probably changed laptops every 6 months for the past 2 years because I couldn't find a good fit for me. This one might be the laptop I will stay with for a while. It sucks that Asus got everything right except the mouse and the gloss finish, in my opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good Laptop </p>
+
+
+<h2> review.date </h2>
+  12-25-2009  
+<h2> review.text </h2>
+
+ <p> I should give this computer a 5 star rating, but since 5 stars should be "Perfect" I have to give it 4. In order to to be "Perfect" This computer would need to have blue-tooth, bluray, fix the flex in the keyboard, and add 2 mouse buttons. THAT'S IT. Now that being said this computer is as close to perfect as I have seen yet. The screen is great, it doesn't get hot, killer battery life (8 hours without taking drastic steps). The keyboard flexes a bit, but it doesn't affect typing and the mouse button is a single bar and that means you have to hit it on the outer edges to make it work great. This keyboard doesn't have the asus lag that most their computers suffer from. Windows 7 is great, the quick boot is great for checking email (8 seconds to online). The graphics card allows me to play Batman AA on native rez with no lag. The overclock mode gets the pc performance on par with what this system should be all the time, but the 1.3 mode helps the battery life by about 30-50 minutes and is more than fine for everything but gaming.I have had this computer for about a week now and it hasn't crashed once, the dell system I got my wife has the EXACT same programs on it and it has crashed almost daily. Asus has been well known in the computer parts world, and I have to say their computers are living up to the high standards they set with their parts.I will keep this up to date if anything changes. For the $800 this system cost you get a portable full sized laptop with the performance to match, but the battery life of a compact portable with no computing power.oh, one more down side is it is hard to find a case since most fit a 15.4" laptop, and this is 15.6. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW, this is a great laptop </p>
+
+
+<h2> review.date </h2>
+  03-12-2010  
+<h2> review.text </h2>
+
+ <p> Hi,I really don't feel the need to waste my time on reviewing half the products I have because usually I am not satisfied and as much as I want to spread the word to everyone I know, I find myself with very little time to constantly write reviews so I save my breathe, or should I say "key strokes", for amazing products because I feel they deserve the praise and I can only hope that the companies are reading these reviews and keeps up the great work.This machine I have only had for a day, but it is far from being my first laptop or first Asus computer.  This is my second Asus product and I know other friends that have Asus so I have enough experience overall to give a fair review.  I have the Asus Eee Pc1000H and well I will put it this way....it is a nice little machine, extremely stylish when compared with the other plastic garbage out there, and the screen is just absolutely gorgeous...don't take my word for it...try it!  The speakers were God awful (ironically it says "dolby digital" on the sticker that they slapped on it) but you don't buy a netbook because you are ready to roll down the street blaring your Asus Netbook sound system.  I have also had 3 Sony Vaios (which btw...NEVER EVER BUY SONY....unless you want to spend another $1000-$2000 in about a year and a half), 1 HP, 1 Lenovo, 2 Toshibas, and an Acer 18.4" (which again btw is probably the most amazing 18.4" laptop you will ever encounter in your life...try the 5.1 speakers that comes on it and you will thank me again later)Now on to this Asus UL50VT.  I purchased this at Best Buy yesterday (3/11/10) for actually $729.99 (cheaper than Amazon oddly enough) and let me say I have absolutely no regrets on this purchase as I type this review on this very same laptop.  The screen, yes, can be crisper but I am truly fine with it and I do think it looks very nice, but you have to understand that the resolution appears differently to your eyes than a traditional lcd display so keep that in mind when thinking about it.  I promise you though that it looks good and I bet you will still love it as you play around with the unit.  The keyboard is the best on the market in my opinion.  I may say that Lenovo makes the best keyboards but you pay for that build quality.  If I had money, I think I would have a Lenovo for home and this laptop for the road....even though this computer can do it all...I love technology so I wouldn't mind having both manufacturers to enjoy.  The first thing I think of when anyone says the word "Asus" is "build quality."  Asus makes rock solid motherboards and over the past couple of years have been pushing to be the number one laptop manufacturer.  I was as skeptical as next guy about them pulling off such a difficult task, but just get your hands on an Asus before you pass judgment.  The chicklet keyboard is so easy to work off of, the kind of matte/rubbery texture to the palm rest is so elegant looking and really feels so good when you rest your palms on it and type on the computer.  The mousepad i need to given and standing ovation for.  I heard others talking about the stiffness of the buttons, but I really have not found that to be a problem and I rather have solid build quality then wondering when those buttons are going to snap off.  The mousepad itself is why I am clapping.  It is very responsive and silky smooth to the touch.  It is impossible to explain it until you try it for yourself.  It's the first time I ever felt anything this good, and I thought my Asus netbook was the best, but man was I wrong :).  The speakers are actually pretty darn good. I never expect much out of speakers, and when you are as spoiled as I am having Acer 5.1 speaker/subwoofer surround sound in the 18.4" laptop, nothing can ever top it.  The Acer has a 17.3" model that apparently has the same speakers...try them...you will never want to go back to another manufacturer again (if high quality speakers are a must for you)!  The quality of this Asus UL50VT is just so darn solid.  I pick up a Toshiba or a Dell and I feel like I have to gently touch it or it will snap in half, but this guy is solid at every corner.  The exterior styling is so classy and elegant that my friends and random strangers I run into ask me if this unit cost $1600.  Yes, I know I have only had it for a day, but I go to coffee shops daily and I am in med school so I do interact with many people and I already got 5 comments on this computer asking me what it is and where I got it.  Another thing that even worried me was how the weight would feel and how big it was because in the store, the battery wasn't on it so I couldn't truly feel the weight, and it was in some medal encasing so it was hard to see the thickness.  Simply put, this laptop DOES NOT feel like 5.5 lbs...I would say at max it feel likes 3.8 lbs.  The weight distribution must be so evenly distributed that you mind thinks it's lighter than it really is because the battery believe it or not is actually not that heavy.  I was surprised myself.  Plus, the unit is so slim and sleek that you can put it anywhere.In summary...I really am in love with this laptop, and it is very rare for me to actually get excited about a product because I always find flaws.  I am averaging about 6 hrs and 42 min of battery because I have WiFi on, but I can push about 9hr 45min...maybe 10hr with WiFi off, but to achieve the 12 hrs you need to turn their Turbo 33 feature off, but I really don't care.  10 Hrs is fine for me at the moment and I rather have the faster boot ups.  Also the graphics card apparently is working very well.  I honestly have not even pushed it close to what it is capable of yet, but even with the dedicated graphics card turned off (Fn + Space Bar to switch between the 4 profiles), I have found this thing to be very speedy.  What I mean is that, I just returned an HP TM2 Table Pc the other day because it didn't work too well, and even THAT computer (with very similar specs minus the dedicated graphics card) wasn't as zippy and fast as this asus is.  I am telling you that the difference was VERY noticable.Overall...amazing machinery and Asus has convinced me that for years to come, they will always be my laptop manufacturer and that is final!  Only exception is for BIG laptops I will go with Acer for the amazing surround sound, but if Asus does something like that...then back to Asus I will go.  I have tried every single manufacturer out there and I have been so POed for years with the terrible quality of each one, but now I am happy to report that my problems have finally washed away.  Thank You Asus for another amazing product.[...].....you can E-mail me with any questions and I will try to respond when I have time.  I put the e-mail there because I am showing that this is an honest review and I feel that a product like this deserves this kind of credit.  You will NOT find anything even close to this if you are looking for an all-in-one quality package. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Reason Why I Always Recommend Asus Now </p>
+
+
+<h2> review.date </h2>
+  02-11-2010  
+<h2> review.text </h2>
+
+ <p> thanks to other people's review, I returned the sony viao, and got this,  this computer is gorgeous and has >7 hours battery life doing multitasking.switchable graphic is great, sometimes a little tricky.  basically use Fn-space bar will do.  but sometimes you have to close a few programs before switching, which is no big deal!the hardware compared to others are top rate.  the only thing lacking is bluray, but i don't need it at this time. dvd can deliver great quality, plus bluray dvd is very expensive at this time with marginal benefits.BUY THIS COMPUTER YOU WON'T REGRET, THE SONY I RETURNED BATTERY LIFE LASTED 1.5 HOURS RUNNING THE SAME PROGRAMS.what's next?  I am going to wait for ASUS pad / slate!*** UPDATEafter 1 year of owning it , this thing is still amazing.  multitask king.  this is the best laptop ever!!!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> look NO further, this is the BEST! </p>
+
+
+<h2> review.date </h2>
+  05-15-2010  
+<h2> review.text </h2>
+
+ <p> This is written after using the laptop for about five weeks.  Overall, I am very pleased with this machine.  No buyers remorse yet :-).Pros:>  The laptop looks very nice with the brushed aluminum case, but the shiny surfaces inside, as others have pointed out are fingerprint magnets.  A quick swipe from time to time minimizes this problem for me.>  Stays cool in use (it doesn't get as hot as my previous HP laptop)>  Build quality seems very good.>  Screen is very sharp and bright - 1366 x 768 is perfectly adequate for my purposes as I won't be using the machine for graphics editing.>  The installed  Windows 7 boots up fast and seems very stable (more usable than Vista was on my desktop, which I upgraded to XP).>  Plenty of fast RAM (4GB DDR3) and a more than adequate HD (500GB).>  Battery life is excellent (major reason I selected this model); I'm getting at least 8+ hours battery life with heavy use.>  The video and cpu performance mode switches are "seamless" (the screen blanks for up to 1-2 seconds).>  Installation of Xubuntu went without a hitch and all hardware including the wireless adapter was automagically detected.  So I have a nice dual boot laptop (but see cons, below).Cons (not enough to knock off a star):>  Screen viewing angle is fairly small (not sure if this is really a big con unless you want to show a crowd of people something on the screen)>  The machine comes with a fair amount of pre-installed software to get rid of.  YMMV.>  I found Windows 7 UAC annoying enough that I turned it off.  No problems so far, but I'm fairly paranoid about securing my system.  Another YMMV.>  I find that Windows 7 hangs randomly on shutdown - I haven't had time to look into this yet, though.  There may be a Microsoft fix available.>  Another Windows 7 problem - I have an old program which wouldn't run even in compatibility mode (although it ran fine on an XP laptop).  I solved this by installing VirtualBox and building a Windows 2000 virtual machine, which runs the program perfectly.  This might be something to try if compatibility mode doesn't work for you and you have an old Windows disk lying around.>  Installing Ubuntu's Nvidia proprietary 3D Linux driver bricks the machine - well, not exactly bricks as the machine can be resuscitated, but an MBR repair and complete Linux reinstall was necessary (this happened twice as I thought that perhaps I'd done something wrong the first time).  Don't know why this should be as I never had trouble with NVidia's drivers on my Debian desktop.  Of course this won't happen to you if you don't install Linux ;-).Another point to note - ASUS partitions the HD with three partitions: a recovery partition, a "C" disk with the OS installed, and a "D" disk for data.  This may not be what you're used to, but it can easily be changed using Windows 7 disk management tools.  I repartitioned the disk anyway to install Linux.Overall I think the ASUS UL50Vt-A1 is excellent value for the $$.  Probably not good for heavy gaming, but plenty snappy in ordinary use.  I haven't had the same problems that others have had with the mouse pad, but it does take a little getting used to.  I haven't used the webcam much yet, except to see that it works.  I plan to use it for video chat and I think it will be OK for that.  I've connected the HDMI port to my HDTV, and the video is fine but I have to figure out how to get the audio through that cable too.  I also find that I don't use the ExpressGate feature, preferring to just boot the machine into an OS.  Perhaps I'll give it a try later. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good laptop with excellent battery life </p>
+
+
+<h2> review.date </h2>
+  11-28-2009  
+<h2> review.text </h2>
+
+ <p> I watch the tech market fairly closely. My wife has the 13" Macbook (newer LED aluminium one) and really I love it...the "two finger scrolling" is wonderful, but I need a PC for work.So, here's what I wanted in a new laptop (not in specific order):1. 2 finger scrolling or at least dedicated scrolling areas (yes, 1 finger dedicated areas on laptops are nice, but still not quite as nice as 2 finger...plus, w/ the multi-touch pads, you get "right-click" w/ 2 fingers)2. LONG battery life. And no, I don't mean "3 hours" long...I want 10 hours! (remember, each year a laptop battery will lose 1/3 of its performance, so a new 3 hour battery will only last 2 hours after a year!)3. Performance4. LED screen (goes w/ battery life), 15".5. Quality/Build/WarrantyAs odd as it seems, there aren't a "lot" of LED screens out there yet, I was looking at a Lenovo, but only the T400s seemed like what I was looking for, and at the cost and only 14", wasn't a good fit. Dell's have gone LED's on most all models, but not great review's on build quality depending on the model series...plus, compare the price of a similarly equipped Dell to this UL50VT...you'll be spending almost 2x as much.This UL50VT is a PRO for:1. Switchable graphics (switch from onboard graphics for long batter life...or when plugged in, switch to the 512mb Nvidia card for performance). Really, the best of BOTH worlds. Want awesome performance when sitting at a desk...but also want long battery life when on the go? Who else can provide this? The dedicated Nvidia obviously helps system performance, allowing graphics to run on the video card, freeing up system RAM etc for other things...or switch to battery mode/onboard graphics and live long & prosper.2. 8-cell battery quotes 10-12 hours of battery life. I have only had this for 1 week, and still tinkering around with the settings, so haven't confirmed this, but 5-6 hours I've had easy, which is definitely more than you'll get with any other laptop regardless. The "ultra low volt" Intel processor draws less than 10 volts of juice. Its a 1.3ghz Core 2 Duo, but Asus overclocks it by DEFAULT and it arrives to you out of the box running at 1.7ghz. This is key...when you are looking at laptops, you have to remember that the "quad-core" and P9600 Core 2's are high-voltage drains...so you really have to decide "what do I want this laptop for?" If you are very rarely going to be without a power plug, then sure, get some other Asus model with a faster processor & full-time dedicated graphics. For me though, I like to grab the laptop and sit on the couch & not have to move the power cord over to the couch as well...plus I travel quite a bit for business...seriously, after a year or two any standard laptop with 2-3 hours of battery life "new" will only be good for an hour or so before turning off. With this Asus, with the extended 8 cell battery stock, the "ultra low"-volt 1.3ghz overclocked to 1.7ghz, plus the onboard video, you can actually grab this notebook and run to the coffee shop or couch for HOURS without having to worry about the power cord...and isn't that really what a laptop is for? Google "Asus Ul50VT" for other reviews on the processor etc, there are more informative articles if you want more details. The Macbook uses the UL voltage Intel processors as well, albeit a slightly faster one (1.9ghz?). Low volt processor, LED screen are two key ingredients to battery life. If you want a P9600 or quad-core or 3.2ghz processor, don't travel too far w/o your cord:) the 1.7ghz is much faster than my old Toshiba, plus w/ Windows 7 it really is awesome and more than capable of handling the vast majority of any consumer's needs.3. LED screen looks great...I am apparently not that savvy of a screen consumer as others, so I can't complain about the screen, looks much better than my old LCD Toshiba screen, not that different than the Mac.4. Windows 7 is AWESOME!!!!! I've long been an apologist for Windows, especially having used the Macbook for awhile, but need not apologize any longer! W7 64bit w/ the 1.7ghz and 4gb DDR3 is simply amazing, by FAR the best Windows product I've ever used...and as other reviews will confirm, this OS is nearly on par w/ Mac. I can LITERALLY go TO sleep, and back FROM sleep to an ACTIVE Outlook or Firefox, in LESS than 5 seconds with this Asus. Remember in the past, you might have wanted to look up something on the computer, but would opt not to, b/c it would take 3-5 minutes for your system to load into a use-able state? Not anymore, W7 is efficient & fast, if you switch the power settings to "sleep" instead of hibernate, it literally turns on & is ready to use in mere seconds, same as Mac's. (plus, drag a window to the left of the screen, it auto-sizes it to the left-half of the screen, drag another window to the right edge of the screen, voila! W7 auto-resizes both windows to share the screen 50/50.)5. Build & quality: Ask tech's at your local retailer or online retailer, which brand they see back the least for repairs, and you'll hear "Asus" more often than not. Unlike other brands that farm out all the hardware to companies around the world, Asus makes most of the components themselves. Who invented the Netbook? Asus. What brand of motherboard is in many laptops? Asus. Many techies swear by Asus, regardless of the poor review NBR gave the UL80VT.6. Warranty. Asus is the *ONLY* brand to offer the following standard warranty: 2 year global parts/labor & shipping, PLUS 1 year accidental warranty. Go through the checkout process on any other brand online, and you'll add on $100-200 to your laptop cost to have a similar warranty. Figure that for $800 you are getting 1 year accidental and 2 years parts/labor/shipping, plus Asus' reputation for build, and its close to a no-brainer.CONS for the UL50VT:1. NOTE! The UL50VT and the UL50AG ARE NOT THE SAME! This is probably my main pet peeve with the "VT"...when I tried out a UL50AG at Best Buy for $675, I was in love with it! Why? B/c the surface around the keyboard/touch pad is a matte rubber...no finger prints! So I ordered the "VT" for $100 ore and am disappointed...Asus, along w/ Dell, HP, Toshiba, etc figures that 99% of all laptop users must be in high school. I mean, high-school kids like shiny things right? Who doesn't like neat shiny surfaces!? Well Asus (& HP & Toshiba) here's an unknown fact for you...most people that actually "use" a laptop instead of polishing it & placing it on a mantle as a room decoration, *HATE* glossy/shiny surfaces...If the UL50VT came w/ the same matte rubber deck as the "AG" this would be a 5 star notebook, but it is a serious flaw IMO.2. The mouse left/right buttons are a sure bet to develop repetitive stress injury (RSI). Unlike most right/left buttons, which have two different buttons/pads...this has "one" long button, that has a pivot point in the middle of the button. As such, the button is near impossible to use without pressing on the far edge of either side of the button, and your fingers/thumb will certainly get tired copy & pasting, dragging & scrolling as it requires considerable force to hold the button down.3. 2 plastic stickers over the screw on the bottom of the screen panel look like they'll come off soon. The DVD tray seems to vibrate against the chassis when in use (loud noise)...I use a CD/DVD like 3 times a year, so this isn't an issue for me, and I'm not sure if this is an issue for all units or just mine.Solutions:1. If you can find a skin to put around the keyboard/touchpad, that'll fix the finger-print issue. [...] has one, but they won't sell you the skin unless you buy the Asus from them:( Skinit.com really only sells the "A" surface skin (the back lid)...I might have to buy a generic skin and try & cut it out to fit around the keys/pad, or carry around a lens cleaning cloth!2. Luckily, the Asus comes with the Elan mouse driver...which supports the multi-touch/multi-touchpad. Asus really just needs to realize PC's are trying to catch up with Macbook's here and not try to re-invent the wheel. The default settings it comes with must be changed for best results. Change the "right-click" to be actioned by "two-finger" tap, instead of three-finger tap by default. Now, you can scroll up & down (& left/right) with two fingers anywhere on the touchpad (not just the right edge as w/ one-finger scrolling). You can left click with one finger tap. You can now right-click with two-finger tap...just like the Macbook glass touchpad. You double tap with one finger then scroll left/right to highlight text, then tap the highlighted selection w/ two fingers to bring up the right-click menu (copy/paste/etc). Once you get used to using the touchpad like a Mac, w/o the left/right button, you'll forget how bad the right/left buttons are (plus its more efficient in the long-run to just use the touchpad I think...two finger scrolling will make you wonder why you wasted years and caused carpel-tunnel on a PC...too bad they wasted space w/ the RSI causing buttons instead of a bigger touchpad).Summary: If only the UL50VT came in the same material the UL50AG came in and with a right/left mouse button that didn't cause RSI (repetitive stress syndrome), it would be 5 out of 5 stars; a true Macbook killer for 1/2 the cost!!! Long battery life, LED screen, Full size-keyboard (Number Pad), Chicklet keys to keep out dust, ultra-low voltage processor, reliable quality, awesome standard warranty, switchable graphics and DDR3 memory on a 64bit W7 OS. For $823 you can get the UL50VT, or for $100 less (don't forget taxes if buying locally), you can get the UL50AG. Honestly, if you are on a budget, I think the "AG" is a steal of a deal and saves you the glossy/fingerprints. For $100 more w/ the VT, I'll take the upgrade to DDR3 instead of DDR2 memory with the AG, plus switchable graphics (read: increased performance while plugged in). For $800 I'm not worried about extended warranties, although if I were paying $1500 with a Dell or Macbook I would be forced to buy one. In terms of performance/cost/features/value/battery life, the "VT" is almost a true home run. With the glossy cover, and poor right/left buttons, I'll still give it a standing "triple" base hit instead of home-run; for the cost its tough to go wrong with this Asus:) You could certainly spend a lot more and get a lot less. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Almost" a Macbook killer...but for 1/2 the price, I'll take it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

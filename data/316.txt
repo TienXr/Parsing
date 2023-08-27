@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1568814119 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-04-2010  
+<h2> review.text </h2>
+
+ <p> I was a high level executive in the gaming industry for over a decade and thus have read my fair share of video game history books, this one was incredible. A literal blow by blow of this history of the CRPG genre. I cannot recommend this book enough .......a simple must read if you have any interest in the history of video games. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing book as good as it gets! </p>
+
+
+<h2> review.date </h2>
+  08-14-2010  
+<h2> review.text </h2>
+
+ <p> This book is so thorough and detailed regarding the major computer role-playing games that have enabled users to burn billions of hours of computer time that at times the reading of it is tedious. However, that is not a criticism, as it is meant to be encyclopedic in nature and textual descriptions of games that you are unfamiliar with are hard to make exciting. Screen shots of instances in the flow of a game can in no way express the energy and excitement that it can generate in a player.Nevertheless, as I read through this book my energy and excitement rose when I began reading about a game that I was familiar with. Fond memories of the challenges that I faced and the frustrations that I overcame as I was fixated on the keyboard trying to discern what my next move should be came flooding back.As a reference book on the history of computer games, this book has no equal. It is not easy or simple reading and the fundamental limitations of the surface of paper dictate that many features must remain undemonstrated. Yet, despite these limitations this book makes you want to go back and find cheap or freeware versions of the "golden-oldies" and play them once again. The urge is something like what an athlete experiences but in this case it is a fantasy that you can actually relive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A definitive set of descriptions of the best computer games ever (re)played </p>
+
+
+<h2> review.date </h2>
+  07-18-2008  
+<h2> review.text </h2>
+
+ <p> I would hesitate to call this book a history of CRPGs - a chronology would be more appropriate.  Barton is comprehensive - every major CRPG from the inception of the computer is covered, but as another reviewer pointed out it is more of a collection of review summaries - I would liken it to Maltin's capsule reviews of films.The organization into the different ages is intriguing, and aside from the nostalgic look at games I had forgotten about, it the best part of the book.  The author does not do enough to flesh out the trends, technologies, people and other aspects that may have gone in to the different ages.  They are all covered piecemeal with the review capsules, and this hurts the coherence.The jumping from capsule review summaries to personal opinion is a bit awkward as well.  I would have liked to have read more of the author's opinions - they were the on the whole more interesting than the reviews themselves.The decision to include a bit on console RPGs without deviating from the spirit of the book was a good one.All that said, for those of us who lived through the entire period and remember seeking out judgment day, getting eaten by a grue, or fighting vorpal bunnies it is a trip down memory lane and a nice reference volume, just not the most coherent read-through. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Leonard Maltin for CRPGs </p>
+
+
+<h2> review.date </h2>
+  12-17-2012  
+<h2> review.text </h2>
+
+ <p> Hard to add to what others have said ... Great book... I just want to say this is the first Kindle book I ever bought (before I even had a Kindle, I read it on my PC), I'd wanted the book badly but the dead tree version price was a little steep.it's just a great overview of CRPGs, their evolution and history. The wealth of detail is what makes the book fascinating. It's a pioneering effort and a great history and catalog of CRPG classics. If you love computer RPGs, you just can't miss it, period. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great read for CRPG fans </p>
+
+
+<h2> review.date </h2>
+  01-06-2013  
+<h2> review.text </h2>
+
+ <p> Strongly not recommended, this is not a history at all; instead it's simply a tedious series of summaries of role-playing games from the players' point of view compiled without insight and badly written. I finished it without once thinking "Hmm. I wonder what it would be like to play that game."The author alludes to topics (e.g., the applicability of things learned playing role-playing games to other parts of one's life) in the introduction that are never touched upon in the book, and those things, alas, are those that would have made the book interesting. It's kind of surprising that so little evidence of thought could have made it into a book that seems so very long. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> About 72 times too expensive </p>
+
+
+<h2> review.date </h2>
+  01-07-2010  
+<h2> review.text </h2>
+
+ <p> While the subtitle of this book reflects on history of computer role playing games, the book read more closer to how computer role playing games evolved from its simplistic concept like Ultima I to what it is now, World of Warcraft and Oblivion. Having played nearly 70% of the games in this book, I can say that the author pretty much hit the target on all of them. He apparently didn't played Darklands too much since after the patch from Microprose was injected, this game proves to be a total winner. I also didn't share the author's vast approval of the first SSI's Pool of Radiance which I thought to be chunky, buggy and clumsy in user interface. The games that followed proves to be quite excellent but the first one, I never replayed again. But outside of that, there is little I can complaint about the book or the author's point of views on many of these games. After reading this book, most readers will be amazed how computer role playing games have evolved but interestingly, the genre evolved along with the technology that made it possible.One thing the author should have pointed out was the importance of clue books in many of these vast and complex role playing games. Having one or not having one depends on the players but this elements can increase the enjoyment of the game or to some, destroy it.But overall, a pretty good book that trace the evolution of computer role playing games from the very beginning to the current period. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How far have we gone?? </p>
+
+
+<h2> review.date </h2>
+  05-18-2008  
+<h2> review.text </h2>
+
+ <p> "Dungeons and Desktops" is a very comprehensive review of the history of computerized role-playing computer games.  It's as if Matt Barton had built a museum for these games and is giving you a personal tour of each and every game, from the earliest text-based games to the latest massive-multi-user graphical adventures.  It's amazing how many games he covers (one wonders how he found the time to write the book if he actually played each game - as it appears).  At points, his attention to detail may seem a bit wearing but that's only because I'm not as much of a fanatic as Barton is.Readers should be warned that this is not a casual book - it's a very serious treatment of the genre and would make an excellent addition to any game-developer's curriculum, especially those interested in creating high fantasy and role playing games.  Also, Barton writes very well, as his language is neither pretentious nor dim-witted.  He clearly loves his subject and does an excellent job of sharing his enthusiasm and insights with his readers.  A real pleasure to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Night (or Two) At The Museum ... </p>
+
+
+<h2> review.date </h2>
+  01-14-2010  
+<h2> review.text </h2>
+
+ <p> In research for my upcoming book, Paper & Pixels, I came across a series of articles on Gamasutra about the history of computer role-playing games (CRPGs).  It was the most exhaustive approach on the Internet that I'd ever seen and was valuable in framing my chapter on CRPGs. When I came across Dungeons & Desktops, I noticed some similarities and sure enough, Matt Barton wrote both.Barton's level of detail to his subject is staggering. Although other authors have touched on the development of computer role-playing games, none are as exhaustive.  Grouping them by common developer and arranging them chronologically into "Ages" (i.e., Dark Age, Bronze Age, etc.), Barton takes us through a trip down memory lane.  Thanks to his careful outline of those that went before, I was overcome by a wave of nostalgia about games I'd long since forgotten.  In fact, thanks to the author, I installed an updated version of Wizard's Castle on my laptop and battle with it once a day - I still can't beat the darn thing.  Curse you Barton!The book is not without its flaws.  There doesn't seem to be any mention of Dragonstomper, one of the earliest graphical CRPGs for the Atari 2600. There are references to different editions of Advanced Dungeons & Dragons as if there were a third edition - a nitpicky distinction I know, but gaming geeks like me care about the distinction between AD&D; and 3E. And finally, Gelatinous Cubes originated in Dungeons & Dragons, not Ultima.Those minor quibbles aside, this book is a massive undertaking, and Barton tackles the twisty history of gaming with aplomb.  In a hectic world of exponentially paced game development, Barton's addition to gaming lore is a sorely needed resource for game scholars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A foundational work for game scholars </p>
+
+
+<h2> review.date </h2>
+  04-04-2008  
+<h2> review.text </h2>
+
+ <p> Dungeons & Desktops: The History of Computer Role-Playing games is an incredible tour-de-force of a recreational industry. Chapters cover early tabletop wargames such as "Chainmail" and its precursors, to the pencil-and-paper Dungeons and Dragons game, to the very first computer role-playing games programmed into university mainframe computers (and often deleted by administrators, making many of the first RPGs forever lost to history!). The saga continues with early classics like Wizardry, The Bard's Tale, Ultima, and Pool of Radiance; the rise of casual-friendly action RPGs like Diablo; and the success of massively multiplayer online roleplaying games (MMORPGs) such as the wildly popular World of Warcraft. Console RPGs are also mentioned briefly, most notably trailblazer console RPGs such as Final Fantasy and Dragon Quest. What sets Dungeons & Desktops apart is its in-depth discussion of literally dozens of early CRPGs, many more that even the most avid gamer has likely ever heard of. From two paragraphs to several pages are devoted to each CRPG title, giving a crystal clear picture of what playing the game was like (including its highlights, flaws, and bugs), its commercial success (or failure), and sometimes notes as to what its development team may be doing today. Black-and-white computer screenshots and a handful of color plates illustrate this "must-have" history and resource for CRPG aficionados everywhere. "My advice to anyone who really wants to learn the history of CRPGs is to start with the newer classics and gradually work backwards. It's still relatively easy, for instance, to find copies of Baldur's Gate or [Might & Magic VI: The] Mandate of Heaven and get them running on a modern PC... I would recommend skipping the early Windows 95 or Windows 3.1 games though - these can be excruciatingly difficult to get running even for emulation experts. If you a little further back, though, to the DOS era, things get much easier thanks to DOSBox." Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An incredible tour-de-force of a recreational industry. </p>
+
+
+<h2> review.date </h2>
+  08-10-2008  
+<h2> review.text </h2>
+
+ <p> Dungeons & Desktops is a very rich and detailed look at the history of computer role-playing games. Matt Barton takes us on an extensive journey, beginning with the genre's roots in tabletop games, to its early years on mainframes and BBSs. We're then given a tour of some of the most beloved CRPGs of all time, such as Richard Garriott's Ultima series (a personal favorite) and The Bard's Tale. Barton even explores Japanese console RPGs, as their explosive popularity with gamers in the 90s has had an acute effect on modern CRPGs. The book concludes with the future of CRPGs in the form of persistent massively multiplayers, such as World of Warcraft.What makes D&D; (hah!) a treasure is that Barton doesn't just pay attention to the hits and genre influencers, but also the misses, such as Pool of Radiance: Ruins of Myth Drannor (which Barton calls the worst CRPG ever) and games which never got their due, such as the great Planescape: Torment. The MMORPG section could have used some better fact checking (e.g. EverQuest's realm is called Norrath, not Narrath, and Asheron's Call 2 was shut down years ago), but otherwise the book is quite spot on.Fans of gaming history will really appreciate this book and may rediscover some long-forgotten classics. I know I have. If you'll excuse me, I need to go play some Universe. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful look at some classic CRPGs, and then some </p>
+
+
+<h2> review.date </h2>
+  04-10-2008  
+<h2> review.text </h2>
+
+ <p> The title tells it all: an ehaustive history of role playing computer games.  Though I didn;t stop to check them, there are many URLs for more interesting history </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For computer/player game savvy </p>
+
+
+<h2> review.date </h2>
+  03-30-2008  
+<h2> review.text </h2>
+
+ <p> Reading this history of computer role playing games is a pleasant dive into the deep end of gaming history.  I was so hopeful for this book that I pre-ordered a copy for myself and my son who lives in Europe.  The book didn't disappoint me.The book brought back loving memories of my sons and their mom tag teaming the games on game consoles and fighting me for time on the computer.The author does an excellent job in presenting the history of the CRPG.  He starts with the introduction of the lineage to D&D;, Traveller, and other games and proceeds to discuss the wealth of games in ages relating to computer development (sound cards, graphic cards and most importantly memory).  He briefly discusses the various game features and the gradual development of some of the game play features.  Games are discussed and the author rates the games based on personal and other professionally written criticisms.  Interwoven among the description of games, the rise and fall of many gaming companies is discussed based on good and extremely poor product decisions.This is a good read and should be read like a dessert if the few errors in grammar and language usage don't distract you (professional proofreading must be a lost art form).  It will refresh your memory regarding the games of the past and introduce you to some games you may have missed.  If you are addicted enough, the author does provide some information on how to continue to play some of these games today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nerd Game Nostalgia </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BMEINIE <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-15-2013  
+<h2> review.text </h2>
+
+ <p> This was a good book but it had lots of mistakes. Also the book just ended no conclusion or sequel to look for. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shattered </p>
+
+
+<h2> review.date </h2>
+  05-19-2013  
+<h2> review.text </h2>
+
+ <p> I have no idea what the author was think to end a book like that, but the story on a hole was good if she only put a better end together unless she is planning a second follow on book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The worest ending ever </p>
+
+
+<h2> review.date </h2>
+  06-19-2013  
+<h2> review.text </h2>
+
+ <p> The story starts of ll but it is very hard to get into the swing of things when constant spelling and grammatical errors alter the intended meanings in pivotal sentences. Scenes are generally constructed well but the characters seem to be just because rather than holding major parts and are almost crowding the main storyline. The two main characters are not overly well thought out and Ryan is continuously sooky. I was disappointed with the ending </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ho-Hum </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> Just finished it and I am so disappointed. I bought it hoping for a short sweet romance and I got that somewhere in the middle of the book. Both Ryan and Caleb are well written characters but this book doesn't do it for me. This book had potential for more, good plot and good characters but just fell short. The ending is just unbelievably frustrating. I'm glad this book was free because I would not pay for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Seriously ? </p>
+
+
+<h2> review.date </h2>
+  03-02-2013  
+<h2> review.text </h2>
+
+ <p> This was a really FRUSTRATING story.The characters are interesting and I could relate to them and there was a certain amount of believability to them.The romance progressed well between Caleb and Ryan.  I did like how Jason (Ryan's ex) tried to insinuate back in her life.Spelling and grammatical errors galore, but it didn't detract too much from the story.SPOILERWhere the wheels fell off the wagon for me was when a situation that Ryan was confronted with.  Caleb was talking to another woman at the gym they both go to, instead of Ryan getting the full story from Caleb, she makes this big kiss off speech and leaves!  The story goes on a tiny bit more THEN ENDS ABRUPTLY!No mention of a sequel.  I was enjoying it up to that point and was wanting to know how the author was going to wrap things up, only to realise that I was NEVER GOING TO KNOW!  What a coward S L!If that kind of ending appeals to you, by all means buy the book.  If it doesn't and you are left screaming at your husband saying, 'I can't believe it!  What happens!!!???' Then skip the misery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What The? </p>
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> I loved the book, even though there were LOTS of errors.  I hate that it just drops off and cannot wait for the next book.  I certainly hope it comes out soon.  I can completely relate to Ryan's character and want to know what happens next! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oh no!!!!! </p>
+
+
+<h2> review.date </h2>
+  03-05-2013  
+<h2> review.text </h2>
+
+ <p> This started off as a great book, It keep me very interested ,but just as the story was getting better it ended with the worst ending I have ever read. I wouldn't even call that a ending, I'm very disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed!!! </p>
+
+
+<h2> review.date </h2>
+  04-02-2013  
+<h2> review.text </h2>
+
+ <p> It was super amazing. I think it may be the best book I've ever read. There were a lot of typos though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shattered </p>
+
+
+<h2> review.date </h2>
+  03-11-2013  
+<h2> review.text </h2>
+
+ <p> The ending just totally sucked for me and I needed to have a longer book sorry but I just couldn't not say that. I wish I could give more stars but the ending killed anything else I might have been feeling towards the book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The ending is annoying </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> THis book did not live up to the reviews I saw.  It was so much less than I thought.  Wouldn't spend my money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not impressed </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00B6OEBO0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-25-2013  
+<h2> review.text </h2>
+
+ <p> These days, it's a rare Hollywood product that can hold me for more than 30 minutes. This dark comedy got the job done. Very entertaining, even if you know beforehand how everything is going to go so wrong for the young doctor sadsack male lead. The message is that cheating is bad, but sometimes you can get away with it. I didn't believe the ending, and you won't either. But meanwhile, this is worth watching. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Held my attention </p>
+
+
+<h2> review.date </h2>
+  05-12-2013  
+<h2> review.text </h2>
+
+ <p> "The Deails" brought to mind Woody Allen's masterpiece "Crimes and Misdemeanors" where reasonably good people do unspeakable things and reasonably good people have horrific things happen to them.  This film isn't quite in that category.  I don't know whether to characterize it as a dark comedy with serious overtones or vice versa.  Regardless, it just doesn't have the bite of Allen's film.  Where does the fault lie?  The supporting players are uniformly good with a special shoutout for Laura Linney as the ditzy neighbor.  I think it comes down to the central performance of Tobey Maguire as the nice guy next door who through circumstance is forced to make immoral choices.  The role does require that his character be affable but Maguire doesn't seem to have the range where you could believe him capable of the unthinkable.  An interesting and moderately thought provoking film that falls oh so short. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Your Typical Mother's Day Fare </p>
+
+
+<h2> review.date </h2>
+  08-03-2013  
+<h2> review.text </h2>
+
+ <p> Very Dark comedy.  I agree with the person who said it is so dark it's almost not comedic, and yet it still is. Very American Beauty (the leads phone had its theme as his ring tone) but wickedly entertaining.  Banks has a great scene at the end which made me appreciate her more than I ever had before and Linney just steals the film with her crazy, horny cat lady routine.  McGuire is good, but I would have liked it better with somebody else. Either way it still works and is delightfully bleak about the way people and life really are a lot of the time. Special plug for Haysbert who is excellent as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun, Twisted Story </p>
+
+
+<h2> review.date </h2>
+  02-28-2014  
+<h2> review.text </h2>
+
+ <p> I Love it with the actor Tobey Maguire always play in movies like the spider man and Kerry Washingtion I always like to she her work </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Details </p>
+
+
+<h2> review.date </h2>
+  07-02-2013  
+<h2> review.text </h2>
+
+ <p> I am lazy and disabled and I watch a lot of movies. I have gone a little crazy with buying movies instead of renting so I don't have to drive and they are delivered to me. BUT and this is a big but. Don't be an idiot and buy this movie, rent it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rent it </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> Note: May contain spoilers. Proceed with caution.As I sat reflecting on the events in The Details, I couldn't help but ask, "What the f*** did I just watch?" Normally I wouldn't slap you with a profanity in the first sentence of a review, but anyone who's seen this movie understands that this reaction is more than appropriate. The Details is one of those movies that slipped under the radar for me, as I'm sure it did for many others, and the only reason I watched it was because I caught a glimpse of the box at the video store. Tobey Maguire. Ray Liotta. Elizabeth Banks. Ok, you have my attention. However, while I went in expecting a fun, quirky little movie, The Details is anything but.To say that Jeff Lang (Maguire) has a crazy life would be a bit of an understatement. Jeff's a surgeon living in your everyday suburbia with his wife Nealy (Banks) and son. Because they live a financially comfortable life, the Langs are looking to do some renovations. With a second child on the way, Jeff and Nealy think it would be a good idea to add on to the house. Not only that, but Jeff also wants to fix up the backyard with some new grass. As if their relationship wasn't rocky enough, the difficulties that arise while doing this housework are about to make everything a whole lot worse. From crazy raccoons to their sociopathic neighbor, Lila (Laura Linney), things are about to get very difficult for this family of three.The thing that surprised me most about The Details was how incredibly dark it was. Not in the tone that flows throughout the film's 91 minutes, that's surprisingly whimsical, but in the topics it chooses to discuss during this time. You see, Jeff is an undiagnosed sex addict and this is largely the biggest problem with his marriage. There's little-to-no intercourse between him and Nealy which winds up landing him in some hot water later on. Not only that, but he's extremely selfish for a large portion of the movie and he's also manipulative. Then there's the aforementioned Lila and his struggling friend Lincoln (Dennis Haysbert) -- he's stuck at a low paying job and he needs a kidney transplant. The cherry on top? Infidelity. It seemed as if every fifteen minutes someone was having sex with someone else who wasn't their spouse. Knowing all this, and seeing it written out, it's weird that The Details manages to keep a lighthearted tone throughout majority of its running time.This pessimistic representation of humanity isn't what killed it for me, though. My biggest issue with The Details is that, apart from hitting you with one bad character trait after the next, it's not all that interesting to watch. It's very possible that the dull nature of the film is a product of all the negativity, but even without the dread that follows you through Jeff's story I still can't see the tale being terribly interesting. Jeff's antics with the racoons became old after the second encounter and Nealy never felt like she was important to the story being told. In fact, the only time she did feel important was when she laid on another layer of awfulness toward the end. Unfortunately, the worst thing about The Details is not it's dark or repetitive nature, but the predictability that plagues the final 30 minutes or so. Once you gain an understanding of the characters it becomes very easy to predict what's going to happen and a good 90% of my predictions were right.With that said, not everything about The Details is full of doom and gloom. There are brief glimpses of humanity -- from Jeff, surprisingly, and a few other characters as well -- that help make those dark times worth it. For example, Lincoln is generally a wonderful person who chooses not to complain no matter how dire his circumstance is. He's accepting the hand he was dealt and that kind of attitude is extremely commendable, and welcome, in a movie like this. Also, Peter Mazzoni (Ray Liotta), Jeff's friend, is another character who feels purer than the rest. He may come from a family full of Italian mobsters, but he chooses not to let that identify who he is and he just wants a normal life with a woman who both loves and respects him. He wound up being my favorite character even though he was only in the movie for, like, eight minutes.Finally, the performances, for the most part, were solid across the board. You may not like these characters, and you may want to throw them off of a bridge, but it would be hard to deny that everyone involved played their roles well. Maguire, in particular, really got into character and I'm surprised at how fitting he felt given how different Jeff is from his past roles. Dennis Haysbert was another standout for me. Part of it was probably how humane Lincoln felt compared to Jeff, but that's not to take away from Haysbert's performance. His ability to convey emotion across the entire spectrum was amazing and he always made you feel something for his character whether it was happiness, sadness, or pity.Overall Score: 5.75/10 - The problem with The Details is not in its story or its cast, but in the way it's presented. There's some good ideas scattered throughout the movie, but most of the time they come off as sloppy and predictable. Add that to the repetitive nature of the film and the fact that it's not all that fun to watch and you're given a movie that had promise, but failed in its execution. While I can't really recommend this movie to anyone, I wouldn't talk someone out of watching it either. With a movie like this it all comes down to your gut instinct. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 5.75/10 - Interesting story, not very entertaining, though </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> I was definitely "in on the joke" with this dark comedy. It's not a perfect film, but is certainly worth watching, - if only for Laura Linney's wonderful performance! I don't even like Laura Linney much, but I was impressed with her characterization as Tobey Maguire's loopy and kinda psycho neighbor. I had a hard time believing that Elizabeth Banks would ever marry Tobey Maguire, because he still looks like a 15-year-old boy to me, but that's okay. The movie still had some wet-your-pants funny marital moments between them, - especially the whole "So far, this has been the good news" conversation in the car! Dennis Haysbert's character was a nice departure from his usual smooth, leading-man roles. In fact, it took me a minute to realize that was him. Anyway, I do recommend this movie. (Don't watch it with kids in the room!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some snort-out-loud moments!! </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> Jeff Lang (Tobey Maguire) seems to have it all, a great career, beautiful family...and then it starts to fall apart: Raccoons tear up his new lawn. This drives him crazy and this is just the first of many bad things that happen, all leading up to cold-blooded murder.This is a dark comedy with many funny and silly moments and just as many bizarre and absurd ones. Maguire is good as the Everyman character, but I thought Elizabeth Banks was way too teenage-Barbie doll-ish to play his wife. Dennis Haysbert is Jeff's loyal best friend and Laura Linney steals the show as his pathetic, loony neighbor.There are lots of twists and turns and it was fun to watch until the end, which just stops, like the director ran out of time and told everyone to go home. The non-ending almost spoils a good movie and left me unsatisfied. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good premise, bad ending </p>
+
+
+<h2> review.date </h2>
+  04-28-2013  
+<h2> review.text </h2>
+
+ <p> This is a classic. It is a dark comedy which will have you laughing and at the same time saying WoW poor guy! On some level it reminds us of our own lives, even though the story itself is about his life and the endless " what next is going to happen to me?!" it is similar to our own lives, those times when life just seems to throw one thing after the next at us and we are thinking "how did I get in this situation?!" You can understand him, which pulls you into the movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrific Movie </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> THE DETAILS is a wickedly delicious dark comedy...a very dark comedy.Tobey Maguire plays a young married doctor whose life seems to be continually spiraling downward, primarily because he keeps making poor choices.  It's not that he's really a bad person; it's just that he seems to get himself trapped in desperate situations and, in order to save himself at the moment, he makes the wrong decision.I'm not sure if Tobey's problems started with the raccoons that were destroying his lawn or his deciding to renovate his house without getting a building permit.  Or, maybe it was the fact that he and his wife (Elizabeth Banks) had not had sex in many months.Would you believe that any one of those seemingly relatively minor events could result in murder?I don't want to be a spoiler, so I'm not going to detail the events that cause Tobey to sink further and further into his quagmire.  Watching him do so is half the painful fun of this likable offbeat movie, written and directed by Jacob Aaron Estes.THE DETAILS was filmed in Seattle and features a superb cast of supporting players that includes Dennis Haysbert, Ray Liotta and Kerry Washington.  Laura Linney, who plays Tobey's whacky and meddlesome neighbor, delivers the film's scene-stealing performance.The Blu-Ray disc from Anchor Bay Entertainment include a both an alternate beginning and ending, both of which were best left on the cutting room floor. Michael B. Druxman </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Very Dark Comedy </p>
+
+
+<h2> review.date </h2>
+  05-01-2013  
+<h2> review.text </h2>
+
+ <p> I don't like reading long reviews, so I'll be brief:1. If you like dark comedies, this is for you.  Just buy it right now.2. If you're still on the fence, I loved the ending.3. You still don't know if you want to get this?  Casting was superb.  I wasn't so sure about Tobey who is just so darn nice, but by the end of the movie, you'll agree that Tobey was ideal.4. Okay, this is not a terribly deep movie, but I enjoyed the full 101 minutes of it.  Isn't that the definition of a 5-star movie? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dark comedy ... but sooo good! </p>
+
+
+<h2> review.date </h2>
+  05-05-2013  
+<h2> review.text </h2>
+
+ <p> I love an oddball quirky indie, when it doesn't try too hard to be an oddball quirky indie. You can pretty much surmise the plot from reading the cover. Jeff (Tobey Maguire) has not been having sex with his wife (Elizabeth Banks). Romantic that he is, he asks her by spelling out the F-word. He confides his problem in a friend (Kerry Washington) listed as "the other fling" on the cover. They are caught by her husband (Ray Liotta) listed as "The Problem" who demands money. His rodent problem leads to other issues which include "The Fling" with the "wacked out" neighbor(Laura Linny). And since there is a guy called "The Fixer" (Dennis Haysbert) you can only guess correctly at this one.The film had a great plot and the acting was great except for the lead. It was clear the cast was acting rings around Toby Maguire who doesn't have the talent to be a leading man. Similarly this reminded me "Snow White and the Huntsman" where our leading lady stood out like a sore thumb. If you like dark comedies and can stomach another bad performance by Mcguire, go for it.Parental Guide: F-bomb, sex, brief shot of Elizabeth Banks butt. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SO FAR THIS HAS BEEN THE GOOD NEWS, </p>
+
+
+<h2> review.date </h2>
+  04-03-2013  
+<h2> review.text </h2>
+
+ <p> "In life when something disastrous happens you go back and replay everything to see where it went wrong." Jeff Lang (Maguire) has just found a family of raccoons ripping up his new sod in his back yard. He decides to place traps to kill them and take back his yard. This one little event leads to adultery, murder, transplants and everything in between. This movie is one of the most interesting, entertaining and fun movies that I have seen in awhile. I would call this a comedy but a definite dark comedy, so if you offend easy I would avoid this. The writing is so clever that the movie keeps you wanting to see what happens next and you are both horrified and smiling about it. I really can't say to much about this movie because I don't want to give anything away but each event triggers something worse. I really enjoyed this and I recommend this sleeper hit. Overall, one of the darkest and funniest comedies that I have seen in a while and a real under the radar movie that deserves to be seen. I give it a B+. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the most original and hilarious dark comedies that I have seen. Writing is great and really keeps you watching. I say B+ </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

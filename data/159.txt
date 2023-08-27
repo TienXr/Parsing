@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 630026906X <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-23-2006  
+<h2> review.text </h2>
+
+ <p> I was looking foward to the release of this dvd. The film captures the social feelings of the late 60s, and being that its a comedy, the eras feel is doubly felt by revealing the true, fun, seeming innocence of the generation. Outside of The Pink Panther this is Peter Sellers at his dry, but funny best. The pretty 60s girls are nice to look at in their mini skirts, and you can almost embrace why Harold wants to leave his "stuffy" lifestyle. Lee Taylor Young as the love interest is perfectly cast as her hippie magic comforts the viewer. What a time capsule! Some real funny moments, but also a few (by todays standards) dragging moments. A particularly fun watch if you were a teen of that time. Harolds recognition of the emptiness of the free love lifestlye is surprising, as well as his ambiguous return to it. The soundtrack reminds me of the 60s TV show "I Dream Of Jeannie" and helps you dive into the period. In some scenes the dvd shows that either the source material or pure age have comprimised the film quality, but overall its decent.  I enjoyed it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Groovy! </p>
+
+
+<h2> review.date </h2>
+  09-26-2000  
+<h2> review.text </h2>
+
+ <p> This is one far-out hippy romp that will drive you to  walk barefoot, wear flowers in your hair, and  contemplate life. Another dynamic performance by  Peter Sellers proves he really is outta sight. In this  one, he plays Harold Fine, a lawyer stuck in the rut  of everyday living, not to mention a nagging  girlfriend who forces him into a wedding proposal.  But all this changes the night Harry picks up his  brothers girl, a free spirited, free loving flower child  that's about to introduce him to a new world and a  new kind of brownie created by Alice B. Toklas.  That's when Harry's day of living for The Man is  interrupted by some nutty antics that will have you  in fits of laughter. Now if only I could figure out  what that secret ingredient in the brownies is. . . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love you Alice B. Toklas </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> OK - this is a slightly unusual Movie selection (it is not so well-known, but still a very smart, insightful and funny film from 1968, starring the incomparably original and eccentric Peter Sellers!) But it is certainly not for all audiences, and I am mainly recommending this film to people who meet at least two-out-of-three following criteria:(1) You are a die-hard fan of the ingenious and truly unique chameleon-like comedic-master-thespian Peter Sellers!(2) Like me, you are too young to have actually experienced the free-spirited, overflowing Creative 'madness' of the 1960's, but often wish you now had H.G. Wells' famed `Time-Machine' (or Austin Powers' time-traveling convertible Beetle) = to check-out those 'groovy' times on a first-hand basis (everything Except the War, the Riots, and all the other `bad vibes' of course!)(3) You greatly admire Drew Barrymore's exceptionally Erudite first-hand filmmaker's opinions presented on the weekly Turner Classic Movies (TCM) "The Essentials" show = featuring must-see Classic Films thru the Ages! It is interesting that on a very recent episode, Drew hand-picked this film as an `essential' due to Peter Sellers stellar-performance (actually playing it relatively straight/quite dramatic and very `real' for a change of pace) and also because it perfectly captured the 'free-spirited' Ethos of the 1960's similar to that other more-highly acclaimed `time-capsule' Cinema classic = `The Graduate'!  (now if this film also featured that ultra-brilliant Simon & Garfunkel Music = I would rate it 6+ Stars!)I unfortunately qualify on All Three of the above criteria (not sure if that is much to celebrate, but it definitely qualifies me to at least appreciate the many joys of this 'groovy' film!)  ==> In addition, it was written & produced by the great Writer/Director: Paul Mazursky (who just sadly passed-away yesterday at 84) - although Hy Averback directed this particular film and Larry Tucker co-wrote. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of Brilliant Comic-Thespian Peter Sellers' Lasting Legacies (by Brilliant Writer-Producer Paul Mazursky!) </p>
+
+
+<h2> review.date </h2>
+  09-16-2008  
+<h2> review.text </h2>
+
+ <p> If you loved the '60s, this is like opening a time capsule. Cynics abounded then, too, despite the love image of the time. This movie is one of the better comedies of the period. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Im goin' back </p>
+
+
+<h2> review.date </h2>
+  07-31-2000  
+<h2> review.text </h2>
+
+ <p> A True Period piece with Sellers , Tuning In and Dropping Out.  Its all  aimless and funny with Ms. Young showing her considerable talents at baking  and &quot;other&quot; things.Some fine comedy moments and a film that  could only have been made in the late 60,s </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Burrito in The Brownies? </p>
+
+
+<h2> review.date </h2>
+  06-02-2005  
+<h2> review.text </h2>
+
+ <p> The 1960s was such a unique decade - a kind of bridge connecting the bizarrely Eisenhower 50s with the polyester Nixon 70s. Watching films from the 60s is equally amusing. I watched "I Love You Alice B. Toklas" the other night, the 1968 drama/comedy starring the late-great Peter Sellers.No multiple roles here for Mr. Sellers, and rarely a moment of slapstick. In fact, it's a serenely subtle performance as Sellers plays an inhibited square lawyer bored with the prospect of spending the rest of his life with his fiancee - a woman who happens to be his secretary. Sellers' character is about as exciting as Darrin Stephens with a hangover. But he's jarred from his straight-laced shell by the appearance of a free-spirited hippie chick who's fond of sitar music and hash brownies.While hippies had been on the scene for a couple of years by 1968, not too many had been seen in films. But the message, I think, is the key.A middle-aged, disillusioned man drops out of society to discover himself. He backs out of his wedding, quits his job and lives in the backseat of his car with his young hippie chick (played by the lovely Leigh Taylor-Young). This was a fairly brave stance during an era when society was told to marry, propagate and move to the suburbs.The keynote moment, and one of the funniest scenes I have seen in a while, happens when Peter Sellers, his fiancee and his parents accidentally sample some hash brownies (made from an old Alice B. Toklas recipe, thus the film's title). This straight-laced crew, tasting drugs for the first time, fall on the floor in fits of laughter, playfully disrobe and eventually decide to play miniature golf. That's right, miniature golf. In some way, a dash of hash has enabled them to loosen up and touch their inner child. Sellers soon discovers the free-spirit path is not for him either, leading to the film's unforgettable final scene.Paul Mazursky wrote the screenplay to this film, and would soon evolve into one of the greatest film directors no one has ever heard of. Mazursky's resume includes such brilliant works as "Bob and Carol and Ted and Alice," "An Unmarried Woman," "Moscow on the Hudson" and "Enemies: A Love Story." "I Love You Alice B. Toklas" is where it began for this uniquely gifted filmmaker, a man whose works consistently document love, life and America's freedoms. Mazursky embraces the hippie movement of the 60s, but more so, embraces spiritual freedom.As Altamont and the deaths of Joplin, Hendrix and Morrison revealed by 1971, the hippie movement was not the answer. In some ways, Mazursky already knew this. But with a purity of heart, he essentially said we could all learn something from this important philosophical uprising. I can't help but remember a film review of "Woodstock" by Roger Ebert. He profoundly said, "This was a time when people believed they could change the world with music. Today, it is very, very different."When watching "I Love You Alice B. Toklas," I am transported back to that very, very different time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very, very different time </p>
+
+
+<h2> review.date </h2>
+  12-15-2006  
+<h2> review.text </h2>
+
+ <p> In case you're wondering, the name, referenced in the title of the film I Love You, Alice B. Toklas! (1968) doesn't refer to an actual character in the movie, but to writer Gertrude Stein's literary secretary and lifelong partner, who published a memoir in 1954 titled `The Alice B. Toklas Cookbook' that featured, among other things, a recipe for hash brownies, which figures into the film.  Co-written and co-produced by Paul Mazursky (Down and Out in Beverly Hills), and directed by Hy Averback (The Great Bank Robbery), the film features Peter Sellers (The Pink Panther, The Party, Murder by Death) and Leigh Taylor-Young (Soylent Green, The Big Bounce), in her silver screen debut.  Also appearing is Joyce Van Patten (Pussycat, Pussycat, I Love You), Jo Van Fleet (Cool Hand Luke), David Arkin (The Long Goodbye), Salem Ludwig (Endless Love), and Herb Edelman (The Odd Couple).Sellers plays Harold Fine, a 35 year old, well-to-do, straight-laced, uptight, squarish type lawyer with commitment issues who soon finds himself engaged to his long time girlfriend/secretary named Joyce (Van Patten) after she basically corners him into finally setting a date for the event.  Harold's obviously unsure of his impending nuptials, even more so after he meets a friend of his younger brother Herbie (Arkin) named Nancy (Taylor-Young), both of whom are free spirited, go with the flow, free loving, flower power hippie types, commonplace on the west coast in the late sixties.  Following a series of comical events the day of Harold and Joyce's wedding arrives (it's a traditional Jewish ceremony, complete with dueling cantors) and Harold's uncertainty results in him bailing on Joyce (in mid ceremony no less), hooking up with Nancy, and trying to embrace the hippy lifestyle completely, growing his hair long, changing his clothes, and giving up most of his possession, except for his Lincoln Continental, which he and Nancy occupy, after sprucing it up with an interesting, psychedelic paintjob.  The bohemian lifestyle seems to agree with Harold at first, as does the regular coupling with Nancy, but eventually the novelty wears off shortly after Harold and Nancy get a real pad, and it becomes a haven for every bongo beating weirdo, poetry reading ne'er-do-well, and flower picking malcontent that happens to stop by...oh, it's a groovy scene, man...While this film is extremely dated, a sort of time capsule, I thought it was a lot of fun.  As far as Sellers' non Pink Panther features, I wouldn't say this was the funniest, as of the ones I've seen I have yet to find one that made me laugh as much as The Party (1968), which, if you're a fan of Sellers, is worth checking out, if only to hear Sellers, in character, say the phrase "birdie num nums".  As far as this film I really didn't find myself laughing out load on a regular basis, but there were some really humorous moments.  The comedy here is low key, and features none of the slapstick found in the Pink Panther films, so if that's what you're expecting you'll probably be disappointed.  One thing about Sellers, in my opinion, is he had a way of getting into a role to the point where you believed he was truly the character, and not so much an actor playing a character.  As I said the comedy here is mostly low key, but generally consistent as conventional, pre-hippy Harold struggles with the distinct generational differences and nonconformist attitudes of those he would eventually try to emulate, followed by a post-hippy Harold diving headfirst into the lifestyle as it allows him freedoms he never had before, along with unfettered access to Nancy.  The best parts of the film for me were the following...Harold, after dinging up his car, taking it in for repairs and discovering the only vehicle available at the garage for a loaner is a ridiculously painted station wagon owned by the mechanic's son, who has since ran off with a girl to San Francisco.  Subsequently Harold, while attending the funeral of a family friend, finds himself in the awkward position of having to haul the casket to the cemetery as the regular drivers are on strike.  In doing so he gets lost and drives all over hell and high water in his psychedelic ride looking for the cemetery, with the casket sticking out of the back.Harold, meeting up with his fianc&eacute;e and his parents at his home, and accidentally serving some magic brownies to them, ones made special by Nancy, with an ingredient not specified on the box.Harold's mother, and her subsequent reaction, after showing up at his pad, which has been overrun with dirty, mooching Bohemians.As I said, the film is seriously dated (maybe the term `vintage' is more appropriate), but it's entertaining and worth a look if only to see Peter Sellers acting the oddball hippy type.  The long hair, the funky clothes, the goofy medallions, he's got it all...as far as the other performers I thought they all did very well, complimenting Seller's performance well.  Actually, while watching this, I thought of Steve Martin and his role in the film L.A. Story (1991), you know, back when he made comedies that were actually funny.  The movies are certainly different, but a core element, that of an older man trying, unsuccessfully, to bridge the generational gap if only to get with a younger woman, are very similar.  Anyway, if you're interested in a lighthearted, low-key comedy that's slightly absurd, amusing, and even funny at times, this one might be worth a look.  If you're interested in a more straightforward, comically inclined film with Sellers, outside of his Pink Panther roles, then check out The Party (1968).The picture, presented in anamorphic widescreen (1.85:1), looks very clean and crisp on this DVD, and the Dolby Digital mono audio, available in English and French, comes across well.  The only extras included are subtitles in English, French, and Spanish, along with an original theatrical trailer for the film.Cookieman108 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "I'm so hip it hurts.  That's how hip I am." </p>
+
+
+<h2> review.date </h2>
+  03-09-2005  
+<h2> review.text </h2>
+
+ <p> At the heart of this well-intentioned comedy is Peter Sellers, playing a successful American lawyer in his 30s, who is under pressure to finally settle down and marry. Although he seems to be quite the legal mind, Sellers' character is indecisive and has trouble making personal committments. Once he's introduced to late-1960s hippiedom, he falls for a flower girl, leaves his fiancee at the altar, ditches the hornrimmed glasses in favor of granny specs, and looks like a John Lennon doppleganger. Naturally, given the character's indecisiveness, he becomes bored with the hippies and tries to go home again.Sellers is quite good in this film. His late 1960s acting jobs are usually his weakest, but he does a terrific and funny turn as a man who honestly can't make up his mind. The "midlife crisis" angle of the film could be a cliche, but you'd never know it from watching Sellers done up with love beads and Nehru shirts. While I was watching the film, I wanted to see more and more of Sellers' character and less and less of his often contrived surroundings.As would be expected, much of this film is unfortunately and badly dated. This was a Hollywood attempt to spoof the generation gap, and its attempts to seem daring often come across as simply "wacky." Virtually all the supporting characters are cast from cardboard (this is no reflection on the acting), and many of the gags and much of the dialogue are contrived. I was reminded of 1970s sitcoms like "The Odd Couple" and "Welcome Back Kotter" far too often in certain scenes where we, as the audience, are encouraged to "get hip with the jive."On the other hand, there are some true comedy gems buried in here, including the famous drug-laced brownies gag that would later be stolen and reused in the recent "Starsky and Hutch" movie.Is this classic cinema? No. But this is a movie that will appeal to Sellers fans, late 1960s buffs, and those who'd like to see a different take on the generation gap of the 1960s. This film definitely has its moments and strong points, and I'd like to see it reissued as a budget-priced DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dated film; great Sellers performance and some good laughs </p>
+
+
+<h2> review.date </h2>
+  01-18-2003  
+<h2> review.text </h2>
+
+ <p> It's a very sad state of affairs when a comic artist the caliber of Peter Sellers is not as appreciated as he should be.  The man was a genius at playing the uptight middle class doltish kinda guy.  And his Harold Fine is the quintessential umcd.  I didn't see this film until the late 80's.  My brother & I were stoned one night and just laughed our asses off.  It was amazing how the film had retained its comic force after 20 years.  After viewing it I gave it a few years and wondered if it wasn't just the added effect of the drugs but I saw it again stone cold sober and still lmao.  Some of the 60's hippie-era stuff probably hasn't aged well but Sellers can't be denied.  I think along with his brilliant triple-shot in Dr. Strangelove this is his best work.  The film also benefits from its terrific supporting cast including Jo Van Fleet, Joyce Van Patten & Leigh Taylor Young(giving arguably the best of films many spaced-out hippie portrayals).  Hopefully whoever owns the rights will get a clue and have this dvd-released sometime soon but if not I highly recommend the vhs version of this comic gem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This Movie Needs To Be Released On DVD!!! </p>
+
+
+<h2> review.date </h2>
+  07-28-2006  
+<h2> review.text </h2>
+
+ <p> Some would dismiss this film as a free love era relic.  Perhaps, but this film is so consistently funny.  Credit Paul Mazursky and Larry Tucker, this was around the time they were writing for "The Monkees", for crafting a script that gently lampoons the counterculture without feeling superior to it.  There are any number of funny setpieces here.  My favorite has to be Mr. Foley's funeral where Harold Fine(Peter Sellers) has to escort the deceased in a psychedelic loaner because the hearse drivers are on strike.  And dig the jello mold with the Star of David centerpiece at Joyce(Joyce Van Patten) and Harold's wedding.  The lunacy here is led by an inspired turn by Sellers.  In a carefully modulated performance, Sellers anchors the film brilliantly.  You are also convinced that Sellers' character would trade in the security of his button-downed lifestyle for a headband and lovebeads.  Great supporting cast includes Jo Van Fleet as Harold's overbearing mother and a stunning Leigh Taylor-Young as Nancy, the hippie chick who convinces Harold to chuck it all and join the movement.  Old time movie fans should note the presence of Grady Sutton, funny in a small bit as the funeral director. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a Psychedelic Artifact </p>
+
+
+<h2> review.date </h2>
+  09-17-2001  
+<h2> review.text </h2>
+
+ <p> Peter Sellers is actually fairly toned down in his role as an &quot;uptight&quot; Jewish lawyer who decides to join the Counterculture (quite literally, overnight) after ingesting pot brownies and enjoying a roll in the hay with a free-spirited &quot;hippie chick&quot; (radiant Michelle Phillips look-alike Leigh Taylor-Young). Despite the dated Hollywoodized trappings of late-60's psychedelia (including the inevitable Party Scene, although interestingly nobody falls into a swimming pool for a change), Paul Mazursky's script is at its heart a serio-comic tale of one man's mid-life crisis. Sellers fans take heart,there are still some supreme comic moments (a very stoned and giggly Sellers trying to &quot;maintain&quot; as he watches a straight-faced man getting fitted for a minidress is a definite highlight). The film may have inspired a sub-genre of &quot;Middle Aged Guy/Free-Spirited Young Woman&quot; films like &quot;I'll Never Forget What's 'Is Name&quot; and the more dramatic &quot;Petulia&quot;. So warm up the VCR and grab a plate of brownies (don't forget the secret ingredient!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kiss my ankh! </p>
+
+
+<h2> review.date </h2>
+  03-31-2007  
+<h2> review.text </h2>
+
+ <p> Along with THE PARTY and THE PRESIDENT'S ANALYST, this is one of my favorite films from the psychadelic 60's... though its a bit sad: a comedy, but in retrospect, an homage to a lost revolution - -  In fact, in many ways its a play on a fantasy I'm sure we've all had at one time or another... the idea of escaping from the monotony of a boring life and job and... being free - - only then, it was actually a trendy idea... still, Harold Fine (played by Peter Sellers) would have been the least likely guy to ever go ahead and do it... a 30-something year old attorney, unhappily engaged, square and stabley employed...  but that was before a young hippie dippie chick came into his life, and he was able to sample her groovy brownies, expand his mind, and learn that maybe 9-5 wasn't as full of "tsures" as he thought it was.Not to many extra features except a theatrical trailer, the movie is juicilly remastered... and the dialogue, images and music are really a trip back to the 60's. - - True, the film is best remembered for the hash brownie scene the film starts rolling way before then and keeps on getting better and better starting with the most "beautiful" and sub-union scale funeral you've ever been to... of course its hard to top and elderly Jewish couple high on hash and dancing the horah and playing minerature golf.... but that's just the begining of the madness.Based on a great book with a great premise... an additional surprize about the movie was Peter Seller's ability to act so straight and square... then make the transformation from neurotic square to... to a hippie on the verge of a nervous breakdown.  (Compare to Coburn's role in The President's Analyst.)Don't rent this one... buy it... I get the munchies for it once every couple of years or so - - its worth the purchase... (By the way, another under-rated little morsel from this era is Goldie Hawn in Butterflies Are Free, though I think Leigh Taylor-Young's hippie dippie chick's got her beat on this one...!)All in all, this is a hillariously cynical look at the "WE" generation, and along with THE PARTY one of my all time favorite PETER SELLERS films. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A TRIP back in time... </p>
+
+
+<h2> review.date </h2>
+  03-13-2012  
+<h2> review.text </h2>
+
+ <p> Most of the people reading this will probably not have existed in the 60's and early 70's.  They will look at this movie and scoff at it and call it 'dated'.  Well, to them I say you just don't know what a gem Peter Sellers is and what he contributed to the cinema.  He is a master of slapstick, beyond the silent-era masters.  His face was well-worn with sadness most of the time, but could jump from facial stone to high-intense emotion in a matter of seconds.  Few actors can do that now.  In fact, many can't do it.  You have to go beyond your preconceived notion that movies before you were born are 'dated' and go back into a time when Hollywood took chances with movie making.  Now days, it's the same formula over and over until they become so ridiculous, I stopped going to the movies.  I would rather be entertained by quality than by a mass-produced actor machine that produces the same type of actor over and over again.  Peter Sellers was one of a kind and yes, his movies are dated to those that did not live during the era.  But to us who DID live in the era, he is God!  For all movie historians and students of the theatre in universities, please, review Peter's movies and see the marvel of acting from this comedic, subtle genious.  Thanks for reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Forgotten Movie That Should Be Revisited </p>
+
+
+<h2> review.date </h2>
+  01-24-2013  
+<h2> review.text </h2>
+
+ <p> This is actually a pretty good film. Like a watered down tongue in cheek version of The Graduate, this movie captures well the social split - cultural revolution - that was taking place in the Sixties. Of course we are still paying for those indulgences to this day, but I digress. The movie is actually pretty funny. It is light. And it is a product of its time, so to a great extent it does somewhat capture the mood of the era well - as well as any comedy can, that is to say. And of all the lesser know Sellers films from that decade, it certainly fairs better than The Mouse That Roared or that other flic with those little brats living on Park Avenue - sorry, the name escapes me at present - that is how much I enjoyed that one. And it is certainly much better than the Magic Christian. Check it out, man, it's groovy. Sorry about that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better Than Expected </p>
+
+
+<h2> review.date </h2>
+  11-08-2008  
+<h2> review.text </h2>
+
+ <p> This 1968 hit comedy about a staid Los Angeles attorney who turns Hippie may be a bit dated, but it's still a very funny movie.Peter Sellers stars as the lawyer who meets flower child Leigh Taylor-Young, then decides that there are better things "out there" than his regimented, albeit successful, lifestyle.Sellers is marvelous in this smart satire, but the most memorable performance is that of Joyce Van Patten, who plays the ardent, insecure fiancee he leaves at the altar...not once, but twice.Written by Larry Tucker and Paul Mazursky and directed by Hy Averback, this film is an entertaining 93 minutes. Michael B. Druxman </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dated, But Still Funny </p>
+
+
+<h2> review.date </h2>
+  01-05-2002  
+<h2> review.text </h2>
+
+ <p> The movie and television industry of the late '60s tried to capitalize on the "Flower Power"/"Summer of Love"/"Drop Out-Counter Culture..." by basing entire projects on this new demographic, often with big budgets and big names: for example, the failed Preminger film "Skido", also from '68; the first season of the television show "Laugh-In", where psychedelia met the "Borscht Belt". Ofcourse, the result were usually poor and embarrassing. "I Love You, Alice B. Toklas!" has generally good writing and very good acting which elevates its' awkward or dated material, although the key scene involving his fiancee and parents's unwitting use of marijuana, as humorous as it is, even by today's entertainment standards is distasteful; likewise some ethnic and sexual orientation material which today would be inconceivable even for sitcoms. A particularly weak scene involves Sellers visit to Young's workplace, a mod Women's boutique. He still hasn't "come down" from the brownie interlude and shows up on an impulse. They flirt a bit until a male customer enters the shop. He is a masculine guy who shocks the giddy Sellers by asking to try on a dress. The reaction is uncontrollable laughter on Sellers' part, while Taylor-Young attempts to make the sale. There seems to be a lack of understanding on the creative end here because instead of TY asserting his "individuality", the hey-man-whatever-turns-you-on attitude of the era, she suggests to PS that the outfit might be for a masquerade party.Despite the shaky foundation, Peter Sellers is astonishing as the "successful young Jewish lawyer" about to tie-the-knot. He gets his first real exposure to the Drop-Out folks while (trying to) attend a funeral during a limo drivers' strike - he takes control as chaffeur (in his Mechanic's son's "hippiemobile" he had to borrow) and meets his brother's girlfriend, played by Leigh Taylor-Young. She's the one who...bakes the brownies...and sends him reeling in self-discovery amidst new possibilities.Joyce Van Patten is excellent as Seller's exasperated Secretary/Significant Other, whose we're-not-getting-any-younger attitude finally causes him to capitulate. Her character's amorous reaction to the Alice B. Toklas recipe is notable.For every high there seems to be a low, however, and the ending is a case in point - the lawyer who seems to "come to his senses" following a party which goes haywire at his pad, unexpectedly retreats a second time from the marriage. On the one hand, going "straight" would have made for a bland wrap-up, but consider the idea that Van Patten could have turned the tables on *Sellers* by running off with his brother! [I guess we'll save that one for the imagined remake!].Director Paul Mazursky, well-known for mild but memorable social satire in films like "Moon Over Parador", "Down And Out In Beverly Hills", and "The Pickle" always seems to get the most of out his actors even if the script needs work.This 1968 release utimately survives by some terrific performances. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hip For The Time </p>
+
+
+<h2> review.date </h2>
+  01-14-2011  
+<h2> review.text </h2>
+
+ <p> Some film historians consider 1965 to 1974 the "lost decade" of Peter Sellers' career. Admittedly, the brilliant comic actor didn't set the box office on fire during that period, yet there were admirable films such as "The Party" (1968), "The Magic Christian" (1970), "The Optimists" (1973) and "The Blockhouse" (1973). Included on that list is "I Love You, Alice B. Toklas" - a dated yet perceptive counterculture comedy written by Paul Mazursky and Larry Tucker. Sellers delivers one of his finest performances as Harold Fine, an uptight Jewish attorney who undergoes a "groovy" change of life thanks to an attractive flower child (Leigh Taylor-Young) and some potent brownies. A memorable supporting cast includes Jo Van Fleet as Sellers' domineering mother. Easily the best film directed by sitcom veteran Hy Averback. Not too shabby for a so-called "lost decade." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vintage Sellers </p>
+
+
+<h2> review.date </h2>
+  09-08-2012  
+<h2> review.text </h2>
+
+ <p> Some of the definitive movies of the late 60's and early 70's--wait. Isn't it interesting among all the ungroovy words that were made up in the 21st Century(that's precisely), "definitive" is still around.Because the people with the jobs of writing a little something on the backs of movie boxes don't havemany other choices. Easy Rider was one, with dark vibes and the underworld counterculture. About sizesit up. Looking for Mr. Goodbar, is also a dark theme. Catch-22, morbid humor, and more theme than oneknows what to do with. Alice B. Toklas is not heavy, and the vibes are warm, bright..and what, chocolate snacks? Can I have one?No spoiling this one. You can't make me. If you never heard of it, never read the one or tworeviews here and there, preclude that. Don't cheat. It's cheating. You have to be 18 to watchSellers and Leigh Taylor-Young, Joyce Van Patten(daughter of Dick Van Patten), big cast. 18to watch this(legally) and for a silly reason. I thought so but there are more people thanjust me now. A lot of actors I don't have on other movies. I like 60's flicks. This movie was in theaters in 1968. Lighthearted? Fun but meaningful. Things are bad when all you think of to say is "lighthearted". Or it's a subtle ways of telling some of us we are morons. Based on ourentertainment needs. The movie is about changes people make, and is funny because of things that happen. It isn't sarcastic or black humor or based on taking pot shots at characters. I Love YouAlice B. Toklas is the closest a person can get to being in the sixties, which was close to thethe end. The flick was set in it's own time, made well, and made some cry, even. The ones of uswith the goods, then, now..they felt like they knew at least one character. Most likely filmedin L.A., City Of The Angels. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My Alice B. Toklas Movie Review </p>
+
+
+<h2> review.date </h2>
+  06-25-2014  
+<h2> review.text </h2>
+
+ <p> I LOVE YOU, ALICE B. TOKLAS! (1968) (94 minutes).  A half-forgotten nearly 50 year old comedy from the Peter Sellers catalog that deserves another look.  As written by Paul Mazursky and Larry Tucker, and helmed by Hy Averback, this Los Angeles-based biting satire stars  Sellers as a prim, middle-aged Jewish lawyer, a self-admitted 30-something square who decides to " turn on, tune in, drop out," as they used to say.  He jilts his fianc&eacute;e and embraces the 1960s counterculture after falling for a nubile flower child.Sellers (THE PINK PANTHER, DR. STRANGELOVE), plays Harold Fine, whose dull existence gives way to the hippie lifestyle. Almost immediately after free-spirited Nancy, (Leigh Taylor-Young, PEYTON PLACE), enters his world and unleashes his inhibitions with spiked brownies. Joyce Van Patten, (GROWNUPS, MARLEY AND ME), as Joyce, Harold's secretary/fianc&eacute;e; and Jo Van Fleet, (COOL LAND LUKE, GUNFIGHT AT OK CORRAL, and one tough mother in EAST OF EDEN), as Harold's mother provide fine support.  You should see them bust out into belly laughs after eating the spiked brownies.  David Arkin plays Harold's brother Herbie; Herb Edelman plays Harold's law partner Murray.  Grady Sutton puts in a delicious turn as the funeral director more than inconvenienced by a lightning strike of hearse drivers.First thing to say about this movie, it's still funny, though perhaps it shows a different, more muted side of its star's comic powers.  Second outstanding fact, along with EASY RIDER, THE GRADUATE, GEORGY GIRL, BLOWUP and Elaine May's HEARTBREAK KID,  made in 1971, a couple of years later, it is an accurate portrayal of the time it was made.  That would be the turbulent, now near mythical 1960s, the decade of sex, drugs and rock and roll.  I've never heard the word "groovy" used so many times in my long life.  And you should see the hilarious getup of Joyce's bridesmaids in the scenes of her aborted marriage to Harold.I actually saw this movie back then in real time when it came out, and don't think I've seen it again since then, until now.  But I do remember musing, even back then, on how short the cinema life of a flavor of the month young actress can be.  There's Taylor-Young with her--get this, ONE tattoo, on her OUTER  THIGH, how daring.  A butterfly, which Sellers identifies as a Monarch.  To dip into the Jewish vernacular, it wouldn't help.  Didn't help Taylor-Young, who soon disappeared from film.  And, I was struck on a re-viewing of the film by just how biting the satire is.  Some may think the Jewish satire is over-the-top, though of course Sellers, and much of the other talent before and behind the camera was Jewish, and I suppose that influenced the picture's content.  Furthermore, today's Hispanic viewers might be offended by some of the content.  Fine is representing the 11-member Rodriguez family in an auto accident case: one morning they all troop into his office, grand-dad down to the kiddies, wearing neck braces.  And the lawyerly Harold points out that all 11 of them were in the car, a clear violation of local law.  And, in addition, there were chickens in the car, an even clearer violation of local law.  Well, the movie's still funny.  You might want to take another look at it if you too saw it way back then.  Or a first look if you enjoy Peter Sellers' work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Half-Forgotten 50 Year Old Comedy Still Funny </p>
+
+
+<h2> review.date </h2>
+  12-02-1998  
+<h2> review.text </h2>
+
+ <p> Hilarious look at conservative Sellers converting to the youth movement of the late Sixties.  Just to see him tokin' it up is classic, and did anyone notice just how much he resembles John Lennon? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sellers in top form again </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 6302503515 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-14-2002  
+<h2> review.text </h2>
+
+ <p> "Man of a Thousand Faces" is a melodramatic vehicle, which allows Cagney to soft-shoe his way through the life and roles of Lon Chaney, famous silent movie actor.Chaney was born to profoundly deaf parents and this was a major contributor to his success as a silent screen star.  His wordless ability to express great and subtle emotions was legendary.  Chaney's is best remembered today for his portrayals of grotesquely disfigured humans.  He was able to evoke a sympathetic reaction from the audience in his original presentations of Quasimodo and the Phantom of the Opera.This movie gives Cagney an opportunity to relieve the glory days of vaudeville.  Numerous dance numbers find their way into the picture.  As well as recreating scenes from many of the movies that Chaney was famous for.  Still I can't help but notice that Cagney seems to act like Cagney throughout the picture.  The typical tough-guy loner whose motto is "my way or the highway" that we see in so many other films.The film spends no small amount of time covering Chaney's turbulent first marriage.  The main contention between Chaney and his wife in this movie is anger at his not revealing the dark secret about his parents (their deafness).  Her anger at this secret and his anger at her rejection of his roots leads to a downward spiral in the marriage.  Eventually, Chaney is able to find happiness with an ex-chorus girl and provide the stable home for his son he has always dreamed of.I enjoyed the movie but would caution you that it is not likely to be taken as a serious biography of this legendary film star. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ah. The golden days of old Hollywood. </p>
+
+
+<h2> review.date </h2>
+  06-07-2012  
+<h2> review.text </h2>
+
+ <p> Ok, so I don't always devote a review to an Ammy friend.  I think I've done this three times in my well over 2,000 reviews.  But every once in a while, I come across a gem of a film that I truly feel NEEDS TO BE SEEN by a particular person.  Reviewing on Amazon and following other reviewers, you get to know their taste and their interest and sometimes you feel compelled to let them know about something you really think they'll wholly enjoy.So, Mr. Know It All, my Ammy twin; this is for you.Lon Chaney, the man of a thousand faces, is largely considered one of the most influential of all Hollywood giants.  He was never your typical leading man, but his range was undeniable and he left behind him a beautiful legacy of rapturous performances in some of the greatest films ever made.  Before motion pictures recorded sound, Chaney gave depth to silent films and became a staple in some of the more important films of their time.  Whether you know him by name only or have had the privilege of watching his more profound performances (I highly recommend `The Phantom of the Opera' and `The Hunchback of Notre Dame'), you at least know who he is.  What can be said about Chaney can probably be said for James Cagney as well.  Cagney is, in my eyes, one of the greatest actors who ever lived.  Sadly, Cagney is often taken for granted.  He is considered one-note and mostly remembered for his tough guy act and those gangster movies he made in the 30's.  Many don't think of the more tender and layered performances he gave throughout his career.  That isn't to say that his gangster films and the performances he gave within them were weak (he's been marvelous many times) but one should never write him off as one-trick.He proves his range in this marvelous biopic where he channels all his charm, charisma and depth of emotion as the mysterious Lon Chaney.Now, I don't know how much of this is accurate, but the synopsis does say that it is a loose biography, and we all know how Hollywood likes to exaggerate things for maximum effect, but regardless, `Man of a Thousand Faces' is outstanding.  Telling Chaney's story from birth to death is quite a task, because biopics that lack focus on a particular time or event in a person's life can feel stuffy and even pretentious.  Instead, `Man of a Thousand Faces' manages to flow with ease and tell just enough to keep us glued to Lon's life.  From his early childhood, growing up with deaf and dumb parents, to his early career juggling his vaudeville act with home life (ever so complicated by a resentful wife and a young son) and then moving on to his fame as a big Hollywood player, Chaney's life was never dull.Thanks to sharp direction, beautiful cinematography, a heart-tugging score, a smart script and some very impressive performances (Cagney, Malone, Greer and Lovsky should have all been in contention for Oscars), this is a breathtaking look at one of the most memorable faces in cinema...all one thousand of them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My dearest MKIA... </p>
+
+
+<h2> review.date </h2>
+  01-30-2010  
+<h2> review.text </h2>
+
+ <p> Very pleased. My absolute favorite James Cagney movie. I am so happy to have it in my collection!  Thank you for having it in your library. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Man of 1000 faces </p>
+
+
+<h2> review.date </h2>
+  04-15-2011  
+<h2> review.text </h2>
+
+ <p> James Cagney delivers a strong performance in this intermittently-accurate screen biography of Lon Chaney Sr. - the MAN OF A THOUSAND FACES.  Universal released the film in 1957 as part of their Silver Jubilee celebration.  Chaney had been one of Universal's greatest silent stars, earning fame for his unforgettable gallery of characters - everything from the tormented Quasimodo of "The Hunchback of Notre Dame", to the terrifying "Phantom of the Opera" - yet his private life contained more drama than any of his film roles.Born to deaf-mute parents (Nolan Leary and Celia Lovsky), Lon Chaney grows up with exceptional skills in the art of pantomime and performance.  Soon landing a job with the successful Kolb and Dill vaudeville show, Lon marries singer Cleva (Dorothy Malone), but keeps his parents' affliction a secret from his bride.  When Lon brings Cleva home to meet the family over Christmas, her disgust is readily apparent.  Fearing that their eventual baby will inherit the family's deafness, Cleva spirals into paranoia, creating a rift in their marriage and driving Lon to despair.  Little Creighton (soon to be Lon Jr.) is born healthy, yet Cleva can't be satisfied.  Suspecting that Lon is carrying on with Hazel (Jane Greer), one of the showgirls from the vaudeville show, Cleva takes off with ambitions to become a nightclub singer, a career which Lon soon crushes.  After swallowing a bottle of acid during Lon's act onstage, Cleva's showbiz dream comes to a crashing end, Creighton is removed into state custody; and Lon moves to Los Angeles, where he'll launch his incredible film career...Whilst it glosses over many facts from Chaney's life, MAN OF A THOUSAND FACES still presents a reasonable fascimile of the personal demons that shaped and molded one of the cinema's greatest silent stars.  As it had also done in "Yankee Doodle Dandy", James Cagney's early musical training came in good stead in his performance as Chaney.  His clowning and pantomiming in the early vaudeville scenes is truly something to see; however the later recreations from "Hunchback of Notre Dame" and especially "Phantom of the Opera" border on cartoonish.Riding high on the success of her Academy Award-winning role as the outrageous nympho Marylee in "Written on the Wind", Dorothy Malone supplies the story's early histrionics as Cleva, Chaney's troubled first wife.  Knashing her teeth and looking stunning in Bill Thomas's costumes, Malone's performance is truly amongst her best.  On the flipside, Jane Greer quietly underplays her role of Hazel, the woman who gives Lon and his son their first stable home.  Greer's career is known primarily for her incredible gallery of noir heroines (in such films as "Out of the Past", and my personal favourite, "The Big Steal").  MAN OF A THOUSAND FACES isn't one of her better films, but she gives out a lovely, warm glow as the antithesis to Malone's scene-chewing hijinks.Fans of Chaney will instantly know where fact leaves off and fiction begins, but MAN OF A THOUSAND FACES is still an entertaining and dramatic remembrance of one of the most influential figures of the early cinema. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Say, Pop! There's a great new joke going around school. "Don't step on that spider. It might be Lon Chaney."" </p>
+
+
+<h2> review.date </h2>
+  03-20-2008  
+<h2> review.text </h2>
+
+ <p> Ten years to the month after Image Entertainment released Man of a Thousand Faces (1957), Universal will come out with a new release. The Image copy is out of print, so don't despair at the high current price. The new release will retail for just under twenty dollars. No further details at this time other than this link to the new product at this site -Man of a Thousand Faces (1957) (Ws Sub Dol). This film was probably Cagney's best performance in a mature role, so I'm certainly looking forward to this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Universal will release this film on DVD in June 2008 </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> This is one of my favorite movies of all time. I had to have it for my collection.And now I do. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love James Cagney. </p>
+
+
+<h2> review.date </h2>
+  11-30-2001  
+<h2> review.text </h2>
+
+ <p> Lon Chaney made over 150 films from 1913 - 1930.  99.9% of them were silent.  He died in 1930 before he could play Universal's &quot;Dracula&quot;.  Can you imagine that.  Instead we had Bela Lugosi get the role and will always be remembered as The Count Dracula.&quot;Man of a Thousands Faces&quot; is about this remarkable man who was born of deaf parents.  From them he learned sign and the unique ability to communicate with great panomimic skills (visual effects for the silent screen).Summary;  This is the life of Lon Chaney (James Cagney) and his Silent Screen genius at work.  This movie is considered to be one of the best screen-bios ever produced.  Cagney does an amazing job portraying Chaney from using sign, to dance (Cagney won an Oscar in 1940 (Yankee Doodle Dandy) about song and dance man George M. Cohen), acting, master of disguise and his remarkabe contortionistic skills. This films covers his silent film career and his private life.  A very enlightening and emotion journey with the &quot;Man of a Thousand Faces&quot;.  (NOTE - His only son Lon Chaney Jr. became Universal Pictures famous &quot;Wolfman&quot; (1940)).Chaney was such a Master of Disguise the general public hardly recognized him when ventured out amongst them.See Lon Chaney is his most famous silent horror classic role as the &quot;Phantom of the Opera&quot; - 1925/1929.  (Read my review).  Now on remastered DVD.Good Dvd quality picture and shown in Widescreen (Letterbox) format.  This a great film about a great Hollywood talent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lon Chaney's Genius of the Silent Lives Through James Cagney </p>
+
+
+<h2> review.date </h2>
+  09-12-2013  
+<h2> review.text </h2>
+
+ <p> what a talented actor told the true story of lon chaney a real heart breaker but the movie was just so heartwarning loved it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jimmy cagney </p>
+
+
+<h2> review.date </h2>
+  11-23-2010  
+<h2> review.text </h2>
+
+ <p> MAN OF A THOUSAND FACES is ostensibly a bio about famed horror actor Lon Chaney, but it delivers more about the acting dedication of James Cagney to his craft. The film is impossibly melodramatic & even corny. So why the 4 stars? I love it anyway!At the center of the story is Lon Chaney (of course) whose parents were both deaf & mute. He grew up feeling not shame, but a whole lot of anger & pain, mostly inflicted by ignorant outsiders. So what does he do? He marries a woman who has a phobia about "abnormalities" & who spends her entire pregnancy completely wigged out that her baby will be born deaf. Dorothy Malone plays the wife. A B-List actress, Malone at least plays a self-destructive character which seems to have been her main acting schtick, so she's not too bad.The other actors are less than stellar as well, but James Cagney trumps them all. He conveys what must have been true about Chaney, that he was absolutely driven by both talent & inner demons. I've seen Chaney in the silent version of THE UNHOLY 3 and the "talking" version as well. His presence is powerful, but you can see a lot of pain in his face. Despite all its flaws, thanks to Cagney, MAN OF A THOUSAND FACES conveys the power and the pain.NOTE: According to the film Chaney was diagnosed with throat cancer during the making of THE UNHOLY 3 & was rendered unable to speak before he died. A very sad & uncanny irony. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Power, Pain & Cagney </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> The fact that James Cagney is different in size and build from Lon Chaney makes no difference in this film.  Since none of us alive today know much about what Chaney actually looked like it is very easy to accept Cagney in the role.  As he always did, he throws himself into this role heart and soul.  I'm surprised that they didn't gloss over and hollywoodize this movie.  Whoever was in charge pretty much put the whole story out there and a lot of it is pretty raw.  I have looked at it several times and am always mesmerized by Cagney's performance.  I recommend this movie to any old movie fan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great movie </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> I saw this movie once and it's been on my mind every since.  What an awesome life and imagination Lon Chaney had.  Again Cagney really is really impressive in this role. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a Life </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> i bought this film because it makes you see how to deal with people when you are not acceptedbecause you are different.We are all victims of a world that just doesn't get it when it comes to accepting the fact that we are not allexactly the same. This movie shows how that you can overcome the prejudice which still rears its ugly headin our society.I would suggest this movie to people who feel that they are having a problem with being accepted. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cagney at his best </p>
+
+
+<h2> review.date </h2>
+  09-18-2005  
+<h2> review.text </h2>
+
+ <p> This is a wonderful bio pic of silver screen great,  Lon Chaney, a character actor of great renown during the silent film epoch. All but one of his films were silent. Due to his ability to alter his appearance and play many roles, he eventually became known as "the man of a thousand faces". It is ironic that this man who would forge a meteoric rise in the silent film industry was born to deaf mute parents in 1883.The film shows the impact that being the son of deaf mute parents would have on his life in those unenlightened times. Lon Chaney (James Cagney)started his acting career as a stage performer in vaudeville, where he was a popular pantomime. His first wife, the beautiful Cleva Creighton (Dorothy Malone), was a chanteuse who had dreams of her own.Unfortunately, once Lon Chaney and she discovered that she was to have a baby, their happiness would turn to bitterness and anger, due to Cleva's  shock at discovering that his parents were deaf mutes. Cleva and Lon Chaney would go on to have a son named Creighton, but she later caused a great scandal early in their son's life with a very public attempt at suicide that would change all their lives forever.This scandal was to end Lon Chaney's stage career, and it sounded the death knell of his marriage. He ultimately divorced Cleva, who had abandoned both him and their son. The divorce resulted, for a time, in his tragic and heartbreaking separation from his beloved, young son. Chaney was to go on to reclaim his career, as well as his son, but would do so on film, rather than on stage, becoming an extremely popular silent film actor.Lon Chaney was also a doting father who remarried in order to provide a suitable home for his son. His second wife was a former chorus girl named Hazel (Janet Greer). She was a woman who was to prove to be a loving step-mother to Creighton and a devoted wife to Lon Chaney. Always in the background, however, was the specter of Cleva, who was never to regain any of her former glory as a chanteuse and would live a life reduced in circumstances, as a result. She would live to regret her abandonment of their son.Meanwhile, Lon Chaney was getting ready to take talking pictures by storm.  While still in the prime of his life and at the peak of his film career, he was struck by a terminal illness that was to bring down the curtain for the last time. Bequeathing his acting legacy to his son, Creighton, who would later make his mark in film, renamed as Lon Chaney, Jr., Lon Chaney  would leave the world at the relatively young age of forty-seven.James Cagney is terrific in the role of Lon Chaney, creating a three dimensional portrait of a man whose childhood was to influence him is so positive a way. A veritable chameleon that was able to change his appearance at will,  Lon Chaney would infuse the characters that he played with much feeling and emotion. His powerful performances would transcend the silence of the films, making him one of the great character actors of the silent film era. James Cagney sums it up best when he performs a bit of the Chaney role in the silent film, "The Miracle". If Lon Chaney played it half so well, it is little wonder that he was so popular.Dorothy Malone is excellent as the beautiful but shallow Cleva, a woman who would inflict much suffering on those who loved her,  but who would also, as a result,  endure much suffering herself, eventually realizing all that she had lost. Janet Greer is perfect in the role of Hazel, Lon Chaney's warm and loving second wife, who would love and raise Creighton as if he were her own son, thereby changing  all their lives for the better.The supporting cast is also excellent with good performances by Jim Backus as Lon Chaney's agent and publicist. A very young Robert Evans, a real life future film mogul,  plays the role of studio head Irving Thalberg, a man with whom Lon Chaney would have a long term professional relationship. Evans is surprisingly engaging in the small role.  Overall, this is simply a film that those with an interest in Lon Chaney will enjoy, as will those who simply love a good, well-acted film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A LOOK AT THE LIFE OF LON CHANEY... </p>
+
+
+<h2> review.date </h2>
+  10-30-2008  
+<h2> review.text </h2>
+
+ <p> Lon Chaney was an incredible treasure of his time; and James Cagney an incredible treasure of his.  To have both in the same work, and have that work be the epitome of artistic and technical achievement is a gift to the generations to come.  Hopefully, they'll have the sense to appreciate both men! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Double Fantastic! </p>
+
+
+<h2> review.date </h2>
+  03-14-2009  
+<h2> review.text </h2>
+
+ <p> Man Of A Thousand Faces tells the story of the life and times of Lon Chaney, one of the greatest actors of the silent movie era and one of the very few major silent screen stars to ever make a "talkie" as well. The acting is very convincing; and Jimmy Cagney got the opportunity to dance and portray a person who wasn't a gangster for a change! This film also showcases a tour de force by Jimmy Cagney who was truly at the top of his game. The cinematography is excellent and I like the way they organized the crowd scenes for the movie takes.When the action starts, we see young Lon Chaney (Jimmy Cagney) quitting a vaudeville style show after his overemotional, unstable and even selfish wife Cleva Creighton Chaney (Dorothy Malone) was late for the third time in just one week. Lon quits to show his support for Cleva who then announces to him that she's expecting a baby. At first Lon and Cleva are happy; but trouble starts in quickly. When Lon takes Cleva home to meet his parents at Christmastime, Cleva overreacts--to say the least. Cleva is mortified that Lon's parents are deaf and she's terrified that her unborn child will be deaf, too. She's against having the baby but she goes through with it; and for a while tensions between Lon and Cleva ease after they know that their son can hear normally.But happiness is elusive. Cleva resents staying home with her son out in the country where Lon could enjoy the peace and quiet; she wants the city life and she has her own desires about stardom. After a few years she decides to take a job as a singer--and Lon begins to notice that she's spending some time with other men, too. Lon wants Cleva home but Cleva wants out--and after a horrible and very public attempt at suicide, Lon and Cleva move to California for a fresh start. Unfortunately, their marriage ends in divorce anyway. Lon wants custody of his son but the court mandates that Lon Chaney, Jr. be placed in a foster home until Lon can prove he has a stable home with gainful employment. Meanwhile, Lon begins to reestablish a friendship with a chorus girl named Hazel Bennett (Jane Greer).You guessed it! Lon and Hazel marry; they get custody of Lon's son and Lon takes off big time in the movie industry after working like a dog as an extra. Bigger and bigger pictures come his way including projects that were created specifically with Lon Cheney in mind.Of course, from here the plot can go anywhere--and being that this is a Hollywood biopic, what we get in the way of the story line isn't always truthful, regrettably. Will Lon Chaney, Jr. ever connect with his mother Cleva again? Will he stay with his father or his mother if he does find his mom? What about Lon's marriage to Hazel--how do things work out and what are their issues? Watch and find out!The DVD comes without extras; that disappoints me but the movie is so well done that I can overlook it.I highly recommend this for film buffs and especially for people who enjoy silent horror flicks. Of course, people who like biopics and Lon Chaney films will consider this a "must-have" for their collections. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the tender portrait of a man </p>
+
+
+<h2> review.date </h2>
+  12-14-2010  
+<h2> review.text </h2>
+
+ <p> James Cagney did a remarkable job in capturing Lon's early life and everything that made him one of the great silent film actors! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lon Chaney </p>
+
+
+<h2> review.date </h2>
+  11-23-2007  
+<h2> review.text </h2>
+
+ <p> Lon Chaney amazed audiences in the birth of cinema. Born to deaf parents, Lon learned out of necessity to use his hands and face to communicate with his parents. This made Lon a natural in the world of silent pictures. No one could come close to his expressive acting talent.If this was his only asset he would still be remembered today but, Mr. Chaney was also an incredible make-up artist and designed some of the greatest make-ups that are still unsurpassed to this day. His imagination and ingenuity were remarkable and I'm sure my favorite make-up artist Jack Pierce was in awe of this fellow artist.This film starring James Cagney is very good, but it centers too much on Chaney's private life and no where near enough time on the man's talent as an actor and make-up atrist. The out of print DVD should be re-released in a special edition. There is so many interesting extras that could be included about this incredible talent.This film would also be a great candidate for a remake. With all the lame ideas for movies these days someone should make an in depth film about this man, he certainly deserves it! This review is for my buddy Clint who just happens to think the man of a thousand faces is the man of infinite faces! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SOMEONE SHOULD DO A REMAKE OF THIS FILM! OOP DVD?? NEEDS A SPECIAL EDITION FOR RELEASE! </p>
+
+
+<h2> review.date </h2>
+  09-18-2005  
+<h2> review.text </h2>
+
+ <p> A melodramatic depiction of a high-glossy soap opera version on the life of the incredibly gifted Lon Chaney features corny dialogue, mediocre production values and a distinctly B-list stable of actors.  HOWEVER, the offbeat casting of the marvelously talented and committed James Cagney elevates this picture to a five star rating!He is both tough and touching...and while bearing no real physical resemblance to the legend he portrays, gives a multilayered and thoroughly captivating performance.  It's interesting to learn some background on Chaney but the real amazement is in watching Cagney give it his all and "tell" the story.Would make a great DVD feature for a Chaney collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strangely miscast Cagney delivers top notch performance! </p>
+
+
+<h2> review.date </h2>
+  09-06-2008  
+<h2> review.text </h2>
+
+ <p> This was always a must see whenever it played on TV when I was a kid, so I'm very pleased to have my own copy that I can watch any time I desire. Jimmy Cagney gives a bravura performance as Lon Chaney, Sr. One of my favorite scenes is when he first gets to Hollywood and is taught what background extras do. He whips open his makeup kit to transform himself into a pirate. Great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chaney bio </p>
+
+
+<h2> review.date </h2>
+  07-07-2005  
+<h2> review.text </h2>
+
+ <p> This film is highly entertaining and stands as an accurate portrayal (as far as I know) of the life of Lon Chaney. It follows his life from when he was a young boy trying to cope with the children making fun of his deaf parents, to when he was a man on the stage with a pregnant wife who could not accept the fact that her son could be born deaf, to when he became a famous screen actor in order to support his son and a second wife.James Cagney plays the role sympathetically and strongly. His actions are always motivated by something which is a credit to the good script. Cagney looks nothing like the real Chaney, so sketches of the various makeups used for his roles included a wider face, often making them look sillier (especially with The Hunchback of Notre Dame). However, this is no fault to the man himself, just to the casting director. Thankfully, Cagney IS an actor and succeeded in the film at bringing the audience into the life of Lon Chaney and making a worthwhile tribute. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cagney Does Not Look Like Chaney, But... </p>
+
+
+<h2> review.date </h2>
+  02-28-2003  
+<h2> review.text </h2>
+
+ <p> No actor of our time comes close to james cagney or bogie of course. Cagney shows his versitily in this drama of the life of Lon Chaney. Cagney is GREAT and this movie will hold your interest through the entire 2 hours nothing drags. You will feel such compassion for lon chaney as the age old truth that money and fame can not bring you happiness is still true today. You will see such suffering from a bad marriage and a wife who didnt even want to bear his son because chaney's parents were deaf and dumb she was afraid that her child would be as well. Later she wants to act again and when that doesnt work out she tries to commit suicide. Obviously she is not fit to be a mother and chaney files for divorce and of course gets it but to his shock the court takes his child away from him since he has no wife. Later a female co-worker and friend who was secretly in love with chaney offers to marry him and he accepts they then get the child back. Of course later in life the mother shows up wanting to see her kid who thought she was dead. This is such a touching and realistic story that is all too common now adays you couldnt write a ficton this dramatic. Watch this movie it deserves 10 stars but dont expect gangsters and action this is a drama. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CAGNEY gives an all time great performace </p>
+
+
+<h2> review.date </h2>
+  04-04-2003  
+<h2> review.text </h2>
+
+ <p> Truly one of the greatest of all movie stars and a very underated actor this movie glows with Cagney's talent in his depiciton of the life of Lon Chayney.  Unlike so many hollywood bios of the time this move tends to steer away from the usual sanitization of a character and instead confronts the darker side of Chaney, a man beset by torments. Poignant, powerful in it's day with the head on look at how deaf people were treated, and indeed with the tragic aspects of Chayney's first marriage. For me this movie stands the test of time exceptionally well, thanks in no small measure to the performances, notably the conflict between Chaney and his first wife wonderfully played by Dorothy Malone.  This is one of the great ones! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CAGNEY on top form </p>
+
+
+<h2> review.date </h2>
+  11-04-2012  
+<h2> review.text </h2>
+
+ <p> I was raised in a foster home by seniors. All I heard was what a great horror (silent movies) Lon Chaney Sr. was.Now I knew about the wolfman Lon Chaney Jr. But this movie is about the life of the silent film legend. The Houdini of Horror. Now the real tough task is what actor alive at the time could take on such an awesome roll. James Cagney simply nails it. He becomes chaney. Like Heath Ledger became the Joker. I can't over hype this movie. A must have for all collectors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Houdini of Horror </p>
+
+
+<h2> review.date </h2>
+  05-09-2010  
+<h2> review.text </h2>
+
+ <p> As Cagney films go, it's great. As a Chaney biopic, it's good. I'm not entirely comfortable with the casting of Cagney as Chaney (the raw power of Chaney's make-up is lost) but given the time it was made there's no one else I could think of that could have  portrayed him any better. The problem lies in the depiction of Chaney's wife, Cleva. Lon and Cleva's heated disagreements did eventually lead to divorce but I've looked through bio material and found nothing that reveals her as self-centered, callous, and prejudice against Lon's deaf mute parents. There is little doubt of her mental stability, attempting public suicide, for example. Dorothy Malone does a fine job as Cleva but the question is in the production itself. It's unusual to see a slick piece of cinema portray a real life character with such a lack of empathy. Later in the film her character is redeemed a bit but she still comes out as the bad guy. As I stated earlier, this is one film that really needs a good commentary track but the disc is sadly lacking extras. A Chaney Scholar and a member of the family  (great grandson Ron Chaney for example) would have been ideal. The quality of the print is excellent though. The film pretty much sticks to the facts but a less dramatized account of Chaney's career can be found in TCM's "Lon Chaney: A Thousand Faces", a document included in the film set "TCM Archives: The Lon Chaney Collection". It would be interesting to know what Lon Chaney Jr. thought of this film.One final thought: A glaring omission stands out. There is no mention of Chaney's collaboration with director Todd Browning, the man behind some of Chaney most memorable and lasting performances. This dynamic duo may have been the first of its kind and echoed in the seventies with partnerships such as Robert De Niro and Martin Scorsese. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A commentary track would have been nice </p>
+
+
+<h2> review.date </h2>
+  12-07-1999  
+<h2> review.text </h2>
+
+ <p> Jim Cagney shows all his talents in this well-made bio pic. As Lon Chaney on Vaudeville in his early years, he stages two wonderful dance numbers as a clown -- one dancing with a mannequin, the next a competition with a  dancing shadow.His sense of pantomime and command of sign language is  wonderful (Chaney being born to deaf parents), and his performance of the  tragedy-stricken Chaney is a real tear jerker.Especially to be seen is  the recreation of Chaney's film &quot;The Miracle Worker.&quot; A scene  shows Chaney portraying a cripple whose twisted limbs magically unfurl in a  traveling scam show.Dorothy Malone kicks bootie as the insensitive wife  and incapable mother who doesn't want to bear Chaney's child because  Chaney's parents are deaf and so genetically inferior in her eyes. Chaney  had been made fun of all his life due to his parents' deafness, and it's  wrenching to see his wife's betrayal. At one point she screams to Chaney,  &quot;I don't want to give birth to a dumb thing!&quot; Cagney's pained  reaction is amazing.Cagney's portrayal of a dedicated father to his son  is gripping as well. The wife is hateful to the newborn until she learns  that he can hear. (Cagney in a great scene hesitates to clap his hands  above the baby's crib to see if the noise will register.) The wife rejoices  and sweeps the baby from the crib -- her love obviously is conditional. But  Cagney subtley wrests the baby from her and coos to the squalling infant  that &quot;No one will scare you again.&quot; He turns a cold shoulder to  her and effectively muscles her out of the relationship in one move. The  course of their marriage is set by her previous attitudes and his inability  to forgive her.  The drama continues.This film makes one want to see  Chaney's silent flicks. It's a good catalyst to jump back into the silent  era.Cagney and rest of cast are magnificent! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cagney shows all his talents </p>
+
+
+<h2> review.date </h2>
+  08-31-2008  
+<h2> review.text </h2>
+
+ <p> James Cagney was Great in this film, it stands out as one of my favorites of all time.  It showcases the career of Lon Chaney and his tumultuous marriage to his wife, played by Dorothy Malone, who has a diffult time accepting Lon's folks because they are Deaf Mutes and an even more diffult time accepting the fact that the child she is carrying could end up the same way.I have waited for years for this movie to make it to DVD and it is finally here and the transfer is excellent, but granted, I'm not as nit picky as some. I highly reccomend this one folks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only ONE reason to watch this DVD </p>
+
+
+<h2> review.date </h2>
+  12-04-2010  
+<h2> review.text </h2>
+
+ <p> In a time when Universal was making "C" movies, they lost their head and created a motion picture that contained all the elements for great viewing.Cagney was as believable as possible, as were the rest of the cast. Couple this with "To kill a Mockingbird", and the studio shows it can do more than take up space. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A real classic </p>
+
+
+<h2> review.date </h2>
+  01-01-2009  
+<h2> review.text </h2>
+
+ <p> This is what I imagine Lon Chaney's life would have been like if he had been James Cagney.  Unfortunately I wondered what the "man of mystery" himself was really like, and care little for another soap-opera twisting of reality by Hollywood script-writers.Yes, there are people out here who are actually looking to learn something about the subjects of biopics and, once more, we have an example of the fictionalisation of fact Hollywood-style.  What is the  point?Don't tell me that the truth doesn't matter; people actually believe this stuff and it is apparently fundamentally untrue. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> what chaney might have been like </p>
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> Excellent movie about a great man who would otherwise go unknown. Cagney as usual is amazing, the characters shown are actually the real characters he created. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lon Chaney </p>
+
+
+<h2> review.date </h2>
+  10-16-2012  
+<h2> review.text </h2>
+
+ <p> This is my favoriet Cagney film.  Cagney plays the late, great actor Lon Chaney Sr. who was a master of disguise and a wonderful actor.  Cagney gives an impassioned performance of a man filled with talent, but burdened with personal hardships and tragedies.  It is one of those rare films that you will want to watch again and again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Man of a Thousand Faces </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

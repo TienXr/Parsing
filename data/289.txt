@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0080OAERM <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> havent watched this yet.. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> haven't watched this yet but it looks good..i like Corey Haim..was his 1st movie to star in..i recommend this movie mainly to friends </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Actors in top form </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is one of my favorite movies from the 80s.  Christopher Collet was outstanding playing the part of Jake in this movie.  The only other movies I saw him in were The Manhattan Project (also an excellent movie), Prayer of the Rollerboys, and The Langoliers.  I always wondered why he didn't act in more movies than this because he is such a strong actor.  Peter Weller was also a standout actor in this movie ... he was very convincing.  He played the part so well that he made me not like him at all ... that is, I didn't like the character at all.  He probably should have been nominated for an academy award for this part.  This was Corey Haim's first movie, and he also did an excellent job.  And Teri Garr I have always been a fan of ... this is perhaps her best performance in a dramatic role.  The movie seemed realistic to me ... it's the kind of movie that draws you in and you believe that everything you're seeing is really happening ...  and you actually relate to them and care about them as people.  I really felt bad for the two kids and what they were having to go through.  A very well-made, powerful movie which turns out well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> excellent drama </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> two boys and a separated mother have their lives changed dramatically when a new boyfriend turns up.the eldest son knows something is wrong when the stranger tries to buy their friendship.the eldest son finds drugs in the house and the happy family atmosphere is over. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Corey Haim's First Movie and a Timeless Classic </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like this movie so much I've been through several VHS copies.Nowhere on this DVD jacket does it say "digitally remastered" and yet the DVD version  has excellent color, detail, and sharp clear focus, infinitely better than my previous VHS versions.This is Corey Haim's first movie and a real chemistry exists between him and Christopher Collet who plays an unusually bright teenager that can spot a phony a mile away.Teri Garr and Peter Weller are completely natural, as if they arent even acting.The story revolves around a couple of charismatic brothers that try to keep their mother from becoming a drug addict.Great script, camera shots, excellent musical background, outstanding acting on everyones part, and a great story, make this a real classic for both the family and teenagers alike.My only complaint is since the movie is only 110 minutes long, there could have also been another outstanding movie with Christopher Collet called "Manhattan Project" about a brilliant teenager that builds a nuclear bomb that fits in a suitcase."First Born" is still a timeless classic however and after waiting patiently for 10 years this new DVD is excellent. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Well written and acted. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This film is about a divorced  and lonely mom of two boys bringing someone new into the home and the effects it has on them when that someone turns out to be no good. It's Teri Garr's best dramatic performance of her career, she's very real and sympathetic in her role as the mother. It is the late Corey Haim's film debut. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Forgotten 80s gem </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great little gem from the 80s with a great performance from Peter Weller as a scumbag loser who nearly ruins the lives of Teri Garr and her two sons. Garr, Collett and Haim all give solid support,but the film belongs to Weller. Equal parts charm and menace, his role is unapologetically sleazy. The quality of the blu-ray picture is grainy,due to the film stock used. No extras,but really worth seeing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Average Film </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The movie takes me back. The DVD of this movie is great. Worht the wait and the monet that I paid for it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hidden Gem! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great movie that I remember from my childhood. This movie veers to the darker side of a family affected by divorce and integration of a new adult into the family. Both boys give genuine roles and display traits of changes that come when a single parent starts to date. Corey Haim's character is an innocent boy but who is wise beyond his years. The scene where he ends up in the principal's office shows the confusion and anger children often display in situations like this. Jake tries to save his mother and keep his cool at the same time but slips from time to time: lashing out at his friend the young Robert Downey Jr. and then again misbehaving in class.A movie about youth who are confused and troubled by the changes in their own home yet cannot do much about them. Jake is an average teenager but as the film progresses he becomes and thinks like an adult. Great film, great acting and story line not to be missed. A true forgotten 80s gem. Thanks for reading. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Classic finally on disc </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a old gem of a movie from 1984 well acted by all involved especially Chris Collet and Peter Weller. It does a excellent job of portraying a divorced mother of two (Terri Garr) getting involved with a seemingly good boyfriend. Growing up in a single parent home i could always relate to this movie although my situation never became quite this bad. I believe this is Corey Haims first movie as well in which his career exploded shortly after this. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Firstborn </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I see this a long time ago and when I heard it was coming to blu ray and DVD I had to pick up two blu ray copy's and DVD copy love this movie </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been looking for this movie for years and was happy to finally get it on DVD at an excellent price.  Movie was everything I remember from back when it first came out.  A++ </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Glad this finally was released in dvd format </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Amid the 80's spate of first-rate John Hughes coming-of-age films, Michael Apted offered this darker tale.  To be honest, the only thing that really links this film to that time is the music.The kids are the heroes in this film.  The adults are completely ineffectual, checked out, self-absorbed or bullies.  Set against the backdrop of a "good" neighborhood and a "good" school, the kids are the ones who have to make the rational decisions, as the principal adults can't or won't.  Christopher Collet and Corey Haim do a remarkable job of conveying frustration, fear and strength in this film.  Terri Garr plays their weak mom fairly sympathetically, but it's hard not to dislike her character.  Peter Weller plays her villain boyfriend to slimy perfection, but he comes off like such a weak loser, it's not surprising Christoher Collet's character could kick his ass. I think the character would have been stronger and more malevolent had an actor like Tommy Lee Jones been given the part.  Now, THAT would have made for a ride of a film and much more of a nail-biter.Nevertheless, it's a good film with wonderful young actors. I am so glad this movie is accessible again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I first saw this movie on network tv </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-06-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great movie about a teen who spars with his mother's boyfriend who turns out to be a drug dealer and his brother gets in fights at school and he has school problems himself. All of this as a result of divorce. It is a good movie that deals with life dealing with divorce. Problems occur when you go through divorce and this movie depicts that. It was the day after Christmas in 1988 when network TV first televised this movie. And 24 years later it is still a good movie. That's what i like about classic movies--they don't change with time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Who was the real bad guy ?? </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Now looking back, their dad was the real A'hole in this movie!  He's the one that left a beautiful wife and kids for his own selfish reasons!  And wasn't there already issues in their household even before Peter Weller's character showed up? LOL - So here comes Sam, asking Jake what he thinks about opening a steak house, and Jake gives him attitude! In real life, Jakes character, being in high school, should have gravitated to all the partying Sam was offering; if Jakes character was played by Robert Downey Jr., the movie would have taken a different turn LOL!hahaa, fun times, though, i remember watching this movie in the 80's; it brings back alot of memories. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> On DVD At Last! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This has been a favorite of mine since it's theatrical run in 1984.  It was Corey Haim's first major film, and stars Teri Garrand Peter Weller, as well as Sarah Jessica Parker, Robert Downey Jr., and Christopher Collett.  The plot is about adivorcee (Garr) who, on the rebound, takes up with a ne'er do well (Weller), allowing him to move in.  It is obvious toher older boy (Collett) early on that the guy is a loser and a phony.  Slowly at first, but steadily, Weller starts to bring allthe members of the family down.  Critics have generally felt this Michael Apted film is outstanding for the first half, buttakes a wrong turn when cocaine is introduced by Weller into the equation.  I personally have known situations whereexactly this has happened and feel it doesn't hurt the film at all.  This is a family drama that is extremely well done andthe title &#34;First Born&#34; refers to the fact that the responsibility to keep the family together and get this guy out falls on Collette'sshoulders.  Outstanding! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The best of Collet </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Christopher Collet does this and one other and that is the end of him.  But enduringly.  I am thankful he even bothered.  WOW. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

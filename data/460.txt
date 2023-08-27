@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00F8K3H9I <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-16-2013  
+<h2> review.text </h2>
+
+ <p> This will work if you're motivated. I've done this in the past, (buying & selling products procured from different sources) & I stopped after getting a "regular" job. Big mistake on my part, because I made some decent money while doing it. Now, since I got layed off again, I plan to work a little harder at it & maybe I won't need to get a "regular" job again, </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some good sources for products. </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> While I suppose this might be helpful for the new person who had never resold anything, overall I found this book to be redundant.  Nothing new for me here! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not much help! </p>
+
+
+<h2> review.date </h2>
+  11-26-2013  
+<h2> review.text </h2>
+
+ <p> This book did not have the information that I was seeking.  So this review is not so much about the book as it is about me not choosing a book that fulfills what I was seeking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Content was not right for me. </p>
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> I bought this book and enjoyed reading it. The thing I noticed was that the author suggests talking to people and asking questions. A few days ago I talked to the guy at my local Thrift Shop. They get tons of donations every week. I asked him what do they do with all the stuff they can't sell. Long story short--HE GAVE ME 5 FREE TV'S! I was happy to get them and he was happy to see them gone. I gave him my business card, which is really just printed on printer paper. LOL He put it in his wallet and promised to call me when they get loaded down with other merchandise they can't sell.It's a simple concept but it really works. Just ask. You never know! I probably never would have started that conversation if not for reading this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great advice! Really works! </p>
+
+
+<h2> review.date </h2>
+  04-06-2014  
+<h2> review.text </h2>
+
+ <p> Little to recommend it. Many of the ideas are just common sense for someone buying to resell at markets or on Ebay. I cannot recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very basic introduction to buying </p>
+
+
+<h2> review.date </h2>
+  10-26-2013  
+<h2> review.text </h2>
+
+ <p> I have bought over 1,000 "free" ebooks for my kindle; and probably 200 or more that I actually paid for.  In my opinion, most of the free books are "ok", in that their content, or lack thereof, doesn't  surprise me.......HOWEVER......for the 99 cent price of THIS book, I was truly amazed! It is a true "eye-opener" for anyone who wants to try their hand at re-selling ANY kind of merchandise...be it old clothing, books, or even cars. I have had a moderate amount of success with reselling garage sale bought items on craigslist; but I was TOTALLY unaware of the idea of hitting up the local thrift shops! The author is concise,practical, and to the point. (The only reason I didn't give it 5 Stars was because of a few too many grammatical errors)... but I did find 11 new sources of product in my hometown to use! Thank you, Dennis J. Hester! I would recommend this book to anyone looking for a good , proven way to make some extra money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly valuable, for the price! </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> The book is just OK.  Has the tendency to ramble on and I grew board quickly.  Some sound ideas through.  3 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just OK </p>
+
+
+<h2> review.date </h2>
+  03-05-2014  
+<h2> review.text </h2>
+
+ <p> Didn't love it, didn't hate it. This is just another e-book banged out in spare time promoted to reveal the secrets of wealth and happiness. If you've never read a book like this it's okay. After you buy ten more of these you'll give up and just get to work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another junk book for junkies </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> This is a minimal book, gives info that can be searched online.  I thought it would help with acquisition of something, but nothing I could use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not worth the money. </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> So many time the information in these types of books are at best old news.  While I did not learn anything groundbreaking I wrote down several ideas I have thought of and never put into action.  Just acting on one of those ideas will put thousands of dollars in my pocket.  If you want to take back controll of your family's future and quit being one of the many that ensures Wal-Mart will be king of the hill killing jobs and draining resources then read this.  Several years ago my family and I spent 4k to 8k a year at Wal-Mart.  Today we may spend $700 and that is usually because it's last second and all other options for buying is closed!  I believe that we are to blame for the unemployment issues in our country and we need to take responsibility and keep the money we spend in our community helping our neighbors and making our friends and neighbors financially well off and by doing so you can also ensure you are also financially well off also. When I speak of local I am not just talking about your small town or general living area.  Today I consider anyplace.within a 2 or 3 hour drive local and sometimes anyplace in the country meaning the USA. Sam Waltons kids have plenty and can live without us giving them anymore! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Do yourself a favor and read this book then reread it several more times </p>
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> I've known Dennis for many years and can absolutely state that he knows what he's talking about in &#34;The Product Hunter's Guide&#34;. I've never known anyone who had as much talent in ferreting out profitable merchandise as Dennis. He can leave his house in the morning - and come home in the afternoon with all kinds of profitable products to buy cheaply and re-sell.If you're looking for a list of wholesalers, don't buy this book because you won't find it. But if you're serious about your independence, a person who can always locate profitable products regardless of economic conditions or what others are doing, then this is the book for you.  The Product Hunter's Guide is will teach you how to be self-sufficient so that you can find merchandise anywhere and everywhere without needing free or paid lists, which are usually worthless anyway.Dennis respectfully talks to anybody and everybody and he shares many interesting stories. All the methods mentioned in this guide are genuine and he has included them because of personal experience, NOT theory. If you take action and follow through on what you learn in this guide, you are certain to locate those elusive golden eggs, the in-demand goodies that the herd will never find.A respectful comment about the review that stated this was 'redundant' and there was 'nothing due' ... I've been selling on eBay since 1999 and I found much that is new in this book! This reviewer must be an incredible product sourcing expert indeed if he found nothing new here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dennis Hester Is A Genuine Product Sourcing Expert </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> A very informative book on where one can go about attaining brand new or used products at way below the average price, in order to flip on for a profit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really Informative </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

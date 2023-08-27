@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001HN695O <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-22-2013  
+<h2> review.text </h2>
+
+ <p> I bought this because I love sailing and I wanted to watch something with some cool sailing information and visuals.It was fun, however, it is set-up like a 'vote off the island' reality TV show which causes pointless time wasting drama that doesn't need to be there (as if the race wasn't dramatic enough).  More of the movie was about the training and the drama of choosing the crew rather than showing the actual race, this kept it from being great.I enjoyed it, I bought it for less than five bucks used, but I wouldn't recommend spending more than that, fun but not great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It is fun, not great, too much 'reality TV' junk. </p>
+
+
+<h2> review.date </h2>
+  11-04-2009  
+<h2> review.text </h2>
+
+ <p> A bit dissappointed by lack of any real tactics or technical discussions by the crew and schipper, but beautifully filmed...In short a bit "LITE". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bit more sailing content woud have been better than a song... </p>
+
+
+<h2> review.date </h2>
+  06-16-2009  
+<h2> review.text </h2>
+
+ <p> The Transpacific Yacht Race, a race featuring competitors from all over the globe as they start from Point Fermin (southern edge of Los Angeles) and travel through the Pacific Ocean through unforeseen weather conditions and try to reach their goal in Hawaii.  A 2,225 nautical mile contest that is known for its challenge, its adventure and teamwork as everyone aspires for excellence.Executive producers Roy E. Disney who has been part of the Transpac Yacht Race since 1975 and Leslie DeMeuse (who works as an ESPN producer) who also participated in sailing competitions when she was a teenager are passionate about this race and came up with an idea of what if they can find 11 young rookie sailors who had to work together and compete in the 2007 Transpac Yacht Race."morning light" is a documentary directed by Mark Monroe and feature cinematography by Josef Nalevansky.  The documentary is based upon Disney and his staff finding the young men and women who have sailing experience from college, those who were determined to compete in a professional race.From 538 applicants down to the initial 30 people invited to Long Beach, California and become part of a small competition trials to determine the applicants strength and weaknesses.  From these 30 competitors,  Roy Disney, Leslie DeMeuse and sailing master Robbie Haines and crew decide on the  the final 15 who were then invited to train in Honolulu, Hawaii and undergo intensive training.  These young men and women range from the age of 18 through 23 years old.After the training, the team leaders will need to determine who will be part of the final eleven who would compete and then prepare for their 2,225 mile competition as they get to ride the 52-foot high, high performance sloop known as "morning light".The documentary shows us the men and women who go through training in Hawaii and have to learn safety (several professionals have died in Transpac Yacht Race competitions due to unforeseen weather conditions and inadequate safety preparation), due to the demands of the boat and having to continually grind and lift objects, they need to be in their best shape and to do things quickly.Although the main 15 people get along, we see a few individuals who face major challenges.  One sailor goes off to the ski slopes during her training off day and ends up breaking her wrist.  Now she is in the risk of not being able to compete professionally.  Another sailor has problems swimming and now he is in jeopardy of not making the team.  And just the sense of competition of which person will lead the team, who will take what position and then having to decide which of the four people will be cut from the final 11.And once the race does start, they must work together and make wise decisions in their first professional race.AUDIO & VIDEO:When it comes to picture quality, "morning light" is presented in 1080p High Definition (aspect ration of 1:85:1).  As a big fan of documentaries shot on the ocean, especially in Hawaii, I can tell you that you get very beautiful shots of the sloop on the ocean and nice and beautiful blues of the ocean and the skies.  Because the film was shot outdoors, you get to see the vibrancy of the reds and yellows and with occasional shots of Hawaii, we get to see the beauty of the island. Skin tones are natural (well, considering everyone had to apply the lotion on their faces) and blacks are nice and deep.  There is little artifacting and noise that can be seen on certain scenes in the documentary but nothing terrible.But the primary focus is on the ocean and that is where the majority of the action takes place.  This is a documentary shot in the ocean and because of the amount of shaking and constant movement, it was noted on the special features of how challenging it was for Director of Photography Josef Nalevansky.  There are a few scenes in which drops of ocean water get on the lens but for the most part, considering the challenges of instability on the sloop's movement, picture quality is pretty good.As for audio, audio is presented in English 5.1 DTS-HD (48 kHz/24-bit).  Dialogue is clear, music is clear but you get the occasional bad weather with the rains and thunder, the winds and the crashing of waves which come alive.  Documentaries are not exactly something to expect superb audio and full usage of all channels but overall, "morning light" manages to capture the sounds of the ocean and of course, the youthfulness of the film by its rock n' roll soundtrack.As for subtitles, "morning light" is presented in English SDH, French and Spanish.SPECIAL FEATURES:"morning light" comes with two featurettes.  Both are featured in 1080p High Definition with English 2.0 Dolby Digital sound.  English SDH, French and Spanish subtitles are also included.Included are:* Stories from the Sea with Host Jason Earles - (28:32) "Hannah Montana" star Jason Earles stars in a featurette about behind-the-scenes footage of what was not seen in the documentary, including interviews with both Roy E. Disney and Leslie DeMeuse.  Learning how Josef Nalevansky was chosen to shoot the documentary.  Also, learning of the impressions of the youths who were selected and what happened to some of them after they were cut from the final selection.* Morning Light: Making the Cut - (41:52) The actual special that was shown on ESPN.  This featurette focuses on the final 30 people who were selected among the 538 applicants.  How they had to compete and be evaluated by Roy Disney and his crew and in the end, the 15 people were chosen.  This special was enjoyable as we learned of the things that transpired before the actual documentary.  So, I'm glad this was included on the Blu-ray.JUDGMENT CALL:I happen to find "morning light" quite enjoyable to watch.  I have always found it entertaining to watch films especially about college students who have taken up collegiate sports that may be unfamiliar with most people.  From rowing competitions featured on the 1984 film "Oxford Blues", to people competing in badminton, surfing and various competitions.  In this case, college students who were (and some who still are) members of their collegiate sailing team.I found it fascinating to watch these young men and women who were very passionate about sailing and how excited they were to be part of such a project.For Roy E. Disney and Leslie DeMeuse, to film a documentary on the sport definitely helps generate interest but also brings the spotlight to these athletes and gives us who are not familiar with these competitions a chance to see what is involved.So, as a documentary, I found it quite entertaining.  If anything, it was good to see everyone come together as a team.  There were no major squabbles, if anything, the most difficult part that these people had to endure outside of the competition was having to cut the four people they trained with for six months.  And of course, those who were cut having to face disappointment.I found the whole race and the cinematography captured to be quite breathtaking.  I am quite biased towards aquatic based films and I just found the whole sense of leadership, teamwork and adversity among these rookies who don't know each other all that well, having to come together and work together for ten grueling days in the middle of the ocean with no one but themselves to depend on.It also helps to have two enjoyable featurettes, one special that was shown on ESPN showing the viewer what transpired before the documentary of "morning light" and another featurette that shows us what happened to some of the people who were cut from the team but were given some real awesome opportunities.  But what caught my attention was when both Disney and DeMeuse were talking about "Trash Island", areas in the Pacific Ocean where people who have dumped their litter and it has all been collected in certain parts of the ocean and have become poisons to aquatic life (plastics dissolve into polymers and become ingested by aquatic organisms and enters the food chain).  I was surprised to hear about all this.Overall, "morning light" may not be a documentary for everyone.  I can see sailing enthusiasts and those who are open and are curious about the Transpacific Yacht Race to watch this documentary and enjoy it.  I've never sailed in my life but I do appreciate the sport and enjoyed the documentary.If you are a person who has an interest in sailing or any ocean sports, I definitely recommend giving "morning light" a chance! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blu-ray: This film may not be for everyone but I found the documentary to be quite enjoyable and inspiring! </p>
+
+
+<h2> review.date </h2>
+  06-10-2009  
+<h2> review.text </h2>
+
+ <p> Who would have thought, back a few years ago, when there was much ado going on at the top of the Disney Organization, that the above words would actually appear on a Walt Disney Pictures release?Morning Light is the true chronicle of a hand-picked team of young people who are given the chance to train and compete in the Transpac sailing event, which has been Roy E. Disney's passion since the mid-seventies.I'm not a sailor but I have run marathons and triathlons and know the feeling of those comparably small triumphs (though I'll never win -- in fact one year i was passed by a man walking his dog!) The character of the individuals chosen, their work ethic and team spirit is very sincere and a far cry from the preening, backstabbing types that infect many TV reality shows. This follows a reality show format with lots of comments from the participants as well as a selection process where several are eliminated and are left to send messages from the mainland (where the food seems to be really good).I found it much more compelling then the current crop of Hollywood sports movies in which a ragtag bunch of can't-possibly-win team members somehow come together under a down-and-out coach and eventually win as music swells... you know what I mean. The crew in Morning Light are a very likable group of people who you find yourself routing for (parent's note: there are a handful of words that earned this film a PG rating, but not nearly the kind of language also common on many reality shows).The photography is stunning, especially the night shots, which I'm hoping are not computer generated since they are so breathtaking (say it ain't so, Roy).  The score is good too, with contemporary music, songs and even a number by members of the crew at the end of the film. Where's the soundtrack album?There are only two extras but both are rich in rounding out the full scope of this project. Hannah Montana's Jason Earles hosts one feature about the film's production itself, which sheds more light on the camera work, training and other elements. An ESPN special focuses on the elimination, showing more of the earlier hopefuls and clearly how some with "attitudes" were wisely given a polite dismissal.In a sea of poor role models, kids can certainly do worse then getting to know this group of youths who not only worked hard and showed integrity but also went on to promising futures in careers or continuing education. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Roy E. Disney Production that entertains and inspires... </p>
+
+
+<h2> review.date </h2>
+  02-14-2014  
+<h2> review.text </h2>
+
+ <p> Fifteen kids were selected to train to sail in the Transpac race from California to Hawaii.  What a marvelous opportunity!  There's info about the selection, training and then the race.  The photography is fabulous. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent movie </p>
+
+
+<h2> review.date </h2>
+  09-12-2009  
+<h2> review.text </h2>
+
+ <p> This is not only a wonderful story of youthful challenge, it is also a brilliantly filmed sailing story. I have sailed all my life, this film captures the thrill of ocean racing like no movie has before. Thanks to Roy Disney, not only did 15 kids get the opportunity to sail a powerful TP52 for 6 months, but we got to share the experience, the joys and agonies, the fear and the fun with them. Recommended for all ocean sailors and armchair sailors alike. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Sailing Film I Have Ever Seen </p>
+
+
+<h2> review.date </h2>
+  01-24-2014  
+<h2> review.text </h2>
+
+ <p> If you enjoy sailing, you will probably enjoy this movie. It is an interesting documentary of a young boat crew. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting documentary </p>
+
+
+<h2> review.date </h2>
+  12-28-2009  
+<h2> review.text </h2>
+
+ <p> This movie was insirational. It made it here on time and my Dad who enjoys sailing really liked it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disney Review </p>
+
+
+<h2> review.date </h2>
+  06-17-2009  
+<h2> review.text </h2>
+
+ <p> With a few exceptions, Disney has not done many documentaries.  But that made me even more curious about this film.  Walt's nephew Roy Disney is a sailing enthusiast, and he decided to sponsor 15 eighteen to twenty-three year olds to train to compete in the 2007 TransPac race.  This documentary follows the group for the entire six months they trained as well as the actual race.Now if you are wondering what exactly the TransPac is, it's a race that covers the 2000+ miles from Long Beach California to Diamond Head, Hawaii, the longest stretch of open ocean.  For sailors, this is considered the ultimate race.The documentary starts with the training, which involves everything from physical fitness to emergency preparations and, you know, actual sailing.Unfortunately, only 11 of the sailors can actually man their boat, called Morning Light, for the actual race.  After four months together, the group must select the actual team.Then comes the day of the actual race.  In a race like this, any little mistake can win or lose it.  With that kind of pressure, can they win?This documentary really breaks down into two halves.  The first half, the training, is certainly interesting, and I learned a lot about sailing from it.  Things get even more interesting when they switch to the actual race.  I was drawn into their quest to win even if it wasn't nail biting suspense.But what really got me was how likable everyone was.  I'm used to reality TV fair where people seem to be cast more for how obnoxious they can be than anything else.  Yes, this movie had a few moments of drama between various people, but it was never overdone and mainly focused on the positive of them working together.Of course, my biggest wish was that they would have turned this into a TV series.  100 minutes just wasn't enough to capture everything that happened during those six months.  Heck, I really only felt like I got to know three of the 15 kids.  13 hours would have given us a better feel for what they really went through and learned.If we aren't going to get the longer series version of the story, this one is well worth watching.  I thoroughly enjoyed this look into a sport I didn't know much about. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Sailing Fan's Dream Come True </p>
+
+
+<h2> review.date </h2>
+  06-25-2009  
+<h2> review.text </h2>
+
+ <p> The Amazon review above stinks.  Ignore it.I would never, ever, have known of Morning Light if I had not been the only other person in an advanced meterology class in Seattle under master weatherman Lee Chesneau.  The skipper Jeremy, the navigator Piet, and the back-up navigator Chris, and I, spent a full week together.  I ended up feeding them and the instructor a lot of sushi.These three were a cut above the norm, but one of the things I learned from being with them was just how normal the crew was, and the fact that they were giving up a working position in order to carry a camaraman--in other words, they came in second to a world-class professional crew even though handicapped by one cargo camaraman.  I was surprised not to see this mentioned in the film.As for the film, it had me on the edge of my seat and as mundane as some may find aspects of the film--not exactly a James Bond movie, and certainly not a drama with hotties such asWind--for anyone who loves sailing, this is absolutely a great film to view alone or as an excuse for a gathering of like-minded folk.My biggest disappointment in the film is the lack of detail on training--absent my comment and my direct experience, no one would know they got advanced meterology training, or that their initial southern pick went against everything they were taught (the wind rotates counter-clockwise).  Nor did I learn anything of other training.From talking to them I learned far more about the training and the details of equipping the boat, e.g. they were each allowed one small sack of personal items, and as the boat was put together there were furious arguments about the exact weight of the navigation light at the top of the mast, and the weight of the wire from the light to the power source.  That is the kind of stuff I was hoping would be in this film.So a bit disappointing, but a superb contribution and one that I would recommend as a gift to any aspiring sailor from high school onwards.Other DVDs in my sailing library (see my Amazon List):Volvo Round the World Race: The SEB Stopover Reports.Racing To Win with Gary Jobson </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worthy of time and money, could have been better </p>
+
+
+<h2> review.date </h2>
+  01-01-2010  
+<h2> review.text </h2>
+
+ <p> ***1/2Since 1906, boaters from all corners of the globe have gathered to compete in the Transpacific Yacht Race, a two-week-long sailing competition that extends across more than 2,000 miles of open ocean, starting in Los Angeles and ending in Honolulu.  In 2007, Roy Disney and a team of expert trainers sponsored a hand-picked crew of young sailors - ages 18 to 23 - to compete in the event (indeed, it was the youngest team in the history of the race).  Named after the 52-foot boat on which they sailed, "Morning Light" is a documentary account of both the preparation for that race and the race itself.The movie spends much of the first half focusing on the grueling training the youngsters underwent as part of the process of whittling down the group of 15 hopefuls to a final crew of just 11.Directed by Mark Monroe, "Morning Light" is a wholesome, upbeat, fast-paced documentary with razor-sharp editing (by Monroe and Paul Crowder) that really gets the adrenaline pumping, and cinematography (by Josef Nalevansky) that truly makes you feel like you're a part of the action.  Through interviews, we get to know a little about the youngsters themselves, what motivates them, what excites them about sailing, and what it means to them personally to make - and, indeed in some cases, to not make - the final cut.With its inspirational, shoot-for-the-stars pop-rock soundtrack, MTV-style editing techniques and "Real World" communal setup (albeit a squeaky-clean one), the movie is clearly aimed at a younger audience.  And there are times when the movie does feel a little too "Disneyfied" for its own good (did none of these young adults ever once swear?).  But folks of any age will be able to thrill to this film, provided they have a spirit of adventure - armchair variety or not. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> impressively shot documentary </p>
+
+
+<h2> review.date </h2>
+  06-14-2009  
+<h2> review.text </h2>
+
+ <p> Version: U.S.A / BVHE / Region FreeAspect ratio: 1.85:1MPEG-4 AVC BD-50 / AACSRunning time: 1:37:56Feature size: 29,013,700,608 bytesDisc size: 44,457,194,229 bytesTotal bit rate: 39.50 MbpsAverage video bit rate: 32.54 MbpsDTS-HD Master Audio  English  3793 kbps  5.1 / 48 kHz / 3793 kbps / 24-bit (DTS Core: 5.1 / 48 kHz / 1509 kbps / 24-bit)Dolby Digital Audio  French  640 kbps  5.1 / 48 kHz / 640 kbpsSubtitles: English SDH, Chinese, French, Indonesian, Korean, Malay, Portuguese, Spanish, ThaiNumber of chapters: 13# Stories from the sea: Hosted by Jason Earles (HD - 28 minutes)# ESPN Special - Making the cut (HD - 41 minutes) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Morning Light - Blu-ray Info </p>
+
+
+<h2> review.date </h2>
+  03-28-2010  
+<h2> review.text </h2>
+
+ <p> I came to this hoping to gain some insight and knowledge about the Transpac, about what exactly is required to be competitive, and how people go about mounting a successful campaign. But oh sure: I was also hoping to be entertained.Right away: alarm-bells went off: "The sea-route between California and Hawaii is the loneliest stretch of ocean in the world." Oh, d'you really think so? The narrator obviously hasn't readGodforsaken Sea: The True Story of a Race Through the World's Most Dangerous Waters, which is the story of a single-handed race through the Southern Ocean near Antarctica, where even NORMAL weather is 60' waves, and of which is said: "Below 40 degrees (latitude) there is no law; below 50 degrees, there is no God" (and is an utterly thrilling read as a result).A few minutes in, the thought came to me: "The director has no interest in the actual subject-matter, and doesn't trust that it's interesting in itself to anyone." Evidence? The pounding sound-track; the trick zoom-shots; the speeding up and slowing down of time for dramatic purposes; the personality fluff; the lack of any hard information at all about sailing.Do not get me wrong: if you grew up with MTV and "reality" game shows, really like looking at very photogenic young men and women (all of whom are dead serious about this race, unlike the director), and are not looking for any actual information about sailing, you may well love this.This review will no doubt get slammed, but that's OK: I put it here for people like me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MTV meets "Reality" show meets Sportscenter </p>
+
+
+<h2> review.date </h2>
+  10-17-2013  
+<h2> review.text </h2>
+
+ <p> A very exciting documentary about a group of college students who learn to work together and enter a sailing race.It's a great true adventure that the whole family will enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> True Life Adventure </p>
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> Roy Disney assembles a crew of young people to enter the Trans-Pacific Yacht Race, from California to Hawaii.  This is their story.  Having been at the finish line, and also having interacted with the film crew and sailing crew plus support people at the Waikiki Yacht Club, I can say that the story captures the spirit of the race, the hopes and aspirations, and the disappointments along the way.Video shot off boats often end up pitching, and has a tendency to make the audience seasick, but this one is well photographed, and none of that effect is seen here.  In fact, there are moments of haunting, poetic beauty, and the only regret is that most of the land-bound audience will never see it in person. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Drama of Youth </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> Not much story, just racing information. Racing boats are striped to lighten, have little in common with cruising boats. My appreciation of sailing is more inclined to enjoying the trip and seeing the points of interest along the way, not so much an all out rush to get to point B. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you love racing sailboats this is for you! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

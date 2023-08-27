@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00DQGA6MW <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-07-2013  
+<h2> review.text </h2>
+
+ <p> I loved reading King of Bad by Kai Strand. It is a great story about Jeff. A typical  troubled teenager who learns he is a Super Villain and is recruited to go to an academy to develop his newly discovered powers. There he struggles between being a "bad" guy and still wanting to be a decent human being.I recommend this story to anyone who enjoys reading a well written YA book. It was hard to put down. And I found myself sad that the story was over.Kai Strand writes another great book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Keep you reading to the end </p>
+
+
+<h2> review.date </h2>
+  11-16-2013  
+<h2> review.text </h2>
+
+ <p> The only thing I didn't like about this book was that it had to end.  I wanted to finish it, but I didn't want to see it end!Great character development, good twists, and a unique storyline among a common tale of villains and superheroes.  The story flowed well and smoothly, and the author did an excellent job of making me feel like I was inside the story, inside Jeff's head.  This story is a unique gem among a common theme of superheroes.  The author does a great job of balancing the character with the action, the setting, and the plot.  I never felt like I was reading a story; I felt I was a part of the story.  I'd love to see it on the big screen!  I can't wait to see what else Kai Strand has to offer her readers.I'd give this book five stars!  An A+!  And absolute 100.  Even though it's a young adult fiction, it was a great read for adults as well.  I couldn't put it down.  I wanted to see what would happen next and was surprised in the end.  Highly recommended for you or your teen! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A+ </p>
+
+
+<h2> review.date </h2>
+  08-09-2013  
+<h2> review.text </h2>
+
+ <p> Take a bad boy who likes to start fires. Add a school for Super Villains. Mix in a family secret. Stir, and you have a delightful story that will have you laughing and crying and falling in love with the characters and the situations they find themselves in.Award winning author Kai Strand has written another winner. KING OF BAD, fantasy for YA, is the story of Jeff Mean, a typical sixteen-year-old boy who attracts trouble, constantly thinks of girls, and doesn't understand his parents at all. Oh, we mustn't forget, Jeff can also shoot fire from his fingers, which makes him a bit different than a "normal" boy, if there is such a thing. Jeff's talent (or ability, or whatever you call it) changes his life forever, and he soon finds himself attending a most unusual school called Super Villain Academy that teaches the students how to be really good at being bad. What follows is an adventure for Jeff and for the reader as well. We meet an interesting cast of characters, each with his, or her, own abilities. Jeff is attracted to two girls, Oceanus and Mystic, in quite different ways. Along the way to being bad, he discovers some amazing truths about himself.I don't want to give away too much, so I'll just say that when you think you have the story figured out, Kai Strand throws in a twist or two that you don't see coming, at least I didn't. KING OF BAD should appeal to teen boys (and girls) that sometimes feel as if they don't belong in their family, or anywhere, for that matter. The teen years are tough, and Jeff is a hero that kids can relate to. I recommend this story for reluctant readers and everyone who likes a character that's far from perfect as he struggles to discover who he really is.### </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Bad Boy, A School for Villains, A Fun Read </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> Only bad thing about this book is the length, almost a short story but still long enough to be very good.  Can't wait for the sequel!  Without going into spoilers this is a great superhero novel that shows things from a young supervillain angle, most supervillain books have the main character 35-40+ but not this one!  I also enjoyed the fact that the main character is a male where the author is female, shows lots of courage and skill to pull that off so I applaud the author and look forward do the rest of the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read for YA fantasy! </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> OK war and peace it isn't but this genre is sorely lacking in the well written weekend read department. Hope to read ten more just like it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fun fast the xman movies should have been like this </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> First, I would like to thank the author Kai Strand for giving me this book for an honest review. I liked the characters, they are well developed and fun to read. The story line was a nice chance of pace. I really had fun reading this book and look for more from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dalene's Book Reviews </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> The story was ok I guess but really had some lame aspects to it and the conclusion was so lame it was a major disappointment. One of the key aspects of the story is the idea of super villains. But super villains are portrayed as a lame caricature/stereotype making it very unbelievable and hard to relate to the characters in the book. The story started out OK (not great but OK) but kind of went downhill with immature portrayal of people's thoughts and emotions and it just kept going downhill. The description of super powers in the book was also not well done and the world building was poor. As I mentioned this culminated in an ending that was just silly. It is certainly not the worst thing I have ever read and had some redeeming features but overall I found it disappointing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kind of lame </p>
+
+
+<h2> review.date </h2>
+  10-09-2013  
+<h2> review.text </h2>
+
+ <p> Living up to his name, Jeff Mean is trouble personified. It's no surprise he'd be courted by a school for Super Villains. And once he gets there, the real fun starts.Kai Strand does an incredible job exploring the world of super villains and reminding us that one bad apple is not the same as another.A great story about living up to your potential goodness or, in Jeff's case, badness, and the power of friends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting twist on a super story </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> This is an interesting idea for a book.  This book is a good introduction to the characters and the author.  Both have lots of potential </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good idea well written </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> The angst of teenage rebel-dom sparked with the underlining thread of doing good.Jeff is quite the dare devil. He likes the thrill of a good chase and the thought of getting caught, while doing something he shouldn't. Repeat: the thought of getting caught. It's mental adrenalin to his already overactive brain and physicality. He feeds on that high. And there's a reason.It isn't far into the story that Jeff discovers he's different. That fact that he can start fires with his hands was definitely a clue, but it all seemed too far fetched. Soon, he learns that he's not alone, either. There are other teens like him. Kids with real unique talents. And the strangest thing of all is that they all attend SV Academy. SV meaning Super Villian. Yeah. That's the reason Jeff has a predisposition to being a rebel. It's in his genes.I honestly wasn't sure I was going to like this premise. At first, I thought it was unique, but had no idea how the author would pull it off. What teen wants to read a book about how bad all teens are? (I mention this here, because I'm sure that same thought has crossed a few of your minds as you read my words.) Trust me. This story was well worth the read, and the author pulls the 'bad' aspect off with balance, structure, and - believe it or not - goodness.The super powers Strand uses to create her characters' world are altered slightly from the norm, giving freshness. As these students engage within this school training facility for teen villians, their inner growth becomes as apparent as their outer changes. There's mystery in characters who aren't what they seem; then again, sometimes they are.As complications weave the story towards it's climax - which, yes, has to do with dangerous bad-guy villiany stuff - Jeff discovers another power he possesses with the help of a few SV friends he's made. Only thing is SV's don't believe in true friendships. Remember, they're all villians. Or are they? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Teen Villiany - Go Figure. </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> This book has been on my TBR (to be read) list for awhile.  It sounded very intriguing, so when I was offered the chance to review it, I automatically said yes.  Luckily, the book didn't disappoint.I think the title is an excellent fit for this book.  Even Jeff's sister refers to him as the king of bad at one point.  It's also an ironic fit for Jeff as we soon discover.  (And don't worry, that wasn't a spoiler).The cover is alright.  I like the whole fire and ice thing going on with the cover which fits nicely with the book.  I just wish there was less person and more scenery in the forefront.I loved the world building!  It made me wish I was part of it.  Strand does a fantastic job of making the world of King of Bad seem like it's a real thing.  The setting takes place in the United States although there are super villain and super hero academies all around the world.  I like that Strand kept her novel set in the real world instead of some made up fantasy world.  It makes it feel more real.  The only thing I found confusing was the end.  To me, it just felt a bit rushed, and just left me scratching my head wondering what had just happened.The pacing is very enjoyable, and I found myself becoming more and more immersed with what was and what would happen to Jeff.  Like the world building, the pacing does speed up a bit too much towards the end for my liking.  Personally, I felt that things should've been better explained.I loved the plot!  It's about time we see the perspective of the world from a super villain!  All too often, books tend to focus on the super hero.  I liked the idea of a Super Villain Academy and seeing how the children were all trained to be bad.  When a super hero academy attacks Jeff's school, I was actually rooting for the bad guys although it didn't feel wrong.  There is a plot twist which I really enjoyed.  There's no cliff hangers in this book that I noticed, so it can be read as a stand alone.The characters were fantastic.  It was hard not to love Jeff.  He had fantastic manners for a baddie, and he was also very sarcastic which was my favorite thing about him.  Source was probably my favorite character.  I loved his nerdiness, and I could totally relate to him feeling that he didn't really fit in although Jeff felt that way as well.  Oceanus came across as conflicted which I believe was intentional.  She didn't want Jeff to think of her as a nice girl because she was supposed to be a villain.  However, I did like Oceanus very much, and I kept rooting for her and Jeff to get together.  Mystic is a fantastic character, and I never really trusted her.  The author does a fantastic job in making the reader feel conflicted about Mystic which is also intentional.  She had the power of suave which I thought was a fantastic ability.  She also comes across as a caring and sweet girl for the most part.The dialogue and character interactions flow very smoothly.  Nothing ever felt forced or awkward writing wise.  There is some swearing in this book as well as some sexual references and violence in case that isn't your thing.Overall, King of Bad is an enjoyable and original read.  My favorite thing about this book were the characters and reading about super villains as opposed to super heroes.I'd recommend this book to those aged 15+ who are feeling a little bit bad although they're really good.  If you enjoy great characters and a fantastic plot, then this is the book for you!(I received this ebook for free from the tour host in exchange for a fair and honest review.  This review also appears on my blog). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic Plot and Characters! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

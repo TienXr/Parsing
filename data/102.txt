@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B005SXT6RW <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-31-2012  
+<h2> review.text </h2>
+
+ <p> I started taking notes with my iPad using a cheap stylus and within three classes the tip got dull, and so I purchased this one, and I have been using it for a while and it is quite durable and much accurate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good stylus! </p>
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> I love this. I bought the firm nibs and have found that they suit my writing style much better. The weight is nice. I wish it was a tad longer, but it's by no means a deal breaker.The stylus has a silicone coating on the outside, which seems to attract dyes and dust like no other. I'd recommend, if you plan to keep this in a pocket or otherwise, considering a darker color stylus. Mine is kind of a purplish gray from the inside of my Ipad pocket. Otherwise, a great investment, as you can sometimes get pretty good deals on the nibs and won't have to replace your stylus ever again.OH, and the clip is removable, for those of us who need the extra room when writing! (It got in my way) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great pen, the white will get drab </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> I thought the Duo was the only counterfeit I received, but when this gift came back to me, I determined that it was a forgery, too. No wonder the recipient didn't like using it. Now that Wacom has a new generation of stylii, these are going to be hard to find, and frankly with all the counterfeits out there, I wouldn't recommend anyone try to get one.Instead, look for theWacom Bamboo Alpha Stylus for iPad/iPhone/iPod Touch/Kindle, White (CS130W). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great stylus, genuine Wacom Bamboos are great, but mine was a counterfeit </p>
+
+
+<h2> review.date </h2>
+  07-02-2012  
+<h2> review.text </h2>
+
+ <p> Don't buy it in white unless you really need it. It easily gets dirty and you have to clean it very often if you mind having a good appearance.Besides that, this stylus is better than the Griffin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK, but not white </p>
+
+
+<h2> review.date </h2>
+  03-13-2012  
+<h2> review.text </h2>
+
+ <p> Again, WaCom comes through with a high quality product. I've used other bamboo products before so this is the reason I chose to purchase a more expensive stylus. You can get stylus' for $10 on Amazon and that's what you get - a $10 stylus.  For $29, this is on the expensive side and I'm not quite sure it's worth all that (hence 4 stars instead of 5)-- but since I've tried multiple styli...this is the one I pick up most frequently. I like the balanced feel in my hand...and the writing capability seems smoother. If you want to use it for precise drawing, I'd find a different stylus. Only wish it had one of those audio jack connectors. The tip is the more pointed version...and if you need to make an adjustment, the tip holder screws in and out to change the angle of use. (Personally I don't use that part). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality...comfort...and funtions well </p>
+
+
+<h2> review.date </h2>
+  01-14-2013  
+<h2> review.text </h2>
+
+ <p> I bought this just to play the draw something game on iPhone, and hoping for more precision than my fingers. The tip of the stylus paints a much thicker line than I was hoping for, a bit like using your little finger on the touchscreen. But it does the job.My friend bought the super cheap 3 piece stylus pack on amazon for a little over a dollar (with free shipping), and hers works just as well as this more expensive one.My advice - buy the cheap ones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job, but overpriced </p>
+
+
+<h2> review.date </h2>
+  11-30-2012  
+<h2> review.text </h2>
+
+ <p> Good weight when you hold it- feels like a solid product. Good for basic navigating or using your touchscreen device while cooking- to avoid a sloppy screen!The nib is too wide and squishy for any sort of accurate drawing or editing, but for what I purchased it for- it's perfect! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great quality </p>
+
+
+<h2> review.date </h2>
+  04-09-2013  
+<h2> review.text </h2>
+
+ <p> The tip is very conductive. I use it with Paper and Sketchpro on my ipad. No matter how many other stylus I have tried, this is still my favorite.But I wouldn't get the white one next time. It turned into my skin color after about 2 weeks of hard use....There is nothing wrong with the rubber tip, but the soft material of the white surface has started to pile around the grip. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best Stylus I own, One out of Three </p>
+
+
+<h2> review.date </h2>
+  07-11-2013  
+<h2> review.text </h2>
+
+ <p> The single star rating is to attract potential buyers to beware of this seller...  when I have an actual Wacom, I'll rate accordingly.  Sorry for any inconvenience.I ordered a Wacom Bamboo Solo stylus pen (CS100W) direct from 'at-the-time' Amazon, only to find with the confirmation that the order had been changed and actually placed with a newcomer DEALS4SHARE that had absolutely NO history.  I do not buy from nonAmazon sellers with less than a 97%/12 month rating.  It was too late to cancel as the order was already shipping.  I checked Amazon and YouTube for counterfeit issues and sure enough that is exactly what I got from DEALS4SHARE today!!!  This CS100W Solo actually has a black roller-ball pen under the cap like the Duo model, though unlike the Duo the cap doesn't also fit over the nib end.  Kind of a cross between a Solo/Duo model in outward appearance.  I also ordered the 'suggested' Wacom standard/firm nibs at the same time, they were shipped separately from Amazon and they DO NOT fit this knock-off stylus.  Several other issues are present after taking the pen apart.See my photos, oh wait, Amazon deleted all customer photos...  :/Btw, this stylus is not very responsive and requires additional vertical pressure to engage.UPDATE 7-18-13:  I contacted Wacom and provided photos and receipt.  They confirmed this stylus is a fake and suggested I return it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beware!  DEALS4SHARE seller </p>
+
+
+<h2> review.date </h2>
+  02-24-2013  
+<h2> review.text </h2>
+
+ <p> I used my iPad regularly for personal and business use.  However, with the addition of PenUltimate (exceptional app) and this stylus, my ipad has become a vital part of my active day. I really love this stylus... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Has really made my iPad even more useful! </p>
+
+
+<h2> review.date </h2>
+  12-31-2012  
+<h2> review.text </h2>
+
+ <p> I bought this stylus after reading about how smooth it was, how it was great for things like illustration. However, I find that I have to press pretty hard to get it to register contact on the screen (iPad, Iphone). The crummy stylus I bought from who knows what company does a lot better! Very disappointed. I would never recommend this device. It's unusable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Need to press HARD to make contact </p>
+
+
+<h2> review.date </h2>
+  10-03-2013  
+<h2> review.text </h2>
+
+ <p> It's a great little stylus. The tip that comes with this is a bit soft so I bought a firmer replacement. Works great and barely left any smudges on my tablet screen. Construction is great but after some use... minor problems: the coating on the white part of the stylus is starting to peel off already after about a month or two of use, and the silver tip portion that twists into the white part of the stylus is starting to creak a bit when the rubber tip touch/press the screen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> Good stylus, a little heavy but is better than the generic ones in the market, Its a good purchase in my opinion, does the job. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Stylus. </p>
+
+
+<h2> review.date </h2>
+  11-18-2013  
+<h2> review.text </h2>
+
+ <p> Best stylus I've used with an iPad or iPad Mini. Highly recommend it, well worth the money. Fast shipping too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best iPad Stylus </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> I love my bamboo stylus. It's the perfect grip and the tips last a long time. I used my first one almost everyday for 6 months before it tore and had to be replaced. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This pen is the perfect grip </p>
+
+
+<h2> review.date </h2>
+  11-01-2013  
+<h2> review.text </h2>
+
+ <p> The Bamboo by Wacom is sturdy, well made, and feels comfortable in your hand. I use it primarily to write out notes or sketch out drawings and it works great for both of those things.n added benefit is that the rubber tip or "nib" is replaceable, so if it wears down, you don't have to buy a whole new pen, just order the replacement tips. The replacement tips also come in both soft and firm, so depending on your writing style one or the other way work best for you. The replacement nibs are $8 and come in a 3 pack:Wacom Bamboo Stylus Replacement ACK20501 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great iPad Stylus with Replaceable Tips </p>
+
+
+<h2> review.date </h2>
+  07-25-2012  
+<h2> review.text </h2>
+
+ <p> I'll be honest I primarily bought my pen to play a game. I wanted to be able to get better and more controlled detail for my pottery and it works fine for that purpose. I have a few other apps such as Penultimate and the Bamboo app for jotting down quick notes or recipes it works good also. I have small hands and ironically to me it's sort of short so when I hold it sometimes it feels awkward and it's lightweight so that's a plus. Of course it doesn't have fine detail like a writing instrument but if I'm on the go and need to "write" a note it's a pretty decent "pen". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For my new iPad and Let's Create Pottery game </p>
+
+
+<h2> review.date </h2>
+  04-04-2013  
+<h2> review.text </h2>
+
+ <p> If you are like me, and hate drawing on the iPad ( Does not matter the app) you must buy this Stylus. There are many stylus out there but non compare to the Bamboo Stylus. The one bad thing about this Stylus, is the rubber tip. It comes with a soft tip that I was able to rip somehow. I bought the replacement nibs but the firm ones and those work way better then the soft ones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must Buy! </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> the price reflects the stylus. I paid more for wacom becasue of the brand name and it's worth it. The pen writes very smoothly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great stylus </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

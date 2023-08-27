@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1489523707 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> This book was awesome. It made me laugh my tail off at Nina, day dream about Ian, be jealous of Grace, and then cried my eyes out some sad tears some happy. Unexpected is true to it's title. You have twist and turns that make you not want to put this book down. It's written by two sisters and I can't wait to read more from these ladies. Out of 5 stars I would give this book 4. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  10-01-2013  
+<h2> review.text </h2>
+
+ <p> Unexpected was, in a word, a surprise.  I generally select books based on the synopsis, but I was not fully prepared to be as thoroughly delighted and utterly affected as I was.Unexpected virtually hits the ground running.  Literally, from the Prologue, I was intrigued.  But then the book takes off in a completely different direction, and I found myself on a charming and entertaining journey of friendship and evolving love.  Throughout the reading, I kept recalling the Prologue and couldn't imagine how the authors were ever going to get back around to resolve what was left hanging.  As I continued to get farther into the story, and the reality of where it was all going began to hit me, I read page after page pleading with my Kindle, "Oh no.  Please no."  To say that the plot twist was unexpected may be a bit clich&eacute; given the book's title, but there's no other way to express it.Unexpected is a love story - a beautiful, romantic story of finding the one "unexpected" person who you could never imagine not being with.  It's also a reminder that it's important to sometimes keep things light and in perspective, and not take life too seriously.  At its heart, however, Unexpected is a story of learning to be yourself and trusting your instincts, no matter what "unexpected" obstacles life puts in your path.Dulaney-Glen created characters that I immediately connected to.  Ian Paul and Grace Holtson have an authentic, real quality that left me wishing I had real friends like them.  Ian is charming, and funny, and a true southern gentleman.  Grace is quiet, and self-contained, and honest-to-goodness lovely in every way.  To say that I was pulling for them from the start is an understatement, and as if the characters of Ian and Grace aren't wonderful enough, the authors also give us Nina and Andrew.Nina is the crazy, quirky, politically incorrect nanny to Grace's 12-year-old son, Milo.  Nina is unpredictable, impulsive and downright wacky.  She's also Grace's best and closest friend.  Despite her inappropriate comments and outrageous antics, anyone would be fortunate to have a friend as devoted as Nina is to Grace.  Andrew and Ian have been friends since college.  If Nina is wacky, then Andrew is blatantly daft, and he and Nina together (yes, together) are indisputably, well... weird, but in such an utterly endearing way.I'm really hoping we'll see (and hear) more from all of these characters, because they have endeared themselves to me.  Their dialogue is fresh and genuine, and there is a natural quality that never seemed forced or artificial.  Ian and Grace relate to one another in such an effortless and authentic manner.  Coupled with the unpredictable eccentricities of Nina and Andrew, I'm left with this conclusion:  Unexpected is undeniably unforgettable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Undeniably Unforgettable </p>
+
+
+<h2> review.date </h2>
+  10-18-2013  
+<h2> review.text </h2>
+
+ <p> Every once in a while a contemporary romance novel comes along that takes the reader on an emotional and satisfying journey, and that is exactly what authors/sisters Dulaney-Glen have done in their debut novel Unexpected.Set in the country music capital of Nashville, and told in the first person narrative with alternating points of view by Grace Holtsen and Ian Paul, the reader follows along on their journey of friendship and "unexpected" love. Theirs is a love story of two down-to-earth people who face day-to-day ups and downs that comes with the development of an unlikely romantic relationship. It's an emotional story that draws the reader into Grace and Ian's world, you can't help but relate and feel for them as their relationship builds, and they struggle with the fears, misgivings, holding back, learning to trust, and giving into the love that they have for each other.The story has a great mixture of emotion and humor that makes it easy to get caught up in Grace and Ian's story. Just as their relationship seems to take off and blossom, the authors throw in some unexpected twists and turns that changes everything, keeping the reader hanging on and turning the pages. The reader will fall in love with Grace and Ian, and I would be remiss if I didn't mention the wonderful supporting cast: Grace's lovable twelve year old son Milo and sassy best friend / nanny Nina, and Ian's best friend Andrew, whose quirky antics and humorous dialogue make the story that much more endearing and entertaining.Unexpected has everything that a romance fan enjoys: a love story that is built upon friendship, romance and humor, and the ability to overcome hardships with emotion and hope. This is a thoroughly enjoyable story, kudos to the authors on their wonderful debut novel.Disclaimer: I received a copy of the book from the authors in exchange for my honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unexpected </p>
+
+
+<h2> review.date </h2>
+  10-23-2013  
+<h2> review.text </h2>
+
+ <p> *I was given a copy of the book by the authors in exchange for my honest review*Unexpected by Dulaney-Glen was a breath of fresh air in the contemporary romance category.  The story was everything that I love about reading romance novels - it was entertaining, laugh out loud funny, easy to read, it had amazing characters, sexual tension that you can cut with a knife and it left me wanting more.The authors made the characters believable and attainable and along with their sexiness & charm gave them human character flaws.  Let's face it, most of us have been down the long, winding road of love like Ian and Grace and have come out of it with bumps, bruises and bandaids.  But, in the end, somehow the love you feel for a person is always  worth fighting for - right?  You just have to choose your path, make mistakes, try to find yourself along the way and hopefully the one you love will be waiting at the end of the journey.  And, most of us, if we are lucky, have a best friend like Nina that stands by your side through it all.  Maybe he/she's not as "fall on the floor laughing until you pee your pants" funny but a true friend and confidant nonetheless (I am especially referring to the bunny ears or should I say lack of - hehe).Hats off to these two wonderful authors!!  I really enjoyed this book for its colorful characters, rich content, smooth reading flow and organized plot.**5/5 Stars** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Get ready for laughs, tears and romance - a MUST read. </p>
+
+
+<h2> review.date </h2>
+  10-23-2013  
+<h2> review.text </h2>
+
+ <p> Grace and her friend Nina went the to the only place in Tennessee that the attendants pump their gas. With a little flirting they managed to get the guy there pump her gas. Little did they know, the guy pumping their gas didn't work there but that he was also a new employee of Grace's. Just a bit embarrassed when meeting Ian in the workplace they continue for some time a friendly banter. Grace is a young single mother and hasn't dating in a while and she and Ian seem to hit it off. Things become strained when a an old past comes to light and learns more about someone she lost long ago.I really enjoyed this book it was sweet. I liked that their relationship wasn't an instant kind of thing. I've read too many books with people having that instant connections where they pretty much profess their undying love for eachother it's cheesy and unbelieveable. I loved that with this relationship they took their time and their relationship felt real and believable. I loved the characters and loved the two best friends Nina and Andrew. They are crazy and supportive and I would've loved to see a story on their side seeing their lives and their relationship. There is a big twist towards the end, because everyone knows things can't stay perfect forever there has to be some type of obstacle for then to get through to strengthen their bond.Overall I really enjoyed this book and think you readers will too! 4 of 5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> Big thanks to K. Dulaney, K. Glen, and Andrea for an ARC copy for review.This was such a nice contemporary romance novel. It was a nice break from the paranormal world that I have emerged myself in lately. I really enjoyed the music aspect of the story, especially the behind the scenes look of the music industry.  Of course I can't forget the wonderful romance between Ian and Grace. Those two bring out a spark within each other, there were times their interactions had me blushing.&#34;Ian gently lifts my face to look at him. His perfect green eyes search mine as he leans in close to whisper, &#34;This is right, Grace. Let's go with it. No more holding back, no more questioning it.&#34; ~ IanIan Paul, what a sexy, southern man. That guy was charming, funny, caring, and extremely handsome. He seemed so much older and wiser that at times I had to remember he was 22 years old.  I loved the narrator, Grace. She was headstrong, independent woman, but also a very loving mother to her son, Milo. Her friendship with Nanny Nina had me laughing out loud quite often.&#34;Oh. My God,&#34; she whisper yells directly into the phone.&#34;&#34;What?&#34;&#34;I put one of those Playboy bunny stickers on my ass to see how much sun I was getting and somehow an ear fell off so now I have a tan line of a bunny with one ear.&#34; ~ Nina and GraceThere was a surprise twist in the story that I did not see coming, but I thought it brought more depth to the characters.  I would have like an epilogue set in the future, but the ending left me with a good feeling. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great story of love and second chances </p>
+
+
+<h2> review.date </h2>
+  08-11-2013  
+<h2> review.text </h2>
+
+ <p> This book had everything I love! A great love story, great chemistry and a twist that I didn't see coming. So many books have come predictable this book is not o e of them.  The prologue had me hooked. Ian and Grace are a great example of being able to overcome hardships. Their best friends made me crack up!! Great book!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unlike any other book. Must read!! </p>
+
+
+<h2> review.date </h2>
+  10-20-2013  
+<h2> review.text </h2>
+
+ <p> "Opportunities are sent in unexpected ways. Feelings, moments when life's path becomes clear. Surprises, that seem truly unimaginable, and encounters, fueled by fate. It is because of these rare moments in life that one must embrace what has been given, live in the now, and relish in the future. Sometimes all we need is to have faith in the unexpected."The prologue to this book sucked me in. I had to know what happened to cause this man to feel like this. What lies had she been keeping? What brought them to this place? It was a powerful prologue and it was all I needed to be completely invested in the characters. I was more than a little puzzled as I got into the book. It seemed so out-of-character for Grace to have put Ian in this spot. I was absolutely floored when I learned the truth. It was totally... unexpected."He stole the rest of my heart tonight. I know that no matter what happens tomorrow or days from now, I'll never want it back."The pace of this book is pretty slow, for the most part. Beautifully slow. We get to know Ian and Grace as they get to know each other. I adored both of them. They're such likable characters. No clich&eacute;d characters here. Despite the age difference, the fact that they are co-workers and that Grace is a mother to a nearly teenaged boy, they work wonderfully together. Their passion for each other didn't threaten to ignite my iPad like a lot of the new adult novels I read. It was understated, but no less powerful. Their attraction was very real and their feelings very deep. I could feel the love between them."I like to think that maybe fate had a hand in putting me in her life, and her in mine. That maybe that day it was decided by someone, that Grace was meant for me. That it couldn't be then because we weren't in the same place in our lives. But now, now is the time that we are meant, and that someone somewhere knew that. That we were planned. That this was planned."There was so much more to this book than just Grace and Ian's relationship and their journey. It was about friends and family. Loss and moving on. Finding yourself and forgiving others. Grace's best friend Nina plays a prevalent part in this story. I. Loved. Nina. She deserves a book of her own. She was strong and protective. She's the kind of friend we should all hope to be, or hope to have. There were so many special moments in this book that I can't even begin to talk about them. If you're an emotional reader like I am, you might want some tissues on-hand. As events unfolded, I think I used half a box. (Don't fret, it's not completely heartbreaking. Your favorite characters will still be present and accounted for at the end of the book.)I don't think I can say much else without fear of giving away part of the plot. Just know that this is a book you will want to read if you enjoy contemporary romance. The characters are rich. The plot is unique. The writing was heartfelt and beautiful. I couldn't have asked for more. This book couldn't have had a more fitting title. It took me by surprise in every way possible. I can't wait to read more from this writing duo in the future.***I received a copy of this book from the authors in exchange for an honest review. *** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Grace and Ian's beautiful journey </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> Grace is a single mom of a 12 year old boy and owner of a successful record label in Nashville. She is wound a little too tight and according to her best friend Nina she is an "uptight tootie." Ian is young and handsome and just moved to Nashville with his friends: the band members of Queen City. He s drawn to Grace the minute he sees her at the gas station. Who knew the beautiful stranger was also his new boss?The attraction between Grace and Ian is so strong and they spend weeks just talking and getting to know each other. The more she learns about Ian, the more she falls. And her walls are falling with her. Ian has never felt this way before and is he scared that Grace will break his heart.Unexpected, starts off with a prologue in the future showing an absolutely shattered Ian. All I was thinking was "what the hell did she do to him?!" As we go back and start at their beginning, we are part of a sweet and special friendship and love. Ian might be six years younger at 22, but he acts much more mature.Just as their relationship blossoms and Ian even starts bonding with her son, Milo, there is a huge twist that I did not see coming till the last minute. It changes everything and shatters the tentative love they have started. But Grace refuses to give up on them. The only question is, has Ian already let go?One of the great pluses of this story is the funny supporting characters. Not only do we have outrageous Nina but also the equally outrageous Andrew, Ian's best friend and roommate. Some of the banter between Ian and Andrew was hilarious and I really enjoyed Andrew's quirky personality.This was really a great book and a nice Unexpected surprise. It was fun and silly and sweet and sexy and heartbreaking. The only reason why I didn't give it 5/5 stars is because I was disappointed in the ending. I would have liked to have seen a more in-depth epilogue giving us a glimpse into the future of Grace and Ian.Read this and other reviews at [...] I received an ARC in exchange for my honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unexpected </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> All I can say is beautiful! These two sisters have the beautiful gift of writing and I hope this is not their last book! They take you on an unexpected journey,one where the anticipation almost kills you. I just wanted these two characters to find each other, but all the while knowing what I read in the prologue did not fill me with much hope! I read a lot of romance/erotica and this was a fresh and really sweet story, one of hope. So different from a lot of these books I have read in the past. And ladies, if you are as sentimental and soppy like me, here is a fair warning: keep the kleenex close by, you will be needing it!I would definately recommend this book to all out there, who believe in love and the realisitic happily ever after! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simply beautiful </p>
+
+
+<h2> review.date </h2>
+  09-24-2013  
+<h2> review.text </h2>
+
+ <p> As a reviewer I find that some books are hard to review and some books are easy. From the very appropriate title through the Un-named chapters and plot twists to the unexpected ending, authors and "Sister Act" Dulaney-Glen made this review very easy. We know from the brief prologue of their debut novel that something devastatingly unexpected is coming; yet, from chapter one we are drawn into an unlikely and unexpected love story between Ian Paul and Grace Holtsen that is touching, funny, and erotic.I have to say this story is gut wrenching. Since it is a romance, I was expecting the characters to connect, fall in love (and bed) and hopefully make their way to a HEA. I was not expecting how much I would love not just Ian and Grace, but their friends.  Grace's best friend Nina, who is also her nanny, is a definite candidate for the BFF Hall of Fame. Ian, on the other hand, has a whole band (literally) of friends each one of whom has a style and quirks of his own. Grace's son Milo will steal your heart and Nina's choice of roommates will make you laugh out loud! Of course, one of Ian's friends is a perfect match for Nina and their antics lend a lightheartedness to the story even as readers anticipate the dramatic revelation that will make Ian and Grace question not only their relationship but the whole foundation of their lives.Unexpected is an easy read that will be satisfying on many levels.  The characters are very likable and the story offers plot twists that are unexpected without being implausible. Actually the only thing unexpected about this book is how much I liked it! I, for one, am expecting great things from Dulaney - Glen! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Satisfyingly unexpected!! </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> Ian and Grace, I liked them both and being that Unexpected is being told through both their POV's it made a nice smooth read.  They just had a natural connection from the very beginning and it held throughout the book.What I loved:Nanny Nina and Andrew stole the show. I am in love with them both. The very best moments to me had these two in it. Milo also gets top billing. I love it when an author really adds a child on as a fleshed out character and not a side note. He was a very sweet and likable addition.The romance kind of takes a while to get to the good stuff so if you like a lot of build up to your romances then this is it.What I didn't love:The beginning prologue, it was like a cloud hanging over my head the entire time. I couldn't fully enjoy the story. I was holding back not wanting to get too invested because of what I feared would happen.The reunion, it felt forced and after such build up and internal conversation I felt a bit cheated as a reader.My summation:Quick, easy and enjoyable read. Funny sidekicks and a epilogue that make me smile with the thought of book two main characters.3 STARST~ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick, easy and enjoyable read </p>
+
+
+<h2> review.date </h2>
+  10-18-2013  
+<h2> review.text </h2>
+
+ <p> Whoa. I loved the slow build of this one. Grace Holtsen's worked hard for her thriving recording business in Nashville. She treasures her son, Milo, an unplanned memento of Grace's first time brought back from a family vacation. She has a tense relationship with her parents--who pretty much kicked her out when she decided to keep her baby. Brash and sassy BFF Nina is a fantastic counterpoint to Grace's reserved nature.In fact, it's Nina's audacity that links Ian and Grace when Nina schmoozes Ian into pumping their gas, despite his not working at the gas station. Imagine Grace's astonishment when Ian turns up at the company pow-wow an hour later as the new PR hire. *face palm*Ian Paul's in Nashville because his BFF is in a band--and it's a good one. He's been managing their PR throughout college and now that the sheepskins have been passed, the boys are set to take the music scene by the throat. Ian convinces Grace to hear one of their sets, and she's captivated--has to sign them--and put Ian in charge as their manager.While working in close quarters it's clear that an attraction is developing. Grace hasn't had a serious relationship in a good long time, and she's not sure taking a chance on a strapping young buck is a great idea.  Ian is a hit with Milo--being the superhero step-dad-type--and he's wooing Grace thoroughly regardless of their  6-year age gap.It seems life is going grand for this fledgling couple until Grace visits Ian's childhood home and learns a secret that may drive her and Ian apart forever.So, I liked it. It's a solid contemporary romance. The journal-like chronicling makes for an intimate ride. There was a point when I felt that the convenience v. coincidence battle was too much the former, but for those who love the &#34;destined to be together&#34; tales UNEXPECTED is right in your sweet spot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid romance, great characters. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

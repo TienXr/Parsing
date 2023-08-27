@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B006N5C0O0 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> no adjustments what so ever. So, your car's rear vertical surface MUST be EXACTLY perfect with the angle of this camera.  The power connection is also non-standard. If you had a previously installed camera, you'll not be able to re-use your existing wire.  I gave it 2 stars because it worked while I had it out of the box. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It worked out of the box, BUT... </p>
+
+
+<h2> review.date </h2>
+  07-05-2012  
+<h2> review.text </h2>
+
+ <p> This is a bit lengthy review where I've tried to be thorough and go over what I believe the average person would be interested in knowing about this camera prior to purchase.For $20, I was not expecting much, but compared with the highly regarded back-up cameras I was considering, this model was a fraction of the cost so I had to take a chance and order one. I'm certainly glad that I did.Of course, this is made in China (shocker), so that plus the price does call into question the longevity of such devices (i.e. potential lack of it). But this is a camera you really need to take at face value. It's 20 bucks. But yes, it works pretty well under the circumstances. The picture is average (and good enough for its purpose). The title on Amazon is a bit misleading ("CMOS/CCD"). It's either one or the other. This is a CMOS camera. I knew this as a CCD would cost the manufacturer more than $20 just to produce it.Here's what I found from testing the unit:1. Field-of-view seems to be accurate to the description (approx. 170 degrees). The fish-eye lense distorts the image more on the edges of the image. The center area is more or less a 'normal' aspect image.2. There is significant red color shift, typical of cheap cameras. Under some lighting conditions, green is also over saturated. [Hey, what do you expect for a $20 CMOS cam?]3. Mounted on the rear of my Chevy Tahoe, just above the license plate (where the OEM cam would be located on a Cadillac Escalade for instance), I could see clearly behind me about 15 feet. Not great, but sufficient to avoid undesirable close encounters. On my Tahoe, which is a fleet model PPV, that's 42 inches above ground. The PPV is lowered 4 inches at the factory, so a slightly higher mount on a civilian model ought to yield another foot or so of viewing range.4. This camera can clearly ONLY be used intermittently. In one test I ran it for about 3 minutes continuously and the coupler which splits out the individual wires (see #5 below) got quite hot. I feel confident that continuous use would likely melt something inside the coupler and render the device useless.5. The camera has a pigtail wire approximately 8 inches long or so coming off the back of it. The wiring is a proprietary arrangement with a small, water resistant (not sure if it actually "waterproof") 4-pin connector that plugs into the camera pigtail. The seal is tight (which you want). Small arrows guide the proper insertion and there is a tab on the inside of the pigtail connector to ensure the wires are aligned correctly. Coming out the other side of the 'coupler' as I'd call it, you have +12v power and ground wires, and the video out wire which terminates with a yellow RCA cable. I have not measured the cable length, but it loos like around 14-15 feet.6. The camera image is inverted (reversed/mirrored), which is what you typically want from a rearview camera. A downside is there's no way to switch the image to a normal/non-mirrored image. I'm mentioning this because you need to be sure you install the camera correctly, and there's only one way to mount it. The camera is designed to point the lense down. If one could flip the image, then you could choose alternate mounting locations and flip the camera lense up instead. The fact that it must point down means you want to mount it as high as is reasonable on your vehicle. For instance, I contemplated mounting mine just below the center rear brake light, which would be almost 6 feet off the ground. I may consider re-locating mine in the future depending on how well it works in its current location. Something to consider prior to installation.7. The camera has a screw protruding around 1 inch out the back of the camera. This is something to consider prior to purchase. Is there room behind your mounting location for this screw?8. The kit comes with a small instruction sheet which is essentially useless. It comes with a rubber grommet (to be placed between the camera body and the body of your vehicle, and an adhesive backed sticky. The manufacturer was thoughtful enough to include a hole punch-out for both the sticky and the rubber grommet that allows the screw on the back of the camera to protrude and makes for a nice, good fit. I'm not sure why the adhesive is included, since the screw cannot be removed. The kit also includes a washer, lock washer, and nut for use in mounting via the screw. When I mounted mine, I used the rubber grommet and screw kit. I also purchased seperately a Nylock washer to ensure the device would stay in place.Overall, this is a good, solid device for its intended purpose. It has some limitations and is not very flexible in terms of installation location. However, its shortfalls are more than made up for by virtue of the fact this device is a bargain at 20 dollars. The picture quality is average, and certainly clear enough for its use as a rear back-up cam. It is NOT suitable as an always-on camera, as the device wiring gets hot while in use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It Works, but Be Realistic of Expectations for $20 </p>
+
+
+<h2> review.date </h2>
+  04-17-2014  
+<h2> review.text </h2>
+
+ <p> Yup! As some reviews said, camera was assembled upside down. Image is upside down. Do not buy this camera unless you want to fool around trying to fix it for hours. I had to remove the screws pull the circuit board/lens and turn it right side up. The thing is when you do this you break the water seal and hot glue holding the camera/circuit board in. What I did was use contact cement to seal the front of the lens against the housing. Then to keep the lens/circuit board from popping off loose on the inside and breaking the water tight seal I poured epoxy around the entire lens/circuit board to hold it in place. Finally I used contact cement to seal the cap back on. Finally, I carefully used roofing tar around the lens and the back where the screws are. Not sure if it will be water tight so lets see at the next car wash. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Image is upside down. Someone at the factory messed up. </p>
+
+
+<h2> review.date </h2>
+  01-25-2014  
+<h2> review.text </h2>
+
+ <p> Like the camera and the pictures are nice, but installing it took me too long because of the flimsy wires and a useless connector that I wound up cutting it out and splicing the wires, otherwise I would've given it a 5 stars rating. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good camera however... </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> This product is perfect for its price.  Well built housing.  Low profile.  Easy to hide wires.  No, this camera doesn't produce HD video but its pretty clear and functional.  Again, consider the price.  8th gen civic owners should get this.  Perfect fit for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  05-11-2013  
+<h2> review.text </h2>
+
+ <p> This camera does work well. It is very well made with durable material and solid feel.  When mounting this I did seal up the wire exit location and the surface that sits against the car with clear silicone caulk.  It has gone through a few rain storms and car washes with no problems.  I did have to shim this camera towards the back of the mounting surface to reduce the downward angle.  It does have a very steep angle.  It's too bad the designers of this camera chose this angle.  It took me a while to find the material to make a custom wedge shaped shim.  But now it is very usable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Neewer backup camera </p>
+
+
+<h2> review.date </h2>
+  01-21-2013  
+<h2> review.text </h2>
+
+ <p> You get what you pay, perfect size, good video quality, night vision is not the best but get the work done </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits prefect on Nissan Versa/Tiida </p>
+
+
+<h2> review.date </h2>
+  11-23-2013  
+<h2> review.text </h2>
+
+ <p> Not that great of a design.  Thought the through bolt would be good but not really.  Also camera points down at a sever angle.  Unless you have this mounted up high you will only be looking a few feet behind you.  Can not see much in the field of view. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK, but would not buy again </p>
+
+
+<h2> review.date </h2>
+  11-21-2012  
+<h2> review.text </h2>
+
+ <p> This is a good camera. It does what it's supposed to. The camera itself looks and feels solid. The housing is metal, and it comes with a rubber base. It also comes with 3M double sided tape. The image is not the greatest in the world but it's good enough for backing up. Don't expect an HD image or anything like that. The distance lines are a plus. Overall a good camera for $20 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Camera for $20 </p>
+
+
+<h2> review.date </h2>
+  05-02-2013  
+<h2> review.text </h2>
+
+ <p> I bought this camera based on the reviews I read. Seeing photos from users of how it was mounted really helped make my decision easy so to pay it forward, I submitted some of my own to help others. This is my first camera but I did test drive other cars with backup cameras on them so I do have a basis of comparison. My favorite backup camera was on a Nissan Murano. The backup lines actually curved to show your current projection. This camera does not do that. It does have 4 bars to show you distance however. I took a tape measure to figure out exactly what the lines mean.Yellow line = 3.5'Green line = 3'White line = 2'Red line = 1'Now these are based on MY car for MY installation. Yours will likely be similar but not exact. Since I have a Rav4 with the big ole tire on the back, the red line is actually about 8" from tire-impact, or 1' from my bumper.Photo clarity is decent. I wouldn't want to watch a movie through it, but it gets the job done for the few seconds it's on. Field of vision is very wide. I would guess it's pretty close to the 170 degrees advertised. It does suffer from severe fisheye distortion but that's the trade off for the wide angle.The exterior is made of metal and it has been in rain several times already with zero adverse effects.Instructions were easy enough but I still has an issue with it not working at first. Before I installed this camera, I tested it out on a TV input and put the black and red leads to a 9volt battery. It worked great so I went ahead and installed it, wiring the black and red leads to the back up lamp wiring. When I hooked it up to my Pioneer stereo, it didn't work at first. I tried everything and finally had to cut the wire from the backup lamp and make a better ground connection to the body of the car. That's what got mine working correctly.This camera hangs upside-down. I suspect those who say the picture is upside-down mounted them backwards. The camera is a mirror-image too which is what you want to make it look like it would in your rear-view-mirror.I gave it 4 starts instead of 5 because there is no way to adjust the angle of the image. But for the price, it's a bargain and I'd recommend it to a friend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent little camera is built tough and is actually waterproof! </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> Bought this in May of 2013. It is now September of 2013. Still works just like day one. Although before install, I put a thin layer of clear silicone rtv on the edges and holes just to be sure of water resistance. Overall GREAT AWESOME product!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome, Inexpensive, Clear </p>
+
+
+<h2> review.date </h2>
+  10-11-2012  
+<h2> review.text </h2>
+
+ <p> Do not buy this camera. I bought the camera to install on my Avalanche and after spending 3 hours running wire and installing into stereo teh camera image is installed upside down. My radio does not have terh ability to flip teh image so i am screwed. teh only thing i can think of is to remove teh screws adn filp the camera my self. this is bad.So i decided to test the camera in reverse and after 30 seconds in reverse before desiding to flip teh camera around i noticed teh image will go out and come back on repeaditly. this is a inconvience. please save yourself some time and money adn do not buy from this seller this camera is garbage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bad camera </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> This thing works great.  It only needs a small hole drilled and the connector is small too, to fit through the hole.This does have the &#34;parking assist&#34; overlay lines, I wish I could remove them but I don't mind so much.  There is no adjustment to the angle, as expected, so keep this in mind.  If the mounting surface is parallel to the road then the angle is just right.Image quality is decent, better than most factory backup cameras I have seen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great value </p>
+
+
+<h2> review.date </h2>
+  09-01-2013  
+<h2> review.text </h2>
+
+ <p> The camera is metal which is a nice feature and has a propriety connector which made the install just a bit easier. The picture is on par with the cost but that aside its  not bad for the money but at night its really grain but have not played with the specs yet so might be able to make it a little better but I doubt by much. Overall I would recommend the camera and like I said it works but its a fresh install so hope it lasts. Install was easy the hardest part was running the wires from the back to the front, red to back up light and black to ground and an additional wire to run to the HU and that's it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Item as described </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

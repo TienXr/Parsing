@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B009AU2I88 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-09-2013  
+<h2> review.text </h2>
+
+ <p> This is a great computer for the price. Everything works seamlessly..even with windows 8. The only thing lacking is the screen is ok. It cannot even come close to a retina display, but your also not paying retina display prices either. For my school purposes it is great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great computer! </p>
+
+
+<h2> review.date </h2>
+  12-08-2012  
+<h2> review.text </h2>
+
+ <p> Mine arrived with a warped chassis, it won't sit flat on a table.  Which is annoying.  What's more than annoying is the power cord connection is loose and gets looser every day.  I've had the laptop slightly less than 2 weeks and every time it moves the power disconnects.  I have been *extremely* careful not to hit the really poorly designed plug which juts straight out from the side of the machine so it's not a case of impact damage.  Another poorly thought out design issue is a 3-prong plug ac adapter.  Ultrabooks are made for travel and travel often means extension cords.  This is my first laptop with a 3 prong plug, I can't believe that's fully necessary.  I rolled the dice on buying a laptop from amazon as they only accept returns if DOA and I lost.  Trying to get HP to fix/replace this will probably be pretty painful.  I won't buy a computer from amazon again and I think this is my last HP as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Defective laptop received.  Also poorly designed ac adapter. </p>
+
+
+<h2> review.date </h2>
+  07-13-2014  
+<h2> review.text </h2>
+
+ <p> great ultrabook.  Debated between this and the Mac book and the price and performance of this was best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great ultrabook. Debated between this and the Mac book ... </p>
+
+
+<h2> review.date </h2>
+  06-21-2013  
+<h2> review.text </h2>
+
+ <p> Mysteriously 2 small black hot spots appeared on my screen after a little more than a month of use. They grow larger the longer the computer is left on and are almost hot enough to burn skin.Please don't buy this product. It might work well for a while, then it'll break and you'll have to deal waste your valuable time dealing with customer support, packing it up, and going to the post office. Save yourself the heartache and find a computer manufactured at a higher quality level. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Broken after 1 month </p>
+
+
+<h2> review.date </h2>
+  03-28-2013  
+<h2> review.text </h2>
+
+ <p> After months of research and debating on whether to buy touch screen or not, I finally decided touch screen it&#8217;s just a gimmick, 98% of the time I'm out of metro either way,I've had the computer for almost 3 months now, its been working great.It comes with 2 memory sticks, one for 4gb and one for 2gb, I ended up replacing the 2gb for a 4gb I had already purchased, so its up to 8gb now.Accessing any of the hardware its easy enough you just have to remove the entire bottom cover, the HP service manuals suggests you to remove the LCD screen first, but this is a complete unnecessary step, the bottom cover has about 18 screws, once you remove them all carefully pry open the cover using some hard plastic card or similar tool.Once open you will get access to everything s Memory, HDD, Msata slot, wireless and Bluetooth module.I recommend you do all the upgrades at once before putting the computer back together in order to avoid unnecessary stress on the plastic bottom cover from opening and closing it too many times..Besides the memory I upgraded the msata drive from the stock 32gb to a Crucial m4 256GB mSATA Internal Solid State Drive CT256M4SSD3My idea here is to the 256gb as the primary drive for OS and programs keep the regular sata 500gb drive for storage.Changing the memory and Msata drive is very simple, the HP support website has service manuals available for this computer I recommend you read them before opening the computer.**do note that this computer does not come with any recovery software in CD or DVD form, there is a recovery program installed but it asks you to use a USB drive in order to perform the recovery image, I went ahead with it and then told me I needed at-least 24gb... So I had to use a 32gb drive in order to create the recovery.*************************************************************************************You can only create this recovery ONCE!! if you did it and the flash drive fails, or gets lost you have to buy a recovery from HP at $35.... or use your own media installation.This is the one thing that I despise about HP they could have included a $2 recovery disk, or a USB drive with the installation&#8230;Once the hardware is installed I though great I will just run the recovery media and be done with this, well tough luck&#8230; the recovery media only works with the original Msata drive&#8230; So now I&#8217;m stuck without being able to install my original copy of windows 8 that came with the computer because HP wont sent me one unless I pay for it.So I downloaded the windows 8 installer from MSDN, created a bootable drive and started installing, well now it won&#8217;t detect the new Msata drive just the 500gb&#8230;Turns out the original configuration between the 500gb and the 32gb its done via Raid controller&#8230; so I went into the BIOS and disable RAID, then went into the Raid controller configuration and removed the Raid array saved and restarted the computer.Now the installation detects both the 256msata drive and the 500gb sata, installation took about 20min, to my surprise the MSDN installation auto detected the windows key (I guess its embedded somewhere in the computer because there is no sticker on the back like the old windows xp and 7)Now to install drivers, what a pain in the a$$, the HP website has like 3 different drivers for each component all for different manufactures, I contacted their support and wasted 30min just explaining what I was doing, they either wanted me to run the recovery or buy the recovery media, useless as expected.I finally downloaded everything and started installing it and testing until I was finally able to get everything installed, I made a list and kept only the drivers that worked.So after the windows installation and drivers which took about 3 hours in total everything is working great, the computer boots up in about 8 seconds, from resume its about 4 seconds.The finish on the computer is very nice, the bottom is a little rubberized and color red, the keyboard and top cover have an aluminum feel, the keyboard is very responsive and key placement its very nice.I would highly recommend this for anyone looking for a good computer on a budget. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great computer!! even better with some upgrades </p>
+
+
+<h2> review.date </h2>
+  01-09-2013  
+<h2> review.text </h2>
+
+ <p> Screen has poor color, sharpness and definition.  Keyboard is not responsive.  Easily the worst laptop I have ever used.  And Windows 8 - oh my, what a mistake, the most unintuitive operating system I have experienced. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a great laptop </p>
+
+
+<h2> review.date </h2>
+  02-24-2013  
+<h2> review.text </h2>
+
+ <p> Edit-- After owning the computer for three months, a defect in the power cord became apparent.  I attempted to resolve this issue through HP customer service and was met with a complete lack of service.  I cannot give any recommendation to this company after my experience.  One-star from this dissatisfied customer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> (updated) Completely inept customer support at HP </p>
+
+
+<h2> review.date </h2>
+  12-12-2012  
+<h2> review.text </h2>
+
+ <p> Cons:The beats audio is not helpfully, sounds like a cheap speakers compared to Samsung and Toshiba ultrabooksIt won't sit flat on a table for $700 is not acceptableBad screen resolutionPros:The keyboard and touch panel are goodMedium performancePersonally I haven't issues with win8 it is very easy to useIt is my second HP laptop in less than 1 year (1st came with a wrong bios .a lot of blue screens and several issues and I return it back to the store) and this one is definitely the last HP I'll bought.The worst thing: I am living @ overseas and no one wants to pay for a computer like this one, so I have to keep it for meI am very disappointed :( </p>
+
+
+<h2> review.summary </h2>
+
+ <p> why 2 stars </p>
+
+
+<h2> review.date </h2>
+  03-10-2013  
+<h2> review.text </h2>
+
+ <p> After reading the reviews on this item I was extremely skeptical this would be a good laptop. People complained about the screen, the computer feeling cheap and more. We have been long time HP buyers and we have had such a positive experience with HP standing behind their product. I did look and try out other brands and they all had issues and felt cheap compared to HP.So Here is my take on this laptop.Cons. No Dvd optical DriveIt is not touch screen. (I am finding windows 8 hard to navigate and if it were touch screen I would find it much easier.)Pros. Small Light weight.It starts up in less then 20 seconds. The SSD drive really makes a difference. It is super fast and moves from one program to the next in a snap.The computer seems to be made of solid material of metal and plastic and has a very sturdy.The Screen is sharp and bright. People complain about the screen but I find it very bright, color vibrant and clear. It does have a glare if you are looking at it from a side angle.Power cord, many people complained about the power cord plug being in the way. Every HP laptop has had the same design and we have never thought it to be in the way.The speakers are excellent for such a tiny machine.Long battery life.Why anyone would not love this is beyond me. I highly recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't believe the negitive reviews. </p>
+
+
+<h2> review.date </h2>
+  08-25-2013  
+<h2> review.text </h2>
+
+ <p> Okay, this is not a $1000+ macbook, so please don't expect miracles from it. I've been using this for a few months and I'm quite happy with the performance. The CPU is a low-voltage one, but it's powerful enough to handle words, excel and all the stuff an average student need. Thanks to the 32 Gb SSD drive, Windows starts and resumes from sleep very quickly. I didn't time it, but starting Windows takes about a minute to a minute and a half. Resuming from sleep takes only 3-5 seconds. Overall, performance is very good. I also own a Macbook Air with i7 Haswell CPU, 8 Gb RAM, and I'll do some comparisons for those who are interested in.Battery life: Macbook Air: 10-12 hrs, HP Envy: 4-5 hrs.Resume from sleep: Macbook Air: 2-3 seconds. HP Envy: 3-5 seconds.Turn off: Macbook Air: about 30 seconds. HP Envy: about 1 - 2 minute.Turn on: Macbook Air: about 30 seconds. HP Envy: about 1 - 2 minute.Open Words/Excel/Powerpoint: Macbook Air: about 3-5 seconds. HP Envy: about 5-7 seconds.Open Itunes: Macbook Air: almost instantly. HP Envy: about 5-7 seconds.Open Website: Macbook Air: about 2-3 seconds. HP Envy: about 3-4 seconds.Fan on: Macbook Air: only when playing games and running heavy applications. HP Envy: after about 45 mins of web browsing.Weight: Macbook Air: 3 lbs. HP Envy: 3.7 lbs.Dimension: almost the same.Screen resolution: Macbook Air: 1440x900. HP Envy: 1280x768 (or something like that)Screen size: Macbook Air: 13.3 inch. HP Envy: 14.1 inch.So, the HP Envy's performance is quite nice. Keep in mind that I spent $1350 for my Macbook Air. So if you're on a budget and want a nice, all around laptop for school, this Envy is a very solid choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for Students </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> High performance. very good design. good battery life. windows 8 is not that good but it's ok. screen size is also good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very sleek </p>
+
+
+<h2> review.date </h2>
+  04-02-2013  
+<h2> review.text </h2>
+
+ <p> I've searched for a couple of months, to find another slim and light laptop with equivalent power and options as this model, and nothing has equaled or surpassed this Envy 4 1130us. In short, it's the best value machine at this price point.Just look up the Win 7 version of this model, here on Amazon (Envy 4 1030us), and you'll find that it is an identical machine, only with 2 gigs less ram, and it sells for $100+ more.So let's get to the important facts about this machine.POWER & SPEED.The combination of the Intel i5's power and the SSD and 500 gig hard drive RAID array, along with the much improved Windows 8 mass storage controllers, makes this machine blistering fast. Bear in mind that just like any other brand or model of new laptop, it has to be tweaked to perform as it should (tweaking will have to be covered later or this review will be a mile long).I repair and tweak computers, day in day out and this is the fastest one I've had my hands on, except a Windows 7, $1,300 Dell XPS laptop that had an Intel i7 and a big SSD. I don't have it next to me to compare, but that would be the only machine that may have equaled or surpassed this one for performance.SCREEN.The screen is fine. Those who are complaining about it are expecting more than you can get at this price point. If you'd like the image to be even crisper and sharper, there are a few adjustments that can be made. (I may add those details as a PS at the end)CONSTRUCTION.Those who complained about poor construction, must have received defective models. The construction of this model is nothing less than superb. The only complaint is that fingerprints stick to it and it means that you'll have to wipe it down everyday, with a damp cotton cloth. The brushed aluminum build is fantastic and makes for a very solid machine.KEYBOARD.Everybody has an opinion as to what constitutes the perfect keyboard, so all I can say is that it is clearly a superior keyboard and that having the backlit feature is huge, for those folks who are not real typists, and need to see the keys to be able to type properly.TOUCHPAD.If you understand that this touchpad is set to work as if it were part of a touchscreen, thus scrolling up becomes down and vice versa, then you'll quickly get used to it and will soon agree that it is one of the very best on the market.WINDOWS 8,For those who don't already know it, Win 8 can be made to look and function just like 7, by downloading Start Menu 8 from iobit, then disabling all the charms bars and hot corners. It's only natural that I/you/we would want it to work like 7, as this model doesn't have a touchscreen, so why in the world would we want to use Win 8's new touchscreen interface (often known as Metro apps). Other than some graphics differences, it's so identical to Win 7 after the tweak mentioned above, that to the untrained eye, you wouldn't even know that it wasn't a Win 7 machine.BATTERY LIFE.It's simply amazing. Right now, I'm at 84% remaining battery power and the time estimate is at 5 hours and 14 minutes. I could turn down the brightness, to squeeze out some more, but it is already good for 6 hours plus, set the way it is (don't forget that this machine is well tweaked, so brand new out of the box, the battery life won't be quite as good).HEAT.It can produce a minor amount of heat at the back where the air exhausts. Laying the sides on each one of my legs, is 100% comfortable on battery. If you have it plugged in and it's charging, it will get warmer and may be a wee bit uncomfortable.This laptop must NOT be used on material like cloth, a bed, a towel, etc, that can block the air intake from the bottom. If you need to use it in such a location, prop it up a bit with something.WIFI.I have never seen a laptop with better reception, nor one that can download as fast. If I go to a given website to download a file with any of my other computers, they download at approx. half the speed than this one does. I haven't investigated why this is, but suffice to say that it is better than what is normally included in a laptop.All the features have been mentioned, so there's no reason to go over them again.It's a simple mathematical equation. Does this machine give you more than similar ones at this price point? YES!Is it super fast? Darn right it is!Is the battery life good? It's superb!How good is the Wifi? Beyond your expectations!Is it well built? It's fantastic!Is it a good looking machine? It's as handsome a laptop as I have ever seen!Would it satisfy any normal user? Absolutely!________________________________________________Here are the settings that make for a sharper image on this laptop.I found them somewhere on the internet and noted them down, then both my friend and I used them on our Ultrabooks (we both have the same machine) and we both feel that the results are excellent.You may or may not agree and if they don't suit you, you can reset them back to their default settings.Right click on the desktop and select "Graphics Properties".In the subsequent window, select "Advanced Mode" then hit OK.In the next windows, select "Color Enhancement", then set the Brightness to -20. the Contrast to 51 and the Gamma to 0.9 and leave the other two untouched.You will find that the brightness is slightly diminished, but that the image is much more "real". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Value </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

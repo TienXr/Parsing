@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0002M0Q1E <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Meets or exceeds my expectations </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've had this stick of memory for a couple of months now and it meets or exceeds my expectations and I would buy it again based on my current experience with the product and the service I've had with amazon.com for the number of years I've made purchases from them. I don't recall being disappointed at the moment. I can easily recommend it to a friend and am surprised it is not more popular because it seems like a good value.  I would rate it higher but I don't feel it would be proper to give it a higher rating until I've used it for most of its expected lifetime service. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great RAM for the value </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-05-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I originally bought this product to put in a computer I had that wasn't running smoothly but that I didn't want to dump a lot of money into.  I was immediately glad I did.  The computer runs much better now, and I feel I got a very good value for the performance.  Since then I've purchased and installed several more sticks of this exact product for computers for family members.This isn't, of course, the best RAM out there (the subtitle of the product is "Value RAM").  It is, however, an inexpensive way to juice up a computer.  To me this is the ideal product for someone who has a cheap computer and wants to improve performance without investing too much money into it.  For normal computing (Windows, internet surfing, etc), this RAM is more than sufficient, but it works for gaming as well.  Of course you won't get the same caliber of performance you'd get from more expensive RAM, but you'll be amazed at the time and headache this product can save. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent Memory ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-25-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I still have an older PC, for my son. I wanted another gig of ram for it. So I tried Kingston and it works flawlessly. I highly reccommend this memory ! Thank You ! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Kingston does memory right.  Amazon does prices right. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-14-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Not much to say.  Plugged it in.  Powered it up.  Runs like a charm. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Kingston 512mb desktop memory </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-11-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have used this memory to upgrade my computer to it's maximum of 2GB ram.They installed easily and have not had a single problem and think they are an excellent value for price and performance. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 1st time to install memory </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the 1st for me - buying and installing computer memory. But after checking (and double-checking) the type and size, I purchased this product. Much better buy with Amazon. Just unplugged the computer, opened the back, removed the old card and plugged in the new memory. Computer recognized the new memory immediately. Wish my old Dell could use more, but am limited to 1 GB. Photoshop does load in about half the time, so I'm pleased. Haven't had any problems after about a month of useage. Don't expect any with Kingston. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> haha i bought the wrong thing. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-07-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yeah, i bought the wrong type, and the customer service at TigerDirect wasn't that helpful at helping me return it. i had to wait for ups to come and refuse the package, which meant i had to be home. so that interfered with my week. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wanderful product </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-11-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Kingston always deliver great product and this one is great for the price. Work straight out the box. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great mamory </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-12-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Kingston 1GB SDRAM has increased the speed of my computer very noticeably.  The installation was simple and the new memory was immediately recognized by the computer.  The whole task took about fifteen minutes. This product gets an "A" from me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ram review </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-16-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Runs fine...worked fine ...had a problem intalling the product...would not work at first...call Kingston tech support...someone I could understand! They figured out quickly that my motherboard had to have the memory in a certain order (thier product first)...got it done and the computer boots and runs much faster now. Glad I bought the product. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Just What I Needed! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-02-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Added this memory to my trusty old computer and gave it a new, lease on life!  As one would expect, it was easy to install and came right on line when I booted the computer back up. It worked like a charm.Kingston Technologies 1GB DDR SDRAM Desktop Memory (KVR400/1GR) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best Computer Purchase Ever... </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-14-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Computer was slow as s*%^.  Now it is fast as can be.  Make sure to know how to install it if you have never done it before.  If you are unsure, but this and take it to a pro to install.  It will make your computer usable for at least another 2 years (save you money over buying a new one)... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Poifect! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-03-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought one on a really good sale at amazon.com. Kingston memory chips have never failed me and I'll recommend this to anyone. Works flawlessly with my Dell P4 and improved performance with a lot less swapping.Two thumbs up for a great product from Kingston. Do check your motherboard specs and make sure you're pairing the right memory sticks so you don't end up slowing your computer down. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Kingston ValueRAM 512MB 400MHz PC3200 DDR Desktop Memory (KVR400/512R. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> 512 MB DDR memory module was an addition to 512 on my daughter's PC. It worls well  and thank you. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Blue screen! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-20-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was really desperate for more speed on my PC.  My processor speed is decent but I only ran 256 MB of RAM which is pathetic by today's standards hence the reason I decided to get this 1GB stick from Kingston.So here I am all excited about adding more memory to my machine.  The stick fits in perfectly.  I put on my machine and what do I see????  The dreaded blue screen which quickly disappears; then all the machine does is restart time and time again.I brought the RAM and my PC to my technician and he said that most likely the blue screen is because of a hardware malfunction, meaning the RAM was faulty.  I was very disappointed seeing that there were so many satisfied customers who used this product.  I guess I'm the odd one out.  I plan to upgrade once more but next time I'll have to go with a company other that Kingston. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Extended the life of our dinosaur at minimal cost </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have a desktop from 2001 that was becoming increasingly delayed with today's simple proccesses. I'm also a cheapskate and wanted to try upgrading the ram before trashing this old beast. I took a gamble and bought the ram. It did what I needed which was to allow me to continue using this computer for a bit longer for minimal costs. By the way the computer is a dell dimension 4550 Intel pentium4 windows xp if that would help you all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> So quick to install </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-21-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Opening up the Computer cabinet took longer than it took to snap the memory in place! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-30-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perfect, as simple as said!! just lock it on the motherboard, and done... great value!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good price, easy installation </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just got 2 of these for my Dell Dimension 8300. Photoshop filters seems to be working faster now. Installation was easy; just snap them in the slots, reboot, and the new memory was immediately recognized.The other reviewers mentioned that this is a "value" or somewhat lower quality memory product. To me, these solid state memories either work or they don't and there really isn't any difference in quality.Hopefully the rebates won't be a hassle as the other reviewer experienced. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great value for desktop memory </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-07-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very good memory for a desktop.  I was pleased with the price for a major brand in memory.  I installed it quickly, computer recognized it and the computer has been running faster since. Just make sure you buy two, I originally purchased one and it worked, but the computer wasn't as happy until it got the same memory in each of the slots. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GREAT BUY AND PRODUCT </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-29-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I compared the price and qulity and this was a real value and very high gradememory. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great product great support </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-01-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> All memory is vulnerable. What is important is the support and Kingston has great support. I did have one bank go bad. With a credit card but no charge for a certain time period they sent out a new one with return packaging. Didn't take long at all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Still working </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nothing exceptional, worked a expected.I dont have the desktop i purchased these for anymore, but when i did they worked well.Hope this helps.... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Crucial 1gb ram </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-07-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I received the RAM in its original blister pack.  It installed easily and was instantly recognizable upon boot up.  Performance was noticible right away. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Im 1gb happier </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> i received the package in a timely manner and when installed into my computer it definitely improved.  I went to purchase another from the same company and realized they put up the price. I hate when that happens. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

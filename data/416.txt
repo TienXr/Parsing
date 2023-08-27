@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0086H7HDM <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 9 </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love these light airy breezy reads and is a good summer read on a beach or in bed,Susan Hunter needs to be a little more realistic and not so perfect as everyone has flaws here </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another fun Susan Hunter tale </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the second book in the Susan Hunter series I've read. They are quick, breezy reads--perfect for a plane ride. I was able to finish the entire book on a recent flight and found it fun and entertaining. Sometimes you just want something light that makes you smile. In Big Apple Hunter, Susan finds herself exploring New York City on her own while her friend Darby is busy pursuing a new job. Of course, things don't go as planned, and after a visit to a jewelry store, Susan finds herself the target of a sinister-looking stalker. Soon others join him, putting Susan's life at risk. Amusing subplots of a party gone wild, a gossipy neighbor, and Susan's relationship with her new boyfriend add to the story. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> All gone:( </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The worst part of this series is that I read them all this week and there are no more.  Love these. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I tried and tried again to like this series </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Two books into this series and I'm certain that the five star reviewers must be close personal friends of the author.  The heroine is blatantly lacking in anything resembling sense and over impressed with her own attraction of the worst sort of man.  Routinely, she knowingly places herself in risky positions where she could be raped, trafficked, or killed.  I would not recommend this series for girls or young women, despite its lack of content sexual content.  This is not a heroine, but someone whose life is a lesson in what not to do. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Number two is twice as good. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed the second book of the series. The plot and characters were good and the setting was great. I missed Darby and Susan going to different restaurants in this book like they did in the first since they are such foodies. The only problem I had with the second book was that it  just was not long enough. I can't wait for the next one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Big Apple </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another great book!  The books keep your attention and keep you wondering what is going to happen next.Keep writing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love the Hunter mysteries </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great series. Susan Hunter gets into so many bizarre situations but you love reading to see what happens next. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great mystery/romance! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Loved the book! Enjoyed all of the scenes of New York...the all guy tour was great! Loved the shop for clothes scenes and all of the food. Darby's great and oh! the hero!The book was fun to read...on to Las Vegas for Book 3! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Author Maddie Cochere does it again ...... Excellent Mystery !! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Author Maddie Cochere has done it again, another great Susan Hunter Mystery!!! I love all the details about New York City that Ms. Cochere provides; I felt like I was enjoying the sights of New York along with Susan Hunter. The drama, the action with a touch of romance makes this mystery one you won't want to put down.Well done Maddie Cochere, well done !!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I truly enjoyed book #2 and so excited about reading book#3!!  It was hard to put it down! Another fun and cool story! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Boring! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The clothes obsession (wearing and buying) was totally tiresome and dominated the storyline.The plot line was so thin, that there was no real mystery in this so-called "mystery".The main character's actions in New York are totally juvenile. She goes off with strangers again and again and miraculously every stranger she meets is just lovely.I loved the first Susan Hunter book, but this one was a waste of time. I won't be buying anymore. What a disappointment for a series that started off so well. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

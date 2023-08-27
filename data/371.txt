@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1883934028 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-25-2007  
+<h2> review.text </h2>
+
+ <p> I was surprised at the negative reviews on this book.  I think it is exactly what girls today need.  I wish someone had given me this book when I was young.  While it is aimed at teenagers, there are timeless truths in this book for all women who desire to be godly.  The emphasis on Christian character building and modesty that are in this book are much needed in any age, especially today.  If you look deep into this book there is a lot there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great book for girls--or women </p>
+
+
+<h2> review.date </h2>
+  09-04-2012  
+<h2> review.text </h2>
+
+ <p> Women have bought our culture's lies hook, line, and sinker, and today it starts very young.  This book takes us back to innocence where young women are given a vision of our CREATOR'S grand purpose in designing the fairer sex.  It is a blueprint that lifts us--painting a noble picture of all we were meant to be.  It is written to capture a young girl's heart before it is soiled by the trappings of this world...but it can capture the heart of any woman if she is willing to open her eyes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A vision worth seeing </p>
+
+
+<h2> review.date </h2>
+  12-14-2007  
+<h2> review.text </h2>
+
+ <p> I liked this book somewhat. For girls who are raised in the world and have extreme feminist roots, this book might be a good ice breaker, however, it doesn't quite teach what the Bible really has to say about becoming a Godly women. It definitely is better than "A Young Women After God's Own Heart," which I feel is very feminized view of the Bible, but the best choice is "So Much More." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than most girl books, but didn't quite hit the mark. </p>
+
+
+<h2> review.date </h2>
+  06-08-2010  
+<h2> review.text </h2>
+
+ <p> My mom read through this book with me when I was 11 or 12.  It was a special time of talking about what it means to be a biblical, godly young woman.  I can't tell you how many times I referred back to it throughout my teenage years, particularly the chapters on love and boy friends.  I often felt that I was the only girl who didn't flirt and it would be so nice to have the attention the other girls were getting.  This book reassured me that the boys worth having would be attracted, not to wild and silly behavior, but to modesty and purity.  It gave me the moral courage to fight on, and I will always be thankful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful guide for young ladies! </p>
+
+
+<h2> review.date </h2>
+  06-01-2008  
+<h2> review.text </h2>
+
+ <p> This is a must have for every mother and daughter!  It says everything we want to say to our daughters as mothers in the perfect way.  The chapters are short and concise. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A MUST HAVE!! </p>
+
+
+<h2> review.date </h2>
+  06-07-2007  
+<h2> review.text </h2>
+
+ <p> After reading the reviews posted here, I fully expected that I would dislike this book. I read it, and was very surprised. I do think the book is a product of its time, and I can see that it might appear dated and irrelevant to many readers. However, I think several of the reviewers were unfair. To mention a few examples: The book does not say that women shouldn't wear make up, it says they shouldn't be fixated on their appearance and try to look like the women in make up ads (and if you have seen some of the prepubescent models wearing ridiculously heavy make up, you probably agree that your daughter shouldn't be encouraged to copy this style). The book does assume that many or most of its readers will be housewives, however, it says that proper ambition is good for a girl and she can be a successful businesswoman. It also seems to me that the book has more advice on WHAT a girl says, how kindly she means it, and how gently she expresses it, rather than what her voice naturally sounds like, as one reviewer implied. The idea that everyone (men AND women) should be careful about what they say and the tone they use to say it is hardly unbiblical (see James) or misogynistic (since when does anyone like a snappish, interrupting, crude, bitterly sarcastic person?).I also noticed, since I'm in a grad school course on adolescent psychology, that in many points this book follows what we know about adolescent development based on scientific research very faithfully (especially identity development, cognitive development, etc). I think all her points are Biblical, and it is useful to have a guide to adolescence that brings together many of the teachings of the Bible in one volume. I would advise parents to consider using this book, and as they read through it together, discuss how the book can best be applied to modern life (I think it is better to train a child to think critically and carefully about every text they read rather than struggle in vain to find something you agree with exactly). I think it would make an interesting conversation starter, at least. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not what I expected. </p>
+
+
+<h2> review.date </h2>
+  04-26-2012  
+<h2> review.text </h2>
+
+ <p> And I might add "old school" but such terms might be lost on the audience that this book is intended for but they are very appropriate - only the most devout protestant Christian female, be they young girls or grandmothers, can truly appreciate the contents.  "Beautiful girlhood" is a quasi-inspirational guidebook written for young girls to instruct and encourage them to be the ideal women that society wants them be - written sometime about the turn of the 20th century, the original author Mabel Hale, doles out advice, biblical scriptures, and anecdotes highlighting the best and unique attributes to growing into the best woman you can be in prose and pleading that stage parents use to subtly "encourage" their children.This particular edition, revised by Karen Andreola to "replace tactless phrases, to make the meaning more clear..." yet keep "the old flavor" has executed both to the point where they cancel each out.  I will admit that I have not read original text but if this was determined to be best to keep in this edition, I am sure anyone could go without.  Even its revised form, the contents are hopelessly antiquated to the point where it becomes a parody of the bygone era - not that Ms. Andreola did anything wrong but there was not much to work with.  The one section that really stood out to me was Chapter 8 "A sunny disposition" that encourages young women to smile and to be a "sunshine maker" to even the dreariest of days or events.  Do you remember that one Simpons episode where Lisa spends most of the episode seemly depressed and unsmiling all the while Marge does everything she can to point of making her?  If you recall, this goes on till Marge drops off her at school and sticks around long enough to realize that school children mock her and her music teacher discourages her from doing what Lisa does best.  Its only when Marge rushes in to take her away, acknowledges Lisa's depression and vows to be by her side till she is done does Lisa smile again.  Do you notice the disparity of what girl's ideal and reality?In general, while the virtues that the authors extol are admirable, the execution is as poor as it is outdated.  For parents and young women that are looking supplements to good Christian parenting, I would recommend "...after Gods own heart" series by Elizabeth George.  It is a contemporary series in a similar vein as "girlhood" but with larger reconciliation with the Bible that covers the "girl" and "young Woman" phases of a Christian female. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only for the hardcore </p>
+
+
+<h2> review.date </h2>
+  11-16-2011  
+<h2> review.text </h2>
+
+ <p> I read this book as part of my homeschooling several years back and strongly disliked it. The writing style is pretty archaic and veers toward the preachy quite often and never struck me as charming or whimsical.The content is also questionable and best and harmful at most. Some of the anecdotes are painfully out of date, such as the girl arguing with her mother about hemlines on homemade dresses and such. As a child, I found it difficult to relate the old-world moral lessons to the world in which I was living. So much for being practical.This book includes gems of wisdom including exhortations to not be too friendly with boys and laugh too much at their jokes or they will never want to marry you. Also, all proper godly girls will like the exact same things and if you're not very feminine, well sorry! God only likes girly girls and godly men won't want you. While striving to be a godly woman is an excellent thing, find out about godliness from the Bible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Out of date </p>
+
+
+<h2> review.date </h2>
+  06-14-2011  
+<h2> review.text </h2>
+
+ <p> Beautiful Girlhood: Revised by Karen AndreolaWhen my oldest daughter had a girls book club, one of the mothers suggested the book Beautiful Girlhood.  I immediately fell in love with this book.  It is a tasteful way to discuss issues that are sensitive in nature.  This book is organized by topics such as ambitions, friendships, nature, friendships, purity, tasteful dressing, etc.  This book is so beautifully written-in a style that speaks to the days when being a lady meant something wonderful and being a girl meant you were developing yourself for womanhood.  I would highly recommend this book to any mother of a young lady, ages 10-15.  Some topics may not be quite relevant for the younger girl, but will certainly speak volumes to a young lay entering the pre-courtship years.I would suggest reading this book alongside your daughter and setting some time to discuss it together once a week as you work your ways through it.Malia Russell [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful Girlhood- a refreshing change </p>
+
+
+<h2> review.date </h2>
+  04-13-2011  
+<h2> review.text </h2>
+
+ <p> Excellent book. Not only is it extremely well written, it's a wonderful resource for girls probably from about age 11 or 12... to 92! LOL. Definitely something I will purchase again as a gift for a young woman. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Wonderful Book </p>
+
+
+<h2> review.date </h2>
+  07-13-2013  
+<h2> review.text </h2>
+
+ <p> Every mother should read this book with their daughters or granddaughters. We have really enjoyed this book and will share it for years to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice book </p>
+
+
+<h2> review.date </h2>
+  03-23-2000  
+<h2> review.text </h2>
+
+ <p> I have a daughter in the throes of adolescence and have found that reading this charming book together is a wonderful way to strengthen the mother-daughter bonds.  The short chapters encourage and inspire young  girls to grow into lovely young women.  It is deservedly a best selling  title among home schoolers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lovely and Sweet </p>
+
+
+<h2> review.date </h2>
+  03-01-2003  
+<h2> review.text </h2>
+
+ <p> when i picked this book up, I thought it would be full of silly, stuffy, arcane knowledge.I was wrong.  I was impressed with this book.  It is full of sweet, kind advice on different virtues and how to deal with emotions.  My favourite part of this book, however, was that it lacked the scary, condescending tone of so many young adult books for adolescent girls have.  adolescence is scary enough- this book acknowledges that, and doesn't strike any unnecessary fear into girls about their bodies or minds.  I like how it emphasised being a good friend and a good person, and how it was more important to look 'tidy' rather then be beatiful, skinny, etc.  Thats what I like most about this book-today young girls are submitted to so much nonsense in the media on how they are 'supposed' to look and so many have low self esteem, eating disorders, etc.and yes, this book does talk about going on to further education or working after school.  not as much as a more modern book would, given the time period, but you can explain that to your girl yourself.This book doesn't go into the harder aspects of life today-sex, drugs, etc.  It really only deals with emotions, friendship, spirituality, etc.  however it is a great starting point for young preteens and i reccomend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> charming & unexpected </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

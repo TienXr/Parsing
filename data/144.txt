@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00E4AZEFS <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-19-2014  
+<h2> review.text </h2>
+
+ <p> Works as it's supposed to. Excellent value </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works good </p>
+
+
+<h2> review.date </h2>
+  07-16-2014  
+<h2> review.text </h2>
+
+ <p> not served, the seller refund me the money, are of poor quality </p>
+
+
+<h2> review.summary </h2>
+
+ <p> are of poor </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> I have a Samsung Galaxy Tab and this is fantastic to put music on and plug into my tablet and groove while I read.  IF you have such an apparatus I highly recommend this SD Card. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 32 GB Class 10 Micro SD HC Card and Adapter </p>
+
+
+<h2> review.date </h2>
+  07-15-2014  
+<h2> review.text </h2>
+
+ <p> AS DESCRIBED </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  09-07-2013  
+<h2> review.text </h2>
+
+ <p> I purchase one of these generic cards on ebay.  Sometimes it works and others not, even in my USB card reader. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These cards are slow. </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> One card was unusable and corrupts all files even after a full format.  The second card works to ~1GB </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review of 2 </p>
+
+
+<h2> review.date </h2>
+  12-15-2013  
+<h2> review.text </h2>
+
+ <p> Firstly  The micro SD card was a 64 GB card even though the packaging said 32 GB. Secondly the adapter did not work at all. Third, the card itself was able to be formatted and data put on it. However as soon as the card was removed from the device all data and even the formatting was lost and the card needed to be reformatted upon reinsertion into a device. I wish I had read the reviews before I placed the order. I returned it for a refund. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DON'T DO IT! TOTAL GARBAGE </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> Anytime you get a flash drive or flash card, test it to make sure it is not fake first. It's good to test anyways just to make sure it's working okay and you don't lose your data. Just search &#34;fake flash drives&#34; and you'll see the issues people have with fake media from ebay, etc.There's a good app to test the media first and I use it on every flash drive and memory card I get to make sure it is true.h2testw_1.4 is the app,  search where to get it and how to use it. It's so simple and you'll feel safe knowing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> READ when purchasing flash memory!!!! </p>
+
+
+<h2> review.date </h2>
+  03-03-2014  
+<h2> review.text </h2>
+
+ <p> When we received this card, we popped it into the camera, but it said the card was full. We put it into the computer and it had a read error. We ended up returning the SD card. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Could not use - returned </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> They work in my GPS, Camera, Gopro, and my fish finder/plotter </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Four Stars </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> At first it worked great, I down loaded six gigs of memory on the card and it was fine; the card froze up after two days and would not allow me to do anything with it, so I returned it with no problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> duds </p>
+
+
+<h2> review.date </h2>
+  11-07-2013  
+<h2> review.text </h2>
+
+ <p> I ordered two of these because the first one that arrived was a 64GB SDXC card, not the product advertised. So I ordered it again, and got the same problem. I kept the first and just used it in my laptop, and ordered from another store to get the correct one for my phone. I can't get data to stay on this one. I'll save a file to it, and it will vanish later when I retrieve it. I tried to use Windows Ready Boost, and nothing happens. I tried to format it, and the format stalls. After a few hours, a dialogue box appears that an unknown error occurred and the device was never formatted. I try a full format (not quick) and it halts my system. I've tried to use this card on three different laptops from three different manufacturers, and I get identical results.I'd say you get what you pay for, but that would require that I at least received the product I purchased. I really wish I could leave less than one star for things like this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fail upon fail upon fail. </p>
+
+
+<h2> review.date </h2>
+  04-12-2014  
+<h2> review.text </h2>
+
+ <p> It works as advertised. Lots of space for a good price. A VERY good price. I can remember when 32K was big and my dad spent $200 for it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What can you say? </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> I bought this for a new tablet.  It may say generic, but it works as well as any name brand SD Card and I loved the price.  It was delivered very quickly and I was very happy about that.  The vendor followed through with their promises and I would purchase again from them.  Thank you very much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't let the name Generic fool you...... </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> Everything was fine but when i open the package the card was 16 gb instead of 32 gb i was desapointed </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I did receive 16 gb instead of 32 gb </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> Nice product for a great price! I've had these micro SD memory cards and these are the new additions and they serve the purpose. Love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Price </p>
+
+
+<h2> review.date </h2>
+  07-18-2014  
+<h2> review.text </h2>
+
+ <p> Recieved the memory card before arrival date given HOWEVER I have lost 30gb worth of files because they did not store them correct. The card was formatted and ready to use but once files were transferred over to the HC 32gb card all was lost. File error stated &#34;file not found&#34; I am requesting a FULL REFUND. Very dissatisfied customer!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BUYER BEWARE...DOES NOT WORK </p>
+
+
+<h2> review.date </h2>
+  04-17-2014  
+<h2> review.text </h2>
+
+ <p> out of the box this card was Dead On Arrival.. neither PC or camera would recognize the existence of a card when insertedhad to get a refund from seller. spend a little more and get one that works out of the box.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> save some time this Generic card was DOA </p>
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> This is pretty blatant false advertising. I'm posting to every review here so people don't lose any more data over this generic crap from China. It only holds 1GB. There is no error, so it's not obvious but the data just continues to overwrite and only the last 1GB remains...To LK Global: Regarding "Generic 32/64GB mSDHC class 10 cards" -  This item needs to be discontinued. Many reviews are similar to my experience. The product is a blatant misrepresentation. The manufacturer is formatting 1Gb mSD cards to 32/64GB. THE SPACE AVAILABLE FALSELY SHOWS AS 32/64GB DUE TO SPOOFED FORMATTING. These seem to work until you actually try to retrieve any data over 1Gb. It just continues writing data over that space with no warning there is anything wrong so users are in fact losing data they are not even aware of. The space available falsely shows up as 32/64Gb. Also, these are class 4 speed, not class 10. These falsifications are deliberate, not problems or defects with a few cards. Product arrived 4/30/14, packaged as shown with no tampering. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FALSE 32GB format, Class 4 not 10 </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> As soon as I move any file from my computer to this microSD card via the adapter, the file cannot be opened (that is with &#34;lock&#34; turned off).  The computer says &#34;media changing&#34; after I click on a file (they were music and video) then says Windows cannot open that file type and that I can seek a solution from online.When I moved a file from my computer to a USB drive, the file could be opened fine.  I am not super techy, so there may be an easy fix to this but I dont know what it is. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Warning. </p>
+
+
+<h2> review.date </h2>
+  10-29-2013  
+<h2> review.text </h2>
+
+ <p> These have not failed me yet.  I purchase one for every device I have.  I just love them.  Thank you </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

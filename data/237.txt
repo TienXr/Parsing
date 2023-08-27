@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000MQCUJ6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-17-2012  
+<h2> review.text </h2>
+
+ <p> Totally enjoyable, a delight to watch, I love angela Landsbury. The charm of the town and her unique ability to get to the bottom of things. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> murder she wrote 6th season </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> We love Murder, She Wrote.  Good for all ages, clean, enjoyable.  Great TV show, we have all 12 seasons.  Highly recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Murder, She Wrote </p>
+
+
+<h2> review.date </h2>
+  09-10-2013  
+<h2> review.text </h2>
+
+ <p> I was not thrilled with the number of episodes without Angela Lansbury.  Some of them were okay, but when the episode would begin with her talking to the camera, I would just sigh and think, &#34;Here's another one without her.&#34;  I still watched every episode, and I'm glad I bought the 6th season.  I love the show! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good </p>
+
+
+<h2> review.date </h2>
+  05-19-2007  
+<h2> review.text </h2>
+
+ <p> The sixth season is just as great as the first five. Though this time several episodes are introduced by Jessica and she does not have a key role, this change is refreshing,especially when one of the characters, Dennis, comes in as a private investigator, reformed from his gem stealing days.The set provides hours of enjoyment for the whole family.I can't wait until season 7 comes out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Continuing fantastic </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> IT IS STILL A GREAT  SHOW TO WATCH  AFTER ALL THESE YEARS, A MUST HAVE TO CONTINUE WITH  THE COLLECTION </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MURDER, SHE WROTE: SEASON 6 </p>
+
+
+<h2> review.date </h2>
+  04-21-2010  
+<h2> review.text </h2>
+
+ <p> This item was listed at a great price, arrived quickly, and it arrived in perfect condition.Murder, She Wrote - The Complete Sixth Season </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Television DVD </p>
+
+
+<h2> review.date </h2>
+  04-22-2007  
+<h2> review.text </h2>
+
+ <p> This Season Of MSW Shows Just How Great The Writers Were, For Even Without It's Star On Some Episodes, The Show Still Shines!!!!! Some Of My Favs This Season Were...'Shear Madness", "The Grand Old Lady", "Dead Letter", "Town Father", "Class Act" & "O'Malley's Luck". I Can't Wait For Next Season!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sign Of Greatness.... </p>
+
+
+<h2> review.date </h2>
+  06-13-2007  
+<h2> review.text </h2>
+
+ <p> Another outstanding season of one of the best shows ever. The writing is still good and the guest actors are always top notch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MSW - 6th Season </p>
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> Loved Angela Lansbury in this series.  It is a pleasure to rewatch her in all of the old shows Murder She Wrote seasons.Thank you </p>
+
+
+<h2> review.summary </h2>
+
+ <p> happy </p>
+
+
+<h2> review.date </h2>
+  09-19-2013  
+<h2> review.text </h2>
+
+ <p> If your a fan of the Murder She Wrote television show, you will like these DVD set of the sixth season. Good quality video and audio. cheap also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good viewing </p>
+
+
+<h2> review.date </h2>
+  01-05-2009  
+<h2> review.text </h2>
+
+ <p> It seems inevitable that every TV show, even the great ones, must eventually take a turn for the worse and start going down hill. Season Six appears to point when this happened to "Murder She Wrote". I wouldn't say that "Murder She Wrote" jumped the shark with this season. However, it is just not as good as the previous seasons, largely due to the fact that Jessica (Angela Lansbury) is missing from a substantial number of the episodes.Although Angela Lansbury technically appears in every episode in this season, in nine of the 22 episodes Lansbury only makes a cameo appearance (usually at the beginning of the episode, as an introduction). Considering the fact that my main reason for watching "Murder She Wrote" is because I like the character of Jessica Fletcher, I found these episodes to be inferior to the point where I started skipping them towards the end of the season. The detectives were never up to the same standard as Jessica.I am not sure whether the disappearance of Lansbury was due to a temporary illness during the making of this season (a similar thing happened in one season of "Hercules") or because by this point Lansbury was getting too old to keep up with the filming schedule. However, I hope that it was just a temporary thing, since it would be awful if this continued on into the later seasons of this otherwise enjoyable show. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The series takes a turn for the worse </p>
+
+
+<h2> review.date </h2>
+  07-03-2007  
+<h2> review.text </h2>
+
+ <p> I love this series and Angela Lansbury as BJ Fletcher is a great actor.  However, now I remember from the original showing that in the later years she did not appear in about one third of the season's shows.  Once again on the DVD about one third of the series does not have her in them and they tend to be weak without this great presence. The ones with her in it are 5 star. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BJ Fletcher Fans Think Twice! </p>
+
+
+<h2> review.date </h2>
+  02-07-2013  
+<h2> review.text </h2>
+
+ <p> This is one of my all time favorite series. Fast service and excellent quality of items. If you are an 80's TV watcher and love a well told story you will love the DVD's. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Favorite TV show </p>
+
+
+<h2> review.date </h2>
+  09-15-2007  
+<h2> review.text </h2>
+
+ <p> Now here's a surprise. A season of a popular TV show that actually improves on the previous season. It's not that often that this happens, but in the case of "Murder, She Wrote" it did. Season five was a good (though not great) season that didn't have as many great episodes as the previous four seasons. So you can imagine how surprised I was when after viewing all 22 episodes of the sixth season of "Murder, She Wrote", I found it to be one of its best seasons yet.Angela Lansbury once again does double duty as veteran mystery writer and crime solver Jessica Fletcher, who finds herself caught up in more murder mysteries where after the murders are committed she steps in to find out whodunit. And in the episodes that take place in Mrs. Fletcher's home town of Cabot Cove, William Windom and Ron Masak return as Dr. Seth Hazlitt and Sheriff Mort Metzger, respectively. Windom as always done a fine job on the show, but Masak as turned out to be a delightful surprise. I've always admired the great job that Tom Bosley did throughout the first four seasons of the show as Amos Tupper, the Cabot Cove sheriff during that time. But Masak has been an absolute hoot as Tupper's successor. He's very funny when he reacts to Mrs. Fletcher's observations after a murder is committed, at the point where he thinks he has the case solved, then gets frustrated by Mrs. Fletcher's additional ideas of what she thinks might have happened just so that the case keeps on going ("Mrs. Fletcher, I have a headache!" he says to her in the second episode). Masak was a welcome edition to this show.There were a lot of terrific guest stars throughout season six. There's a long list of veteran TV and movie stars that show up here so here it goes: Len Cariou ("The Four Seasons"), Bonnie Bartlett ("St. Elsewhere"), John Karlen ("Cagney & Lacey"), Robert Vaughn ("Hustle"), Susan Blakely ("Rich Man, Poor Man"), Ken Howard ("Crossing Jordan"), John Rhys-Davies ("Shogun", "Raiders of the Lost Ark"), Jerry Stiller ("King of Queens"), Gene Barry ("War of the Worlds"), Keir Dullea ("2001: A Space Odyssey"), Holland Taylor ("Two and a Half Men", "The Practice"), Bryan Cranston ("Malcolm in the Middle"), Faith Ford ("Hope and Faith", "Murphy Brown"), Bill Maher ("Politically Incorrect"), Jonathan Brandis ("SeaQuest DSV"), Barry Van Dyke ("Diagnosis Murder"), Genie Francis ("General Hospital"), Brenda Vaccaro ("Midnight Cowboy"), Gavin MacLeod ("The Mary Tyler Moore Show", "The Love Boat"), Donald O'Connor ("Singin' in the Rain"), Diana Canova ("Soap"), Pat Hingle ("Batman"), Shirley Knight ("As Good As It Gets"), Shirley Jones ("The Partridge Family"), Doris Roberts ("Everybody Loves Raymond"), David Warner ("Titanic", "The Omen"), and Diedre Hall ("Days of Our Lives").Out of the 22 episodes from the sixth season of "Murder, She Wrote", 14 of them I found to be either excellent or outstanding. That's pretty amazing. These 14 episodes are:  #1 - Appointment in Athens, #2 - Seal of the Confessional, #4 - The Error of Her Ways, #5 - Jack and Bill, #6 - Dead Letter, #7 - Night of the Tarantula, #8 - When the Fat Lady Sings, #10 - Class Act, #13 - If the Shoe Fits, #16 - The Big Show of 1965, #17 - Murder - According to Maggie, #19 - Always a Thief, #20 - Shear Madness, and #21 - The Szechuan Dragon. I was totally intrigued and entertained by all 14 of these episodes which are some of the best "Murder, She Wrote" episodes ever. If there was one quibble that I had with the sixth season of "Murder, She Wrote", it was the episodes where Jessica Fletcher played the role of storyteller instead of detective. There were eight episodes where Mrs. Fletcher would look straight into the camera and talk about some people that she knew who were involved in bizarre murder investigations themselves, or tell us a story that she wrote. Only four of these episodes were any good ("Jack and Bill", "Class Act", "Murder - According to Maggie", and "Always a Thief"). I'd rather see Jessica Fletcher solving the murders instead of telling us stories. But I imagine the writers wanted to try something different. They first tried this approach with an episode back in season three which worked. But to do this eight times in one season is a bit too much.Still, "Murder, She Wrote" - season six is one of the best seasons of the show's 12 year run. Now I've seen all the episodes for the entire first half of the show's run, and I've been happy with what I've seen so far. I'm looking forward to viewing season seven and beyond. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Murder, She Wrote - Season Six </p>
+
+
+<h2> review.date </h2>
+  10-10-2013  
+<h2> review.text </h2>
+
+ <p> Angela Lansbury is such a great actress that she can pull along a dull plot and weaker actors. Most of the episodes are very good though, there's only a few weak ones, but you'll probably easily figure out the mystery well before the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Predictable but fun </p>
+
+
+<h2> review.date </h2>
+  03-30-2014  
+<h2> review.text </h2>
+
+ <p> This was one of my favorite shows back in the day. I own this season, and season 12, and I plan on getting season 5 soon. Even though I thought this season wasn't the best it is still worthy of owning. The reason why I didn't give it 5 stars is because there were a lot of episodes without Jessica in them. It is still a great collection to have, I don't know why she had missed 7 episodes; but it is still a great season. I have been a huge MSW fan since the 1st season back in 84, I was very young, but I love shows about crime/police/E.T.C.. If you are a 80's TV fan like I am, this is a series you must check out and possibly own. Believe me this show is for anybody who loves crime drama, and a show that makes you think about who the killer could be. This is one show that is for anybody and it's not a show just for the old. So you can start with season six or any season, I'm sure it will be one you will like.THX,Kris L. CocKayne </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Murder She Wrote Season 6, A Must Have. </p>
+
+
+<h2> review.date </h2>
+  02-15-2014  
+<h2> review.text </h2>
+
+ <p> Many people do not like the episodes of &#34;Murder She Wrote&#34; without Jessica in them.  I love these.  Dennis Stanton is great.  These episodes are almost as good as episodes with Jessica featured in them.  I think they are refreshing.  This set does have good Jessica episodes in it, and a great episode featuring Grady and a very pregnant Donna. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still great even without Jessica in all of the episodes </p>
+
+
+<h2> review.date </h2>
+  09-19-2010  
+<h2> review.text </h2>
+
+ <p> I just love Jessica. I have purchased all the season that have been released to date. It was a great show that starred a great lady. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> mysteries </p>
+
+
+<h2> review.date </h2>
+  04-14-2010  
+<h2> review.text </h2>
+
+ <p> The dvd set came on time and it was in great condition. The disks were in great shape. Very pleased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Pleased </p>
+
+
+<h2> review.date </h2>
+  04-07-2011  
+<h2> review.text </h2>
+
+ <p> Whether you watch Murder she wrote on DVD or you read the books. All are exciting, good plots, interesting and colorful characters, interesting locations and you even learn a lot about country and people. I never been disapointed so far. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Murder she wrote - the 6th season </p>
+
+
+<h2> review.date </h2>
+  11-07-2009  
+<h2> review.text </h2>
+
+ <p> This season and the next seasons was almost the death of the series because she would appear at the start of the episode but not in the actual story but all in all it is still good to watch and see old stars and ones that would soon be big stars and some that would be in Star Trek series.It is still a good buy and to put in your collection </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More Murder and Mystery with our favorite Sleuth Jessica yay! </p>
+
+
+<h2> review.date </h2>
+  11-19-2013  
+<h2> review.text </h2>
+
+ <p> The video of murder she wrote the complete sixth series is is wonderful and a quality product. I will purchase from this seller again any time I need something that they are selling. The product is of a high quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the video of murder she wrote the complete sixth series  is fantastic </p>
+
+
+<h2> review.date </h2>
+  01-20-2008  
+<h2> review.text </h2>
+
+ <p> Thankyou once again for such brilliant service, the product was inmy possession within two weeks.You make it so easy to order products. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Murder She Wrote </p>
+
+
+<h2> review.date </h2>
+  12-09-2012  
+<h2> review.text </h2>
+
+ <p> I enjoy watching all the Muder She Wrote Episodes that is why I purchased season six. Also for the price was also right. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Muder She Wrote </p>
+
+
+<h2> review.date </h2>
+  03-02-2009  
+<h2> review.text </h2>
+
+ <p> I'm a big fan of Murder, She Wrote. However, this season was a real let down. Usually, Jessica is the sleuth but in this season, she either tells us a story, reads a letter and in one case was out of town and she called home periodically. I don't like this and I didn't even finish the last episode. Enough is enough. I really hope this isn't some new trend because I'll stop shelling out $40 bucks a season. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Where's Jessica? </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> We have all of the seasons in which Angela Lansbury plays Jessica Fletcher and we just love to watch them.  She is an amazing actress. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting series </p>
+
+
+<h2> review.date </h2>
+  08-30-2012  
+<h2> review.text </h2>
+
+ <p> I love Murder She Wrote. However, when turning on Seasons 6 and 7, I was very disappointed. I tuned in to see Jessica Fletcher to what she was there to do, solve the mystery. When I found out she was just introducing the show, I changed the channel. I didn't want to see some substitute. I was very disappointed in seasons 6 and & 7. Not up to the quality we have come to expect from Angela Lansbury. Very poor choice on her part in only appearing sometimes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Murder, She's ABSENT! </p>
+
+
+<h2> review.date </h2>
+  09-30-2007  
+<h2> review.text </h2>
+
+ <p> Another great addition to my collection.  The earlier series 1 and 2 had some dvd problems, but this one was perfect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Murder, She Wrote Vol.6 </p>
+
+
+<h2> review.date </h2>
+  03-15-2008  
+<h2> review.text </h2>
+
+ <p> I have loved Murder She Wrote since watching the first season as a thirteen year-old back in 1984. I have faithfully followed all the seasons, and Season Six [1989-1990] is as entertaining as ever.There are some changes this season though, for J.B. Fletcher does not appear as a central character in all of the episodes. In the episodes without Ms Fletcher, other characters solve the mystery -such as Dennis Stanton [former jewel thief turned insurance investigator], an LA homicide detective etc.Even without Angela Lansbury's Ms Fletcher solving the mysteries, the stories are so well-written and acted that it is still fun to watch them.Of course, the regulars are a hoot to watch as usual! Angela Lansbury is flawless in her role as super sleuth J.B. Fletcher, and there are of course  William Windom as Dr Seth Hazlitt, Richard Paul as mayor Sam Booth, Jerry Orbach as PI Harry McGraw, Ron Masak playing Sheriff Mort Metzger etc.Angela Lansbury is such a talented actress and continues to amaze till today [at 82!]. What I love most about her portrayal of J.B. Fletcher is that she plays a strong, intelligent, and attractive middle-aged lady [such roles are so scarce in Hollywood], and managed to entertain audiences for 12 years in her most-famous screen role! I hope the later seasons [9-12] will be made available on DVD soon! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another stellar season! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00632KSCY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> This is an absolute bargain at this price, three great westerns for one low price.  I could almost not believe it when I saw this set at this price, and went no further until I bought the set, right then and there. As a movie lover I am so glad that I did, you will be too, here's why-The Searchers 1956- Wayne plays an ex-Confederate soldier seeking his niece, captured by Comanches who massacred his family. He won't surrender to hunger, thirst, the elements or loneliness. And in his five-year search, he encounters something unexpected: his own humanity. This is, IMHO, one of John Ford, as well as star John Wayne's best movies, and this video transfer is the best I have ever seen the movie look, it is simply stunning and looks as fresh and crisp as I imagine a sixty year old movie could be made to look. Wonderful--This is a movie that transcends its genre and shows Wayne in top form as an actor and Ford in fine form as well.How the West Was Won-- 1962Epic and episodic tale of the development of the American West from the 1830s through the Civil War to the end of the century, told through the eyes of a pioneer  Prescott family. As they struggle with danger and adventure the family learns some life lessons and they are witnesses to history unfolding around them, The real star of the movie is the visuals, this movie was the last 3 strip Cinerama feature film made and looks absolutely stunning. I have read that the costume department had to hand stitch the clothes worn by cast members as the Cinerama process would show the machine stitches. In fact, the whole movie is loaded with this kind of attention to detail, and the result is absolutely beautiful and appears quite authentic. Since TVs don't have the huge 146 degree curved screen that Cinerama has the pictures are seamlessly digitally "Stitched" together. Add to this mix a star studded cast with an engaging and immersive storyline and you will find this movie captures you for the duration. There is also an added treat, the entire movie is presented in the stretched version, but there is also an additional disc which has the movie in a "Smilebox"  format that approximates the curving nature of the Cinerama format. What a treat, and makes me want to visit the Cinerama dome in Seattle to watch this on one of the Cinerama screens.The Wild Bunch 1969-- Made near the end of a cycle of traditional westerns, its one of the best. An aging group of outlaws  is looking for the last big score.  Lots of good acting, beautiful scenery and some rather breathtaking shots. This movie is somewhat a book end for the end of an era in Western film making, and Sam Peckinpah really brings this story to life, and the movie has become so much a canon that it is rumored that a remake is in the works. A really good , well done movie.Conclusion- this set is a real bargain, in an era when real bargains are few. .There are wonderful movies, in fact two of them have never been equaled IMHO, and they surpass just being "Westerns" into becoming great landmark films. Who ever blu lighted this release loves movies. You won't be sorry you bought this, as all these movies stand up to repeated screenings very very well. God Bless ya! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This set is a bargain for all movie lovers </p>
+
+
+<h2> review.date </h2>
+  03-28-2012  
+<h2> review.text </h2>
+
+ <p> A perfect blend for us "OLDS" who remember the parameters of GREAT entertainment! All three films merit four stars for action, plot, and exellent Blu-Ray transfers! This was premier Hollywood heyday when, (real ) talented actors of yesteryear exuded command screen presence and, gave the film voyeur his money's worth! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AT $16 BUCKS A GREAT STEAL! </p>
+
+
+<h2> review.date </h2>
+  05-14-2014  
+<h2> review.text </h2>
+
+ <p> Three of the greatest westerns ever.  The SEARCHERS is my favorite western of all time and it is in about the top five films off all pictures I have ever seen.  Why John Wayne didn't get the best actor oscar is beyond me.  Wayne didn't play the typical John Wayne part in the film.  And, who can forget the opening scene, and the closing scene. The Door Opens going from complete black to Mounument Valley to receive Ethan Edwards (John Wayne) and then at the end of the movie the Door Closes on Monument Valleym back to total black, with John Wayne walking out into the desert.  The performance of Hank Warden as the mentally-challenged adult is worth the award of Best Supporting Actor.  Favorite Warden Line:  &#34;We thank you O' Lord for what we are about to receive.&#34;  Well, what they are about to receive is about two hundred mad as hell Indians in an attack.The other two films are excellent as well and HOW THE WEST WAS WON has been repaired and refurbished and has had the two bars of the three separate cameras that was part of the original Cinerama process removed.  You can make out the connections once in a while but if you have ever seen the original you are in for a real treat with this Blu-ray treatment.  In fact, all three movies are spectacularly sharp and the sound is great.The WILD BUNCH is a real shootum-up and about the most shootum-up of just about any western.  Biggest Shootum-up:  The first twenty minutes of SAVING PRIVATE RYAN.  I forgot, SPR isn't a western.  Great collection and the most perfect copies of them that you will ever be able to get. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful Blu-ray collection at an exceptional price </p>
+
+
+<h2> review.date </h2>
+  10-01-2013  
+<h2> review.text </h2>
+
+ <p> I was pleasantly surprised at the video and audio quality of this triple header of classic westerns,it's not HD but pretty durn close to it Podner! The price is great for what you get,you can't go wrong . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> triple super western collection </p>
+
+
+<h2> review.date </h2>
+  10-05-2012  
+<h2> review.text </h2>
+
+ <p> Reviewing the movies in this set is pointless you know what you are getting. I can say that on Blu Ray disc the image is stunning. Sound is good too but none of these are sonic tour de forces. If you are looking for the smile-box version of How the west was won you will need to purchase the 2 disc set. However if you are like me and simply happy to see this movie in pristine widescreen, you will not be disappointed. Tonally I do not think the Wild Bunch or the Searchers should be with HtWWW but there are a lot of similarities between these films. HtWWW is the beginning of the "western" era, the Searchers is kind of the middle and the Wild Bunch is absolutely the end of an era. I'm very pleased to have this as part of my collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing bang for you buck </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> While The Searchers and The Wild Bunch are much darker films than HTWWW, I'm pretty thrilled to have all three on Blu-ray for such a reasonable price. It is three discs, not all 3 movies crammed onto one disc, but the extras from any 2 disc special editions are not included. The Searchers looks spectacular, as well as being one of Wayne's finest performances. The cinematography has always been stunning, but even better here. This is the best that I've ever seen the Wild Bunch as well. But the most improved award goes to HTWWW. While the "cinerama effect" is not 100% gone (there is a version that apes the curved screen effect of Cinerama)those awful lines are pretty much invisible now. Not completely, but it doesn't ruin the viewing, as it had on every other version I saw up until now. This movie see-saws between touching and sappy, between historical and fanciful, and some of the dialogue is downright funny in all the wrong places, but I saw this in Cinerama in 1962 and loved it. Of course I was 8 years old, but I've loved it ever since, warts and all. These are definitely worth the upgrade to Blu-ray. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An unusual threesome. </p>
+
+
+<h2> review.date </h2>
+  03-18-2013  
+<h2> review.text </h2>
+
+ <p> Here are three landmark Westerns, gathered together in a single package on BD. Each film has a disc all to itself. All three movies come up well on BD, though the sound could have used a little more restorative work."The Searchers" is presented in VistaVision (16x9 - 1:85:1). Colors are very good, though the sync seems to be off in some scenes between the picture and the voice track."The Wild Bunch" is the Widescreen Director's Cut version (16x9 - 2.4.1), and it looks impressive."How The West Was Won" is a Cinerama production presented in Widescreen Letterbox (16x9 - 2:89:1). Most of the 3-panel "join lines" of the Cinerama print for HTWWW have been effectively eliminated, though they are noticeable in any shots where the sky dominates the screen. They've also done some work to eliminate the feeling of the picture on the outer panels curving off the screen, though some scenes are beyond help in this respect.I paid all of $16.99 for this set through amazon. Quite a bargain!Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Movies - Great Value </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> Here you have 3 great westerns in one package ok the first the searchers this is no 6 of the all time best western . Then the wild bunch Sam peckinpah this guy made awesome movies plus william Holden robert Ryan earnest Borgnine great cast then how the west was won 3 directors ford my favorite this is an movie lovers delite </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How the west was won </p>
+
+
+<h2> review.date </h2>
+  11-27-2013  
+<h2> review.text </h2>
+
+ <p> The Searchers and The Wild Bunch are two of my favorite westerns so upgrading to blu ray, for better clarity, was a no brainer. Although I would have preferred another western than How The West Was Won the price was right for the other two movies. I have the DVD version of The Searchers and The Wild Bunch and the blu ray version is a little better in color and sharpness. Enough to warrant replacing the DVD is arguable as the quality is marginally better not fantastically better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two Out Of Three Worth The Price </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> Three of the greatest westerns of all time in Blue-ray!  I feared that they would try to cram all three features onto one disc (like it was once done in the past).  All three were of excellent viewing quality.  And the sound, superb!  In &#34;How the West Was Won&#34;, the video and sound combined so that it seemed that I was in the pirate cave with Walter Brennan and James Stewart, or on the flatboat roaring uncontrollably down the river, or on the runaway train while George Peppard and Eli Wallach battled it in out on top of the load of logs.  All for less than $12.  I have recommended this to my younger brothers, but they just want to come over and watch it on my screen.  When they walk outside in the morning, the birds stop their singing and say &#34;cheap, cheap, cheap..&#34; </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Triple Feature:  Searchers/Wild Bunch/How the West Was Won </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

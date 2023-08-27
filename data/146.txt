@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00ES5YZD6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> As good or better than plasma picture... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Here's a simple statement.  A local high-end A/V outfitter recommended this tv to me, their basic synopsis was; this "W" series is basically the best tv sold without 4K and without the 4K price tag.  It's the same other than that and they were spot on.  I walked in looking at 65" Samsung 7100 to upgrade our 50" Panasonic plasma which was too glossy in our new house family room.  I am spoiled with the plasma but it didn't take long to realize I had a true contender/replacement.  Amazing picture.  Sound isn't bad either for such a small frame.I was a little concerned about such an expensive purchase "online".  With the enhanced delivery process and even the expertise of the delivery man I'm not sure why I haven't done this sooner.  Pricing was essentially the same on amazon as in local stores but I will never again think twice about a large tv purchase on amazon.  Great transaction, and they unpacked stating outside temp was too low to turn the unit on to test, so he stated on his paperwork that he was unable to test making it that much easier to process a return if something wasn't right.  All was perfect. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing TV! The Colors are vibrant (Blues, Greens, Blues, Orange) and Deep blacks! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I can say it is very hard to compare at a brick and morder store due to all the setting changes they put on the TV.  From all the reviews I decided on this TV. We hooked it up yesterday and I have been playing with a few setting based recommendation from message posts. I can say I am very very amazed on how good the picture quality. The blacks are as deep as the Panasonic 65VT60 (I had one), and but the colors are more vibrant. Every time I watch the TV I keep saying to myself wow. I also compared this to the Sammy 65H7150 and there is no comparison. The 65H7150 blacks are not detailed. I just see a blub. Picture details is not there and the colors/contrast seems off. Picture does not seem to be natural. When I saw the Sammy 65F8500 plasma, its was a comparable to this TV.  Again I am just amazed on the design and quality of this TV. You get the best of both worlds. The best blacks from plasma and best vibrant colors. I sure hope that Sony will keep this level of superb refinement in PQ in the new models. I initially thought the TRILUMINOS thing is another gimmick from typical manufacture but its TRUE. The colors are very beautiful. I never saw colors this AMAZING! The reality Pro is also true related to picture detail. Good luck on your selection! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great TV JUST NOT AS GOOD AS THE KDL55W900A </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> ***12/10: Bought the SQ Trade 5-yr Warranty for $248.14 here, and it was the best out there. With this discount price I paid at $2499 for the TV, after Sony ran another price drop,12/6: Buy it with Sony's BEST picture Blu-Ray Player (*I talked to the Sony Commercial sales & repair specialists, and this is their best picture player! BDP-S790) It does pair with this TV's remote, but still missing some functions, like load & eject, so you need another remote."The PS3 & PS4 will not give you as good a picture, so my PS3 is on my backup TV now! Big difference in quality of picture!"I talked to several sources on this TV before buying. The Sony Sales Rep at Fry's Electronics, Abt Electronics, Best Buy, online stores, 3-local TV repair companies (*On reliability!),as I especially wanted a great price and a solid running unit. This was not my first choice. I was going to buy the Panasonic Plasma, but after circuitry problems, and them closing their Plasma line, I passed. I looked at Samsung's lineup, but after reading all the "1"ratings here on Amazon, and my own three bad Samsung Plasma TV's, before switching to Hitachi, I passed on them too. Just too much Chinese factory board problems.I called Sony commercial sales division, my dad use to own a TV & Appliance store, and they confirmed to me, that the price was dropped for the holiday only.I asked about a bigger 240hz like the 900A, I did not want a smaller TV, he confirmed that it was not going to happen in 2014! It is just too expensive at that sales to cost point.This TV is only 120hz, unlike the KDL55W900A, (*Which I would have bought, if it had been a 65", I have a 67" Samsung LED/DLP, and 14" screen width is too much to lose.), which is 240hz, but having spent well over an hour looking at both TV's, side by side running at Fry's, with the Sony Rep helping run the same source material, I could not tell the difference.These two TV's have "ACTIVE GLASSES" for 3D, (*It took some work (*You have to pull out the battery usage drain protector plastic, then push the button with your TV in the big remotes top center *3D button pushed~use 3D side-to-side setting on)*Make sure you go in after watching your 3D movie and turn it off!!!!!!If you don't everything will be trying to upconvert it to 3D, and look awful-I did not read the book.) You have to wait for it to say on the screen, after you push the glasses button, it will flash and then the TV will say at the bottom paired with 3D glasses.***Connections~ Sony is a LEFT SIDE INPUT, Samsung is a RIGHT SIDE INPUT. You may need longer wires or to totally reconfigure your setup like I did, and it will be a work in progress for my main computer. I love this screen, just like my Samsung led 67"DLP for a computer, with my wireless, Logitech K800 lighted keyboard, & G700 gaming wireless mouse. Relax from 10' away with a cold beer & in a recliner to be on the net.***PS3--- REMOTES ARE NOT COMPATIBLE! ONLY WITH REGULAR BLU-RAY OR DVD PLAYER. YOU CAN TURN IT ON AND OFF, SO KEEP YOUR PS3 REMOTE HANDY!I ran my 1st at home 3D, and it was not close. A huge improvement over what I saw at Frye's Electronics on the same media. Lighting, and more distance back, makes a huge difference in quality of picture. So, expect it to be better, especially with a great Klipsch home theater system, and a great Pioneer 3D receiver.I watched the 3D Harry Potter, which came with my PS3 again, and I have to say I could see stuff flying out at me 7' from the TV. Way cooler than the miserable passive glasses at the Regal Cinemas. They took them away for the new 4K TV's. You get the full 120hz in both eyes on this TV, and 240hz on the 55w900A.I came in ready to buy the 55W900A, but refused to drop 14" in screen. I watched multiple materials on the 55W900A and their newest 4K 65" with non-4K sports, and there was not enough screen variation to justify the $4500 cost, to get a larger size in 4K.If you are willing to go to just a 55" then the KDL55W900A  is a better TV than this model. You will get a sharper and clearer picture, no question about it!!!This one is identical except they took away 240hz. This TV has an outstanding viewing area. I went over 10' on both sides with no visible distortion.I would say, the glare issue is close to Plasma. I would not buy this TV expecting no light reflection in a high light room. You will see reflections, not as bad as Plasma, but close. Plus, this TV has a really reflective, high polished chrome stand. Cover it up, windows, and lights off, and its fine. I have been using it as a computer monitor with a white background, and even with my north side big sliding glass door 8' away, I can see no reflection in the white background on Google chrome.  This TV only has less than 60-days of sales, so who knows.This TV does a great job with concerts. I watched a great video "Joe Satriani Satchurated live in Montreal in Blu-Ray, it was great. The sharpness was great, the Fenders were so clear, I could even pick out Joe's individual hairs on his arm.Yes, it is not as great as the 55900A, but I don't regret buying this TV.**Now the remote is a true learning experience coming from Samsung TV's. Even my PS3 did not like this puppy. I had to have the PS3 rep help me get it paired, and I still don't know one of the main functions, and neither did the PS3 rep.***Put some names on these buttons, screw this color coded, multicountry, one fits all remote. They do give you a small player remote too. Just plan on either reading this whole manual, or calling tech support on this no name on remote functions.The button the PS3 wants to pair with, "Is not labeled on this TV remote!" So, I am still waiting for time to get around to be able to use all the functions, plus this remote won't scroll sideways all the way for some reason. So, I am still using my PS3 remote for movies. I did not pair it up as internet, since my PS3 just works, and I have a fast computer. Now if my Apple Airport Extreme had more than three miserable Ethernet ports, I could use it without having to plug and unplug my PS3.The KDL55w900A uses last years highest quality 4K model components, so it has a great track record. No one I could find did not give it a great rating.Be aware that Sony does not warranty individual pixel failures, unless they are in a big group. So, if you see them die in the first 30-days run, don't walk, to see if you can get them to change it out. That is the biggest problem with all LCD/LED TV's. Fry's electronics covers it, but their extended warranty requires you to give up your first born child. Not really, but it felt like it when they told me their price. As for Square Trade covering pixels? Their sales rep said they are now matching the manufacturers warranty, but are considering changing that warranty feature!PIXEL UPDATE: 12/6/13: Don't buy Sony's Extended Warranty!!! It does not come from Sony!!! They left out the Sony Pixel coverage below!! If you want an extended, check with Square Trade (*Get their pixel warranty in email writing!) ask for discount, or look for online coupon! Don't pay full price here!______________________________________________________SONY'S FACTORY PIXEL 1-YR WARRANTY!!Worrying about pixels, I spent 4-hours to get this buried deep source of information, on the Sony pixel warranty, from Sony's El Salvador call center.This TV has 8,294,400 pixels, and 0.01%, or 82,944 have to be dead to warranty. How big is that area? 4.97cm sq. area with black pixels (*Stuck is red,green,blue~If it is this color try programs to unstick it!)If the various internet U-Tube, or Disney programs don't free them up, it is a goner.I called Square Trade, & that rep, who said he looked it up, was giving me a load of bull. He said they use Sony's 1-dead pixel for theirs. I knew that was a load of bull after talking to the Sony rep at my local Fry's. Never believe it until you see it.This TV has no clearance for any Center Speaker, and I won't put any TV on the wall!!Why?""It absolutely shortens the lifespan of the circuit boards!!"They run hotter, because you are blocking the vent sources. I confirmed that with some TV repair friends, who see lots of wall mounted unit failures. The cooler your boards, the longer they will last. Give it a couple of small computer tower fans, the best cfm, & quietest are Scythe Japanese fans, it will last longer!So, after a day of research, I found, and bought this great Solid Kiln Dried Red Oak American Made riser, to put my Klipsch Center Speaker under the TV. It came with a "GREAT FINISH" matching my black Klipsch, plus it "RAISED MY TV ABOVE MY FRONT SIDE SPEAKERS!" I have a USA made solid Oak entertainment unit.I did not want another pile of compressed Chinese sawdust unit!!!Why?My new Chinese camlock unit "EXPLODED IN THE MIDDLE OF THE NIGHT!" My Samsung 67" LED/DLP TV, PS3, cable box, component Klipsch system, and all my media, came crashing to the ground!I ran out to a bonfire size pile of broken free Chinese camlocks! So to avoid this disaster, stick with steel or real wood products!This is a well made "USA" product! It came packed extremely well, it was just made so, I aired it out for a few hours, to finish off-gassing the paint.LARGE BLACK TV RISERby SYRACUSE TV RISERSwith 9 customer reviewsPrice:  $89.99Ships from and sold by SYRACUSE TV RISERS.3/4" solid choice kiln dried Red Oak WoodKreg Jig AssembledHand SandedTheater like viewingEntertainment centerLARGE BLACK TV RISER </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This TV has awesome picture clarity and mind blowing sound. Worth every penny, No need for external speakers at all! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> absolutely stunning clarity, mind blowing sound, easy to setup.Bought from Amazon about a month ago. Delivery and setup was on time. Contrary to what was mentioned on the term of delivery the carriers refused to take away packing material..No big deal.Set up took about 15 min. and was off and running. Loved the clarity and the sound was really awesome for a TV with no visible speakers. I do not see nay need for a soundbar or any external speakers.Cons:( I bought this little dohickey to adapt my wireless headphones with dual RCA jacks to fit a single audio out jack on the TV.B003VJX2F2The audio out port on the TV has two options headphones or external speakers. However when I plug my headphones into the audio out port, sound from the TV is muted, same result with Ext speaker option also.  So this means I have to reach back and unplug/plug  the headphone jack every time I am done/ I use it. The headphone jack is not located in a very convenient spot.There is a considerable lag time after switching the unit on before it can accept other commands from the remote. The TV has an option for TV input but it looks like I cannot control my Comcast setup box with the Sony TV remote. Have to play around with this.Despite these minor issues. The TV is great and would definitely recommend it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love the Picture but waiting to get a set with less defects </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I absolutely love the picture quality on this LED but I keep getting bad TV's. First one came with a big dent down the middle back of the TV and the packaging was unharmed. Second one, that is getting exchanged this Friday 1/31/14, came with a problem with the panel and sound. The screen has for a lack of better word ripples or a bulls eye. I am posting pictures to see if anyone else has this issue. The ripples or bulls eye is slightly noticeable dead center but you can still slightly make it out but very noticeable viewing from angles. It is also most noticeable on solid color backgrounds of White, gray and reds. Also one speakers has a hiss and pop sound that is intermittent. It shows up while using the built in tuner to watch TV channels. When tuning to a channel the hiss and pop starts and remains even after changing input selections (input 1, 2 etc.. etc..) Only way to get rid of it is to go back to TV input and keep changing channels till the sound goes away then it is gone on all inputs. Strange but once it is gone no other A/V equipment (Computer, Blu-Ray, or PS3) causes the sound issue on any other input for the exception of the TV input while navigating to select channels. I am hoping the replacement arrives and works as it should because minus these two issues this TV is a solid 5 stars.UPDATE: 2/4/2014I received the new TV yesterday and unfortunately it suffers from the same issues albeit not as much. The screen still has uniformity/banding issues just not as intensely noticeable as the first TV. Almost seems like it is dirty in places including both vertical edges. I think most people will not notice because you have to have a still solid light colored back ground such as white, gray or red. Also the sound ticking issue happened once so far on the left speaker again but once it was gone it has not returned yet. While the picture is nice and the blacks are very good for a LED panel I am still very bothered that a TV at this price point is plagued by such problems. I am currently deciding if I should live with/ignore the problem or exchange it or just get a refund and try something else. I will post new pictures of the screen when I get a chance. It would be great if any current owner of this TV can check for the issue I am having and if they can confirm they do not have the issue let me know the Date your TV was manufactured. I also want to state that Amazon has been nothing short of awesome through this whole process.UPDATE: 2/4/2014Hiss and ticking came back on the left speaker only and I cannot get rid of it. Called Amazon to setup another exchange. Decided to give it one more try since some people seem to continue to state they have not experienced any of the issues I have had with the picture. New TV should arrive 2/12/14 and I will update when it arrives.Just wanted to add both TV's were updated to the latest software and the defects persisted after the updates were completed.UPDATE: 2/8/14If amazon allows the link below and it works, it will take you to an image galley on the AVSforum where you can browse the pictures of people who purchased this TV. Some of the pictures show the good aspects of the TV and some show issues people are having with the panels including the issues I am currently having.www dot avsforum dot com/t/1491811/lightbox/UPDATE: 2/12/14TV #4 Came in today and there is good and bad news.First the good. The bulls eye or crescent shaped discoloration was not noticeable on this TV. Also I did several Test with the audio and heard no clicking but I also did not try the TV tuner at all this time. So either the problem did not exist on this TV or it is a problem that is created by the TVs internal tuner.Now to the Bad. First, The uniformity problem still exist and I am pretty sure it is just a problem that effects all these TVs and it is a problem that I would be willing to live with it if it wasn't for other issues that have plagued the TVs I received. Second this is the first TV out of the three I have had sent to me that had an issue with clouding or back lighting issues that were visible on a black back ground (I will post pictures tomorrow). This is also the first TV that I received that was manufactured December 2013. The others were from October 2013.Maybe I will wait till March and see what people say about the new models coming out. I will say it is interesting that Sony just put out, relatively speaking, this model and it is already replacing it with another one, next month, albeit a 5 inch bigger version which will not have the tri-luminous display. All in all this has been a pretty frustrating experience and unfortunately I will have to keep my rating at 3.5 stars. I am glad some others have had nothing but a good experience with this TV but I did not.FYI:The New Model of this TV is the KDL65W950B Not the KDL70W850B. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Made a great purchase! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> After a lot of research, I went onto Avsforums and read a lot about this tv.  After the rave reviews, purchased it, and couldn't be happier.  Previously had a 46&#34; Samsung HDTV that was 6 years old.  This tv is fantastic.  I tried Whitesands settings that everyone talks about, but the overall POP in picture was too much for me.  Sure they look great, but a realistic/ideal daily viewing, not for me.  I ended up using some other settings that were posted on AVSFORUMS and the tv looks fantastic.  No complaints at all.  Highly recommend for the price! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great TV. Best picture I have seen. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I compared this item and a Samsung f8000 and after some research, ordered this Sony. I am pleased to say that I am very glad I choose this Sony. It has great picture and following some video settings by WhiteSands from avsforums, it looks even better than out of the box. Great Colors, 3d looks awesome. Minor issues with pairing up my Xperia Z1s phone but I think its not an issue with the TV or the phone rather the technology behind screen mirroring (Mirracast, DirectWifi and NFC). I read that screen mirroring from phone to TV is just not ready for prime time. As for the TV itself, I could not be happier. I will update this review after a month of ownership. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best 65 inch LED TV </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this TV from BB and had the GS install the TV on  a Chief mount in my living room. The quality of theTV is amazing. The picture is fantastic. I own a Panasonic 58-inch plasma; and this TV is in the same high end league.I did not want to spend twice what I paid to get the 4K Sony. I also did not want to pay to upgrade my Onkyo NR1008 receiver. No regrets here.I added a Sonos receiver, which had added to the incredible home heater experience.This TV is clearly in a 1080P league of its own. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very, Very impressed with the picture quality on this TV </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> About two months ago I started looking for a new TV, and really wanted a plasma for the best picture quality possible.  I purchased the Samsung 64H5000 plasma from Amazon and was very happy with the picture quality and price, but the fact that it was essentially unusable in daylight made me send it back.  I really wanted at least a 64&#34; screen, which would have meant going up to the 64F8500 plasma set, but I couldn't justify approx $2600 for a TV that I might get the itch to replace in a couple of years if 4K takes off.Turning my search to LCD TVs, they all appeared to be more or less the same in specs and price at each tier.  I went to Best Buy to look at the TVs in person and was blown away by this TV.  I then read the review in Sound and Vision, and my mind was made up.  I took a gamble and ordered through Amazon warehouse deals and got a used TV at a considerable discount.  The description said it had some scratches on the front, which I have been unable to see while scrutinizing closely. It looked like he TV had never even been plugged in before.After getting the tv setup  I have been very very happy with the picture quality.  The blacks look legitimately black, probably not as good as a plasma in a perfectly dark room, but I never have a perfectly dark room.  The colors on this TV look way better to me than the plasma's, especially the whites.  I set the TV using the Disney WoW calibration disc, and also used the settings provided in the Sound and Vision review, both look good.I don't really care about the smart TV features, so I can't comment about that, but I did get a free year of Hulu Plus from it.  I was pleasantly surprised by the 3D function.  It is something I never thought I would use, but I watched 15 mins of Pacific Rim from Comcast On Demand, and the effect was pretty good.I would highly recommend this TV to anyone. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> AWESOME TV!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I made the decision to purchase this TV set after reading lots of review including this years model of same tv. But this is the clear winner. And to my surprise when I bought this from a local retailer, this set even looked AWESOME!!! Pictures can not justify the elagance of this tv set. I been using this for few days now and picture quality is outstanding, and even the wifi connection is super fast and matched that w/ super user friendly tv operation. But goodluck to you finding this set unless you want to gamble buying from unknow web retailer. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

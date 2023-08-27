@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B008S1VK84 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-20-2012  
+<h2> review.text </h2>
+
+ <p> I actually love this book. I needs some proofreading, sure. And the sentence structure could use some improvement, but the premiss of the book is great. I think that this is a very book that could stand alone and does not need the Pride and Prejudice "plot" to carry it. If this was just an independant historical novel, I would have loved it. It was an enjoyable read and an interesting take on a classic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stands Alone </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> I love reading P & P AU stories. Some are really great, some are good ideas gone bad, some are just bad. This one had an interesting idea (an evil, tormented Fanny), good new characters; but I just couldn't get past the editing issues and a Darcy that was just TOO sappy. Elizabeth was strong, but there was still something about her that went against the grain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too many things wrong </p>
+
+
+<h2> review.date </h2>
+  08-17-2012  
+<h2> review.text </h2>
+
+ <p> I am giving this book two stars.  The story was a good idea and would have been a four star read for me but for the fact that it was so badly written.  The sentence structure was terrible as was the grammar and spelling.  Whenever one of the characters said "Ah", it was spelled "Awe"!  That's just one example.  It was really an interesting take on a P&P sequel and I truly wanted to enjoy the read but it was difficult.  I would beg the author to please take a writing course and get an editor because she has very good story telling abilities.  This is my opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dolliemoma </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> It was a good story. It had many twists and turns. It was a new take on an old story and I enjoyed it very much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3.5+ </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> Out of all Melanie Schertz's books, this is actually one I felt was going somewhere-decently developed, fairly good description and dialogue.  I will say I had a hard time with Elizabeth being 15 through the whole thing, but dealt with it. Enjoyed the storyline with Mrs. Bennet- very creative. And THEN it happened! With only (according to my Kindle) 37 minutes left to read, unexpected graphic sexual situations. Not even something I could skip a sentence or paragraph. I felt cheated and stopped reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed. </p>
+
+
+<h2> review.date </h2>
+  02-03-2014  
+<h2> review.text </h2>
+
+ <p> On a positive note, the plot was original and creative and the characters were interesting. I'm not usually so picky about the lack of editing if it's an entertaining and engaging story. I must make an exception here. If nothing else, please have a few friends proof read and make corrections. Spelling, grammar and sentence structure errors were so prolific that I found it very distracting from the story. It seems that half of authors have engaged couples go to the alter( rather than altar) to marry. Many sentences have complete words missing so you must figure it out as you read along. The editing appears to be nonexistent.For my own personal enjoyment, a story must be believable to be good. There was much in this book that I did not find believable. Darcy and Lizzy got married when she was 15 almost 16? No, no, no. And the happening in the bedroom after Lizzy's accident when she compromised Darcy? This was a young, innocent maiden. I don't care what kind of drug she was given she would not behave in such a way if she had no prior knowledge of such things. This really ruined the book for me and it started off with such promise. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Where do I start? </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> This is a delightfully creative variation of P&P.  It captures the true Darcy and Lizzy when they are younger and not so set in their ways that they cannot learn to work/talk through their first impressions and misunderstandings.  It was a delightful change to have both Mr. Darcy and Mr. Bingley seniors in the story.  Maggie Whitaker is a delightful addition to the regular cast of characters.  All in all a very enjoyable read, if you can overlook the grammar and editing errors.  Ms. Schertz tells a wonderful story! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A VERY GOOD READ </p>
+
+
+<h2> review.date </h2>
+  12-13-2012  
+<h2> review.text </h2>
+
+ <p> While this book was filled with many grammar problems, they were not so bad as to make it unreadable. The plot and story development was an engrossing read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Grammar problems but a good read </p>
+
+
+<h2> review.date </h2>
+  08-26-2012  
+<h2> review.text </h2>
+
+ <p> I loved the premise of the story.  It's a cute version and the character development is decent.With that being said, I could give it no more than three stars.  The spelling mistakes were too numerous to count.  The one that bothered me the most was the difference between 'patients' and 'patience.'  The part of the story where the doctor came to tend to Elizabeth and the Earl and Darcy ask him if he was free to come with them to Rosings to check on Anne, I think 'patience' was used about FIVE times, and each time incorrectly.  Really?  When people buy a book, they expect it to be free of spelling and grammar errors.  This may seem harsh, but it's the truth.  I'm glad I used my "borrow for free" feature for the month of August on it.  I'd be ticked if I spent money on something that was not edited. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Proof-reading would be appreciated </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> This was a struggle to continue to reading and then became unmemorable.  I wish I could remember what it was about but unfortunately, it was forgettable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These eyes are not so fine. </p>
+
+
+<h2> review.date </h2>
+  08-27-2012  
+<h2> review.text </h2>
+
+ <p> This is the second book I have read by Melanie Schertz and I hope there are more in the pipeline.  This "what if" based on Pride and Prejudice has faithfully represented the original characters and added some new ones.  The plot is complex and full of surprises.  If you can only buy one download from Amazon, make it this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good complex plot </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

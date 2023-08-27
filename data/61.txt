@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00318CG9G <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Disappointed in some features but overall it's good product </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-22-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm a big fan of HP products. I've owned 4 HP notebooks and 3 printers over the last 10 years. I've also owned a Dell, Averatec, and Toshiba laptop over the same time period.Pros:1) Numeric keypad. The keys are a little slimmer than keypads on other notebooks (i.e. Toshiba and Sony models) but it isn't too hard to get used to. I use this a lot.2) Good battery life. I haven't fully drained it yet, but it looks like it's at least 3 hours/.3) Runs cool. I can use it for hours on my lap and it doesn't experience the heating issue my previous HP and Averatec laptops ran into.4) Overall, for a budget laptop, the overall build feels like a good quality.5) eSATA6) Remote - I never use these, but I may this time since it also has a HDMI output.Cons:1) The BIOS is locked. This is kind of annoying. I don't mean you can't get into it, but merely, some of the features or options aren't made available. I've never seen a BIOS this limited (and I've owned a lot of notebooks [see above] and desktop systems. This probably won't matter to most people though.2) As odd as it sounds, HP technical support told me it won't support a SATA SSD. I've read some laptops have problems with this.. I haven't actually tried this myself but I probably will. I'm hoping HP support just doesn't know what they're talking about and just don't see it in the supported hardware list.3) When the notebook goes into sleep mode, I get weird horizontal lines that forces me to reboot. I've tried refreshing the display, having it output to an external display, changing resolution, etc - but those methods don't work. This may just be my laptop or a driver issue.4) Easy to get fingerprints all over it (probably due to HP's finish).5) Dust seems to be very noticeable on HP's finishNotes/Neutral:1) Doesn't utilize a latch on the lid to lock it in place. The lid close tightly though.2) No USB or other I/O ports on back of laptop. It only has 3 USB ports.3) Power cable is on the right side of the laptop towards the back.4) Audio ports are on the front right and there are two headphone jacks. This seems fairly typical of a lot of HP notebooks but I've never had to use it. Still nice to have.5) There is a docking station expansion port on the left. Haven't tried it yet (don't own a dock), but at least you know it's compatible with a docking station.6) No modem. This doesn't bother me but for those of you who still use dial-up might want to know this.7) Does come with 802.11n and works as expected.Overall, I think this is a good notebook for a student or someone like me who doesn't do much with his notebook but tosses and abuses it a lot during travel.UPDATE: 14 June 2010Okay, so I bought a OCZ 60GB SSD. I didn't think it seemed right that I couldn't upgrade to it, so I figured it was a calculated risk. Anyway, the SSD works fine. There are a few issues to consider though... The recovery DVD you made will not install to a smaller drive, so you'll need something like Norton Ghost to do it. I looked into using free utilities and couldn't find any (i.e. Clonezilla, Partition Wizard, etc). Or, you need to buy a regular copy of Windows 7 and install it from scratch.The boot times do improve significantly. I don't know if it's worth it, but my laptop now completely boots up in about 30 seconds. Applications start almost immediately. However, I would probably avoid the upgrade again only because I miss having the drive space.Also keep in mind, if you do upgrade to a SSD to optimize it. There are a few tutorials online that tell you how to edit your registry to get the most out of it.This also means HP tech support loses a star since they told me it wasn't possible.While I was reloading the factory install, I did notice that there is a minimal install of the OS. It does come with some HP utilities, but a lot less. So I definitely recommend that you re-install if you don't like having too many applications preloaded. It takes about an hour. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Feature Rich System at a Value Price </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-11-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> A less expensive laptop with a more dated dual core processor would have nicely served my business needs, but when a sale price brings this puppy closer to $650 or less, it really justifies going with this HP's Intel i3 processor for the enhanced processing power, especially when dabbling in personal multi-media.  It's a feature rich machine that offers some ability to grow with your needs because it is so well ported.  It comes with 4-USB, an external eSATA to attach a speedy external backup/storage drive, an HDMI port and companion laptop remote control, external monitor, 5-in one card reader (ooops, not Compact Flash, regrettably), ExpressCard 54 slot, 100-mbps RJ45 and Wireless N Draft networking, Bluetooth, and capped by a double-layer DVD/CD read/write drive.Where the rubber meets the road, I was nicely impressed with how well the N-Draft wireless adapter downloaded a 311-MB printer driver software suite file ... less than 10-minutes ... and I finally get wireless service anywhere in our single story home through several walls.  Hot dog, Cat5 is now dead.  I have since teamed it up with a Seagate BlackArmor external backup/storage drive that promises up to 3-GB/S eSATA transfer.  However, I'm using it via USB at this writing and am greatly pleased at how fast that connection works, as it is, for basic backup and off-machine file storage.  I likely won't go eSATA, but can.I'm not a 'touch-pad' fan, using it only when a wireless mouse isn't possible.  This one is like any other and I find the right-side touch-scroll bar to work when I don't want it to and to not work when I do.  No doubt that's a combination of me and the nature of that annoying little beasty.The 15-inch class screen on this version is just right for these 60-year old eyes that have worn glasses since dirt was made, but I have a hit or two.  First, it was dramatically bright out of the box with blacks washed out and the light-blue text so prevalent on websites very washed out and difficult to read.  The good news is that the Intel graphics driver offered the needed adjustments to bring the brightness and contrasts under control and it even includes a text enhancement routine that capably took the harshness out of black text as delivered.  It still displays digital photos with way too much brightness and I have not been able to get it under control.  For basic multimedia / DVD movies and such the display is still serviceable with sharp imaging.  Other versions of this model can be equipped with cable/satellite/off-air TV tuners and connections.HP's bloat-ware was within reason and largely ranted on with on-line backup offers.  Windows 7 Home Premium now comes with scheduled system image and data file backup routines, but one must upgrade to PRO in order to back up over a network.  It will work with an attached external drive, so the on-line vendors are now relegated to those worried about fire and theft.  Win 7 networking is much improved and connected to all our shared resources within our home network without complaint.  However, it now comes configured with a 'Homegroup' system that has yet to make any sense to me over the "workgroup" method, which is now somewhat buried in the operating system.HP's included MediaSmart software also doesn't make intuitive sense especially with the photo display/editing features for basic snapshots.  Picasa is still hard to beat and the serious photos still go through Canon's Digital Photo Pro.  I also have a problem with an HP 'Web Printing' plug-in for Internet Explorer.  This piece allows for selecting a partial section of a web page screen for printing.  However, an HP update for this module has fully and fatally crashed Internet Explorer 8 within a week of buying the laptop.  This appears to be limited for reasons unknown since neither HP nor Microsoft has rushed to get it fixed and I didn't shed much of a tear over losing it as a bloated, boat-anchor browser in favor of Google Chrome.  But, for IE8 fans, get this ... Microsoft says that IE8 is now an integrated part of the operating system and does NOT offer an IE8 download for WIN 7. As a result, it shall now stay banished.Windows 7 also provides a relative performance rating routine for computer hardware.  At this writing, it is on a scale of 1-to-7.9 with design for future updating.  It rates individual hardware areas for performance and gives a score based on the single lowest scoring area ... it is NOT an average.  I don't see why you can't review this score on the store shelves in order to pick a laptop that meets your individual performance needs.  This HP rates 4.2 for its "Desktop Graphics" system, which speaks pretty darn well for the rest of the machine.  For a gaming screamer laptop, there are different DV6 derivations that score higher, but for a good, well equipped, feature rich system I think it's fair to say that the DV-2150 is a 'mainstream' screamer that does a ton of things exceptionally well under the hyperthread Intel i3 core. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Can Handle What I Need </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Hi---I bought this back in July from Staples. I guess they were having some sort of sale, and it was only 600 total. Anyways, The Dv6-2150Us Is really good. I use it for College, and it handles what I toss at it. Now I am a gamer by design. I play my Xbox quite a bit, and was looking for something that could handle some game types without going into a Alien-Ware Range. This can handle games like Oblivion on lower settings, and games from more like 2007, and lower maby a FEW 2008's. That is actually really good considering it's not a 1000 dollar machine. I use this about 15 plus hours a day for school, and messing around on the web. It run very good, and fast. Absolutely no problem so far, well there are a few.1. This as in all glossy product are fingerprint magnets.2. This gets dirty fast so clean every now and then.3. The speaker area gets dirt or fuzz stuck in it's holes, impossible to get out without dis-assembly.4. The track-pad button, and i am sure it's because of frequent use is when I lightly click there is a spring noise, NO biggy.Alright now the negatives are out of the way, and now it's time for the positives1. Handles games well on lower setting really good.2. Handles my excessive use up to 19 hours a day.- (Includes my family)3. I like the keyboard my cousin doesn't but i like it's more flat, and smoother. If you like a popped out one like on a desktop PC. You will get used to it. I personally like this better.4. Lets you away on screen if you hit Lock buttons. Like caps-lock, etc...5. Can disable track pad with one button click if you want to use external mouse. Or watch movie so you don't accidentally move the cursor or whatever.6. Fast response time, great performance I got the Intel i3 version so it's really good for being the lower one.7. Battery is ok with standard 6-cell lasts me about 2-4 hours or so. Depending if I have power saver on, and dimmed lights.8. It's big no getting around that my mom complains about it's size/weight, but I don't see the problem it's light to me, but I'm a big dude. I have a 17" Laptop Case and it barley fits just snug in there so be AWARE!!. It's supposed fit 15.6" Cases, I don't think it will. I haven't tried by Mines a 17" case so. I recommend that. My case Is a Microsoft Laptop Messenger Bag--Edge. Paste that you will see it. It's very big and perfect for anyone, around 40$.9. Not much else to say a great machine, Amazing for the price I HIGHLY Recommend you get it. It's great for kids to school and all in between. Run's all my programs perfect. Like Microsoft works 2010. I have not found anything it cannot run other than the latest gaming titles, only lacks due to graphics card. Oh well. If your a hard core gamer buy a Alien ware. If your anyone else get this product you will not regret it.---Thanks--  ___Rate-Comment-Subscribe lol.___Edit--Forgot to talk about storage, has a 320 GB hard drive. I really hate when people lie about the actual memory. Every company does it to make it sound better but actual memory is 284GB still a lot though --Thanks--. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Big improvement over older DV6 line </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-23-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Note: since I wrote a few reviews for some very simliar DV6 models Amazon has cross posted all those reviews.I posted a long review of the current crop of DV6-21xx series of notebooks here:HP Pavilion DV6-2170US.  The models are mostly the same with different CPUs (one has a discrete graphics chip).  All include the newest mobile processors from Intel which eclipse the older Core2 line in terms of performance.  Those with integrated graphics include Intel's new HD graphics which are also a big improvement over Intel's old 4500HD graphics (which are still inferior to discrete graphics chips from AMD/ATI and Nvidia when it come to 3D gaming).  I would suggest avoiding the older DV6 13xx and 12xx series unless you can get a really good price (which may happen as HP discontinues them).Here is the summary of models I posted in that review:If you're staring at the various DV6 models trying to decide which one to buy my advice is (based on the models available when I wrote this):- For home users who aren't gamers you can save about $100 if you go with theHP Pavilion DV6-2150US 15.6-Inch Laptopwhich combines a Core i3 with Win 7 Premium and a 6 cell battery. The performance for non-gaming software will be very close to the more expensive i5 models and you'll save money by going with Win 7 Premium and a smaller battery.- If you need good battery life, run higher end software, or like to game a bit go for theHP Pavilion DV6-2170USwhich combines the Core i5 with the 12 cell battery.  The Intel graphics aren't the best but it's a big improvement over past products.  This is the model I think has the best balance of features.- If gaming matters more than battery life you should probably look at other laptop lines but if you are sold on the DV6 go for theHP Pavilion DV6-2190USwhich has a quad CPU Core i7 and NVIDIA GeForce GT 230M graphics.  It's only got a 6 cell battery and that CPU and graphics are going to drain it quickly. You'll pay about $200 over this model.- If you have a lot of older software consider theHP Pavilion DV6-2157SB Small Business Editionwhich comes with Windows 7 Pro (which can run older software on a WinXP kernel).  It has a Core i3 and a 6 cell battery.  It also has a different finish ("Plaid Mocha") but I haven't seen it so I can't comment on it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HP and planned obsolescence </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-24-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> What can I say, owned many HP laptops and they all start having major problems after the 1 year warranty mark.  When I call for customer support, they tell me it'll cost $400 to change a fan.  At least have repairs reasonably price... I would really like to see American based companies doing well but I think they have too many tricks up their sleeves.  My dad has a cheap Toshiba, it has been running long and strong since 2006.  My laptop just barely hit 1 year old and now the battery wont charge and the laptop overheats and shuts down.  No more of my family members will be getting HP computers, all three have been disapointing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Overall A Very Good Value </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-02-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> HP 2150us - Pros - Super fast processor.  Simple things like opening the contral panel to access add/remove programs only takes a second or two. All the programs appear immediately. I had to wait on my last computer for the programs to load. Everything moves very fast.  Attractive gloss black that surprisingly doesn't pick up fingerprints and smudges as fast as I feared. When they do appear, they rub off easily.Cons- the keyboard - don't know exactly what's different but after 2 weeks of heavy daily use, I'm still not adjusted to it. It feels like it's layout is one key too far to the left causing your fingers to land on the wrong keys. It is much different from the HP I replaced. Also the sound is very weak. It is hard to hear unless the volume is pushed up much farther on the scale than I am used to doing.I moved from XP to Windows 7 and am still flubbing around trying to find everything but the computer itself is a great product and a very good buy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My favorite computer </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> There are a lot of reviews with the technical information that describes this computer. Since, I am not so good with the technical aspect, I will just tell you that I am fairly computer illiterate, but was able to set this one up,connect it to the router and have it running in 15 minutes. It is the easiest thing to use and I'm pleased with the functions that it performs. I'm still learning something new everyday that amazes me, so yes, I would buy it again. The only thing I don't like is that HP offers free games and you get used to doing one and all of a sudden, they want you to buy "Wild Coins" to continue playing. They can forget that, I'll buy the game I really like before I do that and I can find free ones at other places. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great value and performance </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-10-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Awesome product and very good value for the price. Nice and lightweight. Screen is terrific for watching movies or playing games. Keyboard and mouse pad take a little getting used to at first but are the best I've ever used. This computer is lightning fast! Windows 7 Home Premium with HP software tools keep everything running with ease of use. I own and heave owned several computers and this is by far the best. Will make the need for a desktop obsolete. Has all features that I could ever possibly want and need in the future.My only complaint is that the black finish and chrome mousepad show fingerprints and smudges more that I would like. But the mocha finish is sooo appealing that I would rather live with keep rubbing off the smudges. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great laptop for entertainment </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-12-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have had this laptop for a week and really like it for my uses.I do not play games but other than that it is a overall great laptop for net surfing, watching dvds and other media uses.I loaded itunes and put 5 cds on my harddrive relatively easy.It only ran at 8.5x speed at the max so putting alot of cds on this will take awhile.One of the drawbacks with the DVD player is that it says you can only switch regions 5 times so I won't be watching my PAL dvds I have on this machine,Set-up was a breeze and this is my first wireless computer.It found my neighbors networks at a resonable strenght to about 100 feet away so in any size house you should be able to use it anywhere.My network set-up and use is petty easy but I might be getting some interfernce with a wireless phone because I have to be within 15 feet or so to upload photos without losing the signal.The bottom of this does not get hot at all so you can put it in you lap and couch surf easily.The scroll feature on the touch pad is easy to use and the keyborad is comfortable enough to use and loaded photos was asnap also.The battery life is not that great so you might want to buy an extra battery if you are using this while flying of long car trips.I given it a 4 star review but if I where rating it on what I paid for it($599) I give it 5 stars.The screen is great and the HD videos on youtube look as good as HD TV but this machine does not have a blu-ray player so you are dependent on Netflix or blockbuster if you want a HD true experience.the screen adjusts the image to the type of movie you put in so a widescreeen movie fills up the screen while non-widescreens are s adjusted to get the most of the picture.Another very cool feature fromHP is the mediasmart program,it has links to snapfish and youtube which make using these sites very easy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice quality laptop </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just got this and it booted right up, the screen quality is very nice, much better than the older style of laptops with the satin finish.  This high glass finish really makes the screen stand out.  I've used laptops by dell, lenovo and gateway in the past so my first impressions are below.The laptop is not heavy, very reasonable and despite the 6 cell battery, most times I'm plugged in so it's not a big deal to me.  I haven't timed out the battery yet but so far as with any new laptop is seems to do just fine.  I wish it came with a cover or bag of some sort until I get my laptop bag, but I guess I'll be careful.The side connectors are well laid out, I don't see issues with too much in a spot, it all seems pretty nice.  My version did not have a modem (which I hope we don't need much longer).  The one thing I'm trying to determine and it may be my misunderstanding but this should have "N" network wireless ability but when I booted it up, my dual band router only showed the regular G.The big thing I like is the touch controls of the keyboard layout, everything is touch sensor, no buttons to break.  The other thing that I really like is the pc does not get hot like older laptops do.  It has no "side vents" for the cpu so it's clearly a much cooler operations than its earlier laptops.  I always had to make sure I powered down the laptops in the bag or they'd overheat.  With this style I'd be surprised if I had an issue.  It comes with a little video remote that is nice if you are watching movies on a flight or don't want to mess with the keyboard.  The hdmi on the side probably would be of good use if showing videos that way.I personally don't care for the "bubble" design on the black finish, it could have been left alone without that stuff but oh well.  As I work with it more I'll be able to post more but it's a very nice laptop and they even have a 50 dollar rebate on some locations.As far as gaming, I haven't tried it so far but I'd suspect in most average games this I3 should do fine.  I'm sure on call of duty versions it probably will not work well but I have a home desktop pc for that kind of gaming. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

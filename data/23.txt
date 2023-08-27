@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000E5DLIE <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-26-2006  
+<h2> review.text </h2>
+
+ <p> I use these at my gym and it sounds like I'm working out all alone in a place with 100 people!  I can't hear the machines, the house music, or the people talking.  All I hear is my music, which sounds much clearer than any other headset I've bought before.  The yellow foam plugs provide the most sound deadening but need replacement every so often.My nice e3c headset died after use for about 6 months.  I went to Sure's web site and printed out their instructions for repair and sent off my headset.  7 days later I got a box with a brand new retail package!  No charge, not even for the shipping!  Shure's 2 yr warranty is great!  They've built a customer for life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the Gym - Awesome Customer Service </p>
+
+
+<h2> review.date </h2>
+  02-08-2013  
+<h2> review.text </h2>
+
+ <p> Almost because I don't know enough about audio to know what perfect is yet. The complement of tips included with this purchase allowed me to find the correct fit. I do find I rarely use this while I'm out traveling because the isolation the fit provides leaves me totally oblivious to my surroundings. Granted, I should have seen the telephone pole before I walked into it, but I didn't hear the train barreling down on me whilst I walked the tracks, nor did I hear the screams of the crowd telling me not to walk thru the elevator doors since it was at the bottom of the shaft. The zoo keeper was trying to yell at me to get out the lions cage but I was so wrapped up in Michael Jackson's rendition of Santa Claus is coming to town, that all I could think of was getting into the polar bears winter wonderland.Music is reproduced faithfully especially with the addition if the fios amp I bought for it. The clarity of the highs weren't as good as they could have been, but I was using this with a new phone whose music settings I was just getting used to.For the price, I think I prefer my sennheisers better, but when the wife is yelling at the screaming kids, or you just want to ignore the blast of the car horns as you step off the curb, I go with these everytime. Shure also replaced my first pair without question, even though I was the cause of the problem. When you use in ear headphones, it is a bit of a bother to your ear & you produce extra wax in your ear as a result. The refurbished headphones (earphones) were returned with a not so subtle hint to clean my ears once in a while. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost perfect </p>
+
+
+<h2> review.date </h2>
+  12-29-2008  
+<h2> review.text </h2>
+
+ <p> I ordered the Shure E3c but was sent, without notification, the Shure SE210.  Perhaps the SE210 is better, but it seems pretty sleazy to send a different item without asking the buyer.  It was not Amazon that made the switch; the order came from Electronics Expo. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not what I ordered </p>
+
+
+<h2> review.date </h2>
+  09-18-2008  
+<h2> review.text </h2>
+
+ <p> I was torn between these and the new SE210s.  I used to own a pair of these and loved them.  And that first pair was $200, and well worth it.  Also owned a pair of e2-c's.  Always preferred the sound and the feel of these over the e2-c.  At present Amazon prices, the cost of these e3-cs are about the same as the old cost of the e2-c's, so the value is there.When comparing these to the SE210s, I opted for these for two reasons:1. These were familiar to me2. The new SE210s have a short cord and an extension cordThe short cord is ideal if you place your mp3 player around your arm at the gym.  I don't do that with my iPod classic, so I didn't want to deal with a second cord connection.Also, it should be noted that these e3-c's are shipping under their new name, SCL3.  I ordered these e3-c and received a SCL3.  They are the same headphones.  Reading message boards I've discovered that the SCL3s have one new set of foam earbuds that the e3-c's didn't, so rest assured if you buy some e3-c's and get an SLC3 instead. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love 'em </p>
+
+
+<h2> review.date </h2>
+  10-27-2006  
+<h2> review.text </h2>
+
+ <p> I have the E2 Shure earphones, and really thought they were the king.  I still like them, but when I purchased an iPod video last year, I wanted to have some new earphones to go with them (I still use the E2c with my Nano), so I spent the extra $$$ to get the E3's.  And WOW !!I thought the E2's sounded great (once you got them positioned in your ear right), but the E3's sound EVEN BETTER, and are easier to put in your ear properly.....and more comfy too !!  I wore them for 11+ hours one day as I flew from the east coast to hawaii, and I never was bothered by having them in-and besides they mask the "airplane noise" as well, making it easier to sleep on the plane.If you really want to hear EVERYTHING that is recorded in your music, spend the extra money and get rid of those cheapie earphones, and step up to the next level, you won't be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow !!! </p>
+
+
+<h2> review.date </h2>
+  08-26-2007  
+<h2> review.text </h2>
+
+ <p> I purchased some E3's to upgrade from my E2 when I bought a new ipod.  I loved the E2's and as expected the E3's are even better--with more definition at all frequencies and sound levels.  The fit in the ear does have some sweet spots and Shure provides a number of ear plug options to help everyone find something they like.  I have compared these earphones to my Bose Quiet Comfort headphones sitting in the rear of a jet while travelling (next to the engine).  The less expensive E3 beat out the Bose headphones with better high and middle end definition and equivalent outside sound isolation.  The Bose headphones have a bit better low end.. but nothing is bone shaking with earphones or headphones anyway.As for Shure customer service--I had a suspected loose wire in one of the earplugs (used for 8 months) leading to dropouts when I would move my head.  I got a return form off the Shure website--filled it out and sent it along with a copy of my receipt to Shure.  Within 10 days, they had sent out a completely new pair at no charge.  THAT is great service.  The thing I have not told you is that despite the fact that I had a problem with the E3's, I could not live without some earplugs--so I went out and bought a pair of Shure SE420's while I was waiting for my E3 "repair".  (I had already given my E2's to another friend--who says he loves them).  Now I have my new E3 and the higher end SE420!  The only reason that the E3 did not get a "5" is because the SE420's are definitely richer sounding--something I would never have thought possible without having both to compare directly.  Can't live without em!  I would recommend the entire line of Shure earphones, buying whichever one best fits your budget. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shure--great earphones, great service </p>
+
+
+<h2> review.date </h2>
+  05-25-2008  
+<h2> review.text </h2>
+
+ <p> Okay, so let me preface this review by saying that for the last month I have been doing a significant amount of research in preparation for buying a new pair of headphones.  I was looking to get a pair of around ear or on ear headphones, and spend no more than $150.  So the headphones I was looking at included the Audio Technica quietpoint noise canceling headphones, Bose triport around ear headphones, Sennheiser noise canceling headphones, and the likes.I made a trip over to the apple store in order to try out a few of these different pairs.  I tried the Bose triport headphones first.  Extremely comfortable, very stylish, and fairly decent sound.  I next tried the Audio Technica quietpoint headphones.  Comfortable as well, terrific sound with noise cancelling on (better than the Bose triport), and also stylish, although they stick out a little farther off your head than the Bose triport do.  I also tried the Bose quietcomfort 2 and 3 (although they were out of my price range).  These were very comfortable and had great sound, but to tell you the truth, I found little different between the Audio Technica quietpoint and the Bose quietcomfort.  The Bose may have been slightly more comfortable, but is that extra comfort worth twice the price of the audio technicas?Anyways, after trying the various headphones, I asked some of the apples workers if they could tell me anything about the various headphones I was looking at.  They knew very little, and weren't too helpful.  They actually knew less than I did about the headphones, because I had been reading so many reviews and info about the headphones.  However one of the apple workers showed me the Shure earphones that they carried.  I had not considered in-ear headphones, and had actually never heard of Shure.  This one worker knew a whole lot about the Shure earphones, he owned a pair and absolutely loved them.  Another worker came up and said he owned a pair as well and also loved them.  So I went home and did a little research on shure, and read a bunch of reviews.The sounded like great headphones, got decent reviews, and I liked the idea of being able to block out noise with this tiny little earphones.  So I went ahead and ordered the SCL3 (same as the E3c).  After much anticipation, they arrived in the mail.  I opened them up, laid out all the accessories that came in the box.  Bag of different sleeves, earphones  themselves, and a nice little case.  I began by trying out all the different sleeves that it came with.  Let me say that the silicon rubber ones are absolutely useless. Although they come in small, medium, and large, and I could not find any of them to fit or even stay in my ear for more than 10 seconds.  The black foam ones were slightly better, also came in s, m, and l, but were not that tight of a seal or that comfortable.  The best sleeves for me turned out to be the yellow foam ones.  These are quite cool, you roll them between your fingers, place them in your ears and allow them to expand making a perfect seal.The first thing I noticed upon putting these in, was their ability to block out all noise.  I put them in without any music at first, and was just amazing at how all noise was blocked out.  No buzzing of the refrigerator, no more birds chirping.  They're essentially earplugs.  I then put some music on.  The sound was really incredible.  I normally listen to my ipod at about 50-70% volume, but with these, I only needed my ipod at 30-35% volume max, and the sound was truly phenomenal.  It sounds as if the music is in your head.  I listened to some grateful dead, rolling stones, biggie, Beethoven, wu tang, Neil Young...a little of everything.  The sound was great, especially when listening to live music.HOWEVER:  My gripe was the fit of the earphones.  Maybe it is because I have small ears, but I found these earphones to not be that comfortable.  Almost none of the sleeves fit except for the yellow sleeves, and even these were a hassle to put in and out and would fall out if the cord is tugged on even somewhat lightly.  I also didn't like the feeling of having these earphones jammed deep in my ear for a long period.  It was almost like a claustrophobic type of feeling (if that makes any sense).  I was really disappointed that these headphones were uncomfortable and didn't stay in because the sound was truly great.  Keep in mind, that I believe I have small ears, so it may be different for you.I was pretty dissatisfied, since I had spent $125 bucks on these little guys.  And I was even more disappointed when I learned I could not return them because it was apparently unsanitary since I had already tried them on.  So I wound up selling them on Ebay for $100, and buying a pair of the Audio Technica quietpoint headphones, which I absolutely love!  Great sound, great comfort, sleak looking, nice case.All in all, I would not recommend the Shure earphones.  I know plenty of people who absolutely love them (I have read so many headphone reviews over the past month), but they are not for me.  Despite their great sound and incredible ability to cancel out noise, they weren't too comfortable (if they would even stay in at all). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sound, not so great fit, save your money </p>
+
+
+<h2> review.date </h2>
+  01-13-2007  
+<h2> review.text </h2>
+
+ <p> I love the sound with these but hard to find a comfortable position for them in your ears when you move around. they keep falling out and the wire is heavy so dont buy these if you want to run with them or workout with. but other than that I have never heard bass before in earphones this small! wow! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great sound but not good to workout with.... </p>
+
+
+<h2> review.date </h2>
+  09-22-2006  
+<h2> review.text </h2>
+
+ <p> Let me preface this by saying that I am the very happy owner of two wonderful "at-home" sets of headphones, the Sennheiser 590s and Sennheiser 595s.  I bought the E3c-n headphones (does the "-n" just mean that the color is black??... I searched far and wide before purchasing but couldn't find an answer to this query... if it's obvious, then you can discount me as stupid and stop reading this review).  The driving force behind getting these was the realization that I've spent about $150 on each of the Sennheiser sets of headphones, but most of my listening is done while I'm out and about, so I should be willing to invest as much, if not more, in a pair of good "commuting" headphones.  After deliberating over the decision between the E3c-n and E4c-n, it seemed that the only major difference between the two is bass & the ability to play bass-y hip hop.  Bass doesn't matter that much to me and I was skeptical about how either would perform, so I saved myself the $40 and went for the EC3's.Right out of the box I could tell that these were better than the ~$40 in-ear Sony headphones I had been using.  But for what you pay, I'm not sure the EC3s are worth it, especially if you're on a tight budget.  Of course these are "better than the freebies" (those reviews comparing the EC3s to the standard apple earbuds are so unnecessary -- of COURSE they're better than the Apple earbuds!  Shure would shurely be out of business if they weren't).  Did you like my joke?  The comfort is also questionable.  Wearing these is like wearing a wetsuit on the inside of your ears.  They feel rubbery and artificial.  The L-shaped design is also a bit awkward and contributes to the phones falling out of your ears more than they probably should.  They do, however, produce *good* sound (hence the 4/5 stars) and manage to block out external noise better than other in-ear heaphones I've tried.Bottom line: I'm happy I got these.  Not because they're spectacular, but because they're better than what I had, and more importantly, that they've clued me into what I had already suspected -- that dollar for dollar, even very popular in-ear headphones like the E3c's are no match for a pair of great open-air cans.  I'm curious to see what the E5c's sound like, but I'm definitely not willing to lay down the 400-and-some bucks to find out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> E3c shows just how good in-ear phones can be,... which is fairly mediocre </p>
+
+
+<h2> review.date </h2>
+  09-18-2007  
+<h2> review.text </h2>
+
+ <p> On my second trip to Europe in 2005 I brought along my iPod Mini and a pair of Sony noise-cancelling headphones.  Both helped make the almost 15 hours of plane time much easier to bear.  But on my third trip this year I needed to go as light as possible.  I'd upgraded to the more portable iPod Nano 4GB, and I wanted to find a quality "earphone" that would sound good, drown out the flight noise, be compact, and stay in my ears.  The Sure E3c scored in three out of the four categories - but the fourth overshadowed the other three, and was ultimately a showstopper for me.I normally don't care for earphones of any kind.  It's hard to get used to having something lodged in my ear canal.  However, since I was heading to Europe for a 500-mile backpacking trek, I had to pare down my load.  My headphones were much too bulky and fragile to shlep along on such a trek, so I sucked it up and started researching earphones.  I soon discovered that the Shure line had the most fervent devotees.  Folks raved about their sound, and I liked how they rolled up into a hard zippered case not much bigger than a ping-pong ball.  So, I finally settled on the E3c model - a bit spendy, but not a huge price jump from the E2c line.I was so busy with other travel preparations that I waited until the actual plane ride before trying them out.  I immediately clashed with the rubber earphone covers.  None of them worked for me - the bud started sliding out of my ear canal almost immediately.  After wading through a couple sizes, I gave up and turned my hopes toward the yellow spongy earplug-like covers.  A bit of kneading rewarded me with a decent seal upon insertion, and I was finally able to relax for a bit and listen to my music.As other reviewers have noted, the sound quality of the E3c line is quite good.  In some ways, it was almost like listening to my old music for the first time due to the excellent crispness and clarity (although the bass is nothing to write home about).  I was able to hear new details in familiar songs, thereby gaining a deeper appreciation for them.  The noise reduction is also up to par, and the difference was very noticeable when I took them out of my ears - or when they fell out against my will, which was far too often.Indeed, like a first date that starts out good but quickly goes sour, the E3c's limitations began to make themselves known.  When the in-flight meal came and I started chewing, the buds quickly worked their way out of my ears - so no music to accompany my dinner.  A number of times when I moved around (especially while napping) I'd tug the E3c cord, and *pop* went one or both phones out of my ear.  It's annoying when Mozart is immediately replaced by engine noise and passenger conversation, particularly when you've finally managed to fall asleep.  And for no apparent reason while sitting still, one or both would simply work their way loose.  Finally, having to use the tiny wax cleaner to remove buildup from the sound canal was kind of gross.  Despite their bulk, I began to long for my Sony headphones.In the end, even with the portability and great sound (when I had a good ear canal seal, that is), the Shures were more frustrating than pleasurable.  I got tired of reinserting them over and over again, not being able to listen while eating, accidently yanking them out, and having to clean them.  If you don't struggle with these issues, then I recommend you get the E3c's because of their fine sound, lightness, and space-saving size.  As for me, I suppose I'll have to use them when portability is a must.  But otherwise I'll stick with headphones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sound, noise reduction, and portability - but ultimately frustrating </p>
+
+
+<h2> review.date </h2>
+  10-28-2007  
+<h2> review.text </h2>
+
+ <p> Well worth the money.  Great clean sound, nice base.  Excellent addition to my iPod.  Blocks noise very well.  And comfortable, I wear mine about 4 hours a day with little ear fatigue. I was hesitant spending this much for a pair of earphones, but glad I did.  These are so nice I even use them to edit video/audio on my computer.  I also like the included carrying case, nice protection for this investment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth the $$ </p>
+
+
+<h2> review.date </h2>
+  10-10-2008  
+<h2> review.text </h2>
+
+ <p> I started out thinking about getting the Bose ear buds. I didn't buy them because of the fact they don't seal off in your ear to block out other sounds.  I found this set and did a lot of reading reviews and found this set to be the best value at around $110.  For the money, the sound is excellent.  Very clear sound that doesn't over-do treble or bass.  If you want A LOT of bass, don't buy these, get one of the other cheaper sets that emphasize bass or step up to the full headphone (and more expensive) that Bose sells.  The sound is very well balanced and clear. I've used these while in flight using the yellow foam ear pieces  playing from my iPhone and they really shut out everything and sound clear.  I couldn't use any of the other ear pieces because you really need a good seal to appreciate these headphones.  I read some other reviews where people were talking about going through those yellow foam ear pieces but I've used mine now for a couple of months and I'm just now starting to get around to ordering some new ones.  I just placed an order on replacements for 10 pieces for $20 on Amazon's website.  I use these also while mowing the lawn and they do well for this too because they are so durable.  The cables are thick and do not tangle up.  Don't fool around waist your money with the cheap headphones that will eventually break and have cable problems and not sound as good.  The only fuss I have about these is the time it takes getting the headphones into my ear and sealed off good.  Also, they recommend wrapping the headset wire around over and behind the ear and this takes a little extra time too but the wires stay out of the way coming down your back.  If you need to take these off and on alot, you're going to get frustrated with the yellow foam ear pieces.  So, I would put them on when you plan on leaving them on for a while.  I can't complain too much because this is going to be the case for any ear bud style headset and the extra time is well worth the sound quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent "Clear" Sound and Noise Cancelling ...but be patient. </p>
+
+
+<h2> review.date </h2>
+  01-21-2008  
+<h2> review.text </h2>
+
+ <p> I have had the E3c-n earphones for a few months now and have finally decided to write a review.  The sound from the headphones are really nice as long as you can get them to stay put in your ear.  The seal is what makes the base boom (though they could be more bassy for my taste), and that is where the problem is.  I have little time to sit around and listen to music.  I am more often listening when I drive (ok not with the headphones on) or am walking, or working around the house.  However, as I move my head from side to side the headphones lose there seal a bit and the base drops off and then you have to take them  out squeeze the foam and put them back in.  It is simply annoying.I prefer the Bose Quiet Comfort 2 over ear headphones.  Ok they are more expensive, and my wife tells me I look like "a dork," but the sound is great and they sound dampen much better than the Shures.To conclude, if you are sitting on a train or relatively still and are using the foam pads and you don't want everyone to see you with "big headphones: the Shure earphones are pretty good.  If you are doing any sort of constant moving, walking, cleaning the house ... that sort of thing then I would go with an over the ear headphones like the Bose. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sound but ... </p>
+
+
+<h2> review.date </h2>
+  11-20-2006  
+<h2> review.text </h2>
+
+ <p> I purchased this earphones about 2 months ago. Sound quality is exceptional, no complaints on this area. Might be unconfortable to wear after a while for people with sensitive ears. Otherwise, perfect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exceptional Sound </p>
+
+
+<h2> review.date </h2>
+  03-10-2008  
+<h2> review.text </h2>
+
+ <p> The left side stopped working within 3 months. I did not think that the sound quality was all that better than the $30 sound isolating earphones I bought almost a year ago. Oh, and the $30 earphones STILL work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I would not spend the $$$ again </p>
+
+
+<h2> review.date </h2>
+  05-02-2006  
+<h2> review.text </h2>
+
+ <p> I've used three different brands of noise-cancelling headphones, including the current Bose models, and the E3c is the best choice for airplane flights.Besides being much smaller than the active headphones, it provides better sound isolation. The earphones I got included a small zippered case that you wind the wire around a bobbin to keep things need. The Bose owners with their bulky travel case look at me jealously when I pull out my little kit and install my ear pieces.The noise reduction with the sponge foam ear pieces is great, and yet you can still hear close conversations (I just pull the plug on my iPod when I want to order a drink or hear the announcements). The sound quality is excellent, rivaling studio monitors in clarity and accuracy.If you use the sponge foam ear pieces, you'll need to order replacements, as they're good for about 10 extended uses before they start to lose their resiliancy.  Besides, they get a bit grungy with time. You can get 10 pair for about 25 bucks on Amazon. Well worth it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sound isolation, amazing sound reproduction </p>
+
+
+<h2> review.date </h2>
+  08-19-2006  
+<h2> review.text </h2>
+
+ <p> Just picked these up today, bought them online from an authorized Shure Retailer after visiting the Shure Website and reading the  warning about purchases made from Ebay and other sites not being covered under warranty.  Spending this kind of money for a quality product, a large part of the price is the warranty and company standing behind the product.  So you might have to spend a little more (though when shopping, I found them for $179.99 with a $50 price reducing coupon and free shipping so $129.99 wasn't all that bad).The good: Sound is excellent.  I've read people complaining about not receiving enough bass. I tried a couple of different ear flang sizes, (I also own a pair of Etoymic ER6i which I love and found the three stage silicon flanges worked best for my ears. I also written a review on the ER6i's pointing out there strength and weaknesses)finally settled upon the yellow foam for the E3.  I've found the tone on these to be rich, picking up some subtle differences in tried and true songs from Dire Straits, Mark Knopfler, and Eric Clapton from those heard with the ER6i's.  The wires on the E3 are also thicker which has reduced some noises associated with movement on the ER6i's.  However the thickness in wire does add to the bulk in your pocket which unless you are using the IPOD NANO, shouldn't be a big deal.  All and all, I'm very satisfied with the price, quality and sound of the E3.The bad: As I've decided to go with the foam ear pieces, this adds a considerable ongoing "FEE" for using the E3 over the ER6i. Granted you can get 20 pack (10 pairs) of the foam replacements which retail for $21.50 (not including shipping and handling) for a reduced price if you shop around. But when you add the shipping and handling, they start to get pricey.  I'll be interested to see how long a pair last.  The E3 only included 1 pair in the original package, which seems kind of cheezy as they do recommend frequent replacment. Granted I could use the 3 stage silicon flange, (which by the way run over $12.00 a pair and none are included with the E3)as I've done with the ER6i.  I do think Shure should have included a pair of them with the E3 for I am loath to spend $12.00 plus shipping and handling to try them. I still have some for the ER6i, I might try to see if they will fit.All in all, I can recommend the sound of the E3 and as audio fidelity is different for each of us, I can't say that the ER6i are better or worse then the E3. Each have their strengths and weaknesses.  I expect I'll continue to use both in different situatons.  I will be flying at the end of the month, and will bring the E3 along for their maiden voyage. The ER6i's have always performed well for me in air travel, and I expect the E3 will as well.After using the E3's for a long time, I decided I preferred them over the ER6i's (which I'd had to send back for warranty work when one side went out). I figured with the thicker cords, I'd never have that problem with the E3's. Wrong. After a few months, the right side of the E3 cut out.Both Shure and Etymoic give great customer support. Just make certain you keep your original receipt and I recommend scanning it into your computer as well just in case you lose it.Anyway, while the E3's went back for replacement,(yes, they sent an entire new packaged set, in a retail box) I switched back to the ER6i. I don't know if Etyomic's replacement units are better than the original units but I was suddenly re-impressed with the tone quality of the ER6i's. And with a Nano, their thinner cord and lighter weight is a big plus.I've not gone back to the E3's as yet. They are still sitting on the unopened retail box. Maybe, if I ever pull out my 60 gig IPOD, I'll try the E3's again. But for now, I'm surprisingly happier with my ER6i's.But like I've said before, everyone's audio preferences are different. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Sounding though the accessories are a bit pricey! </p>
+
+
+<h2> review.date </h2>
+  03-24-2008  
+<h2> review.text </h2>
+
+ <p> These lower priced Shure earphones are adequate for most listening. They don't have the deep bass of the higher priced models but they are a quality product for their price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality and sound. </p>
+
+
+<h2> review.date </h2>
+  07-04-2006  
+<h2> review.text </h2>
+
+ <p> At first I wasn't sure, as I couldn't hear much bass.  It's important to try the different plugs that come with these - they're very easy to substitute.  I ended up using the large plugs (which surprised me, as usually I end up with small of everything).  They are VASTLY more comfortable than the earphones that came with the ipod, which after just 10 minutes would start to hurt my ears from the weight of them.  And I confess, on an aesthetic level, I felt wrong using white earphones with a black iPod, so the color of these makes me happy also!  I'm not an audiophile by any stretch, but I found the sound coming out of these - once I found the right plugs for my ears - to be entirely satisfactory. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vast improvement over the freebies </p>
+
+
+<h2> review.date </h2>
+  07-08-2006  
+<h2> review.text </h2>
+
+ <p> I had been thinking about a pair of noise-canceling headphones for a while and tried the over-the-head model from Brookstone that I picked up at an airport first.They fit around the ear and did a pretty good job of blocking the external sound, but after an hour or two, my ears hurt from the pressure.  Maybe they just didn't fit my ears well, but I took them back.I checked online and read some reviews and was considering the Bose QC2, but couldn't find a dealer that had them in stock.I ran across some reviews of these Shure E3c's and liked the idea of some that were small and that I could use and still wear a hat, sunglasses, etc. without the headband being in the way.I found these at a local store, talked myself into paying the fairly high price and tried them out.They work.  I first wore them on a flight and found I could turn the sound down low on my laptop and still hear some MP3 files I had very clearly.  My ears didn't hurt after a couple of hours.  I like that the wire goes over the ear.  This seems to keep the cord out of the way for me.  I've worn it with the cord down my back and in front.  Both are fine.  I've only had them for a few days now, but am satisfied.I just use the medium soft flex (gray) sleeves that came on them and they seem to fit and work well for me.  I tried the yellow foam ones for a few minutes, but went back to the gray medium ones.These were 40% less than the Bose QC2's that I was considering and about 25-30% less than the Brookstone ones I tried before. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Comfortable and very good sound blocking. </p>
+
+
+<h2> review.date </h2>
+  12-28-2008  
+<h2> review.text </h2>
+
+ <p> I have these as well as the E2 version. I use these daily at the gym 5 days a week as well as well as when walking or jogging. I've had these for several months and here are my results:2. Bass: The key is getting the proper fit, and I suspect most people that are not getting good bass have not properly fitted the buds.3. Getting a proper fit. Several bud covers come with the package. Try each style to insure a tight fit deep into the ear canal.4. Getting the flanges to fit: I also found the yellow and silicone covers didn't fit and fell out of my ear. So I tried the flange tips. Initially, they were too long to fit in my ear canals. I found that I could snip off one piece of flange on each side and they fit. I also found that if I slightly moisten each flange before inserting into the ear, and then slip them in with a clockwise motion, they seat properly and do not fall out.4. Maintenance: The flanges, especially, with the deep fit in the ear, can collect ear wax, so these tips can be cleaned carefully. The flanges seem to last forever. A flange replacement kit can be also purchased from Amazon for about $12. It's important to wind up the wires and place the phones back into their case after each use.5. Placement when in use: Though the Shures can work hanging by down in front, as well as behind the head, I find that mine work best when I wrap behind the ear. The wire is sturdy enough so that even at the gym (working out or running), the wires remain in place.Cost? It's a matter of "you get what you pay for". It's nice to have an electronic device with a 2 year warranty, and that can be worth the price, as evidenced by other customer comments about warranty service.6. Sound blocking: When the tips are properly inserted, nearly all outside sound is blocked, even voices from people standing beside you. Ambient sound is virtually blocked. Just be careful if you wear these while walking or jogging outdoors.7. Airplane: I used the pair I have with the flanged tips when I flew on a business trip, and virtually all jet noise was blocked.8. Sound quality: I tend to listen to all genres of music, and I have been satisfied. I can adjust the equalizer on my Samsung MP3 to chnage sound response.Cons: Not really any. It took me a while to get used to how to insert and properly wear these phones. I suspect that most customers that have any issues just don't take the time and effort to get a proper fit. I'd recommend any of the Shure line that has the flange tips that fit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shure E3C-sn and SE210 Great Product </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

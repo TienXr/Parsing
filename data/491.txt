@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00K5GS0KQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Poignant, intelligent and almost believable for billionaire chic lit </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A twist on the billionaire meets girl story line where the guy a not a domineering alpha male because he is pretending to be a normal guy.Wonderfully fleshed out characters with their own voice. Complicated storyline that a masterly told.  Suspenseful and touching in spots, I found I needed tissues for my stray tears.Loved the strong yet insecure heroine who bravely climbs past gates and up a hill to meet the reclusive hero she has been trying for years to say thanks to.Inspiring. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's a Good Read but Plan to be Mentally Editing </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The plot flowed at a good pace and the character development was good.  I personally did not care for the hero - not my type of guy - but that did not kill my enjoyment of the story. It takes all types to make the world.  I was captivated by the heroine.  She was fun.The story was unique, complicated and masterly written.  Even better, it was believable.But the editing .... misspellings and typos throughout the entire book.  I mentally marked them in my head and went on.  But those types of mistakes do break the flow of the read.  Hence the loss of a star :-(I don't want to end this review on a bad note.  The author deserves far better.  Eliza Lloyd told a unique story filled with complicated characters and good imagery.  I will look forward to her next book :-D </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Right from the first chapter, I really had a hard time putting this one down!  Scenario refreshingly different. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> New favorite!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Despite several grammatical errors, this was an amazing book! I fell in love with Rane! Several great supporting characters. If you love a happy ending, this book is for you. If you love a strong female lead, this book is for you. If you love a little deception, this book is for you! This was a great story! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I like it </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I would like to give this book 5 stars but the story contains too many errors.  It was a good enough read though. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> betrayal or true love? </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> when your first love betrays you and you almost kill yourself, how do you go on?  by becoming someone else - it helps when you are a billionaire and find good people to keep your secrets...now, what to do about the persistent reporter who wants an interview with the recluse, but falls in love with you, his alter-ego? the numerous spelling and grammatical errors did not detract from the story, but a good editing wouldn't hurt ... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beautifully written. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Can't remember the last time I read a more beautiful book.Cried while reading the letter Kinzey left on the table.Loved the way Angela believed her and did not seem accusing during their meeting about the headline and the baby. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I loved it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Oh, how I loved every minute of this book!  I could have eaten Rane with a spoon, and boy would I have enjoyed that!  I only give my feelings about a book, so this is it.  Very romantic, loved the characters, and the story kept me wanting more.  Too bad the writer.didn't have a good editor, as the wording could have used a lot of work, and oftentimes puts me off, but this one is a winner. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Liked it. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Not sure what to say about this book.  Story was beautifully written but there was a main question that I was confused on.  Why keep such a secret for so long. I understand where Rane/Bill are coming from but once you get involved with someone even though that person is a reporter wouldn't you want that person know the truth. Even after everything that happened between Bill and Kinzey you would think the truth would come out. That's the main thing that bothered me with the story. Other than that I am happy with everything that Kinzey accomplished with the money she received from Rane's Foundation. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I normally read Historical Romance, but Eliza Lloyd was kind and sent me this story. It was a great story. so touching it took my breath away. Thank you </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Editing Issues </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Pretty good book, but the graphic sex was unnecessary, along with poor editing. I do not understand how an author who has written so many books can have so many errors. Numerous gaffs like passed instead of past, to instead of too, on instead of one. And words scrambled (scarified for sacrificed). Maybe some of it could be attributed to computer glitches or something, but what a mess!  I read half and skipped to the end to see what happened.  Even a free book should be edited! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great story, needs editing </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Since there aren't many reviews yet, I thought I would write one because I really would recommend this book.  It is a steal being free and is a great romance.  I really loved the storyline as it was a unique one and not something you read about in every other romance.  Great story telling, detail, romance, etc.  Steam factor was a good one.  I really liked how the two main characters found their way into one another's lives after many years.I don't agree with the other review stating sex was too graphic....really, maybe need to read a bit more.  If you don't want to read about sex, don't read this book even though there isn't a ton of sex in it.  With that being said, there were some major spelling errors that were very obvious if someone would have proofed the book.  Fix those and I would have given it 5 stars due to the uniqueness of the story and loved the romance. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good story </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a very good story !  Well written, romantic, funny and warm.  What would you do if you met the one? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I wish 3.5 stars was an option </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed certain aspects of this book.  It was an interesting storyline and I didn't always know what would happen next.  The events in the story were described well and i could follow what was going on.  However, parts of the story seemed to go on for too long.  I found the motives of the hero to be very immature.  I felt his secrets were also deceptions and this made the story feel less romantic to me.  Overall, It was an interesting story, but it didnt sweep me off my feet,  I'd consider reading something more from this author.  There were some typos and such throughout but nothing major. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a little different </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a modern day romance, one which I enjoyed.  It revolves around a reporter, our heroine, and an extremely rich reclusive man, our hero.  She wishes to write a story about him but no one has seen him for years.  This is about her tracking him down and falling in love with his gardener.  There are many good events in the story but I particularly liked when she first meets the gardener.  There are ups and downs as in all romances only you all know it ends happily. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Okay read. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The hero was a tad messed up in the head and at his age should of &#34;gotten over it&#34; already.  Not a bad read, but probably not a keeper in my archives. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Little more than an unedited rough draft </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Newspaper reporter Kinzey Vance is determined to get an interview with the reclusive Rane Kirk, the billionaire no one&#8217;s seen in years, but for all her efforts, she keeps coming up empty.  Well, not exactly empty.  Time with Mr. Kirk&#8217;s hot gardener is something, right?Rane Kirk learned the hard way that the spotlight is not for him.  He&#8217;d rather run his business, fund worthwhile causes, and spend his free time landscaping and gardening.  It&#8217;s made for a good cover, too.  No one would expect the polished billionaire to be the guy with dirt on his hands, spending more time in the greenhouse than the boardroom.  But the feisty little reporter that fell in his koi pond is getting closer to the truth and to his heart than he ever expected.But... The lack of editing in this book is just glaring &#8211; typos galore, mixing up words that sound alike, no clue when apostrophes should not be used, splitting up compound words for no apparent reason, and screwy punctuation.  Normally, I&#8217;d just feel bad for the author, since all this falls under editor and publisher failure.  But there&#8217;s no mention of an editor, and a check into the publisher listed on Goodreads shows they&#8217;ve only ever published books by Eliza Lloyd, so it sounds like a self-publishing situation. To be honest, I have to wonder why it even went to print.  Serving up a story for publication, not to mention expecting people to actually pay for it, warrants at least a half-assed attempt at polishing it up.  I can&#8217;t really justify paying for something that reads more like a very rough draft.  It&#8217;s unfair to the readers who buy it, and it really undermines the efforts of independent authors.The Verdict:  The story was actually pretty great, assuming one has no idea what English should look like in its written form.  It was an intriguingly complex story line that avoided a lot of the cliches one might expect.  Kinzey was smart and funny, and Rane&#8217;s alter ego allowed him to be interesting, more than just an angry, suspicious rich guy.  I can&#8217;t say the story was 100% believable, but I think that&#8217;s probably true of all billionaire romances.  Still, this one had enough interesting turns and sweet moments to keep me turning the pages, and I did love the way it all  turned out.  I probably won&#8217;t be reading anything more from this author unless I see an editor&#8217;s name attached, but I do think she&#8217;s got talent when it comes to spinning a romantic tale.  Unfortunately, I can&#8217;t really give it more than one star due to the fact no one should be asked to pay for what&#8217;s essentially little more than an unedited rough draft. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

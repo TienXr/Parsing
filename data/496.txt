@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00KTEGPAG <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Job Well Done !!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Indeed a very good book. I didn't know it was one of a series of books. I think this. was fantastic, and this book about Owen and Shaw was beautifully written.  When you don't want to take a break from reading,  you know that the author has done an excellent job. Read this book in one day. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome Read! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Loved all of the stories in this series.  Looking forward to reading the next book from C. Jackson.  Love Beautifully Flawed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Really, Really Loved this Book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I Really, Really loved this book!  Owen is complex and sexy as hell and Shaw is beautiful, smart, kind and a perfect match for Owen. The romance and sex between them is HOT!  The only thing I did not like is the cliffhanger ending!  I can't stand having to wait to see what happens next!  PLEASE C. Jackson, don't leave us waiting too long! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One Star </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Did not care for this book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I love this story! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> So, I did not read the books leading up to this one and I can safely say this is a great stand alone story. I felt all of the emotions from both characters and was rooting for them to be successful the whole time. I read this book straight through and was sad to see it end. Then, I was happy to see that there will be a part two! Can't wait to read the next part. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic Story! Excellent read </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> C Jackson has done it again! I purchased this book today and read it in one go. This story continues the Tangled Hearts Series (book #5) and focuses on Owen and his journey after the events of Tangled Hearts 1-3.It is 2 years on and Owen is in Seattle and details the beginning of his relationship with Shaw.This story is well written and draws you in. By the end of the book, you want to know what will happen next.A great read - I've never been disappointed with any of the stories written by C. Jackson.Looking forward to to Beautifully Flawed 2!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dysfunctional rich family, hunky troubled hero, fab gal, HEA--what more could you ask for? </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I haven't read the several other books that feature the hero in his first deep relationship and I'm not sure I want to because I love his character in this book.  Reading the first set might make me see him in a different light so I won't risk it.  Here you have everything you ever want in an IR romance--rich, troubled family tainted by a past scandal, an alpha male WM whose loves always seem to be BW (reminiscent of Tommy Gabrini in Mallory Monroe's &#34;Mob Boss&#34; series although not nearly the numbers that Tommy has compiled), a strong BW heroine who's been hurt in the past, and what seems to be a HEA but the ending makes you question (and anticipate) what troubles this couple may next encounter.  All in all, a very satisfying read, </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good read </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Loved this story- I love Owen flaws and all- Great addition to the series Can't wait for the next book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nailed It </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Highly recommend - a page turner that kept my attention. I did not read the earlier installments so will go back to see how Owen got to this point. Really lime when the villian in a pre-quel is redeemed in a follow-up story. Owen's struggle with his 'self' and consequences of that behavior is what kept me reading this story in one seating. Could relate to and believe both characters but frustrated with the level of anger (name calling - I have a serious aversion to both the 'b' & 'w' words used in reference to any / all females) Owen had towards his ex especially given the reference to him being the cause of their breakup. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I should have read the previous books so that I could have had a better concept of what lead to the characters anixiety </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book kept me intrigued. I should have read the previous books so that I could have had a better concept of what lead to the characters anixiety. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

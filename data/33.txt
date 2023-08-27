@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0016J7VD8 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-05-2009  
+<h2> review.text </h2>
+
+ <p> Great Buy!Has space for a D-SLR [like the D90], a 18-200 zoom, Flash [like the SB-600] AND a 50mm lens.Build quality is good.Negatives - Wish the base of the bag had a thicker / harder padding.Conclusion:Very good bag.Make sure you know what will fit in. This is smaller than a full size pro kit bag and that is why I bought it. Very compact / portable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lowepro Nova 160 AW Camera Bag </p>
+
+
+<h2> review.date </h2>
+  04-29-2013  
+<h2> review.text </h2>
+
+ <p> I needed a smaller bag for local shoots.  I do not want to lug around my bigger Lowepro 350 for a local shoot.  A bag to take around town, to the beach, mountains where my big bag is not needed.  It fits my Nikon D5100 with my 18-200 Sigma lens perfectly.  The bag all weather cover is very nice. Very padded.  Very secure with the zipper placement.  The shoulder strap is very well made and comfortable.  I may have to take this bag on international travel along with my Lowepro 350 to do sight seeing with a smaller bag.  Keeping the bigger bag as my all in one storage and airport travel bag.  The important thing is making sure my equipment is safe while traveling. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lowepro over the Caselogic FTW </p>
+
+
+<h2> review.date </h2>
+  11-06-2010  
+<h2> review.text </h2>
+
+ <p> I really can't say enough great things about this bag.  The construction of it is very solid and well-padded.  The compartments are adjustable via velcro to fit whatever you're looking for.  It has a water-resistant rain shield that you can pull out and wrap around the entire case if you get stuck in inclement weather.  There is also an absolutely absurd number of pockets and zippers on it - I'm amazed at how much I can hold in such a small bag.  I have it loaded to the brim with accessories (cleaning cloths and solution, brush pen, memory cards, extra battery w/ charger, memory card reader, etc.), plus it holds my camera and an extra lens.  Even with all that, I was able to add four granola bars to it when I was going to be stuck outside without access to food for a while.  The outside mesh pockets won't quite hold a water bottle though - that's perhaps my one complaint.It's important to note that you are going to be limited to the main body + 1 small lens (attached) + 1 extra major accessory.  I can fit the body (Canon T1i) with my 18-55 kit lens attached in the main section lying on it's back, but it won't fit with the 55-250 kit lens attached.  For the second major accessory you can either go with a medium lens (this is where I store the 55-250) or something like a flash.  If you're looking to carry multiple lenses and a flash, you will need a bigger bag.  But as far as a reasonably-sized travel bag that holds tons of small accessories, you can't really go better than this.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely perfect small camera bag </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> This is exactly what I was looking for. It is a lunchbox size bag. There is a rain cover tucked away so that is one less thing to worry about. The strap does not attach with clips as shown. It is more like a button snap. I am not using the strap so that is not a concern for me. Working great for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits camera with attached lens and second lens </p>
+
+
+<h2> review.date </h2>
+  02-16-2013  
+<h2> review.text </h2>
+
+ <p> I love well made bags and this is certainly one.  Great craftsmanship, good design and perfect for a compact system camera and lenses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice product </p>
+
+
+<h2> review.date </h2>
+  05-28-2013  
+<h2> review.text </h2>
+
+ <p> I didn't want a large bag and this was a perfect size.  It wouldn't be good if you had multiple lenses, but my Nikon camera fits in it well and I think it would hold another lens too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly what I wanted </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> I store a Nikon D7000 in this bag with one lens on the body and a macro in reserve, along with an extra battery, the battery charger, several spare memory cards, two filters, flash diffuser, and every cable that came with the camera (power, USB, and A/V), and I've got room to spare!  I do most of my shooting outdoors, either hiking a trail or in a canoe, so this bag combines excellent carrying capacity without being too big, heavy, or bulky.  The shoulder pad on the strap is also very comfortable, even over the long haul, and the wrap around all-weather cover works great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Little Bag </p>
+
+
+<h2> review.date </h2>
+  12-29-2009  
+<h2> review.text </h2>
+
+ <p> Purchased bag to carry Canon Rebel XS.  Bag fits the camera, an attached 18-55mm lens, and a 75-300mm lens, along with some lens filters and a Canon Elph compact camera.  Build quality is excellent, as is durability.  Size is perfect for a day exploring on foot with your camera, and shoulder strap is wide and padded and doesn't dig into your skin.  Would recommend to a friend and would purchase again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> perfect for Canon Rebel XS & two lenses </p>
+
+
+<h2> review.date </h2>
+  11-06-2012  
+<h2> review.text </h2>
+
+ <p> Perfect for 1 camera and 1 lens. I store 5 batteries and many acessories into this bag. It has a raincoat but I have not try to use it yet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good </p>
+
+
+<h2> review.date </h2>
+  01-03-2013  
+<h2> review.text </h2>
+
+ <p> This is a sturdy compact case designed for smaller sized DSLRs (with non-telephoto zooms).  As the depiction reads, the bag fits most everything in terms of accessories and comes with a weather liner that is easy to fix on.  I have a Sony NEX-7 with an extra lens and the base camera with SEL24F18Z  lens + hood fits perfectly along with a shoulder strap.  Once again, this is a very compact bag - when coupled with the shoulder strap the contents including the bag feel super light interestingly enough.  The handle on the bag has a great feel to it as well and appears to be very durable as well.  Kudos to Lowepro! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lovely form factor </p>
+
+
+<h2> review.date </h2>
+  12-26-2011  
+<h2> review.text </h2>
+
+ <p> This is the perfect size for my Nikon D3100, extra lens, spare batteries, SD cards & reader, and still has plenty of room for other small items. It is also weather resistant, really comfortable to carry, convenient, and keeps the camera secure. My only  real complaint is the plastic that holds the strap on. It just has a cheap look/feel and would probably break if someone grabs and tries to steal the case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost Perfect </p>
+
+
+<h2> review.date </h2>
+  06-18-2011  
+<h2> review.text </h2>
+
+ <p> The bag is great, it has excellent quality and fantastic features.  It fits perfectly my Pentax K-r SRL camera and a 55-300mm lens.  It has two Velcro type very small compartments ideal for an SD card and the remote control I purchase.  I haven't tested yet how water-proof it is but the mechanisms looks great.  I very much recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great bag </p>
+
+
+<h2> review.date </h2>
+  08-10-2011  
+<h2> review.text </h2>
+
+ <p> This camera bag is awesome! Absoulte best features for the price. The only difficulty I had was choosing the right size. Its quite hard to tell just by looking online at pictures. For me, I have the following items that fit: Canon 60D with 15-85mm lens attached and neck strap wrapped around lens (main compartment), 60mm macro lens + 4 AA batteries (main compartment other side of divider), Battery charger + 270EX II external flash (main front pocket), 2 spare batteries (left soft pocket), small cleaning supplies (right soft pocket), ND filter + Circular Poloarizer (front lid pocket), sdcards + RC-6 remote (back pocket). NICE! With this setup everything is comfortably snug but not too tight. There is still space left in the side pockets and the small dividers within the pockets are still unused. I do have a 70-300mm L lens that will definitely not fit in replace of the 60mm macro. Thats probably the limit of the Nova 160 carrying capacity. WIth the L lens I would have to go to 180 or larger. But for me this is ok, because with with L lens and 15-85mm lens in one bag, it would be too heavy for my preference, which is traveling light. I could forego both the 15-85mm lens and 60mm macro in replace of the 70-300mm L lens attached to the 60D and use up all of the main compartment, if thats my choice.One of the best features of this bag that I wanted to point out is that it has the built-in weather protector. Its tucked inside a hidden pocket and you bust it out when you need to. I used it on my trip to the misty and wet conditions of Niagara Falls. If you've been there then you know just how much you can get wet, and this bag performed flawlessly to keep my sensitive equipment dry. Not just my 60D but everything else even the things inside the side pockets. I love the option to either use the zipper or quick latch to close the top lid. And the handle...the handle has this under lining that is sooooo soft! Feels luscious on my hands like velvet, but I still like to use the shoulder strap. The strap has some anti-slip coating but not as effective as the 60D shoulder strap. The strap is detachable if you care to change or leave it out.There are some limitations that I want to point out. First, I wish that the bottom of the bag was more sturdy. It is padded, but there's no splash guard or rubber feet that would keep it from getting wet if you didnt have the weather protector on and you place it on the floor. Plus its soft rather than stiff so if you drop your bag, the lens (attached to your camera pointing down) would take some of the impact. If this is something that worries you, I would go for one with a suspension system. Case Logic SLRC-202 with its splash guard is one of my recommendations. Otherwise, the Nova 160 deserves consideration and is one of my highest recommendations. Hope this helps! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Survived a trip to Niagara Falls </p>
+
+
+<h2> review.date </h2>
+  08-12-2009  
+<h2> review.text </h2>
+
+ <p> I have been using Lowepro bags for a long time and I'm always amazed at the simplicity of the design. This bag is perfect as my daily grab-and-go bag for my Pentax K-7 kit. It's weather-proof, just like my Pentax gear so I don't have to worry about the occasional rain or snow shower. I keep my SLR with a prime lens in one side (actually laying on the side with the grip facing up for quick access) and have room on the other side for another lens and some filters. The strap is well made and is easy to adjust. The zippers are well made and zip easily open and closed. The bag has an overall well-made fit and finish and is a joy to use. The top handle is padded and very comfortable to hold for short periods or while moving the bag around. Like most other top-flap designed bags, the handle on the top isn't very useful unless the bag is zippered and clasped closed. A short handle strap instead of a handle would have been a better choice for me, but I'm really nitpicking here.The memory card pockets and zippered pocket on the inside face of the top cover are perfectly placed. There are a couple of elastic pockets on the outside of each end of the bag along with a zippered pocket on the back (probably only large enough for pamphlets or a map) as well as a compact zippered pocket on the front where I keep some smaller filters. If you have a compact DSLR and are looking for a compact bag to go along with it, I would highly recommend this bag. I can sling it over my shoulder and take it with me wherever I go and it hardly weighs anything. Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The perfect day kit bag </p>
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> I've had great experiences with Lowepro products. This is my second one. Its well engineered and takes advantage of every tiny bit of space available. I can fit a Canon EOS Rebel T4i with the 18-55 lens installed, plus a 55-250 lens, a small macro lens, and the charger all in the main compartment. I have nothing negative to say about this product! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great as expected </p>
+
+
+<h2> review.date </h2>
+  01-17-2013  
+<h2> review.text </h2>
+
+ <p> Works well but it is a bit tight for my t2i, 2x lens, diffuser, and lens hoods. I like the build quality and will use it when I travel short distances. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice bag </p>
+
+
+<h2> review.date </h2>
+  12-01-2012  
+<h2> review.text </h2>
+
+ <p> I needed a good flexible midsized DSLR bag and this fit the bill perfectly.  Extra pouched all around the bag.  Extremely well padded with good options as to how it can be configured.  Its the third Lowepro bag I've owned an I've never been disappointed.  Highly recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Even better than I expected! </p>
+
+
+<h2> review.date </h2>
+  09-11-2009  
+<h2> review.text </h2>
+
+ <p> I use my bag told hold my Rebel XS as well as all my lenses and have no complaints so far. The lenses I keep in the bag are the Canon 55-250mm IS with hood reversed, the Canon 50mm f1.8, and the Canon 18-55mm IS. I can store all of them without feeling like I am cramming too much in, and can store the camera with any of the lenses attached to it. I had looked at the Nova 140, but it did not have enough space to hold the camera with the 55-250 attached, so it was out. This bag also has lots of pockets for all the goodies you need to carry, including USB cable, cards, filters, etc. This would not work for a full frame camera, but for a consumer SLR such as the Rebel XS, this fits the bill quite nicely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for Canon Rebel XS with 3 lenses </p>
+
+
+<h2> review.date </h2>
+  03-26-2010  
+<h2> review.text </h2>
+
+ <p> This is my second Nova 160 bag--the first one (bought 10 years ago) is still going strong, but I needed a second.  This bag is convenient in all the right ways.  I have used this when backpacking.  The small loops on the  top rear of  the bag allow it to be hung with carabiners from D rings on my pack straps so that the bag rides on my lower chest. This allows quick and convenient access when the wonderful vistas appear.The older bag dated from the film camera era and had pocket designs to match (e.g., a removable film pouch for the front zippered pocket).  The major difference with the new bag is pocket layout.  The front pocket is somewhat smaller, and there is some reduction in volume from the folded all-weather cover which tucks under the front flap.  The inside top pocket is also smaller, but the outside top flap pocket more than makes up for it.  I can't easily fit the SD cards or CF cards (in their protective cases) into the inside card pockets, but they can be forced in or out.  The zippered pocket at the back is the same as in the earlier model, and convenient for your camera guide and for stowing other flat documents. The all-weather cover is a newer and valuable feature.Outside attachment points are well designed: shoulder strap attachments (strap is included with the bag), belt loop attachments (belt sold separately: check your local backpacking store for cheap wide nylon straps and fasteners) and the top loops at the back for front mounting the bag to your pack straps.You can easily stow a digital SLR with mounted lens, one additional small to medium sized lens, two screw-on filters, a couple of lens hoods, and maybe your battery charger and cord (with tight packing). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lowepro Nova 160 Camera Bag </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

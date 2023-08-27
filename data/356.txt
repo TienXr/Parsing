@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1616266945 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Neat Series of Four, All in One Book </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is a collection of four novellas about brothers and their mother who live in Glassenbury, Connecticut. Their mother had turned their large residence into the Red Griffin Inn when their father passed away in order to provide for her four sons.In the first novella (Carving a Furture, by Carla Olson Gade), Nathaniel Ingersoll, journeyman figurehead carver, rescues a severely ill young woman (Constance) from a ship's captain, paying her indenture with all the coins he has left and his father's silver water flask to keep the captain from finishing her off.He takes the unconscious Constance home for his mother's tender care, and then they find out the captain had no right to sell her bond--she had been kidnapped. Once she somewhat recovers, she demands her release.Nathaniel's uncle and employer is more than a little upset at Nathaniel's expenditure. Constance can't cook, so his mother is also not pleased. But Nathaniel finds himself drawn to this young aristocrat--who, by the way, is also betrothed. Is there a way out of this mess?The second book, Trading Hearts by Amber Stockton, is about the second son, Jonathan, captain of the river ship left to him by their father. He finds himself stormbound at the Higganum Inn where he meets Clara, the petite daughter of the owners. The attraction is instantaneous on both sides.Clara's brother plans to throw a crimp in the romance. He thinks Jonathan is the author of all his troubles--a severe injury and a lost merchant ship.Jonathan has convinced her parents he's worthy of Clara's attention, but her brother is a conundrum of a different color. Jonathan will have to stop the rumors her brother has begun to spread before his own trade route is ruined and before the budding relationship with Clara can be brought to a painful halt.The third novella, Over a Barrel by Laurie Alice Eakes, begins with a small child found in a flour barrel in brother Micah's bakery. The child supposedly belongs to a pretty young woman, Sarah. There is a striking disresemblance between the young woman, Sarah, and the five-year-old screaming girl. Micah has his suspicions. He takes the woman and the child to his mother who is able to get the entire story from Sarah.Micah is not so sure he believes her, but he puts Sarah to work in his bakery. A man searches for her and the child, claiming Sarah is his wife. Should Micah protect her or turn her over?The final book, Impressed by Love by Lisa Karon Richardson, finds Aldon, the youngest of the brothers, a surgeon, impressed by a British ship to save the life of still another ship's captain, the uncle of orphaned Phoebe. Aldon believes he will be released once the captain is out of danger, but no--he is now a member of the British navy. But then, even if he were not, would he wish to leave the young beauty, Phoebe? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Colonial courtships </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Title: Colonial CourtshipAuthor: Laurie Alice EakesGenre: Christian Historical RomanceRating: 4  starsPublisher: Barbour BooksColonial Courtships is a novella collection, which includes four stories that follow four brothers prior to the American Revolution. I enjoyed each of the stories. I especially liked the fact that each story was about someone from the same family. Colonial Courtships was a short and quick read. I didn't want it to end.I received a copy of Colonial Courtships from Netgalley in exchange for an honest review. The thoughts in this review are my own.Published on October 1st 2012 </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Revolutionary War Christian Historical Fiction </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> this is to be a Christmas gift have not had an opportunity to read this but the book looked very interesting </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lovely collection </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Four brothers find wives in this Colonial collection.An enjoyable read from four lovely authors. I loved how well each of these stories fit together and the consistency with the characters that showed up in each of the novels.Carving a Future by Carla Olson Gade is the story of Nathaniel, who is the oldest of the Ingersoll sons, and Constance, a young woman taken to be an indentured servant against her will.Can love bring them together despite the obstacles in their way?I really liked how this story introduced me to most of the main characters and the setting. The characters were really likable, and with Constance it was easy to understand where she had come from and that it was hard to adjust to being a an indentured servant, there were some pretty funny bits about her adjustment.I really liked Nathaniel's mother and how she prayed for each of her sons to find the right woman :) A really sweet tale with twists and turns along the way!Trading Hearts by Amber Stockton tells the story of Jonathan the second son, during a storm he takes shelter in an inn meeting Clara, who just may be his match!What I liked about this story was how Jonathan dealt with the obstacles that Clara's brother put in his way. So Jonathan has to clear his name and prove himself to Clara. So it had a bit of a mystery and also a bit of a whirlwind romance to it!I really liked Jonathan's character, because though most of the other brothers were introduced in the first story, Jonathan wasn't, because he was constantly traveling.The characters were highly likable and I liked how the story moved along quickly :)Over a Barrel by Laurie Alice EakesSarah is on the run from a man who wants to marry her and take away her late husband's plantation. When Micah Ingersoll finds her daughter, Eliza in a barrel he is determined to help Sarah start a new life.But could that new life include...him?A sweet sort of antagonistic relationship, that moved along steadily and enjoyably. It was a bit hard for me to understand why Micah couldn't have been more understanding.It was a sweet tale that I enjoyed.Impressed by Love by Lisa Karon Richardson is the last in the series, and the story of the youngest Ingersoll son, Alden, who is a doctor who is press ganged onto a British ship to treat an injured man. There he meets the lovely Phoebe Carlisle the neice of the man he is tending. Will Alden be able to escape the British, and if he does escape will he be able to do so with his heart still intact?This story had alot of suspense to it with Alden being held against his will, and the currents leading up to the Revolutionary War growing stronger.Alden and Phoebe had to make choices and trust their futures to God, because often God's plan is not our plan, but it's better. I thought they interacted well, and that it had a touch of forbidden love to it which added to the tension!Overall this was an excellent collection of novellas, about how three brothers found brides in the most unexpected ways and had to learn to lean on God's understanding an not their own. A most enjoyable read!I received this book from Carla Olson Gade in return for an honest review. Thanks! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I enjoyed the men characters in these stories </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book has four stories that take place in the 1700's.  It is not a time period I often read about but I was pleasantly surprised at how well the authors described their settings.  I found each story to be thoughtful and the characters likeable.  I really enjoyed the male characters in these stories.  They were all written to be smart and likeable.I gave this book 5/5 stars.  I liked the time period and the stories were each so different in plot!  The main characters conversations were all well written.  There was one story that dragged a bit; this was due to not enough conversation and too much introspection!  That said I still enjoyed the book and would recommend it to anyone who likes reading short yet detailed love stories.I would like to thank the publisher for the copy of this book I enjoyed reading.  I gave an honest review based on my opinion of what I read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Interesting and romantic </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> i liked the characters. I would like to read more books by Laurie Alice Eakes. I would recommend this book to my friends. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Colonial Time Period is Especially Interesting </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I chose this book because I love the writings of Laurie Eackes. Her stories are full of history, move right along and romance. This book does not disappoint in any of those aspects! Love the stories. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyable Story Collection </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-07-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a pleasant story collection about four brothers living in Colonial Connecticut. I really loved how all of the stories were related and each brother was able to finally find love through various and sundry means. And it was neat to see the different aspects of colonial life presented on various ways throughout the four stories. I especially liked some of the jobs, like the ship figurehead carver. Who would have thought such a job existed?I know the publisher has had these Romancing America books out for a while. This is the first one I've looked at, and while shorter novels (or novellas) aren't really my favorite type of read, I did enjoy this book and I think other books in the series are worth checking into.There was, however, a wide range of writing styles throughout the four novellas, and that kept jolting me. Just when I was getting used to how one author wrote, then the story was done and I was moving on to another author. I'm not sure that's something that can really be helped, given the type of book this was, but that's my reason for putting four stars instead of five. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Charming Cozy Read for Fans of Colonial Romance </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perfect for cozy reading, this story collection features four novellas: one each for the four Ingersoll brothers of colonial Connecticut. Nathaniel is a ship figurehead carver who risks his reputation for an indentured servant, Constance. Jonathon, a trader, is forced by a flood to seek shelter at an inn, but the young lady he meets there, Clara, comes with trouble. Micajah is a wounded soldier who longs for peace but finds himself protecting Sarah and her daughter. And the youngest brother, Alden, is impressed by the British Navy, but will he escape after falling in love with the captain's niece, Phoebe?I love how the stories feature different aspects of life in colonial America. The heroes and heroines are all likable and strong, and their tales of love and redemption are encouraging and entertaining. Fans of colonial-set Christian romance will enjoy this collection. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Early Americana </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Life is full of the unexpected, don't you think? That seems to be the over-riding theme of this 4-in-1 collection from Barbour's Romancing America series, where each of the characters find that life has taken one or more turns they had not seen coming. Each of these authors takes those turns and gives them an extra twist in these tales of Early Americana.Connecticut in the 18th century provides the setting for this group of stories about the Ingersoll brothers. They live in the town of Glassenbury up the Connecticut River, four young men whose father died an untimely death. Their mother operates the Red Griffin Inn, a popular boarding house, in an effort to see to the needs of herself and her sons. Their Uncle Phineas keeps an eye out for his nephews, as well as the entire town of Glassenbury. Against the backdrop of the French and Indian War, the lives and loves of the Ingersoll brothers take shape."Carving a Future" is the first novella in the collection, written by Carla Olson Gade. Constance Starling finds herself about to be sold as an indentured servant in America after a difficult passage from England, where she and a friend had been on an innocent errand too near the docks. Captain Smout was determined to make some coin on this woman, but she hadn't weathered well. Nathaniel Ingersoll didn't come to buy a slave, but when he sees Constance faint on the deck of Smout's ship, he can't help but interfere. Short on funds and a carver by trade, he bargains a new figurehead for Smout's ship in exchange for Constance, whom he takes to his mother's inn for recovery. Constance creates disasters as she's never cooked or cleaned before, lending credence to her tale that she had been abducted from a life she wishes to return to. Is there any chance Nathaniel can convince her to carve a new future in America with him?The next novella is "Trading Secrets" by Amber Stockton. The second Ingersoll brother, Jonathan, has inherited their father's merchant ship, delivering goods up and down the Connecticut River. Forced ashore in an unfamiliar port due to a sudden storm (complete with flooding), he and his crew make their way to a nearby inn. The innkeepers' daughter, Clara, takes an instant shine to Jonathan and he to her, but her brother, a former merchanter in his own right, has doubts about Jonathan's character and believes Jonathan to be among the gang that maimed him. Before Jonathan can pursue Clara as his wife, he must clear his name and prove himself to be an honest, Godfearing man.Laurie Alice Eakes wrote about the third brother in "Over a Barrel." Injured in the wars, Micah Ingersoll has returned to Glassenbury and become the town baker. It's something a guy with a limp can do, after all. What he doesn't expect is for his flour barrel to make noise one morning-and to have a small child inside it. Sarah Carter has been running for a few weeks, trying to get her daughter to safety from the man who's taken over her late husband's plantation, but to Micah, it appears she's kidnapped the child. How can Sarah prove herself to be honest when no one believes her and she needs to watch her back trail?A few years go by before the fourth novella, "Impressed by Love," takes place. Lisa Karon Richardson tells the story of the youngest brother, Alden, who has finally realized his dream of returning to Glassenbury to practice medicine. Sailors burst into his office and require his presence on their ship, part of the Royal Navy. Their captain has been severely injured in an attack and Alden's skills are needed to save the man's life. It takes a bit longer for Alden to realize the gig doesn't end there, that he's been pressed into service and is not free to leave. Phoebe Carlisle, the captain's niece, ably helps Alden care for her uncle. When she realizes her impulsive orders have caused Alden's detention, she is afraid to tell him. But as Alden falls for Phoebe, he finds his desire to escape fading. Will he abandon his medical practice-and the entire Ingersoll family-to stay onboard with the women he loves?This collection takes place in the late 1700s, a different time period than many historicals and one I wasn't particularly knowledgeable about (don't forget I'm Canadian!) I found the stories interesting from that perspective. I also enjoyed cameo appearances by previous novellas' characters, and watching their families grow and interact within the newer stories. If you enjoy this period of American history, I think you'll like this collection. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyable! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Four brothers Nathaniel, Jonathan, Micah and Alden live in the mid 1700's and are working to help keep the colonies going. Nathaniel is working at a carver and finds himself helping a woman who claims to be wrongly brought to the new world.  Jonathan is the captain of a merchant ship and one stormy night takes refuge at an inn and finds a young woman who steals his heart. Micah is a baker and finds a child hiding in a barrel of flour. The mother claims to be on the run but can Micah find out the truth before its to late? Alden is a doctor who finds himself on a British war ship thanks to the Captains niece. Will he forgive her in time to find love?Another book in the Romancing America line and it was a good read.What I liked: I liked how the stories went in order and intertwined. I also find this time period interesting to read about. I thought all the characters where likable and each story could have been a full book in itself. I also really liked the cover image of this book.What I did not like: The 2nd story about Jonathan was kind of boring. It just needed something to give it some excitement and I would have liked it better.Over all I enjoyed this book. Of the four stories I liked that last two the best and my favorite was the last one with Alden. That story could have easily been a stand alone novel. I like the Romancing America line because they can be read easily and are great books for those days you find yourself waiting on your kids at practice or waiting at the doctors office. Looking forward to reading more of these books. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

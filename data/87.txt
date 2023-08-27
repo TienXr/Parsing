@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004NJ0UQI <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-09-2012  
+<h2> review.text </h2>
+
+ <p> This keyboard protector is far more than I paid for it.  This cover skin is a perfect fit for my Mac, a great color and a great protector. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best keyboard protector in the world for my Mac Book Pro </p>
+
+
+<h2> review.date </h2>
+  06-20-2013  
+<h2> review.text </h2>
+
+ <p> I bought this item as a gift for my little sister because she had been eyeballing it for a while.My sister loves it..Thats all I got for ya.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Gift </p>
+
+
+<h2> review.date </h2>
+  03-15-2012  
+<h2> review.text </h2>
+
+ <p> That's what a colleague said to me when she saw my keyboard cover on my MacBook. Besides the fact that it's cool looking and very unique, my keyboard cover keeps out all sorts of dust, dog hair, etc. Plus, I bought another one in green from another company and the color on the keys started wearing away immediately. This one is holding up great. Love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Only you would have a purple keyboard!" </p>
+
+
+<h2> review.date </h2>
+  12-11-2011  
+<h2> review.text </h2>
+
+ <p> Girlfriend loves purple, didn't come in the purple i expected, was slightly darker. Looks like my black keyboard cover in low light. Otherwise awesome product! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice. </p>
+
+
+<h2> review.date </h2>
+  01-22-2013  
+<h2> review.text </h2>
+
+ <p> This is my third one, gave one away and I use one, and wash one a let it dry, so I always have one.Great price, for great protection, for your macbook pro 13 to 15 inch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> UniCase PURPLE Keyboard Silicone Cover Skin Protector for Macbook </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> Bought this for a friend who saw mine and loved it.  She gets all kinds of compliments on it all the time as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> She loved it! </p>
+
+
+<h2> review.date </h2>
+  10-15-2011  
+<h2> review.text </h2>
+
+ <p> So I ordered this and the shipping was a little on the slow side.  That aside, I noted some reviewers said that the keyboard skin didn't quite match up with the keys in terms of the lights that shine through the MacBook Pro keyboard.  I agree - the letters don't match up exactly but I touch type and hardly look at the keyboard so that wasn't such a big deal.  However, the symbols for the FN keys don't quite match up.  This keyboard skin must have been designed for Leopard or Snow Leopard, because my MacBook Pro is new (less than a month old) and is running Lion - so the symbols on the FN keys aren't quite right.  This might be a problem for someone who primarily uses the keyboard to access Launchpad, Mission Control, or the Dashboard.  As to the keyboard skin, it stays in place, has a bit of a dry feeling, and doesn't impede typing.  I have pets, so my primary reason for purchasing a keyboard skin was to prevent fur getting under the keys.  If you're looking for a keyboard skin, check first if it matches the current OS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It does protect your keyboard... </p>
+
+
+<h2> review.date </h2>
+  11-25-2012  
+<h2> review.text </h2>
+
+ <p> The color I got was more of a light purple, but it still works great!! I absolutely love it otherwise! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Color... </p>
+
+
+<h2> review.date </h2>
+  02-09-2013  
+<h2> review.text </h2>
+
+ <p> This product is pretty nice. It takes a little while to get use to, but overall I would recommend this product to anyone that is looking to buy it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product </p>
+
+
+<h2> review.date </h2>
+  05-04-2014  
+<h2> review.text </h2>
+
+ <p> This cover is great there is no breadcrumbs or other foreign objects stuck in my keys. Spills no problem wash it off. Easy to take off and clean and slap right back on. Would recommend for any expensive Macbook this is a must have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Keeps the Funk out </p>
+
+
+<h2> review.date </h2>
+  02-19-2013  
+<h2> review.text </h2>
+
+ <p> Looks really good and fits my keyboard perfectly. The only thing that sux is that it gets dirty pretty easily, but you can just take it off and wash it with soap and water. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> looks great </p>
+
+
+<h2> review.date </h2>
+  04-09-2013  
+<h2> review.text </h2>
+
+ <p> This is a great product. the only thing is that it did not come on time as stated but I guess okay. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> purple keyboard </p>
+
+
+<h2> review.date </h2>
+  01-12-2012  
+<h2> review.text </h2>
+
+ <p> The color matches my iPearl hard cover case great.  Only two things to complain about and they're not deal breakers at all.  One, you can't see the green light on the caps lock light up through it and two, it's a little stiffer than it's see-through model, which takes some getting used to.  It brings a lot of character with the added protection (I have to admit I'm not above eating some tortilla chips while doing online school work).  Very easy to clean if needed.  Overall, I'm very happy with it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Function and style-- perfect for an Apple! </p>
+
+
+<h2> review.date </h2>
+  09-29-2012  
+<h2> review.text </h2>
+
+ <p> So this is mainly to the girls who are planning to buy this product. I bought it for my sister as a birthday gift and she was so happy to get it, because this is a great color and also it manages to save all the dirt from entering your keys and the space between the keys. For all of you who eat and drink while studying this cover protects the keys from having things dropped onto it and prevents from damaging the keys. To wash it just put it in water and scrub it and it is washed. This is very helpful especially for college and high school students who have late nights and need food while studying, I am one and I know how a similar product has saved my computer keys millions of times.Happy studying </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product </p>
+
+
+<h2> review.date </h2>
+  03-15-2012  
+<h2> review.text </h2>
+
+ <p> Will definitely repurchase again. For the price, the quality of the material is great. Nice fit... although, the right border shows it has a cut defect... it got rather curved that straight, but I'm not complaining when it comes to the functionality of the product. Nice color... reminds me of yams. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great item! So love it! </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> keeps the food and dust out of my keyboard it's also super fun and colourful! at first, it's hard to type on it.  but you'll eventually get used to it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FUN! </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> This keyboard cover is very pretty and fits great. It is a nice bright purple.  It is pretty. It is good if you use your computer all of the time or if you have a laptop. It keep anything from getting in it. It works great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits Great! </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> If you are willing to wait a while for these to come in, they are great. Exactly as described and they protect the keyboard well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bright colors </p>
+
+
+<h2> review.date </h2>
+  06-22-2013  
+<h2> review.text </h2>
+
+ <p> Seems to feel a little slippery to type, but for the price and the protection, it's worth it. Color is ok, but could be a little darker purple. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Feels weird typing </p>
+
+
+<h2> review.date </h2>
+  09-02-2013  
+<h2> review.text </h2>
+
+ <p> It's works perfectly fine it's flawless I would highly recommend it to a friend everything that was said about this product was true it changes the look of my laptop </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome :-D </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

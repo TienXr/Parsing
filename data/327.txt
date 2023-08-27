@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1591141249 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-10-2005  
+<h2> review.text </h2>
+
+ <p> This is the story of a British civil officer who had just arrived in the Solomons when war broke out. It is his story, what he saw, what he thought, during the time from before the war started until the U.S. army had solid control of Guadalcanal.Where it is weak is that there is no context for the story. If you don't know about the Solomon's campaign, you will be totally lost. And there is no context for what he sees so again, you don't know how key some of the battles he was in were.I think this is a good book for people who have a strong knowledge of the Solomin's campaign. And in that case it will give you a unique viewpoint of the war. But don't read it unless you do have that knowledge. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting story - but only if you know enough </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> We were fascinated by the story. Love reading about the the coastwatchers. Please recommend other books about them; will be doing an Amazon search for them.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Alone on Guadalcanal </p>
+
+
+<h2> review.date </h2>
+  10-26-2013  
+<h2> review.text </h2>
+
+ <p> I would say this book really tells what life  as a Coastwatcher was like. The way they lived and what they able to do as far as the war was concerned. The fact these people was willing to live a very primitive life am almost starve to death just to get information to helpthe Allies win the war. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very good book about what the cost watchers did. </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> A very well written book by Martim Clements.  An excellent description of his life in the Solomon Islands in the early years of the Second World War and of the work performances of the Solomon Islanders.  However I found that he chapters leading o his book commencing were far too ong and uninterestering with to many statistics </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good book recommended to all. </p>
+
+
+<h2> review.date </h2>
+  10-26-2013  
+<h2> review.text </h2>
+
+ <p> The author felt alone at times but he had many loyal friends along his adventure that helped him.  Great story of war, survival, friendships and action.  Author great understated his actual contribution to the victory on Guadalcanal.  Enjoyable read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not actually alone </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> This is book is essentially a diary of a British distract manager's account of hisstint as a coast watcher on Guadalcanal. Interesting, perhaps too much detail. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Detailed Account </p>
+
+
+<h2> review.date </h2>
+  11-13-2013  
+<h2> review.text </h2>
+
+ <p> A good account of the daily life of a coast watcher and dedicated hero, fighting the Japs in the jungles of Guadalcanal </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good book to read </p>
+
+
+<h2> review.date </h2>
+  03-08-2006  
+<h2> review.text </h2>
+
+ <p> I have read Walter Lord's book "Lonely Vigil" about the Pacific Island Coastwatchers several times and greatly enjoyed it.  This, however, is a full book about just one of these Coastwatchers, and goes into quite a bit more detail about the daily routine and happenings during that time.  He was most likely the most experienced and senior Coastwatcher, and his interaction with U.S. forces was extremely helpful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Coastwatcher in World War II </p>
+
+
+<h2> review.date </h2>
+  05-15-2013  
+<h2> review.text </h2>
+
+ <p> Clemens was in a unique position during WWII; however, his lack of writing talent and plodding pedestrian narration makes this book a guaranteed snooze. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting Potential, Boring Reality </p>
+
+
+<h2> review.date </h2>
+  11-21-2009  
+<h2> review.text </h2>
+
+ <p> Throughout the Pacific islands, a small number of courageous individuals survived in the jungle, observing, reporting, ...and advising the allied landing-forces when they arrvived.Composed mostly of Australians, New Zealanders, and miscelleneous British citizens, the Coastwatchers stealthily watched the Japanese military activities in the islands, and radioed their findings to allied headquarters that were generally hundreds or thousands of miles away. The prospect of being captured by Japanese military personnel was grave enough, the hardships of jungle-survival were sometimes much harsher.Here is the story of Martin Clemens, in his own words. Clemens and the indigenous people of Guadalcanal made considerable efforts to aid the U.S. Marines and Navy in 1942, in the first major American offensive of World War II. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A neglected historical perspective </p>
+
+
+<h2> review.date </h2>
+  04-14-2013  
+<h2> review.text </h2>
+
+ <p> Well worth the time and a story of very brave men that needed to be told. Covers an aspect of the war that few have any idea of and that is a shame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellant story </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

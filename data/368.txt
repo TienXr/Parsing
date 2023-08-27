@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1848568622 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> have a blast with this book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-29-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is an addition to the film. If you are a fan, you must have it. This book contains the uncut script and music sheet for all of the Dr. Horrible songs. The sheet music sheet is great if you like playing. You can also find the actors of the film in this book: Neil Patrick Harris, Nathan Fillion, Felicia Day, and Simon Helberg.I really enjoyed going through this Dr. Horrible book: lots of pictures, comments, and the behind-the-scenes stories.If you don't remember Dr. Horrible, then I'll give you some clues: Joss Whedon's film tells the story of Billy, (Dr Horrible), a supervillain who wants to beat superhero Captain Hammer and take over the world. He has also a crush on a gril he met in the laundromat (Penny).This 45-minute long film was originally released online in 3 parts and it became an instant hit. Dr. Horrible's Sing-Along Blog has won numerous awards, including an Emmy, a Hugo Award and a People's Choice Award and was named by Time magazine as one of the Top 50 Inventions of the year. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Keeps getting better </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-25-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love that every time I see a new incarnation about Dr. Horrible, it just keeps getting better.  More music, more laughs, more pics, more trivia.  Loved all the photos and notes throughout the book, and especially loving the sheet music for the soundtrack! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-05-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was an amazing book! Best purchase I ever made! It contains a script and sheet music, as well as interviews from cast memebers and other information all relating to Doctor Horrible. Great for any fan of the web show! :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun Addition to Horrible Collection </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this as an impulse buy right after watching Dr. Horrible for the 12th time. But I was not disappointed; this book has everything from in-character commentary, full lyrics, and it even has sheet music in the back. (And not just a few pages, seriously the last 1/3rd of the book is purely sheet music, for every single song.) It's a fun look at the making of this great web series, and would be a great addition for any Whedon/Dr. Horrible fan. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A must-have for any Dr. Horrible fanatic </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> My daughter is a HUGE Dr. Horrible fan - so much so that even though I myself haven't seen all of the episodes, I know several of the songs and lines from the series.We purchased this book for her for Christmas and she was thrilled when she opened it.  She has hardly put it down.  She loves the behind-the-scenes photos and notes, and especially can't wait to sit down to "officially" learn the music from the songs at the piano.  The fact that the script is word-for-word is fun as well, and she has been at the computer, watching the show and following along (yes, she does have a life, but this is one of her favorite shows, along with Doctor Who - she just claims to be a bit of a nerd).This is really a must-have if you are a Dr. Horrible fan, or if you have one in your life. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dr Horrible is evilly delicious </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-22-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The companion book is so much fun, if you like that sort of thing.  The part that I really love is having the sheet music included.  Great background information, and the sheet music.  Just fun </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dr. Horrible's Read-Along Blog Book is almost as good as the show itself </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this book for my daughter, expecting a book of sheet music. The book does have sheet music for all the songs, but also so much more. Over half the book consists of interviews, the entire script (which by definition includes the song lyrics, though the actors sing so well that lyrics are unnecessary) and tons of photos. So much fun, even for a non-musician. Joss Whedon, Felicia Day, Neil Patrick Harris, and Nathan Fillion, are all great actors and singers. A recipe for amazing. My daughter, an excellent pianist, found the music easy to sight-read. I, a fumbling around a bit pianist who sounds ok but doesn't know the bottom clef, found it a bit daunting. The guitar tabs are easy to read and play.Also, an aside about the show itself, though you probably already know this if you're considering buying the book. I love the politics behind Dr. Horrible's Sing-Along Blog. For those of you who may not know, during the TV writer's strike, Joss Whedon fought back and wrote &#34;TV&#34; anyhow, resulting in an amazing three-episode &#34;musical TV minseries&#34; which he aired on the Internet. I'm proud and happy to own the video and book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dr. Horrible's Sing Along Blog Book </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I checked this one out at the library, and I'm glad I did.  It's definitely not a book I would spend extra money on.  Most of the content is stuff that is pretty repetitive, song lyrics, a transcript, etc.  I enjoyed reading the introduction and some of the behind the scenes snippets, but there's not much else to go on.  It does include all the sheet music, which means literally nothing to me, but for anyone who is musically inclined, I'm sure that's a bonus.  But really, beyond that, nothing special, not a must-read or anything for the DH fans. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Whedon Masterpiece </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> There is no doubt that this is a cute story, but it also has depth and is just a good musical overall. After &#34;Once More With Feeling&#34; Whedon proved his ability to write a good musical. This is far better than a lot of Broadway musicals I've seen. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun stuff! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-10-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you loved the show (I bought it initially on iTunes when it first came out) you're gonna love the book.I wish there were more "behind the sceens" things but it was cool to read the script, etc.  If I played the piano, I'd TOTALLY be playing the songs.  it's quite cool to have the sheet music.If you're a Joss Whedon fan, you won't be disappointed.  Amazon had the price right, too! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

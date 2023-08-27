@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1623152208 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-26-2013  
+<h2> review.text </h2>
+
+ <p> If you haven't had a chance to check out "The Untethered Soul" by Singer, or if you have already read it but had trouble understanding it--then this book is for you! The author does a wonderful job of summarizing Singer's book into bite-sized chunks that one can easily digest. Being a spiritual author myself, I can fully agree with the fundamentals that Singer has brought to light and I can also see the eastern influence translated into a more understandable western text. Singer's main goal was to teach others that they should let go of their attachments that bound them to this physical world and remain steadfast in the center of Self-awareness. The book teaches the different ways that this can be done such as meditation and retrospection. If you are on the hunt for peace or spiritual understanding, then I highly recommend this book to put you on the right track! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book! </p>
+
+
+<h2> review.date </h2>
+  07-24-2013  
+<h2> review.text </h2>
+
+ <p> I really appreciated this book. It was a great overview of Michael Singer's The Untethered Soul, managing to condense all the ideas into just a few, easy to read pages. In addition to giving some very useful background on the book and the authors, as well as providing a list of key terms, the book goes over all of Singer's basic ideas about the Self, the psyche, and how to eliminate suffering, often using Singer's own metaphors and including his suggestions for how to implement these ideas in your own life.  This is a must read for anyone who wants to learn how to let go of pain and achieve happiness, but doesn't have the time to devote to a full length book. It's everything you need to get started improving your life, and it can be read in a single sitting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Perfect Overview </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> Do you remember back in High School when you had required reading and you just didn't have the time to read the entire book, so you opted to buy the cliff notes instead? Well, this book is exactly like that.  It provides the reader with a condensed kindle-version of the full length book, including the main concepts, examples from the book, application of concepts, key terms and so on.  It provides an insightful overview to give the reader an idea of what Michael Singer has to say about Self, The Seat of Centered Awareness and Letting Go.  For example, he infers that the most common mistake people make is when they confuse the voice they hear inside their head with "Self."  Singer defines this as the "inner roommate" which is incessantly chattering on about everything, flitting from one topic to another with no real purpose.  Even though this book may be the ".... in 30 minutes version," Singer's concepts leave plenty to ponder long thereafter! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Quick Guide to Enlightenment! </p>
+
+
+<h2> review.date </h2>
+  10-28-2013  
+<h2> review.text </h2>
+
+ <p> This is very cryptic and repetitive. I have listened to the audio book via library loan and thought this would suffice for future reference. However, it is not a good read nor does it have the content detail that I desire. If you really want a quickey imperfect reference for how to get enlightened, go for this. If you want a friend on the path, buy the book. The biblio seems to be a collection of websites versus someone who actually read this and thought it through. This is probably my first and last of these 30 minute expert reads. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Put your money towards the Book </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> All my friends have been talking about The Untethered Soul lately and insisting that I should read it. I've been told that it comes highly recommended by Oprah, but honestly I had no idea what it was about and wanted to make sure that I didn't fill my mind with something that went against my beliefs. As this book states clearly in the intro, this is not the "Cliff Note" version of The Untethered Soul, it's a detailed review and meant to give you a glimpse into the author's background and the information within the book. This book is very well written and provides some interesting information about Michael Singer, a sample of other reader's and blogger's reviews of the book, and a synopsis of the content and key concepts. This book serves as a great companion to Michael Singer's book and I found it to be quite helpful in making my decision to purchase and read The Untethered Soul. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unsure About Purchasing The Untethered Soul? Then You Need This Book. </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> having ordered the paperback version of Michael Singer's book, and later finding a chance to purchasethis condensation of it, ........ have found it most useful as a guide in explaining to others the Importance and Richnessof Singer's grasp  on these very important insights -  NOT TO BE MISSED ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As a brief summary, it is compelling </p>
+
+
+<h2> review.date </h2>
+  08-29-2013  
+<h2> review.text </h2>
+
+ <p> This is the kind of book that you will want to read again and again. Short and sweet, it points the way toward a life of inner peace and freedom. Described as an extended review of Michael Singer's best seller published in 2007, it is an ideal distillation of easy to understand concepts and practices we can all use to cope with the everyday stresses of life. In a nutshell, Singer contends that most of life's problems are caused by our psyches' efforts to avoid pain. He teaches us how to confront painful experiences through a new lens that allows us to live fully and freely without fear. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You will want to read this more than once </p>
+
+
+<h2> review.date </h2>
+  08-18-2013  
+<h2> review.text </h2>
+
+ <p> This "book" rather misses the point of Singer's work. This EXPERT(?) book implies that untethering your soul could be accomplished in 30 minutes plus a little... The process is life long and reading Singer's book for yourself and reflecting for yourself, not listening to Oprah's interview or any other avenue, is what may help you along the way to finding you. Singer's book is a useful tool for self-reflecting. Don't water it down by implied short-cuts. The work is hard enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Do your own reading... </p>
+
+
+<h2> review.date </h2>
+  09-10-2013  
+<h2> review.text </h2>
+
+ <p> This is better than the Red Dot summary.  But it demonstrates, as at least one other reviewer has said, how efforts to summarize this subject, and Michael Singer's book, simply don't work.  The effectiveness of Singer's book is in the sentence-by-sentence guidance it provides, some of it quite punchy, and indeed repetitive.  This is a book, probably like most if not all good books, to be experienced.  In fact, as I have noted in my review of the book itself, the repetition helps to guide the reader, to anchor key points by restating them slightly differently as you read along.  Singer's choice of words are important and you almost have a sense that you are tuning into his 'awareness of his awareness.' </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doesn't "work" </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> The book is a critique of the author and his book- and not a very good one at that- I would not recommend purchasing for a shortened course in the Unthethered Soul.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nor for me. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

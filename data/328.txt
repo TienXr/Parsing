@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1591264278 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> This huge tome covers the gamut of NCIDQ material, and does so with a fair amount of detail. A lot of books on design topics don't go into the nitty-gritty, but this is chock full of specific examples and illustrations. It's an excellent study guide and will continue to be a useful reference after you've aced those exams.As is often the case with textbooks, many of you are thinking about the significant premium you'll pay for this over the 2010 edition. For someone just starting out, a hundred bucks can be a big deal. As I have both the fifth and sixth editions, I'll compare them here:They are very similar in length, although the new edition packs in a little more information. The fifth edition features more white space, with a two-column layout and a bit greater line spacing. It has the edge in readability, albeit very slight.Some facts and numbers in the new edition have been updated to reflect more recent data. How much effect this has on the sorts of questions that appear on the exams, I can't say for certain. But these updates seem relatively minor.The big change is that the book has undergone a major reorganization. Its overall structure is set up to conform to the current sections of the exam. This, together with its use of teal headings and section side-tabs for clarity (the 5th edition has no color) makes it much easier to navigate.So, in a nutshell, the new edition is more than just a minor facelift, and I definitely recommend it, but you could probably make do with its predecessor in a pinch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great reference; if the price is an issue, you can probably get away with the previous edition </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> (Review from my wife who used this book to study for her exam)This is the bible for studying for the NCIDQ exam.  I read this chapter by chapter and took the accompanying chapter quizzes (which are unfortunately sold separately)  and passed the written portions of NCIDQ with flying colors.  It certainly covers the material you need for the exam.  Initially I thought just working in the industry for many years would be sufficient to take the exam but after talking to colleagues I learned that you need the study guides to understand &#34;NCIDQ language&#34;.  After taking the exam, I am glad I worked from this study guide because there were specific words/examples that I never used in daily practice but needed to know for the exam.  A couple of things that would make this a superior product - it should be sold in a three ring binder (I studied on public transit and didn't want to carry the whole book everywhere) and the chapter quizzes and practicum example should be included - it certainly costs enough and you really feel like you are getting ripped off to have to pay another $100+ for the practice tests. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "The Bible" for studying the NCIDQ exam - but not perfect </p>
+
+
+<h2> review.date </h2>
+  01-30-2014  
+<h2> review.text </h2>
+
+ <p> Both the author and the publisher need to be credited with creating this superior text.Foremost, the text is brilliantly structured with a clear, logical progression. Moreover, it is absolutely comprehensive. The wording is both concise and precise. The editing is immaculate. I did not locate a single typographical error. Moreover, the author provides extensive references to websites that can offer additional information on any given topic. Much of this will be a quick review; nonetheless, there may be areas that expand on topics with which you have been struggling. Know that the text can be of assistance in both arenas.The publisher has taken pains to create a product that encourages learning. The text is over-sized and the figures are large, clear, ample and extraordinary helpful. It is a small touch, but the binding allows for the text to be opened and remain in an open position. So, if one reaches an area that requires exploration of a website, one can set the book on a bed or table, use one's laptop and consult the book at the same time ... the book does not close. I know that in my own research, I have always appreciated this. (I hate keeping my finger in a book and typing with one hand.)The has been the preferred text for years. Yes, it is a bit of an investment, but do know that this text has been a valuable resource for literally decades. Purchase this and give yourself peace of mind as you prepare for the NCIDQ exam. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Indispensable. </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> This is THE resource for anyone planning to take the NCIDQ exam.  It is organized logically, with indicators for the three parts of the exam.  There are some comments about using an earlier edition, but the sixth edition includes some important current laws & regulations such as the 2012 International Building Code and the Americans with Disabilities Act and Architectural Barriers Act Accessibility Guidelines.  I think the updates are valuable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very well-named: it really is everything you need to know </p>
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> Whether you are taking a class to refresh for the NCIDQ Exam or just studying up on your own, this book is essential for beefing up for the exam. It walks you through everything you need to know, helping you narrow down the things you need to study and giving you the information you need to do your best.The book is broken down into 6 categories: Design concepts, constraints, construction, products, communication and management. It also explains how to register for the exam and what to expect. The book includes all of the codes, measurements, distances, definitions, drafting keys and concepts that you will need to know, illustrated with crisp renderings and drawings, just as you would expect.But even if you aren't expecting to take the exam soon, this book is incredibly useful for the designer. If you are like me, you have multiple books covering a range of topics that you need to reference. Books for construction materials, books on project management, maybe the NKBA standards... this book compiles all of that in one handy place. That's nice for the test, but it is also super nice just for your day to day work. Need to remind yourself about the ideal tread/riser combo? Page 11-36. Can't remember the types of lumber cuts? 17-2. Super handy and extremely useful whether you are taking the exam or not.The 6th addition is the best yet, with more illustrations and updated standards to get you through the exam or just through your job. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Essential for Passing the NCIDQ Exam </p>
+
+
+<h2> review.date </h2>
+  02-13-2014  
+<h2> review.text </h2>
+
+ <p> This is a great reference for those wanting to take (and pass!) the NCIDQ Exam.  Studying for this test is no small task. But this manual will really help you prepare. The guide has all of the details in it that you need to know for the test. It also has great information on test taking and even studying. And you can quiz yourself at the end of the guide with some practice questions that are a lot like the test will be. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Helpful </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> Excellent resource for studying for the NCIDQ exam.  This sixth edition has updates which cover the current laws so everything is up to date. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fine </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> My mother is an interior designer and I figured this tome would work as a helpful guide in her work. As someone who is first starting out in design this could be a little overwhelming but as someone who has had a small foundation of information laid out (Thanks to my mom!) the text wasn't too intimidating. The text is laid out perfectly. It's definitely a well written guide that would be handy for students of interior design. My mom sat down with it for about two hours and let me know that she thinks this is a fantastic book that designers would probably love owning and having around for tips and info. Can't complain there! She's an expert in the field! :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great text! </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> If you're considering The Interior Design Reference Manual, it's probably because you're considering getting an NCIDQ certification.  It's carefully designed to map to the test, so for that end it's an indispensable tool.But if you're considering certification, you're probably thinking about the value that will bring to you.  Certainly preparing for the exam will give you something important - an understanding of the various domains of knowledge needed to be effective in interior design.  It's important to have some working knowledge of a wide range of areas, as the work of a designer builds on and relies on the work of other specialties.  The Interior Design Reference Manual gives you a good basic survey of a number of design and building areas, as well as areas more specific to interior design (such as lighting, finishes, woodworking).  It's very useful to have a comprehensive presentation of the things you need to know.The challenge will be to use that knowledge, so that you reinforce it and add to it.  Otherwise, like so many other things you've learned in your life, you'll know it just long enough to take the test.You might also be considering whether to seek certification in terms of the career impact and value it will bring.  It's worth doing a little work to evaluate which of the certifications in Interior Design to pursue, if any, and what value they bring to your career.  Be sure to talk to some practicing designers, and ask them what makes a good designer, and what they look for when they hire new designers or assistants. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A survey of the landscape of knowledge for interior design </p>
+
+
+<h2> review.date </h2>
+  02-03-2014  
+<h2> review.text </h2>
+
+ <p> I know; it's a lot of money. BUT you get in this book everything you need to know to pass the NCIDQ.This sixth edition is updated to include the 2012 IBC (International Building Code), and various industry standards including the ADA/ABA (Americans with Disabilities Act and Architectural Barriers Act Accessibility Guidelines). And there is updated seismic detailing of ceiling systems and BOMA (Building Owners and Managers Association)This book covers the three NCIDQ exam sections: IDFX (Interior Design Fundamentals Exam) IDPX (Interior Design Professional Exam) and the Interior Design Practicum. To account for overlapping in some exams the book is organized by interior design topic rather than by exam section. But to differentiate between the three tests, the various exams are tabbed by numbers.At 656 pages this book is thorough in every area. It can be a real investment, not just to pass the exam, but as a handy all-in-one resource.There is a very helpful, lengthy explanation of the exam in the intro of this book that may just be worth the price of the book by itself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thoroughly Covers All Three Sections of the NCIDQ </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

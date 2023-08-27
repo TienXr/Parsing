@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B009V2WGUU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-08-2013  
+<h2> review.text </h2>
+
+ <p> I didn't read year of the monkey there for I can not re view it thank you &#34;The Year Of The Monkey &#34;is more a mans book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Year of the Monkey </p>
+
+
+<h2> review.date </h2>
+  12-18-2012  
+<h2> review.text </h2>
+
+ <p> After having read Ron Argo's book, &#34;The Sum of His Worth,&#34; I was curious to see if he could write another book on a totally different subject that was as absorbing as the first one I read.  Believe me Ron is an accomplished author who knows how to weave a story that keeps you wanting for more.  His understanding of the war is based on actual service in Vietnam as a journalist which gives this story its realism and graffic descriptions of just what our young troops were thrown into. If they were fortunate enough to return home, there lives were forever altered by the horrors of war.  In spite of the subject of death and disillusionment in our young men, as a female I found this book drew me into the story quickly and easily and would recommend it to anyone who enjoys a good read.Brenda McNeal </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An outstanding fictional story of the tragedy of Vietnam. </p>
+
+
+<h2> review.date </h2>
+  08-09-2013  
+<h2> review.text </h2>
+
+ <p> Year of the Monkey was a thoroughly engrossing read. Russell Payne is an army journalist who never has the Vietnam bush experience firsthand.  Willingham comes into the picture and changes everything.  Coming from very different experiences in Vietnam, these two characters really need to decide who they can trust.  This book offers a unique perspective as to the dangers not only in the jungles during the war but also the political and personal dramas that are not often the focus of war stories.  Year of the Monkey also explores the relationship between the American troops and the Vietnamese who have been affected by war for years.  It begs the question of who is the good guy and who is the bad guy and can that distinction even be made.  This book makes it apparent that the only threat for GIs is not necessarily from the VC, but potentially from the CIA and their own personal demons from the past.  Highly recommended read.*I received a complimentary copy of this book in exchange for my review* </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compelling and multi-faceted Vietnam tale </p>
+
+
+<h2> review.date </h2>
+  05-31-2014  
+<h2> review.text </h2>
+
+ <p> Anyone interested in war literature will find Year of the Monkey an interesting and important entry about the Vietnam War. Ron Argo, a decorated veteran, writes with the detail, rhythm, and audacity of someone who has experienced the chaos of war and returned from the middle of the flames singed but alive.  Like Kurt Vonnegut, who was a  soldier turned journalist and writer, Argo is an articulate person with an observers eye and flair for description and urgency &#8211; just the right person to pull us into the conflagration and to make us think about it all at the same time.The novel begins Stateside in a prison where the protagonist, Payne (a military journalist) is awaiting trial murder and war atrocities. When the story goes back in time to his newspaper post in Vietnam, we find a decent, humane man and the mystery becomes apparent: how is THIS man, the same one on trial for murder?  Soon we meet Willingham, a rough around the edges sole survivor of a special forces unit, who has been mysteriously assigned to work with Payne, and soon everything gets even murkier when Payne is drawn into covert CIA operations involving Willingham. Meanwhile he is drawn into a Dante-esque hell of conspiracies, atrocities, and political mayhem, all which lead him, eventually, to the prison post-war.Argo paints a deliriously vicious portrait of war where there are so many agendas and levels of inhumanity that it&#8217;s difficult to tell the good guys from the bad guys, and it becomes questionable if anyone can actually be the good guy in the morass of the Vietnam War.  I thoroughly recommend this and Argo's other novel The Sum of His Worth. Argo is an author who is not afraid of difficult topics, and his moral compulsion to expose inhumanity and corruption pulses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must read for anyone interested in war literature </p>
+
+
+<h2> review.date </h2>
+  01-19-2013  
+<h2> review.text </h2>
+
+ <p> Starts off interesting enough to hold your attention, but get slower and more monotonous as it progresses.  I gave up on it aboutthree quarters of the way through it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gradual boredom! </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> The author served a tour of duty in the Vietnam War, then worked for many years as a journalist. The book is set just before the Tet offensive [February 1968]. This novel was a long time in gestation &#8211; being published in 2012. Ronald Argo  writes well and provides what feels like authentic background and detail. I am less sure about the credibility of the plot.At the start of the novel we find Russell Payne in prison waiting his trial &#8211; for complicity in the deaths of fellow soldiers.  We then find out how he came to be there.  Closing pages tell of the outcome of the case.The war is portrayed as at best a mistake. Throughout the book the Vietnamese are referred to in derogatory terms, &#8220;slopes&#8221;, &#8220;gooks&#8221;, &#8220;dinks&#8221;.  GIs are shown as habitual abusers of drugs and alcohol. The young women of the country are reduced to objects for sexual diversion.  Even if the fight against the VC or NVA is doomed, can anything ennobling be found in these circumstances? The thrust of the novel is that meaning and morality lie in loyalty to your buddies. This view is hardly unique or original.The novel has been hailed as a great novel about war, but I don&#8217;t agree with that. Too much of the story is &#8220;action&#8221;, reflections and musings by lead characters are obvious and clunky. Payne is a viable lead for an action story, but does not pass as a hero in any wider sense.  An ok war story with a  clever conclusion, but no Farewell to Arms. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> War Tale </p>
+
+
+<h2> review.date </h2>
+  04-18-2014  
+<h2> review.text </h2>
+
+ <p> The festering wound of the Vietnam War (1959-1975) will likely never heal - nor should it. That unconscionable war devastated a land with napalm and bombs, brutally murdered countless citizens and soldiers, marked deep indelible scars on the bodies and minds of those who returned, and remains a source of sorrow over fifty years later. Georgia-born Ron Argo captured that war through a journalist's eyes as he served in the days of the Tet Offensive of 1968 and recreated the horrors he observed and felt in his brilliant novel YEAR OF THE MONKEY, originally published in 1989 and now placed before our collective conscience in the Kindle format. His book falls in line with the finest of novels about Vietnam by such esteemed writers as Neil Sheehan (America in Vietnam), John Paul Vann (A Bright Shining Lie), Tim O'Brien (The Things They Carried), Tobias Wolff (In Pharaoh's Army), Bao Ninh (The Sorrow of War) and Philip Caputo (A Rumor of War). This reader, also in Vietnam at the same time, first encountered Argo's book (as well as the others) while publishing 'War Songs' - very soon after Argo's book was first published. The impact was and is a tattoo. Re-reading it now, in this format, brings the experience thought healed to the forefront, and it is hopeful an even wider audience will step into the Vietnam War as Ron Argo so deftly paints it.One of the many aspects of Argo's account of the war is his sensitivity of not only reporting the quagmire of filth and danger and frank corruption that engulfed troops and civilians, but also building a human-interest story of how the war riddled the minds of those exposed. He offers the interplay of two men - journalist Russell Payne and the wildly unstable combat grunt Corporal Daryll Willingham - whose interplay in a twisted covert CIA operative is best outlined by Argo's description: 'Specification: On 6 January 1968, at about 2000 hours in an unmapped hamlet used as a North Vietnamese Army encampment in the province of Tay Ninh approximately two kilometers from the Cambodian border, Specialist 4 Russell Henry Payne of Headquarters and Headquarters Company, Saigon Support Command, Long Binh, Vietnam, did commit assault upon Corporal Daryll Willingham by shooting him in or about the head with a pistol of unknown caliber and did thereby intentionally inflict fatal bodily harm to him Specification: ... that Specialist Payne, by not attempting to defend a senior officer in grave danger of his life, did willfully neglect and therefore contribute to murder in the brutal death of Lt. Colonel Rupert Shellhammer Specification: ... that Specialist Payne demonstrated blatant negligence amounting to acquiescence in the deaths of four enlisted personnel of the Army of the Republic of Vietnam and furthermore of the systematic murdering of thirteen Asiatic refugees To the specifications, charges of one count of murder, and two counts of willful neglect resulting in murder.' It is this court martial specification that is the core of what the CIA has ordered: Specialist Russell Payne is to befriend and rat on Corporal Daryll Willingham as part of a secret operation that, no matter how sinister, cannot boost or sustain an unpopular war. The two troops are forced into an unwitting odyssey through hell -- and into a court-martial for murder. What eventually moves Payne to kill Willingham serves as the Argo's stimulus to make the remainder of the novel surprising and credible.Argo spares no visualization of the sights, sounds, stenches, days of boredom interspersed with frequent states of panic, the corruption visible on all sides by all participants - including the altered and falsified `daily reports' of casualties transmitted to the families and loves ones, hoping to garner support that the nation knew was a wrongful war. Argo's book tells it all, in stunning prose. Once read, this book will never leave the interstices of the mind. And that is the way it should remain. Brilliant! Grady Harp, April 14 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> `The pity of war, the pity war distilled' Wilfred Owen </p>
+
+
+<h2> review.date </h2>
+  04-26-2014  
+<h2> review.text </h2>
+
+ <p> The year of the monkey by Ronald Argo is an epic war story of cold-blooded murder during the shattering Tet Offensive of 1968. The two men are forced into a covert CIA operation. I am reminded of all sorts of history books as I read this story.  The best part of the author is that he served in the military which gives him great insight as to what really happens at war.  Some people say, &#34;What happens at war, stays at war.&#34;  Still others come home and relive memories throughout their lives never quit getting over what emotionally and mentally took a toll on them.  If you served in the military, you will feel what the author rights as your own experience.  It is my hope that others honor Veterans of this world with buying and reading and supporting this author as he continues to conquer the mysteries of the war of past.   2014 by Jackie Paulson </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Year of the Monkey by Ronald Argo War Veteran Story </p>
+
+
+<h2> review.date </h2>
+  01-22-2013  
+<h2> review.text </h2>
+
+ <p> First off the author did a very good job of spinning a tale set in Vietnam, but it is a bit out there as a story and while we all know strange stuff happened in country, this one is a bit out there for me.  I respect all who served and sacrificed.  I know several personally who returned damaged and this book does not do their service any honors. While some in real life may have been similar to some of the characters, it is not typical.Note: there is another Year of the Monkey titled book about the War in Vietnam by Ronald E. Hays which is a true story and when I downloaded this title, I thought I had picked the non-fiction book and not this fiction one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Author is skilled in spinning a tale </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> I found "Year of the Monkey" to be unusually different from the many books published about the Vietnam War.  The first couple of chapters pulled me in - keeping me interested and anxious to find out what this soldier did to deserve the punishment he was awaiting. Once this hook was in place, the author takes everyone back to the beginning - where it all began.As a reporter for a military magazine, the lead character seems to have "Carte Blanche" with his duties and job responsibilities.  He is stationed in Long Binh with access to Saigon and a never-ending supply of drugs, beer and cigarettes.  When a Green Beret arrives, after reassignment to the Press Corps, there are many questions asked and no answers given.  He is quiet and keeps to himself - shrouded in mystery.The main character finds himself falling in love with a girl he meets in a Saigon bar.  She informs him that she is not a prostitute, but instead, a visiting student from a village down south in the Delta region.  She promises him that if he is able to come visit her in the Delta, she will take care of him like nobody has ever before.  Shortly after, as luck has it, he is assigned to a story near her village and soon hooks up with her.  Many things occur during this time, which causes the reader to second guess what is actually taking place.  Is he being set-up or is love getting the best of him?The CIA is involved, forcing him to spy on his new friend, the Green Beret.  Bits and pieces of his hidden identity are soon revealed - the reader soon learns that everyone is playing a role in a scheduled master plan.  Soon the big question from the beginning of the story is answered.  But did it really happen that way?Some parts of the book are slow-moving and repetitive, and in my opinion, the drug scenes are depicted much too frequently.  All-in-all "Year of the Monkey" is a suspenseful story and worth reading.John Podlaski, authorCherries: A Vietnam War Novel </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intriguing to say the least </p>
+
+
+<h2> review.date </h2>
+  04-25-2014  
+<h2> review.text </h2>
+
+ <p> This book was probably one of the most raw and rough I have read in a while. The two main characters are definitely going through a tough time, but war has that effect on a lot of people. Russ Payne, an army journalist is the main character just trying to get some insight to the terrible war going on.While Willingham, is the last one standing of his special forces team and is definitely looking for revenge.Payne has to make some tough decisions when the CIA has him follow Willingham as a part of a special investigation. Unfortunately for Payne, Willingham is on a quest to seek revenge for his fallen team.This book goes into so much detail about the jungle and hardships of war. It is definitely a worthwhile read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Edge of your seat! </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> If you are fascinated about war, especially the Vietnam War, and the political machination and intrigue behind a painful war that claimed the lives of over 58,000 men and women, with many prisoners-of-war and missing-in-action still unaccounted for nearly fifty years later, Year of the Monkey by Ron Argo just might be the book for you.Year of the Monkey is strikingly different from the many other books published about the Vietnam War. It is a story that has the ability to pull you into the story, and keeps you engaged to the very end. The author has done a commendable in highlighting some of the scenarios most likely encountered not only in the untamed jungles but also in the villages and towns as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FASCINATING, COMPELLING & ENJOYABLE! </p>
+
+
+<h2> review.date </h2>
+  01-16-2013  
+<h2> review.text </h2>
+
+ <p> Very suspenseful keeping the reader going at all time's.  The characters were very real and you felt like you were right there with them especially if you had been in the military an n during that time frame.  This would be a good book for anyone to read but especially military. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Monkey </p>
+
+
+<h2> review.date </h2>
+  05-23-2013  
+<h2> review.text </h2>
+
+ <p> Reading Ron Argo's book, "The Year of the Monkey" was time well spent.  It, however, is a novel about time poorly spent in South Vietnam.  More novels should be written about this chapter in American history.  Argo captures the mood and events of this war.  It was just like being there and wondering about the difference between right and wrong.  The author depicts the ugly realism of our adventure in Southeast Asia.  While reading this book I kept thinking about Graham Greene's book, "The Quiet American," but with one big difference.  I cared about the welfare of Argo's characters.  Those who liked this book, as I did, may be interesting in reading "Goodbye Vietnam: Love, War and Espionage in Vietnam." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TIME WELL SPENT </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

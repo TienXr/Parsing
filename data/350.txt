@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1612380123 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Kindle Version vs Lonely Planet </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I haven't traveled to Spain with this yet, but I wanted to comment about using a Kindle (wifi only, no-touch) with this. Rick Steves uses maps that are look hand-drawn, and they look great on the Kindle's grayscale screen. However, Lonely Planet 2012 uses color maps which are harder to read on a grayscale screen. This is less of an issue on a smartphone, however.It appears that some basic efforts were made on both Lonely Planet and Rick Steves to convert the large maps into a series of tiles, which is good.In terms of content, I got both Lonely Planet Spain 2012 and Rick Steves Spain 2012 from the library first (before purchasing the Kindle versions). There are two things I like:- LP is written more in a dry guidebook kind of style, where as Rick Steves' has a nice voice to the writing; perhaps this is an artifact of having watched the show, but the writing is a lot more conversational.- The guided tours in LP are relatively short; RS contains more detailed notes on self-guided tours of various sights. For example, for Barcelona, there are two guided walks of the Ramblas and the Barri Gotic.In terms of physical sizes, I think LP Spain is thicker. I do think it has more listings, more content, but the way the guided walks are written made me favor Rick Steves', so that's what I got. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great guidebook </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> 1st trip to Spain in November 2012, and ended up relying almost exclusively on this book.  It's my 1st time looking at Rick Steves guides, and I was impressed.  Excellent organization, easy to find what you're looking for, light weight, and a chatty style that makes it easy and engaging to read.  You also don't get the sense, as from many other books, that everything is 'just fabulous'.  RS is frank in offering his judgement both of what's worth seeing, as well as in prioritizing sights to help a traveller manage his time. I found the hand drawn maps easy to read, and useful for navigating, as long as you're willing to pay a little attention. In writing this, I realize that my liking this book may be in large part a function of the fact that I'm in my 50's, and not my 20's or 30's when I wouldn't be caught dead reading a guidebook while wandering around. Those were my Lonely Planet days, and while their books are very good too, they are both encyclopedic, and a little difficult to actually use. All that said, read with an eye to your own preferences. After comparing, I chose not to follow RS's hotel recs, preferring to trade up. And you are reading one person's taste - it will not always align with your own. E.g. Toledo, Cordoba, Granada and Barcelona were fantastic, but I spent several days in Sevilla, coming highly praised in the book, but was underwhelmed. And I should have followed my instinct and skipped Madrid entirely. But that's just me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Take a leap of faith--and a tapas crawl--with Rick </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Rick Steves' guides require a bit of a leap of faith.  Unlike the phone book-like Lonely Planet, Steves' guides are not comprehensive: he focuses on the areas he thinks are worth visiting and leaves out the rest.  Basically, if it's not worth seeing or doing in about a month-long trip to the country, it won't be in the book.  That sends some people into conniptions (e.g. "How dare he not include _______?") and it requires a certain amount of faith that your travel styles and preferences will be like his.  But, assuming they are, Steves does the visitor a huge favor by cutting the fat out and concentrating on the places and experiences that will be most of interest (unlike Lonely Planet, where one is likely not to need 95% percent of the bulk in that book that they're carrying around).I always find Steves' guides to be most helpful with regard to information about the cultural sights, and Spain 2012 is no different.  For a ten day trip through Madrid, Toledo, and Andalucia, we were well-guided through the key locales (Alhambra, Prado Museum, Royal Palace, El Mezquita, Toledo Cathedral, etc.).  Where I find Steves to usually be a little bit weak is in food and lodging, but I found his Spain guide to be surprisingly strong in those areas.  I found hotels through TripAdvisor reviews, and by a happy coincidence noticed that they came highly regarded in Steves' guide as well (Casa 1800 in Seville and Granada, Preciados VIP in Madrid).  The food options were quite strong, although slightly weaker ... a number of our favorites we had recommended to us by others or otherwise found on our own (one Seville highlight not in Steves' guide: Labulla).  However, there were many other good recommendations; Estrellas de San Nicolas in Granada and some of the tapas places around Plaza Santa Ana--especially the homey Casa Toni--were some of our favorite meals of the trip.  As always, Steves' logistical information was great; day trips from the places we stayed were a breeze, and I don't think we would've known about things like the two euro bus that goes between the airport and Atocha station without reading about it in his book.As with all of Steves' books, the usual caveat applies: make sure the places you plan on traveling to are in the book.  For example, if you want to go to Valencia, you'll need another guide.  However, you can't go wrong just following Steves' recommendations, or a modified version of them.  Spain 2012 is Rick Steves at his best. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Useful book </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-06-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> We've used this book during our 2.5 weeks travel in Spain (Aug 18 - Sept 6 2012). Generally, the book information is quite accurate, except for few things that probably have changed since the book was written (eg. bus from Barajas airport to Madrid is EUR 5, instead of EUR 3).We used this book as written guide when visiting Madrid, Avilla, Toledo, and Santiago de Compostella. We tried most of the recommended food places, and it is good (taste, service and price). Note that the food price in the restaurant (eg. in Toledo and Madrid) may a bit more expensive than the book stated (my friend explained that Spanish govt has increased the tax, causing price hike in almost anything).What I like from this book is that it has some guide / story that explains what you are seeing in the places. Most of places in Spain doesn't have any English explanation, or no explanation at all. I personally like the book explanation about the Madrid's Major plaza (the point 0km of Madrid, and where Napoleon shot the people, etc).The disadvantage of this book is the map, which is quite difficult to see in kindle version (plus not very accurate for Toledo. We walked the same place for three times to reach our museum). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> We have used Rick Steve's pubs many times.  We used &#34;Spain 2012&#34; to plan our trip to Spain last March.  Just great in many ways.  Had it on the trip to use on a daily basis.  Also used in conjunction with Lonely Planet - spain and both are complimentary to one another.  Would not plan or go any where without consulting both.  When considering Europe travel - begin with Rick Steve's. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> very good </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> There are travel guides, and travel guides.  If you're rich, stay in the paradores, which are historical buildings converted into hotels; aka posadas in Portugal.  If you don't necessarily have a lot of money, and you want to really enjoy the country, Rick Steves guides are very good.  He has the perfect attitude.  I would add that if you have a gypsy trying to sell you something, and just won't take no for an answer, enter a shop; if that doesn't work, get behind the counter. The clerks will understand.  I was told this, and I had to do it once.  You can get stamps in the tobacco shops, for postcards etc.  Don't wander around in a tourist daze, be alert, as you would be in any big city in the US.  Rick doesn't stress enough how much of a food culture Spain has.  Even the food in a greasy spoon restaurant will taste good.  Food tastes good here.  Tipping is rare here.  You can take a subway from the airport, in most big cities, and their mass transit is a generation ahead of what we have in the US.  I watched a Humphrey Bogart movie on a train in Spain, and Bogey sounded a whole lot better in Spanish than he ever did in English.  If you need to take a present, colored T-shirts with designs on them, especially of sports teams, are good.  Spanish people are very mellow.  They always appreciate anyone trying to speak Spanish.  The cheap way to study Spanish is to find the Foreign Service Institute .mp3's, there are websites you can download these from, free.  Spanish people are polite- open doors for ladies, let the ladies go through first, and so on.  Rick's DVD's are also good.  If you go to Madrid, or Barcelona, pay the money for the canned bus tour, it will save you so much time.  Every American I've talked to enjoyed Spain, greatly.  Spain is Europe's California, and they are mellow, kind of like San Diego.  For my uses, Steves guide is my choice.Culture Shock! Spain: A Survival Guide to Customs and Etiquette (Culture Shock! Guides)is also helpful, and read more than one guide, if you can.  Read up on the sights, before you go, also.  You'll get more out of the trip. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Steves delivers, as usual </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Just returned from my fourth or fifth trip to Spain, the first one with Steves' book in my IPad. The trip was a fantastic success. On Steves' recommendation, I went to Nerja, ate paella in Ayo's Chiringuito, MET Ayo, and had a brief tour of the restaurant. It was even better than I expected, in every way. In Granada, I stayed at Los Tilos, a hotel recommended by the book. It was PERFECT. Great location, good service. Walking distance to practically everything you could want. Saw a Zambra show at a cave establishment he recommended. It was excellent. Most of the flamenco I had seen in the past in Spain had been super touristy and not very authentic. This one was for the tourists, of course, but the owner and her husband are gitanos and dancers themselves, as were the musicians and at least one of the dancers. One young woman gave a truly impassioned performance that was incredibly moving. If you're heading to Spain, make this one of your resources. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Missing pages </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Check your copy as soon as you get it - ours is missing pages 673 to 720 (and has duplicates of some other pages).  Like the other RS guides it's a very good book, but a one-star rating seems like a fair way to call attention to the problem.  I didn't notice it until I'd marked up the book, detached the map inside, and let Amazon's return period expire (though I'll try returning it anyway). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Rick Steves is my favorite guide and continues to speak my traveling language </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Of course, it all started with his PBS travel shows.  I watch and rewatch as he visits places I have been and places I wouldlike to go to.  A couple of year's ago, he was our book guide through a 3 week stay in London.  He organizes his sections in easyto understand ways and helped us find &#34;THE&#34; places we HAD to visit and those we WANTED to visit.  We all agree that it wasa wonderful and once-in-a-lifetime visit to a great city and Rick helped us realize our ambitions. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lacking </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> .Rick Steeves Spain guide is only useful if you are planning a trip to a very few places in Spain.  He covers the most commonly traveled locations in depth.  This is quite useful for a &#34;newbie&#34;, but if your are interested in seeing more than the &#34;common&#34; tourist sights it is worthless.  There is so much more to Spain than Madrid, Toledo & Granada, etc., but you wouldn't know it by reading this book.  By all means pick it up if you've never been to Spain before or you're going to one of his particular destinations, but don't bother if you want a more thorough view of the entire country.  You're much better served by the Eyewitness series or Michelin Green Guides. I would give it 2.5 starts if I could.&#34; </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very informative- but one suggestion </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> There are several great travel book series.  One mistake I made, which I would encourage you to avoid, is to purchase all of your books from the same series if you're visiting multiple countries.  I bought books on Spain, Portugal, and France from three different publishers and it makes it very hard to navigate between them because they each arrange the content in a unique way.  Go with one publisher.  Once you figure out the format of the first book, you will know where to find the info you want in the next one. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

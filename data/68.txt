@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B003MATPQK <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-09-2012  
+<h2> review.text </h2>
+
+ <p> I bought these headphones because of the great reviews, they are comfortable and have nice bass but what really bothers me is the harshness of the treble.  It hurts my ears and I changed my EQ hoping to fix the problem but it still persists and I am now looking for a new pair of headphones but they are good for $11 if you listen at a lower volume. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Treble is harsh </p>
+
+
+<h2> review.date </h2>
+  03-15-2012  
+<h2> review.text </h2>
+
+ <p> The ergonomics of these headphones are pretty nice. They stay firmly in place during vigorous running, but the sound quality was so bad I had to return them, and I'm no audiophile. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Horribly Tinny Sound </p>
+
+
+<h2> review.date </h2>
+  05-03-2013  
+<h2> review.text </h2>
+
+ <p> I didnt really like these headphones. They look weird, feel kinda weird too. Broke after about a month of use. Would not recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Broke really fast, look weird </p>
+
+
+<h2> review.date </h2>
+  03-30-2014  
+<h2> review.text </h2>
+
+ <p> Good sound and great fit for me.These are for use with my phone and they deliver.They are a little unique and well made.Recommended </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ahhh!! </p>
+
+
+<h2> review.date </h2>
+  11-09-2011  
+<h2> review.text </h2>
+
+ <p> At the risk of being overly optimistic having only had these a short time, they are pretty nice.  You have the option of using the earlobe clips, but they are just fine if you choose not to use them as well.  They are comfortable and do a good job of noise reduction.  The sound clarity is excellent and bass is great.  Also, the earbuds are clearly marked; for those of us who want to absentmindedly put them on, Sony made it easy to distinquish the right from the left with no real effort.  Happy with these earbuds, would purchase them again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty nice buds! </p>
+
+
+<h2> review.date </h2>
+  03-21-2014  
+<h2> review.text </h2>
+
+ <p> Though these were cool so I go a pair.Pros:  Cool looking, partial articulation (they move)Cons: Left earphone stopped working (I used it with an iPhone, don't use it with an iPhone), uncomfortable after prolonged use </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Meh </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> These headphones offer a great fit and good sound for a solid price. The unique look also serves as a plus. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Headphones </p>
+
+
+<h2> review.date </h2>
+  01-04-2012  
+<h2> review.text </h2>
+
+ <p> Good reviews have already been written so I'll just say these block sound wonderfully; I heard my music with better quality and didn't have to use a higher setting on the sound gauge like before.  For the price, can't be beat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic </p>
+
+
+<h2> review.date </h2>
+  11-23-2013  
+<h2> review.text </h2>
+
+ <p> I ordered these due to several reviews saying they are good headphones. After a couple of months about 3-4, one of the speakers went out. Unfortunately I am not able to leave feedback on wether Sony has a good warranty in place as I did not attempt to get a replacement. They do however sound pretty good when both speakers are working and they stay in place even during a run on the thread mill. If it wasn't for the speaker blowing I would give it 5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blown speaker within 3-4 months. </p>
+
+
+<h2> review.date </h2>
+  12-04-2012  
+<h2> review.text </h2>
+
+ <p> I had bought these for good base and I've been using these for the almost 3 months. If you push them a little bit inside you ear bud you won't hear anything from outside and base will become awesome. I really love listening to base songs especially &#34;whistle&#34;. And also you can clip these with your ear lobes that gives you some extra protection against head movement. But there is a catch, you look not very cool especially if you are using these on skype and you are seeing yourself. It is due to these extra clips :). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good sound </p>
+
+
+<h2> review.date </h2>
+  01-14-2012  
+<h2> review.text </h2>
+
+ <p> These headphones are really good sound quality with strong bass. If you put it in the right way you will not hear any outside noise and i mean nothing!! Made out of plastic but seems like good quality. I love the headphones but one thing i dont like is that it's a GIRL headphones. I did not realized it when i order but it was cheap so i will give it away to a girlfriend. The design clips onto your earlope like an earring so its definitely not for me. As for sound quality, these are by far one of the best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great but not for me </p>
+
+
+<h2> review.date </h2>
+  06-21-2012  
+<h2> review.text </h2>
+
+ <p> These have been my favorite headphones I've had yet. Good quality sound, they never fall out, and they're really comfortable. I recently lost mine, and now I plan to buy a couple. Negatives? They tangle a little easier, and left/right actually matters a little. Despite that, I would buy these over any other headphones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Earbuds </p>
+
+
+<h2> review.date </h2>
+  09-17-2011  
+<h2> review.text </h2>
+
+ <p> These have the audio quality of ear buds that are of many price brackets higher.  Their bass is clear, yet powerful.  Their mid-range is beautiful.  Their highs are crisp.  They accurately reproduce music, as it would be heard at a live concert or studio.  When I say this, I speak for all music; I listen to classical, orchestral, heavy metal, dubstep, trance, rock, meditative nature recordings, you name it.5 stars for audio quality at this price.Build quality is good.  They seem to be made of a medium density plastic with rubber pads over the tabs.  I am quite sure that the tabs would break if handled too roughly.4 stars for build quality at this price.Sound isolation is good.  I would estimate that 40% of background noise is all but eliminated.  While listening to music at medium volume, I can barely hear myself typing (however, I am a key masher).  Sound isolation quality may be just under or around that of the JVC Marshmallows.4 stars for sound isolation at this price.Last but not least, comfort.  If you exercise or jog while listening to music, using the tabs may be quite mandatory.  Said tabs do get a bit uncomfortable after using them for a couple hours in a row.  Otherwise they are very comfortable unless you listen for LONG (5+ hours) durations.4 stars for comfort.My overall rating: 5 stars.  At this price range (&lt;$20), I do not believe that I have used a pair of headphones with this level of sound quality.  I highly recommend them to everyone from casual listeners to budget audiophiles.  I exclude non-budgeted audiophiles for my recommendation because I would assume that $200+ earbuds are better in some way(s), unfortunately I will probably never know. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simply incredible. </p>
+
+
+<h2> review.date </h2>
+  12-12-2011  
+<h2> review.text </h2>
+
+ <p> I honestly am very skeptical of a pair of earbuds for around $10-$15 that claim to have such good sound, but I bought these anyway because I love Sony. I have a pair of Apple In-Ear Earbuds and I have to say, these sound wayyy better! They have surprisingly amazing bass for earbuds, not too much though, just enough to enjoy, and the sound is seriously comparable to $80+ earbuds that are out there. They look cool, fit my ears well, and comfortably clip onto my ear too, so I can move and not worry about them falling from my ears, if you have the money and want a good reliable pair of earbuds, get these! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow, Very Surprised How Good These Are! </p>
+
+
+<h2> review.date </h2>
+  07-13-2012  
+<h2> review.text </h2>
+
+ <p> These piece-of-sh*t earphones broke EXACTLY 95 days after purchase.It came with only a 90-day warranty, so I guess I'll have to buy new earphones.So, the last three Sony earphones I have purchased have all broken within 1-2 years.  I will never ever buy Sony earphones again.To their credit, Sony earphones sound great.  But they simply do not last.This MDR-PQ4 is in fact the best-sounding earphones I've ever used.But now it's useless b/c the right earphone has stopped working.And it's not like I used it a lot.  I hardly ever used it, was very gentle with it, and kept it in a case.The Sony brand name no longer guarantees quality.  No wonder they're posting record losses these days.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great, until it broke. </p>
+
+
+<h2> review.date </h2>
+  12-13-2011  
+<h2> review.text </h2>
+
+ <p> I bought this earphones for my Sony Walkman, since i accidentally sold the original ones with my psp.  After that i got a pair of Phillips headphones which are pretty awsome but my ear get sore after about 20min. of use.  These earphones are not as loud as the Phillip's but do make it up with great noise cancelling.  You can just put them on without any music playing and you will not be able to clearly hear someone speaking in front of you.  Also very damn comfortable!Wait do they sound better with time, or was there just something wrong with me back then... they are not just good enough they are exeptionally good. Excelent I'd say. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sony quality... good enough. (edited) </p>
+
+
+<h2> review.date </h2>
+  02-07-2012  
+<h2> review.text </h2>
+
+ <p> By far the best pair of Sony Headphones Ive ever paid for and for only $8 dollars no less. If your an athlete or work out alot than this is the pair for you. They WILL NOT fall out. Awesome Job Sony. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sony Went Above And Beyond </p>
+
+
+<h2> review.date </h2>
+  12-29-2011  
+<h2> review.text </h2>
+
+ <p> Although they work will stay in without the earclips attached, for some reason the clips didn't work with my ears. The clips are a kind of a durable hardish rubbery flexible material, and with some big heavy scissors I just cut them off. But even when I did have a good seal, I have some sony pq6's that, in my opinion, sound much better (more smooth sounding with a more realistic sound) whereas these have a more nasal sounding midrange with screeching highs. The bass is pretty good though. So even though on paper the specs of these clip buds were better, in real life they were not which may prove the fact that in most cases headphone frequency range specs aren't too significant. I ended up passing them on to my wife who just listens to audio books.Update-Right side stopped producing sound after not even that much use, and taking apart the bud the wires were still connected to the driver inside. Why it stopped I do not know. You can do definitely do better than these for the money </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Average sound; earclips didnt work for me </p>
+
+
+<h2> review.date </h2>
+  11-25-2011  
+<h2> review.text </h2>
+
+ <p> It works well if you're not moving much.  But if you run the contact/rubbing noise between the cord and the clips are about as loud as the music. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too much cord/cable noise </p>
+
+
+<h2> review.date </h2>
+  11-17-2013  
+<h2> review.text </h2>
+
+ <p> Loved these earphones. I used them at the gym and for running and they stayed in place without any issue. Sound quality was very decent too. Puchy bass and mid and high range were awesome for the price. I keep saying &#34;was&#34; because they broke after a few months of having them. One of the ear pieces stopped working. I'm not sure if it was my fault or the broke on their own, as I've tossed them into my gym bag, and accidently tugged on the cord having them pulled out of my ears a handful of times, but I've had headphones that were abused much more and lasted longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good set, one of the ear pieces stopped working after a few months... </p>
+
+
+<h2> review.date </h2>
+  09-21-2011  
+<h2> review.text </h2>
+
+ <p> Every ear bud or headset has had major flaws for anyone active in the gym, running or biking or involved with any other active exercise.  While most older athletes might write this set off as some gimmick for young kids, they would be seriously mistaken.  The sound quality is as good or better than any other bud in its class and better than many that are supposedly better.  No it is not "sound canceling" but it does as good as say a gel ear plug to keep out ambient noise.  Add your own music and the elevator or metal music the gym pipes in is blocked out pretty well.  Best of all when I work out, the buds stay in.  The little clips look silly but work really really well and once on can't even be felt on your ear.  I highly recommend these for the gym rats of the world like me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Gym Rat's delight </p>
+
+
+<h2> review.date </h2>
+  12-05-2011  
+<h2> review.text </h2>
+
+ <p> I've been searching for a decent pair of headphones for the gym. I have tried the Skull Candy, Able Planet, and JVCs, and these are by far the best. When comparing them against the Skull Candy (which has good reviews), these sound much more dynamic, and the details just jump out at you. The sound is clear with strong bass. The bass is not as powerful as the Sony MDR-XB40EX, but it's much better than the other brands. The XBs are still my favorite, but they're too good for the gym.The PIIQ are better suited for the gym, because they are light weight, and have a thin wires that don't transmit sounds as they dangle. Also, they have an innovative clip that grabs on to your ear lobes, which prevents them from moving around. Regular in-ear headphones will gradually work itself loose as you work out, affecting sound quality, but these do not. They're also easy to insert, because they have soft silicone seals. There are 3 different sizes, vs 2 sizes for many other brands.I just can't believe the sound quality compared to the others I've purchased. When I first tried them, I wasn't impressed, but when I fitted the correct seal, it was an eye opener. Some songs sound a bit shrill. For example, on Dido's White Flag, you can really hear the esses. Considering the price, these can't be beat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sport headphones that sound great </p>
+
+
+<h2> review.date </h2>
+  02-16-2012  
+<h2> review.text </h2>
+
+ <p> I know these are less than $15, but the bottom line these earphones don't sound as good as some of these reviewers here say. I listen mostly to rock/metal when I work out and the highs can be overwhelming at times. Forget rap/hip-hop, the bass is non-existent.The clips are fine, I guess, if you're not doing any cardio and they fall out easily when you're sweating. The cords are quite long, which is good, but when you put these in your pocket and take it out again later, be prepared to do some serious untangling. Also, the clips didn't help with the already uncomfortable ear buds.Don't waste your money on these like I did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Horrible sound quality </p>
+
+
+<h2> review.date </h2>
+  07-30-2013  
+<h2> review.text </h2>
+
+ <p> The item was as described and I have only the one complaint, saved money through Amazon. It is amazing how fast Amazon Fulfilled items get to me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Broke, but sounded good before then </p>
+
+
+<h2> review.date </h2>
+  09-27-2011  
+<h2> review.text </h2>
+
+ <p> I needed headphones that I could wear on the treadmill with no fear of them slipping out of my ear, and I was also looking for headphones with good-great bass. These headphones definitely satisfield both those requirements, they render a deep (but not to the point of being irritating) base, and at the same time offer good overall sound quality. One thing I would like to point out is that when I initially used these headphones I used them with the default gel_caps but the sound was lacking, I later tried the alternate gel_caps provided and found the right size for my ears and sure enough it made a world of a difference. Highly recommend these earphones to anyone looking for a decent set which is not too expensive and is great for cardio workouts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best headphones out there </p>
+
+
+<h2> review.date </h2>
+  06-11-2012  
+<h2> review.text </h2>
+
+ <p> These are a great pair of headphones, they have incredible base and almost are noise cancelling to a certain extent. The best part about these headphones is that they have VERY minimal sound leakage, even had a somewhat high volume. I used this when i studied in the library and didnt have to worry about disturbing my neighbors that was trying to study quietly.I also used these a the gym and they stayed on because of the unique clip design. So they some-what stayed on while i ran at 8 speed on the treadmill. The only problem was that after a couple months, one of the headphones on the right side stopped working. This probably because of my mishandling of the headphones and gym use but still. I was disappointed because out of the tens of headphones that i used to buy (Because i was too cheap to spend more than $20 on a pair of headphones) this was the best and i really liked them. If they didnt break i would still be using them.Overall the sound quality is awesome and really clear. The bass is really good too and its a great pair of headphones. I use the Bose In-Ear headphones now but i still miss these headphones because they were almost just as good.Btw, on ebay these headphones are A LOT cheaper, just search thereSo check out ebay if you want to get these because many sellers have them for about $12 with free shipping. Even Sony's website has them listed for about $12 but they are discontinued so get these on Ebay and save yourself some money.Also, for some reason the other colors of this product are cheaper here on amazon </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great with nice quality and bass! </p>
+
+
+<h2> review.date </h2>
+  09-25-2011  
+<h2> review.text </h2>
+
+ <p> the PIIQ product line has provided one of sony's best earbuds, from design to sound quality.the clip-on look always catch people's eye, all my friends love it, the color is amazing.sound quality wise, lack of bass is one downer, but over all very impressive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> outstanding earbuds from sony. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

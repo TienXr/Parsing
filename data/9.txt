@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0000UUR6C <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not good </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-18-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is one of those products that have a high frustration level. I'm not convinced that my batteries are getting fully charged, they seem weak after being in this charger. My advice is to look elsewhere for a charger, I'm checking out the reviews for one myself. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ridiculously useless if you don't change batteries every day </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-10-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just pulled four batteries out of the charger and put them in my camera, and the camera reported that they were dead.  The batteries are brand-new Energizer 2500mAh and the charger is brand-new.  The batteries and charger have worked for about a month or so, no problems.Then why aren't the batteries charged?  The huge gaping problem is, as far as I can tell, NOT that the batteries have suddenly gone bad, but that the charger charges batteries, then stops charging them after a certain time to prevent overcharging, then--THAT'S IT.  From then on the charger does NOTHING, unless you unplug it and plug it back in.  So in other words, once the charger has fully charged the batteries, then the charger in effect very helpfully DRAINS them until they're dead.  If you switch out your batteries every day, then this is not a problem, but if you don't need them for a few days or weeks at a time like me, then you're going to have to deal with the baffling paradox of how it is possible to get dead batteries from a live, plugged-in battery charger.How is this useful?  When you get your batteries out of a charger, you expect them to be fully charged, am I wrong?  The charger apparently doesn't have something called a 'trickle charger', which keeps the batteries at full capacity.  I haven't bought a battery charger in ten years, are you telling me that after all this time, this is still not a standard feature???  That's what I get for expecting technology to improve.Correct me if I'm wrong, people.  Am I using it wrong?  You put batteries in the right way, plug it in, leave it alone, and later you come back and get your freshly charged batteries, right, that is the correct way to operate this complex equipment, right?  There's not more to it than that?  Okay, just checking.My recommendation:  Buy Energizer or Duracell rechargeable batteries with the highest mAh rating you can find, because the batteries themselves are good, then FLING AWAY the included charger, and then buy ANOTHER NiMH charger from another company--one that doesn't even offer a charger without a built-in trickle charging feature. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for travel </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm perplexed at the amount of negative reviews for this charger, as I've owned it for a couple years now and it works great for me.  I use this charger around the house, keeping an eye on it when I'm charging my batteries and unplugging it shortly after it has finished.  I'm not one to leave my charger plugged in all day, so I'm not concerned about overcharging.Where this charger shines is when traveling.  It is lightweight, collapsible, and supports universal voltage.  I haven't found any better charger for an on-the-go lifestyle.PROS:- Lightweight (3.8 oz/108 g)- Collapsible- Supports universal voltage (100v - 240v)- Charges both AA and AAA batteries- Prongs fold in for a compact design- Indicator lights for determining when a battery is charged- CheapCONS:- Charges via a timer instead of a sensor (this is not much of an issue if you check on it from time to time and unplug it when it is finished charging)- Fragile (the lightweight plastic can break upon impact against a hard surface)- Only charges batteries in pairsDue to its compact nature, I always take this charger with me when I travel in order to charge my Eneloop batteries (Sanyo NEW 1500 eneloop 8 Pack AA Ni-MH Pre-Charged Rechargeable Batteries). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Energizer doesn't really charge my mind with this charger </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> This charger is pretty base. Even though it has slits for 4 batteries, you either have to charge 2 AA's or 2 AAA's, 4 AA's, or 4 AAA's, not 2 AA's and 2 AAA's.Another thing is that is an overnight charge. After I purchased this product at a local hardware store on sale, I now wish I had upgraded to the 15 minute charger.It does come with batteries, but the batteries are extremely heavy. They do work in my digital camera, but, they make it significantly heavier.The good thing is that it has a little about 1 inch green light that lights up when the charge is taking place and shuts off when the charge is complete. It even shuts off if it is still plugged into the wall.The charger part slides down to put the batteries in and slides up for easy storing, but, you can't slide that part up when you're charging. To charge an AAA battery, you have to pull down two little switches that make the charging surface go down lower to accomidate the AAA batteries.The plug that you plug into the wall folds up (similar to the charger on the GBA SP, if you know what I mean.) for when you're not using it, so it doesn't get broken or something.Do not get this charger if you are not patient.Last Word:Not for impatient people. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Better than advertised </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I saw many comments that I did not agree with.  This charger works great and I used it with a converter all over europe.I recommend this to anyone needing a battery charger.  I tried others and this one suits me the best. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I love it as my "dumb" charger </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> While most reviewers are correct in that this is a timer based charger and could potentially damage your batteries in the long haul, that is EXACTLY what I needed in this charger. I have several "smart" chargers and battery reconditioners (including the venerable LaCrosse BC1000). Sometimes when a rechargeable gets old and the voltage falls bellow .5V, the smart charger fails to recognize the battery and states the battery is "dead" and refuses to recognize it. These high end chargers have a reconditioning feature that will allow you to resuscitate the battery, buthis the charger displays "null", there isn't anthing you can do with it. In order to "fool" the charger you have to short the battery with a good one, bringing up the voltage to ~.5V on the dead one. I'm not comfortable using my known good battery in this way, so having a "dumb" charger that will charge the battery regardless of its condition is great! I put it in this charger for 5-10 minutes than back into the reconditioner until it can recognize the battery. Using this method, I've salvaged many batteries I would otherwise have had to dispose of. So while I certainly wouldn't want this to be my only charger, it is a valuable tool in my rechargeable battery maintenance tool box. I've also taken it along on trips as the other chargers can be a bit cumbersome. So don't throw this away, keep it and use it with the smart charger you should also purchase. Hope this helps. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Energizer piece of JUNK!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-09-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> This product worked about 3 weeks. Green lite quit functioning almost immediately and sometimes the batteries never get charged or else charger not working at all anymore.Don't waste your money on this one!!!! Spend a little more and try Duracell or another brand. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Good Charger for Casual Use </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-31-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> When I first received this charger, I was at a loss as it comes with no instructions. However, after a brief trip to the energizer website, I found what I needed. This charger is an 8 hour charger. This means it's best for those who have lots of NiMH batteries and sequentially charge, or those who use digital cameras or other high-drain devices only casually. I'm one of the latter.This charger can handle 4 AA or 4 AAA batteries and has an internal timer, so it shuts off when charging is complete. It's also light-weight and compacts to pocket-size for persons who need to minimize space use, or who need to use it while travelling. I travel quite a bit, taking photos with a Canon Powershot A80 (4x AA batteries) it's been with me on every tripMy only complaint is the time taken to charge, but as a casual user, that problem is solved by getting more NiMH batteries so you always have charged backups. In my opinion, a great buy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Why this battery charger is so cheap </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-12-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sold at Sams with 8 AA and 4 AAA batterys.  The clue about how this charger works is in the instruction sheet: "Note: If the unit is unplugged or power is interruped during the charging cycle, the time will start over and run the full charge cycle." and "The charger is designed to charge AA NiMH batteries (maximum capacity of 2500 mAh) and AAA NiMH batteries (maximum capacity of 850 mAh)  For lower rated capacity batteries simply remove the batteries before the charge cycle is complete based on the following charge time."  (table of approriate charge times is listed)In other words this charger doesn't sense overcharge because it only has a timer.  After 8.5 hours the charger turns off.  Period, end of details. Why do you think this Energizer battery charger is so cheap?  Now you know. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Don't waste your money </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-09-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> You are better off buying throwaways than this charger. The Energizer 15 minute charger gets your batteries pretty hot and they don;t last as long as a charger that takes longer, but it's a far better choice than this one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works well for me </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-25-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm a little surprised at all of the low ratings for this charger, I use this changer with my Energizer rechargeable batteries, and have not had any problems. According to other reviewers, this charger doesn't "trickle charge" your batteries after the charge cycle is complete. I don't know if that is true or not, but the way I use this charger, I always unplug it as soon as it is done charging and take the batteries out (and usually, I use them right away).Pros:-Works for both AA and AAA batteries.-Prongs fold in and battery holding area slides up for easy storage.-Indicator lights tell you when batteries are charged (or defective).Cons:-I don't personally have any cons, but others say that this charger doesn't have a sensor for the charge of the battery, and that it works off a timer. I don't know if that is true or not.This is a cheap charger, but I would recommend it, especially for travel, as it is very compact when folded up, and it gets the job done. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What You See Is Not What You Get, </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-09-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> What Amazon.com sends you is the "Compact" Energizer Charger and not the "Overnight" Charger pictured here. The Compact charger charges AA batteries in 4 hours @720 MAH while the overnight charges them in 8 hours @300 MAH. Longer charging time is better for your rechargable batteries as they will last longer this way. I returned mine. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> sad product </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-16-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I can't believe energizer would match this charger to thier batteries!  It will destroy the batteries that it comes with in about four charges.  The 8 hour charge is WAY too long, they COULD have inserted a temperature circuit to cut charge if any of the batteries get too warm.We should send this unit back to energizer with its destroyed batteries. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

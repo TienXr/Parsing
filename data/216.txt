@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00062IENC <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-28-2005  
+<h2> review.text </h2>
+
+ <p> Creativity and excellence flow in abundance in this marvelous stage play filmed live in Los Angeles, with an exuberant, brilliant cast. Written, directed and produced by David E. Talbert, as part of the Soul Theater Series, "The Fabric of a Man" is a romantic comedy with a sparkling, often hilarious script, and lots of music. It has God at its core, the choices we make in life as its theme, and a dash of sauciness, a combination that is a delight, as well as having an honesty that is quite true to life. The plot revolves around Dominique, a strong woman who believes in her own talent and has a passion for her work, and her dilemma in choosing 1 out of the 2 men in her life. Her beau, Blair, a self-centered but successful stock broker, who wants her to put her career on the back burner, and a handsome young man with a good heart and lots of potential. They make her examine what is truly important in life, and discern truth from appearances.The fabulous cast:Tammy Townsend is gorgeous and wonderful as Dominique. Known for her work on television, this is Tammy's debut as a stage actress, and she is impressive.Darrin Dewitt Hensen is Joshua, the young man who works in a dry cleaning store. Darrin is terrific, and is a sculpted, incredible specimen of the human race.Clifton Powers is Blair, Dominique's beau. Clifton's comedic timing and polished performance is a marvel.Orlando Wright is Orlando, Dominique's gay assistant, and he is priceless.Buddy Lewis is Ray, Joshua's boss, who loves the color orange. It's a quirky, very funny part, and Buddy plays it to the max.Kitra Williams is Ernestine, the big woman with an even bigger heart. Her 2nd scene with Ray is a gem!Cedric Ford is Reverend Majors, Dominique's father, who is a lovable, big bear of a guy.Leslie "Big Lez" Segar has a laugh-out-loud scene in the 1st few minutes of the play, and also did some of the choreography.Robbie Lewis wrote the score, with songs by Brent Jones, and the ingenious set design, representing the Fulton Avenue area of Brooklyn, is remarkable. DVD extras include a "Behind the Scenes" featurette, where one can see how the famous shower scene was done, and film commentary by David Talbert, who deserves the highest praise for this superb production. Total running time is 150 minutes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Joy and Delight </p>
+
+
+<h2> review.date </h2>
+  04-19-2011  
+<h2> review.text </h2>
+
+ <p> I enjoy David Talbert, but felt like this one lacked something. Can't put my finger on it though, just something that didn't work for some reason. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as good as I'd hoped . . . </p>
+
+
+<h2> review.date </h2>
+  10-03-2011  
+<h2> review.text </h2>
+
+ <p> Man oh man, the cover is about the best thing this play has going for its self. My advise, wait until it comes to BET. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dont let the cover fool you </p>
+
+
+<h2> review.date </h2>
+  05-08-2008  
+<h2> review.text </h2>
+
+ <p> I once heard "What good is a man in a fancy car, if he ain't going anywhere". Dominique had to decide between Blair the stock broker, aka the man in the fancy car who was so stuck on himself and what SHE could do for him that he couldn't see HER true needs, therefore he wasn't truly going anywhere with her. And then there was Joshua King aka King Joshua, he works at a dry cleaner and working towards becoming a fashion designer. He still in his "training season" but definitely cut from the right fabric. He believes in God, goes to church, and he believes in Dominique, something Blair never did. This play is a true testimony of all that glitter aint gold. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Choice </p>
+
+
+<h2> review.date </h2>
+  08-07-2006  
+<h2> review.text </h2>
+
+ <p> David Talbert delivers a strong message in this play about choosing a mate not based on what they have materially but what material they are made of.  This is something every man and woman should pay attention to.  Dominque is forced to choose between financial substance and spirtual and emotional substance; she initially makes the wrong choice only to discover that the man she has may not be the man she needs.  The character of Joshua is the type of man any woman waiting on God to send "the man" is dreaming of.  This was a great play, with good acting and even better singing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Message Worth Watching!!!!! </p>
+
+
+<h2> review.date </h2>
+  09-15-2005  
+<h2> review.text </h2>
+
+ <p> The Fabric of a Man is one of David Talbert's best musical stage plays. It's the story of Dominique (Tammy Townsend - Family Matters, she played Eddie's girlfriend Greta), an up and coming fashion designer who thinks she is in love with Blair Godfrey (Clifton Powell), a self-centered stockbroker who wishes she'd focus less on her career and more on him.  Her father is a minister and she has stopped going to church to concentrate on her career and boyfriend.  Even though everyone tells her he is no good for her, she makes excuses for his behavior.Dominique's employee (Buddy Lewis)forgot to take the dry cleaning to the cleaners and her regular cleaners is closed, she accidentally stumbles into an old-school dry cleaner, where she meets Joshua King (Darren DeWitt Henson - Soul Food), who has similar career goals.  Joshua is a devout christian who doesn't make a move without God, their first date was dinner and church.Dominique can't make up her mind about who's better for her, Blair who represents finance or Joshua who will give her the best of both worlds; love and a chance to explore her career goals.  Dominique is forced to decide which man/fabric wears best on her. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excitement and Spritual Enlightment! </p>
+
+
+<h2> review.date </h2>
+  01-29-2011  
+<h2> review.text </h2>
+
+ <p> One of best plays in a long time, would highly recommend it too complete your collection,everything from writing to acting was excellent, delivery was excellent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  11-24-2006  
+<h2> review.text </h2>
+
+ <p> Excellent play that i can relate to.  Not overly romantic but a great story of a selfish man who does not care to see woman to succeed.  This is not a meatless play. One really gets into it. It was well directed. The play shows us many aspects of the main characters life and (family, hopes, and job)and had a great morale about what really makes a man. I suggest you rent it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great stage play </p>
+
+
+<h2> review.date </h2>
+  12-06-2009  
+<h2> review.text </h2>
+
+ <p> David Talbert does a great job with the plot of this play. It begins and ends with well played parts and dialog. The point is well performed. I can watch it over and over again and never get bored with watching it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I really enjoyed  it... </p>
+
+
+<h2> review.date </h2>
+  05-20-2014  
+<h2> review.text </h2>
+
+ <p> yes, this was good story and about some positive information on being a man who interacts with others beside himself.Sometimes it is a matter of time and space and who happens to be in their circle when the change comes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Men </p>
+
+
+<h2> review.date </h2>
+  08-25-2013  
+<h2> review.text </h2>
+
+ <p> I love this screenplay keeps you laughing and cring at the same time. I watch this DVD a lot. Love the cast members </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it </p>
+
+
+<h2> review.date </h2>
+  02-27-2012  
+<h2> review.text </h2>
+
+ <p> This is one movie that beyond a shout of doubt will kep the ladies laughing and the men quessing. Watching this movie reminds of the fact you have be careful who you choose to get invloved with for it can be very detrimental to your health. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> David E. Talbert's The Fabric of a Man </p>
+
+
+<h2> review.date </h2>
+  03-22-2014  
+<h2> review.text </h2>
+
+ <p> I enjoy it, kind of long but the msge gotten across. Don't regret the purchase n highly recommend it, thanks </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fabric </p>
+
+
+<h2> review.date </h2>
+  12-20-2006  
+<h2> review.text </h2>
+
+ <p> This stage play originally starred Shemar Moore of Criminal Minds, Birds of Prey, The Young and the Restless, the Alaye calendar series.Darrin DeWitt Henson does a pretty good job of carrying his own, but the play is so rife with stereotypes that I give it 3 stars because of Henson and Mari Morrow, who is so underrated. See her in Divas with Khalil Kain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Fabric of a Man </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> I love this play: David E. Talbert is a great writer ! Thank you ,for allowing me to add this stage play to my collection. Love it ,love it!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love the fabric of a man!!! </p>
+
+
+<h2> review.date </h2>
+  03-21-2014  
+<h2> review.text </h2>
+
+ <p> I am lost for words, once again, another Play David that was a disapointment, Davis I know you can do BETTER than this, I am waiting for Love on Layaway, I just pray that it is worth waiting for </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lost for Words. </p>
+
+
+<h2> review.date </h2>
+  11-30-2013  
+<h2> review.text </h2>
+
+ <p> One of my favorite Davie E. Talbert's plays! I use to watch this play daily at night and it comforted me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Understanding the difference between a good man & a better man for you! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

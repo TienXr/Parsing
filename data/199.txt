@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000068TOX <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-05-2005  
+<h2> review.text </h2>
+
+ <p> this is it! there is no other dvd! this one has it all ozzy on vocals and a kickass band playing with him!all of the lower reviews youll find as you delve deeper into reading them ARE WRONG! the band is terrific they play with tons of energy and seem to really enjoy what theyre doing.ozzy may have aged a bit but hes still got it,zakk is precise and energetic in his playing zakk uses alot of emotion you can see it seeing as how he uses emotional facial expressions and opens his mouth when he executes string bends(watch to see),rob the bassist is awesome, and mike the drummer is fantastic.the band plays the songs EXTREMELY well from start to finish all the way to the end and each member does it with tons of energy. my favorite song is bark at the moon.zakks 7 minute solo at the end of suicide solution is awesomeit REALLY shows his talent he even plays with his teeth.watching zakk in this video makes me wanna learn to play guitar he really is fantastic.the only complaint I can think of is during the osbournes in japan episode they didnt speak alot with the band it mostly focused on ozzys spoiled kids but beside that its great. the camera is even awesome.this dvd is the best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> absolutely awesome,AMAZING!!! </p>
+
+
+<h2> review.date </h2>
+  01-17-2003  
+<h2> review.text </h2>
+
+ <p> OZZY OSBOURNE'S LIVE AT Budokan is a great live DVD. The picture and sound is excellent. There should have been more on the setlist. The features are normal to me for a concert DVD. I enjoyed The Osbournes short, the weird about it was it wasn't censored. Overall this is a great concert DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This Is A Great Live DVD But There Should Have Been More. </p>
+
+
+<h2> review.date </h2>
+  01-07-2010  
+<h2> review.text </h2>
+
+ <p> Great concert dvd. Video was well put together. If you like Ozzy, you will love this concert dvd, it's damn good. I have watched it three times in less than two months. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ozzy rocks !! </p>
+
+
+<h2> review.date </h2>
+  02-04-2003  
+<h2> review.text </h2>
+
+ <p> Run of the mill live ozzy.  Although better than live and loud, we've seen it, heard it all before. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another live ozzy Concert... </p>
+
+
+<h2> review.date </h2>
+  07-17-2002  
+<h2> review.text </h2>
+
+ <p> Wow what a great dvd...I had to wait weeks for it on special order because Ozzy is so hugely popular right now (I, however, have been a diehard fan for 20 years so no bandwagon jumping for me).  Zakk Wylde just explodes all over this DVD...the guitar solo after "Suicide Solution" is great.  It's pretty cool to hear him play the star spangled banner in his solo(In front of a non-american audience no less) as well as a very brief snippet of Van Halen's "Eruption"... I would have prefered seeing an American audience on this dvd (no disrespect intended).  The behind the scenes footage is basically an episode of The Osbournes only it's them walking the streets of Japan.  Ozzy still mumbles on this one too and his daughter still dresses weird(listen to Jack's short tirade about that while they are outside waiting for a ride. ha ha).  I must have for any Ozzy fan, as well as his "Don't Blame Me" DVD. I think he should've added his biggest hit "Shot In The Dark" but I guess you got to cut stuff somewhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Part concert, Part "Osbournes" TV show </p>
+
+
+<h2> review.date </h2>
+  10-05-2008  
+<h2> review.text </h2>
+
+ <p> Both the performances and the DVD let this down. Oz fans should get Live & Loud instead.Sherlock Holmes and the Flying Zombie Death Monkeys </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as good as it should be </p>
+
+
+<h2> review.date </h2>
+  06-06-2013  
+<h2> review.text </h2>
+
+ <p> this show has a lot of his classics, and a bit of the newer stuff as well but doesn't have really any do do songs. so you'll enjoy it. lol </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good show </p>
+
+
+<h2> review.date </h2>
+  07-18-2002  
+<h2> review.text </h2>
+
+ <p> I own alot of live videos, stuff like Led Zeppelin, Woodstock, Pearl Jam, but this one may be my favorite.  I had heard the live and loud video was not very good, so I got this.  If you've never heard Ozzy live, I would recommend buying this.  It's unbelievable.  Even the new songs(Junkie, Gets Me Through), which I previously didn't care for, are much better live, and I love them now.  If you love Zakk's work, and you want to see how he does some of his amazing solos(and fills!!!) you should definitely buy this, THe shots of Zakk playing are really good.  Mike Bordin is a great drummer, and they show him well too.  It's always fun to watch Ozzy, who can deny that?  The Osbournes in Japan part is pretty funny too.  So, I would recommend buying this along with the "Live & Loud" cd, since the live at budokan cd isnt nearly as good as the video. Ozzy rules live! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing live video </p>
+
+
+<h2> review.date </h2>
+  09-16-2012  
+<h2> review.text </h2>
+
+ <p> Is this concert for Budokan better than the Ultimate Sin Tour that he did with Brad Gilis of NightRanger fame back in 1986 that was recently officially released on DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> In your opinion: </p>
+
+
+<h2> review.date </h2>
+  08-19-2004  
+<h2> review.text </h2>
+
+ <p> The singing sucks on most songs and Zack Wylde successfully ruined every song with his cheap guitar 'ehhhhh" twang instead of playing half the riffs.  Most of the songs were unidentifiable and the guitar playing and singing were so poor.  Skip this save your money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Horrible. </p>
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> had got to replace one i had when we moved it got lost and i love this dvd and great price </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ozzy </p>
+
+
+<h2> review.date </h2>
+  05-01-2004  
+<h2> review.text </h2>
+
+ <p> This is a great concert that Ozzy did in Japan. He and the band plays very well, the cameras just show Ozzy and the not any overused crowd footage like they did in Live And Loud. However, the song selection was not exactly great. They should have done some stuff from the Ultimate Sin and No Rest For The Wicked, two of Ozzy's best albums. That is what keeps this from being a five star concert. It's all very good though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great concert by the Godfather of Metal </p>
+
+
+<h2> review.date </h2>
+  01-10-2005  
+<h2> review.text </h2>
+
+ <p> This DVD is just good value. I have been an Ozzy fan since No More Tears mainly because I thought Zak Wyldes  sound was innovative and fresh, given at the time, pop metal and floyd rose tremelos were being done to death. Not sure what all the spitting is about though. Wouldnt want to be a roadie and pick up some foldback speaker Zak had laid one on. Maybe that mass of facial and head heir just keeps getting on and in his mouth. I guess there arent too many guitar heroes with a hair lip.Ozzy is just a legend. If you like his music, you cant deny you've watched some of the Osbournes reality TV show out of interest. So, to his credit, Im amazed this middle aged pom who generally wouldnt know if his pants were on backwards, can still sing in tune and jump around the stage for an hour. (although some of his jumping/clapping antics etc was a little out of time)The footage was really good, the sound wasnt compromised at all by it being live and it was good to see a concert without the hype of stage effects. Just good old music selling itself.There were some extras on the DVD which was OK. A bit too much time spent on Ozzy's bratty kids who I couldnt care less about. If I wanted to watch the antics of a couple of spoilt teenagers I'd hire a Dawsons Creek DVD. Couldve devoted a lot more time instead to the other band members or road/tech crew who work with Ozzy, not just have their credit card bills paid by him.Only real criticism about the concert is the set list. Whilst all the songs were good, would've liked a few off no Rest for the Wicked, but thats just a personal preference.Anyway, just a good value DVD. You'll definitely watch it more than once. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Value </p>
+
+
+<h2> review.date </h2>
+  01-13-2014  
+<h2> review.text </h2>
+
+ <p> DVD arrived early & there are no complaints about the content as I am an Ozzy fan!  I have several more Ozzy Osbourne type videos and have no complaints about any of them! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ozzy Osbourne - Live at Budokan </p>
+
+
+<h2> review.date </h2>
+  11-07-2006  
+<h2> review.text </h2>
+
+ <p> Yes, Ozzy is OLD but he is in fine form here.  I've been going to Ozzy shows for 30 years and he's always walked around like he was 60 years old and his banter has not changed in all that time!  The review by A Vega cracks me up and is mostly accurate - but it's all what you want to get out of watching a peformance.  Zakk Wylde is one of the greatest heavy metal players to walk the earth, spitting habits included.  The band is tight during this show, and it really is some of Zakk's best stuff - keeping in mind that an Ozzy show is supposed to be antic and frantic!  Just enjoy - very likely this is Ozzy's last, great performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A solid performance </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> This is one of the best live shows ever. I love Ozzy and Zakk and Zakk's tone is killer in this recording. He plays all the classics and doesn't skimp on fills and pinch harmonics during the entire thing. If you love Ozzy, this is the best live show you can listen too. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ozzy - Live at Budokan </p>
+
+
+<h2> review.date </h2>
+  07-31-2002  
+<h2> review.text </h2>
+
+ <p> This dvd rocks.I admit, I hestitated to buy it at first because I was afraid it might be just another case of a classic older rocker filming a sub-par show that looks and sounds great technically, but has a tired performance.  Too many bands like Yes and Deep Purple are still touring but just don't hit it anymore in concert.  I could only hope that Ozzy still rocked, and live up to the legend he built, and still pack a quality punch live, the way that The Who or Roger Waters or Fleetwood Mac still do on their newer dvd's.  So I bought the "Ozzy Live At Budokan" disc, and popped it in, and...  and...  and...OZZY ROCKS HARD!From the opening seconds, with the crowd going wild and Ozzy shouting "Let's Go ... CRAZY!!" there is not a weak moment to be seen.  Ozzy's band is spot-on, and they launch into great versions of "I Don't Know" and "Mr. Crowley" and "Crazy Train" respectfully keeping Randy Rhoads' guitar leads in tact.  The new hit, "Gets Me Through" is there, along with an encore of "Paranoid" from Ozzy's Black Sabbath Days.Having watched all of MTV's "The Osbornes" and seeing how confused and lumbering the Ozz-man could be at times, I was totally impressed by his live energy, his vocal range, and his timing.  He sounds just like he did in younger days, and belts it out like a pro, never missing a beat.  Interestingly enough, Ozzy is NEVER out of breath while running around and singing (unlike young pop-stars Britney Spears or Christina Aguilera who sound far more winded when they try to move and sing at the same time!) and just as importantly, Ozzy RULES the crowd at this show.  I love watching him dump water on the front row or the camera-man, or yelling that the Budokan crowd is not going crazy enough.  He is obviously having a blast, and his band is too, and it is great to finally SEE what the Budokan auditorium looks like at last.  I wondered about that since Cheap Trick's days!Bonus features include "The Osbournes in Japan", shopping and eating, and having their usual argumentative brand of fun---it is like a lost episode of the Osbournes.Get this dvd, turn it up, and enjoy!  --mf </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Concert Captured! </p>
+
+
+<h2> review.date </h2>
+  10-25-2004  
+<h2> review.text </h2>
+
+ <p> this dvds great it has unreal sound quality better than any dvd i own ozzys voice was the best its been in years and zak wyldes guitars even better than the past the japanese crowds great doing whatever ozzy asks it also has a bonus ozzbournes in japan episode on the dvd buy this dvd its 1 of ozzys best liveshows in years and beats most modern metal easily </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ozzy at his best </p>
+
+
+<h2> review.date </h2>
+  08-13-2013  
+<h2> review.text </h2>
+
+ <p> Always liked Ozzy and went to a couple of his concerts in the early 80s, but while Jake E Lee was pretty damn good, Zak Wylde is STUPID good.....almost too busy with his licks....but Ozzy never fails to amaze...how a guy that looks that decrepit and speaks almost incomprehensibly can sing flawlessly after all this time(realize this show is several years old).....well worth the price, and a great addition to my collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW!!!!.....Awesome show!! </p>
+
+
+<h2> review.date </h2>
+  01-05-2003  
+<h2> review.text </h2>
+
+ <p> THIS DVD IS PROBALLY THE BEST IVE SEEN AND BOUGHT YET IT DIDNT DISAPPOINT ME AFTER I HAD WATCHED IT .PLUS THE EXTRA EPISODE OF THE OSBOURNES IN JAPAN WAS AWESOME .OZZYS PERFORMANCE ON THIS DVD CAPTURES HOW HE STILL HAS THE CAPABILITIES OF KICKING ALL THESE NEW ACTS SQUARE IN THE [REAR END].IVE SEEN HIM LIVE AT OZZFEST NUMEROUS OF TIMES AND IF YOU HAVENT SEEN OZZY LIVE IN PERSON I DO RECCOMMEND YOU TO BUY THIS DVD RIGHT HERE .ITS WELL WORTH THE PRICE ....I DO ALSO RECOMMEND YOU ALSO TO BUY THE UNCENSORED VERSION OF THE  LIVE AT THE BUDAKAN AUDIO CD ASWELL !!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THE PRINCE OF DARKNESS AT HIS BEST </p>
+
+
+<h2> review.date </h2>
+  10-21-2002  
+<h2> review.text </h2>
+
+ <p> Totally excellent DVD. The Bonus Material is fascinating. The set list is great, but OZZY is slightly toned down in this show. At the Very Least Check out the LAST SUPPER dvd, and LIVE AND LOUD ( And if you can get it, the French Documentary of SABBATH shows Ozzy in peak as additional comparison )for a more hyper Ozzy as comparison, but overall great Ozzy performance. Zakk Wylde is Great... by no stretch of the imagination would I call Zakk a Speed metal guitarist, since Zakk is Brilliant, and tonally Awesome. The Edit of the Show is great as well. This is Ozzy's show, and Zakk gets plenty of Screen time during his Hyper-bolic solo of awesome proportions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OZZY LIVE IN JAPAN </p>
+
+
+<h2> review.date </h2>
+  08-15-2005  
+<h2> review.text </h2>
+
+ <p> Ozzy is better with Sabbath (get &quot;The Last Supper&quot;). Still has to use a teleprompter for his words, but, whatever.Zak Wylde is what makes this DVD.. HOWEVER... His infuriating spitting is gross. Why oh why must he clear his mucous and cover the floor and everyone else with his bacteria infested spittle!!?(Yes, everyone has some bacteria in their mouths, do your research). Drink some water or suck on a tic tac for Gods sake Zak!! If you can avoid seeing his spitting, you will be rewarded with seeing  and hearing his effortless, but aggressive guitar playing on my favorite axe, the Gibson Les Paul.Its interesting to see Robert Trujillo on bass, as he is now with Metallica.The Japanese audience is a little out of their league here (no offence) and it is a bit surreal to watch them respond to heavy metal.Ozzy standards played here. If you like Bark at the Moon, Crazy Train, No More Tears etc you will be pleased with their treatment here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Prettty Decent.... </p>
+
+
+<h2> review.date </h2>
+  03-14-2003  
+<h2> review.text </h2>
+
+ <p> As mentioned by a small handful on here, I think Ozzy is definitely showing his age, and I don&#65533;t just mean his looks. Dunno if it was all that drug use in his day, or what, but he shakes, and does have trouble with some of the songs. He has the physical characteristics of someone who has Parkinson&#65533;s disease. He also has to fixate on a teleprompter for lyrics (not that that&#65533;s a bad thing, because after that many albums it is hard to remember all those lyrics) but everything overall is showing a slower, weaker Ozzy (just watch the Osbounes and how he holds his arm up when he walks, and has a scuffled walk). He is definitely not as intimidating as he once was. I still love Ozzy, and there is still very few performers that can match this man. He has one of the best voices in music, and this is probably the best live show your going to see from him on DVD. My only other complaints (reason for the 3 stars) is there is not a lot of energy in this show, I don&#65533;t mean with just ozzy, zakk also! The audience is the worst ever, maybe there is a cultural difference, who knows, but this isn&#65533;t the most lively crowd in the world. No stage props, no pyrotechnics, only really fancy thing is zakks solo, no fancy lighting. Although I always give credit to a no B.S. concert, and this is one of them, just in your face music, nothing else. I own it, but haven&#65533;t watched it much since the initial watch: another reason for the stars. Not saying its bad, I think its just ok, that&#65533;s all </p>
+
+
+<h2> review.summary </h2>
+
+ <p> enjoyable, but... </p>
+
+
+<h2> review.date </h2>
+  05-08-2007  
+<h2> review.text </h2>
+
+ <p> Closing in on 60, Ozzy was in his mid-50s during the 2002 recording of Live at Budokan. You'd never know it by watching his performance on this DVD.It's absolutely amazing that these days when you hear Ozzy speak he sounds as if he just smoked a dooby after 13 Cuervo shots (but supposedly he's been clean for years). Although when he sings he still sounds as good today as he did 30 years ago.The line-up of the band for the show on Live at Budokan is: Ozzy Osbourne, Zakk Wylde (Guitar), Robert Trujillo (Bass), Mike Bordin (Drums) and--hidden off stage the entire show--John Sinclair (Keyboard). All of the guys in the band prior to hitting the stage must have huddled and committed to each other to go out and play the music true to the studio versions of the songs. All of the tracks on Live at Budokan are performed with careful detail and a lot of energy.Throughout the show, Ozzy acts just like you'd think he would (if you're familiar with his other DVDs or have ever been to one of his shows): summing it up...he's one of the iconic rock performers of our time. He acts like he's nuts. He rocks out. He runs (saunters) all over the stage....But the whole time he never skips a beat.And Zakk Wylde? Man...this guy is nothing short of phenomenal. To most of the general public if you say, "Eddie Van Halen," everyone knows who you're talking about. If you say, "Zakk Wylde," everyone usually goes, "Who?" Zakk Wylde is one of the best...no wait...is THE best hard rock guitarist on the circuit today. His riffs are heavy and melodic and his solos are complex and precise. He definitely brings his guitar playing talent to his live shows.Trujillo and Bordin back Ozzy and Zakk with talent and classic hard rock showmanship.The picture is full frame on Live at Budokan which kinda stinks, but the audio gives you the choice of stereo or Dolby 5.1; the 5.1 mode is clear and crisp.To me, the biggest negative in almost every Ozzy show that I've seen (and I've seen a lot) is his setlist choices. It seems that he always throws in those songs that were either deep on a release or simply just not the best choices. Here's the setlist for Live at Budokan with my suggestion for replacement (of seven songs) in parenthesis for their next DVD:- I Don't Know- That I Never had (I'd replace with Perry Mason)- Believer (I'd replace with Sabbath Bloody Sabbath)- Junkie (I'd replace with Miracle Man)- Mr. Crowley- Gets Me Through (I'd replace with I Just Want You)- Suicide Solution- No More Tears- I Don't Want to Change the World (I'd replace with Shot in the Dark)- Road to Nowhere (I'd replace with Over the Mountain)- Crazy Train- Mama, I'm Coming Home- Bark at the Moon- Paranoid (I'd replace with Sweet Leaf)I know...a true fan wants the deep cuts; a true fan wouldn't tell Ozzy what to do; etc, etc, etc....Crazy...but that's how it goes.While Live at Budokan is Ozzy's best DVD in terms of quality to date, I'm hoping that with the 2007 release of a new CD called Black Rain, perhaps Ozzy will give us a 2007 or 2008 hi-def, widescreen picture DVD upgrade (with, of course, Dolby and/or DTS sound). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Never Too Old To Rock & Roll </p>
+
+
+<h2> review.date </h2>
+  06-27-2011  
+<h2> review.text </h2>
+
+ <p> I am a hardcore OZZY fan. Played every Sabbath cover while learning my guitar and still play it in my band. I have literally every CD of his till date. The concert content is great, however the extras was nothing more than the Osbournes. I dont know why on earth would a great music concert like this be supplemented with dumb footage from the life of the osbournes. I guess becasue Sharon Osbourne is the producer. The DVD has no loop back to main menu after the sections end, it goes right to the Federal warning (some noob created this DVD). The closing credits scroll within 2 seconds of the last song Paranoid -- I would have guessed that as a mark of respect, you will allow the musicians to take a bow, blow kisses to the crowd, see some stage comaradere and then walk off into the darkness backstage before you start scrolling the credits -- but this really disappointed me, its as if they were running out of disc space. The only thing I felt really pissed about the concert is OZZY's repeated profanity on stage after every song and Zakk's constant volcanic spitting - Agreed that he is what he is, but if they could have just bleeped it, I would let my 10 year old nephew watch it. No DVD liners or paraphernalia that you would expect out of a DVD of such artist. I would have given this a 4 is not for the un-friendly parts and a 5 if only they had some good rehearsal footage and some interviews with the band members. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ozzy and his concert are great but the DVD is not </p>
+
+
+<h2> review.date </h2>
+  09-08-2009  
+<h2> review.text </h2>
+
+ <p> This DVD is simply "ozzy as usual".  It has great quality and Ozzy rocks as always.  If you like Ozzy you will want to add this to your Ozzy collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simply Ozzy </p>
+
+
+<h2> review.date </h2>
+  08-06-2003  
+<h2> review.text </h2>
+
+ <p> I just saw this DVD for the first time. It was very interesting to see for me, being a Japanese who grew up in America more than half of my life. Let me say this, Ozzy and his band is so sweet, kind, and patient with Japanese audience. Japanese audience are just being Japanese. To behave well in public, and not to make fool out of your self. You can see how much of a difference in culture between the East (intellectual) and the West (emotional). To Japanese people Rock concert is a place to go "see",  and to 'listen". To Western people Rock concert is a place to join with the band, and express themselves without feeing embarrassed, or be self conscious. Also, it would have really helped if Japanese people understood ENGLISH! They had no idea What Ozzy was saying! Almost as if Ozzy was too overwhelming for Oriental/Japanese culture, I know people over there love Ozzy, and admire his music, talent and performance in every way.Budokkan (Martial Arts Hall) was never meant for rock concert exhibition until The Beatles broke that rule!, and it has became "Rock 'n Roll Hall" ever since then. and the name of the Hall has became quite well known place. We have quite few good Western Ozzy concert films. So, it was nice to see him "visit" this Rock 'n Roll Hall of East anyways. The quality of this film is very good. The sound is superior, and view is fantastic. Only I wish Zakk would quit spitting on the stage so much! I feel sorry for whoever had to clean it up after!  (being very Japanese here). If you like ozzy, why don't you have it all !!!? I would also recommend CD of this version. May be better that way for Western audience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> East meets the CRAZY west!!! </p>
+
+
+<h2> review.date </h2>
+  02-16-2010  
+<h2> review.text </h2>
+
+ <p> Best Ozzy live production. Song selection is predominately the songs from the Randy Rhoads years. What can a guitar fan say other than Zakk Wylde just demolishes and shreds the songs up like nobody's business. The production work is exceptional; great views of the band on stage from the side, as well as their view looking out. The japanese crowd is funny to watch, as they view the maniacal spectacle that Ozzy is, in all his cartoon glory. (let's all pretend we didn't see his teleprompter with the lyrics). His vocals sound exactly like the record, and the rhythm section fauturing Mike Bordin is very tight. One of the better metal concert DVDs out there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ozzy live from Budokan </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0093YV4R2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> I was really excited when I saw this for $350. I've wanted an LED TV for a while and could finally afford one. Performance is just OK. pix-elates during bright flashes on the screen. Also color washes out at greater than 30 degree angle, can still see picture just looks like its in a bright fog. Head on though the picture quality is excellent, and the features are pretty good. One thing that I was really disappointed in is that I have a wii for the wife and kids and this does not have the standard coax input you need the HD connectors. From what I've seen with those it's hit and miss on quality and picture so I'm hoping the one I've ordered will be good. All in all I think it is well worth the price, but definitely not the best out there. If I would've had more to spend I might have tried the TCL 48&#34; LED or gotten another Vizio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad, good for the price </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> I was searching for an easy to use HDTV for my 90 year-old grandmother and I am happy I went with this RCA 42-inch 1080p 60Hz LED HDTV. Setup was very easy and the remote is simple to use.Does come with two HDMI, PC, USB port and AV inputs for individuals who wish to connect more components and devices. Displays beautiful vivid colors that are crisp and vibrant. Sound quality is produced from two 8 watt speakers that sound clear and not muffled. Ultra thin and weighs less than 40 pounds. The swivel stand is an added bonus since must table top stands do not move.Great value for the money and highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Affordable Quality 42" HDTV </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> I was skeptical because I feel like I got such a bargain TV, but I love it. Although we were upgrading from watching TV on our computer monitors. We don't subscribe to cable, we just watch a few shows we like on Hulu. The picture is fantastic, size is nice, sound is acceptable. The price is so low, it's perfect for  3rd, 4th, or 5th TV in the house. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inexpensive TV, totally worth it. </p>
+
+
+<h2> review.date </h2>
+  12-23-2013  
+<h2> review.text </h2>
+
+ <p> This TV is a nice set for the price. No complaint on the sound or the clarity of the picture. There is no way to determine if it is reliable since we have only had it a month. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice buy </p>
+
+
+<h2> review.date </h2>
+  12-04-2013  
+<h2> review.text </h2>
+
+ <p> A Quality TV for a decent price, nice clear picture, crisp sound. A very nice basic HD TV for a reasonable price. Be aware if you have older accessories that this TV only has One set of composite hookups. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> RCA LED HDTV </p>
+
+
+<h2> review.date </h2>
+  02-26-2013  
+<h2> review.text </h2>
+
+ <p> TV came fast, as noted in the online tracking feature, installed easy BUT the documentation for the TV was sort of sparse.  The RCA web site offered a download of a better user manual but it was for an older, outmoded TV of the same model. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> RCA 42 inch HDTV </p>
+
+
+<h2> review.date </h2>
+  03-19-2013  
+<h2> review.text </h2>
+
+ <p> An excellent price for a reasonably good TV.  It serves my personal needs adequately.  It certainly does not have &#34;instant on&#34; feature, but I am happy with the value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LED TV </p>
+
+
+<h2> review.date </h2>
+  11-15-2013  
+<h2> review.text </h2>
+
+ <p> Bought this tv back in February, but didn't receive it until March, as I do not live in the US. Anyhow, I hooked it up as I received it, and I turned it on and I was instantly in love with it!!! It's no VIZIO or Sharp or Samsung, etc., but it was in my budget range and I was absolutely thrilled about it!! Got it on sale for $350 + tax. I was a bit skeptical at first because of the contrast ratio and the low output from the speakers, but it was pretty much the best tv I could find and afford that was in my price range. I have NO REGRETS whatsoever about purchasing this tv!!!I hooked it up to my desktop via HDMI and ran some music videos and movies both in 720p & 1080p and I was just blown away! Stunning graphics!! I was surprised at the performance, given the fact that the contrast ratio is only 4000:1 and that the refresh rate is only 60Hz. Just a few pros and cons about it, but other than that, it's a wonderful television.Pros: Thin, not bulky like some older flat screensGreat picture quality42&#34; LED screenSturdy glass table stand with rubber gripsCons: 8W speakers don't deliver good bass (easily fixed with home theater system)60Hz refresh rate4000:1 contrast ratioOnly 2 HDMI portsNo VGA input for computers (only matters if you don't have HDMI port on computer)USB port only plays music or shows picturesWell, that's pretty much it. I've had it up and running since March 2013 and it hasn't given me any problems as yet!!! No LED bleeding or anything!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great T.V. for a GREAT price! </p>
+
+
+<h2> review.date </h2>
+  02-26-2013  
+<h2> review.text </h2>
+
+ <p> I found myself needing a new HD monitor for a new video editing system.  I was very skeptical because of the price.  When I found it, it was like $315 .  But with the amazon incredible return policy, I figured , go for  it.  I'm sure glad I did.  This thing rocks.  This was an incredible deal and delived free in two days.  Life is good! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a deal! </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> I set this up and started learning how to use it along with XBMC and in about 2 hours, the display got sort of overcast with a shadow in a rectangle about 2/3 of the way across and about 2/3 of the way vertically.  The cursor would move over that area with a comet like tail and you could see through to realize what was behind.  I tried to return the unit but they wanted me to pay freight and I disputed it.  The vendor would not authorize a prepaid return and I still have the thing in a box in the living room.  Amazon backed up my money problem and I don't know what to do with a non-working monster like this.  I hope they sort this out and get it out of my house. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It took less than 2 hours to fail. </p>
+
+
+<h2> review.date </h2>
+  02-09-2013  
+<h2> review.text </h2>
+
+ <p> So many sets have a green push to them, especially in the dark areas.  This set has that big time, but offers no advanced settings to correct for it.  If I could find a service menu I could probably fix it, but no luck finding one online.It's a good set at a good price, but the picture is too green.  Also there is "banding" (where color gradients become distinct lines).Just not a great set, but it will do.  Good blacks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I dub it "the green machine" </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> I have owned this TV for about a week and am very happy with the purchase.  It suffers from some typical LED issues, but not bad enough for me to return it.  There is some backlight bleed-through at the corners of the TV, which is noticeable during dark scenes.  It's not bad enough to bother me though.  This is a bedroom TV for me and I do not game on it so I can't comment on gaming lag.  I assume it is pretty bad with a 60Hz refresh rate.  Although, I haven't noticed any serious lag watching sporting events.  Out of the box, the video settings aren't terrible, although I definitely recommend making a couple changes if you don't plan to do a proper calibration.  I wound up turning all the "features" off in the advanced video menu, turning the sharpness completely off, and setting the color temp to standard.  One other thing I'll mention is that HDMI from a FiOS Motorola STB is not working (tested 3 different HDMI cables).  I had to connect using component.  I should also mention that I had the same issue with my previous TV - a Panasonic plasma.  So I am starting to think the weak link is the STB.  The component feed looks great though, so other than having 5 cables instead of 1, there's no issue here.  I got this TV on special on Amazon for just over three hundred bucks.  If it hits that price again, jump on it.  It's worth it in my opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good TV. It's only limited by typical LED issues. </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> This is a really good TV, but the audion leaves alot to be desired. Also i have a problem with only having 2 HDMI inputs. i have to keep unpluging one thing to run the other. The picture is great though, and like the TV alot. I do have a surround sound hooked up to the TV, but with out that hooked up, The sound is crappie. Over all i give this tv 4 stars out of 5. For the price you can't beat it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Tv, not so good audio. </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> I love this TV. I bought it on amazon when it was a gold box deal for $300. For a 42'' TV I am very impressed. It has a great picture and good sound.This TV lacks an AV cable port (the red, white, and yellow), so you will have to use either an HD cord or composite cables when connecting an external device such as you DVD player or game console. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great tv </p>
+
+
+<h2> review.date </h2>
+  01-26-2013  
+<h2> review.text </h2>
+
+ <p> This is a good looking unit, and the sound quality was acceptable. It played well until I changed channels or when a channel was not on an HD channel. We noticed a shadow on the bottom, right and left side of the screen. The shadow (kind of egg shell color) looked a bit like a 'burn-in' (like when a monitor has been left on and you can still see an image when it was off). The shadow on this unit was not noticeable when the unit was off. The shadow was especially noticeable when the screen or picture was on dark or black areas of the picture. The sticker says the unit was manufactured December 2012, and I purchased it January 25, 2013. Maybe I got one out of thousand that RCA had built that was not one of their best units. There are other good reviews, but I'm not one of the good reviewers of this particular unit. The Amazon associate was helpful with the return of this item. I plan to purchase another TV from Amazon, just not another RCA unit.Update, February 18, 2013:Since writing reviews on the RCA 42 and 46 inch TV's I have been in contact with Amazon and a RCA tech representatives. I'm not sure I understand the "backlight" that is seen, but I will add a link to what may assist in what I consider an ignoring view. The Amazon tech had not experience what I described to him, and the RCA tech had no clue but did agree to send out a tech (which I'll probably cancel later). From speaking with the techs, I have concluded that the new LED TV's, at least an RCA, is this is the "new normal" now. The shadow 'may be' the backlight that is seen on the screen and this should not affect the actual picture quality. However, new normal or not is ignoring to me. The link that might help to explain this is:[...]Good luck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not what I expected </p>
+
+
+<h2> review.date </h2>
+  04-13-2013  
+<h2> review.text </h2>
+
+ <p> a very good tv, picture seems on par with Sony and Panasonic at a lower price point. Works flawlessly, nice size remote. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good deal </p>
+
+
+<h2> review.date </h2>
+  03-06-2013  
+<h2> review.text </h2>
+
+ <p> Great picture, bright and clear with brilliant color and even fairly decent sound, for a flat screen.  Still considering speakers, but its a bedroom set so big sound is not so important. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> I liked this TV because the price was very chip and good brand. In general because is not a expensive tv </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Choice </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> My trusty plasma went out after almost eight years of service. Rather than spend three hundred to fix it, I bought this TV for four and am happy with my purchase. Setup was a breeze and the unit delivers a nice, crisp picture. It doesn't have bells and whistles like web connectivity, but I don't supposed you'd expect that at this price point. I love that the inputs are on the side rather than on the back like my old set; it makes them so much easier to access. The only real gripe I have about this TV is about the speakers. I found them very weak and hollow sounding, and ended up investing in a sound bar. With that one caveat, I'd definitely recommend this set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good buy for the money </p>
+
+
+<h2> review.date </h2>
+  11-28-2013  
+<h2> review.text </h2>
+
+ <p> We have this on the wall in our master bedroom.  The only strange thing was that our wall hanging kit, which is &#34;standard&#34; called for the holes to be in different locations So I have it hooked solely in the middle and not on the extensions, if that makes sense.  But it appears to be working okay </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for bedroom </p>
+
+
+<h2> review.date </h2>
+  02-19-2013  
+<h2> review.text </h2>
+
+ <p> Awesome Picture but not enough connections. Sound is OK, This is the reason for only 3 stars. * * * </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Picture </p>
+
+
+<h2> review.date </h2>
+  02-03-2013  
+<h2> review.text </h2>
+
+ <p> I was expecting a DOA for the price I paid for this TV.  But, I was pleasantly surprised to see this TV delivering a nice, crisp picture.  Unless you work for Consumer Reports, it is hard to find subtle differences between this and higher priced cousins.I haven't noticed any picture troubles like few other customers, and happy with the purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing TV for the price </p>
+
+
+<h2> review.date </h2>
+  07-14-2013  
+<h2> review.text </h2>
+
+ <p> Bought this for my guest room, and everyone who has stayed here says they can't believe the picture an the sharpness of it. Works great an I would suggest buying this to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great picture </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> purchased for bedroom tv. didn't expect much, for the 299.00 price, or the product it self. its great. picture is great, options and programing was so easy and great. only thing I bought was a cheap rca soundbar, and couldn't be happier. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very happy with this </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B007PXLCXY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-03-2012  
+<h2> review.text </h2>
+
+ <p> Yes, I know, it's expensive, more expensive than its sibling, the previously owned non OS version. It's also BIG. Yes, much bigger and heavier than its sibling. But..it was spot on right away. It doesn't seem that it will ever miss focus, it's really fast even at low light, just like its popular sibling, the previously owned 17-50 2.8, and the OS..is well worth it. Not just because you can shoot kids at 1/100 speed without introducing ISO noise, but because, even if you shoot at 1/500, it's a lot easier to focus since the focus point(s) hardly moves, something which is not the case of course without the OS. So, I don't know and I don't plan to exactly measure how many stops it saves you but in real life it's well worth it. The extra few inches, weight and 300$-400$ vs the front focusing (though fixable) and non OS version is well worth it. The focal range is also great. I used to think that in small spaces the 17-50 2.8 would be a better range to work with but the 50-150 is able to isolate the background much more so I'd give a tie there. I do have the Fuji X100 to cover that focal range anyway - which doesn't require me to change lens - plus the sigma 8-16 for extreme fun at the widest range. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must have </p>
+
+
+<h2> review.date </h2>
+  05-22-2014  
+<h2> review.text </h2>
+
+ <p> Having purchased the 17-50 2.8 Sigma lens a few months ago, I was both excited and cautious about shelling out the same money I spent on my Canon 70D body. Excited because the amazing image quality and stabilization features of the 17-50 had served me well in my video and photography work, but nervous because of some of the problems I had with the lens (namely the useless manual focus ring and the shoddy lens hood).I was pleasantly surprised to see that Sigma has stepped up their game considerably when it comes to their bundled accessories. The included lens hood clicks home with a satisfyingly firm &#34;thunk&#34; and the tripod color is a clever design of solid metal. Both the rings are pleasing to operate, with the wider zoom ring butter-smooth and the focus providing more resistance to keep you from casually brushing it out if focus while hand operating.The plastic used to form the lens is topnotch. The 50-150 feels like a study, quality product throughout the barrel - which it should considering its considerable three pound heft. The optics produce bright, bold colors and a creamy bokeh, and the autofocus is fast and near silent. Stabilization is apparent when it kicks in both with a dampened clunk from someone where within the lens as well as by a jarring kick through the viewfinder - while not subtle, it works well enough to give you 2 or 3 full stops.On my 70D, the lens is the equivalent of an 80-240 and I find that range almost good enough to be an all-around lens. When paired with the 17-50 2.8, I have a kit small and light enough to carry on my back all day, even with shotgun and wireless mics.And as good as the lens is for photography, it may be even better for video. The tripod collar is reassuringly secure and balances my 70D almost perfectly, making the kit a joy to use on a monopod or tripod.To sum it up: If I was given the choice among my current kit to take along only one lens, I would bring my Sigma 50-150 every time without hesitation. It is just that good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sharp, colorful, fast and a joy to use </p>
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> And huge... And big... And heavy... And sharp... Perfect for the ones that don't mind carrying a heavy system. I carried it with me many days in Disney. Great pictures and no back pain. Great price also. I recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great lens </p>
+
+
+<h2> review.date </h2>
+  03-13-2013  
+<h2> review.text </h2>
+
+ <p> Great lens with sharp definition, color and focusing and great price. Noticeable improvement over the Canon EF-S lens. Definitely worth the money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a great lens </p>
+
+
+<h2> review.date </h2>
+  11-04-2013  
+<h2> review.text </h2>
+
+ <p> The only con I have for this lens is the size but the IQ more then makes up for it :)  It took me a long time to decide get this lens, I have the older 50-150 hsm II that I have used for a few years and thought it was a good lens. I was not sure about the increased size but after more then a few very good reviews I pulled the trigger and I am very glad I did.  I find the focus on this lens to be very good, it works great every time. This was not the case with the older version.  I picked up the Sigma EX DG 2x extender at the same time and I find that at 150mm the the new lens with the 2x is sharper then the old lens with out an extender.I am very happy with this lens :)Sigma APO Teleconverter 2x EX DG for Canon Mount LensesDave </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Much better then the older versions </p>
+
+
+<h2> review.date </h2>
+  12-17-2013  
+<h2> review.text </h2>
+
+ <p> I got this lens because I wanted something to compliment my sigma 17-50. That lens is so sharp and I love it. I do have a 60D and since it is an APS-C sensor, this lens is made for my sensor. The price is high but you do get what you pay for. The housing is sturdy, the lens is a constant 2.8 aperture and the OS works great. I sold my canon 70-200 f4L (non IS) to help fund this lens and I will say this lens is sharper. I wouldn't see any one being unhappy with this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Glass!!! </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> "Update"I just cant say enough about this lens. Sharp wide open at all focal lengths. No joke! At 2.8 I can crop down 100 percent in RAW at 150mm 50mm or 100 & it is positively sharp..to the point it may render the slower primes at f2.8 obsolete. About the only advantage an f2.8 prime would have is weight/size. It would require extreme pixel counting to detect differences in sharpness/saturation/lens aberations..and I say this with hesitation because I really doubt differences could be discerned for real world circumstances.VERY pleased with this lens.The optical stabilzer absolutely gives you 4 stops! Can get consistant shots at 1/15 sec 150mm! Recently took photos at night for a local amphitheatre.The OS feature enabled me to push ISO down to 100/200 during scenes with slow action/no movement (such as actor singing etc)  I debated on whether to purchase the 70-200mm OS version (I currently have the non OS version which Im going to sell through Amazon) I have no regrets since i Have the APS-C camera bodies and the 50mm gives more versitality for shooting in confined environments (32mm more width after figuring crop factor for canon @ X 1.6) For all of sigma's EX version lens you get a great build/quite and quick focus through the HSM motor. When the OS engages you get a subtle "clank" noise. The newer canon IS versions will not produce these noises although my Canon L 300mm F4 makes a similar sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sharp at F/2.8 & OS gives you 4 stops </p>
+
+
+<h2> review.date </h2>
+  07-29-2012  
+<h2> review.text </h2>
+
+ <p> I have a loaner version of this lens on hand for review. It goes back to the store in a couple of days.First up, this lens is only for the 1.6x crop factor digital APS-C sized sensor cameras. Compatible with Canon's EF-S mount. I've played with this on a 7D and also on a Rebel XTi. (Versions are also available for the Nikon and Sigma camera lines.)On the cropped sensor Canons this is the 35mm equivalent of a 75-225mm lens with a nice, wide, and constant f/2.8 maximum aperture. The optical stabilizer is quoted as being good for 4 stops of effective improvement. The lens will focus down to about 2 feet in distance for a semi-macro view of 1:6.3. It comes with a lens hood and a case.Okay, my testing, well, it was a very solid feeling lens with a very quick autofocus (comparable to Canon's USM lens focus speeds), good image stabilization (I can attest to at least 3 stops of effective anti-shake as I have blur-free shots at full telephoto at 1/8 second, hand held), and complete compatibility with the Canon bodies. (Longer term this might be an issue, Sigma lenses have been notorious for falling victim to Canon EF interface upgrades.)So it's a solid, semi-professional lens at a pretty expensive price point. What else would you be considering instead of this lens? Well, the similar Sigma APO 70-200mm f/2.8 (for a couple hundred more, effectively 100-300mm on the cropped sensor), Canon's own 70-200mm f/2.8 (a thousand more!), Canon or Sigma's much cheaper 50-250mm consumer lenses (much slower, especially at telephoto), or the wider Canon 18-135mm consumer lens (also slower) or maybe the 24-135 f/4.0? So it does have its own place in there covering the old, traditional 35mm 70-200mm range for the digital sensor.Would I buy it? No, but I have a couple of good lenses already that cover the range pretty well for my taste, albeit at f/4.0. For others it's worth considering seriously versus a longer zoom and a wider lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Professional grade lens from Sigma (50-150mm, f/2.8) </p>
+
+
+<h2> review.date </h2>
+  09-05-2013  
+<h2> review.text </h2>
+
+ <p> After reading good reviews on the lens online, I decided to buy it.This is an update after a few weeks of use.First I would like to say that I am going to keep the lens, the zoom range is great for me, I shoot only portraits, mostly natural scenes of my kids.I use it exclusively on my Rebel T2i (550d).Sharpness is very good over most of the zoom range, but not so good on the 150mm @2.8.Focus speed is NOT fast.This is the first HEAVY lens for me, and it sure is a problem.  It compromises shooting angles to more "comfortable" ones to swing the lens at.  It's a bit difficult to hand-hold steadily after a few shots, and you begin to feel the hand less steady.I was a bit disappointed by the sharpness at any focal-length at f2.8 ( I'm used to good primes ), especially at 150mm.Overall, I wasn't blown away by the sharpness, but it is very good and I am very satisfied with it.  It fits my expectations and is more than acceptable.Overall a great buy despite it's weight and size. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sigma's latest large aperture zoom results </p>
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> This lens rocks!  On my Canon 7D the autofocus and metering perform exceptionally.  Focus tracking with AI Servo appears to be very good though I've only tested it on my dogs running in the orchard.  No need to use the camera's custom function focusing compensation, right out of the box the images are very sharp, color rendition and bokeh is very good.  Overall physical feel and appearance of the lens is one of quality.  At 3 lbs it requires commitment, you carry the 7D with a 18-55 mm EFS lens on it, you pack the 7D with the Sigma 50-150 mounted.  =) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exceeded expectations! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

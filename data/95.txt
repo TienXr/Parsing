@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004YOGN4A <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-10-2013  
+<h2> review.text </h2>
+
+ <p> I got one of these for one of my bathrooms, great price. I have it on a wall mounted swivel arm on the wall next to my tub, I play movies or just watch TV while I relax in the tub or watch  news while I am shaving in the mornings before work. The DVD payer works great and it is easy to use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product </p>
+
+
+<h2> review.date </h2>
+  08-02-2013  
+<h2> review.text </h2>
+
+ <p> By now, you've all seen complaints about not being able to see the picture if it isn't placed just right. That might be correct, if you're looking at a 45 degree angle of the side of the freaking thing, but I'm watching the news on it, right now, in my RV, and the thing is great from just about any angle. Clear picture, good reception, easy hookup. It's money well spent if you want to waste time watching idiots on TV in your trailer. If you like to bi*ch about your food allergies for attention, you probably won't like it because your complaints won't be heard by your cool friends if you're living in an RV, anyway. Your call. It works. Well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazon reviews crack me up. </p>
+
+
+<h2> review.date </h2>
+  03-22-2012  
+<h2> review.text </h2>
+
+ <p> great little tv I did not expect much because of size and price but was surprised this is a great tv </p>
+
+
+<h2> review.summary </h2>
+
+ <p> naxa tv </p>
+
+
+<h2> review.date </h2>
+  02-08-2013  
+<h2> review.text </h2>
+
+ <p> This was the most dissappointing thing I have ever bought on the internet.It is only usable with 12V DC.It came with a power adapter (110V AC), but the adapter cord is not configured to attach to the monitor, (why is it included if it can't be used?The specs list HDMI(S) in the Amazon page and the first few pages of the owners manual.It is only when you are actually trying to connect the unit that you find there is only1 HDMI.It is also then that you find the "gotcha's""Sorry" this HDMI will not accept PC input!"Sorry" this unit is not usable in your home!I can't use it in my home, I can't hook it up to my PC with HDMI (VGA doesn't transmit Audio.Viewing angle is very limited.All in all: A promise of diamonds and delivery of coal!MInor item, but indicative of Amazon's and vedor's openness, the listed batteries (Page 4) are no actually included.Jack </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't rely on listed spec's as they are very misleading </p>
+
+
+<h2> review.date </h2>
+  11-05-2012  
+<h2> review.text </h2>
+
+ <p> I intended to use this TV-DVD combo mostly as a "kiosk" for a loop-running DVD in an art exhibit.  However, a number of small deficiencies added up to cause me to request a return authorization from the seller, Best_Electronics_Plus.  Initially, they were most courteous and helpful by expediting delivery much faster than the delivery time estimated on Amazon's product description.  Unfortunately, The product has design deficiencies that I found unacceptable.  But first, It is a very handsome, compact unit with a clear, sharp picture, acceptable viewing angles and a very low price. Running on 12v as well as 110v was not important to me; however, that feature might be critical to some buyers.  Nevertheless, I found the following shortcomings: The power cord enters the unit obtrusively near its upper left corner. The cord can conflict with something adjacent to the unit, such as an auxiliary speaker or a cabinet wall. The digital control menu must be accessed and DVD mode selected on it before the slot will open to accept the DVD.  Thus, one cannot simply insert a disk to automatically activate DVD play mode. The DVD must be placed into the unit in an uncommon "label side to back, shiny side to front" position, which is inconvenient. There are no pan or tilt adjustments possible with the standard base; however, a wall mount is available to provide that positioning flexibility. Finally, I found the audio quality most inferior.  It didn't improve much when I added a pair of computer desktop auxiliary speakers. I immediately purchased a different TV-DVD combo from a major manufacturer with a larger screen, better features but for approximately 70% more cost.  I trust that Best_Electonics_Plus will honor my request for a return authorization.  If they do, I would not hesitate to order another product from them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Small Deficiencies Add Up </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> I bought this little tv to play DVD's in my little girls play room.  It works great.  The picture is nice and the volume is adequate as well.  I can't comment on all the high tech stuff as we mostly only watch animated movies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  05-19-2013  
+<h2> review.text </h2>
+
+ <p> i bought this to have a tv on my rennovated enclosed porch, without running cable wires through the house.  not for serious tv watching but just to have something on if i'm out there.  first it didn't pick up any channels on the auto select air function.  i connected it to a small wall plug power antenna i bought sometime in the 80's.  it has picked up about 20 channels & that's enough to pick from for a porch tv.  i liked it because i looked at some of the 7 inch ones & the one i really liked that i had seen at my friend's house was only $30 less than this.  it was worth the money to have the extra size & the dvd player included.  i also teach classes & sometimes the facility doesn't have a tv/dvd player available for the presentation & this tv is so light, i could easily even carry it on the subway if i had to take to a class.  i think the picture looks fine for tv.  i was watching a dvd from an odd angle & it seemed a little dark but the movie was abraham lincoln vampire slayer, so it WAS dark.  you can make adjustments to the picture.  i had it on a table which made it a little more difficult to see from the lounge on the porch so i tilted it downward & the picture looks great from where it is now.  it has a usb connector to connect a pc & other video inputs.  overall i think it's a great little item for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> light, works well </p>
+
+
+<h2> review.date </h2>
+  03-08-2013  
+<h2> review.text </h2>
+
+ <p> we installed it in our VAN  and is the best!great picture and sound for the VAN.......we bought this product for this specific use and it works perfect! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love this tv </p>
+
+
+<h2> review.date </h2>
+  06-24-2013  
+<h2> review.text </h2>
+
+ <p> We have had this TV for over a year now and it has worked out well for our trailer.  The quality is excellent as is the picture and we have used it with 110V, 12V and a 400watt inverter to watch TV and DVD's without any problem.  The speaker is a little soft but if you position it with a solid surface to the backside it produces much better sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NAXA NTD-1552 15.6-Inch Widescreen HD LED TV with Built-in Digital TV Tuner </p>
+
+
+<h2> review.date </h2>
+  01-19-2012  
+<h2> review.text </h2>
+
+ <p> Arrived in a timely manner.  Mated to a wall mount with no problems.  Functions well in both TV and DVD mode.  Would recommend for mobile or camper installations. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 15.6 Inch Naxa NTD-1552 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

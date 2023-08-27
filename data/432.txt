@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00BCTJ25C <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-06-2013  
+<h2> review.text </h2>
+
+ <p> Both my kids love this book, it is easy for one to read and the other one loves to count the animals that are for that number. LOVE IT! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kids Love IT </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> A cute little book with fabulous illustrations! A good intro rhyme for each number with a repetitive invitation at the end of each stanza asking your little one to count the animals on the next page. Cleverly done... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Interactive Counting Book </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> I love this book, especially the silly pictures. They are very bright and colorful, fun for little eyes to look at. The rhymes are also very cute. I especially liked how there was a question at the end of each section prompting the child to count how many animals are in each picture. Very nice! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Cute Book With Fun Pictures </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> The images were really cute and my kids love dinosaurs but the story was just alright. Yes, there were things to count but not in an especially clever way. It similar to a lot of other counting books but could be a good fit for kids who love dinosaurs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute pictures okay story </p>
+
+
+<h2> review.date </h2>
+  05-13-2013  
+<h2> review.text </h2>
+
+ <p> I have several of this author's books for children.  Each of them are educational and entertaining.  Smart rhyming and colorful pictures will delight your child, while teaching them how to count at the same time.  Highly recommended - my niece loved it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Entertaining and Educational </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> This is a really fun book! The rhymes are original and silly (I laughed as much if not more kiddos) and the pictures are REALLY great. The fact they practice counting is an added bonus. Totally worth buying. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Clever, silly and entertaining for me and the kiddos (great art) </p>
+
+
+<h2> review.date </h2>
+  03-27-2013  
+<h2> review.text </h2>
+
+ <p> I allowed my grandson to choose the various books that he would like to read or have read to him and based on the cover of the book he thought it was about dinosaurs and not what it really was about. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointing </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> This is one of the best counting books I've ever seen The rhymes, the illustrations, and the engaging way the author uses the story will teach children how to count before they even know it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You Can Count on this Counting Book </p>
+
+
+<h2> review.date </h2>
+  03-21-2013  
+<h2> review.text </h2>
+
+ <p> ...when I was growing up I never had books like this that could actually have help me in my learning processes.  This is a fantastic book with great illustrations and rhymes and I will enjoy sending it along to my nieces and nephews. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It just isn't fair... </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> Wonderful colors and large letters sets the scene for many fun filled times for children and adults to share together, I was delighted to spend time with this dear little book  , I can see its going to be a wonderfull adiction to any childs book collection .Be sure you dont go home with out it . Nannas and gramps, buy it and  enjoy with your own grandchildren too . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> delightful </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> Original rhymes with fabulous illustrations. Very funny and was great at colors, counting, animal identification and a nice way to talk to the kids about the activities the animals were doing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Cute Counting Book For Kids </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> Very cute book fun reading for your young ones learning numbers. Love the illustration with there bright colors my son loves to count while I read the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two Dinos buy Perfume </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> This fun little rhyming book combines a child's love of animals with the process of learning to count. The playful verse associated with each number and animal type keeps the kids engaged, and encourages interaction, as they get to know the story each time they read it. Well done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Learning To Count Fun </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> Two Dinos Buy Perfume is a wonderful counting book for children. The pictures will keep them involved and the rhymes will have them laughing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dinos Rock </p>
+
+
+<h2> review.date </h2>
+  03-22-2013  
+<h2> review.text </h2>
+
+ <p> This is a great book for kids just learning to count (e.g. numbers 1-10).For each number there's a "silly" rhyme that will engage the child and make him/her laugh.And the pictures are fun and a great way help the child reinforce their learning. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for little ones learning to count </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> This is a silly, fun and engaging book focused on counting. The characters are well done and kept my toddler's attention. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great read! </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> I love kids books that are both entertaining and educational.  My niece has counted the animals several times today and laughs every time she has to count the spiders. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Entertaining </p>
+
+
+<h2> review.date </h2>
+  03-02-2013  
+<h2> review.text </h2>
+
+ <p> Two Dinos Buy Perfume is a great book with excellent illustrations and good rhymes..It also helps your younger ones to learn numbers while having fun at the same time.Great book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun and useful </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

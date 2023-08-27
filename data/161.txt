@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 630235417X <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-10-2003  
+<h2> review.text </h2>
+
+ <p> This film, about the struggle of a young star movie to mantain her personality against Hollywood cruelty, will probably gives you a headache (and not a &quot;HEARTACHE!, as it says one character), as it fastly turns on a bombastic, hopelessly phony melodrama.The problem around &quot;Inside Daisy Clover&quot; is its superficiality, that makes its characters a little more than mere caricatures. It has good moments, really fascinating ideas, but the general tone is fastidiously icy.Natalie Wood, performing a young talent (such a mix among Judy Garland and herself), gives an often exaggerated performance. However, she's always a lovely presence. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Above Daisy Clover </p>
+
+
+<h2> review.date </h2>
+  11-15-2008  
+<h2> review.text </h2>
+
+ <p> Am unable to review this VHS... it has a double imageMaybe I need 3-D glasses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Is it 3-D? </p>
+
+
+<h2> review.date </h2>
+  07-21-2009  
+<h2> review.text </h2>
+
+ <p> Recently re-released by Warner Brothers on DVD, Inside Daisy Clover is a well-produced but peculiar tale of stardom, with a most unsatisfying ending. In the wake of the Michael Jackson overdose and other celebrity misadventures it makes more sense, but I still find in Daisy Clover a strange disconnect between reality and fantasy which is rooted in the bizarre script and which no amount of superb casting or carefully handled direction can overcome.A miscreant, disobedient "flower-child" of the 30's, Clover is adopted by a Hollywood movie mogul, played wonderfully by Christopher Plummer in his usual smug and self-confident mold, but the movie somehow lobotomizes Miss Clover's transformation into a star. That most important part of her metamorphosis is neatly left out of the story! She is pulled off the street, and the next thing we know, she appears at her movie premiere in a full length gown, yet not quite sure why she is there.All her training and preparation, singing lessons, acting ability, her dance moves, seem to have nothing to do with her as a person, as if the studio somehow is capable of injecting stardom into a person like some kind of plastic surgery.Daisy Clover's dissatisfaction with her stardom and success in the movie industry just doesn't make sense. She doesn't live a real life. She doesn't seem to know what money is or to have any desires or aspirations in life.I don't buy it. She is a center of attention and adoration, with thousands of fans, yet she seems to have no social life. The studio is a strange, barren, and lifeless place, and Plummer conveys stardom upon her in a most contrived manner.To be sure, there are some good performances and superb movie craft here and some excellent scenes, as Plummer, Roddy McDowall, Redford, Wood, and an excellent supporting cast bring this strange story to life.I think this movie is worth seeing, but at the end the story seems to come to a dead stop and the conclusion is most unsatisfying. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disconnect -- And a pointless ending </p>
+
+
+<h2> review.date </h2>
+  05-27-2009  
+<h2> review.text </h2>
+
+ <p> 1965's INSIDE DAISY CLOVER was a story that Natalie Wood felt a great need and personal responsibility to tell.  Starting out as a child star herself in the 1940s, she knew the pitfalls and tricks of Hollywood's dream machine all too well.  A gritty backstage melodrama, INSIDE DAISY CLOVER is, in my opinion, one of Wood's most underrated movies.Fifteen year old Daisy Clover (Natalie Wood) lives in a caravan on Angel Beach with her eccentric, card-reading mother (Ruth Gordon).  A tomboy with a grimy sweatshirt and tossled mop of ashe blonde hair, Daisy spends her days operating a booth where people can buy "personally autographed" pictures of the stars; and singing into a 'record your voice' novelty machine.  All that changes when Daisy enters a talent competition at Swan Studios.  Film producer Raymond Swan (Christopher Plummer) recognises an elusive talent in young Daisy and begins to groom her for stardom....  Robert Redford co-stars as Wade Lewis, a dashing matinee idol who hides his bisexuality long enough to marry and dump Daisy after the wedding night.  This was his first big Hollywood role, after being personally recommended for the movie by Ms Wood.Natalie Wood was quoted as saying at the time: "'I have only had this kind of reaction on one other thing really, and that was "Rebel Without a Cause".  Where I instantly realized that no matter what, I have to play this part".Echoes of Judy Garland can be found in the character of Daisy Clover; and Wood does a credible job of acting as a brash young singing star.  I also think that Wood used the role to try and exorcise some of the emotional scars she still carried from her own years as a child star.  Unfortunately her performance was largely panned and came during a point when Wood's incredible acting talents (in films like "Splendor in the Grass") had been dimmed by time and memory.  It would take "This Property is Condemned", released the following year and again co-starring Robert Redford, to remind people of how good Wood could be when she had first-rate material to work with.Christopher Plummer turns in a chilling and controlled performance as Swan, the movie impresario who drags Daisy up from unknown to megastar.  It's a similar performance to Anton Walbrook's in "The Red Shoes".  He's especially frightening in his last scene with Natalie.Andr&eacute; and Dory Previn provided two great showbiz tunes for Daisy to sing ("You're Gonna Hear from Me" and "The Circus is a Wacky World").  Sadly, despite her protests and hard work to provide the singing herself, Wood's voice was dubbed by Jackie Ward.  The grand Hollywood B&W; production number version of "You're Gonna Hear from Me" is a composite of both Natalie and Jackie's vocals, blended seamlessly.  Ward also dubbed Natalie's singing in "The Great Race".INSIDE DAISY CLOVER is a moving and memorable backstage fable, and a must for anyone who loves Natalie Wood.  It's currently only available as part of Warner's boffo Natalie Wood Collection DVD boxset, a purchase I'd highly recommend which also boasts the new-to-DVD "Bombers B-52", "Cash McCall" and "Sex and the Single Girl" in addition to new remasters of "Splendor in the Grass" and "Gypsy". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sobering and shattering backstage fable </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> ever visit a studio lot? anyone would immediately recognize the deserted narrow alleys, studio head on set every day, equipment on the move, everyone in costume, multiple sets, and oh yes craft services!!! yikes.... wood is a very respectable actor, shocked each scene was so limited in dialogue, expression, body language, save the suicide attempt, a regular riot... ruth gordon was great tho over the top, where was the ace of spades clenched in her right hand at her demise??...  if  you have ALOT of patience to sit through nonsensical disjointed scenes this is the film for you! also recommend for viewing the light lavender organza gown worn by katherine bard for the wedding scene, whoa body of an 18yo!! amazing for 1965.... and roberto FINALLY gives a performance that is not monotone....sooooo satisfying </p>
+
+
+<h2> review.summary </h2>
+
+ <p> inside warner bros studio </p>
+
+
+<h2> review.date </h2>
+  08-20-2013  
+<h2> review.text </h2>
+
+ <p> Natalie Wood has always been my favorite female actress.  This was such a different type of role for her.  Ruth Gordon never disappoints me in any role she plays. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> Being that we are big fans of Natalie Wood as well as Christopher Plummer we thought that this movie would be good, especially considering Robert Redford played a bit part as well.  The problem is with the story-line, the script, the plot - - - just a huge waste of time.  From the inception of the movie we see a very angry, nasty but attractive youth.  She receives the break of a lifetime especially considering the time period (1930s) but it goes from bad to worse in terms of her anger.  The only time we saw the character of Daisy smile was when she was to be married going down the aisle.  Yes, the movie overdramatizes the greedy horrors of Hollywood Movie Studios which is a tiresome topic on its own considering that no one put a gun to her head to sign the contract but despite how they took her from filth and poverty to fame and fortune, we never saw the character show any sign of gratitude or appreciation for anything - just anger and more anger without a cause for the most part.  Yes, the treatment of her mother was part of her woes so the script is written (it must've dawned on the writers that they'd have to have some alleged reason for Daisy's nasty disposition) but that can only go so far and one does sympatize initially with the character and her attachment to her mother, but again, that can only extract just so much sympathy and understanding from the viewer before growing weary and tired of the character of Daisy and her continual bad attitude.Redford's acting is well done, as is Christopher Plummer's just goes to show even with characters that are not well written, they are both professionals and do the best with what they have to work with.When Daisy blows up the beach house at the end, it really says it all.  Why did she take her anger out on that beach house ??? And her final line which was meant to be final impact message to the viewer, as she says, "I dunna know, I think someone just declared war" declared war on what, and on whom ???? Surely you can't mean the movie studio who spent thousands of dollars just to build you up and make something out of you, so you could basically thumb your nose at them after they picked you up from the gutter.Sorry Natalie, may you rest in peace - but this movie was one of the biggest bombs I've ever seen, period. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anger without a CAUSE </p>
+
+
+<h2> review.date </h2>
+  02-23-2008  
+<h2> review.text </h2>
+
+ <p> My infatuation with Natalie Wood continued. I saw this movie three weekends in a row. Natalie plays a young star disillusioned by fame and love. Robert Redford co-stars. Natalie's relationship with husband Robert Wagner was unique. They married young, divorced, married other people, divorced them, remarried and had a daughter. Natalie drowned in 1981 when she fell off a boat. She had a fear of water. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inside Daisy Clover </p>
+
+
+<h2> review.date </h2>
+  06-30-2001  
+<h2> review.text </h2>
+
+ <p> In this highly-underated look at the so called &quot;dark&quot; side of Hollywood, Natalie Wood portrays Daisy Clover, a young girl growing up in the 1930's who declares to her mom, &quot;I can SING!  I open up my mouth and a song comes out!&quot;And so, she records a song in a do-it-yourself Recording Booth and sends it to Swan Studios, which is run by Mr. Swan portrayed by Christopher Plummer.  Natalie does some of her own singing in this film.  That is her own voice singing the opening introduction notes to &quot;You're Gonna Hear From Me&quot; in the screen test scene.  Then, the singing is taken over by studio vocalist Jackie Ward.  Her other musical number in this film is the popular Dory Previn tune, &quot;The Circus is A Wacky World&quot;.Natalie does a great job in this picture.  True, the film itself is a little uneven in spots, but it all somehow comes together.  Rounding out the cast are Rob Redford as the Gay Husband, Roddy MacDowell as the Gay snippy Assistant, and Ruth Gordon as the crazy mother sent to a Sanitarium (All these dark side of Hollywood Movies HAVE to have a Sanitarium in them, or haven't you noticed).  This film is another &quot;must have&quot; for Natalie Wood fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Natalie Wood &quot;Sings&quot; Again </p>
+
+
+<h2> review.date </h2>
+  12-06-2003  
+<h2> review.text </h2>
+
+ <p> I watched this last night. Stayed up waayyy too late. What a movie. Natalie Wood is amazing. Flopping around on the boardwalk . . . an awkward, strong and oddly attractive waif-like character, barefoot, in dirty clothes with crazy hair, that at one point she cuts, instead of combing. Ruth Gordon is lovely. Robert Redford is convincing. And you always wonder what the heck is going on in Christopher Plummer's mind. Creepy. Generally, things end up on a sad note, this ain't Singing In The Rain, and I did get sick of hearing the song, Wood's character kept singing over and over, and not very well, about how she's gonna be a big star. But everything else is wonderful. A great movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quirky, But Charming </p>
+
+
+<h2> review.date </h2>
+  01-09-2013  
+<h2> review.text </h2>
+
+ <p> I've waited a long time to own this movie. The DVD is in 2.35 ratio, not my favorite by any means, but there were no other options. The picture is clear and no soundtrack problems. The story may be a bit outdated but I still thoroughly enjoy it. Natalie Wood is great and at the end, you wonder why anyone wants to be an actor and get tangled up in the whole process of making movies. This is a movie that makes you use your brain, not just your eyes to see fancy visual effects. I feel it's well worth seeing, and for those who enjoy what Hollywood used to give us, you should enjoy this very much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I FINALLY OWN IT </p>
+
+
+<h2> review.date </h2>
+  07-31-2013  
+<h2> review.text </h2>
+
+ <p> Just having Natalie Wood in it makes it worth watching.  If you really like Natalie Wood you should buy this one.  I'm really tired of dark movies made now, they ruined Batman, Snow White & James Bond. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Movie, Natalie Wood </p>
+
+
+<h2> review.date </h2>
+  02-28-2012  
+<h2> review.text </h2>
+
+ <p> I just watched "Inside Daisy Clover" on AMC. Because it's "Oscar month" and because I'd never seen the film before, I thought it would be a worthwhile experience. It was not. Unfortunately, there was also no Robert Osborne commentary, so I have no idea what anyone ever saw in this movie.The movie had all the earmarks of an interesting production: a great cast, scored by a prominent musician, and a synopsis that seemed to meld Hollywood culture with soap-opera worthy melodrama. It delivered on none of its promise. No wonder Roddy McDowell later signed on to "Planet of the Apes": after this project, how much worse can it be to play a monkey?I can't think of any redeeming quality of any of these characters. The dialogue was terrible. There were also several painful scenes that were supposed to display "Daisy's" talent, but these were almost unendurable. The plot staggered along, but never built any dramatic tension or moved toward any resolution, until the final scene. That's not much of a payoff after two hours of mediocre acting.It would have been far more interesting if one of the many subplots had been developed. These were: 1)Daisy's relationship with her mentally unstable mother, played by Ruth Gordon, who ends up being relegated to the Nut Hut in order not to handicap Daisy's career, but who Daisy loves nonetheless; 2) Daisy's relationship with the toxically nurturing Swans, who create her as a celebrity and then proceed to suck the life out of her; and 3) Daisy's relationship with "Wade," played by Robert Redford, a homosexual heartthrob who marries teenaged Daisy as a "beard" but continues to pursue men. I'm sure all of these aspects of the story were based on real people in the Industry, and the movie as a whole is probably some great inside joke to Hollywood players. For those of us outside the loop, that joke is lame and falls flat.Oh well. I guess my taste in film is unsophisticated and limited, given that I love flicks like "The Searchers" and "Eurotrip." Or maybe I just have a gift for recognizing cheesy pretentiousness. Whatever, the worst part is that I subjected my husband to the film, as well. Now, as payback, HE gets to decide what we watch on Movie Night for the next ten years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oscar for Most Annoying Film Ever </p>
+
+
+<h2> review.date </h2>
+  11-16-2000  
+<h2> review.text </h2>
+
+ <p> From her opening scenes as the mumbleing, cigarette puffing urchin with a chip on her shoulder to her last Natalie Wood does it again! This woman was truly one of the greats! She  blew me away in this one. Especially her shattering scene in the sound booth!...and again, not even an Oscar nomination! If you like films about Hollywood and movie making you can't miss this one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> another great and under rated Natalie Wood performance </p>
+
+
+<h2> review.date </h2>
+  11-16-2011  
+<h2> review.text </h2>
+
+ <p> I recently viewed Inside Daisy Clover (1965), which I've heard about for years, but have never seen until now.I have a great interest in behind-the-scenes stories of classic Hollywood (such as A Star is Born, for example), so it's a given that I'd be interested in this picture. And I did find it diverting, though at the same time I have to say that I don't think it's very good.Man, where to start. Natalie Wood is quite lovely, as always, but at age 27 there's NO WAY she passes believably as a 15-year-old. Add to this the problem that she's supposed to be a singer, and Natalie can't sing... I read that portions of Natalie's vocals were mixed with another voice (I don't know who dubbed her), but the end result is not good at all. I mean, you'd think if they were going to dub her they'd find someone who could actually sing!Despite being set in the 1930's, the film is a complete anachronism from beginning to end---there is not the least sense of the 30's in the clothing, music, hairstyles, make-up----it's all pure 1965 in every single way. It's kind of fun to see Natalie in a black-and-white production number, but the song itself sounds NOTHING like what was popular in the 30's.There are only two songs in the film, but the background score itself (by Andr&eacute; Previn) I found to be unpleasant and jarring, constantly taking me out of the mood of the picture.Despite the film's title (and man, my mind must be in the gutter because every time I hear it I think it sounds like a porn film), we really never do get to know much about Daisy, what makes her tick, how her mind works.Wow, I just trashed this film, didn't I---I do think it's a dud. Still, for those who enjoy older films---or if you're interested in the stars themselves (Robert Redford, Christopher Plummer, Natalie Wood)---I'd say go ahead, give it a try. The more general film-goer would be well advised to skip it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not very good </p>
+
+
+<h2> review.date </h2>
+  03-29-2013  
+<h2> review.text </h2>
+
+ <p> I'm an avid fan of Natalie Wood. Have always enjoyed her films; mostly her older ones.Had to have the DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Daisy Clover </p>
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> Natalie's performance is well worth watching.  Although she is a bit too &#34;pretty&#34; to be believable and she 'reacts' with a bit too much emotion at times, it is still a good film, if only for the fact that we get to watch Robert Redford early in his career handling a difficult role for him with a fine touch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth the time to watch </p>
+
+
+<h2> review.date </h2>
+  05-02-2013  
+<h2> review.text </h2>
+
+ <p> There is something about this film that doesn't quite work.  It is an over-acted, improbable melodrama, but it has some pretty good performances at times.  Perhaps there is a contradiction at its heart:  it is a mainstream studio production, but supposed to be kind of a serious debunking of the very magic it is trying to sell.Wood is a wild child, brought up by a crazy if sympathetic mother played by Ruth Gordon.  She has a dream to sing, and on sending a single tape and a quick screen test, she is thrust into the apex of stardom.  Right away, she chafes against the way the producer is managing her image, which includes forcing her mother into an institution and denying her the right to see her for a time.  They set her up with one of their stars, a young Robert Redford in an interesting role - a heartthrob who is a cynical alcoholic and apparently closeted.  As time goes on, all the image crumbles, leading to breakdown and worse.This is a bold plot line, right when the 1960s were inspiring the country to question everything.  I don't know if it was my vantage - that none of this is surprising anymore - but I wasn't able to suspend my disbelief, so the whole thing appeared contrived, often silly and always unrealistic.On the positive side, Wood is a luminous beauty in her prime, Redford embodies youthful exuberance, and Christopher Plummer is perfect as the manipulative, uncaring handler.  Their chemistry is good and their talent is evident.  I just wish the script and direction were better.Recommended for serious fans of the actors.  Otherwise, it will appear outdated. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hollywood's peek behind the tinsel </p>
+
+
+<h2> review.date </h2>
+  07-12-2012  
+<h2> review.text </h2>
+
+ <p> Just watched this on TCM and was surprised what a shrill, grating film it was from beginning to end, it's only two production numbers both flat and interminable, and worst of all--devoid of sympathetic characters. This includes the titular one played by Natalie Wood,  who normally excelled at playing women on the verge of a nervous breakdown, and whose performances I  usually admire and enjoy.Not so "Daisy Clover," although the real culprit for this dud is not the actors--all of whom deliver strong performances (Christopher Plummer and Ruth Gordon especially)--but the material. Never mind that the film, set in 1930's Hollywood, is anachronistic on every possible level  (no one for a second recalls anything about the 1930's in hair, makeup, costume or manner--and neither are the production numbers the kind of music that would have existed in a 1930's musical). Yet many enjoyable films are guilty of that flaw. And never mind that we are supposed to buy Wood as a 15 year old street urchin at the beginning (in a hideous "mop top" wig she disappointingly--and implausibly--wears throughout the film). No,  "Daisy" is ultimately done in by its own downbeat script and story, supposedly depicting the underbelly of the Hollywood Star System but too nihilistic in spirit and tone for us to give a damn about what happens to any of the miserable people on the screen. We kind of just wish they would all go away and leave us alone.Many scenes feature people screaming interminably, and the music seems to scream too. Women here are depicted as hysterics, and men as the sly foxes who manipulate them. The problem is, it's the audience who feels swindled when they've been asked to invest two hours in a movie with no good guys. A film in which there is nobody you can (or want to) identify with is a punishing experience. Daisy herself lacks the requisite tenacious wit and humor that might have made her brittle character likable. Redford as the bisexual husband seems in over his head and plays it smug and smirky. The way his character is written--evasive, self-satisfied, heartless--we are at a loss to understand why she marries him in the first place, or cares when he leaves her.Christopher Plummer--magnetic and brilliant as the studio mogul, seems cold at first, then possibly lovable when he and Daisy find themselves both ousted by their respective mates, and finally monstrous in the end. Daisy suffers a breakdown and sits catatonically in bed for days until Plummer comes and slaps, bullies and threatens her. Cut to a suddenly-cured Wood on the beach, happy again, and skipping away from it all. Everything's okay again!Um....what? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't Recommend This </p>
+
+
+<h2> review.date </h2>
+  09-06-2009  
+<h2> review.text </h2>
+
+ <p> My Dad was probably the world's biggest Natalie Wood fan, and when I was a kid we saw all her movies- except this one.  I inherited his love for her, and I looked forward to seeing this one.  Not so much now.Natalie Wood does a good job as the little girl who wants to be a movie star and then finds out that it's one of those be careful what you wish for things.  She's just about as cute as she could be with her pixie haircut.All the actors do great jobs but the movie is unsatisfying and hollow.This is the movie where the song "You're gonna hear from me," originated.  It's cute the first time, but after they finish hammering you with it, it loses some of it's luster.The plot is somewhat predictable and although the movie only runs a little under two hours it seems to be MUCH longer.  It has several spots where it drags painfully and you wish it would just be over.The only really good part is the end.  If you haven't seen it, I won't spoil it, but it will suffice to say that Daisy Clover should have found herself sooner, the movie would have been much better.If you're a big Natalie Wood fan, you may like this movie.  I plan to watch it again, but it's not high on my list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inside what? </p>
+
+
+<h2> review.date </h2>
+  04-02-2013  
+<h2> review.text </h2>
+
+ <p> I have mixed comments of this film. First of all, fact or fiction, I am not down with the treatment of this young girl. She lives in an eccentric upbringing with her mom(Ruth Gordon),wno is not wrapped too tight and gets put away once Daisy is assigned the sister and husband as her guardians when Christopher Plummer's character sweeps in takes notice of her raw talent and makes a star of her. I really want to say, Is this a teen or not? at the en of the film when she says that she is Up-teen years old makes me realize that the stuff she endured at the age she is should not be. Becoming a star, living a prefabricated life, pumping her up with lies and drugs to get the job rolling, making her work long hours and not even 21 years old yet. so though I have mixed feelings, I still think of this movie from time to time as a cautionary tale as not WHAT to do. interesting though muddled. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting but mixed feelings on flick </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> Yes, Oscars for Redford or Natalie in most anything I ever saw! This story kept making me happy, then sad, then happy again...at the end a punch in the gut that tells me life does not have happy endings quite often. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Again, Redford and Natalie wood...what can go wrong? There should have been Oscars for each of them. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

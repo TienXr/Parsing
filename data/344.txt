@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1603090754 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> I liked this book.In the book there are various towns.  Each town has its own monster.  Every town takes pride in its monster and basically uses it as a tourist attraction.  People come and visit, live through an attack, and then buy souvenirs to remember their adventure.  However one particular town is very unhappy with its monster because it has stopped its attacks.  It just hides in its lair and sulks. The story follows the local town mad scientist and one of the town's orphans as they try to find out what is wrong with their monster.This book is hysterical.  There are tons of little one liners, as well as some great sarcastic humor, that kept me laughing throughout.  The characters were fun.  Watching them interact with each other and learn that they aren't always what they thought was great too.I liked the artwork also.  It wasn't over the top detailed or realistic, but it fit well with the story and the characters.  The lettering was also easy to read.  This is a bonus since I've read some graphic novels that I've had to strain just to make out the words.I think this is an awesomely cute book, with a lot of fun and funny moments.  It's great for kids as well as amusing for adults. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review of Monster on The Hill </p>
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> I loved this book 5 stars right away I highly recommend it for anyone filled with action cool monsters awesome </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome book </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed the book from beginning to end. The art is just wonderful and the story is very entertaining. I can only say...MORE PLEASE! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun in comics has returned </p>
+
+
+<h2> review.date </h2>
+  09-12-2013  
+<h2> review.text </h2>
+
+ <p> See, people? *shakes book in the air*  How hard is this, really?  I stand beside thousands of children's librarians who have, for years now, been in a bit of a pickle with the kiddos when it comes to great graphic novels.  I blame Bone.  If Scholastic hadn't rereleased Jeff Smith's classic series in full color editions and marketed them to kids, we wouldn't have had to face wave upon wave of impressionable children holding up their worn and battered editions saying, "Do you have anything like this?"  Because crazy as it might sound, the answer is usually no.  You want kid-friendly fare that's adventurous AND funny?  And full-color?  Uh . . . suuuuure, kid.  To be fair, some books fit the bill.  Thanks to "Giants Beware!" by Jorge Aguirre, "Sidekicks" by Dan Santat, and "Jellaby" by Kean Soo I've managed to feed their hunger, but nothing's ever been enough.  So it is with great rejoicing and the throwing of small pieces of confetti that I welcome to my shelves the fast, funny, not so furious "Monster on the Hill" by Rob Harrell.  There is nothing here your children won't love.  Heck with it.  There's nothing here YOU won't love.Every good town has a good monster.  They're fantastic.  Much of the time they're terrorizing the citizenry, and as everyone knows that's just good for business (tourists love to be terrified).  Best of all, a good monster will guard a town from a threat known only as The Murk.  And then there's poor Stoker-on-Avon.  They've a bit of a monster problem.  His name is Rayburn and . . . well, let's be honest.  Rayburn's kind of pathetic.  Worst of all, he knows it, so his days are spent wallowing in self-pity.  When Dr. Charles Wilkie is charged by the town fathers to perk the creature up he unwittingly brings along plucky newsboy orphan Tim.  Together, the three try to get at the root of Rayburn's problem.  Unfortunately a trip to his friend Tentaculor leaves Stoker-on-Avon without a guardian.  And The Murk?  He's hungry . . . very hungry . . .What do you talk about first when you're reviewing a graphic novel?  I don't really have a rote set of talking points in a distinct order.  That said, I've the vague sense that I probably should.  I feel that way because my instinct right now is to begin by talking about the colors in this book, which is kind of an odd choice.  But see, kids these days are spoiled.  They love their comics to be full-color, an expensive and time-consuming proposition most of the time.  With the exception of fabulous independents like Matt Phelan ("Bluffton") most comic book artists for kids don't dabble in things like watercolors or pastels.  They rely on good old-fashioned computer coloring.  Trouble is, there's excellent computer coloring and then there's the lousy variety.  Lousy is easier to do so you'll it much more often.  Now Top Shelf didn't deem it necessary to list in this book whom the colorist might be (perhaps it was Mr. Harrell himself?), but whoever it might have been they did a top-notch job.  The colors in this book are understated without being muted.  They match the storyline perfectly.  Not every graphic novel can say the same.Then there is the writing.  Can we talk timing for a bit here?  Because when it comes to pacing, "Monster on the Hill" knows what it's doing.  The beginning starts with a big old bang.  There's wanton destruction and people running for their lives.  It's delightful.  As the book progresses, Harrell harnesses his storyline perfectly.  Clearly he has the storytelling gene.  That's great.  But how are the jokes?  We are, after all, talking about a syndicated cartoonist.  He's been in the business more than a decade but does that funny translate to the book format?  You bet your sweet bippy it does.  All hail Looney Tunes and other cartoons that established the perfection of the visual gag.  Time and again Harrell gets the maximum enjoyment out of the silent frame followed by the funny line or the incredibly ridiculous moment couched in seriousness.It isn't all timing, though.  Many of the jokes in this book are visual gags or just honestly funny sentences.  Seeing The Murk, the ultimate bad guy, sniffing fear from the townspeople and then saying, "Oh, yeah. That's the good stuff" is delightful.  The smaller jokes are less noticeable.  Notice what happens to Wilkie's carriage driver when the gleesome threesome decides to take a road trip.  Then there's the fact that the town fathers have names like "Mr. Hawthorne", "Mr. Shelley" and "Mr. Stevenson".  Additional Bonus: The town is "Stoker-on-Avon".  Few kids are going to pick up on any of this (few adults too, I suspect) but they're there for anyone interested.Now don't get me wrong.  The setting of this book is odd.  First off, it exists in that odd time period where everything's just barely pre-Industrial Revolution but folks can still make jokes about Hot Pockets.  Then there's the location.  One has to assume that we're in Britain here.  As such, certain characters exhibit distinctly English tendencies in their speech.  And by rights the mix of semi-British English with completely contemporary words and phrases should, by its very definition, jar.  I just . . . doesn't.  I suppose I'm a poor judge.  My favorite moments on The Simpsons are when Bart adopts a faux Cockney accent.  Spunky (Cockney) orphan Tim fills that same need.Rob Harrell is, at this time, best known for his comic strips "Adam @ Home" and "Big Top".  Like fellow cartoonist Stephan Pastis ("Timmy Failure") he's extended his talents this year and is garnering a new readership.  Kids that have never even seen a newspaper comic, let alone read them, will be instantly hooked by Harrell's kooky storyline and good-natured monstering.  For those kids who want something adventurous and amusing, their prayers will be answered.  Granted, for the most voracious amongst them this book will take up a single hour of reading (maybe less).  At least it's fun while it lasts.  "Monster On the Hill".  Get your own.For ages 8-12. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The hills are alive . . . </p>
+
+
+<h2> review.date </h2>
+  06-07-2014  
+<h2> review.text </h2>
+
+ <p> Bought this for my kid's 7th BD.  I read it to him tonight.  Ordinarily, I try NOT to read an entire book to him in one sitting but I could tell that resistance was futile tonight.  He was so engrossed by the story, the characters, the artwork and humor it would have been cruel for me to quit.  It took less than an hour to read about 200 pages.  A word of warning for those parents that don't like curse words or even words like &#34;sucks&#34;.  This book has &#34;hell&#34; a few times and sucks just once.  As in, &#34;Mom, our monster sucks doesn't he.&#34;  &#34;Yes, son he does.&#34;  LOL  I mean come on, live a little.  Don't let a few little words ruin what could be a great bonding time between you and your child.  Written with a bit of Cockney accent, it helps to be able to imitate the English while reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blown Away by the Fun! </p>
+
+
+<h2> review.date </h2>
+  07-28-2013  
+<h2> review.text </h2>
+
+ <p> I got a copy of this book to review through NetGalley(dot)com.  This was an absolutely wonderful heartfelt and cute story about a monster...who is just not all that good at being a monster.Welcome to a world where each town has a monster.  The scarier the monster is the happier the town is.  This is because the scarier your town's monster is the less likely it is that the really big and evil monster will come and destroy your town.  The only problem is that for the town of Stoker-on-Avon....well... their monster is a bit less of a monster than he should be.  Poor Rayburn (the monster of Stoken-on-Avon) is depressed and it will take a Professor of Medicine and a Newsboy to help him out.This was an absolutely wonderful little story about friendship and teamwork...and of course Monsters!  The story is humorous, engaging, and funny.  It has some good lessons on friendship, loyalty and teamwork as well.Rayburn is cute in a very depressed monster type of way and was funny to read about.  His best friend is a monster named Tentacular, who is hilarious in his own way.The Professor and the Newsboy add a lot to the story as they go on a mission to cure Rayborn of his depression.The artwork is very colorful and cartoony, it matches the tone of the story perfectly.  It's not all that realistic looking artwork but it matches the goofy tone of the story well.  It is easy to follow, adds a lot to the story, and it easy to see character facial expressions.  I really enjoyed it.  This is a book that you read and it makes you feel really happy and good.Overall this was an incredibly entertaining read that I think kids and adults alike will enjoy a lot.  It is a cute and hopeful story about friendship, loyalty, and monsters...on top of that it has a lot of humor and makes for a fun read.  I highly recommend as a great fantasy graphic novel to read with even very young kids. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely endearing fantasy graphic novel that will appeal to all ages! </p>
+
+
+<h2> review.date </h2>
+  08-14-2013  
+<h2> review.text </h2>
+
+ <p> Picture an alternative late-1800s town where the citizens are proud of their monster but the next town over is embarrassed since their monster just is doing what he's supposed to do. Now take a hardly-successful scientist and the town's orphan news boy and send them on a journey to help the town's monster become all that he can be. This graphic novel is great for kids and adults alike. The kins will enjoy both the story and the artwork, and the adults will love the funny bits hiding in the subtext of the story. I was unfamiliar with Mr. Harrell's work but I now plan of finding more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What if your town's monster just isn't monster enough? </p>
+
+
+<h2> review.date </h2>
+  08-08-2013  
+<h2> review.text </h2>
+
+ <p> This has got to be one of the funniest stories I've come across lately.  Simply hilarious!  Written in "British", I was flummoxed to find the author's biography professes him to be a pure bred American!  A delightful simply silly story that will have you laughing and chuckling with a smile on your face for the whole read.  You can't help but love all the characters: the depressed, self-pitying, over-dramatic Rayburn the monster, Timothy the Cockney street urchin with more pluck than is good for him, and the disgraced Dr. Wilkie, inventor with revoked licence to practice who has been sent out to get Rayburn to act more monster-like.  But while they are all at it little do they know that a terror worse than the average town monster quickly sees his opportunity to destroy Rayburn's town.  Excitement enters the story when they race against time to reach the city to fight this fiend and wonder whether Rayburn will be up to the challenge.  A note some parents may want to take into consideration:  My only quip with this book, is that it is obviously for kids as low in age as 8 years-old, but I have a problem with the much often repeated use of the words "bloody, bleeding, and bloody Hell".  It is British swearing and as an ex-pat. Brit, I'm not comfortable with anyone using that language in my home let alone young children, however if you are comfortable with it you won't have that problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> one of the funniest stories I've come across </p>
+
+
+<h2> review.date </h2>
+  07-26-2013  
+<h2> review.text </h2>
+
+ <p> This book starts out a bit slowly, but it quickly picks up steam, character, excitement and entertainment value as it rushes to its satisfying conclusion.We're in 1867 and we start with a family visiting a small English town. The drawing is colorful, but has the lightness and cartoonishness of a Sunday paper color comic. One wonders where this is going to go, and whether it will be worth slogging through. But then, a monster appears and creates havoc in the town. Turns out it is the village monster. Every village and town has its own monster. They are local heroes, put on shows, and attract tourists, (not unlike the gun fights they stage in Tombstone, Arizona). Kids have action figures of their local monster, and tourists buy monster souvenirs.O.K., you say to yourself. This is a nifty premise, but where is it going to go? Well, the shame of Stoker-on-Avon is that their monster is a sighing, whining, groaning mope who is an embarrassment to the town and a total failure as either a local hero or a tourist attraction. So, the town fathers draft Dr. Wilkie, the local mad scientist, to go find the monster and try to buck him up somehow. Now, the real story begins. Dr. Wilkie has been in disgrace because his inventions are silly and his experiments have all been failures. Nevertheless, Dr. Wilkie and the local urchin/orphan/newsboy head out to find and cure the monster, (named Rayburn, by the way). The balance of the book deals with their encounter with Rayburn, Rayburn's attempts to transform himself into a proper monster, and their defense of the town from a really nasty monster.Here's the thing. The dialogue is crisp and consistently funny. Rayburn is a witty, sympathetic character with a knack for subtle and deadpan throwaway lines. The urchin keeps up a running commentary on the action and lightens every scene with witty and clever observations about the action so far. Secondary characters show up to deliver on very funny set pieces. The reunion between Rayburn and an old monster school buddy who has made good as a local terror, is a touching, charming and unrelievedly funny scene. (Some of Rayburn's struggles actually have emotional weight, which is sort of amazing when you think about it.)For what it's worth, even the drawing perks up as the story progresses and we move from simple panels with talking figures to some very witty large format scenes of mayhem and action. And, as there is more action and emotion to record, the drawing becomes more effectively expressive. That said, the central appeal here is the screwball humor of the characters' exchanges, which is maintained at a high level right through the conclusion.You know, so many graphic novels are heavy-handed or forced or weirdly and inaccessibly idiosyncratic. Or, they are just simple and obvious or tired. This book is just in a different world, and I can say with certainty that of the many, many graphic novels I've read recently, this one was the most thoroughly, honestly, and uncomplicatedly entertaining. If you've ever toyed with the idea of trying a graphic novel, (and are looking for an entertainment rather than a serious, heavier tome), I don't see how you could do better than this.Please note that I received a free advance ecopy of this book in exchange for a candid review. Apart from that I have no connection at all to either the author or the publisher of this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Marvelously Entertaining </p>
+
+
+<h2> review.date </h2>
+  08-25-2013  
+<h2> review.text </h2>
+
+ <p> Imagine a world where every town has a "monster on the hill" that not only rampages the town regularly, but is also seen as a local celebrity and attraction. In this graphic novel, one of those monsters is feeling a little under the weather. An old inventor and a young paperboy help him find what he's missing.This graphic novel is colorful and the print is large. It was really nice to read on the computer. This story is for all ages. It has the fun and excitement for the younger audience, but some adult humor thrown in there. I think it has the feel of a modern animated film. I could see Ricky Gervais voicing the main monster, Rayburn.This is a fun, easy read with an interesting world. I would love to see this on the big screen. I give this graphic novel a 4/5. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fun, easy read with MONSTERS! </p>
+
+
+<h2> review.date </h2>
+  07-28-2013  
+<h2> review.text </h2>
+
+ <p> Ah, now that was a very enjoyable read!  Syndicated cartoonist Rob Harrell has created a fun modern fairy tale with Monster on the Hill. Very reminiscent of the smart wit of Monsters Inc., this is a fun read for both kids and adults.Tthe story revolves around an inventor with a bad reputation, a newsboy with a smart mouth, and a down on his luck monster facing performance issues in an 1860s English town.  Rayburn, the monster in question, hasn't been up to his job of scaring the town - causing headaches for the mayor since tourism is down.  The inventor and stowaway newsboy trot up to see Rayburn - and the three will go on a quest to visit neighboring monster Tentaculor and get his mojo back.Everything about the story - from the characters to the settings - are wildly inventive and original. Monsters are like roller coaster rides and theme parks - families visit different towns and wait for a monster attack so they can run away happily and have a good score. The setting is more of a cartoon version of England - featuring townspeople hawking "Souvenir Rubble", Tentaculor Posters" and even "Tentacular Iced Cream Tentacu-Pops" after the monster attacks.  Funnily anachronistic dialog keeps this lively, from peasants saying, "Jolly good! 'E's knocked over me carriage!" to a child bemoaning, "Our town monster sucks a bit.  Doesn't he?"I especially like the way Rayburn, the dragon-like monster hero of the story, is drawn.  He's quite droll and a good foil for the smart-aleck newsboy. Since he's on most of the pages, he's quite fun to follow as the story unfolds.I really highly recommend this. It is silly, fun, witty, and a great read for parents to share with kids.Received as an ARC from the publisher. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it! </p>
+
+
+<h2> review.date </h2>
+  09-08-2013  
+<h2> review.text </h2>
+
+ <p> Stoker-On-Avon has a problem. Their town has a monster, but that's not the problem. The problem is that their monster isn't scary. Certainly nothing like the rock star monster, Tentaculor, of the town of Billingswood.So, a bumbling scientist, and a stowaway newsboy are sent to see if they can solve the monster problem. It seems the monster suffers a self-image problem, so they head out to find the monster's old classmates to see if they can help. There may be an even bigger problem waiting when they get back home.Rob Harrell, of Adam@Work fame, has written a hilarious send up of all that scares us, all that holds us back and the friends we make along the way. There are laugh out loud moments in here and the art is cartoony and fun. Great fun for all of us who secretly wish our town had a monster on the hill. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For all of us who wish our town had a monster on the hill </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

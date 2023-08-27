@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00HSYS3C8 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-22-2014  
+<h2> review.text </h2>
+
+ <p> The Arctic 4500 home charger is a four-port USB charger for mobile devices well worth purchasing...but with some design choices that keep it from being a true five star product.The pros:-4 available charging ports with 4000mAh total output.-2 of the ports are fast charge ports for tablets (so, if you have a shiny new Kindle Fire HD but passed on the aftermarket charger: this will decrease your charging time).-LED charging status indicators (see the CONs below).The cons:-USB ports are placed on the short side edge of this charger.. For easy access to the USB ports, you'll have to mount this in the top plug of standard vertical 2-plug outlet. Not a problem, unless you wanted to use that plug for something else (which I do in the place where I am most likely to use this charger). While you could plug it into the bottom outlet, this will then remove the top outlet from use. This design choice should have been considered.-The LED flashing sequence indicating variations in charging load/power output are indicated by the speed of flashing, and are not intuitive.As a charger: five stars, but less one star for design choices that limit its flexibility around already crowded outlets.Note: This item was provided for review purposes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good multi-device charger (with some quirks)... </p>
+
+
+<h2> review.date </h2>
+  02-06-2014  
+<h2> review.text </h2>
+
+ <p> Although I tend to prefer chargers that have a power cord that plugs into the wall outlet, this has been a very capable performer mainly due to its size. It's far more compact than any other multi-outlet charger I've used. In fact, it's about the same size as some single and dual port chargers even though it offers four output ports.The build quality seems solid. The outlet prongs don't fold, which is both a pro and a con. A con since it's less laptop case friendly; a pro since the foldable prong versions always seem to fold up when you don't want them to. The output ports are very close together, but I was able to fit in 4 USB cables without a problem. Tight fit, but very workable.There are LED indicators on the charger to show the ports in use and any error/problem situations. The indicators are clearly visible but don't shine like a beacon in a dark room. Each port has overload protection, which is a big plus.A very capable and versatile charger. Zero complaints.[Sample provided for review] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compact size; solid build quality; easy way to charge 4 devices </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> This compact, quad-port USB charger is both well-constructed and useful, especially since it has not one but two high-speed USB ports for devices like the iPad that draw a lot of power.  That said, the total output is only 4.5 A, which means that I cannot charge two iPads (they require a minimum of 2 A each) and two smartphones at the same time.  I could, however, charge two iPads without using the other ports.  At first I thought that Arctic should have dispensed with one of the high-speed ports, but then I realized that they do offer versatility even if I can't use all ports to their max at the same time.The other, slight limitation is the fixed prongs.  I wish they folded into the body for more streamlined storage since the prongs can catch easily on things and take up more space when I stash it in my bag.  When I use it at home, I don't really care that they stick out; however, since I tend to use wall chargers like this on the road, it matters then.The case is a hard, shiny black plastic.  The whole assembly feels solid.  The USB ports are also sturdy, and my cables all slide into place without effort.  This is a high quality product despite its few drawbacks.  Note:  I received a sample for review.-- Debbie Lee Wesselmann </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well-Constructed Quad USB Charger With Some Limitations </p>
+
+
+<h2> review.date </h2>
+  02-07-2014  
+<h2> review.text </h2>
+
+ <p> With so many households hosting multiple devices that need charging on a regular basis, companies are now stepping up to the plate and offering 4-port USB-chargers. I've often been known to have several devices plugged in overnight to every available receptacle, including those on my PC USB ports. If I'm in need of a rapid charge during the day, I much prefer the AC method of charging.Immediately when plugged in the Arctic indicates it's ready to power up with a blue LED light in the center of the device. The fast charge ports for devices that draw a heavier load such as tablets, the iPhone, and iPads are indicated by orange. They are stacked on one side of the Arctic and the other fast charge ports are beside them.On the interface of the device are LED status indicators that show that the individual USB ports are receiving power. For something like the iPad this is rather an extraneous feature because I do know when my iPad is receiving an initial power influx because I can hear a blink and can see not only a battery indicating my charge, but also the charging icon in the upper right-hand corner.FEATURES:&#9658; 4.5Amp Total Output Ideal for Charging Tablet/Smartphone/e-Reader/MP3&#9658; 4-USB Ports with Fast-Charge Capabilities, 2 Dedicated Tablet Fast-Charge Ports&#9658; Dedicated LED Charge Indicator for Each Port&#9658; Overload Safety Protection on Each Port Protecting Charging Devices&#9658; US Plug. 2-Year Limited WarrantySPECS:~&#9658; Input AC 100V x 240V 50/60Hz~&#9658; Output DC 5V x 4000mA~&#9658; Weight 3.5 ounces (99.2233g)~&#9658; Power: 20W~&#9658; LED indication: Mono Orange, Blue~&#9658; Safety approval: CE, RoHsDimensions:&#9658; Body only: 1.06&#34;(H) x 2.08&#34; (W) x 2.95&#34; (L); 27 (H) x 53 (W) x 75 (L) mm&#9658; With plug: 1.88&#34; (H) x 2.08&#34; (W) x 2.95&#34; (L); 48 (H) x 53 (W) x 75 (L) mmINDIVIDUAL LED INDICATORS / STATUS:&#9658; Slow Flashing: Charging output below 1000mA&#9658; LED on: Charging output between 1100mA and 2000mA&#9658; Fast Flashing: Charging output above 2000mA&#9658; No LED: No devices plugged in or charge complete (&#60;90% power)The Arctic charges quite well as expected, however there were a few things I would have either liked to see or preferred. I much prefer flip-down AC prongs, specifically for travel. The lack of them makes the Arctic better suited for home use only. At that, one should keep in mind that holding on to the box it came in will be preferable for storage.Not intuitive. Unless you have the small one sheet user manual, anyone else using the Arctic Home Charger may not realize which port is for tablets or iPads or other devices. I much prefer my USB ports to be labeled 2.1A and 1.0A. I've had some chargers that have dedicated ports for specific devices, but the Arctic doesn't designate to the user which ports are optimal the home user. Excellent charger, but could be better with the addition of flip-down prongs and port labeling.Sample provided for review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice charger, but could be even better with flip down prongs </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> I have a favorite chair that I plop my but in at the end of the day.  I read from this chair, talk on the phone, use  my tablet and even my lap-top from this chair.  What I have always hasted is that I  always had to run to other parts of the house to get my devices from their respective chargers...well no more.  Now I can do it all from my chair.Four ports does enough for me and they all work  efficiently and all at the same time.It is so nice having everything in one convenient place.Sample provided for testing and reviewing purposes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For Me, It's All About Convenience </p>
+
+
+<h2> review.date </h2>
+  03-21-2014  
+<h2> review.text </h2>
+
+ <p> ARCTIC made this very small wall charge small and safe. It has a 4.5 Amp total output with 4 USB ports and the power is excellent for charging Kindle boos, MP3, tablets as well as smartphones. There are 1 dedicate ports for tables and each of the 4 fast charge ports has its own LED indicator that lets you know which device you're charging is ready and which needs more charge time. Each has overload protection, too.It is truly a plug and play device. The wall plugs stick out the back - the one thing I would have preferred is that they be foldable for convenience of storage. But you can leave this device plugged in and ready to charge at all times, so if there is a designated wall plug convenient to your workspace, then the non-folding aspect is not a problem. It works well and is very dependable. Grady Harp, March 14 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Handy, powerful home wall charger </p>
+
+
+<h2> review.date </h2>
+  04-13-2014  
+<h2> review.text </h2>
+
+ <p> This USB wall charger from ARCTIC is designed to be used at home or in the office as a charging center, with 2 fast ports indicated by orange and 2 standard ports, with a total shared output of 4.5 A.  This means that it can charge four 1.0 A devices at full speed or two 2.1 A devices at full speed or a combination of the two.  If overloaded, an LED indicator flashes.It holds securely in the electrical outlet and gets warm when all four ports are in use, but doesn't overheat.  The plug is non-polarized and has prongs of equal size.  The construction is very solid and it is backed by a two-year warranty against manufacturing defects.To get the best use from any USB charger, it is important to understand the requirements of each device and its battery. Manufacturers provide this information; Apple's website, for instance, provides a full page of information about each device's battery. iPad batteries should be completely discharged and then fully recharged monthly, while iPod batteries don't need to be cycled. Some electronics should be turned off or put in sleep mode for charging under certain circumstances. It definitely is worth the time to learn about these requirements.A sample was provided for testing and evaluation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Four-port USB wall charger </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> This charger is simply awesome, it packs quite a powerful adapter 4500mAh in a mere 3x2x1 inches. I got my 2 ipads to charge at the same time as my phones (2 Xperia), it really is nice to finally have a powerful 4 ports where all 4 can be use at the same time (I mean a nice one as there were some 4A+ already, but look at the monsters...).Nice addition here is the charging indicators, they tell you whether you charge slow (below 1A), normal to fast (1A to 2A) or real fast (above 2A). that is not too much Christmas tree effect as lights are not too powerful ones.Bottom line : get one for your home charging station. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Powerful and compact </p>
+
+
+<h2> review.date </h2>
+  02-06-2014  
+<h2> review.text </h2>
+
+ <p> This is one of the most convenient chargers in my household. I received a review sample and loved the fact that the LEDs on the face indicate with is truly happening. By that I mean that if you plug a device into it and the corresponding LED does not light, you have a problem with either the cable or the device itself. In fact, that feature showed me that I had a problem with a bluetooth keyboard that did turn out to be defective. So the LEDs are more than a gimmick.The second thing I love is each of the four ports has individual overload protection. The advantage is if one port gets overloaded and shuts down the other devices that are connected will continue to charge. Plus you are not going to burn up an expensive phone or tablet if one of the ports does become overloaded.Having four fast charging ports, two of which are for tablets, is perfect for my household because we own an iPad, a Samsung Galaxy Tab 3 tablet, a Galaxy Note 3 phone and an iPhone 5S. This charger accommodates all four devices simultaneously and charges each (again simultaneously) as fast as the individual OEM chargers do for the tablets and phones.A final feature that I love is this is relatively compact and even fully loaded with some heavy duty cables all fit. That is important because some of the after market cables I use have large connectors and have caused problems fitting into other brands of multi-port chargers. The icing on the cake is this is a two prong charger, so it will plug into wall receptacles with only two prong plugs.This is perfect for home or travel and is a bargain when you compare price, features and function to other brands on the market. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect solution for my household </p>
+
+
+<h2> review.date </h2>
+  03-22-2014  
+<h2> review.text </h2>
+
+ <p> This is a great little charger. Always had a hard time running out of USB Charging slots on the computer and this does a great job leaving the computer free while everything gets charged. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product and charges all my devices </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> This 4.5 Amp total output portable USB wall-charger is ideal for  devices like tablets, e-readers & smartphones. It has 4 ports and is shiny and looks highly professional. There are 4 ports and is very sleek.I tried charging- Kindle DX and a smartphone- 2 Smartphones and a voice recorder- Samsung Galaxy Tab 3 and a smartphone and a fitness deviceHighly recommended. Arctic's design is top notch. I was provided this product in exchange of a fair and honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compact and Very Useful </p>
+
+
+<h2> review.date </h2>
+  04-24-2014  
+<h2> review.text </h2>
+
+ <p> We had a problem in my house. We had tons of cables and plugs going into 1 surge protector and those blocks were taking up space. This little beauty helped clean things up and put our charging into order. We have used this for various smartphones, Kindles and Android tablets. It works very well, charges things fast and overall was very affordable!I took off 1 star for 2 reasons only.#1 - The LED light on this thing is very bright. Bright enough that it interferes with watching a movie in a dark room or bedroom when trying to sleep. This was easily solved by placing a small piece of black duct tape over it. I know some people will like the bright LED to see the status at a glance from across the room but I have no need. It is either working or not and if the device is not charging properly I will troubleshoot it then. I don't need immediate  status reports from my devices. lol#2 - The plug does not fold down allowing for it to be packed up flat for travel. I think that feature would have put this item over the top if it could! Oh well.I highly recommend this product! Arctic is a solid, well known company and I have bought their products many times before. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very well made and handy! </p>
+
+
+<h2> review.date </h2>
+  02-13-2014  
+<h2> review.text </h2>
+
+ <p> I received this at no cost in exchange for writing a review. Here are my comments.1. This is very light and compact: 3 x 2 x 1 inches--but not counting the plug that sticks out another 3/4 inches. That's right, even though this unit is compact, the plug does not fold. For me that's an issue.I have plenty of USB ports for my gadgets at home, none of which are particularly compact (like my IDsonix 10 USB port strip). So when I receive a compact unit, my first thought is can I use this for travel. A folding plug is a must. I wish this unit had one.I know this is listed as a &#34;Home Charger&#34; and that a folding plug really doesn't matter for home use, but with a unit this compact a folding plug would have made it more versatile--useable at both home and for travel.2. This has 4 ports with a total charging output of 4.5A. Two of the ports presumably are 2A and two are 1A. I say &#34;presumably&#34; because the ports aren't labelled. Instead 2 ports have a double lightning bolt symbol and 2 ports have a single lightning bolt symbol. Nowhere do the skimpy directions tell you the power output of those symbols, only that the double lightning symbol is for an iPad and iPhone and the single lightning symbols are for other USB devices.Of course, since the total output is 4.5A you can't use all 4 ports at once. In fact the lightning bolt symbols will flash if you overload this.Bottom line: This works, but is nothing special. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay charger with some design issues </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> If you need a compact charger, capable of charging multiple devices, especially i-Devices, look no further. This is easily the best charger I've found for travel needs and multi-port capability.This charger is capable of charging 2 high speed devices (iPhone, iPad, other phones, etc) and two &#34;regular&#34; speed devices. I find the ports work perfectly and in a pinch you can use the slower ports for high speed devices, though it takes longer to charge.Using this is pretty simple. Plug the device into the wall. Plug up to 4 USB charge cables into the device, then plug the other end into the devices needing to be charged. Let it go and it will charge everything to full capacity.The face of the charger will light up to tell you what is plugged in and charging, so if for some reason one port won't charge a device, you'll know it without waiting hours to find out your phone didn't charge.Overall, this is an impressive charger that offers portability and capability for a good price. Highly recommended.I received a free sample for review purposes from the manufacturer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect size, capacity and capability </p>
+
+
+<h2> review.date </h2>
+  03-24-2014  
+<h2> review.text </h2>
+
+ <p> With the proliferation of cell phones, MP3 players, tablets, and e-readers, multi-port USB charging devices have become very common.  With a rated output of 4500mA, the Arctic 4500 USB Home Charger has the capacity to handle a variety of charging needs.  The unit has a total of four USB ports, with two rated at 1A, and two red colored ones rated at 2A, which are suitable for devices with higher power requirements , like the iPad or Kindle Fire.On the front face of the device, a blue colored LED indicates that power is available, and red and blue LED&#8217;s that indicate when a USB port is charging a device.  The unit is fairly compact, and when plugged into a standard duplex receptacle, the remaining outlet remains accessible.  The prongs are fixed rather than fold-down, which could be an issue for some users.Typical for Arctic products, build quality appears to be very good.  I informally tested the charger on several devices, including my Kindle Fire, and experienced no major issues.  The 4.5 amp output , means the unit has enough capacity to handle two loads plugged into the high output 2 amp ports, with a little more to spare, which is better than many four port charging devices.The thoughtful people at Arctic provided a sample for evaluation.  This unit is a very solid performer, and at less than $15, this is a great value buy, particularly if you own devices with higher power requirements, and the LED&#8217;s allow you to tell at a glance, if the device is in charging mode. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> solid, high capacity, 4-port USB wall charger&#8230; </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

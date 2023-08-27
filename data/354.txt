@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1616087242 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-22-2012  
+<h2> review.text </h2>
+
+ <p> Sometimes looking at pretty pictures of desserts is enough to satisfy my cravings, but the photos in this cookbook pop so much, that I had to have some ice cream immediately!There is a beautiful picture with every recipe, and the recipes flavors are creative and inspired. The author really thinks outside of the box with ice cream recipes like Cookies 'n Nog, Marzipan Madness, French Toast, and Curried Peanut Butter. I have all of her cookbooks, and I swear that she never stops improving (the photos are even better than her last, if that's possible) and never runs out of ideas!Obviously, all of the recipes are vegan, but there also seems to be an emphasis on low fat (the base for most recipes is non-dairy low fat milk), and most of the recipes can be top 8 allergen-free, if desired. But, these are still truly indulgent dessert recipes! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gorgeous and delicious </p>
+
+
+<h2> review.date </h2>
+  12-07-2012  
+<h2> review.text </h2>
+
+ <p> "Duchess of dessert" Hannah Kaminsky`s latest tome came out a few months ago, but now it's freezing outside...yet I'm still hooked on ice cream!  Her frozen treats are delicious no matter what time of year you consume them.  Vegan a la Mode turns ice-cream-making into a science AND an art, and Hannah's rigorously-tested recipes will shine in any kitchen.  Who could say no to French Toast Ice Cream, Buttery Popcorn Ice Cream, German Chocolate Ice Cream, or Marzipan Madness Ice Cream?  Not me, that's for sure!  I'll be using this book for years to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'll eat ice cream all year long with these innovative recipes! </p>
+
+
+<h2> review.date </h2>
+  07-06-2012  
+<h2> review.text </h2>
+
+ <p> The photos are attractive and make the desserts look tempting. However, the recipes are disappointing because they are not as healthful as I had hoped (lots of sugar, for instance) and they often are complicated and use many ingredients so are not worth the trouble to make. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointing </p>
+
+
+<h2> review.date </h2>
+  03-03-2013  
+<h2> review.text </h2>
+
+ <p> I love this book! It's filled with mouthwatering pictures and the recipes are all very easy to do.  I just have a cheap ice cream maker, and it works great. With recipes this good, why would anyone purposely eat dairy ice cream? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A diverse collection of doable and delicious recipes </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> Love it!  Vegan desserts are important for me.  It is difficult to find these desserts on the market and even more difficult to watch others eat when you haven't a thing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  08-04-2012  
+<h2> review.text </h2>
+
+ <p> I just bought a brand new Cuisinart Ice-100 and figured I would break it in using Hannah's new book. I decided to check it out from the library first to decide if I wanted a hard copy or a kindle copy but I can tell you this right now- I'll definitely be getting a hard copy to keep around since it will be used more frequently!I have only made two recipes. The first I made was the French Vanilla and it was so creamy and decadent. Talk about indulgence! It makes every other vegan vanilla ice cream out there taste boring in comparison. This will definitely be a repeat. The other recipe I made was Double Chocolate Fudge Chunk and this was amazing! It had chunks of fudge in every bite which was painless to whip up and the actual chocolate ice cream had great flavor depth (Hannah never fails in that department).I'm excited to try more recipes and am looking forward to keeping cool with this book this summer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Innovative and delicious! </p>
+
+
+<h2> review.date </h2>
+  07-07-2012  
+<h2> review.text </h2>
+
+ <p> Hannah is an amazingly talented young chef and photographer. I am a huge fan of her blog and other books and this book is of the same high caliber as her work always is. I received the book and that day made the Shirley Temple Sorbet and Mouse Tracks ice cream. I had all the ingredients on hand and had them made for dessert that night. The Shirley Temple Sorbet brings back all the nostalgia and memories of the drink I remember as a childhood favourite. My five year old was in love with it as well! The Mouse Tracks ice cream has a delicious fudge ripple through it and the BEST peanut butter cup pieces ever sprinkled in! My husband devoured it but I luckily got to have some too! The recipes are inventive and inspiring and I am looking forward to a summer (and who am I kidding, year) of new flavors! And the photos, which there are tons of by the way, are beautiful and make you want to reach into the page and take a bite. I also love that Hannah uses different bases so if you don't like one kind of non dairy milk or have an allergy there are lots of other choices. There is also a vast amount of information in the front of the book on ingredients and technique as well as troubleshooting. Definitely a book that every ice cream lover should own! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I am in love with this book! </p>
+
+
+<h2> review.date </h2>
+  09-25-2012  
+<h2> review.text </h2>
+
+ <p> I already had a vegan soy cream book and made my own quite a bit. I figured that I didn't need another even though I have another book by Hannah Kaminsky that is fabulous. But one look through this and I was a goner. This is a must-have for anyone that loves ice cream. You don't have to be vegan to like this book. I am but you should have this in your cookbook library.The hardest part was deciding which one to make. I made the rum raisin (with my own homemade "raisinettes" thank you very much!) because I love rum raisin and haven't had in for years. I couldn't stay out of it. Absolutely fabulous!! Made the Turkish coffee (mmmm, coffee),pumpkin, and peanut butter yogurt. If you miss butterscotch sauce, you won't after you make this. I keep licking it off a spoon, it's that good.Everyone needs to have a copy of this book. Loads of interesting and different recipes for "ice" cream and yummy sauces and cookies. Get this now!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ice/Soy cream love! </p>
+
+
+<h2> review.date </h2>
+  07-14-2012  
+<h2> review.text </h2>
+
+ <p> I think when one becomes vegan, they don't stop to think what how that is going to affect desserts at times. Sure, you can get blondies, cookies, cakes and pies, but when it's sweltering, and you want to have a cup (or cone) of ice cream....Banana "soft-serve" won't cut it.Enter: Hannah "Queen of Desserts" Kaminsky. I got her second cookbook (Vegan Desserts) for the ice cream recipes and the meringue. I demanded an ice cream maker for this cookbook alone.What Hannah excels at is that she doesn't just make "traditional" ANYTHING. It's exotic and different and pushes you (and your taste buds) to explore a whole new world of eating. So unlike "The Vegan Scoop", "Lick It" and "Vice Cream" which has (soy milk, coconut milk, and cashew cream as bases) but the recipes all follow the same path:Vanilla - add extract, sugar, milk, blend, cool, churnStrawberry - add berries, sugar, milk, blend, cool, churn(and so on)Hannah makes French Vanilla ice cream. Not your basic Cookie Dough, but Cookie Dough Monster. Not just Strawberry but Strawberry and Lemon Curd. and so on and so forth. Its the simple tweaks on classics, and things you'd never think about (watermelon sorbet? heck, yeah! (never would have thought of it). Banana Pudding? Blueberry Muffin? Cinnamon Graham? Check,check and check.I've now made several recipes, and they are VERY easy, and pantry friendly (things that you may not always have on hand would be Agar, Vanilla Beans/Paste (Necessity for the French Vanilla), Citric Acid (optional).) that I can re-call off hand.Most of these equal a quart of ice cream so the cost of making it vs. buying a store brand is comparable (for fruit etc).The ice creams I've made are:French Vanilla. Hands down my go to favourite thing. French Vanilla is my favourite pre-vegan, and I thought I'd never see it again. Hannah has now saved my life, and gave me french vanilla.Strawberry Lemon Curd Ice Cream. DO make. (I used fresh lemons for the curd, instead of lemon juice).Spring Blush Sorbet - super easy and gives you a use for all those rhubarbs you can't think about doing.I wanted to make one "basic" one to see how it worked. (amazing) one multi-step one (not that time consuming) and one sorbet. (delish). The instructions are clear, and easy to follow. the only downside is the cooling time. (I tend to make mine wait 24 hours and let my ice cream bowl freeze for 36 for optimal ice cream pleasure).DO follow Hannah's ice cream eating suggestions (weird, I know, but I feel like it does enhance the experience). She even has mixins and goodies at the back :)Allergy Alert: there is not a lot of ones that call for tofu, vegan cream cheese/sour cream or creamer. (so those are easily bypassable).Health Alert: these DO contain a lot of sugar. I know it's easy to say "it's ice cream!!!" but it's also the food science about it. Sugar is pretty much needed for homemade wares. (Hannah does use agave in some recipes, and other kind of sweetners as well - not overwhelmingly).Presentation: i love the book, it's the same style as Vegan Desserts, so every recipe has a picture, which is as delicious as the wares you are making.Repeat: there is ONE recipe that made it over to Vegan A La Mode from Vegan Desserts and that is the French Vanilla Ice Cream. (I am now kind of wishing that the other ones made it over too so I have them all in one place). But if you were curious if you could make do without it? heh.. no.This is a must buy for ANYONE wanting to make ice cream, vegan or not (you can use any milk but rice, Hannah suggests) and seriously they are great for any time of the year.Also, as an aside, I find you don't eat AS MUCH of it. they are all so thick and creamy and delicious, unlike store bought where you just pile it all on, this is really just a scoop here, and a scoop there. :)Hopefully Hannah makes a sequel soon! :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I've Never Bought Vegan Ice Cream...And Now I never have to thanks to this book. </p>
+
+
+<h2> review.date </h2>
+  07-06-2012  
+<h2> review.text </h2>
+
+ <p> This is an immensely appealing book on making vegan ice cream. So creative and so easy! Everything I've made has been very successful and delicious. And the photos alone are worth the price of admission! I'm a big fan of Hannah Kaminsky's and can't wait to see what she comes up with next! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yummy and creative </p>
+
+
+<h2> review.date </h2>
+  07-07-2012  
+<h2> review.text </h2>
+
+ <p> My kids and I have been deliciously making our way through this book this summer, and LOVING the tour!The recipes are great; my 12-year-old has done most of the "cooking" and I'm pleased that the directions are easy for her to follow.If you have a modestly stocked vegan pantry, there isn't any need to hunt down special ingredients - I don't shop any specialty/gourmet/health-food stores and was able to find everything easily, if I didn't already have it.The pictures are beautiful and mouthwatering, causing my kids to drool for hours over "what we're going to make next"...One note: This IS a dessert book. We all realize ice-cream is dessert before purchasing it, right? Sugar can be vegan and we vegans like our desserts just as much as the rest of the world.Whether you think you'll be making ice cream every week or just once in a rare while, this is a valuable and informative book to have - and the pictures are great, just for browsing. I can't say enough about Hannah's book, I love almost everything she creates anyway, but I think ice cream has to be at the top of my list! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My Kids and I LOVED This Book! </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> It had very original recipes for Ice Cream; however, there are not very many healthy recipes. I tried the Baklava Ice Cream, but without the phyllo dough and it didn't taste right. The French Toast Ice Cream was excellent, but I didn't include the stale bread. Bread in Ice Cream didn't make sense. The French Vanilla Ice Cream didn't work out. I think I was expecting to taste like the real stuff. I was not impressed with Horchata Ice Cream but I didn't include the rice and almonds. I will try again with a creative variation because I like the idea of Grand Marnier, Vanilla and Almond Extract together. And the Mocha Maca Rocket Fuel was really good. I like the flavor that the Maca adds to it. I didn't like the Thai Iced Cream, because it doesn't taste like Thai. It was more like an Indian Tea flavor. Thai Tea is supposed to taste more like black tea with brown sugar. The book does one great thing for me. It inspires me to get creative and invent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Creative Book </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> The recipes in this book may be daunting for some, but if you want to be vegan and eat your ice cream, too, you have to make some adjustments.  I haven't made anything yet, so I can't speak to flavor, but I prefer the most fresh, whole ingredients, so I'm willing to try something that in the long run may benefit my health and my pocketbook.  Before I buy anything that I don't know the origin of, such as agar (which I do - seaweed, so I'm OK with it as a thickener), I will do research so that I'm not adding pollutants to my recipe.  Based on the price of a pint of vegan ice cream at the grocery store, I don't think I will be wasting money on any products that I will use.  Not to mention the additives that still must be added to preserve the shelf life of even vegetarian/vegan foods.If my ice cream maker does it's job, I expect to be making frozen MASTERPIECES soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I can't wait to try it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

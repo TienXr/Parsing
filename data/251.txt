@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0017KXD1U <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-23-2009  
+<h2> review.text </h2>
+
+ <p> The CGI were fantastic.  Most of all, it is not 2nd, 3rd or 4th hand history.  It is told, for the most part by the people that were really there.  Being a history buff I couldn't have asked for any better.  As usual the items from Amazon arrived on time and in good condition. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for History Buffs </p>
+
+
+<h2> review.date </h2>
+  07-09-2012  
+<h2> review.text </h2>
+
+ <p> CGI graphics have been around for some time now, but I think they have found their niche' in the various historical recreations done for the History Channel. No other technology lets you virtually rebuild Rome and other sites of architectural interest.The same can be said of the CGI recreation in the show Dogfights, which recreate various famous battles during the last century of aerial combat.What separates this show from other CGI fare is that you get a glimpse of the surviving pilots and firsthand knowledge of their tactics. CGI allows a battle to be filmed from various angles,that would be painstaking using traditional animation and a drudgery using stop motion animation.  Planes and tactics are matched up using slick graphics using side by side comparisons. Ultimately, though it is the pilot that makes the difference, evidenced by inferior Wildcats downing Zeros in the battle of the Guadalcanal.The show also went for the historical importance by doing an episode of the Tuskegee airmen, the first African American fighter group, who not only had to fight Jim Crow, but also the Nazis. Their outstanding combat record paved the way during the civil right movement and integrated the armed forces. They were very effective at protecting the bombers and even downed a few Nazi's Me262 jet fightersA  poignant episodes concerned the sinking of the great German Battle Ship, the Bismarck. This was the last great battle ship and it was brought down by biplane Swordfish torpedo bombers. When it sank the battleship claim to the seas vanished.One of the most interesting episodes is when Robin Olds tries to fool Migs squadrons that his squadron of F4s are really lumbering F-105 thunderchiefts. The trick of course was to surprise the Migs with the far more capable Phantom. Olds got to even the score.The show is more than just slick graphics, but actually puts you in the pilot's mind as you experience the terror and excitement of aerial warfare. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great action and education </p>
+
+
+<h2> review.date </h2>
+  06-04-2012  
+<h2> review.text </h2>
+
+ <p> Being somewhat of a WW II history buff, I bought this series after having purchased  the "Battle 360" series (which, by the way is amazing). I was not disappointed. One of the things I enjoyed was the animation sequences showing the combat tactics.If you enjoy reading/studying air combat, you won't be disappointed with this series! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Air Combat History Treasure Trove </p>
+
+
+<h2> review.date </h2>
+  10-09-2008  
+<h2> review.text </h2>
+
+ <p> This is an excellant documentary style representation of airplane fights during several wars from WWI to the Gulf War.  It disects the confrontations between each aircraft, showing several defensive tactics while using computer generated images as well as actual combat footage.  It is well worth the purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dogfights </p>
+
+
+<h2> review.date </h2>
+  01-14-2009  
+<h2> review.text </h2>
+
+ <p> This series is the best I've seen yet on a technical basis. They have taken the computer technology that I first saw in the 'Dogfights' series and blended it with actual combat footage and pictures from the war.  In many cases the footage/pictures are of the actual incident/ships that were involved.One of the things that was appealing about the show when it was first broadcast was the very limited commercial interruption that took place, so I thought it was appropriate that Enterprise Rental was still mentioned in the leadin of each episode.  The fact that the founder of Enterprise served on that ship in the war and named his company after his ship is a perfect example of the spirit of service of those who served on her and in the war in general.  It shows why the name 'Greatest Generation' is so well deserved for those men and women who pulled our country through that dark time in our history.One footnote though, and the reason I only gave it four stars is due to the packaging. The steel book itself is neat, but the plastic retainers that hold the dvds in place make it nearly impossible to remove the dvd.  I was truly afraid I was going to break one of the dvds getting it out, and didn't notice that one of the plastic pieces broke off for disk 3 and now the disk just sits in place and will fall out when opening the case if you are not aware.  Otherwise I would have given it five stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best WW II series yet. </p>
+
+
+<h2> review.date </h2>
+  06-28-2013  
+<h2> review.text </h2>
+
+ <p> I have been waiting for some years to be able to purchase this collection in its entirety, and to say it was worth the wait is an understatement of huge proportions.  The artwork and animation almost literally bring the viewer into the cockpits of these battling aircraft, and it is unsurpassed in its graphic reality. Even actual films of the aerial combat do not meet the standards established in this technology.  A fantastic addition to a rather voluminous war films collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An absolutely superb collection! </p>
+
+
+<h2> review.date </h2>
+  02-17-2011  
+<h2> review.text </h2>
+
+ <p> This collection of aerial warfare documentaries is exceptional and phenomenal.  You have a better understanding of the great battles over a century of human flight.  You see what happend not only based on testimonials, but opinions from multi-generations of historians, pilots, and "experts" as things happen and could happen on the future wars.Any one who likes aviation can't over look this collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Aerial CGI documentary </p>
+
+
+<h2> review.date </h2>
+  11-21-2008  
+<h2> review.text </h2>
+
+ <p> Those words fit this series perfectly. The CGI in these stories is really amazing : at times, you can't tell the difference between the computer view and what it would look like peering through the canopy yourself. The current interviews with the men who were involved with these various actions adds immensley to the telling of these tales. Anyone interested in military aviation or military history........BUY IT!!!!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "You're in the cockpit"................... </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> I gave this book to my son for Christmas.  He actually asked for it and seems to like it a great deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great gift </p>
+
+
+<h2> review.date </h2>
+  01-09-2014  
+<h2> review.text </h2>
+
+ <p> My boyfriend is big into planes and war. He watches this on you tube. I wanted him to be able to watch in the house when he wanted to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dogfight </p>
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> Purchased for my husband & he is obsessed!! He watches it all the time, he even has my lil boys watching it too!! So it was a great buy!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  01-24-2012  
+<h2> review.text </h2>
+
+ <p> "Dogfights" are possibly the most impressive document on air warfare I ever saw. From the very first episode I was absolutely impressed with the quality of reconstructions, the care accorded to details and the passionate tone of narration. From World War I to the air fights over Kosovo in 1999, all episodes are extremely interesting and the fights described very well chosen. Many of those true stories are more incredible that some of the episodes seen in action movies! Also, authors made the remarkable effort to interview almost all the pilots who REALLY fought in those engagements, to preserve their testimony as long as they are still alive! For obvious reasons they couldn't do it for pilots of World War I, but even then they found some old records of WWI veterans taken in the 40s! To hear the testimony of people who actually faced German Fokkers in 1918 over France is a unique thing. Those interviews, excellent graphics explaining all the moves and CGI images showing the reconstruction of actual fights make those series an absolutely unique document!I loved every single minute of every single episode but my absolute favorites are:Season 1, episode 1: Mig Alley (Korean War)Season 1, episode 2: Air Ambush - Operation "Bolo" (Vietnam War)Season 1, episode 3: Flying Tigers - is there any need to say more?Season 1, episode 5: Hell over Hanoi (Vietnam War)Season 1, episode 8: Death of Japanese navy (Battle of Leyte) - with the accent put this time more on the naval fightSeason 1, episode 10: Long Odds - including the TRUE story of a dogfight between a single SBD Dauntless bomber and three successive Zero fighters (Battle of Coral Sea)Season 1, episode 11: Dogfights of the Middle East (Six Days War, Yom Kippur War)Season 2, episode 1: Kamikaze! In my opinion the second best in the whole series - three jaw dropping and absolutely TRUE stories; the one about the lonely fight of destroyer USS "Laffey" against a swarm of kamikazes on 15 April 1945 is especially poignant!Season 2, episode 2: Luftwaffe's Deadliest Mission: the BEST and the most INCREDIBLE but TRUE story in the whole series! I do not want to provide spoilers, but if you really want to know what this is about, you can check on the web "Sonderkommando Elbe" - or you can simply watch this episode and enjoy the surprise...Season 2, episode 5: Gun kills of Vietnam - canon fights in missile era - three incredible fights including one in which outdated WWII era turbo propelled planes faced MiG-17s...Season 2, episode 8: No room for error - low altitude dog fights (WW II, Korean War, Vietnam War)Season 2, episode 9: Night Fighters - less known planes on sometimes surprising missions - inluding a raid by two (yes, only two!) F6 Hellcats (night versions) against a large Japanese air and naval base...Season 2, episode 10: The bloodiest day (Vietnam War)Season 2, episode 16: Death of the Luftwaffe - the gigantic air battle (about 3000 fighters involved in all of which about 1000 Germans and about 2000 allied) over Belgium and Netherlands during the Operation "Bodenplatte", 1 January 1945...Season 2, episode 18: Dogfights of the future - an episode longer than previous ones, showing some very surprising technologies, which are already under development...Now, those series have also some limitations. The CGI images are really not on the "Star Wars" quality - but the stories are so passionate, that it doesn't matter any more after a couple of minutes. There are some (very, very limited) factual errors but you need to REALLY know your WWII airplanes to notice them.Now, those series are almost totally American oriented and they mostly describe achievements of American pilots. The only few exceptions are accorded to the Israelis (two episodes), the Germans (two episodes), the Japanese (the Kamikaze episode) and the British (the "Hunt for Bismarck" episode). Also, those series are also very patriotic and even "gung ho"... I for one have absolutely NO problem with that, but people who are radically left winged can get very upset very fast, especially in all the episodes about Vietnam War...To conclude, I consider those series as one of the best purchases I ever made shopping for documents on DVD! They are a treasure and a must for anybody interested in aviation and/or in military history! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Incredible series! Every single episode is a treasure for anybody interested in aviation or military history! </p>
+
+
+<h2> review.date </h2>
+  10-29-2011  
+<h2> review.text </h2>
+
+ <p> Yes, there are still a few of us who've been building model airplanes since we were kids... and "Dogfights" reminds us that the models we build today are based on the machines that helped decide who won or lost the battles, as told by the men who flew them.This series is excellent, because it shows us what the men who flew these warbirds had to do, even if it meant disobeying an order, having to invent a new maneuver, or force a plane to do a job it was never meant for---and emerging alive to tell the tale. If you like suspense, "Dogfights" has plenty of that. We also learn that good airmanship is nothing to skimp on, and is every bit as important in deciding which pilots come home and which don't, as the reliability of the aircraft themselves.We also get some technical background on the planes themselves, and even a few bits of the design philosophies that went into their construction. Sadly, only a few of these planes have survived to the present day... but then again, they were built to fight wars rather than last for decades as museum displays.For you military history and aviation enthusiasts contemplating whether to buy this series, it's definitely worth the price and then some. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As told by those who flew them... </p>
+
+
+<h2> review.date </h2>
+  03-15-2013  
+<h2> review.text </h2>
+
+ <p> Early on I purchased the first season of Dogfight.  Then one Saturday I was viewing the History Channel and saw the Tuskegee Airmen fighting over Germany and I knew I had to have that in my collection.  The dogfight are so real and the explanation of what you seeing on the screen is outstanding.  You can almost learn to fly by the instructions the narrator provides.  If you've always wanted to understand how a fighter pilot proformance in combat this is the series to buy.  The animation is outstanding! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dogfights: The Complete Series Megaset. </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> Because! If other shows were done so very Professionally & Perfectly, I would have a library Sooo BIG, there would be no room in my home for it all! I watch these over & over & over, they ARE MOST XLNT!!! 10Stars in my personal opine! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can Anyone Ever Beat "Robin Olds" Record?  I DOUBT IT! No Way! `:) </p>
+
+
+<h2> review.date </h2>
+  05-22-2009  
+<h2> review.text </h2>
+
+ <p> I didn't miss evry hours of "Dogfight"S fromTV program of HISTORY CHANNEL.Most of all, I was deeply impresed with CGITechniques from which I coul'd understandMany,various "Air Tactics"during "Dogfights".I got only vague conceps from many Books!My most favourable titles amng 17 Air Battlesare as followings:1) First Jet-vs-Jet Fighter's battle betweenF-86 Saber and MiG-15 over "MIG ALLEY" inKorean War.2) Gun Kills,after failure of Air to Air Missles.At first ,F-4 Phantom II had no Guns.After many hard experiences,F-4C/D, put aM6IAI "Gattling"6 barreled Vulcan rotary 20mmon gun pod.-->F-4E had 1X a6 barreled 20mmVulcan rotary cannon inthe nose part of fuslage.3) Air Ambsh of MiG-17,mIG-19 sometimes including MiG-21.they generally ambush at lower altitude and zooming upfor attacking F-105D thunderchief fighter-bomber,Last NAVY "Dogfighter",F8U Crusader(4X20mm cannon+ missle)and A-4 Attacker-->"Hit and Run"Tactics before coming escortingF-4C/D/E Phantom fighters.Famous US.CO.COL.Robin Old strongly requested to all F-4Pilots1.engagagement of battle--> Fighting-->KILL!2.Team work. 3. individual tral ning of "Dogfighiting".-->no more missle oriented Air BattleCOL.Robins Old specicial,verry effective tecnnic--"Operation Bolo"4)Hell over the Hanoi: crucial air battle between F-4C/D/E and Mig-21.escorting F-105,A-4 also prophylactic deffense of Bombingheavy bomber B-52S.! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Teaching Material---CGI-----Find out only the way, complete teaching & understanding "Aereal Techniques" in "Dogfighiting"! </p>
+
+
+<h2> review.date </h2>
+  12-26-2009  
+<h2> review.text </h2>
+
+ <p> Season 1 & 2 of Dogfights have been fansinating to watch.  I have used both editions as gifts to young aviators that are learning the history of military aircraft.  Not only are the actual dogfights illustrated with fantastic computer graphics, but individuals that lived and flew those missions are often giving additional commentary.  Great buy for any aviator interested historic events involving aircraft. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dogfights </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> Half of it feels like you're in the cockpit; the other half is like a classroom of dogfight tactics, with 3-D live action diagrams charting every offensive move and defensive response -- never letting you forget that these are real live plane against plane dogfights where only one pilot survives!The best CGI brings the classic air battles to life: WWI, WWII, Korea, Viet Nam, the Middle East, and even air battles of the supersonic future - and you get a ring-side seat.  Animation that feels like a hand-held camera that searches the skies and suddenly zooms in and finds your prey - or predators.  Tense, riveting narration.  All this brings the immediacy of the combat to your screen.This series is not for everyone.  If you prefer The Good Wives Club, pass on this.  But if Band of Brothers or Saving Private Ryan are in your collection, definitely add this one too.  You'll enjoy every moment, and watch it - and learn more than you ever guessed you didn't know - again and again and again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> air combat like you were living it! </p>
+
+
+<h2> review.date </h2>
+  11-15-2012  
+<h2> review.text </h2>
+
+ <p> A fascinating insight into WWI, and post war dogfights using authentic looking computer graphics interspersed with live intertview of the airmen involved. Some accounts gripping, witty, and downright scary as the then young airmen diced with death amid the clouds. The survivors give gripping accounts of their experiences and this who set makes for an important document on the conflicts that shaped the 20th Century and why we fought and for what. Markings and Units are accurately portrayed as far as I could see on the CG's and some segments looked very realistic which could never be even be seen using period gun camaras which only showed blurred, 'jumpy' images and the jarring of ther guns going off.Great viewing and a must-have for WWI, Korean and Vietnam buffs of aerial warfare in the 20th Century. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dogfight DVD set </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> Highly recommended for all history buffs.  Having the real-life heroes talking is outstanding and makes you think that you are in the cock-pit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A+++++++++ All the way!!!!!!!!!!!!!!!!!!!! </p>
+
+
+<h2> review.date </h2>
+  02-02-2009  
+<h2> review.text </h2>
+
+ <p> Seasons One and Two of "Dogfights" compliment each other so well that I highly recommend buying both disc sets at one time.The CGI is fabulous.  The resulting visuals are arresting, much more lifelike than actual combat footage, which tends to be grainy or washed out.  The CGI is so accurate that even the reflections on the fuselage of each aircraft follow the sun as the pilots maintain an orbit above or around a target, or pursue their enemy.  The sequences of aerial combat are very fluid and very close to the sort of dogfight scenarios that one might visualize without having had the actual experience of air combat.The two sets of nine discs have some really beautiful highlights:  "Long Odds", a segment that features "Old 666", a B-17 outfitted with thirteen .50 calibre machine guns and heavier armament.  That Flying Fortress was tasked with the reconnaissance of Japanese troop movements over various land locations.  Old 666 was  involved in a 45-minute dogfight, facing an overwhelming Japanese presence.  Its pilot, Jay Zeamer won the Medal of Honor for his heroism.  Ultimately, the crew of Old 666 became the most Highly decorated B-17 crew of WWII.  A great story."The Luftwaffe's Deadliest Mission" depicts the unique mission of the SonderKommando Elbe, and elite group of German pilots mustered together in a last ditch effort to stop the allies from entering Deutchland: Using stripped down ME109's, the mission of each pilot was to seek out and ram Allied B-17 and B-24's in Kamikaze fashion.  The CGI is great, but the interviews with two of the surviving pilots is especially interesting.Other notable episodes about World War II also feature CGI depicting aerial engagements involving naval vessels: "The Hunt for the Bismark"  and "Death of the Japanese Navy". The latter episode is a CGI adaptation of the actions surrounding Taffy III, and how that task force, which was cut off from the rest of the US Pacific fleet for a few days, managed to inflict serious damage on Japanese naval forces in the straights of the Phillipine islands.Also noteworthy is "The Tuskegee Airmen" which goes into specific detail about the heroic exploits of the Brave African-Americans who flew P-51 Mustangs in covering missions for the B-24's and B-17's that flew combat missions in the skies over Romania and southern Europe.Other Highlights:  "Death of the Luftwaffe" chronicles Operation Bodenplatte, which took place on New Year's day, 1945 against a forawrd American airbase in Europe; And "Secret Weapons"  which are accurate depictions of the ME-262, the Kamikaze, and remotely controlled airplanes.I counted about three episodes about the air war in Korea, which include "Supersonic" and "Jet vs. Jet".  Again, great CGI.  Ace Pilots Frederick "Boots" Blesse, Robbie Risner and Ralph Parr give great commentary.  The leap in jet technology and the effect it had on aerial combat and the resulting high speed problems each pilot faced are explained in surprising detail.Of particular interest is the inclusion of about a half-dozen episodes that depict the F4 Phantom and the various missions assigned to their Pilots and Radar Intercept Officers.I'm a huge fan of the F4 Phantom and the pilots that flew them, so these episodes are truly amazing to me. It's difficult for me to imagine to be at the top front of all that raw power."Hell Over Hanoi" with commentary by Fred Olmsted and Dan Cherry F4 is great. "Air Ambush" with commentary by legendary Air Force Ace Robin Olds is also something to see.  That episode has a brief flashback - sort of a story within a story - to his days as a P-38 combat pilot in the skies over western Europe during World War II."One Inch from Out of Control,"  features commentary by Willie "Irish" Driscoll and Randy "Duke" Cunningham and is simply put, amazing.  At the controls of the USS Constallation's VF-96 "Showtime 100," the Pilot and RIO score three MIG kills and escape a Surface to Air Missile hit which tears their Phantom apart and with only nanoseconds to spare, eject into the waters of the south China Sea.Other noteworthy Phantom sequences: "The Bloodiest Day" which depicts the May 10, 1972 bombing mission of the Hai Dong Railyards, and "Gun Kills of Vietnam," which shows how effective the addition of a gun pod on the F4 was."Dogfights of Desert Storm" is also covered extensively in one episode, and on another disc, an episode covering the exploits of the Israeli Air Defense Force is also included.There isn't much about World War I, but the series' introductory episode feautres a segment devoted to Eddie Rickenbacker and the techniques of aerial combat that he and other notables such as Manfred Von Richtoffen helped to develop and are still studied by combat pilots today.To its credit, the History Channel also put together a CGI series that dealt more with ground combat in World War II, but the CGI didn't work all that well.  Even though the historical information was accurately depicted, the CGI wasn't nearly what it should have been mostly by virtue of the complicated nature of recreating computer-generated human beings.  In other words, the soldiers didn't look real."Dogfights" Seasons One and Two are two dvd sets that I highly recommend.  Devotees of air combat will find themselves watching many of these episodes several times to get all of the nuance of the air engagements depicted on these dvds. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't miss this great series! </p>
+
+
+<h2> review.date </h2>
+  08-24-2010  
+<h2> review.text </h2>
+
+ <p> I bought this item for my son after purchasing seasons one and two seperately for my husband. It's the perfect gift for the aircraft fanatic in your home. It goes into the not only the dogfights but the people who did them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The perfect gift for aircraft buffs. </p>
+
+
+<h2> review.date </h2>
+  12-22-2008  
+<h2> review.text </h2>
+
+ <p> I have been loving this show since it started almost 2 yrs ago. Their interviews are the most fascinating and contribute to the history (oral history) of the aviation industries and military history. I am so grateful to have seen BG Robin Olds on this show again. Their visual effects and CG images are very well done. And the narrator tells the stories in a very exciting manner. By far this has been the greatest military/aviation show featured on history channel. There, though, can some improvements. Like they could show other nation's aerial battles too. But again I give this 5/5 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Informative, exciting and detailed! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

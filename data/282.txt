@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B005HMHPE0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Downward Spiral Continues </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The train wreck that is Hank Moody's life continues to hurl ahead at full speed in the fourth season of Showtime's raunchfest, Californication.  The latest installment in the chronicles of the deeply flawed author finds him dealing with statutory rape charges stemming from an encounter with Mia way back in the first season.  One of the great things about this show has always been how its characters are haunted by their past transgressions and its good to see the series getting back to exploring this theme after the largely consequence free romp that was season three.The twelve episodes of this latest season are wildly entertaining and often jaw droppingly vulgar (see the story arc involving Charlie and his realtor for further proof of this), but they are also frequently shot through with sobering flashes of sadness, regret and heartache.  For every fling that Hank engages in and every bit of booze and drugs he consumes, a part of the man he desperately wants to be seems to drift farther away.  What's most tragic about this is that Hank knows it's happening but seems unable or unwilling to make the changes needed to become the person he truly wants to be.Yet Californication continues to brilliantly convey these themes in the guise of a series that is loose, fun and endlessly amusing.  It conveys an effortless sense of cool and good times, even though things are falling apart beneath the surface.  Just like Hank Moody himself. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Show </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Duchovney (sp?) is hilarious in this show.  Talk about mid life crisis, but you can't stop laughing at how self destructive he is.  Great show. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best show on television </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Duchovny's character reminds me of a writer I know and I can't help but shake my head at the conundrums this man gets himself into. The series is still somewhat refreshing due to the introduction of new characters in each season. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> best season yet </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-03-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> season one was good (better than the average series and way better than other half-hour comedies) - season two was better - season three was best and then season four came along... off the charts -- after 25 years in Hell-A as the wife of a successful writer (and a NYC transplant) I find myself literally rolling on the floor laughing at the only slightly exaggerated characters that populate this exceptionally well written, acted and directed half-hour slice of all that is wonderful and dreadful about our grim industrial global-dream-factory town. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Continued Travails of Hank Moody </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-30-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just finished watching Season 4 of Californication and although in my opinion not the best of the seasons, it is still filled with many laugh-out loud, outrageous moments that will keep die-hard Hank Moody fans begging for a 5th season. The 4th Season is primarily focused on Hank battling against accusations of rape pending from his escapade with Mia. His best friend and agent Charlie is getting along after being separated from Marci and is attempting to sleep with 100 women before he dies---problem is he is only up to #11 when the show starts. As the season progresses, you start to feel as if the show is getting slightly old and that if it is to continue it may need a radical makeover. The development of Hank's character as tragic starts to get tired, his moments of self-reflection old, and you continuously wait for some sort of big "bang" to happen to jolt you and Hank and the rest of the characters out of a bit of a slumber. Without giving away the ending of Season 4, I will say that it is not as dramatic as the previous seasons although does involve a ride into the sunset by both Hank and his ex-wife and daughter---although not in the same car. A good but not great or memorable season for Californication lovers. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Kind of offensive and tiresome </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I suppose that man-whores like this do exist in real life, but all the gratuitous sex seemed, well, gratuitous. And the 'tension' of the still alive connection with his ex-wife, in which he wishfully pursues her yet continues to cluelessly ruin his life and can't get her back, seems contrived.  I just couldn't get involved in the story or the premise. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Same old sexual problems continue....yet again...and zzzzzzzzzzzzzzzzz....... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like this TV show but it does get a little old watching David Duchovny's character as an overly sexual playboy who keeps up the bad habits. I'm wondering when they will introduce the episode where he catches HIV at some point. I have watched a few old girlfriends from San Francisco die because of guys of similar behavior that his character exhibits. LOL! However, its entertaining. Also, the male behavior in the TV show reminds of the lifestyle and mentality of a lot of men in L.A. and San Francisco which is interesting. They do capture a very realistic but sad view of today's male and female society... BUT it does get old too. Its like...really??? Gross! Grow Up! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love this season. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This show is amazing. It keeps you guessing about what is going to happen next. One thing after another seems to happen to the main characters. I highly recommend. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Losing its edge </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-27-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> "Californication" has become a disappointment. Sure, there are some hysterical moments in Season 4 (most of which involve Rob Lowe), but the big problem with this show is that there are quickly becoming fewer and fewer reasons to like the character of Hank Moody. In this season, Hank faces statutory rape charges, but because of the situation, it really isn't his fault and viewers don't hate him for what happened with Mia. However, his constant drunkenness, lack of concern for his teenage daughter, constant couplings with less than admirable women, and general inadequateness make it very hard to feel sorry for this guy. I almost don't want Hank and Karen to end up together because her character is so amazing and she could do so, so, SO much better than Hank! We'll see what Season 5 brings. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hope springs eternal... </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> On a  personal note, my nickname is Mia, so when Mia sabotages Hank, if it were me and again this is just me...she would have been done away with ( you know the old Mafia way, concrete shoes, &#34;don't worry how they look, how do they feel&#34;  but that is just me.....and on the other hand there has to be a reason for the season...I just took it a little too personally.Many twists and turns and thank God for Hank's agent, as Hank is treated with love and dignity and tons of piss off towards the thieving Mia, collectivley.Again, a winner, and great to watch and enjoy and get all involved in and tweaks every emotion for the viewers. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Adult sit com - hard ta describe using PG language </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Hank has a problem w/ thinking w/ the lil head and impulse control. It's funny watching as um and well worth the time. Can't really say what happens w/o spoiling the show so. Naked people but it's not gratuitous and always funny. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love this show and season 4 was one of the best </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Hank Moody pretty much never gets old. I would highly recommend any season of this show as they are all tremendous. Great lead character and David Duchovny does an awesome job of portraying him. Two thumbs up. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

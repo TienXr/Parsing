@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00EP3G534 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Was better than expected.3 1/2  stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> so it was ok.Didn't really know what to expect with this book. Never heard of the author or the series. The story was told well and it moved at a steady pace .No drawn out dramatics which was refreshing.I had a hard time liking Dera .She was very submissive through out the whole book. She goes through many trials that mature her and while I don't agree with most of the decisions she made she never faltered when it came to protecting or helping the ones she loves.Quint was an interesting character to get to know. He believed in what he was doing throughout the book and even though he does some things that are mean he still stays true to him loving her and proves himself worthy I guess to me in the end.While I think this story was good a lot of Drea and Quints problems were lack of communication and even when the truth comes out they resist each other out of mistrust.All in all it was good for a free book . </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Very emotional story </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was an interesting story but so much happened to the main character that I felt it was a little too much. I enjoyed it though </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good story and kept my interest throughout the book.  I have just purchased book 2 of the trilogy and looking forward to the read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A love that sparkles forever </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Lively like the lush, sunlit Irish meadows surrounding her, Dera Brennan deeply loves Quint Flannery. Her family's enemy, Quint is obsessed with taking back his family's ancestral manor that was once confiscated by the English during the volatile conflict between Ireland and England. A peculiar twist of fate leads Dera into an unwanted marriage with Lord Avery Fairfax. Dera becomes Lady Fairfax with all the wealth and gifts showered upon her, except for the one thing her heart truly craves--Quint's love.Dera promises her husband, Lord Fairfax, that she'll remain faithful to him, but she soon faces the temptation and heartache she must endure to honor her oath. Quint becomes furious that Dera is his hated enemy's wife. Determined to win back her love, he's still not willing to renounce his involvement with the Irish rebels in the raids and burning of the English estates. Torn between her love for Quint and her own raging conscience that Quint is wrong plunges Dera into despair and doubt. How can they ever conquer their differences to squelch the aching desire in her heart?The first book in Lynette Vinet's "Emerald" trilogy, EMERALD DESIRE gleams with the brilliance of sweet young passion that blossoms into an everlasting love. The sparkle from this gem of a romance is so bright that readers will welcome the sequels, EMERALD ENCHANTMENT, and EMERALD ECSTASY.  Way to "glow," Ms. Vinet...an excellent read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I would read this author again </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The writer held my attention throughout the story.  I loved the background and history of Ireland to the colonies.  I did not love this hero until the end of the book.  The storyline had a &#34;Sleepless In Seattle&#34; feel.  Unfortunately, wasn't one of my favorite movies. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> nice read, but a bit too tragic for me! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved Vinet's story but found the succession of husbands dying too much for the heroine of the story.  The author's story is compelling, but could use a less dismal approach to trials and tribulation on the way to the ultimate &#34;happy ending&#34;. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great, old-fashioned romance with fiery passion </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved all the Emerald series and this was the first of the three.  EMERALD DESIRE sweeps readers back to Ireland, to the days of love, laughter and easier living.  A love that will light your nights and keep a song in your heart.  I highly recommend EMERALD DESIRE by Lynette Vinet. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> OMG </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book kept you on the edge from the beginning .i can't tell you how much you will all enjoy this story .the author did a good job keeping me in suspense.i gave it five stars.this is a must read </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Troubled Beginning </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Dera' s mother told her that she didn't want her, couldn't take care of her. That was a lie, and it wasn't the first lie that she had been told. Dera was sent to live with her Uncle Timothy and Aunt Lydia in Ireland. Uncle Timothy worked as an overseer for Lord Avery Fairfax. Dera had learned to be helpful and stay out of the way. She soon learned how to take care of the rent ledgers.Quint Flannery and his parents live as tenants of Lord Fairfax, on property they once owned.Dera learns that Quint is part of an Irish rebel group who burn the homes of English aristocrats. The landowners were hated because they had been given positions of wealth, power over the locals, and they had confiscated their land.  They were starved and when they became too weak to work, they were locked out of their houses and driven away.Dera loves Quint, but he also has another bed partner.  Although Dera doesn't love him, she agrees to marry Lord Fairfax.  He is unable to fulfilling his physical manly duties.Quaint is captured, jailed and sentenced to hang for his crimes. Later, he escapes from prison, and Lord Fairfax is murdered. Quaint believes that Dera betrayed him. She didn't. This story meanders through historical space and time. We are torn between anguish for Dera, who is now pregnant, and the tale of two lovers torn apart by deeds and misdeeds. New Orleans beckons to both. They ventured forth for a new chance at life, leaving behind their emerald desire on the ever green, Emerald Isle.Shades of Irish ghosts! This story will thrill and chill your bones. Read and enjoy. Lynette Vinet has written and had published eleven historical romance novels. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hero Can't Keep His Trousers Buttoned - Heroine Keeps Marrying the Wrong Men!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> After checking out the the brief book description, I was looking forward to reading this book. About 1/3 of the way into the book, I knew it wasn't my type of book but decided to go ahead and finish it so I could write a review.Background: Dera Brennan's mother was a beautiful girl who left Ireland to go to England when she was a young woman and eventually became the mistress of an English aristocrat. She wasn't particularly nice to Dera and when Dera asked who her father was, her mother told her she didn't know and that Dera was a bastard. When her aristocrat quit supporting her, she felt that having a young daughter was a hindrance to her future plans so she sent Dera to live with her Uncle Timothy in Ireland.  Uncle Timothy was the overseer of the property owned by Lord Avery Fairfax. Although Uncle Timothy and his wife, Lydia weren't cruel to Dera, they weren't exactly the picture of a loving family either.  Eventually Dera becomes her uncle's assistant and takes care of the rent ledgers of Lord Fairfax's tenants.Irishman Quint Flannery's family home had been taken away from his family when he was a boy because they were Roman Catholics. His family's property was given to Lord Avery Fairfax and the Flannerys were now tenants on the property they used to own. One day Dera discovered that the Flannery family's rent wasn't being paid and her uncle explained that the father of the home had died and that his son, Quint, now lives in the cottage with his mother.Being a compassionate girl, Dera decides to visit the Flannery home and check out their situation. She is somewhat taken aback when the handsome Quint answers the door. There is a spark between them and his mother, who apparently has been gifted with the "sight" tells Quint that Dera is "the one."  When Dera asks Quint was his mother means, he explains that his mother means that Dera is the one he will marry.  However, Dera is still very young so Quint tells her that they will wait for a few years and then they will be together.*******Huge Spoilers*******  Time goes by and eventually Quint and Dera do get together and become intimate, however, Quint always puts Dera off about marriage.  He is part of an Irish rebel faction who take their vengeance out on the English intruders by burning the homes of the English aristocrats who have been given the properties formerly belonging to the Irish.  From here on out the story goes completely downhill.#1 - Although Quint confesses love for Dera and has intimate relations with her, he beds another young woman on the side on a regular basis.#2 - Dera is so beautiful that she gets the attention of Lord Avery Fairfax who wants to marry her.  Because she is being pressured to marry Fairfax by her Uncle Timothy and his wife, Lydia, Dera goes to Quint to tell him they must get married so she won't have to marry Fairfax.  When she arrives at Quint's cottage, she hears sounds and yes, you've got it, he is having sex with his "other woman" and Lydia hears Quint speak words of love to the other woman.#3 - Hurt and angry, Dera marries Lord Fairfax.  Quint works in the stable at Lord Fairfax's home.  When he tries to get Dera to tell him why she married Fairfax, Dera won't tell him the true reason. Fairfax is unable to consummate the marriage and alternates between kindness and abusiveness to Dera for the few years that she is married to him.#4 - Eventually Dera and Quint do get together even while she is still married to Fairfax and she explains why she married Lord Fairfax.  Quint tries to explain his relationship with the other woman as being only physical and tells Dera he has sent her away.  However, Quint continues burning homes and eventually is arrested and sentenced to hang.  Quint's evil friend, Jem, approaches Dera and tells her he can get Quint out of jail but she has to do a favor for him - yes, you guessed it - the favor is sexual favors for Jem, which she agrees to and Quint does escape from prison.  Because Quint knows that Dera knew about the rebels' hiding place and what they were doing, he believes she is the one who betrayed him. However, he knows nothing of the price Dera paid for his freedom.#5 - Shortly after Quint escapes from prison, Lord Fairfax is murdered.  By now Dera is also pregnant with Quint's child but Quint has left for places unknown to get away from the warrant of death hanging over his head.  A kind friend of Dera's, Dominick, asks her to marry him and go to live with him in his home in New Orleans.  Eventually Dera agrees thinking she will never see Quint again.#6 - After a few years in New Orleans, Dera sees Quint, who is part of a group of Irishmen who now work for the French government, keeping peace in New Orleans. They acknowledge one another but although Quint and Dera know in their hearts they still love each other, he is still angry and she doesn't want to betray Dominick who she respects and honors.  In the meantime, her teen-age sister-in-law, Rosette, who is man crazy, falls for Quint and visits him at his office which has a cot and yes, you guessed it, Quint locks the door and relations ensue.So, at this point, for this reader, no matter if Quint and Dera get together, this book has not made me "happy, happy, happy."  In fact this is the kind of story line I do not like at all.  Confusion and unrequited love throughout the entire book!  The H/h are never on the same page long enough to get together in the way it matters at the right time - too many other factors entering in. But the primary issue I have is that Quint declared his love for Dera over and over again but come on - you're going to have sex with her 17 year old sister-in-law???  As is the manner in most of this genre, in the last few pages all is resolved - but it is too late for this reader!  How can all be resolved with this stupidity?Thankfully, I read fast, this book only took up a couple of hours on this book.  If my review will help anyone who feels the way I do about this type of story line where the "Hero" of the story can't keep his trousers buttoned and the "Heroine" is always marrying someone other than the man she loves, then at least I have accomplished something with the time it has taken to write this review. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The story started off really good. Then </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The story started off really good. Then, the scenery and detail of the tappered off. The story became more about telling the story instead of showing the story. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not much of a romance in my way of thinking... FRUSTRATING is more like it </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> For a short book this one seemed so so long to me, this is not my kind of book, I hate when the hero is such a man whore, he claims to love the h but yet constantly is having sex with other women, that type of man doesn't love anybody.Then there is the h = Dera, who can't seem to ever marry the right man, and who doesn't tell the truth.  Why she never told Quint that she seen him having sex with another women was never really explained, and things like that just drive me nuts...  As I said ... NOT my kind of book...If you enjoy reading about men who cheat on the one they are claiming to love, not just once but over and over again, and even at the end when they finally get together if you can feel any joy for them... Then this one is for you!To me I can not recommend it, this book was just frustrating to me!!!  and NO I will NOT read anymore in this series!Happy Reading Ya'll </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This book started out really good but took a turn I didn't like </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book started out really good but took a turn I didn't like. At that point, I was done with it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Read! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I could not stop reading to get to the end so I could get to the next book! It was great! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Just didn't do it for me </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I thought I would like this book, and was looking forward to reading about Ireland--and in the beginning I thought for sure all would work out for Dera and Quint. Well, it did, I guess.  But so much happened in the in-between...Quint had so much anger, and although he said he loved Dera, he certainly had a strange way of showing it.  Bedding her sister-in-law wouldn't show me love, nor would his hateful words to her.  Then when he got together with Dera, it definitely bordered on rape.Dera supposedly loved Quint--but married two other men?  They both supposedly loved her--basically because of her beauty-- (great message there) but mentally abused her? Bad track record for Dera. But she really didn't stand up for herself, and allowed herself to be treated so poorly. Does this happen in real life?  Yes.  But I didn't enjoy reading about it.I will not be reading the next two books in this trilogy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed this book very much. I couldn't put it down. Quint and Dera's love was captivating. As different as there were, they were meant to be together. I couldn't wait to read the next book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's hard to like a book... </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> When you dislike all of the characters.  Dera, as expected, is impossibly beautiful but hated by every woman in the novel, save her lady's maid, Anna.  Quint, is impossibly handsome, but so frequently willing to believe ill of Dera it makes you wonder why he keeps coming back.  In fact, most of the men in this novel hate Dera, at one time or another.  So, why is Dera so sought after?  Oh...I forgot...Dera is impossibly beautiful.She's also rather ridiculous in my view.  On three separate occasions she has information, that if shared, could have made a significant difference to Quint, our romantic hero, but for whatever reason, she chooses to remain silent.  She vacillates between being a doormat and being a shrew toward the men in her life.  At one point Anna, says "I'll never understand your unthinking tongue."  I'm right there with you, Anna.I should also note that there is one occasion in this book that walks a very fine line between rape and consensual sex.  If that concerns you, be wary.Overall, I found this book to be a mile wide and an inch deep in its attempt to tell the tempestuous love story of Quint and Dera.  Quint is willfully stubborn and Dera is...well, I don't know what Dera is except beautiful.  There is weak characterization and numerous sex scenes that felt superfluous.  I think I'll pass on the remaining books of this series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Something Special </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Many books I have reviewed  have wonderful love stories but Emerald Desire was different. Dera and Quint had to go through many years before they could be together. This novel was very well written and the descriptions of the lands was wonderful Dera goes through two loveless marriages and Quint has too learn the hard way to find Dera again. I recommend the Emerald Series by Ms. Vinet and hope u will enjoy it too. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

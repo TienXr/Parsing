@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1484058380 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ...enjoyable, well-crafted, crime thriller... great read... </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> ...a cracking mixture of angst, anger, and regrets for a lost relationship compose the main character, Pete Brandt, a jaded sometime investigative journalist who carries the physical and emotional marks of a life that could have been better lived... when his ex-wife is murdered,  a message from a former pal brings him back to clear up her personal effects... the good and bad guys loom large across the pages, and it's a tease trying to solve who's at the nub of all the criminality... the dialogue is entertainingly droll... throw in a web of politics, cops and ex-cops operating on and over the edge of legality and Hill serves up a great crime story... the tension is well-handled... the denouement is particularly satisfying... enjoyable, excellently crafted novel..well done, Mister Hill... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love it </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Following peter as he tries to solve who killed his ex-wife is an exciting trip through a dark world. This book was wrote exceptionally well. If you love crime novels it's a recommended read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Murder and Mystery in  the Desert </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Martin Roy Hill's latest novel, 'Empty Places', is masterfully written, with tension on every page. Hill has an amazing ability make us feel like we&#8217;ve been magically dropped into a place and time, whether it&#8217;s the stifling closeness of the interior of a nuclear sub in &#8216;The Killing Depths&#8217; or the surreal emptiness of the desert in &#8216;Empty Places&#8217;.In 1987, world-weary journalist Peter Brandt returns from a devastating assignment in Central America to his old beat in Palm Springs, to attend the funeral of his ex-wife, Robin. When the police stonewall his inquiries into her brutal murder, he finds himself drawn into his own investigation. In the process he crosses swords with the super-rich, corrupt cops and politicians, and a wealthy Cuban ultra-patriot whose past is suspect.The novel has some great characters, both big and small, some poignant insights into relationships, and enough twists and turns to keep us guessing until the last page. A great read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A well written thriller with a suspenseful plot </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is a page turner. It has everything a good thriller needs: a suspenseful plot, interesting characters, actions, twists, emotional events and an unpredictable ending. The book is well written and well-structured. I read it over a period of three evenings and found it hard to put it aside.It starts with the murder of a woman in mysterious circumstances. The twists and challenges which the dead woman&#8217;s ex-husband encounters whilst unravelling what had happened kept me turning the pages. At times the story is fast-paced, at times it is told in a slightly more reflective tone, which is a good mix. To come back to the ending, I had my suspicions, and yet, the way the ending unfolded was brilliantly plotted and written.This is a novel I highly recommend. Readers who love crime novels and thrillers will not be disappointed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Empty Places </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a fantastic action thriller! I enjoyed every page, there never was a dull moment. The mystery was well thought out, with many twists and turns that I wasn't expecting. It was so layered and I liked that the person behind the murder wasn't the obvious one.The characters were very likable and realistically written, I found myself captivated by their stories.I recommend this book to every mystery and thriller fans! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Good </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was given this book by the author for review and enjoyed it.Within the darkened world we follow Peter Brandt, already weary of the human condition, who must investigate his ex-wife's death, he the only one its seems that takes it seriously.I don't give spoilers so will say that this story is fast-paced, gritty (if somewhat despondent about the lives we lead and the powers that take advantage) and well written.Worth reading if you enjoy crime novels with extra dimension. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A nice read </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I start with the title: it has two meanings. In the beginning of the book Robin Anderson is killed in a deserted place, alone. The other empty places aren't that obvious, they are hidden in the souls. Inside Peter, the ex-husband, who has seen brutal things leaving marks on him figuratively and literally. And inside men, who sold their humanity for money and power.I like the voice of the author, his style is smooth, I enjoyed reading the story.The characters are well drawn, not only the hero, but the smaller ones too. Some of them showed really interesting traits, for example Laurie, who... wait, I don't want to spoil it, better if you read it yourself.Unfortunately I could guess the main villain, even if the author made an attempt to divert me from it. Besides that there were quite a few surprises, for example the identity of the killer. And did I tell you what Laurie did? You won't believe it. There was even a turn after I thought it was over, the killer got what he deserved.If you want a good read, Empty Places is the right choice. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Crime writing at its best </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Every so often you come across an author whose work you just connect with&#8212;Martin Roy Hill is one such author.Empty Places is Hill&#8217;s second full length novel, his first, The Killing Depths, was published in 2012. On this occasion Hill has chosen to write in the first person, and his prose is excellent.  His sentences flow naturally, his dialogue is compelling, and he has an easy style that ensures that the writing doesn&#8217;t get in the way of the story.It&#8217;s 1987, and Peter Brandt, an investigative reporter with an international news agency, returns to his former home in the desert city of Palm Springs, to bury his ex-wife, television reporter Robin Anderson.  What Brandt discovers upon his return is that Anderson has been brutally murdered, and that the local cops are less than enthusiastic about investigating the crime.  Teaming up with his old friend, retired cop, Matt Banyon, Brandt sets about conducting his own investigation, and soon the two of them are drawn into a complex web of violence, lies, and corruption. The twists and turns are many, and Hill cleverly keeps you guessing until the very end.Martin Roy Hill has done a fantastic job of telling this well-crafted and very compelling story.  I highly recommend this book to anyone who loves good crime fiction. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's difficult to make an empty sack stand upright - 17th century saying </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This excellent story begins with enough information to solidly grab the reader's attention. Then, the tension grows with the exquisitely developed plot with unique characters action in ways to make the reader curious about what will happen next.The story opens in the remote countryside outside of Palm Springs, California. A TV reporter named Robin waits for a meeting with a person who she thinks will be a source to a story that could make her career. Instead, when a man gets out of the car, he pulls a gun and kills her.We learn that this is a work of fiction combined with historical facts around 1987.Robin's former husband, Peter Brandt, a war correspondent, returns to California for her funeral. When he sees the local police hesitating to put a real effort into finding the killer, Peter and his friend, Matt Banyon, retired cop, work together to expose the killer. They get no help from the local police who tell them to lay off the case.Robin was investigating the past of a wealthy character who was a Cuban exile. Peter finds records of this man and sees that he has many politicians in his back pocket. Peter also becomes interested in the man's work with Nicaraguan Contras.The author has a gift for pacing as the action moves at a rapid pace followed by segments of needed background.One thing annoyed me in that many times when someone spoke to Peter about Robin they called her his wife. Each time Peter would correct them and say she was his ex-wife. One or two times of this would be OK but this happened so many times that it became distracting.I found this to be an easy read and an edge of seat thriller. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Meeting in Desolate Places </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was provided with a copy of Empty Places by the author through the GoodReads "Reviews Initiative" group in exchange for my fair and honest review.Robin Anderson, a journalist and aspiring news anchor, had been warned never to meet a contact in an out of the way place. But, defying better judgment, Robin agrees to a rendezvous in the desert dunes, a desolate location lit only by a three-quarter blue-white moon. Perhaps it should come as no surprise that, shortly thereafter, her dead body is found. We then learn that Robin left behind more than just her ex-husband, Peter Brandt, who, stationed as a journalist south of the border, is notified by wire to go to Robin's funeral. Robin also left behind a tape--a tape that becomes sought after by both the murderers and by Peter as he tries to unravel Robin's last days.Martin Hill has, in Empty Places, created a brisk paced mystery that will keep readers engaged from beginning to end. My favorite of the characters is Peter's friend, Matt Banyon, who helps Peter to try to unravel events. I found him to be the most "fleshed out" of the characters and I "liked" him. Peter also is well drawn; he becomes more real as his guilt for having failed in his relationship with Robin grows (though his moodiness was a bit annoying at times--such as when he and Laurie stop at Zelda's for a drink). My least favorite character and relationship--by far--was Laurie Hall and her relationship with Peter. I found Laurie to be sophomoric--which I believe Hill intended though, unfortunately, this left the story without a single strong, intelligent female figure. However, I found Peter to be sophomoric in his belief that Laurie was genuinely interested in him. For this reader, Laurie was too much, too fast, too--false. I would have expected Peter to have seen through her. Indeed, the "missing point" in my rating of this story is due to this "relationship" between Peter and Laurie.Empty Places is filled with unexpected events and discoveries. Who is the mastermind behind Robin's murder? What does it have to do with events of years past? Why are the police so contrary to Peter and Matt's investigation? What role does the wealthy Carlos Tinnerman play? These and other questions will keep readers turning the pages of Empty Places until they reach the satisfying conclusion to this mystery. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> compelling murder mystery </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> War correspondent Peter Brandt is back in Palm Springs to attend to the funeral of his ex-wife. He meets up with old friend Matt Banyon, retired cop turned private investigator. Peter is reluctant to get involved in the murder of his ex-wife until Matt explains to him that it was more than simply a date gone wrong. Robin&#8217;s death had all the marks of a planned hit. As they investigate they realise that Robin was onto something big and they don&#8217;t know who they can trust anymore.It was very easy to connect with Peter. He had a very matter of fact attitude. He had upset a lot of people in the past and he didn&#8217;t really care that he was genuinely disliked my many influential people. Even though Robin was murdered in the Prologue, Peter&#8217;s reflections on their time together lets the reader understand her and feel some sort of empathy for her.There is so much going on with each character that anything I say about the characters, their development or the plot will be a spoiler.&#8221; I swear you&#8217;re either the bravest man I ever met, or the dumbest&#8221;OH MY GOSH what was Brandt thinking doing that interview in the plane!!I think he was a whole lot of brave and a little bit of crazy.There is such a build up as the plot slowly develops. Then the whole story that comes crashing out at the end is much more than what I was expecting.Some great teasers towards the end and I had to hold myself back from skipping pages because I couldn&#8217;t take the suspense.This novel had me hooked very early and didn&#8217;t disappoint. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

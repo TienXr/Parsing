@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00CFAH4K2 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> Wow AB Mac has done it again. Another recipe that is meant to be baked and served.  Sure makes it look fun and easy for someone like me who is a baker. ;-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cakeballs: How To Make Them (A B Mac's Famous Cakes) </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> I've always seen these cake balls in the candy shops, but never too the chance to try them out.  Now i can make them!  Definitely modify them for gluten free ingredients.  Simple clear instructions high quality images! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Candy Shop @ Home! </p>
+
+
+<h2> review.date </h2>
+  04-26-2013  
+<h2> review.text </h2>
+
+ <p> This book has some ideas how to be creative and have fun doing cake balls. Probably, you can read this book with your children and prepare cakes together. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cakeball fun </p>
+
+
+<h2> review.date </h2>
+  04-20-2013  
+<h2> review.text </h2>
+
+ <p> An eye opener on how to easily make any cakeball of any shapes, sizes and tastes that you want. Easy to use recipes and anyone can do this from the comfort of their homes </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cakeballs recipe galore </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> This is a really nice little book about cakeballs. It's short and to the point, but provides some excellent other ideas for what to do with these and overly dried cake. I had no idea that cakeballs contained so much frosting though, so if you are going easy on sugar... these snacks might not be for you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Creative and delicious-- whoa sugar attack! :) </p>
+
+
+<h2> review.date </h2>
+  04-22-2013  
+<h2> review.text </h2>
+
+ <p> If you are looking for a treat that will tickle your taste buds as well as your tummy then you're right at home here. I have made these yummy cakeballs and with simple store ingredients they can be made in a flash and then your only job will be to just stand there and take the praise and compliments from the kids or adults you serve them to. This is one "cookbook" I am adding to my collection. You should too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Delicious and unique.. these are indeed a tasty treat </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> Wow I never knew making cakeballs was so easy. I have thrown tons of stale and dry cake away over the years. Had I known about this I could have turned it into something beautiful. Love the decorating ideas and easy to follow steps in this book. Can't wait to try this with my grandkids. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Where was this book all of my life? </p>
+
+
+<h2> review.date </h2>
+  04-22-2013  
+<h2> review.text </h2>
+
+ <p> "Of course, I can't help you if you eat the whole plate of cake balls though." I cracked right up when I read this. I wonder if she had me in mind when she wrote this.A B Mac is a great baker and her recipes are always easy-to-follow. This book is no exception. There are clear step-by-step directions and lots of pictures that make this as easy as pie. This would be a great project for you and your kids to do together. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cakeballs - Better than Cupcakes </p>
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> If you're looking to impress and make a fabulous tasting treat, this book will show you how! First of all, I love the idea of recycling stale or overbaked cake into these delicious cakeballs. The instructions are very clear and easy with pictures of do's and don'ts so you can get the frosting part right for a great presentation. I'm also going to try bringing them along as gifts or treats for a party. They end up looking so impressive and are a nice sweet treat, without having to eat a whole piece of cake.  The book and instructions are well done and easy to follow, so you can create your own deluxe style cakeballs! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy Instructions- Create deluxe, bakery style cakeballs from home! </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> I am so impressed with these little cake balls and the instructions to make them . I cant wait to get the panty and  see what I may need to buy while Im am out , A great idea to take along to any evening party or get together I can see them being made by myself for many an occasion thankyou A B Mac for this wonderful idea that you have shared today . Lovely to look at and im sure even much nicer to enjoy with family and friends . I would say its a great recipe to get the children doing too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yummy , fabulous , so easy to make, </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> This is another great cookbook by this author, how to make cakeballs. This single recipe book has all picture and clear direction easy to follow. I love this kind of cookbooks! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How to make cakeballs </p>
+
+
+<h2> review.date </h2>
+  04-22-2013  
+<h2> review.text </h2>
+
+ <p> This is a one recipe, step-by-step book on how to make cakeballs.  There are colour photos that illustrate the process.  This is the perfect little book for you, if you just have always wanted to know how to make them.  They look so yummy, can't wait to eat them! Gotta go... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cakeballs </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> We had an unexpected visit from the grandkids today and "Cakeballs: How To Make Them," which I downloaded this morning, saved the day. Grandma got out everything needed and even I got involved in creating these wonderful deserts with the grandkids. Best of all was eating these treats after the easy making. I would most certainly recommend "Cakeballs: How To Make Them" to anyone wanting a wonderful experience creating an equally wonderful tasting treat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cakeballs: How To Make Them Saved The Day </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

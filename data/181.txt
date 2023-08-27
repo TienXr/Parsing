@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00004WLVA <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ernest Borgnine uses his fake European accent again </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> We are entreated with a song that sounds like leftover sixties or a Hallmark love story; they keep playing it over and over and over. Michael Gold (Brandon Lee) independent agent or mercenary is tasked with bringing back or killing a laser scientist Prof. Braun (Ernest Borgnine) probably related to Eva. If the scientists laser knowledge is crossed with the world biggest diamond it will create a, are you ready for this? Nuclear weapon. To do this mission Michael must teem up with the professors libeling daughter Alissa (Michael).The only problem is that the CIA does not trust him.  The daughter turns to have an annoyingly negative attitude.Is she for real as she can shoot, drive, and cross 40 miles of desert in high heals?Is the professor what he seems as he seems chummy with the bad guys?Is Sgt. Roberta (Maureen Lahoud) really a sergeant or a girl? In any case she is part of a Laurel and Hearty team.Like a cheap Bond movie will Gold get the professor, diamond and the daughter? Does he want to?After you get the bad taste of this movie out of your mouth, watch Ernest Borgnine put his accent to good use in "Ice Station Zebra" (1968) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wanted: Morto Ou Vivo!... </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-27-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> Whew doggies! This one's up there with Nasty Rabbit on the stink-o-meter! Superspy and international man of mystery, Michael Gold (Brandon "The Crow" Lee) must save Dr. Braun (Ernest "Devil's Rain" Borgnine) from the clutches of an evil austrian guy named Eckhardt, who has a human head collection in his family room. Eckhardt has also stolen the world's biggest diamond in order to make a deadly laser (which never even comes close to actually happening). Gold travels from Cuba to Africa, apparently via astral-projection, as he simply appears there; where he encounters Braun's daughter, Alissa, who is either a dim-witted superspy herself, or a dim-witted, frizzy blonde bimbette with ever-popping soap bubbles in her skull. Gold and Alissa secure a VW hippie-van loaded with guns and explosives, and tear around shooting and blowing up stuntmen until being blown up themselves (the van that is). Most of the action takes place in the desert, where austrian thugs come at our heroes one at a time, seemingly from nowhere, on foot and on horseback! The whole thing culminates in a sub-par climax at a diamond mine. Watch as Gold is shot in the back, a through-and-through wound that most certainly mulches his liver! Watch as he gets better, without so much as a band-aid! He's tough! Given the choice between watching this again or being roasted alive, I'd put an apple in my mouth and head for the barbecue pit! Take heed... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Boring Mission </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Brandon Lee vehicle sans copyright, now available at finer dollar stores near you. Boy does it belong there. In fact, the Pentagon should jam all of Iran's television stations with Laser Mission 24/7. The hardliners would end their nuclear program tomorrow. Tom Danger, Agent of World Peace. Ernest Borgnine's been in some dogs, but this is about the bottom of the barrel. Methinks the producer had some incriminating photographs. What's with these movie titles? First Kong Island with neither Kong nor Island, now Laser Mission without Laser. About all I can say is that Debi whateverhernameis bounces around nicely, but when a cute girl is all a film has to recommend it, why not watch porn instead? Besides, the acting's better. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hilariously awful and awfully hilarious </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-28-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Given the tragic circumstances of his untimely death, not to mention the deep respect I have for his father, I feel sort of bad about denigrating one of Brandon Lee's films (albeit, one of his earliest films).  Unfortunately, the fact of the matter is that Laser Mission exists solely to be made fun of, as it's such a hilariously bad movie.  The plot barely holds the whole thing together, the acting is pretty weak all across the board, the dialogue is so cheesy that that the film should come with a warning label for lactose-intolerant viewers, the special effects don't exactly blow you away, and even the music proves to be highly annoying.  Obviously, I really have no choice but to give the film a low rating, but that doesn't mean I didn't enjoy the heck out of watching it - this thing is chock full of unintentional hilarity.Brandon Lee plays Michael Gold, a secret agent-type guy who really isn't very good at his job.  Apparently, all of the CIA's spies were at a meeting or something because the Americans hire Gold to go down and try to talk a Cuban scientist (played by "well-known Cuban actor" Ernest Borgnine) into bringing his knowledge of advanced laser technology to America.  Gold screws that up pretty quickly but manages to beg his way into a second chance with the guys at the American Embassy.  With Professor Braun (Borgnine) now missing, Gold seeks out help from the professor's daughter Alissa (Debi Monahan, who's about as Cuban as Marilyn Monroe) - and I must say that the disguised manner in which he first contacts her is not to be missed (nor is the somewhat revealing dress Monahan wears throughout most of the movie - without it, there would be absolutely nothing worth looking at in the entire film).  Even the setting of this film is problematic.  It seems pretty clear that the whole thing begins in Cuba, so I was pretty confused when Gold starts talking about heading south for the border (the last I checked, Cuba was an island).  The next thing I knew, he and Alissa are in Africa (and still driving the same beat-up VW van they escaped in).  That pretty much sums this whole movie up in a nutshell (that and the fact that the word "titles" is misspelled in the closing credits).In closing, I thought I would just jot down a few of the things I learned from watching Laser Mission:* Anyone can pass as a Cuban, even without a fake mustache (and it's OK if you forget your accent every now and again).* It is not altogether shocking for high-ranking officers in the Cuban army to drop out of trees and start barking orders in English to bivouacking soldiers.* No one at any level of the Cuban army can hit a target, so you have plenty of time to walk toward them and make sure your aim is perfect before killing any of them - actually, you don't even have to aim at them if you don't want to.  Brandon Lee shot up a truckload of Cuban soldiers with his gun pretty much pointed toward the ground.* You can apparently drive from Cuba to the African desert in just a few hours.* It's possible to walk across 400 miles of desert in high heels, without any water to drink, and come out looking only moderately sweaty - and your clothes won't be dirty no matter how many sand dunes you roll down while fighting incompetent assassins.* All you need to make a nuclear bomb is the right kind of laser and a big honkin' diamond. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Why`d they remake Danger:Death Ray? </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Please do not pay money for this garbage, it only encourages them. Not entertainingly/MST bad, just `I hate that I wasted time on this` bad. So many Bad Movie Cliches are here--bad accents, unfunny ethnic humor, cars flipping over and exploding like balloons filled with gasoline, cars crashing into stacks of empty boxes, inappropriate and excessive use of slow motion, our hero spraying bullets while exposed to the fire from professional soldiers and hitting everything without being hit during high-speed chases...Just watch something else, or you`ll wish you did, unless you`re such a rabid fan of the mildly talented late actor you`ll love anything he did. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> In the nick of time the Cold war ended. Alas, too late to save us from stuff like this. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-04-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> In an immortal line from For You Blue, george Harrison says 'Elmore James got nothing on this babe.In another universe, films are made which are pale shadows of real ones and this is such a shadow. The only claim to fame is that Brandon Lee takes the lead. I hesitate to say star because there is no star power here. The leading lady is pretty enough and provides the eye candy but there is no star power there.Ernest Borgnine obviously needs the work and who could blame him.Essentially, this is another twist on the cold war with both sides after a huge diamond for a laser which you must have faith to believe exists as you nevere get to see it. Bit like the Holy Grail really.It is sort of a silly movie with laughs a minute although they are all unintentional. The trouble is you end up watching it through until the end and then you wonder wny you did. I know I did.For diehard Brandon Lee fans only, and then, only just. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> We Don't Need No Laser Mission </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-31-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Brandon Lee, Ernest Borgnine and Debi Monahan should have made this movie watchable.  About the only thing I found interesting in this movie was the exposure that Debi Monahan got in her dress.  The rest of the movie is a loosely connected series of action scenes that have almost nothing to do with a laser.  I was quite sad about not having a laser.Michael Gold (Lee) is a super spy out to rescue Dr. Braun (Borgnine).  There is a lot of action and hitting and shooting and jumping, and the next thing you know there is this girl, Alissa (Monahan), who we all think is Dr. Braun's daughter.  Alissa seems to be quite handy with guns and explosives for someone who supposedly works in a zoo.The next thing you know, we are in a desert and there is a big showdown and Gold gets shot in the back, and there are all kinds of blood on the front of his shirt, and yet Gold seems awfully spry.  There is still no laser at this point, but there is a big diamond (really big) that could be part of a laser if Dr. Braun is allowed to do his scientific thing.In order to stay within the spirit of the movie, there is more shooting and blowing up, and it takes three attempts to take out the #1 bad guy.  Then there is a needless scene with a stolen helicopter and the movie is finally over.  There is STILL no laser.  I was so disappointed.  We have a movie called "Laser Mission" and there was never a laser.I like a good action movie; it is just that this movie was not a good action movie.  I have to believe that the actors in this movie wish they could take this one back.  I know I would like to get back the time I wasted on this movie.  The only people who should consider getting this movie are those who have to have every Brandon Lee movie, or every appearance of Ernest Borgnine (which is approaching 200 television and movie appearances).  Everyone else should stay away; far away; really far away. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brandon Lee is the only good thing in this </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Brandon Lee (The Crow, Rapid Fire) stars as  a special agent who with the help of a tough chick played by Debi A Monahan (Dark Justice, Liberace) travel to go rescue a professor played by Ernest Borgnine (Escapef From New York, BASEketball) who is a laster expert and who is being held by some Soviets because Borgnine has made a laser that can do some pretty powerful things. What we have here if a failure of a movie. It's hard to watch Lee go through this movie not giving anything. That's what I felt like when he did Showdown In Little Tokyo which is way worse then this. Borgnine has a bad awful accent. Graham Clarke (Running Free, Ali) was worse as the Colonel. I mean how many times did he like get in a fatal situation and wind up coming back? He got shot. He got burned and then they ran him over. Geez. This is no James Bond or...or James Bond Jr. for all that it's worth. The action scenes werent that great. This was the only Lee movie that I didnt see but I finally got to see it and wow I was disappointed of it. If you are a Lee fan and havent seen it be warned this isnt the best thing </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> LASER MISFIRE </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-22-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> Brandon Lee seemed to be on his way to major stardom even if this 1989 flick certainly wouldn't have been one of his career highlights.  Tragically killed while filming THE CROW, Lee was a handsome fellow indeed and he seemed to be acquiring a knack for injecting humor into his offhand delivery.  But LASER MISSION is so poorly written, directed and acted, it only serves as a tribute to a young man who was heading for better things.  Debi Monahan as the love interest is pouty, unconvincing and in need of acting lessons; even venerable Ernest Borgnine can't rescue this dumb, over the top actioner.  The fight scenes are equally unimpressive, and one can only hope Lee's later films leave a better taste. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> "Ha ha, they're going to cut your head off Ma&ntilde;ana!" </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> BJ Davis ought to be ashamed of himself. I know he's usually a stunt coordinator and only moonlights as a director, but you'd think he'd have been able to do better when he had Brandon Lee at his disposal. Sure, this was before he achieved cult status withThe Crow, but geez, this was still the son of Bruce Lee, here! I'm not a hardcore fan, but it baffles me nonetheless how anybody could build a movie this disappointing around him. My guess is that Davis simply didn't know who Lee was during production and therefore treated him as just any other low-budget action hero. It's a shame that in his all-too-short filmography, Lee has to account for a stinker like this, but in hindsight, I guess it made his career well-rounded: every star needs at least one piece-of-garbage flick like this.The story: CIA mercenary Michael Gould (Lee) is sent to convince a Cuban laser scientist (Ernest Borgnine,The Dirty Dozen) to join the American cause, but his quarry is intercepted by the KGB. Gould must team up with a mysterious agent (Debi Monahan,Shattered) to rescue the man from the might of the KGB and Cuban army, headed by an iron-willed colonel (Graham Clarke,Space Mutiny).Randomly select any scene of this movie and argue that it's more exciting than watching paint dry. I dare you. "Laser Mission" has its share of action scenes, sure, but absolutely everything the movie tries to stage has the same grayish color scheme and the same trivial tone of unimportance. The dramatic bits feature acting that's not quite bad enough to make you laugh but instead comes off as that of your average high school production; even Oscar-winner Ernest Borgnine ends up looking like a complete amateur. All sense of style and flair gives way to what must have been a very frantic schedule to complete a decently-sized movie as soon as possible. It all feels very rushed. Very blah-some. Good luck trying to remember any character's name after sitting through this.You'd think that you'd at least be able to watch a Brandon Lee movie for its fight scenes, but I'm afraid that all hand-to-hand content pales in abundance to the car chases and shootouts. In a 1993 issue, Black Belt Magazine wished to include the content of this movie in a list of the top ten worst martial arts offerings on film, but found that there was too little actual fighting to make a case for. Lee has about three hand-to-hand confrontations, but all of these not only feature completely forgettable choreography (an exception: Lee kicks a man onto a guillotine and then decapitates him) but also last only about twenty seconds on average.Lee nevertheless manages to inject a bit of his snarky charm into his role and generates half a laugh when he dons a fake moustache and adopts a phony Hispanic accent to trick two hapless members of the Cuban military (no laughs are generated, however, when these two become the designated comic relief and keep popping up throughout the movie). Additionally, the Russian general is notable for being probably one of the most unbeatable villains ever (gunfire, explosions, and getting hit by a truck? - no problem!), but don't worry - nothing's out to save this louse of a movie. Production-wise, this one might be able to get away with a two-star rating, but if you keep in mind the quality of work Lee can deliver when utilized properly in stuff likeRapid Fire, this exercise in laziness deserves no recommendation whatsoever. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This costed me $1.99 and I may have payed too  much </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-06-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm gonna be honest, brandon lee was pretty good in this but there were just not really any fighting scenes or a stroy either.  I need 1 of those 2 things to watch a movie.  But it does have cool car chases(some) and a hot blonde that got me through the movie, so anything I can make it all the way through, I have to give it 2 stars.So like another reviewr said that I agree with, watch this only if you are a brandon lee fan like me and maybe watch it if you like bad movies you can laugh at cause there are plenty of parts to laugh at. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> this film is truly terrible </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-06-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> but really, when you see the high ratings other loads of rubbish get on amazon this one deserves a much higher rating in tribute to it's utter ridiculousness. there's no great kung fu fights, there's no semblance of reality whatsoever, it's just entertaining nonsense. the woman character walks across the unforgiving desert in her high heels for days but do you know what, that's what reality SHOULD be. i prefer the reality in this film to real life and if you don't then you are a bad person - end of. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Giant Diamond, A Tinhorn Dictatorship, And The Worst Accents In Movie History </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-10-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you value the memory of Brandon Lee (and even if you don't) do yourself a favor and don't watch this movie. I give it two stars overall, but the second star is for extraordinary and unintentional comedy. The film opens with the monotonous and annoying power ballad "Mercenary Man" (the handiwork, I hate to reveal, of David Knopfler, Mark's younger brother) a song that fits the theme of the film, yet is played so often in the course of the movie that you will want to scream if you hear it one more time. Unfortunately for the viewer, the theme song is by far the best part of the movie.The plot concerns Brandon Lee as Michael Gold, a mercenary US contract agent who travels to Cuba and then onward to some fictional country in Africa (though exactly how he gets there is a bit of a mystery.) This is all in an attempt to bring Ernest Borgnine (as Professor Braun) to the United States as he has developed a method of using a big diamond (which gets a subplot of it's own in an apparent homage to the original "Pink Panther") to make a laser that can start World War Three. Needless to say, Ernest (who has the worst accent in the history of cinema) is also wanted by the KGB led by the stiflingly bad Col. Kalishnakov (named for a similarly-named Soviet-manufactured combat weapon, evidently), and the amorphously evil "Eckhardt" who is menacing with his over-the-top pseudo-Austrian accent and diction skills. Think of William Shatner as an insane, evil member of the SS and you will come close to the degree of overacting present here.The film boils down to some of the most ineptly directed combat scenes (it's always good to stand in the open when being shot at with a rifle; it is also wise to ignore the archer shooting huge arrows from about three feet above your head, but I digress) ever recorded for posterity. As a sidebar, we get the obligatory romance between Lee and Debi Monahan, an actress with a voice that can shatter glass at one hundred yards. She is supposed to be a super-spy of some sort (that's an issue open to conjecture as well) but spends the bulk of the film shrieking and running through the desert in a dress and heels. To say there is no chemistry between Lee and Monahan is to state the painfully obvious.There are also plots about diamond mining, genocide, a team of comic-relief communist helicopter thieves, and a family reunion during an amazing turn of events in the last five minutes of the movie, which prepares us for one more round of "Mercenary Man" and the credits.This film really would have been excellent fodder for MST3K or Joe Bob Briggs. As a final note, since the title of the film is "Laser Mission" it would be fair to assume that there was actually a laser in the movie. That's where you would be wrong: the laser is mentioned but never seen. Apparently it was cheaper to rent a helicopter, a small rocky outcropping in a third-world country, and a VW bus full of fake weaponry than to show a laser. The lack of a laser in the film despite the implicit promise of a laser in the title contributes to the second star I give this film. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I got my order </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> ...but it looks like this is a pirated DVD. It is poor quality, has lines at the top of the screen and there are portions of the movie that look like tracking problems from the old VCR days. I do not think my copy was an original. At least it arrived very quickly. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B001CRQZ72 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-14-2011  
+<h2> review.text </h2>
+
+ <p> After I received I noticed that the wall charger didn't work.  And the USB cable lasted less than six months.  Don't buy it... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't buy it </p>
+
+
+<h2> review.date </h2>
+  04-30-2009  
+<h2> review.text </h2>
+
+ <p> I bought this and it actually drains the iPhone 3G battery - probably due to insufficient current. I bought an identical looking product from Bargaincell and it works perfectly.Even the Auto adapter stopped working after about a week.Cheap crap - stay away!AM </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Crappy - does not work with iPhone 3G </p>
+
+
+<h2> review.date </h2>
+  05-24-2009  
+<h2> review.text </h2>
+
+ <p> I originally bought this for my ipod touch but recently acquired an iphone.  I never really had a need to use it with the touch, so I don't know if it worked.  But it does not work with my iphone 3G.  The first time I used it, the phone showed that it was being charged, but it didn't change the battery level at all for 1/2 hour drive.  Today I tried to use it and the phone didn't indicate that it was charging at all - completely useless. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Piece of junk </p>
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> I bought this to keep as a spare. Everyone seems to need an extra. Works fine. Great to keep a few in the car. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useful </p>
+
+
+<h2> review.date </h2>
+  03-22-2010  
+<h2> review.text </h2>
+
+ <p> it's great the price was great. because i purchase one from apple and i payed to much for it and it wasnt retractable and the cord split  that was waste of money . this retractable  is a gold mine and wouldbuy two hundred of them before i would purchase one from apple </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3 in one ipod charger kit home/ travel </p>
+
+
+<h2> review.date </h2>
+  08-31-2009  
+<h2> review.text </h2>
+
+ <p> i purchased this and found it to be of the same quality you would find at one of those dollar stores. first off, the car charger never worked, and when i tried to jiggle it in the lighter socket it completely fell apart. the retractable cord is nice to have, and the wall unit does work, though. still...it doesn't work as it should, so only one star. boo hiss! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> junk! </p>
+
+
+<h2> review.date </h2>
+  12-28-2010  
+<h2> review.text </h2>
+
+ <p> This HUB handles 4 devices.  This is a must have product if you're traveling and need USB powered devices to run or charge.  It's even great when you've got car pool passengers that need to charge their phone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> USB Hub Charger for your car </p>
+
+
+<h2> review.date </h2>
+  09-07-2008  
+<h2> review.text </h2>
+
+ <p> Does not charge my phone in the car, only charges when plugged into the wall/ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not work </p>
+
+
+<h2> review.date </h2>
+  07-02-2009  
+<h2> review.text </h2>
+
+ <p> Hi, this is a great opportunity becasue this product is a very good price, and the product work very nice.I'm a CEO of Actimedia Digital Corp and i need to use my iPhone every hour working using different kind of Applications and my iphone need recharge the batterie in different moment. This is the reason to have a good charger kit to home and to travel. this work very cool. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good performance </p>
+
+
+<h2> review.date </h2>
+  11-10-2010  
+<h2> review.text </h2>
+
+ <p> I was dissapointed that the cord that extends for charging is way sorter than my actual ipod cord that came with my ipod. I have a ipod touch 2nd version and it works. I only like the cigerate lighter adapter out of the package of 3. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> its ok for charging. </p>
+
+
+<h2> review.date </h2>
+  12-02-2009  
+<h2> review.text </h2>
+
+ <p> I bought five of these for my iPhone 3G to help me cope with its less-than-wonderful battery.  They are cheap enough that it made sense to get one for each place I spend time charging.  I have one in place in each car, at work, in my home office, and on the nightstand next to my bed.  I keep the original Apple charger in my computer bag for on-the-go charging.  It's quite convenient to sit-and-plug at the places I most need a charge.Mine all work fine for both charging from a wall socket and backing up to the computer.  Given the large number of problems reported by many other reviewers, I wonder if there are problems with particular batches or factory runs of the product's cord?  Although I am a happy customer, I think I have somehow been a lucky one.  If I needed more of these I would probably buy theUniversal Apple iPod USB Charger Kitjust to be safe.  Its price is only a few cents higher.An additional caution is that the retraction mechanism for the cord seems poorly made and begins to break with longer use.  One of mine that I used frequently eventually started throwing off little shards of plastic and not "holding" at all of the possible stops.  Not a problem for the way I use them, but your mileage may vary. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Working Solution for Bad iPhone Battery Capacity </p>
+
+
+<h2> review.date </h2>
+  08-10-2008  
+<h2> review.text </h2>
+
+ <p> well, not sure why it doesn't work for othres, but I've just recently made a trip for 2hrs drive, was using my GPS on my iphone 3G and then needed to charge up, so I used the cable and the car charger, it works, it charged up to 100% within an hour.The wall charger works too, I've tested out for 1 day without any problem.So did the cable, plugged into my PC's USB and not only it charged  but also it synched without problem.I've been testing 5 different cables (USB non Apple ones) and this is so far one that had worked for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it works for my 3G </p>
+
+
+<h2> review.date </h2>
+  03-26-2010  
+<h2> review.text </h2>
+
+ <p> Everything works for my Iphone.  Way cheaper then buying from Best Buy or even Walmart. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good and cheap </p>
+
+
+<h2> review.date </h2>
+  05-06-2010  
+<h2> review.text </h2>
+
+ <p> I got this hoping it would work with my Otter Box, but it didnt. I cant say if it works to charge and sync cause Im not taking my Otter Box off to find out. It didnt cost enough to worry about and I gave it away to a non Otter Box user. I ended up buying another AT&T charger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not work with OTTER BOX </p>
+
+
+<h2> review.date </h2>
+  12-17-2013  
+<h2> review.text </h2>
+
+ <p> This charger for the car is extremely useful with travelling with grandchildren.  It allows them to be quiet and listen to their music without interruption. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> charger </p>
+
+
+<h2> review.date </h2>
+  12-28-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this for my friend who just recently purchased an iPod touch 4g.  He says that it works great and is not hard to use at all.  Plus, you can't beat this for less than $4! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works with iPod touch 4G </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

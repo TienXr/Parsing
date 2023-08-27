@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1581606141 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-23-2010  
+<h2> review.text </h2>
+
+ <p> I was really wanting to like this book more than I did. First off, it's a bit pricey for a paperback with a couple dozen small, black-and-white photos sprinkled throughout. Second, I bought this book to learn more about Selous Scouts operations and, after reading it, I really didn't feel any more knowledgable on the subject than I did before I started. The author seems to take for granted that the reader already knows combat tracking techniques, what pseudo-terrorist operations were, and what Fireforce was, among other things. As a result, he never really explains anything particularly well. Aside from those two main gripes, the book is not very well written. The author uses the same idioms again and again and it really gets to be tedious reading. He also jumps around quite a bit temporally, moving backwards and forwards through time during the largely chronological narrative. Too many awkward personal stories are recounted. The author starts to come across as a bit of a pervert (dating a 13 year old; sneaking into a married woman's bedroom at night, etc.). The author also included commentary on his draft written by a former commanding officer and sometimes rival. I found this rather odd. In the end, I was wishing I was reading the commenting officer's book instead (which, unfortunately, is out of print and very pricey to acquire new or used). Better maps would have helped, being as the author operated all over Rhodesia and beyond its borders. Overall, this was a mess of a book. Although some parts of the book are OK (the combat stories), I really don't think the sum of these parts was worth the $25 I spent on it. I probably won't be reading this book all the way through again.As a soldier, Mr. Croukamp may have been one of the best of his generation, but as a writer, he leaves much to be desired. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Soldier (?); Poor Writer </p>
+
+
+<h2> review.date </h2>
+  06-18-2010  
+<h2> review.text </h2>
+
+ <p> I decided to buy this book for my Kindle on a whim. Back in the 80's I used to peruse "Soldier of Fortune" magazine while in the supermarket. Hence I was somewhat familiar with the Rhodesian conflict and had heard of the Selous Scouts,  "Fire Force", etc. Also having read extensively about the American involvement in Vietnam this book intrigued me for a few reasons:1. Comparing the two conflicts, the tour(s) of an American infantryman would rarely go over a maximum of a couple of years. What would it be like to fight a war for over 14 years?2. Even though both conflicts were technically 'lost', why did the Rhodesian Army seem so much more effective with less?3. How does a conflict that went on this long, and ultimately a country, end? What is that ending like?Croukamp's story answers these questions in a truly tell-all fashion. Croukamp fully admits in the beginning of the book that he is telling the story "warts and all". To the authors credit even the incriminating parts are told.His writing really imparts being in the bush: FN assault rifle in hand, tracking terrorist spoor, humidity, dangerous animals, etc. The bravery of he and his fellow soldiers is amazing; a truly untold story in many ways. Soldiers like Croukamp lived for the next recce patrol, but more importantly the next terrorist contact.Some of my favorite parts of the story:1. His 7 day escape and evasion is written very well - the emotions were honest and raw.2. The train derailment that ultimately lead to many terrorists killed but unfortunately many of the civilian populace too.3. The RLI training excercise that turned hot near the end of the book.4. HALO jumps with no oxygen bottles into the "black hole".Perhaps that is the most startling element in the book for me: for all of the author's insight and reflection there is no sense of remorse for those that he killed or injured. Maybe this is the answer to my #1 question above in that he and his fellow soldiers were fighting for a homeland - their homeland. In the later stages of the book (and the war) Croukamp comments on how the members of the RLI seemed more ruthless than when he started in the mid sixties. Obviously the average soldier felt threatened and desperate as things dragged on and on.Regarding the end of Rhodesia and his tenure in the army, he seems to have expected a military coup to occur. His description of the RLI members urinating on black civilians who were celebrating the new government paints a startling picture. At the end of the book there are pictures of the author standing by some ZANLA members including Rex Nhongo. Of course we know how things are in Zimbabwe today...As other reviewers have said the writing could be better. For me it was how the narrative flowed more than anything. There were times where I could not put the book down and others where I kind of forced my way through. However with all of the action it never seemed to drag badly. It was interesting how the author really tried to get other perspectives and include them in the book:1. The commander of the Selous Scouts is given a chance to respond to Croukamp's claims many times throughout the book. While this is a credit to the author in terms of honesty, it kind of got old and I found myself skipping them.2. Croukamp being an amateur photographer showed a captured diary from one of the terrorist camps. He includes a translation in writing which I found fascinating.Overall this is a good book and has sparked my interest in the subject. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Very Interesting Perspective </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> In every organisation there are jealousies, envy, hate, comradeship, treachery and many other matters that seldom become known outside a small circle. This was the case even in the Rhodesian army. This book gives an excellent insight into the way that war was fought by the Rhodesian Light Infantry and the Selous Scouts. It lifts the veil of glamour with which that war is shrouded and gives a vey rue picture of what it actually was  like. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Bush War in Rhodesia </p>
+
+
+<h2> review.date </h2>
+  03-11-2012  
+<h2> review.text </h2>
+
+ <p> In the annals of the Rhodesian bush war, the more that is recorded of the extraordinary feats achieved by Rhodesian forces against an implacable enemy, the better for recording the history that would otherwise be lost.The stories related of one man's life and exploits in pursuing his life's ambition to be the consummate soldier are gripping. The only criticism would be of the style of writing, albeit that the book is a record of that man and his narrative.Thoroughly enjoyable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rhodesian bush war by D Croukamp </p>
+
+
+<h2> review.date </h2>
+  04-18-2011  
+<h2> review.text </h2>
+
+ <p> Dennis Croukamp has done an excellent job in his memoir of Rhodesia's bush war.  His accounts of service with the Rhodesian Army and Rhodesian Light Infantry are interesting but his descriptions of training and service in the secret and elite Selous Scouts are fascinating.  His photos from an all-but-forgotten war make this book worth its price alone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent first-hand account </p>
+
+
+<h2> review.date </h2>
+  12-22-2012  
+<h2> review.text </h2>
+
+ <p> Understandable of course - the outcome of the Rhodesia war saw a whole change of a way of life. this guy was a great soldier but must have a pain in the ass to his colleagues and his superiors. This book would interest anyone with a military background as the nuances of  command would not be lost on them.  The whole wider historic context is missed by the detail of combat. Hard to warm to him as a character. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A personal account with a chip on the shoulder </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> An articulately documented account of the bush war in Rhodesia from a soldiers perspective. It depicts the bravery and fearlessness of one of the most formidable and elite fighting force there was at the time. Their frustrations in being held back by politics and the pressures of the outside world was tantamount to holding back a pack of high-spirited pit-bull with lengths of knitting yarn. The suspense in following their tactics in the many skirmishes with the enemy is heart-stopping. Told as it was, this 'no-frills' report of one of the most daring bush wars ever attempted is a 'must-read' for those who were there and for those who are interested in raw bush warfare. The point of it is NOT that it was written for a literary award (because it wasn't), but that it was written by a Selous Scout revered by his fellow soldiers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Formidable Force! </p>
+
+
+<h2> review.date </h2>
+  11-03-2008  
+<h2> review.text </h2>
+
+ <p> The Bush War in Rhodesia follows the military career of a Rhodie trooper who liked to stir the pot.  Being a Marine Platoon Sergeant, I recognized this type.  Krouks was great at soldiering and an expert recce trooper.  Going from private to WO2 (Sgt Maj) he never had a liking for garrison or the parade ground but belonged in the bush where he excelled.  I knew many Marines like this in my career.  Guys who were excellent in the field, who knew their stuff and you wanted next to you in a gunfight, but when they got back to garrison they tore it up, got drunk and were liberty risks.  You may know the type, a Plt/Sgt or 1st Sgt's nightmare.This book is awesome.  A fast paced, interesting read Krouks discusses recon patrols, fireforce, and pseudo-ops (infiltration and destruction of terrorist cells.)  He talks a lot about field craft and the lessons learned are remarkable.  This is not only a great story, but is an awesome reference for Tactics, Technics and Procedures that can be applied to any scout or recon team...hell for anyone involved in counter-insurgency ops or just plain soldiering!If you're looking for military history on the Rhodesian Bush War, this book is right up there with Cock's Fireforce and Warren's At The Going Down of The Sun.  This book should be on the USMC Commandant's reading list.OUTSTANDING!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A poor soldier, but great at soldiering!! </p>
+
+
+<h2> review.date </h2>
+  07-16-2008  
+<h2> review.text </h2>
+
+ <p> If one is interested in the small wars of liberation that were ongoing on the African continent during the late sixties and early seventies, this story will not fulfill your quest for knowledge. The author may indeed have been and excellent soldier,but as a writer he leaves much to be desired. I was looking for something much more substaning then this tale. The atocities that were commited against white settlers and their families appears to have been glossed over. Not really a bad read,but just not quite right. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tedious and not what I expected. </p>
+
+
+<h2> review.date </h2>
+  06-04-2013  
+<h2> review.text </h2>
+
+ <p> Great book, gave me information that I needed to run a tabletop wargame on this war and what I was missing </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  02-22-2014  
+<h2> review.text </h2>
+
+ <p> I've read a lot of books about Rhodesia's desperate struggle to keep their freedom.  This is without a doubt one of the best.It's a shame that Croukamp and Reid-Daly had a falling out but I commend Croukamp for giving Reid-Daly the opportunity to respond to some of the parts where Croukamp dealt a bit harshly with him.The parts where Croukamp discusses &#34;Operation Quartz&#34;--the coup that wasn't, are tantalizing!!!!  He provides a little more info on the subject than other books I've read but not a lot.  It's a subject that would make a great book in it's own right.  I'm not as young as I used to be and I suspect I'll never find out who cancelled the operation or why but I surely would like to know.  Was it Smith?  Was it the South Africans?  Was it Walls?  And Why?  Were the South Africans pressured into pulling their support?  Maybe the British spy in ComOps told the Brits and the Brits threatened military action?  It's one of the great mysteries of the war and I wish I could find out what really happened!Thank you Mr. Croukamp for an EXCELLENT book!  I hope you will write more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book for those interested in the Rhodesian war. </p>
+
+
+<h2> review.date </h2>
+  02-06-2012  
+<h2> review.text </h2>
+
+ <p> Written by a real soldier who took a liking to the profession.  He holds NO punches including his former chain of command and the politicians.  Since WO Croucamp likes this business some readers might not feel comfortable reading his realistic account.  This was a superb well written book by a soldier about an unpopular war. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very accurate soldier's story </p>
+
+
+<h2> review.date </h2>
+  01-19-2013  
+<h2> review.text </h2>
+
+ <p> Book could have definitely used a better editor with some strong editing and guidance.Did not really understand all of the points of the 1 and 2-star reviewers (nor for that matter all the points of the 5-star reviewers either).This book was a present to me as I had (at the time, and even now occasionally as I can afford to!) been collecting books of the Rhodesian Bush War and the South African Border Wars. Primarily books of the tactical levels, books about special units, and WAR STORIES.And the latter (a personal war story) was clearly what this book was. Not a book on specific details of counter-insurgency or behind the lines operations techniques. It was the author's story of his involvement, actions, thoughts, etc.If you are one who is interesdted similarly (on books of the Rhodesian Bush War and the South African Border Wars), then I would definitely recommend it for your "special library".I am pretty sure that this was NOT bought through Amazon as it was a gift and appeared to have been sent through a different vendor, but IS this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Liked Much - Disliked Some.. Not Well Written </p>
+
+
+<h2> review.date </h2>
+  08-07-2011  
+<h2> review.text </h2>
+
+ <p> I am not sure why there are so many good reviews of this book, that is why I bought it.  Boy was I disappointed.  First, this book reads like your listening to a drunk in a bar tell 'his' story, it's all about him.  Indeed, Crouks (sp?) wrote the book so it should be about him, but as anyone who has been in the military knows, your part of a team and very rarely does one guy almost always take center stage.  Not in this case, Crouks is certainly proud of himself, proud to the point of being arrogant and pompous in the extreme.  Crouks also has a long memory and does not forget any slights offered by anyone in the past and is always sure to let the reader know about it.  Furthermore, usually anything that happens to Crouks is because somebody else has a problem, not because Crouks has a problem and ticks everyone else off, i.e. I am talking about all of the incidents with other officers, soldiers, police etc.I could forgive all of that if the story was compelling or it had great detail about the combat operations.  That is not the case, in fact all of Crouks' stories are written like I said above, like a drunk in a bar telling the story, short on detail, but you sure know Crouks was part of the action and loved it!  He can't tell us enough how he loved it!In fact, the only good parts of the story are told by other soldiers, such as if I remember right a guy named 'wings' who along with another teammate was separated from Crouks, when Crouks went to find water.  Wings' story was far more interesting, to the point and detail filled, far more so than any of Crouks' stories.  Crouks' separation and e&e; was to be a highlight of the book, Crouks spent six day behind enemy lines alone, trekking back to friendly territory. I thought Crouks' writing about it rather drab.I will certainly admit, Crouks is headstrong, tenacious, stubborn and probably a good soldier in the field.  But he is also unlikable, self-centered, arrogant, unprofessional, immature and incapable of writing a compelling story in my opinion.Before finishing my review I went back and read some of the five star reviews, most of them mentioned how great all of the information on the counter insurgency operations was.  I could not disagree more, I am not sure we read the same book, I do not believe that there is a lot of detail in Crouks' book as I said earlier.  I learned more about the war and tactics through stories from Tracking Tactical Operations by Scott Donelan (sp?) which was not even a war memoir but a book about tracking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pompous blowhard </p>
+
+
+<h2> review.date </h2>
+  03-03-2010  
+<h2> review.text </h2>
+
+ <p> This is an absolutely fascinating look at this man's sixteen-year career in the Rhodesian Army. Croukamp started out as an ordinary national serviceman but went on to serve many years with the Rhodesian Light Infantry and several more with the Selous Scouts. About two-thirds of this book focuses on his time with the Scouts. The Selous Scouts, as you may or may not know, was Rhodesia's top tier special operations unit. I was surprised by the amount of detail the author provided, not just about external operations in Zambia and Mozambique but also the "airing of dirty laundry" from within the unit. I do not doubt Croukamp's veracity one whit but I was shocked by some of the tactics and techniques recounted here. Croukamp relates an incident of one of his patrols crossing a dirt road by using three woolen blankets to avoid leaving foot prints. This was conducted by the operators, all three of them, standing on one blanket together (in the middle of the road!) whilst the last blanket was picked up, passed forward, and laid out again! Needless to say, this a sporty method of crossing a linear danger area! All in all, this is a super book. This a 9 x 6 tradeback, about twenty-odd chapters in length, with the narrative ending with Rhodesia's collapse in 1980. After Rhodesia's fall, Croukamp went on to serve with the South African Defense Forces but that, hopefully, will be another story. The only complaint I have is the lack of maps, only one is provided. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Superb Narrative from a former Selous Scout </p>
+
+
+<h2> review.date </h2>
+  01-02-2012  
+<h2> review.text </h2>
+
+ <p> This is the fascinating story of the Rhodesian Selous Scout extraordinary Dennis Croukamp. This legendary scout established the tactics, techniques and procedures for small team and singleton reconnaissance (recce) operations. These operations were so successful in the Rhodesian Bush War that the South African Special Forces (5 Recce) adopted these same techniques in their Border War. You can read about the South African exploits in the book "Journey Without Boundaries: The Operational Life and Experiences of a South African Special Forces Small Team Operator" by Andre Diedericks.The Rhodesian Selous Scouts was a visionary organization that took various tactics to the extremes with great success, this outfit was not afraid to "think out-side the box". They mastered and used tactical combat tracking with extraordinary results. They also employed a technique they are most famous for, that of pseudo-operations; which they used to ultimately infiltrate terrorist cells and nets to disrupt and eliminate the terrorist "underground" and infrastructure. And finally they mastered the art of singleton/small team operation which this book covers in-depth. There are a lot of lessons to be taken away from this book that still can be applied today. The American military in general do not like to operate in small teams outside the special operations community. Back in the day "regular" military snipers operated as singletons then in two-man teams (Sniper and spotter), now today most conventional snipers operate in three-man teams and greater! So as you can see this method of operation is ultimately falling to the wayside. This book shows and proves it can be used successfully (risk vs. reward!) in counter-insurgency operations and special operations.Now, back to the book. It covers Crouks career in the Rhodesian Army were he first served in the Rhodesian Light Infantry (RLI) and were he was initially decorated for valor (he would later become one of Rhodesia's most decorated), following service with RLI, Crouks attends the dreaded Selous Scouts selection and is selected to be a member of this elite unit commanded by Reid-Daly (you can read his book "Pamwe Chete - The Legend of the Selous Scouts"). Once in the Selous Scouts Crouks found that the "cloak and dagger" life of pseudo-operations was not as exciting as he hoped (as most fire fights and kills were done by the RLI and Fireforces), so Crouks laterally moves to the elite Recce Troop within the Selous Scouts to find the excitement/action he so missed, this is where he became the Rhodesian military reconnaissance specialist, a true subject matter expert. Crouks goes on to see action in the all the border areas of Rhodesia as well as conducting external operations (cross border) in Mozambique, Zambia and Botswana. Also Crouks was instrumental in the employment of military free-fall in the Recce Troop.This book also has a lot of references (corrections and additions by both gentlemen) to the Reid-Daly's book "Pamwe Chete". For a long time Reid-Daly and Crouks were on the "outs" over incidents in the past during their service together in the Selous Scouts, so much that Reid-Daly had cut all (or most of) the exploits by Crouks out of his book. In writing this book, Crouks contacted Reid-Daly to set the recorded straight, and in doing so they both are now somewhat friends again. So this book is like the lost chapters or appendix to "Pamwe Chete". So to truly get the full story of the Selous Scouts you need to read both books to finally get the complete history.This book was originally titled as "Only My Friends Call Me Crouks - Rhodesian Reconnaissance Specialist". Finally I cannot recommend this book more; it is a superb read for anyone interested in counter-insurgency. It is an ideal read for the true military professional and a must read for the Rhodesian Bush War enthusiast or historian. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only my friends call me "Crouks"! </p>
+
+
+<h2> review.date </h2>
+  07-14-2012  
+<h2> review.text </h2>
+
+ <p> While America had thier own problems, another part of the world had thier own problems.Nothing romantic about the war but just young men doing what they were ordered to. Personally I think Rodesia was sold out as a way to cleanse the soul of Europe. Like mouthwash to get the taste of imperialism out of their mouth. Some people keep on going even when they know they are beat, kudos to them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> People to model your self after </p>
+
+
+<h2> review.date </h2>
+  04-03-2009  
+<h2> review.text </h2>
+
+ <p> This is a memoir of one soldier's 16 year journey in the Rhodesian military.  He fought in virtually all the major battles between the Rhodesian white minority government and black African nationalists, and has a unique and eye opening account that I think anyone with any interest in military operations will find fascinating.  The author, Dennis Croukamp, started as a soldier in the Rhodesian Army, transferred to the Rhodesian Light Infantry (sort of a heli-borne rapid reaction/commando force in today's lingo), then served in the famous Selous Scouts, eventually becoming a reconnaissance expert.  If you want to find out the difference between the TV Special Forces and the reality, this is the book you want to read.  Croukamp writes a fascinating account of what it is like to parachute behind enemy lines, scout out the enemy, live in the wild using both your training and your wits, and return home to do it again.  He discusses many of the practical aspects of special ops, as well as many of the unique challenges presented by Africa's political and natural landscape.As you read through this book, you'll learn a great deal about the political and military struggles of Rhodesia and its neighbors as well.  This was at least as interesting as the purely military aspects.  Croukamp gives his views on various political developments that occur in Rhodesia and elsewhere during the various ups and downs of the war.  He doesn't have too many kind words for the English.  Some interesting insights into the US-Soviet games that were played with Rhodesia at the center during the height of the cold war.One thing that struck me was how brutally honest this account is.  Croukamp effectively admits that he is a war criminal by admitting to large scale executions of prisoners and civilians.  This is not to say that the ZIPRA and ZANLU terrorists were any better, they killed scores of innocents themselves, and I'm sure that this type of activity was a common occurrence amongst all the participants of the various African bush wars.  Additionally, it was clear that Croukamp really loved the lifestyle of a soldier.  The most interesting part of the book is Croukamp's tale of survival when he became separated from the other two men in his recce unit.  He had to hike back through Indian country for 6 days until he was finally picked up by his own men.  This is an unbelievable tale of perseverance and cunning.  If you've ever wondered what it would be like evading hostiles in the jungle who want to torture and kill you with no food and a crappy gun (an Uzi with subsonic ammo and a silencer), Croukamp was there.The reason that I give this book only four stars is five-fold.  First, it isn't particularly well written.  The prose is rambling at times, with a great deal of peripheral information about Croukamp's life that really isn't all that interesting.  There is way too much information about old girlfriends, failed relationships, and minor anecdotes that simply aren't that interesting.  I know that this is Croukamp's story and he can write it the way he likes, but it would have been better served with a bit of editing.  Second, the book starts off really slowly.  It took me a while to get going - stick with it though, the second half is unbelievable.  Third, at $35 for a paperback, it is definitely a pricey addition to any library.  Fourth, if you don't know much about the Rhodesian War or any of the other goings on, you probably should start with another more general book, it would definitely help to put many of the events in Croukamp's book into better perspective.  Fifth, some better maps would have been useful, particularly as many of the names have been changed and it is hard to follow with a modern atlas.Croukamp makes one key point at the end of the book which is as relevant today as it was 30 years ago.  For all the tactical success of the RLI and the Selous Scouts, they (the white minority government of Rhodesia) still lost the war.  Croukamp and many others fighting in the Rhodesian military were true believers in their cause, and the ratio of terrorists to soldiers killed was on the order of 50:1, but they still lost.  I think it is important to remember this lesson in light of today's ongoing battles in Afghanistan, Iraq, Palestine, and elsewhere.  SOFs (and other military forces more generally), no matter how highly motivated, trained, and successful, can only do so much and their successes on the battlefield, no matter how overwhelming, do not guarantee victory at the political level.  The wrong grand strategy cannot be offset by a string of crushing tactical or even operational victories, they can only hold off ultimate defeat.Bottom line though is that this is a great read.  If you are interested either in learning about SOF in action and/or the Rhodesian War from an insider who was actually there, I'd highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Life and Death in the African Bush </p>
+
+
+<h2> review.date </h2>
+  01-29-2013  
+<h2> review.text </h2>
+
+ <p> Simply stunning!!the detail the author gives is exceptional,one of the few books I'm defiantly going to read again,5 stars is not enough!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Breathtaking </p>
+
+
+<h2> review.date </h2>
+  04-29-2013  
+<h2> review.text </h2>
+
+ <p> Great stuff Dennis. As one who was there almost from the beginning, thru the politics and bulls..t of the politicians, your country cam first. The incidensts and people mentined,bring back many fond memories.  Chisaraii </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rebel with a cause! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

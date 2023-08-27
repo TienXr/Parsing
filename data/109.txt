@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00747WW9E <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Splendid </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> What can I say? Mac Pro is the ultimate pinnacle of desktop computing. This vendor was about four hundred bucks less than Apple. Shipped immediately (Apple might take lessons from these guys). Arrived in good shape.It is a tragic that Apple has discontinued this superb reliable work horse.Have four of these working hard six days/week.Will have to pry them out of my cold dead arms. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Purchased this one to replace my first generation Mac Pro because I needed to run the latest OS and latest ProTools & Logic Pro apps. Works beautifully - quiet, fast, no issues at all getting it up and running in the studio. Highly recommended. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mac Pro Desktop get the jobs done. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My new Mac Pro is the most powerful mac I have ever owned. I use my Mac for my job as a graphic designer plus so many more things like media center for my Apple TV and ITunes storage with the help of the additional drive bays which I loaded with 2 3TB hard drives. This Mac makes every day tasks simple to organize and keeps me updated with text messages and email. The best Mac I have ever owned. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Computer dying on arrival, dead within minutes </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love my Apple gear but this is my second Mac Pro to arrive with serious problems.  (My first, which I still have and use, was more than 4 years ago--it had to be replaced as well).  This time the machine made a lot of odd noise (rattling) on boot.  Shortly later, trying to start it, it would not even power on.  I called Amazon and they suggested I call Apple.  I did, and took it in to a local Apple store.  They pronounced it dead and speculated a bad logic board but were not sure.  They instructed me to return it to Amazon.  I contacted Amazon and was issued a call ticket.  Amazon accepted the return and processed a refund.  Thanks Amazon!I have not replaced the unit as yet (price went up $250 from the sale price I bought it at).  I'm waiting to see if the price drops again and still using my old Mac Pro in the meantime.I gave this product 3 stars because of the logic board failure.  Otherwise it would be a 5 star as I know the product well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love MACS </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> So much easier and better to use than a PC, they may be more expensive but they are well worth it. You can alway buy Parallels to run your windows os and products. They both run GREAT on a MAC!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Overpriced junk </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Where I work we have 3 of these mac pro in the office. It is overpriced, period. I would never recommend this machine to anyone.Same/better PC desktop cost about half of the price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ugh, Apple's desktop line </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a fairly big Apple fan I really enjoy their phones, tablets, laptops, iPods, etc but their desktop line just isn't up to snuff. Each desktop has a major short coming. The MacPro is wildly out of date not containing modern specs and is enormous. I would love to have a box that is 50% to 75% of the current size as I don't use many of the specs it has two optical drives, two processors (which total up to twelve processor cores!) four hard drive bays, several slots I don't use, etc. Although most of Apple's portable line comes with Retina displays (the exceptions only being the iPad Mini and Macbook Air) none of the desktop line comes with Retina displays. Instead you get a massive 27" lower resolution display. I would trade that display in for a 20"-23" retina display any day.Your only other option for a stand alone computer is to go with the super underpowered Mini. A machine that comes packed with great multimedia software and with none of the power to use any of it. Along with the huge performance lag the storage limit for each hard drive tops off at 1TB and only uses the pokey 5400-rpm drives (or expensive SSDs that are very limited in capacity.)I would really like to think that the iMac is the midrange machine that offers a nice balance between the extremes of the Mini and the Pro but I am sorry to say it simply is not that machine but rather contains everything bad about both the Mini and the Pro in one machine. When the iMac was introduced Phil Schiller gushed about how thin it was but one look at the specs and you soon see were the massive trade offs are. The iMac is supposed to be the mid range machine but actually has fewer HDs then the Mini and the reasonably sized 21.5" version comes with only the painfully slow 5400 drive found in the Minis. While the Pro has more drives then I could ever know what to do with the iMac doesn't even contain an extra internal drive to do my back ups on. The last time I did a review on the iMac I was flooded with comments that were telling me that I should just plug an external drive into the iMac. Apparently there is some confusion to what an ALL IN ONE computer is. All in one means that you don't have to keep plugging in all these different devices to make it work right but that everything works all in that one computer. If it doesn't do that then failed to do the one thing it set out to do. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My Favorite Graphics Workstation </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-18-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> In October 2012 I purchased a Mac Pro MD770LL/A from Amazon through a work account. It boasts a 3.2 GHz Quad-Core Intel Xeon Processor, an ATI Radeon HD 5770 Graphics card, and a Western Digital Caviar Black 1TB HD. I'd hoped to hold out until they upgraded the product line again, but current news puts that at somewhere in 2013. My previousApple Power Mac G5motherboard failed recently, and since it was my primary work computer, I couldn't put off upgrading any longer. I don't do much if any video editing, so didn't see the need to get the 6 core or dual processor models. Budget was a consideration as well -- Mac Pros aren't cheap. I'm primarily a graphic designer who uses Adobe Photoshop and the rest of the Creative Suite (CS6) to get my varied print and web projects done; along with QuarkXpress for page layout and Office for the Mac. For these needs this Mac Pro is more than up to the task.My old 24" Cinema Display was still working, but since it is about 8 years old and uses the old ADC connector, I didn't think it was worth purchasing the $300+ adapter for it. There are several 3rd party monitors that looked good and were cheaper or close to $1K, but I decided to go with Mac again, and bought the 27" Cinema Display. While its glossiness can be distracting, I keep my office dark so that isn't really an issue. I've read other's thoughts on the pros and cons of glossy displays, and if a user is not on a laptop that is exposed to a variety of environments, then it actually is the better display for clarity, color depth and reading text. So far I have to concur. At 2560x1440 pixel resolution, details are a bit smaller than what I've been used to, but I'm adjusting and really like the extra screen real-estate. Its brightness is highly adjustable from 'almost can't see' to 'nearly blown-out', so glare can be compensated for in that way as well. In any event, it plays very nicely with the Mac Pro, though I wish the connection cords were longer.Getting back to the Mac Pro. Initial boot-up was easy and the set-up process simple. The interior design of this computer is even more impressive than that of the G5, and I thought that one had the best configuration I'd ever seen in a desktop. Opening the Mac Pro is just as easy as before and they did away with the clear air flow shield and removable fan. Components are laid out more intuitively and EVERYTHING is modular. The 4 hard drive bays are very accessible and RAM was very easy to install. I installed a4 card 16GB Kingston kitand am pleased with it's performance. It is also ECC so I don't have to worry about cosmic rays corrupting my memory. ;'] I also purchased a secondWD Caviar Black 1 TB HDas a back-up, and installed the 2 hard drives from my old Power Mac as well. I've encounter no problems with any of them and the installations were easy. It runs quieter than the G5 Power Mac and has extra ports on the front. If I wanted to install a second optical drive, there is a bay for that. SDDs and a second graphics cards are also an option, though I don't personally require them, yet.I'm still feeling things out, but so far I'm VERY impressed with the Mac Pro. It is FAST -- I'd say a good 3-4x more responsive than my G5 from everything from startup to browser speed and everything else. It came with OSX 10.7 (Lion) installed, but offered a free upgrade to OSX 10.8 (Mountain Lion), which I took advantage of. I installed all of the updates and after more than a week's use, everything appears to be very responsive and stable. OSX is one of the primary reasons people buy Apple Macs, and Mountain Lion is pretty slick. I've yet to encounter a application or system crash. On my old 10.4.1.1 system, that happened *at least* once a week. I'm now using Adobe Creative Suite CS6, QuarkXPress 9.2.1.1 and Office for Mac 2011. No complaints thus far. Browser speeds are excellent too. I had been primarily using Firefox on my old system, but Safari is great on this one so I may stick with it. I did download Firefox and Chrome, and both are speedy on this computer as well. TheApple Magic Mouseis a revelation. I don't think I can ever go back to using a regular mouse again.All-in-all, I would recommend the Mac Pro to a graphics professional who is comfortable using OSX. There is a price premium for the hardware, but I think it's worth it if you want to use OSX and desire a very solid, efficient workstation. It is missing some features like Blu-Ray, USB 3, Thunderbolt and card readers, but for me that is mostly a non-issue. If you NEED to upgrade before the next generation of Mac Pros are available, then I would say don't hesitate. If you can wait, then wait. If you don't want or need OSX, then consider the many fine Windows workstation alternatives. Otherwise, the Mac Pro is hard to beat!~ Kort </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mac Pro </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great computer.  It was a little cheaper ordering from Amazon as opposed to Apple.  It arrived only a couple days after I placed the order.  As with all Apple products, it was ready to go out of the box.  It comes with keyboard and the awesome Apple Magic Mouse. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This is an awesome machine. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you do power computing, be it engineering, graphics or development - this machine is the one you want. Lesser users do not like it because it is huge, solid and intimidating. I like it because it has more internal spaces for memory and storage than any laptop. It is fitted with wireless - you don't need to plug it into an ethernet to get online. Has bluetooth too, so my magic tracpad works, as does my phone sync. It comes with four usb sockets, so I use a ten socket hub with it to attach my peripherals - four printers, two copiers one fax, and a dedicated label printer, and has multiple monitor capability with DVI and mini DVI that I plug my two Amazon purchased Asus  monitors into. The other selling point for me is the two optical disk drive spaces - Apple doesn't make the old type of drives any more - the supplier quit so now they fit the ubiquitous Serial-ATA drives - you can buy one they will fit for big bucks or fit an Asus drive that you can get from Amazon for $25. It fits flawlessly in five minutes, just fit the thing into the carrier and slide it home.Any SATA drive will fit into any of the four carriers, though they are not the same length as the older versions of this machine, so you cannot just take them out of the older machine and slip them into the new one, you have to use the new version's carrier slides. This means installing a drive takes five minutes not one.. :)So, if you need two optical drives, four 4TB hard drives and two monitors, use a bluetooth device and use wifi to connect this machine does it all. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

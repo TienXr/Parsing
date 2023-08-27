@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000F9RLG2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pleasant entertainment </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-30-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> This made-for-TV movie is a rather painless hour in front of the screen featuring the young Sarandon and Walken working well together. Walken plays a shy young storekeeper who only comes to life when he inhabits a theatrical role. Sarandon is a slightly less shy young woman who decides she wants to star opposite him for a lifetime. They bond over "Streetcar Named Desire" and the rest is history.By no means deep, the movie makes no attempt to explore the roots of Walken's emptiness -- but that's beside the point. If you enjoy two of our best actors going at it working from a relatively intelligent script, this is worth taking a look at. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> You can't beat Walken and Sarandon! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-22-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Who would have thought that a movie that runs just under sixty minutes can be so riveting? Sure, it's not the best film that Walken and Sarandon have starred in, but it comes very close. With a condensed length, it features a fascinating chemistry between the duo's characters, and I truly think it's one of the more realistic ones in all of cinema. Walken plays Harry Nash, a methodical stage actor who happens to be awkwardly shy. He takes part in a local theatrical production community, and he happens to be the big star. Enter Sarandon as Helene Shaw, a lonely employee who decides to audition for the female lead in the next small-town production, A Streetcar Named Desire. When these two meet for the first time, a relationship ensues. What you basically get in this film are heartwarming performances from our two leads. There's also the impressive script and the unbeatable supporting cast. I have seen only a few theatrical plays, but this film makes me want to see more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A gem </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-23-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This tiny jewel about a romance between two community theater actors was made in 1982, but the costumes, hairstyles and setting place it vaguely in an earlier time.  It doesn't matter.The Kurt Vonnegut story is low-key.  A telephone company employee played by Susan Sarandon in town on temporary assignment, is co-opted into performing Stella in a community theater production of A Streetcare Named Desire.  Her Stanley, a pathologically shy and inarticulate hardware store clerk played by Christopher Walken comes to life only when playing a role, but when he does, stand back! He's brilliant.Everyone in town takes the situation for granted, but Helene/Stella falls for Harry/Stanley in a big way.  The only problem is that Harry is absolutely tongue-tied when he's not delivering lines.  What wil happen?  Will life imitate art and will this relationship end in Tennessee Williams-esque frustration and tragedy?  It seems likely, and this little hour-long movie keeps the viewer in suspense for its duration. Mr. Walken and Ms. Sarandon's performances are simply amazing although everyone in the cast is splendid. Look for a Vonnegut young lady as one of Harry's fans.I wouldn't spoil the ending for anyone, but will just say that the combination of Vonnegut, Demme, Walken and Sarandon is spectacular.  This is one of the best hours you'll ever spend with a movie. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An Unknown Gem </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-07-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> A very sweet and endearing comedy with Susan Sarandon and Cristopher Walken playing young, neurotic love early in their careers and at the top of their game.  Sarandon is an inhibited TelCo employee who, while visiting a small town to train local staff, is 'discovered' by the local theater club director desperate to find his Stella for a very, very local production of Streetcar.  Her first appearance will be opposite Walken, who plays Stanley with complete abandon and fire to burn.  Sarandon discovers not only a hidden talent but also a burning and first-time-ever passion for Walken, who can only turn it on when he is onstage.  Can these two ever overcome their inhibitions in real life, their on-stage heat notwithstanding?Production values are rather low as this was a made-for-TV movie in the '80s.  However, Vonnegut's writing is tender and revealing, the supporting cast is completely charming and dry, and the two leads just burn the house down.  Demme's direction is sparing and right to the point.  Running time is on the short side at 60 minutes, yet the powers that be manage to round it all up very tightly by the end of the show.  A gem of a date movie you never heard of. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of our favorites </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-31-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> We saw this when it first aired and fell in love with it.  Great story and wonderful characters.  Walken and Sarandon are perfect, and the supporting cast is as well.  Amateur theater in small town Indiana with a twist... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> One of my favorite comedies of all time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Who am I This Time </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-14-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the sweetest, most innocent, intelligent romantic story I've ever seen....Sarandon and Walken are superb!  So much genius packed into one hour!!!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Terrific Short Story that Makes a Terrific Short Film </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-01-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> This one-hour film starring Christopher Walken and Susan Sarandon is a wonderful portrayal of the magic that takes place in the course of acting.  I teach beginning acting to young students, who enjoy the film greatly.  It gives us much to discuss including a response to their common complaint:  "I can't act that way!  It isn't me!"Besides, "Who Am I This Time," is just great fun to watch. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Evokes the Best of America in a Time of Mass Insanity </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-21-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought three copies of this, having seen it many years ago.One copy for a newly married couple that discovered themselves in theater.One copy for the daughter of a colleague with a big brain and great shyness that is dispelled in amateur theatricals.The last copy for me, for my permanent collection.  Along with DVDs such as I list below, this is an utter classic without a single false note.  Indeed, the editorial descriptions above are better than usual.  You will not regret this for an instant.Other perennials with me are:Dances with Wolves - Extended Cut (Two-Disc Collector's Edition)The Last Samurai (Two-Disc Special Edition)De-LovelyPretty Woman (10th Anniversary Edition)Henry VThe Snow WalkerBonhoefferThe Bourne Ultimatum (Widescreen Edition)Smiley's People </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Christopher Walken Before He Was CHRISTOPHER WALKEN </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I taped this off the TV on a VCR when it was first aired on American Playhouse. LOVED this little movie. Saved the tape but the quality of my tape was terrible as we got bad reception of the channel....Never had seen Mr. Walken before and was so impressed. This is something to be seen. It was sweet and the acting and premise of the story were perfect.....Since I haven't seen it in over 30 years I am so excited to order it on DVD! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Real Charmer </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-10-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This only just misses being worth five stars.  Perhaps it needs its charm to carry it over a few weak spots; maybe it looks like it was made for television  -  which it was  -  maybe it's just too easy to enjoy. Those might be reasons enough to deny it a fifth star, but it is winning in every way and extremely touching.  Walken and Sarandon are amazingly good, and the story, simple and straightforward though it is, gives them endless opportunities to shine, especially when they share the screen. There are no fireworks and no great sets or settings.  This a timeless small-town fantasy that a city person can enjoy many times...that's why we own a copy. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

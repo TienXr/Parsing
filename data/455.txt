@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00EURQJWM <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> authorpholloway </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Patti Roberts did a wonderful job of putting together the information given by some of the best indie authors. It was interesting to read about writing from so many other point os view. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Come join an author's round table of fascinating insights </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Grab a cuppa or a glass, pull out a chair and join in the fun - what a great author's round table of fascinating insights, tips, learning from failure and success.First, bravo to Patti for thinking of this project.Second, I loved meeting all my fellow writing friends in this up close/personal & relaxed way.  I learned so much from everyone.This is so much more that just writing tips - it's a learning experience for writers of all ages and all genres. For readers who think that birthing a story is just sitting, laptop balanced on knees, words flowing in perfect vivid order - well, that's what those movie/TV writers do!For the rest of us - it's blood, sweat and tears - both of joy and fear.Had to laugh...only one of us caught the 'typo'...especially since we all talked about editing...but that's what makes this so real. You can read, edit, read, edit and read again...nothing is perfect.Great collection...great bunch of writers....so proud to be included -Elaine Raco Chase </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's a great book for indie authors </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Mistakenly I bought this great book, thinking it was a guide on writing and editing. To my pleasant surprise it turned out to be a book, which could also have been called "Chats with real authors for real authors". In general, indie authors don't profit from reading interviews with star authors, because famous authors usually have the kind of support, which indie authors just don't have."Writing Tips from Authors" features honest interviews with authors, who not only talk the talk but also walk the walk. Of course there is lots of advice most writers have heard already; e.g."The most helpful advice that I ever received, concerning my writing, was to stay true to my voice in whatever genre that I chose to write in."It is still nice to hear this confirmation.Even though my method of overcoming writer's block is only practiced by eight other writers featured in this book, I found it interesting to find what others do.Author Patricia Puddle gave me excellent tips, which I consider valuable to even the experienced indie book markting expert.One of the most straight-forward interviews is the one with Donya Lynne. It is extensive and straight from the writer's desk:"The other item to note about social networking is to turn it off! If you're Facebooking all day, you can't be writing."That's the kind of kind of advice, which your mother would give you regarding other activities. But, it is true, and all of us, who are so concerned with marketing our books need to hear it. In the end its is all about the product (book) and this short book is great product.Lastly, I found it very interesting to see the book covers of  these authors' books in combination with their thoughts. While in theory the cover had nothing to do with the content, in a way it rounds out the picture. In the olden of publishing authors had barely any control over the cover. Today, authors work with cover designers thus the covers reflect their thoughts and personality. My absolute favorite cover was  Annie Miles' Misled. Not surprisingly, in the interview she comes across as a person, who thinks a lot like me and favors similar marketing methods. While I liked almost all covers depicted in "Writing tips from Authors" the following (listed in no particular order) stood in a way, which I still have to ponder:David Bishop's - The WomanTarek Refaat - Ribbons & HeelsThorns of an Innocent Soul - Barbara WatkinsCarlyle Labuschagne - The Broken DestinySolease M Barner - Secrets Of The GhostsPatti Roberts - Paradox - Bound By BloodI think that most indie authors will profit from reading this ebook. While not everything in this ebook will work for all, they have an opportunity to pick and choose from a vast amount of information.Gisela Hausmann -- author & blogger </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Valuable Lessons from Writers </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Anytime you find a compilation of experiences on any subject, you have found a treasure chest. As someone interested in writing, if you glean just one bit of advice that assists you in your endeavors or allows you to avoid a pitfall, then the read was valuable. That is the sole purpose of this book -- to learn from others so you do not have to reinvent the wheel.The book is written in casual manner, from the heart, by authors as if they were sitting with you in conversation sharing their personal thoughts. It should not be taken as a college textbook nor searched for typos. I believe that defeats the book's overall intent.Many of these authors are friends and I enjoyed reading their views to questions and learning from their experiences. The publishing industry is swiftly changing and I find that all information about the writing world is beneficial. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An insight </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I actually read this last month, but had an attack of the lazies in not adding it to my goodreads. This book is an insight to other authors views about writing, editing and publishing, along with a few other things. What this book did for me was to point out that my method of doing things is neither right or wrong... It just is. It also opened new ideas to me that I could look at incorporating into my current methods for writing. Read this with an open mind. You just might find you aren't the only one to write the way you do. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome book on finding out how to get into the publishing world! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Thank you, Patti, for taking the time to put this all together! I have learned so much from the other Authors, on how to get that step ahead. This book has also put me in touch with other authors. It's not about editing mistakes - it's about advice and what to do, where to go and how to get out there into the publishing world - a world where few people are willing to help these days. Thank you for you time, Patti. Awesome work!Michelle ;) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A mine of useful information </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> An informative and enlightening compendium from twenty-six published authors - and all for less than the price of an average coffee. Brilliant fun. I was entertained by the stories and anecdotes in each of the authors' publishing journeys, and it was interesting to see the various walks of life that culminated with the same thing: writing.This book is not a manual of how to write; more of an informal chat between friends. Reading it felt heart-warming, like a twenty-six person group hug. If you feel lonely on your writing journey, or simply wonder 'how it is' for someone else, read it. You'll be glad you did.Many thanks to the person who pulled it all together and took time away from her own projects to publish such a gem of a book, Patti Roberts. In an age when everyone is in a hurry and few stop to help, Patti's friendliness and dedication to her fellow writers is unquestionable and unconditional. Highly recommended. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Author Manuel! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A great manual for aspiring writers, especially ones interested in self publishing. I would have loved a book full of tips from published authors when I was ready to publish. I've enjoyed reading it and there are some great ideas I didn't know about, so thank you Patti Roberts. You always come up with great ideas to help your fellow authors, and the price is amazing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Wonderful Guide for the Indie Writer </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'd like to thank Patti Roberts, the editor of this fine manual, for putting together such a useful guide. Learn Writing tips from Authors provides many helpful tips for an indie author in delivering their book to the public. To offer the book for free is a testament to Patti's commitment to helping indie authors such as herself forge a pathway to success. This guide book is an invaluable tool to an emerging author and, as an emerging Indie author myself, am grateful that Ms. Roberts took her valuable time in compiling this book!T. Hunt Locke, Author of The Ming Inheritance & Jim Thompson Is Alive! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great advice for budding authors </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This little book is packed with useful tips from working writers, and should be on every new writer's bookshelf.There are some wonderfully trenchant comments in particular from David Bishop and Donya Lynne on so-called "writer's block", and on writing in general. I can't resist quoting a couple:"The most successful way to market your work is to write it exceedingly well." (David Bishop on marketing)"You can't edit nothing, but you can always edit crap" (Donya Lynne on keeping at it)"Turn it off" - Donya Lynne on Facebook when writing"My plumber doesn't only fix my plumbing problems on mornings when it isn't raining and when the moon was full the night before." (David Bishop on writer's block)Interestingly, I was very surprised to note how few of the featured authors had apparently chosen to have their contributions edited. As a working editor myself, I was especially narked that one writer who is my client did not ask me to cast an eye over it. But, edited or not, the many different viewpoints in this collection were refreshing and there is good advice there for everyone. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

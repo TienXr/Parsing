@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002HW5G2Q <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> I bought this and volume one of this season and I was not pleased about my volume one box set being a little damaged, but at the same time I got my money's worth out of this and the damage wasn't terrible. You get around twenty five episodes in a nice box set for only $15. Great buy for any Naruto fan! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great casing this time! </p>
+
+
+<h2> review.date </h2>
+  01-24-2014  
+<h2> review.text </h2>
+
+ <p> I like the series and the item arrived exactly as I expected. It is really cool and fun to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Such a cool show. </p>
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> meet naruto uzumaki knucklehead ninja extrodaire, see how the hero of the leaf village began his stuggles to gain exceptance from everyone around him </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a hero in the making </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> I just now started getting into this show. Great show! Great price. I know it will be a keeper for years to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good show </p>
+
+
+<h2> review.date </h2>
+  01-21-2010  
+<h2> review.text </h2>
+
+ <p> i am very disapointed with myself if i knew there was going to be naruto set like this i would not have bought box set 1 & 2 but its only 2 boxes so i cant complain much on good side this set is 10 less from the 3 disk box sets that where released before and comes with 6 disks.my only complaint about this set is it does not come with bookelet or an episode guide on each disk prince of tennis comes with an episode wuide and on the opposite side of the same poster are the episodes dont see why they couldnt with these sets.i know anime is originated in japan but come do soemthing could you in the japanese anime series dbz, naruto, onepiece, & others they had american versions f the intors of the series with american music yes im american and there some anime series that i like anime music in the intors, & endgin music but the ending in the dbz, naruto uncut box set season 1 vol. 2 ending music puts me to sleep & other series could some of these anime series at least come with anime language, subtitles, english subtitles, & english music as shown from cartoon network some of the music from cartoon network fits with dbz uncut episodes but the japanese music dosent fit to well its out of place and seomtimes depressing & mainly puts me to sleep dbz, & dbgt is fighting series its not a series that has happy music playing for ending credits or the intro of the series dbz is a series that has music that fits really well with rock music and up beat not japanese music that has depressing, sad, music added to it give these anime series some upbeat music to it that fits the theme to these series anime companies </p>
+
+
+<h2> review.summary </h2>
+
+ <p> saeason 1 box set part 1 </p>
+
+
+<h2> review.date </h2>
+  11-17-2012  
+<h2> review.text </h2>
+
+ <p> I love this series. Its full of action and humor and plenty of great characters. A must have for any anime fan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> awesome </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> This was a Christmas present for our grandson.  He loves them and wants us to order other sets for him. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Naruto </p>
+
+
+<h2> review.date </h2>
+  07-27-2013  
+<h2> review.text </h2>
+
+ <p> Naruto season 1 is the first season of many. When i first startedwatching them i had no clue why or what i was watching but as thestory progressed i really began to understand the characters andI slowly grew up with them and fell in love with theirpersonalities.Naruto was the first anime that i started and now I can'tstop watching. If you love anime, and if you love a main characterthat never shuts up and is so annoying that you begin to feel for him,then this is the anime show for you.If you start watching them online, be warned you'll want to startbuying them and there are a lot of them. There are eight seasons whenNaruto is 13, then Naruto Shippuden which jumps three years ahead. Irecommend all of them to you because they're all good! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Naruto (the first of many) </p>
+
+
+<h2> review.date </h2>
+  03-13-2013  
+<h2> review.text </h2>
+
+ <p> The manga is an awesome classic and, aside from all of the filler mumbo-jumbo, the anime is just as good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Believe it! </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> I am a huge fan of action anime and Naruto has plenty of action and a good story. There are funny characters and good morals:) A great anime for teens to adults:) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome! </p>
+
+
+<h2> review.date </h2>
+  07-20-2013  
+<h2> review.text </h2>
+
+ <p> I have been wanting to get this series for a long time. I'm looking forward to the rest of the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yes </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> Naruto is a great series that anyone with even a remote interest in animation should check out.  These first 26 episodes build up the introductory stories of some of the series best characters and only gets better from here. I seen these episodes over and over and never get tired of the great plots and character-driven stories that makes this anime one of the best out there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Naruto- One of the best anime out there </p>
+
+
+<h2> review.date </h2>
+  08-30-2011  
+<h2> review.text </h2>
+
+ <p> The Naruto Uncut Season One Volume 2 box set is a six DVD set that contains episodes twenty-six through fifty-two of the Naruto anime series.  The first disc contains five episodes, the second disc contains four episodes, the third disc contains four episodes and bonus features, the fourth and fifth discs contain five episodes, and the sixth disc contains four episodes and bonus features.This is a "bare bones" release; there are no booklets or inserts included in the set.  When it comes to the actual discs in this set, they are basically the discs from Naruto Uncut Box Set 3 and Naruto Uncut Box Set 4, with minor changes made to the bonus features included on the third and sixth discs.The first bonus feature on the third disc is labeled as "Production Art."  This consists of ten pages of model sketches of some of the Naruto characters.  The next feature is a preview for Naruto Shippuden.  This is followed by "From Sketch to Screen Episode 33," which is eight pages of storyboards.  For each storyboard, you can choose to see the clip that the storyboard is for.  In the extras, you can also see the English credits.  A link labeled as "Shonen Jump Home Video" is a link to three trailers.  There is also "Shonen Jump Magazine & Manga," which has ads for Shonen Jump magazine, an ad for the Naruto manga, and two ads for other Shonen Jump manga titles.The first bonus feature on the sixth disc is "Production Art," which includes ten more pages of model sketches of the characters.  The next feature is the exact same preview for Naruto Shippuden that appears on the third disc.  After that is "From Sketch to Screen Episode 40."  Like the "From Sketch to Screen" on the third disc, this feature has eight pages of storyboards, and you can choose to see the clip that the storyboard is for.  You can also see the English credits on this disc.  The link for "Shonen Jump Home Video" includes the exact same trailers that appeared for this feature on the third disc.  This is also the case for the "Shonen Jump Magazine & Manga" section of the extras.If you enjoy Naruto and haven't already bought the Naruto Uncut sets, this would be an economical way to get the episodes on DVD. You get double the amount of content of the original sets, but pay about the same amount as you would have for those original sets.  However, if you do purchase this set, just be warned that Viz Media didn't go to a lot of effort when combining Naruto Uncut Sets 3 and 4 together to make this set.I wrote this review after watching a copy of this DVD box set that I purchased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An economical repackaging of Naruto Uncut Boxes 3 & 4 </p>
+
+
+<h2> review.date </h2>
+  07-07-2013  
+<h2> review.text </h2>
+
+ <p> I love this anime! Naruto Shippuden (The story is continued a few years later.) is even better! The story and character development is awesome! Definitely watch Naruto and Naruto Shippuden! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome! Naruto Shippuden is even Better! </p>
+
+
+<h2> review.date </h2>
+  09-08-2013  
+<h2> review.text </h2>
+
+ <p> one of my favored anime out there. When i seen the fighting scenes with kakashi/naruto when i was creating a AMV music video for the first time, i was blowing away on there super powers on each ninja in the show can do so i fall in love with the show. If you never seen this show and dont no what it''s about, go on youtube and search on the store line and clips on the fighting. It will blow your mind! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ONe of my Favreit anime! </p>
+
+
+<h2> review.date </h2>
+  06-26-2010  
+<h2> review.text </h2>
+
+ <p> Naruto is a long running anime series stressing the value of friendship, the family unit, and willingness to fight for what you believe in.  The story consists primarily of Naruto and his companions growing up and maturing as they face very difficult adventures during which they have to help each other overcome nearly impossible odds.  There is a lot of humor, some very sentimental moments, and very dramatic battles.  The fights that occur are powerful, brutal, but not too bloody. I recommend the entire series.  Suitable for teenagers and older.  The DVD's worked perfectly, audio and video were flawless.- Mike S. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> RECOMMENDED </p>
+
+
+<h2> review.date </h2>
+  03-05-2014  
+<h2> review.text </h2>
+
+ <p> For anime lovers this show is awesome and intense. It keeps you drawn in and is worthy of watching. I keep up with the show as much as possible and this gives you insight to the beginnings of the show. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anime greatness </p>
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> id recommen this to all my friends who love anime and loves naruto and good way to spend a lazy day which i dont have many of. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nnnnnnaruuuuuttttttttto </p>
+
+
+<h2> review.date </h2>
+  07-02-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this at a nice low price Naruto Both seasons 1 and 2 DVD's for $ 55 with shipping and handling.They have excellent picture color and sound quality. it was shipped out fast and I got them at warp speed.I love it and would buy from this company again </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Naruto </p>
+
+
+<h2> review.date </h2>
+  04-03-2013  
+<h2> review.text </h2>
+
+ <p> Would give it a 5 star of it wasn't for the horrible inner scrapes the box set container had inside, and the minor but visible scratches some DVDs had. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME PRODUCT. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

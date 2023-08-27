@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B005LZW87M <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-25-2013  
+<h2> review.text </h2>
+
+ <p> ...yeah, I stuck with this thing thru the end, tho I wanted to quit 20 minutes within. Kudos for kids wanting to get off the ground, but this was really a very sorry beginning to that aspiration. Basically, all I got from it was, the power of very stupid people confined in a small space....basically like Congress, now THAT is scary! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Please make it stop... </p>
+
+
+<h2> review.date </h2>
+  09-06-2012  
+<h2> review.text </h2>
+
+ <p> The acting wasn't the best and didn't really have a great story line and didn't explain much they just had random things occur or jump out at you. They had a good idea but didn't take it all the way. I have seen better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 7 Nights of Darkness </p>
+
+
+<h2> review.date </h2>
+  03-28-2013  
+<h2> review.text </h2>
+
+ <p> This is a creepy concept, it would've been cool to see what could have been done with a budget. Anyway, there were some sppoky spots, but this is definitely one for when you are out of movie options. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Ghost of Richard Speck </p>
+
+
+<h2> review.date </h2>
+  03-20-2013  
+<h2> review.text </h2>
+
+ <p> This started out like it was a reality show. But throw in a couple of impossible special effects, and you soon realize it was strictly done as entertainment. And it was pretty good at that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strictly entertainment </p>
+
+
+<h2> review.date </h2>
+  07-03-2012  
+<h2> review.text </h2>
+
+ <p> If you are a big horror fan, this one aims to please! The story-line is good and Special Effects. Spine-tingling, edge-of-your-seat thrills with good cast. Creepy and scary throughout. Highly Recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "A SUPERNATURAL HORROR DELIGHT!" </p>
+
+
+<h2> review.date </h2>
+  01-01-2014  
+<h2> review.text </h2>
+
+ <p> I'm going to think twice before using a bathroom stall in the future. Talk about spooky.  The whole point is to watch this movie and let your imagination go. If you do then this is a pretty spooky film. The actors spend too much time bickering but that aside, by the time things got really rolling then this was a hard movie to stop watching. (had to take a potty break) The set and scenes were creepy. The scary parts kept building through the movie. Again, just let your imagination go and get in to the movie and you will find it quite entertaining. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good movie is you like being startled. </p>
+
+
+<h2> review.date </h2>
+  04-29-2013  
+<h2> review.text </h2>
+
+ <p> What do you get when you have 6 grown adults, no sense to save their lives, next to no patience for anything, and total madness without hope? Pretty much today's horror genre. What? You thought I was talking about this? I may as well have been, it follows in the footsteps of the excessively popular found-footage film genre and throws in nearly every trope in today's horror and amplifies it to be worse than it had been before.You have 6 contestants from across the U.S., coming together to stay in one mansion for one week, doing a task every night (that also follows every mindless horror clich&eacute;), and it's up to each one of them if they will stay for the next night of... "terror" or if they will leave and let the money be equalized among those left behind. Too bad there are problems for each of them. Some don't believe in ghosts, are staunch believers that they will not encounter anything and are there strictly to collect their due by week's end.Others have strange secrets. Let's see... an imbalance between male and female contestants? Check. One of the ladies being a blonde? Yep. Gotta be an American horror film, all right. At first, just a couple of standard little jumps (and one guy constantly complaining that people "shouldn't do that!" more frequently than I can tolerate, proving his claim that he's easily scared (like when one of the ladies is just staring into a tiny cellar and he's a broken "No!" record and doesn't know how to see she wasn't going in anyway, it made me wonder if he needed new glasses)) then the s&eacute;ance scene. Blond takes lead, but, despite her claim of having experience in the supernatural, and having done s&eacute;ances before, her motormouth and excessively "passionate" attitude about the whole thing (less than half of what she says makes any sense) proves she doesn't know what she's talking about. And yet, that's where the bizarre starts happening.Like the general sense of time and where things belong starts evaporating away. Nobody's logically thinking through anything they say (constantly challenging one another over the simplest things and they seem like they have no clue on anything anyways), and even the most "expert" of the bunch constantly has a macho mouth with no brains behind his words.And it's too bad a lot of the ghostly special effects are more 2nd-rate than anything, including the ghost in the stall (too cheesy for me to even feign jumping). Got a couple ghosts who think they were from The Ring, one that looks like it was related to Ju-On, and, okay, the walking doll actually was a chilling eerie sight, but it didn't help the rest of the so-called scares.Oh, and if you watch this, stick around for after the first part of the end credits for a little extra footage that only makes half sense. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'll take the prize money </p>
+
+
+<h2> review.date </h2>
+  09-09-2012  
+<h2> review.text </h2>
+
+ <p> Yet another entry into the "found footage" genre... "7 Nights" wasn't too bad, but it fell short on a few things. One of my fellow reviewers, Miss Catherine, pointed out that the "abandoned asylum" setting was definitely flawed. Everything looked WAY too modern, for one. The furniture looked like your standard run-of-the-mill office furniture you'd expect to find in an office setting. But the hardest thing for me to get past was some of the acting. These were supposed to be people who weren't scared of ghosts, yet the ladies kept screaming at any movement. Quite annoying. And when the group went on its initial exploration, one of the male team members kept saying "Stop... stop... stop... Listen to me... Stop..." I pretty much wanted to take my own life after noticing how lame some of this acting was. STILL... Not a bad story. Some scary moments, even though the "ghost girl" was slightly reminiscent at times of Sadako from "Ringu"... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely not original, and definitely flawed... but I still liked it... </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> Didn t even watch it because the other one sucked so much I would rather be shanked in the throat 38 times with a sharped toothbrush than to put myself through that again IS this enough words for your fake as buying bitch as friend too </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These People are harassing my by bulling my email account </p>
+
+
+<h2> review.date </h2>
+  06-22-2013  
+<h2> review.text </h2>
+
+ <p> Okay, I can't really come up with seven reasons but I wanted a catchy review title.  Actually, this is not a bad movie.  I love horror, both good and bad, so I think I am a pretty good judge of scary movies.  The downside to this movie is that the characters/actors yell and scream too much.  The acting, however, is more than passable.  The upside is that there are a few thrills and chills.  Again, I watched it late, late and that helps create a mood but it seriously has some good scenes.  Is it a bit predictable. Yes . . . but it can still make you jump a little.  A little BLAIR WITCH-y, hand held camera style . . . I don't regret watching it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Seven reasons to Watch </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> This movie was actually good but hated that they ended it like the blair witch movie...They could have thought of a more creative ending. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blair Witch </p>
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> unwatchable. for so many reasons- just annoying, slow and poorly produced.you could easily duplicate this entire movie in one weekend with a few friends, a couple of cell phone camera's and some Chinese food.it's something you'd see on Mtv - </p>
+
+
+<h2> review.summary </h2>
+
+ <p> one of the dumbest movies made... </p>
+
+
+<h2> review.date </h2>
+  01-22-2013  
+<h2> review.text </h2>
+
+ <p> This movie was low budget, low def and limited on special effects. But, I surprisingly enjoyed it.  The first few minutes I wasn't paying attention to it and was letting it play in the background.  However, once they got into the house I got sucked in.  I think the acting was great because that's what drew me in.  These people were pretty good with their reactions to events.  Not a bad flick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a Bad Flick </p>
+
+
+<h2> review.date </h2>
+  12-18-2012  
+<h2> review.text </h2>
+
+ <p> i grew up, spent my childhood less than a mile down the rural road which the building in this movie is located on.  all my life i've known about it. imagine my surprise (after realizing what a surprisingly SCARY (!) seemingly amateur film managed to be by the end) when i realized that the curious obscure movie i had just watched and liked very much was made HERE, in my own small home town, and at that building on the road i had grown up on.  amateur, a little poorly time duration editted at certain scenes?  you bet : D  did i find it with other movies on a cheap set of haunting movies?  yes.  did i like it?  heck yes : D  i found myself actually liking the "crew" (cast) much better than a previous movie much like this one, and becoming enthralled with the location, atmosphere, and snarky seemingly improvisational antics of the characters.  besides the fact that i watched it, intrigued, all the way through and decided it was my favorite of the set of movies in the pack, and possibly my new indy 'cult' amateur favorite : )  it actually managed to SCARED me!!!  sudden shock scare tactics don't usually work on me except for the momentary jolt, but this movie had me literally gripping onto things for scare jump-support by the end of it :)  scared the heck out of me.  maybe because i watched it alone around 3 in the morning. most a-lister movies don't do that.  then enter the fact that i go back again to watch the beginning (as i had been somewhat distracted during the opening), and i realize that familiar building just by chance happened to BE the building i thought it resembled, but couldn't possibly be made here?  maybe that's why, could 'echo bridge' be an ohio based company?  and yes this place supposedly used to be an asylum.  and a sort of home for widowed civil war wives, before that.  for the time i lived here, it was a police station.  now it's just i guess unused, but owned by someone.  what a strange, creepy, interesting night : D  i immediately felt compulsed to go out my van around 4 in the morning and drive down to my old road and see for sure if this was the building in the movie.  too dark at night, but today, i went by again and remembered that sure enough, as in the movie, it reads 'Ohio Cottage' on the arch over the main door.  : D  coolness!knew it was creepy, but never thought anyone would make a movie there.  what a great location for that.  i give it four stars because it could have been editted (for time) tighter, some of the scenes, but for what appears to be an amateur movie, i have to give them two thumbs up, the 'amateurness' of this movie and cast actually gives it it's charm, and worked to actually be SCARY : D  hope that's not 'cause i'm biased that it was made in my neighborhood. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> i grew up on the (rural). road by this asylum/police dept. 'ohio cottage' </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> What can be said...waste of time?  Poor acting...Aching screams...thank goodness I did not pay one penny to watch.  One star for making me drozzy.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 7 Nights and Hour Waste of Tiime </p>
+
+
+<h2> review.date </h2>
+  10-13-2013  
+<h2> review.text </h2>
+
+ <p> I tried several times to watch this thing all the way through, like many others did not like it. Another paranormal investigation documentary and sadly this is not one of the good ones. If you want a good one ( The Possessed ) is really good I rented it here and watched it 3 times </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 7 NIGHTS OF TORTURE </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> Clearly an independent film without a big budget but well worth watching as the film keeps you guessing right up to the startling end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Excellent Ghost Story </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> THIS movie was truly scary.....had us on edge waiting...in anticipation, wondering who would be the next victim. Worth the money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> review </p>
+
+
+<h2> review.date </h2>
+  06-14-2013  
+<h2> review.text </h2>
+
+ <p> Love some of the features, but not enough explained. felt a little lost. Place was creepy.Wish there had been more light. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good experience </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> MOVIE IS OK BUT IT COULD HAVE BEEN LESS TALK AND CURSING  DVD WAS IN REAL GOOD CONDITION LIKE THE DVD </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 7 NIGHTS OF DARKNESS </p>
+
+
+<h2> review.date </h2>
+  11-14-2013  
+<h2> review.text </h2>
+
+ <p> Ugh!Just don't(sigh). I mean it! Don't.(sigh) You will never get these 7 moments back of watching this terrible atrocity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just Don't! </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> After 47 minutes I turned it off.  I could no longer stand the constant bickering and screaming, both male and female.  I stopped caring how it ends and just wanted it to stop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I can't stand the constant bickering. </p>
+
+
+<h2> review.date </h2>
+  07-06-2013  
+<h2> review.text </h2>
+
+ <p> I won't give any spoilers, but the idea of the movie was something I was interested in ... a reality show filmed in a haunted building. the downside, the acting and the props. They are given daily challenges in crappy manilla envelopes that are hand written. The building isn't wired with cameras as many reality shows, or filled with cameramen, but rather, the contestants carry their own cameras.Then there's the acting ... at one point, when all sorts of stuff is going on, and people should be terrified, one of the contestants looks bored and disinterested, not terrified. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> interesting, but the acting detracts. </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> After reading some of the negative reviews I felt compelled to offer another view,  First let me say I firmly believe a 'good' or 'bad' movie is purely subjective, everyone will draw their own conclusions from their watching experience.  For me, this was a really creepy movie with very good 'made ya jump' scares.  I appreciated the absence of rivers of blood, gore or slashing, just wish they could have cut down the number of f-bombs.  Also, this is a &#34;lost/found video&#34; movie, which I personally like a lot,So, as stated, the story revolves around 6 contestants who must stay in this abandoned asylum for 7 days, if they do they will receive 1/6th share of a million dollars.  The more players who leave then, the more money each could make.  They are also tasked with one 'must do' chore  each night; ie, &#34;explore the basement and first floor&#34;.  Okay, good premise as far as I'm concerned.  The characters are all very different individuals, and yes, one or two are annoying, but that's just a counter-point and don't all movies like this have a jackass or two?  I've read that the acting was terrible, I beg to differ, I thought the actors were very believable.  I actually looked at them and thought they were truly afraid going down the pitch-black halls with just flashlights, who wouldn't be if you were in an old building at night?  I heard nervous giggles, the kind that slip out when you're trying to convince others you aren't frightened.So, all in all, I'd say  7 Nights of Darkness is a fun ride, a good scarey journey, and you'll want to wait for the credits to run ALL the way through for a little extra surprise.  Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good scare! </p>
+
+
+<h2> review.date </h2>
+  04-18-2013  
+<h2> review.text </h2>
+
+ <p> This movie is not worth the time. Half acting and really nothing we havent seen before. Trust me rent or buy something else. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Skip It </p>
+
+
+<h2> review.date </h2>
+  12-09-2012  
+<h2> review.text </h2>
+
+ <p> OK It wasn't THAT bad. I have seen worse.The characters were pretty generic, however,at times it had some funny moments.I would watch it again,but I won't be paying for it, like I did last week.Save your $1.99, and wait till it comes up free on TV.If you MUST see it now, it is not a total disaster. Some creepy scenes,not a total letdown. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 7  Nights of Darkness??? I've seen worse! </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> I watch a lot of horror and thriller movies, they are my favorite so my standards may be higher.  The acting in this film as lousy, although I know it was suppose to be reality TV the filming in several scenes was very poorly lit.  The plot was thin, not enough back ground on this story or the characters, and their script wasn't believable either.  If you are looking for something good, this is NOT it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not so good </p>
+
+
+<h2> review.date </h2>
+  01-01-2013  
+<h2> review.text </h2>
+
+ <p> This is an idea that has been done before and better. In this version 6 contestants must spend 7 days and nights in an abandon mental institution which is apparently haunted for some unknown reason. Each day consists of a new task as they explore the institution and perform seances.Eventually the movie takes on the aspect of "Ten Little Indians." There some basic problems with this picture. First off, as they pretend to be a reality show, they have boring one on one interviews with the contestants. We already know this is a film and scripted. These type of interviews are boring in reality TV shows, now we get to watch boring ones which we know are fake. I couldn't figure out the cameras as they would swap from great color to grainy black and white for no reason, even during the day. If you are going to pretend to be a found footage film, at least pretend the audience is smarter than a turnip.The horror aspect of this film isn't bad if we haven't seen so many better horror films like this before. The comparison factor drives this film down. We all know creepy little girls are scary. The film doesn't leave you with an explanation, although a better sequel with a better script and better actors is possible. If you haven't seen "The Ring" or anything with the word "paranormal" in it, you might find this passable as entertainment.Parental Guide: F-bombs. No sex or nudity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I HATE YOU DOLL </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> "7 nights of darkness" is a reality show gone horribly wrong where six contestants are locked in an abandoned and allegedly haunted asylum for one week and, if they play by the rules, stand to win a million bucks.  Yes, the medium chick is rather melodramatic but she's infinitely more watchable than the neo-wiccan on Blair Witch 2 and yes, the personal video diaries seem a little superfluous but the viewer has to be at least a little sympathetic to their plight.  And yes, the cast members engage in a lot of immature whining and lowest-denominator language but again, they're trying to emulate reality TV (very convincing BTW) and I think we've all watched enough of that to know how folks on those shows can entertain but usually aren't very heroic, kind, dignified etc.It's obvious that this movie didn't have a terribly, big budget but the ultimate purpose of horror movies should be to scare and so I recommend you view this one at night and as alone as possible (like I did); under these conditions I actually found it a little hard to watch because  in spite of its many shortcomings it has a strong "creepy factor" (more than Paranormal Activity 3 but less than Amityville Horror) and again...for this genre that equals a win in my book.  :o) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent Haunted House Film </p>
+
+
+<h2> review.date </h2>
+  12-01-2013  
+<h2> review.text </h2>
+
+ <p> this movie is so stupidly bad - in a painful, not funny way. no one bothered to write a script to it's just a bunch of non-actors walking around screaming at nothing. everything that I abhor about found footage films. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> painfully bad </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

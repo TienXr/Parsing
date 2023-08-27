@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B001C71IGU <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of the all time classics. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This DVD came into our house and we watched it for the next four nites.  I can't get enough of DR WHO.  This doctor did not get enough time on air.... I want more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> timelord trial </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-19-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> yea, it is out on dvd, had it on vhs but can no longer find a vcr to play it on </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> "The Trial of a Time Lord" </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is an amazing serial, and the package came a day earlier than expected. I loved this serial, and the extras are amazing. The performances are from Colin Baker and Michael Jayston are spectacular. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Avg episodes, fantastic package </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Trial of a Timelord isn't remembered as one of the best season ever of classic Who, but it's definitely not the worst.  The entire season was made of 3 stories presented as evidence at a trial against the Doctor and a 2-part conclusion.This was Colin Baker's last season, and the first after an 18-month hiatus, so a lot of the bonus material deals with those events.  During this time, a single and a video were released to show support of the show, and the video is included as is much archived news footage.There are the usual "making of" specials that highlight each story.For this season, producer John Nathan-Turner requested yet another re-imagining of the show's signature tune.  Dominic Glynn did this work but since he had just started to build his studio, he considered the version that aired incomplete.  Here, he has a chance to remix the tune which is available here as a video playing over a re-worked version of this season's opening graphics. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Trials and Tribulations </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-08-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I actually really liked the sixth Doctor, and I realize that this puts me very much in the minority.  His portrayal of the Doctor was fresh, is arrogance taken to new heights.  This storyline, very reminiscent of War Games in scope and grandeur, was aiming for EPIC, and in many ways it succeeded.  The story and sets are engaging.  Collin is in top form.  Some of the storylines don't exactly end, or do so quickly and in ways that just seem off(the send off of a particualr character seems rushed).  Still, a very good episode, which left me riveted when I was younger and still does so today.  What a shame this Doctor's tenure ended so quickly.  Don't let his quirky outfit put you off, Collin is magnificent in the role....and keep a look out for tge Graveyard...I mean Valyard </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Why didn't they do the Missing Season instead of this trial? </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> When Doctor Who was put on hiatus for eighteen months, they had already started work on the next season, which included the return of the Celestial Toymaker, Sil, the Ice Warriors and the Autons. Instead, John Nathan-Turner decided to do the Trial storyline to reflect the fact that Doctor Who was on trial, putting out a season where the Doctor was on trial for violating the First Law of Time wnd written by several writers. Considering the bad stories and the hodgepodge ending where the Valeyard escaped and the Doctor goes off with Mel, who he hadn't even met yet. I wish that they had used the ending where the Doctor and the Valeyard were trapped in the Matrix, then used the next season to not only resolve this, but also have the Doctor and Mel meet properly and perhaps see if Peri and Yrcanos were living happily ever after.They should also have fired JNT because Trial is the culmination of the decline of Doctor Who because of not only increasingly violent stories, but also a poor characterization of the Sixth Doctor. Hopefully, a new producer would have reversed this trend and perhaps Doctor Who might not have been cancelled. However, this was not to be and the show was cancelled until 2005. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Too short a season </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Colin Baker didn't get enough time as the Doctor in my estimation. This, though, is his shining moment. Telling off the Time Lords is what it finally comes down to. He ran from such corruption as theirs and now they've dragged him back to put him on trial for a crime he didn't commit. They may even know he didn't commit it, but they have their procedures to follow. Great work all the way through with a bit of forboding as to what would come many years later. This package is the best way to see &#34;Trial of a Time Lord&#34;. Any Doctor Who fan would appreciate this as  a gift. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> "There's nothing you can do to prevent the catharsis of spurious morality!" </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-11-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> For anyone collecting DVD releases of classic Doctor Who, this nicely packaged box set is a rare, seldom-encountered oasis. Though there are good reasons and rationales for it, the normal release schedule can seem maddeningly random and haphazard at times. Such however is certainly not the case here with the 4-disc "Trial of a Time Lord" set, which includes all of 1986's season twenty-three in one complete and coherent whole. What a luxury, to watch an entire year of the show together in order! Of course, one key unfortunate factor making such an indulgence possible is that this season was radically (one might say brutally) scaled back and truncated by the allegedly apathetic if not hostile BBC hierarchy of the time: fourteen half-hour episodes, the old standard of twenty-six sliced right in half. The show was indeed literally on trial for its survival, and the fiction-mirrors-fact echo of the Doctor being put on trial by his own people is a deliberate and conscious one by the show's beleaguered creators. You might say that the postmodern self-reflexive '80's had finally caught up with Doctor Who, but the effect is poignant rather than ironic.But yes, true to its title, the overall story arc encompassing the four individual tales of this season sees the Doctor on trial for reckless and capricious interference and meddling in timelines, and later even for genocide. With this good solid bit of courtroom drama as the frame, each individual tale then unfolds in classic Dickensian order as evidence presented to the court by the Doctor's belligerent prosecutor, the Valeyard (for a good clue as to his true identity, check out what his title means, and no, for once he's not the Master in disguise). First of all, from the Doctor's past we get to visit (or revisit?) "The Mysterious Planet", wherein he and Peri explore a distant world with two different regressed civilizations, one free and tribal, the other ruled with an iron hand by a control freak of a computer--a world that turns out to be impossibly familiar after all. This intriguing puzzler is the last full story by Robert Holmes, a longtime stalwart writer of the show responsible for many of its most memorable moments, and is worth its weight in gold for that reason alone. And quite good in its own right, too, an entertaining adventure replete with dry wit and given substance with thought-provoking ideas and concepts integral to the plot--typical Doctor Who in the best sense.Next, from the Doctor's present we are shown "Mindwarp", which manages to deal with many chillingly disturbing grown-up themes like unethical medical experimentation and corporate economic exploitation in a compelling manner, playing with the viewer's mind in the process as we see the Doctor act in very uncharacteristically self-interested and even evil ways--or has the evidence been tampered with? To top it all off, Peri leaves the series in a dramatically grim fashion (Afterwards to be retroactively defused by a lame cop-out). From the Doctor's future, "Terror of the Vervoids" finds a later him and a future companion, Mel, aboard a space liner plagued with an ongoing series of murders and a serious weed outbreak. A traditional whodunit in a futuristic setting (the writers don't seem to realize they've effectively put "Robots of Death" and "Seeds of Doom" in a blender), this is Doctor Who by-the-numbers but there's little sin in being formulaic when the formula works so well. If the show is on trial, it might as well play to its strengths. Finally, "The Ultimate Foe" brings the Doctor's trial to a bizarre and perhaps less than fully satisfying conclusion. Rather disjointed due to the sad and tumultuous circumstances of its creation and marred by some deplorably cringe-inducing dialogue lines scripted for Mel, the final battle with the Valeyard in the eerily surreal computer-generated environment of the Matrix still has lots to offer besides inspiration for later Hollywood cyberpunk sci-fi blockbusters (or is it a coincidence?), and in the end offers us an old but reliable truth: we are often our own worst enemies. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great Doctor Who episodes involving the master, Time Lords and Backer's Doctor Who protral. I would recommend it you are a Doctor Who fan. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A mixed bag here, Doctor. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This box set contains the entire Season 23 of the show. It is the second and last season of Colin Baker, the sixth doctor. The Sixth Doctor is the most hated doctor of them all, but I like him, and he come in at sixth place in by top 11 doctors. That's better than the 10th, 11th, 2nd, 9th, and 8th doctors.This was the first of the four "Seasons of Doom", as I call them. These were the seasons in between the 1985-1986 hiatus and the cancellation of the show in 1989. These seasons were full of mixed bags, except for the season 24. All of those stories were pretty bad.The first story, The Mysterious Planet, starts off with one of the best model shots in all of Doctor Who. The Doctor is on trial for his life. Plucked out of time and space by the Time Lords, he is charged with transgressing the First Law of Time.He must defend himself against the prosecution led by the sinister Valeyard.The Trial begins as the Time Lords review an adventure from the Doctor's recent past. The setting is Ravolox, where the Doctor and Peri find themselves caught in the conflict between a warrior tribe, a pair of intergalctic con men, and a god-like robot. But deep beneath the surface of the mysterious planet lie secrets that threaten the very fabric of the universe. And to protect them, drastic measures have been taken that will shock the Doctor to his very core.I would give this story 2.5/5 stars. Which is strange, considering this was written by Robert Holmes.Special Features on this disc include:1. Audio Commentary 1 by actors Colin Baker (The Doctor), Nicola Bryant (Peri), Tony Selby (Glitz), and Adam Blackwood (Balazar)2. Audio Commentary 2 by script editor Eric Saward (part 1 only)3. The Making of the Mysterious Planet (25 mins)4. Deleted Scenes (8 mins)5. 35mm Film Sequence (1 min) - Full length version of opening effects shot6. Music Videos (8 mins) - Three videos showcasing season 23 title sequence and music.7. Wogan (14 mins) - Terry Wogan interviews Colin Baker and Lynda Bellingham.8. Blue Peter (8 mins)9. Trails and Continuity (10 mins)10. Photo Gallery (6 mins)Mindwarp - The Valeyard's prosecution continues as he presents damning evidence of the Doctor's interference on the planet Thoros Beta. Dangerous experiments are being carried out there that could effect the future of all life, and they must be stopped. But why is the Doctor so determined to help his former enemy, the greedy, opportunistic Sil? And why has he turned against his companion Peri? One thing is certain: someone will die.I would give this story 3/5 stars, and it is written by Philip Martin.Special Features on this disc include:1. Audio Commentary by actors Colin Baker (the Doctor) and Nicola Bryant (Peri) and writer Philip Martin2. The Making of Mindwarp (20 mins)3. Deleted Scenes (9 mins)4. Now and Then - On the Trail of a Time Lord (21 mins) - Location Featurette.5. A Fate Worse than Death (2 mins) - Colin Baker (The Doctor) and Nicola Bryant's (Peri) Commentary over the closing scenes of part fourteen.6. Children in Need (3 mins) - Terry Wogan and Patrick Moore greet a plethora of Doctors and Companions.7. Comedy Sketch (4 mins) - Lenny Henry is the Doctor in this 1986 sketch.8. Trails and Continuity (3 mins)9. Photo Gallery (7 mins)TERROR OF THE VERVOIDS - In a desperate bid to clear his name, The Doctor presents his defence to the charges laid against him. In the year 2986, the starliner Hyperion 3 makes its way to Earth... but all is not well. The Doctor and Mel arrive in response to a distress call, although not in time to prevent a murder. And this will not be the only death. Someone aboard will kill again and again to protect a secret. And while the murderer closes in above decks, in the hydroponic center a terrifying new breed of creature is about to waken.I would give this story 3/5 stars. It is written by Pip and Jane Baker.Special Features on this disc include:1. Audio Commentary by actors Colin Baker (the Doctor) and Michael Craig (Commodore Travers), writers Pip and Jane Baker and director Chris Clough.2. The Making of Terror of the Vervoids (19 mins)3. Deleted Scenes (14 mins)4. The Lost Season (11 mins) - Exploration of stories originally scheduled for the season, before being replaced by Trial of a Time Lord.5. Now, Get Out of That (28 mins) - An examination of Doctor Who's all-imporant cliffhangers.6. The Saturday Picture Show (7 mins) - Mark Curry interviews new companion Bonnie Langford (Mel).7. Trails and Continuity (3 mins)8. Photo Gallery (6 mins)THE ULTIMATE FOE - The Doctor has tried to prove his innocence, but the Valeyard is certain of his guilt and will stop at nothing to carry out a sentence of death. But there is a surprise witness waiting in the wings, one who knows the truth. With the trial in disarray, The Doctor flees into the Matrix to confront his enemy, into a nightmarish world of torture and punishment. Trapped within, he will have to fight for his life against the Ultimate Foe.I would give this story 4.5/5 stars. Part 13 is written by Robert Holmes and part 14 is written by Pip and Jane Baker.Special Features on this disc include:1. Audio Commentary 1 by script editor Eric Saward (part 13 only)2. Audio Commentary 2 by actor Colin Baker (The Doctor) and Tony Selby (Glitz), director Chris Clough and writers Pip and Jane Baker.3. The Making of The Ultimate Foe (15 mins)4. Deleted Scenes (4 mins)5. Trials and Tribulations (55 mins) - Documentary on Colin Baker's tenure as the Doctor.6. 1985 Hiatus (4 mins) - Media footage reporting the 'resting' of the show.7. Doctor in Distress (3 mins) - Music video of the 1985 charity single.8. Open Air (10 mins) - Pip and Jane Baker and John-Nathan Turner answer fan criticisms.9. Saturday Superstore (13 mins) - Colin Baker answers viewers questions.10. Trails and Contiuity (1 min)11. Photo Gallery (5 mins)Originally I would give this 3 stars but the special features bring it up to 4 stars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Doctor is on trial and he's fighting for his very exsitance. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-09-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Inthe Colin Baker era doctor who season simply entitled "Trial of a Time Lord" yes that's right the entire season was simply called that. The Doctor has found himself confused and within a space station of some kind. Without any clues he enters and finds himself in a courtroom of the Time Lords. He meets a man called "The Valeyard" (Check out the special features of this set to find out what the name Valeyard means). There he accuses the Doctor of meddling in the affaris of other races throughout all of time and space. Enters the judge of what starts out as a simple inquiry into the Doctor behavior. Were given to scenes from the Matrix that shows The Doctor and Peri on a planet called Ravalox. For Peri she doesn't understand why they are on this planet. The Doctor tells her that Ravalox is so simliar to Earth in just about every compostion its not possable. Meanwhile The Doctor and Peri are not the only travelrs to the planet. They are being followed by two mercenaries named Sabalon Glitz and his assocate the young Dibber (For extra points Glitz say a familiar catch phrase spoken often by The Brigader later in the first few episodes). While Glitz and Dibber are tracking them The Doctor and Peri stumble upon a cave that has an escalator. Peri begins to think that Ravalox might really be Earth. The Doctor thinks its just a fluke that another species created the escaltor. Then Peri finds an old tube station sign. The Doctor now thinks Peri's theroy might be right and requires further investiagtion. His searching of the immeadiate area has found a sealed door into some kind of facility. Peri on the other hand want nothing to do with his search and wants to mourn the loss of Earth.The Doctor discovers that inside is some kind of bunker that was desgined to safeguard something or someone. Peri has been taken captive by a primative warrior who was also spying on the cave. The Doctor encounters those that live the strange bunker and discovers it is called "UK Habitat" and ruled by a creature called "The Immortal One" in reality a robot called Drathro a mark 4 robot build by man and desgined to keep a certain number of humans alive and working until such times as it recives new orders from its makers. However Drathro is coming to the end of its use as its power source is now malfuncting and its power antenna is worhsipped on the surface as a totem by the primatives.  Drathro trying in vain to save himself demands the Doctor repair its power source or watch as it destroys the habitat and the planet itself. Will the Doctor be able to stop this robot gone mad? Will he figure out why Earth is where Ravalox should be or is it the other way around? What does Glitz and Dibber want with what Drathro is keeping hidden? More questions then answers all this and the fact that the Doctor is still on a space station.The Valeyard showing the first example of the Doctor's behavior during the Ravalox situation shows the Doctos latest adventure with Peri to the planet Thuras Beta Minor a planet in which the Doctor tries to find who made the weapon that was given to a race of primative warriors and nearly wipped out. While wading through the purple ocean they stumble upon a yet another cave and within a device that controls the tidal volume that helps generate power for some reason. They are soon attacked by a strange creature and while escaping further into the caves encounter guards. There holding the same weapons as the one the Doctor discovers they take him and Peri to meet the Mentads the rulers of the planet the true masterminds behind the weapons and other things. It is discovered that Sil (Vengance on Varous) is on the planet and is thrilled to see the Doctor and Peri again devices ways to make the Doctor yeild his secerts as a time lord. Meanwhile Sil's leader is dying his vast mind expanding and has hired the aid of famed scientist Krozian. Krozian has develpoed a way to continue on by placing ones brain into another. However those slaves he has do not fit his requirments. He's even interested in what the Doctor has to say on the matter. Even more he does like the shape of Peri's head.  The Doctor also meets Yarconas (Brian Blessed) a warlord from another world kidnapped and meant to be gentically altered so that he will stand down and let his eneimes take his lands. His best freind and fellow warrior turned into a part man part canine creature. The Doctor is in the middle of some heavy stuff with Sil at his back. A scientist that wants Peri at any costs and a warlord that wants to crush the strange slug like creatures and thier wicked weapons.With the events of the Valeyards evidence given it is the Doctor's turn to give his evidence. He shows the court of a future adventure. The doctor begins by showing a luxruy linear being loaded with minerals and resources and passangers as well to Earth. On board A group of scientists have requested a large portion of the hold for some unknown reason and that no light be allowed in.  Meanwhile the Doctor along  with his new companion Melaine or Mel are enjoying a brisk exercise routine when they get a signal from the ship requesting help. Materalizing in the hold they are captured by the security officer and taken to the Commadore. A man who the Doctor has encountered before and knows when the Doctor is around bad things beign to happen. However he also knows that he is the only one who can get to the bottom of who sent the signal and why a passenger is going missing. Meanwhile someone is lurking  within the part of the hold that is off limits with the scientist cargo. However thanks to this the crago begins to move and things begin to go from bad to worse. Will this future adventure prove the Doctor's innocence? Or show that he is a danger to the universe? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The concept is great , a good way to say goodbye to Colin and Peri </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great departure story for the 6th Doctor. to bad the best is the last time we see the dreadful rainbow coat of the Doctor and the most sexy and pretty companion of all classic series, PERI!The Concept of put on Trial The Doctor is a very good one, especially when you see the past Doctors and the relation he have with the other Time Lords, I feel this was more like a Tom Baker Story than a Colin Baker Doctorm, but that's history. The only low is the new companion Mel Bush, she felt out of place and we never new how she came to be a companion in the first place, and why put on trial the doctor in a space station , why not Gallifrey?, only John Natan Turner knows?But overall , the box set is great, the stories are the best in the Colin era and the Features are priceless, ecah DVD have some great features, especially the last one, and the chessy 80's video Doctor Who in Stress is priceless! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Story Arc Before Those Were the Norm </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> In this season-long story-arc, the Sixth Doctor is put on trial for his life by the Time Lords for interference and endangering his companions. There are essentially three four part serials interlinked by the trial itself, then the focus shifts to the events following the trial. The Doctor's prosecutor is the sinister Valeyard, who is a interesting character and worthy foe. I liked the special effects, which seemed quite good for the classic series. There are plenty of special features on each disc, which I found very in-depth and interesting. The second episode in the series also features the controversial departure of Peri as a companion. I feel the pricing of this set gives you a good value for the amount of content provided as opposed to the pricing of single-series discs. A very good way to experience the Sixth Doctor! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 14 part final epic adventure of the 6th Doctor...as he is trialed for his PAST, PRESENT and FUTURE!!! Flawed, but classic! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-16-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> You may or may not have of heard of or seen "TRIAL OF A TIME LORD" the 23rd season story which encompassed the entire season....but, before beginning let me take a moment to note the talent of genre writer & major Doctor Who contributor the late great Robert Holmes...the man responsible for most of the greatest "Classic" Doctor Who episodes ever written and also responsible for the TRIAL OF A TIME LORD 14 part story/concept.Holmes either wrote or co-wrote the following Dr. Who classic stories, none of them forgettable, leastways not in concept: The Krotons, The Space Pirates, Spearhead from Space (which intros the 3rd Doctor), Terror of the Autons (which intros the Master!), Carnival of Monsters, The Time Warrior (which intros the Sontarans), Ark in Space, The Brain of Morbius (w/Terrance Dicks), Pyramids of Mars (w/L.Greifer), Deadly Assassin, Talons of Weng-Chiang (a fav of RTD), The Sun Makers, The Ribos Operation (intros Romana), The Power of Kroll, The Two Doctors and Caves of Androzani (the 5th Doctor's final appearance and considered to be the best story of the show's long history, certainly a fav of mine.)TRIAL OF A TIME LORD's greatest strength, becomes it's greatest weakness...Robert Holmes was to write 8 parts of the 14 part story, the first and the last. His poor health, then death prevented him from completing the final 2 parts...completed by Pip & Jan Baker the story/season finale suffers for this loss! Following an already postponed season, this compounded the problem which ended the 6th Doctor's tenure without a proper regeneration story (unless you count the bewigged figure in "Time and the Rani").As we see now a tighter continuity in the series is a preferable format...here we get a kind of CHRISTMAS CAROL format, via the Time Lord High Council we see the "Accused" a.k.a the Doctor's past/present/ & future while he defends his actions on the stand. Long time fans may question... "has the Doc already been trialed and sentenced by the Time Lord, as seen in the final moments of `The War Games' in which the 2nd Doctor is punished for his interference, forced to regenerate, exiled to the 20th cen. Earth along with UNIT?" Well, yes, he was and they did...but here we get pomp and circumstance and flashback and forward and lots of new crimes and accusations against the Doctor, even for things he has YET to do!!! (how cool is that one?) As a result the season can be packaged a 3 major stories with a common courtroom thread and 1 extended 2 part resolution : The Mysterious Planet...Mindwarp....Terror of the Vervoids...The Ultimate Foe.The Mysterious Planet begins with one of the best openings of the shows history (a dare say better than even the 2005 series, too) as we see THE TARDIS drawn into a station where the trial is to be held. Gorgous, ever by today's standards. Soon we are drawn into flashbacks of the Doctor and Peri's last adventure, no not from last season, but an adventure new to the viewer. We watch along with the tribunal of Time Lords as the Doctor arrives on Ravalox (write it down, by episode 14 you may have lost your scorecard) 2 million years in Earth's future...(you might want to write that down, too). The Ravalox location is neat, `til we get to the old steel corridors beneath ruled by a mad robot, sorry. One thing Mysterious Planet has going for it...are characters typical of Robert Holmes' writing, like rascally fallible rogue Sabalom Glitz who plans to come into possession of the hidden secrets and advanced technology guarded by the robot, while of course falling underfoot of the Doctor's own plans. All the while important details are omitted from the story by the Time Lord prosecutor the VALEYARD, raising the Doctor's suspicions, as he cannot remember the events himself.Then the adventure in the Doctor's present is reviewed in the story arc, which Holmes had the least to do with, called "MINDWARP." The VALEYARD continues to build a case against the Doctor showing his most recent adventure as evidence of guilt their activities on Thoros Beta immediately before the trial. We see the Doctor at first investigating arms sales; after he sees his old adversary SIL, he surmises that Thoros Beta is the home planet of Sil's race. We learn a scientist, Crozier is experimenting brain surgery on a local warrior-king, Yrcanos, played by the great Brian Blessed (fantastic!), before performing on SIL's mentor Kiv, played by the great Christopher Ryan (seen in season for as a Sontaran). The Doctor is shown as malevolent in this segment of evidence convincing him that the evidence has been tampered with, specifically his betrayal of Peri and Yrcanos. Also,  his capture by the Time Lord High Council appears to have resulted in Peri's death.In the "TERROR of the VERVOIDS" a story of the Doctor's near future is presented as evidence against him. An interesting concept, including the introduction of a "current" companion who the Doctor has yet to meet, by our perspective anyway, Melanie or Mel, played by stage entertainer Bonnie Langford, and probably the most annoying companion this side of Tegan (seriously, you will go watch Timeflight and say, "Wow, Tegan's not that bad."). The pair, break from dieting long enough to answer a distress call from the Hyperion, space-cruise ship (hmm, where have I seen that before?). The ship is sabotaged & people become plant-food for the Vervoids, plant-like humanoids genetically engineered by Professor Lasky, played by the still lovely Honor Blackman. In the end, the Doctor, Mel, and Prof. Lasky succeed in preventing the Vervoids from reaching Earth, but upon admitting that no Vervoids survived, the Valeyard now charges the Doctor with genocide, oops.Then in the final 2 parter the ULTIMATE FOE, the truth is revealed, and a chase into the very Matrix itself ensues (as seen in Holmes' Deadly Assassin), but first Mel and Glitz called as witnesses, even the Master shows up, appearing to aide in the Doctor's defence of all things!  The Ultimate Foe is revealed, and pretty cool idea it is, I won't say more, but pity it wasn't executed better, though.  All is explain, if less than adequately, how the Doctor was used as a scapegoat, and the Valeyard real involvement as more than just a prosecutor. The truth about Peri's death is also revealed in a weak exit for the companion (although no worse or less believable than Leela's exit). As I said in the end the truth is revealed, but with all the twists and turns of the 14 parter the most confusing is the very final moments of the story in which the Doctor leaves with Mel, the companion "he" has yet to meet.But, for all it's flaws...once all is said and done, the TRIAL of a TIME LORD set, is a must have set for any Doctor Who fan.Drinking Games for The Trial of a Time Lord:Drink whenever.......the Doctor "objects" in the trial sequences....the Doctor "misaddresses" the Valeyard's title (..the Railyard, etc.)....Bonnie Langford & Brian Blessed are "over-the-top."...a character shows up we are supposed to know, or atleast the Doctor is supposed to know....anyone has a beverage of their own, especially CARROT JUICE!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good plotline and characters. Makes up for Colin B's other so-so stories! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Initially, I only bought this DVD as a replacement for my poor-quality version recorded from a TV broadcast back in the 90s. The audio and video quality are top-notch, and the EXTRAS are appropriately minimal but informative. However, when I viewed the story again for the first time in many years, I was reminded how truly interesting and well-written the scripts were for this trilogy. It more than makes up for the fair number of mediocre stories scripted during Colin Baker's tenure as The Doctor. Well worth the money. Happy viewing, fellow Whovians. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> colin baker shines here </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-21-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Colin Baker really did  a great job during this season of the classic doctor who show.  Any failings in these shows can be truly attributed to the bbc who was determined to kill the show.  The men in charge hated sci fi as surely as the people at NBC did in 1969 with star trek.  These are the type of men and women who look down on the whole genre.  John Nathan Turner (1947-2002, RIP) the shows producer during the 1980's,  cannot even be blamed for the shows demise or at least half the failings of the time , sure he tried many unfortunate things for the series. Like the garish clothes the doctor had to wear.  But he was faced with these terrible people whohad it in for him and the show.  In spite of all the struggles from that period, a inspired colin baker and some decent stories  came together to bring us a good season  of Doctor Who.The dvd's themselves are well done here and they excellent.  I am grateful the bbc put these in a affordable boxset. They need to do much more boxsets as no other major tv series has been released this slowly.And while they are at it they can finally put out a 'Doomwatch" boxset too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Some of Colin Bakers best. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Though the whole trial storyline breaks up action sometimes, there are some pretty good stories here. Plus its always nice to get a whole season all at once. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> So so season </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-12-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like Colin Baker's Doctor. His episodes seemed more action packed, more confrontational, probably more "American".The first story, Mysterious Planet, and the last story, where the Doctor confronts the Valeyard in the Ultimate Foe, are the reasons to buy the DVD. Especially the latter episode, which is tense, very well written, and well acted by Colin Baker, while still being totally over the top. One of my favorite Doctor Who episodes. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Trial of a Time Lord </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perhaps not the best of the classic edition of Doctor Who, but worth the price for all the extras and the commentary on all 4 episodes. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Predictable and a little disappointing. But good non the less. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-02-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> From the very first 15 minutes, I was beginning to become disappointed. The story is extremely predictable, and very easy to know what is going to happen next without having seen it before. This story has the Doctor on trial for his interference with other planets, and putting his assistants in constant danger. Who is behind it all, well that would spoil it for you. Hence, the story actually uses other stories to tell the one long story (overly so, in my opinion. The last disc is only 2 episodes, very disappointing in that I was expecting a longer end story/conclusion. There is also a very interesting developments at the end of the story. Certainly, if you are a Doctor Who Fan, you want this in your collection.Rod. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A review of the DVD rather than of the Story </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-09-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> So far, all the reviews have been about the actual 14-episode story on this DVD.  Let me start by quickly saying how much I love this season-long epic.  I know, I know...it has its flaws, it was riddled with behind-the-scenes turmoil which kept the story from really coming together onscreen, some of the trial scenes simply don't make sense, etc.....but I still love everything about it.  I've always loved Colin's portrayal of the Doctor and I think some of his best work is in this season.  He was obviously VERY happy to be back to work on the show he loved after a long hiatus.But "Trial of a Timelord" has been written about a great deal, and other reviewers here have already given you very good reviews of the actual story.  My review, then, is about "the rest of the story"....the DVD packaging of "Trial".Which, by the way, is excellent.Even if you don't love this season, you have to admit that this is one of the strongest collections of special features on any Doctor Who DVD.  What is most admirable here is that the team that puts together these DVDs did't shy away from the controversy that surrounded this season.  These features aren't "Doctor Who Confidential" styled pats-on-the-back.  The features show the good and the bad in equal measure.Here are some of the highlights:-  There's a "making of" documentary for each of the four stories that make up "Trial".  These are all really great, very entertaining and educational.  But the highlights are seeing Tony Selby and Brian Blessed talk about their time on the show.  They very obviously loved doing it.-  There's a 55 minute documentary on Colin's time as the Doctor.  It goes into great details about the detioration of the relationship between John Nathan-Turner and Eric Saward, the hiatus, the reasons behind the "Trial" story, Colin's firing....its really good.  Its a very revealing, "cards on the table" type of discussion. Its amazing to see that even 25 years later, talking about this stuff is difficult for Colin.  Its also great to see Eric Saward talk about his role in alienating people who had been his friends and co-workers.-  There's a short bit of commentary with Colin and Nicola watching the scene in Part 14 where the script, at JNT's urging, undoes Peri's death from Part 8 by saying she was living happily-ever-after with King Yrcanos.  While Nicola was aware that they'd done that....she'd never seen the scene in question.  Her reaction to it is pretty interesting.-  There's a great documentary on what would have been Season 23 had the hiatus not happened and they'd gone on to do Colin's second season as planned. Most of this is pretty well known, and three of the stories were later released as novels.  But this is illustrated by new artwork, is narrated by Colin, and talks about each of the stories and the shape of the season.  Very enlightening.-  There's a fun little half-hour piece on cliffhangers.  Authors, editors and scriptwriters talking about the show's cliffhangers -- which ones were great, which ones didn't work, which ones could have been brillian but weren't, etc.  A very fun piece.-  There's a fairly substantial clip from a talk show after the end of the season that has a group of people from one of the DW fan clubs talking about the "Trial" season, and what a mess it was, and if fans couldn't follow it how could the general public?  So after a series of comments from each of them, the host says "Well, now lets hear from the producer and the writers of this season".  John Nathan-Turner and Pip & Jane Baker seemed genuinely caught off guard to learn that these people didn't completely love their work!  It's really interesting viewing.All-in-all its a stellar package.  The sound in particular is cleaned up very nicely.  And the picture looks great.  There seems to be more contrast in the opening courtroom scenes, where the set looks a bit more darkly lit and moodier.  Even if I were't a fan of this season, I would probably give this DVD release of it 5 stars simply on the strength of the packaging, the extras, and the great lengths that the Restoration Team went to to bring us a very thorough and enlightening set.  Very well worth the money.  I highly recommend this set! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Intense </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Colin Baker got a lot of flack for his version of the Doctor. They deliberately wrote his version to be a bit unstable and very hard to like. Despite that he really shines in this. These were the very best episodes of his run and they signalled a change in production values and story style that led to the the Doctor Who of today. It is a gripping story and well worth your time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Classic and Epic Doctor Who </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-19-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This a great boxed set for any hardcore Who fan and has no shortage of special features not to mention the longest story on DW history. It is true that JNT could have done a better job with the series and this season, but keep in mind that Doctor Who must always be changing and evolving. The sixties were great but nothing compared to the incredibly awesome seventies(particularly the Tom Baker/Phillip Hinchcliffe era.) The show has to change and stay fresh and like it or not the JNT period did produce some wonderful episodes. Caves of Androzani,Warriors of the Deep,and Keeper of Traken to name a few. Everything can't be as good or as timeless as the Tom Baker years. How can you compete with Genesis of the Daleks or Horror of Fang Rock. Even the new series which has huge faults will occasionally put out something really terrific like Midnight(one of the 10th Doctor's finest.) Getting back to Trial of a Time Lord, which I might add has the second best intro/music of the entire show's history in my opinion. If you're a real fan than there is no question that you have to buy this boxed set and most likely enjoy it. Mysterious Planet and The Ultimate Foe are both good solid stories but Mindwarp is the real gem. It has a compelling and very dark story and might be Colin Baker's finest episode. It also has a huge treat for those of you that love I Claudius, one of the BBC's finest productions. That's right, I'm talking of coarse about the great larger than life Brian Blessed. As for Terror of the Vervoids, it SUCKS! It might be DW's worst story ever. I cannot understand what Eric Saywood(sorry if I'm mispelling his name but I don't feel like looking it up) saw in the terrible writing team of Pip And Jane Baker. And why, besides Robert Holmes, did they never bring on writers from the show's early years? I never understood that. That's what really did in poor Colin Baker. He was a really good Doctor and had the potential to be a great Doctor but the writing was usually bad in that period. So besides the one crappy episode my advice for any true Who fans is to buy the damn thing, put it in the DVD player and ENJOY! Thanks for reading my review and I hope you found it helpful. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

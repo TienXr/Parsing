@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00KN1G212 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-12-2014  
+<h2> review.text </h2>
+
+ <p> Although I'm a teenager, I think this book is quite good book and good preparation. When I get older, this book will be very useful to me. It teaches how to overcome the symptoms and recommends what food to eat. This is really all in one book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> New knowledge to me </p>
+
+
+<h2> review.date </h2>
+  06-12-2014  
+<h2> review.text </h2>
+
+ <p> Great guide...covers everything from the best foods to eat to deal with menopause, which exercises are best, and strategies to help with the symptoms. Thorough info and highly recommended if this is something you're going through right now! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good resource </p>
+
+
+<h2> review.date </h2>
+  06-11-2014  
+<h2> review.text </h2>
+
+ <p> Even though I am a man I read this book to get a better understanding of what women go through during this time in their lives. This book gives you a lot of information for such a short book, and it help me empathize with what women go through. I think this book will help me, help my wife when her time comes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Helped me undestand </p>
+
+
+<h2> review.date </h2>
+  06-19-2014  
+<h2> review.text </h2>
+
+ <p> Menopause can be very difficult for women but this book will help us overcome it when it comes. It describes menopause and its symptoms.The author tells us how to overcome menopause with diet and exercises which make sense to me. The advice given by the author is easy to understand and to follow.I&#8217;ve found this book very helpful and would recommend it to every woman. It&#8217;s a must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must read for every woman. </p>
+
+
+<h2> review.date </h2>
+  06-10-2014  
+<h2> review.text </h2>
+
+ <p> Menopause is a very difficult thing for any woman to go through.  I was very glad to see this book and beagle to learn more about the symptoms and problems women face during this period.  The book does a good job of explaining these problems and also how to combat them through diet, exercise, and other means.  Recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good advice for women experiencing menopause </p>
+
+
+<h2> review.date </h2>
+  06-08-2014  
+<h2> review.text </h2>
+
+ <p> This book contains proven steps and strategies on how to overcome your menopause symptoms through diet and exercise. The author has put extra efforts in writing such a masterpiece. The quality of material of this book is worth more than its price. Easy to understand content for everyone. From me, I will definitely rate this book and the author's efforts a 5-STAR. I highly recommend this book to everyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I highly recommend this book to everyone </p>
+
+
+<h2> review.date </h2>
+  06-13-2014  
+<h2> review.text </h2>
+
+ <p> A solid look at a subject that is rarely discussed. Good advice that is written in a concise and informative manner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good advice </p>
+
+
+<h2> review.date </h2>
+  06-09-2014  
+<h2> review.text </h2>
+
+ <p> Really useful book.  I learned a lot of good info. There were symptoms listed in the book that I wasn't familiar with.  Lots of tips and tricks to managing menopause.  Answered a lot the questions I had.  I would highly recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very inf </p>
+
+
+<h2> review.date </h2>
+  06-12-2014  
+<h2> review.text </h2>
+
+ <p> Being menopause is not just an easy thing. Woman will encounter different problems and difficulties when she is in this point. Through the help of this book, you will be encourage to take those simple tips and strategies that will make you comfortable while coping with your menopause situation and will give you a more positive outlooks as a woman. Such a great book! More to come! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Menopause: The Ultimate MENOPAUSE Guide - The Best Tips and Tricks You Need To Know!: Menopause [Kindle Edition] </p>
+
+
+<h2> review.date </h2>
+  06-11-2014  
+<h2> review.text </h2>
+
+ <p> My mom is on her menopausal stage, that's why I downloaded this book.  This is a short read yet major things need to be understood about menopause were clearly discussed in here.  Now, it will be easier for me to understand and deal with my mom's mood swings and needs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> menopause guide </p>
+
+
+<h2> review.date </h2>
+  06-07-2014  
+<h2> review.text </h2>
+
+ <p> As a guy, I never thought I'd be reading a book about menopause!  But it was recommended to me by a friend as a means of better understanding women in general, so I decided to give it a go because it was a very short how-to style book.  The Ultimate Menopause Guide is a very handy guidebook about what exactly women go through during menopause, and how to maintain a healthy and balanced lifestyle through it.  I definitely feel like I understand what my mother went through in menopause a lot better now, and I feel prepared for when my wife hits that stage -- many years down the road still, but at least I know what to expect.  The nutrition guide was particularly interesting because it tells of the kind of foods women should eat to maintain a balanced hormonal state during menopause.  It's interesting because a lot of the diet tips in there are similar to what one should be eating anyway to remain healthy and vital.  If you've ever known a woman who's gone through menopause, this book will help you understand what she went through.  If you know a woman going through it, then this book should be required reading to help you empathize with her.  Give it a read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Informative! </p>
+
+
+<h2> review.date </h2>
+  06-10-2014  
+<h2> review.text </h2>
+
+ <p> This book not only says &#34;The Ultimate Guide&#34;, it really is ultimate. This book has some of the most sought-after tips and tricks on the above written subject. No doubt the author has done a great job. Highly recommended and a great read. Kudos! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Promises and Delivers! </p>
+
+
+<h2> review.date </h2>
+  06-12-2014  
+<h2> review.text </h2>
+
+ <p> (downloaded from amazon.co.uk) my mum shares my kindle and i got her this book when i spotted it in the free store. she's going through this stage of life and has found this book to provide some nice tips on how to handle the up and down emotions that she is feeling at the moment. its a time of soul-searching for her and she has found it quite enlightening. this book has helped. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> mum loved it! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

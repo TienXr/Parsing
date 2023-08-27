@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B005Z1CUK2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mistletoe and Margaritas </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-06-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I read this story with the collectionHoliday Kisses: A Rare Gift\Mistletoe and Margaritas\It's Not Christmas Without You\This Time Next Year, a collection of 4 short romantic stories set during the most wonderful time of the year.Finally after losing her husband two years ago, Claire Rutlege takes off the wedding band. She thinks she just might be ready to move on, but is a little freaked out when it's her best friend (and her husband's best friend) Justin McCormick who is starring in her steamy dreams. Justin has loved Claire since the moment he first saw her, but his best friend got to her first so he backed off. He can't stand the idea of betraying his best friend by loving his wife. When a combination of mistletoe and margaritas have them "moving on" both are caught in the emotional turmoil of what that would mean to their deceased husband and friend.This story had a bit too much angst in it for my taste. There was a lot of pining on both Claire and Justin's part. I don't like pining. It rhymes with whining. I am fan of Ms. Stacey's "Kowalski Family Series of DOOM!" books (i.e.Exclusively Yours,Undeniably Yours) , but this didn't seem to have the same flair and humor. This story was well written and flowed smoothly, which is always a plus. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cute Holiday Story </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-09-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> If your in the mood for a cute, sweet, friends to lovers holiday story then you can't go wrong with Mistletoe and Margaritas by Shannon Stacey.It's tough being in love with your dead best friend's wife...just ask Justin McCormick. Poor Justin has been in love with Claire for years and hasn't been able to act on his feelings. First because she married his best friend Brendan and then because they're both suffering the loss of Brendan when he suddenly dies in a tragic car crash. For the past 2 years Justin and Claire have been BFF's, but Justin's finding it increasingly difficult to keep his true feelings hidden whether it's enjoying pool and pizza Tuesdays or she's riding shotgun while he's busy snowploughing. I like that Stacey writes about the regular every day guy. No sheiks, princes or supermodels here - just good old fashioned, hardworking blue collar stiffs.It was sweet and sad to watch both these people be tortured by their ever increasing feelings for one another yet feel like they couldn't act on them because of the memory of Brendan.As the title indicates with a little help from a few margaritas and some well-hung mistletoe these two eventually work through their feelings of guilt and betrayal to have their very own Christmas miracle.Shannon Stacey's stories never fail to bring the emotion or the laughs and I have yet to be disappointed by this NY times best selling author.  This book is part of an anthology from Carina Press, but I purchased it as a stand-alone novella. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mistletoe and Margaritas </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-05-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Claire Rutledge has been a widow for two years, and during that time, her friendship with her husband's best friend, Justin, has grown even stronger. Justin loved Claire even before her husband died but has always kept their relationship platonic. Claire is now in a place where she might be interested in dating, if she could ever think of anyone besides Justin.This is a really sweet friends-to-lovers story. The spark is there between these two -- they just have the hurdle of Claire's husband's ghost to see through. Claire has made peace with her husband's death, but Justin still has issues. He feels guilty for loving Claire while she was married and still carries that with him. But a little push from friends and family, a kiss under the mistletoe and some holiday cocktails get these two to try out the romance. We also get sex in a snowplow. Merry Christmas to us. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very emotional. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very emotional read, but also very sexy and very, very HOT!!!Justin has been in love with Claire since he'd first laid eyes on her. It's just too bad he didn't get to her before his best friend did. Claire had fallen hard for his best friend, so Justin stood by all these years and hid his true feeling. Now that his best friend died and left her a widow, he really wants to act on his feelings for her, but his guilt stands in the way.Would I recommend this book?  Yes! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Fabulous Holiday Read! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-05-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a long time Shannon Stacey fan, but for some reason I'd not yet read her Christmas Novella, Mistletoe and Margarita's. But last week I saw a friends review and I knew I needed to read it!After downloading it onto my Kindle, this short novella was impossible to put down! I loved every moment of it, despite my heart breaking for both Claire and Justin as they'd lost their best friend. And then, they've got this connection - that can't be denied. And the book? Well, this novella DESERVES a full review because it's just that fabulous.See, my husbands best friend is my best friend. So I get that relationship, I get it and I love it. (Although I can honestly say, I love Joe like a brother but have ZERO attraction to him - so if any of his past or future girlfriends are reading this for some reason? No worries. I promise.) And I also get that if something were to happen to my husband? I would need the Best Friend. NEED HIM. For that friendship, that connection to my husband. So for that reason? I really felt Justin and Claire. I got them, on that level.Now the fighting an undeniable attraction? OMG! I love that twist on ANY romance novel - the tension that's there from word one and keeps going strong? SWOON!I love Christmas time, and I love Christmas Novella's. Unfortunately, 2012 has been the year of disappointments as far as they are concerned. So I have to say a super huge thank you to Shannon Stacey for breaking that nasty cycle and giving me something HUGE to love!!So if you're a romance fan? Or a Christmas fan? Or if you like Margarita's. Or if you've ever drank a Margarita? You NEED to read this! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I know a thing or two about being a young widow. . . </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-06-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> and Ms. Stacey has perfectly captured the conflicting emotions felt by Claire.  This is a very sweet, sexy and satisfying short story.  Encore! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good but not as good as the others in the series </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-09-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> While I don't think it is as good as the others in the series I still enjoyed it. I love they way Shannon Stacey includes all the family in the story even if just for a bit. This book was no exception to that. I can't wait for the next in this series. She has a fun way of telling a story and making them so that not all are so perfect as some authors do. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A lovely "second chance at love" Christmas romance... </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-18-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> At only 28 years old, Claire Rutledge has already been a widow for two years.  As Christmas approaches she finds herself contemplating the idea of a new romantic relationship, and is caught off guard by the attraction she feels for her best friend, Justin.  Justin's unwavering support helped to see her through the darkest days of her grief.  He's good-looking, hard working, solid, thoughtful and funny.  In other words, he's perfect...except that he was her late husband's best friend.I loved these characters.  Claire was dealt a really lousy hand, losing her husband at such a young age, but she's strong and resilient and refuses to let that tragedy define the rest of her life.  And Justin?  Justin is perfect.  Not Romance Novel perfect - he's not outrageously rich, or a former SEAL.  Not a famous athlete; not so over-the-top Alpha that he leaves a trail of testosterone in his wake.  No, Justin is that rare breed rarely seen in captivity...just a really great guy.  Down to earth, blue collar and masculine, he has that "guy next door" sex appeal.  ( Though in all honesty I've never been lucky enough to live next door to a guy like this.  My neighbor looks like a cross between Jerry Garcia and David Crosby and likes to mow his lawn wearing nothing but teeny little tennis shorts and Crocs.  But I digress).This is short - novella length - but the characters are fully developed and come off as realistic.  The dialog has a genuine, unscripted feel to it and I liked the way the author manages to have Claire's love for Justin never seem second best to her love for her late husband.  This can be tricky to pull off, and it's done quite well here.  I really enjoyed this and would highly recommend it.BUT...There's no denying that while this is a sweet and ultimately hopeful story, there's an underlying sadness that I never could completely shake off.  I came close to tears a couple of times (and for a lifelong "Yankee", that's an unseemly display of emotion!).  There are few things sadder than having the person you love ripped from you when you're young and just starting your lives together.  So while I would recommend this, just know that it's not a light and cheery holiday romance; it's more of a thoughtful and emotional one.Some occasional strong language and sexual content. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Oracle Reviews Mistletoe & Margaritas </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Mistletoe & MargaritasAuthor: Shannon StaceyNarrated by: MacLeod AndrewsLength: 2 h 04 min or 65 pagesPublished by: Carina Press Dec 5, 2011Claire Rutledge still believes in love, despite losing her husband. So, after two years, she's not surprised by the steamy dreams telling her it might be time to start moving on. But she didn't expect her friend Justin to have the starring role.Justin McCormick has loved Claire since the moment he first saw her, but his best friend got there first. Now that Claire is ready to move on with her life, Justin is finding it harder than ever to hide his true feelings. And when they both get caught up in the holiday spirits at a party, their simmering mutual attraction boils over into a night neither of them can forget...Lazy Saturday afternoon Lifetime movie, which I would love to watch, it's a perfect fit. Claire loses her husband to a car accident and Justin who has always loved her, steps in to help the wife of his best friend.  At first they both seem to deny their feeling and want to push them aside. But after a Christmas party, it finally happens for them. They spend some time fighting off the temptation and feelings they obviously have for each other, one more than the other. The hero of the story is much unexpected and a very smart woman.This is an easy read or listen.  MacLeod Andrews does a wonderful job with narration. I must say it always amazes me when a man can pull off female voices and do them so well.  His voice is very pleasant in both forms and you can differentiate between characters. He was perfect for the role.In both forms, written and audio this is a cute romantic story that is very enjoyable. It will brighten any afternoon.The Oracle (Maria Mercedes)All synopsis are published by Amazon or Goodreads.The Oracle Reviews:  [...]NOTE: The Audio version is no longer available on Audible.com.  This may or may not be a temporary problem. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very sweet story </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a story about a young widow and her husband's best friend. It is  a well written story about love and friendship </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> charming story </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Quick read that kept my attention. pleasant story with some wit and some emotion.  Some parts predictable but not all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> heart Warming and Pognant </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Claire and Justin learn about love and grow as they choose to except that they are meant to be. Love takes a while to come to them as they struggle with an attraction that is long in coming as they discover that their forever friendship can be a forever love. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Happy Heartbreaker </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another smash by Shannon Stacey, one minute you want to cry and the next minute you want to laugh.  Very good read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mistletoe spurs yet another relationship...Because something had to break that tension! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-05-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Can I start by saying how much I love Shannon Stacey's writing. When I interviewed her this summer she let it slip that this story would be out around the holidays. You don't even want to see how excited I got when this collection went up on NetGalley. E.X.C.I.T.E.D. doesn't even do it justice.Stacey didn't disappoint. Her characters, as always, were down to earth and funny. You hit this relationship not at its beginning but close to its boiling point. You're literally waiting for these characters to implode! They've spent so much time trying to resist each other because of the nature of Claire's first marriage that the tension is through the roof. Their relationship, both physical and emotional, comes together very realistically. Though this is the shortest title in the collection I never felt as though the progression of their relationship was rushed. And they were given time to deal with the emotional ramifications of their attraction. When this one ends you'll find a Happily Ever After, not just because the Author tells you there will be one...but because you can see it for yourself in the character's new-found understanding. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Shelia </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Story of a guy being in love with best friends girl she doesn't know it till her husband dies and sparks fly good read </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My favorite trope... done well! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-05-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> My Review:Rating: A+Oh wow! Friends to lovers is my favorite trope and although there wasn't anything new with the story line in this book, it was written amazingly well. Shannon captured the tortured emotions of both of these characters so well as they deal with the guilt of falling in love with each other when Brendan is dead. I really truly loved both of these characters, Claire and Justin. I love that, for him, he has loved her the entire time that he's known her which adds a different kind of guilt to his emotions.This is short even for a novella, only 20,000 words, but it didn't lack in anything. I loved the addition of Brendan's mom to the mix and how she sets both Claire and Justin straight. I love the fact that they have been absolute best friends for the 2 years since Brendan's death, so they have all these little traditions that they have as friends. I loved the addition of all that snow....the plowing, the snowmobiling, the outdoors during Christmas...such a magical ambiance.This was an amazing novella. In fact, all of them in this anthology were fantastic. I plan to re-read them over and over for holiday seasons to come! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mistletoe and Margaritas </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a fun book to read.  Not spectacular in any way, but a nice, quiet weekend read.  If you're home in front of the fireplace and want to just curl up and read, this would be an OK book for that purpose. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mistletoe and margaritas </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Cute story.Two people who loved and lost someone dear to them....husband and a friend. When they fell in love they felt guilty. With time and good advice  they found each other </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This is short story about the friendship between a widow and her dead husband's best friend. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is short story about the friendship between a widow and her dead husband's best friend. The characters are fleshed out as well as they can be in a short story and the tension between them is believable. I found myself tearing up a bit here and there with a few laughs in between. Just another one of your average will they or won't they romance stories during the Christmas holiday. It was a fun quick read and a good way to spend a couple of hours of free time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I absolutely loved this. I found this by accident after purchasing my Kindle and decided to try it out. I had read the author before, but gave this a try and read this in one afternoon because I liked it so much! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

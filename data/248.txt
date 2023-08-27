@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0011VIO46 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-30-2007  
+<h2> review.text </h2>
+
+ <p> I don't want to say too much bout this awesome film. In fact I think it's best I keep this review to a minimum. All I'm going to say is this is the film we've all been waiting for. It's filled with so much action and martial arts it'll make your head explode. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Action and Martial arts GALORE!!! What a great freaking movie! WOW! </p>
+
+
+<h2> review.date </h2>
+  03-07-2008  
+<h2> review.text </h2>
+
+ <p> Van Damme continues to impress me with these direct to video releases.  His only competition (that I am aware of) is Steven Seagal, also continuing to pump out the direct to video releases year after year, which fail to make it with fans of the genre.  Where Van Damme succeeds, is that his acting and the stories in his new films continue to improve over his earlier action films.  Obviously the age factor is limiting his martial arts capabilites (as to be expected), and in Van Damme's most recent entry (before Shepherd) "Until Death" focused very little on action and more so on story and character depth - and succeeded.  In the Shepherd, we have a return to action (though still certain expected restrictions) but the addition of Scott Adkins (Undisputed 2) aids in carrying it through.Van Damme's acting has reached a new level and we can expect it to stay, and it is present in the Shepherd (though yes, he is never going to be close to getting any awards).  If we compare Shepherd to Until Death, Van Damme's character is about 50% as interesting and the story isn't quite as emotional, though it has it moments.  What I enjoyed a lot about the Shepherd story is that it focuses on some touchy present-day issues - specifically the border patrols near Mexico, and with a touch of the suicide bombers from Afghanistan.  The movie begins with a group of American soldiers led by two men (one of them Adkins) who come into contact with a suicide bomber.  The experience certainly has an effect on these men, and though we never find out how or why, they now reside in Mexico where they are leaders of drug smuggling into the U.S.  Jack (Van Damme) is assigned border patrol in the area, and it doesn't take him to long to get into the heat of the action, and eventually, into a Mexican prison.While I do look forward to new Van Damme releases, he isn't the only reason I was looking forward to this film - Scott Adkins.  Undisputed 2 was the first time I heard of and saw this guy in action, and wow...while I do not have a great deal of knowledge about particular styles of martial arts, he has some incredible athletic abilities with his kicks.  They are put to use in this film.  I was hoping to see much more of him than I did (thought he was the leader, but he is actually the boss' henchman) but when he gets some action in, man is it incredible.  As predicted, Van Damme and Adkins fight in about a 3 minute long match.  To get picky, I wasn't impressed with a lot of the slow motion thrown in (as it really takes away from the speed at which Adkins can kick) and some editing was awkward, but hey - its Van Damme vs Adkins, so it was still worth it to get this movie for that.  Not the best fight I have seen, but I would watch it again.I think for a direct to video release this is an excellent all around action flick.  In some ways, this film beats out all earlier Van Damme works back in the day, except for action.  But even though the action is more mild and there are less fights than say Bloodsport, it keeps a sense of reality involved and Adkins adds enough flash to wow us every now and then.Acting - 4Action - 3.5Characters - 4Story - 4Overall - 4 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A return to action </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> a decent van damme actioner. first half of film pretty good, 2nd half ok. if you like van damme and 80's type action films you will like this. a rental imo. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not bad </p>
+
+
+<h2> review.date </h2>
+  03-19-2008  
+<h2> review.text </h2>
+
+ <p> The Shepherd: Border Patrol is a very good film! Van Damme's best and most action packed since Wake of Death. Seriously, all the good ingredients are in there, guys. There's plenty of hand to hand fighting in The Shepherd, even the gratuitous bar fight. There's a likable chemistry between the lead and supporting cast, and the villains are well picked. There's also a lot of good soundtrack work done in a style familiar to spaghetti westerns. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Damme Good After All These Years! </p>
+
+
+<h2> review.date </h2>
+  05-30-2009  
+<h2> review.text </h2>
+
+ <p> The Jean Claude Van Damme Review Matrix (JCVD-RM)1.  Who is he?  Jack Robideaux, a former New Orleans cop transferred to Columbus, New Mexico for a job with the border patrol2.  Which family member/friend must be avenged?  He must avenge his daughter, who overdosed on his enemy's drugs.3.  Does he take his shirt off? His shirt comes off, but it's not his choice.  It's all part of an intricately designed method of torture.4.  Does he have sex with a C-List actress?  He gets his Captain drunk, but he never seals the deal.5.  Is there a tournament? A one match tournament takes place in a Mexican prison, and JCVD, the underdog, finishes things up making a cholo whine like a little girl.6.  Is training needed for this tournament? Absent from this one.7.  Does he do the splits in training or in the tournament?  The only splits are of the flying kick variety.8.  Does he punch someone in the balls?  JCVD spares "the boys" in this one.9.  Does he do a series of flying or 360 kicks? When pitted against the baddest criminal in a Mexican prison (does anyone get in more prison fights than JCVD?), we get to see the full repertoire of front kicks, flying kicks, and incredible joint manipulation moves.  It appears that JCVD has been watching some MMA lately.  Afterwards, there is a truly epic display in a fight with Karp (Scott Adkins - Undisputed 2), the second-in-command for the bad guys.10.  Is his enemy unbeatable?  Considering his enemy is a drug-smuggling collection of former Special Forces operatives who strap C4 to immigrants crossing the border, I'd say the competition is a little tougher than normal.  Unbeatable though?  This is MFJCVD we're talking about!11.  Does he overcome an injury or other hindrance? One would think that carrying around a live rabbit would be a hindrance, but JCVD makes it work.12.  Does he win? Not only does he win, but his actions probably led to the construction of his life-sized statue right next to the Pancho Villa's on the border.As JCVD has gotten older, it's clear his fighting skills have diminished.  The great thing for fans, however, is the inverse relationship with his acting and the depth of his movies as compared to the action.  The storyline is complex and thorough enough that it doesn't elicit a search for plot-holes.In this one, JCVD battles Benjamin Meyers (Stephen Lord) and his men.  It's a fairly developed story; with hints at modern day issues like suicide bombers in Afghanistan, the meat of the story, however, deals with the touchy immigration issue, and how many of the illegal aliens are treated by border patrol agents.  The setting and feel is authentic, with just enough Tex-Mex to make me want to travel down to Columbus for some taquitos (mmm).  The character development is also superb.  It's easy to picture JCVD making a transition from New Orleans officer to troubled, vendetta-sporting border patrol agent.  The film-makers also do a fine job of developing the soldiers turned criminals, suggesting that some of their war-time experiences have led to their degradation.With all of that said, don't let that dissuade you into thinking this lacks action.  There may not be as much as in JCVD's earlier movies, but there is more than enough to keep the movie from a noticeable lull.  Lately JCVD has incorporated more and more into his action sequences, and he doesn't disappoint here, adding explosions, car chases, and gun play to the excitement.  This is one of JCVD's better movies, and comes highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JCVD stops immigration and the drug business on the Mexican border </p>
+
+
+<h2> review.date </h2>
+  06-10-2008  
+<h2> review.text </h2>
+
+ <p> Van Damme is a martial artist...I needed to see him again at it, kicking, fighting, and at last; after the AWFUL Hard Corps, and the good movie- no fighting- Until Death; he's back!!! And against Adkins, no less!!The story is not that bad, the acting is not that bad...some things are not exactly great,but, Van Damme is back! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You are getting there, JCVD, keep at it!! </p>
+
+
+<h2> review.date </h2>
+  07-03-2009  
+<h2> review.text </h2>
+
+ <p> Van Damme, a border patrol police officer, was asked to investigate into the drug smuggling coming across from Mexico to the US. He chose to be a border patrol officer because his own daughter overdosed on drugs and died, which made him swear to dedicate his life fighting drug dealers. He encounters a gang smuggling drugs through illegal immigrants. This gang is headed by ex-military officers who later became mercenaries. Some of them are tough martial artists too.Movie full of Action, however it is obvious from the way it got directed that it was low budget.There is not much story to tell really. If you are into martial arts, you might enjoy watching it.Nice fighting scenes though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Low budget Action Movie </p>
+
+
+<h2> review.date </h2>
+  03-16-2008  
+<h2> review.text </h2>
+
+ <p> I'm quite torn, after all, this movie, directed by Isaac Florentine, has some silly dialogue and obvious set-ups. Movies need to be rated according to the genre they belong.  An action flick with a martial arts twist movie such as this is really quite average and should be 3 stars; however, Van Damme delivers a more than adequate job and he is back kickin' and punchin'!  That is the primary reason for the four stars, he is kicking again and unlike "The Hard Corp" or "The Order" where he was kickin' too, this is more stylish and rugged.Vam Damme, while no Oliver, has developed into a moderately decent actor.  Time cop was probably the first movie to showcase this, but he was inconsistent in bringing out a fine acting performance (For example, Sudden Death - good, The Quest - bad).  This movie does not have the depth in script or direction of "Until Death", yet, it is more enjoyable because Van Damme is once again the action and martial arts hero.Further, Van Damme has always stayed in either great or at least good shape (unlike Seagal) and while he has aged in the face, he turns in some great martial arts scenes with Scott Adkins (whose fight scenes are terrific and villainous).  So four stars, not because it is necessarily that great of a film, but because Van Damme is kicking again, and the kicking was fun to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Van Damme is Kickin' Again! </p>
+
+
+<h2> review.date </h2>
+  04-25-2008  
+<h2> review.text </h2>
+
+ <p> Jean-Claude VanDamme plays Jack Robideaux.  His Belgian accent might make one pause to think how many Belgians are named Jack.  But if you're thinking, you should be watching some other film.  VanDamme does a good job, although he frequently looks like he's in pain.  That is the emotional trigger for him.  However, he clearly should receive special recognition for best scene with a bunny.  WhileTimecopis still my favorite of his films, this one gets passing marks.Stephen Lord plays the major bad guy Benjamin Myers who transforms from a Special Forces soldier in Afghanistan to a drug lackey selling out to the highest dollar.  Scott Adkins shines in this film as the #2 bad guy Karp.  Adkins has previously been inThe Bourne Ultimatum (Widescreen Edition)as Agent Kiley andThe Pink Panther (Special Edition).  His fight sequence with Robideaux shines.  Billy Pawnell is played by Gary McDonald who was also in VanDamme's "Until Death."  As his traitorous partner who betrays him for cash, it is an unconvincing change because McDonald seems too nice.  The police detective Ramona Garcia is played by Natalie J. Robb, who combines brass, booze and beauty.  She has a hard-edged voice that worked well in this part.  Isaac Florentine who directed several "Power Ranger" films was at the helm and does a nice job of keeping the pacing flowing.  The topless ladies who cavort in the pool made me wonder how many girls wouldn't get out of the pool when they start exploding things in the water.  -- Whoops, I was thinking again.  Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Scene with a Bunny </p>
+
+
+<h2> review.date </h2>
+  09-07-2008  
+<h2> review.text </h2>
+
+ <p> I enjoyed this movie. Van Damme has some very good moves and its always fun to watch him.The movies are always a bit cheesy (i.e., the Mexican General in this case) but this is what we want from JCVD and I wish that there's lots more to come! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable Van Damme Flick </p>
+
+
+<h2> review.date </h2>
+  06-21-2009  
+<h2> review.text </h2>
+
+ <p> Jean-Claude Van Damme's 31st self-starring film is thoroughly passable as a run-of-the-mill DTV action movie. However, when considering that the film was directed by arguably the best action director in the DTV realm, Isaac Florentine (Undisputed II - Last Man Standing), and co-stars one of the decidedly best wireless movie martial artists in the world, Scott Adkins (X-Men Origins: Wolverine), it's kind of a letdown. Director Florentine appears to be going through a list of older action heroes whom he makes look better than they often have in years, and up until now, Van Damme was the biggest catch he had gotten his hands on...but alas, he seemed to think that Van Damme's name alone was enough to endure the minimalist treatment, which is a shame since I cannot think of any other filmmaker who'd be better suited to make the 48-year-old black belt fly again.The story: Jack Robideaux (Van Damme) is a newly-assigned border cop and the oddball of his unit. After making a name for himself as a silent tough guy, he becomes involved in the plot of an ex-Navy SEAL-turned-druglord (Stephen Lord, "EastEnders") and his deadly bodyguard (Adkins) to smuggle heroin from Mexico into the US using illegal immigrants. Alternatively at odds with and backed by his tough female captain (Natalie Robb, "Doctors"), Jack goes against protocol to come to terms with his mysterious past and shut down the kingpin once and for all.Let's get the non-important stuff out of the way: the acting is good, the production quality is decent, and no real DTV snafus are present. Van Damme's trademark understated-ness aids him for once, making the withdrawn character seem less forced and a more legitimate personality (it also helps that he carries around a rabbit in a cage), while co-stars Lord, Adkins, Robb, Gary McDonald as Jack's partner, and Daniel Perrone as the corrupt warden of a Mexican prison Jack spends a night in all do passable jobs in their portrayals. As for the production, there is a lot of unnecessary slow motion present and a handful of time-killing shots, but beyond that, the film is devoid of technical glitches or sloppy editing. Regardless of that, the movie is very grey and colorless in its aesthetics; granted, it was shot for a mere $12 million in Bulgaria, but seeing as most of Isaac Florentine's films are bright, flashy, and generally fun to look at, this looks nothing short of dull by comparison.Essentially, "The Shepherd" is a 25% Florentine flick and a 75% low budget Van Damme vehicle. Nothing proves this better than the amount of action in the film: by default, Florentine's films are literally packed with gunfights, car chases, and martial arts encounters, but here we only have one bus chase, two shootouts, and three hand-to-hand battles. The bus scene is lengthy and features lots of submachine gunfire, but is stymied by poor pacing and repetitiveness. The gunfights are meh. Van Damme has three hand-to-hand fights: one pretty cool bar brawl, a so-so encounter with a Mexican prisoner, and a final showdown with Scott Adkins. The Adkins encounter should've been Van Damme's best fight since his brawl with Michael Jai White inUniversal Soldier - The Return, but comes off as a bit of a dud: though they trade some kicks and Van Damme pulls off a neat sweep and Adkins a windmill kick, it's hardly the full contact spectacle I was hoping for and fails to impress after seeing what Adkins could do in films like "Undisputed II".As afterthoughts, there are hints of some wittiness to the writing ("You're p*ss-drunk and I'm holding a rabbit - what am I going to do?") and a kinda cool interrogation scene over an electrified pool, but nothing to give the film a higher rating. I suppose that Florentine wanted to keep this film more grounded and physically realistic than his previous features, but seeing as it is imperative for Van Damme's feet to leave the ground again at this point in his career, it was a poor battle plan. Thoroughly charmless, this is nowhere near the best of either the actor's nor the director's career, and should definitely not be the film with which new fans should start. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Van Damme & Florentine Drift From The Flock... </p>
+
+
+<h2> review.date </h2>
+  03-13-2008  
+<h2> review.text </h2>
+
+ <p> I haven't been interested in a Van Damme movie in at least a decade, but I wanted to see this because I'm a big fan of Isaac Florentine.  2 of his more recent movies, Special Forces and US SEALS 2, had a special forces team taking down terrorists.  This time, the special forces team are the terrorists.  They are using their skills to smuggle drugs, and now it's up to Van Damme to stop them.  He plays a border patrol agent who is sent to New Mexico to help their police force stop the special forces team.I went into this with low expectations because I have not heard very good things, but I thought it was really good.  The action is great.  Florentine shoots a fight scene better than any Hollywood director.  I can't think of a single one that even comes close.  A big reason why the action is so good is because of Scott Adkins.  His physical abilities are mindblowing.  Another reason the fights are so good is because of the use of arm and leg locks.  Van Damme pulls off some nice moves, and Scott Adkins can pull off any move your mind can imagine.  My only complaint with this movie is that there is not enough fighting.  There are good small fights scattered throughout the movie, but the final fight felt like it should have been longer.After seeing one of Isaac Florentine's first movies, Bridge of Dragons, it's astonishing to see how far he has come.  The Shepherd is well directed, and contains no cheesiness, which is something that has plagued Florentine all of his career.  After Undisputed 2, and now this, it would be a crime not to see his movies on the big screen.And one more note.  I can't believe I am actually saying this, but Van Damme's acting was very good.  He's been getting better lately, but this is the best I have seen from him.Movie rating- 3.5/5The Sony DVD has very good picture and sound quality.  No special fetures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Van Damme's best movie in a very long time </p>
+
+
+<h2> review.date </h2>
+  03-04-2008  
+<h2> review.text </h2>
+
+ <p> In "The Shepherd" Van Damme plays a border patrol cop in New Mexico who has to stop some ex-soldiers from smuggling drugs from Mexico. Van Damme's recent direct-to-video efforts have generally been better than those of Steven Seagal and this one did not disappoint. The plot is straightforward and it offers some nice action. Recommended to Van Damme fans as well as action fans in general. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good </p>
+
+
+<h2> review.date </h2>
+  02-11-2013  
+<h2> review.text </h2>
+
+ <p> Issac Florentine has been a hit or miss with me. He does great action films like Undisputed 2 and 3, then he makes movies like Ninja and The Shepherd. There is some good action in this film courtesy of mr. Scott adkins. This is the first time Damme and Adkins appear on screen together, and they have a nice little fight at the end also. But the story was lacking, but I have seen worse straight to video films from mr. Damme. So this movie is a good time waster or if your an Adkins junkie! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Bad, but not great either </p>
+
+
+<h2> review.date </h2>
+  06-21-2010  
+<h2> review.text </h2>
+
+ <p> Oh brother, where do I begin with this one.  The first 30 minutes is full of bad editing, poor dialogue, and a weak script.  Near the end of the movie is does start to have some sense of direction but too little too late.  There is little character development on this weak effort form JCVD.  Overall, I am not even sure why they made this stinker.  I give it two thumbs up for the female lead as she is hott!!Want a really good JCVD movie then check out, "Maximum Risk."  Great story line, well acted, and just plain fun and entertaining.  "The Shepard" only made me want to shepard my you-know-what right out of the room.  Aaarrrggghhhh! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sheepish </p>
+
+
+<h2> review.date </h2>
+  06-23-2010  
+<h2> review.text </h2>
+
+ <p> As in Hard Target(/93)and his more recent Until Death(2007),Van Damme once again bases his character in or from New Orleans in The Shepherd-Border Patrol(released March 2008).This taut action film shows us an area of topic of which Hollywood usually doesn't often touch on;the people who patrol and maintain border security along the US-Mexican line.The story involves a New Orleans cop by the name of Jack Robideaux who comes to the small town of Columbus,New Mexico to join the border patrol.Jack's 16 year old daughter died of a drug overdose and to get some kind of closure and of course revenge for her death,he wants to help smash the local cartel sitting just across the border.When two drug cartel leaders meet in Mexico to discuss a cessation of hostilities between them,the henchmen of one group decide to kill both leaders and the others' thugs and take over the entire business for themselves.These are no ordinary henchmen however,they are trained ex army special servicemen who are thorough,very determined and deadly.This is the scenario Jack,unawares,walks into.Jack's boss is Capt Garcia(Natalie Robb) and she warns Jack not to mess with the locals.In a restaurant in his first few minutes there he has to defend himself against a jealous local,who he dispatches very quickly.Next day Jack is reprimanded by the Captain and then coupled with his new partner Billy Pawnell(Gary McDonald).One of their first confrontations leads to the local border where there is a shoot out going on between border agents and some well armed Mexicans trying to cross.Jack and Billy swing around and come in from another direction and Jack manages to take down one of the fleeing illegals before they can re-enter the fence.This is no ordinary illegal however as he has explosives strapped to his body.Jack gets the bomb squad in but it is no use as from just across the fence the ex-army contingent is observing everything.The bomb detonates and the bomb disposal man barely escapes being killed.The heat is on now as the ex-army drug lords try to buy off Jack when he takes down two thugs during a robbery.He is offered a bank roll by one he has in handcuffs as another tries to sneak up and pop a cap in Jack from the side but he is seen and he is quickly dispatched.The next major move by the drug cartel is to sneak a bus load of their product across the border.They hermetically seal the stuff under the bus so the dogs can't detect it and they reinforce the bus throughout with titanium steel in case of trouble.Their rouse is a fake trip to a southern US destination as nuns and priests;even to the extent of having real priests and nuns on board.They reach the border and an agent comes on board,but as he is checking one of the last people he becomes suspicious.As they realize the jig is up they open up on the border personnel killing some and zooming into the States.Jack and Billy are dispatched and they position themselves on a bridge over looking the highway which has been totally roadblocked.The bus retreats from the roadblock,turns around and heads back to Jack who opens up on the bus,killing a few but in general to no avail.Jack and Billy follow the bus back to the border and across into Mexican territory.The bus arrives just before Jack and Billy and the local police aid in their escape by taking their shipment of drugs as payment.Jack and Billy soon arrive along with the Mexican police and have a brief shoot out with them but to no avail.Jack and Billy are arrested by the local constabulary and taken into prison.While there we find out Billy has been an inside snitch for the drug people all along.Also Capt.Garcia has been taken captive by them and Jack finally confronts his well armed and determined enemy.They come to the prison as they are VERY interested in the man who has put a major dent in their entire operations.They take both to their mansion where they interrogate and threaten to torture Jack if he doesn't tell them who he is and why he's there.When he reveals the details of his daughter's death the head ex serviceman says"I'm not the one who killed your daughter".Jack replies"You're all the same".Eventually Jack and Garcia get loose and in the process kill Billy.She uses his cell phone to phone for immediate back up from the States and they indeed come.In the meantime the cartel's customers are upset with the non-delivery of their shipments and the ex-service mens foreign accounts are one by one withdrawn from;to zero.The now desperate men are down to just a handful and just before help arrives Jack finally manages to dispatch the head and final man by his own methods.The film ends with Jack,with some closure now,heading back to his wife the way he arrived;in his pick up truck.This 95 minute film moves along at a good pace and even the beginning set up doesn't weaken the flow,as some films have a tendency to do.Van Damme is again on top of his game and for his fans there are more than a few good fight scenes to savour.Van Damme is still in remarkably good shape and has plenty of scenes to show his physique off in.The plot has alot of twists and turns and it even,in a fashion,illicits some sympathy from us for the antagonists of the movie;the ex servicemen.Technically the DVD is presented in its widescreen a/r of 1:85:1 and has been mastered in Hi Def so the picture is quite clear and sharp.There are no extras to speak of but there a few trailers,amongst which are three of Van Damme's movies:Hard Corps,Until Death and Second in Command,which if you haven't seen them might tweak your interest.All in all I give the movie a solid 3 1/2 to four star rating.A good action movie and Van Damme does a good job in his role with a fine supporting cast.If Van Damme references New Orleans anymore than he has,I think the city will at least owe him a parade and the key to the city!Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3 1/2-4 stars- A solid entry for Van Damme </p>
+
+
+<h2> review.date </h2>
+  05-14-2008  
+<h2> review.text </h2>
+
+ <p> I like bunny rabbits too. It doesn't seem like a tough guy's pet?Sort of a twist on a boy named Sue.The idea of an armored car full of drugs with nuns as a coveris pretty much that kind of thing you expect.Here in San Diego we have off road / dune buggies and the drugscame across with mules and even tunnels.The cops in Mexico are almost as poor as the peopleand there is a tradition of selling out, it seems.But having trouble seems to be what a border is about?It actually seems like both sides are on the take?We don't seem to have heroes, just more peoplethan are legal... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dirty cops, dirty border and dirty drugs </p>
+
+
+<h2> review.date </h2>
+  06-09-2008  
+<h2> review.text </h2>
+
+ <p> This is an amazing movie! The final fight scene between Van Damme and a younger Scott Adkins alone makes this a true classic! Van Damme has really improved as an actor. He changes his appearance and attitude in each of his latest movies. This is a five star movie!Van Damme at his best! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Van Damme versus Scott Adkins! </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> While it's thin on plot it makes up for it in action. Van Damme and Scott Adkins deliver punches and kicks at &#34;break-neck speeds&#34;  Not a bad JCVD movie </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Van Damme and Scott Adkins equal Kicks! </p>
+
+
+<h2> review.date </h2>
+  11-08-2009  
+<h2> review.text </h2>
+
+ <p> The Shepherd (2008) is a crime adventure, where routine and reality, quickly become non-factors.  Jean-Claude Van Damme stars as Jack Robideaux, a New Orleans police officer newly transferred to a border patrol unit operating out of Columbus, New Mexico.Things on the border are usually quite tense, but it is evident that the situation has changed, when Robideaux and his partner Billy Pawnell (Gary McDonald), apprehend an illegal with C4 strapped to his chest.  Smuggling has gone to a new level, due to ex-US military personnel turning to crime.  Benjamin Meyers (Stephen Lord), formerly of the special forces, is the leader of the smugglers, who have a plan to transport a huge shipment, using a bus.  Violence erupts, when their plan unravels.  It's comic book time, when hidden panels slide back to reveal machine guns, manned by the mercenaries disguised as priests.  Robideaux and Pawnell go cowboy, illegally pursing the bus into Mexico.The new guy moves fast, and certainly has all the luck, becoming tight with his female CO Captain Ramona Garcia (Natalie Robb), getting a partner that is morally conflicted, and winding up in the heart of a storm, hanging tantalizingly upside down over an electrified pool.  Meyers seems to be in love with the sound of his own voice, and he and his crew are not too bright, which creates an opportunity for escape.Just barely in touch with reality, The Shepherd is an entertaining ride, that takes itself much too seriously.  Although the plot is events are most unlikely, Van Damme plays it mostly straight throughout.  Robideaux's grief for a lost daughter, seems an extraneous element in the story.  Still physically fit, Van Damme doesn't employ the same kind of tricks favored by Steven Seagal.  Among Jean-Claude's recent films, this is one of his better efforts.  Presentation is anamorphic widescreen, with subtitles, but no extra features. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> way over the borderline . . . </p>
+
+
+<h2> review.date </h2>
+  02-21-2009  
+<h2> review.text </h2>
+
+ <p> Despite the incredible story with numerous plot holes, "The Shepherd: Border Patrol" has one great thing going for it; that is the action and you will get lots of it. This is not big budget stuff like Michael Bay blockbuster films, but still there is plenty of it in this Jean-Claude Van Damme film - shoot-outs, car chases, explosions and martial arts stunts performed by Jean-Claude Van Damme and Scott Adkins.Jean-Claude Van Damme  is Jack, a Texas border patrol agent recently transferred from New Orleans. The agent is a kind of man who never speaks much, and does his job quickly and effectively, and keeps a rabbit in his room. And you need a bad guy in this kind of movie - a really bad guy and his faithful right arm man. This time we have a Navy Seals-turned-drug smuggler using explosives as weapon of choice. Frankly, the story is by-the-numbers and the characters are all flat. The script is not very good. Some might say terrible, and I don't disagree with that.When it comes to the action, however, "The Shepherd: Border Patrol" delivers. Van Damme shows several nice martial arts actions, but what is really amazing is Scott Adkins as the baddie's trusted bodyguard and his moves. Director Isaac Florentine ("Undisputed II: Last Man Standing") knows how to show exciting martial arts action sequences even though final one-one-one fight scene involving Adkins' character, good as it is, could have been much better with his brilliant kicks."The Shepherd: Border Patrol" is not Jean-Claude Van Damme's best film. It needs a better script and better lighting (some scenes are too dark), but it is still a decent one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, Solid B-Action with Nice Martial Arts Action Sequences </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

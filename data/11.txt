@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0001XE0PC <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-26-2012  
+<h2> review.text </h2>
+
+ <p> The pack itself isn't bad, just the fact that it seems to be aimed more for a DX-style (crop) body. I have to force the camera body a bit. There isn't a foam separator like in the toploader zoom models. There is decent cushioning for the body. Although I think one could possibly get a slightly longer lens like an 85 1.8G and it'll still fit inside. It's a good pouch if you want to do street photography with it, it isn't really a discreet bag. You can tell from afar it's a camera bag,  but the Lowepro logo is small luckily. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nikon D800 (w/o grip) & Nikkor 50mm 1.8G Combo w/ Zeikos hand grip </p>
+
+
+<h2> review.date </h2>
+  07-24-2013  
+<h2> review.text </h2>
+
+ <p> Right out of the box, the first thing I noticed was an awful smell.  Since I was leaving the next day for a trip, I didn't return it and the smell dissipated after a few days.  Other than that the bag has served me well.My Nikon D5100 fits (tight) with a 55-200 lens (though I doubt any longer lenses would fit).  The bag held the camera securely and it was easy to put the camera in and out of the bag quickly.  Some reviews for this and other bags debate the buckle versus zipper closure, but I preferred the buckle type due to the quick and easy access to the camera.  If you are taking your camera in and out frequently like I was, you'll appreciate it.The front pocket holds a small battery, SD card, and one USB cable, however it's only secured with a 1&#34; piece of velcro in the middle.  The top flap covers the pocket when closed, but it the bag is turned on it's side or upside down, there is risk of the contents falling out.  I had this happen with my spare battery a few times.There is much debate about the comfort of the straps in many bag reviews.  This strap is narrow and non-padded, but I was never uncomfortable with this strap and I wore it for hours while hiking.One of the reasons I bought this bag was for the slip lock/belt attachment, but I never really used it.  Looks like it works well though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it once the funky smell dissipated </p>
+
+
+<h2> review.date </h2>
+  12-29-2012  
+<h2> review.text </h2>
+
+ <p> Came with the Nikon D600 and 24-85 VR lens as a promo package and I love it.  The smallest form factor in a camera bag I've ever owned.  This Lowepro Rezo is sturdy, light, offers fair amount of padding for simple protection (also just enough space to add another pad inside if desired) which is really convenient and low key.  The handle is a nice touch and turns out to be quite useful.  There is enough room to have a spare battery, memory card, and cleaning cloth, but not much else.  The latch is secure and easy to engage.  If you have a DSLR that's wider than the D600, that may present a problem, as it is not that wide.Say you're looking for something bigger to carry largish zoom lens, or heavier duty whereby it will protect the cargo when dropped from more than a foot, then this is not it.  For what it is intended, it's a keeper!--------------updated 4/3/13  I now use this bag to carry the D600 paired with 28-300 VR lens.  The fit is snug. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compact and good protection on a D600 </p>
+
+
+<h2> review.date </h2>
+  12-01-2012  
+<h2> review.text </h2>
+
+ <p> This case is NOT 8.25 inches deep like the ad states.  It is a mere 6.25 inches in depth.  Remember, you've been warned. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BEWARE </p>
+
+
+<h2> review.date </h2>
+  04-14-2009  
+<h2> review.text </h2>
+
+ <p> You can arrange quite a few things in this bag if you don't wish to put an S.L.R. camera in it.  It's the usual Lowepro Rezo high quality, too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> IT COMES IN HANDY </p>
+
+
+<h2> review.date </h2>
+  06-09-2009  
+<h2> review.text </h2>
+
+ <p> This is a good quality, reasonably priced basic camera case that helps protect the Nikon D90 camera with a lens that is equal to or shorter than the Nikon 18-70mm lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lowepro TLZ20 </p>
+
+
+<h2> review.date </h2>
+  12-17-2008  
+<h2> review.text </h2>
+
+ <p> Perfect fit for Nikon D90 with Nikon 18-200mm VR zoom lens with lens hood attached (reversed). Also room for camera strap attached to camera and polarizing filter (in its case) but that fills the main compartment. Front pocket has room for remote, extra SD cards and extra battery. Convent top handle, belt loop and shoulder strap. Has some padding but probably not enough to protect the camera if the bag is dropped. Fairly easy to access equipment and carry bag. Material and construction appear first class. Fully met my expectations but if you need to carry extra lenses or filters this is not the bag for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great fit for Nikon D90 but not much else. </p>
+
+
+<h2> review.date </h2>
+  04-21-2010  
+<h2> review.text </h2>
+
+ <p> I spent forever looking for the smallest bag that would fit a Nikon D90 with 18-105 lens.  The Lowepro Rezo TLZ 20 is it!  The pockets are small and don't zip, so it's not ideal for carrying lots of little accessories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TLZ 20 perfect fit for Nikon D90 with 18-105mm lens </p>
+
+
+<h2> review.date </h2>
+  07-12-2013  
+<h2> review.text </h2>
+
+ <p> Bought it for a friend in another country. Fit his needs so I guess it is suitable as advertised. Quality was good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice size </p>
+
+
+<h2> review.date </h2>
+  12-29-2007  
+<h2> review.text </h2>
+
+ <p> I bought this product for the D40 Canon, but the camera body is just too wide, and my standard small zoon lens is too long, especially if you keep the strap on.The padding in the bag is great, low profile and perfect for small digitial SLRs like the Rebel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good bag for Rebel camera size </p>
+
+
+<h2> review.date </h2>
+  08-24-2011  
+<h2> review.text </h2>
+
+ <p> I originally bought the bag for a Canon XSi.  When I traded that camera in for a Canon 60d w/18-200mm lens, I assumed a new bag would be needed.  Not so.  It's a little snug but I have the camera, lens (with hood and UV filter) and camera strap in the case.  I even have a lens cloth, RC-1 wired remote, and extra SDHC included. And since it's compact, airplane carry on bags packing is easy. Needless to say, I'm glad I tried it before buying another bag.  The Lowepro fits a wide assortment of cameras and lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Protection for Canon 60d </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

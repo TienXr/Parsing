@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00IN6WBZU <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> I bought Candida Cure because my mother has candida, and she is always telling me that I have it. Apparently I more than likely do, I have a lot of the symptoms, the major one is that I&#8217;m allergic to everything. I am so thankful I read this. Katherine Tomlinson covered all the bases, I have started implementing the changes to my diet and I already feel a lot better. I have been breaking out much less. This is a fabulous book. A lot of research and time was put into it. Candida Cure is the best candida book out there. I recommend reading it and trying the changes to your diet. You will be amazed at the difference it makes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fabulous advice </p>
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> &#8221;Candida Cure&#8221; is an excellent book. Since I have read it and started implementing the changes to my diet, I not only have more energy, I&#8217;m not getting headaches everyday now. Candida overgrowth can attribute to the cause of many kinds of cancer, heart disease, and Alzheimer&#8217;s disease. Even if you don&#8217;t think you have candida overgrowth, it is a great idea to read this book, because you can be helping not only yourself, but those around you as well. Katherine Tomlinson put some very thorough research into this book. I am glad that I was able to read and learn from it. It&#8217;s never too late to cure candida overgrowth. The time is now. I would suggest everyone read this book. All can benefit greatly from it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent book </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> Candida Cure: A definite read for everyone.I&#8217;m really glad I decided to read this book Candida Cure: How to boost your immune system, reverse food intolerance&#8217;s, and return to total health in 30 days. It has tons of useful information, from what it is, to what the symptoms are, and how to &#8221;cure&#8221; it. There are great recipes, foods to eat and foods you shouldn&#8217;t eat, avoid, or eat in small portions. There are lots of information links in this book also. I may only be 25 years old but I have tons of the symptoms listed in this book and will definitely be consulting my doctor about it. I will definitely keep this book on hand so I always have it to refer to the cleanses and foods to eat and not eat. Thanks to the write for such a helpful informational ebook! ***5 Stars*** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Candida Cure: Very informational! </p>
+
+
+<h2> review.date </h2>
+  03-03-2014  
+<h2> review.text </h2>
+
+ <p> No matter how old we get, the saying,&#8221;you learn something new everyday,&#8221; is definitely the truth. Before reading &#8221;Candida Cure,&#8221; I had never heard of the term. Katherine Tomlinson, the author, explained it to its entirety. She gives plenty of useful information and even gives you resources to help you get through it. In 30 days, with the help of this book, you can boost your immune system,reverse your food tolerance, and return to your total happy and healthy self as it states on the cover. Some may be disappointed with the the things they have to take out of your diet, but in the end, I believe it is all worth it. I recommend this book to anyone that has or hasn&#8217;t heard of Candida. There is so much information we can all benefit from. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> informative </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> Are your tired? Grouchy? Depressed? Do you suffer from unexplained cramps, headaches, or muscle pain? Would you say you are &#8220;under the weather&#8221; or &#8220;not feeling good&#8221; or just plain &#8220;having an off day?&#8221; There might be something serious going on with your body. This was my friend, Susan. Candida causes damage by causing internal inflammation. Candida is a naturally occurring yeast organism that lives in and on the human body and helps out with metabolic processes, including digestion and respiration. The growth of Candida is normally regulated by the immune system, which keeps it from growing out of control. But sometimes, due to stress, poor diet, illness or other factors, the immune system is weakened and the Candida morphs into a fungus that spreads throughout the body, resulting in a host of health problems. Getting rid of Candida requires commitment but this book lays out a four-phase &#8220;Candida Cure&#8221; that will allow you to boost your immune system, eliminate pain, reverse food intolerances and allergies, and restore your health. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My friend had Candida!! Good Resource!! </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> Awesome information on Candida and how to get rid of it. Anyone the is fighting this issue should read this book. Has lots of websites for more information and great tips for fixing food. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Curing Candida </p>
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> The information in this book struck me at first as being just a woman&#8217;s issue.  After reading through the material more completely, I see that men can also suffer from Candida which is the focus of this book.  I&#8217;ve never heard of the condition myself but from the symptoms they speak of, I think I have heard of it even though I never heard the word, if you know what I mean. Some of the symptoms that is mentioned in this book I have on a regular basis. For example, crave for sweats, mood swings and depression. The list goes on. I relate to most of them that&#8217;s there.The Reason I thought it was only a woman&#8217;s issue is because the condition is a yeast organism. I didn&#8217;t know men can suffer from forms of yeast conditions also. Reading this helped me understand this condition and what might be going on with me and a lot of my loved ones and friends that are also having these symptoms and are not familiar with this condition. I will be passing this information on to them for their knowledge as well.If you&#8217;re having problems with the systems I mention in this review I recommend that you read this book and get the education you need on this condition in order to do something about it seeing this condition can be reversed if treated and caught early enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review for Candida Cure </p>
+
+
+<h2> review.date </h2>
+  03-04-2014  
+<h2> review.text </h2>
+
+ <p> When I saw this book, I couldn&#8217;t help buy it. I was super curious so I just had to read it. Boy, am I glad I did. All the symptoms described in this book sound just like my wife! We have been to doctor after doctor trying to figure it out, and this all makes total sense. We are starting her on the new diet, and all the recipes included in this book, it should be super easy and super delicious! I am hoping by changing her diet, she might start feeling better, and not like crap all the time. I will update this review some time next week or so to let you know if she is feeling better. Definitely something you should read. I know it is kind of confusing, but it makes a lot of sense after you read the book. 5 stars! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really worth the read! </p>
+
+
+<h2> review.date </h2>
+  03-04-2014  
+<h2> review.text </h2>
+
+ <p> Candida CureBy Katherine TomlinsonI have recently been bothered by yeast infections.I have diabetes and I read that this disease can cause Yeast infections. I have read a lot of things in this Ebook I didn&#8217;t know.It is very educational reading. Makes a lot of sense to as you read you sort of put the pieces together.For instance feeling tired after eating carbs has been an on going problem for me. I thought it was because of my sugar. This book is a must read for anyone, man or woman.It tells you how to clean your body of Candida from the inside out. It tells you what you should and should not eat.I would highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Live better Feel better </p>
+
+
+<h2> review.date </h2>
+  03-04-2014  
+<h2> review.text </h2>
+
+ <p> Katherine Tomlinson covers a lot of ground in less than 100 pages when it comes to ridding your body of unhealthy yeast, or Candida albicans, which is part of the human body&#8217;s natural flora. According to Tomlinson, because most of us eat high sugar diets, this yeast takes advantage of that and causes a multitude of problems, such as aches, pains and inflammation. By cleansing our bodies and re-adjusting our way of eating, we can put our bodies back into balance and start feeling better.The steps that Tomlinson outlines in her book are easy to follow and make sense. She doesn&#8217;t beat around the bush and is very straight-forward in her approach, which I find very refreshing. I really like that she gives you lists of foods that you should eat at each stage of the process. She even gives you a few recipes. If you are looking to rid yourself of toxic food and begin eating to improve your health, you need to get this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Book to Help Jumpstart a Healthier Lifestyle! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

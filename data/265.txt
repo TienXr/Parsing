@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002EBRF7O <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-16-2010  
+<h2> review.text </h2>
+
+ <p> The story in this is awesome.  There is quite a bit of political intrigue and a fairly deep societal analysis.  The good guys are REALLY GOOD guys and the bad guys are REALLY BAD guys, kinda like a Tom Clancy novel.  If you enjoyed the first season, you will most likely enjoy this one as well.  I enjoyed this season more than the first, but they are both excellent.  The animation is good and the english dub is tollerable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing </p>
+
+
+<h2> review.date </h2>
+  09-08-2013  
+<h2> review.text </h2>
+
+ <p> Ghost in the Shell is a great show. I prefer the Laughing Man as a villain, but 2nd Gig has more focus and Kusanagi wears normal pants most of the time, so you can stop thinking, "Why isn't she wearing something practical?" And I still love the Tachikomas. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Such a great show </p>
+
+
+<h2> review.date </h2>
+  08-04-2013  
+<h2> review.text </h2>
+
+ <p> While not as amazing as the first season, it still proves itself enjoyable experience that worth a watch. Packaging is a little iffy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strong Second Season. </p>
+
+
+<h2> review.date </h2>
+  05-18-2010  
+<h2> review.text </h2>
+
+ <p> My son loves anime so I ordered this for him as a gift.  It was a gopd price I thought and he seemed to be really happy with it.  He is 15.  I was trying to buy anime for his age group without it too childish in nature.  He liked this alot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My Son Loved This Set! </p>
+
+
+<h2> review.date </h2>
+  04-14-2010  
+<h2> review.text </h2>
+
+ <p> When I first purchased these discs over two years ago I paid $20 per disc (x7 discs...)  I want to give Bandai a great big hug for this set.  I love this series and hope as many intelligent people as possible see it.I won't bore anyone with the details of the plot, story, etc...Suffice to say, this is a vast improvement over the first series (SAC).  The main antagonist is one of the great characters of anime history (Kuze).  He is neither villain nor hero, but something necessary and in between and the animators and voice actors really bring this out.The stand alone episodes are rich and entertaining and go to show a lot of each character's history.  The pace is steady and quick without being too fast.  Togusa (my favorite character) really moves into the forefront as one of the three most important characters.The animation quality is strong and never wavers for a second (like other series who outsource to Korea).  The voice acting is strong in both Japanese and English.  I watch 95% of my anime in Japanese, but I really prefer this series in English for some odd reason!If you like trippy, mind bending sci fi in the same vein as Blade Runner, Gattaca, and Logan's Run; then you MUST watch this series (and the 2 movies!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a deal! </p>
+
+
+<h2> review.date </h2>
+  06-23-2012  
+<h2> review.text </h2>
+
+ <p> In the second season of Ghost in the Shell. Section 9 is now back with new personal. A terrorist group called the Individual Eleven has been attacking refugee camps. A new leader has resin among the refugee camps. He alone has the power to begin all the refugee together and lead them. Major Motoko Kusanagi is on the hurt for him. But something is a mist she may have a former past with him. So can the major figure out what the link is between them. Now the refugee resistance has a nuclear bomb. Can the major and her team avoid a civil war by finding the nuclear bomb or will they all be dust in the wind.Season Two Disc BreakDownDisc 0101.Reembody02.Night Cruise03.Cash Eye04.Natural EnemyDisc 0205.Inductance06.Excavation07.Pu23908.Fake FoodDisc 0309.Ambivalence10.Trail11.Affection12.SeleconDisc 0413.Make Up14.Poker Face15.Pat16.Another ChanceDisc 0517.Red Data18.Trans Parent19.Chain Reaction20.Fabricate FogDisc 0621.Embarassment22.Reversal23.Martial LawDisc 0724.Nuclear Power25.This Side Of Justice26.Endless GigDVD ExtrasTachikomatic DaysTextless OpeningInterviews with the cast, Director and Creative StaffDVD FeaturesEnglish & Japanese Dolby Digital 5.1 AudioEnglish & Japanese 2.0 Stereo AudioEnglish SubtitlesAnimated Interactive DVD MenusAnamorphic Widescreen </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost In The Shell 2nd Gig </p>
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> for me the story is kind of hard to understand whats going on but its a good series </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ... hard to understand whats going on but its a good series </p>
+
+
+<h2> review.date </h2>
+  09-01-2012  
+<h2> review.text </h2>
+
+ <p> For the past decade Sci-Fi animes have unfortunately his a plateau in regards to unique story execution and story development.  GTS provides an unrivaled level of sophistication and class that keeps the series to appealing and riveting from the start.  From many reviews that I've read about the series, many criticize the progression let alone the story; however, from shear deduction I concluded that these individuals perhaps didn't understand the complexities that the series provides.  Its not for all, and its a definite must for the thought seekers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Under-rated Series </p>
+
+
+<h2> review.date </h2>
+  06-19-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed this DVD series very much due to the intricate conspiracy story it woved and the issue of what to do with large immigrant population that sucks up resources to support them put contribute little to the overall improvement on the GNP of Japan. With wars, global warming, failed nation states, I forsee this happening more around the world as people try to escape their fates only to be worse off than before. The infighting of the various governmental departments as they fight over their turfs, bugets, and agendas makes for a realistic story line. I did laugh when the main villian here seems to be the Imperial American Empire. I guess they forgot about their own historical imperial ambitions of their rising sun vision of WWII. I would recommend that you get this collection of stories for your DVD collection of all the Ghost in the Shell chronicles. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost in the Shell Anime Legends 2nd Gig </p>
+
+
+<h2> review.date </h2>
+  09-16-2011  
+<h2> review.text </h2>
+
+ <p> Usually when something is called an anime `legend' it's a marketing tool to try and shift some old discs but in the case of Ghost in the Shell, 2nd gig, the honorific holds up and is on what is probably the best anime to ever come out of Japan.Set in a Japan about 30 years in the future, it is a world where most of the people have some level of cybernetic enhancements, anything from an inbuilt cell phone to just a human brain resting in a fully mechanical body. The lead characters are members of the special antiterrorist force known as "Section 9." Who have to deal with various issues.As the plot unfolds there is an upswing in Japan of violence against `refugees' immigrants fleeing poverty else where and a responding level of militancy among the refugees. Beyond the normal issues being dealt with section 9 starts to suspect that both sides are being manipulated and that passions are being stirred up to create a political upheaval that can be exploited by politicos. They have to find out if this is true and if so, how to stop it before Japan sinks into a civil war.The writing and level of animation in this series are incomparable. The series was written with a set story arc and does not have the feeling of "we need an extra half hour here." Indeed although there are some episodes that seem like filler or something to distract from the overall theme so it doesn't feel forced, by the very end the careful viewer will realize there was NO wasted space, none- and the throw away line in episode 7, just to grab a number, suddenly become relevant to the whole plot.  It is that tightly written. A political thriller with plenty of action and like all good science fiction, it makes you think about issues in the real world while watching someone else do it in their futuristic world. On all counts this is the best anime I have ever enjoyed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quite probably the best anime series EVER </p>
+
+
+<h2> review.date </h2>
+  03-02-2013  
+<h2> review.text </h2>
+
+ <p> Ghost in the Shell is basically one of the pioneers of making anime mainstream. the technicality and sheer genius of it was revolutionary. but stand alone complex is another story. it never really got what it deserved, ratings wise. such an amazingly put together show. all the voice actors are the same from the films and the major is back in action. the action, sheer intelligence of the episodes, plus the amazing voice work is reason enough why you should own this.a great continuation of the movies and the tension from every situation is just amazing.purchase this awesome box set </p>
+
+
+<h2> review.summary </h2>
+
+ <p> an overlooked masterpiece </p>
+
+
+<h2> review.date </h2>
+  12-12-2012  
+<h2> review.text </h2>
+
+ <p> Ghost in the Shell: Anime Legends 2nd Gig need I say more. I still think the laughing man was more interesting, but that;'s because I grew up being a big computer person and knew a few hackers, but this series definitely has the better soundtrack and visuals. The song Cyberbird by Yoko Kanno is amazing and they play it at the perfect times all throughout the series.I have watched this series twice now, going onto three and I'm still trying to peace together everything and make sense of it. If you ask me normally I would say that sucks for anything, but this series is so good that it's more enjoyable every time, and you figure out or see new things every time you re-watch it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost in the Shell: 2nd Gig </p>
+
+
+<h2> review.date </h2>
+  12-25-2013  
+<h2> review.text </h2>
+
+ <p> This series is not as good as the first, but still a lot of great stories and lots of content to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lots to watch </p>
+
+
+<h2> review.date </h2>
+  07-07-2013  
+<h2> review.text </h2>
+
+ <p> The Stand Alone Complex series is actually surprisingly deep in philosophical and theological thought. The 2nd Gig comes after the &#34;Laughing Man Incident/Case&#34;, and I really like how it shows the other people in Section 9's back stories... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost in a Shell 2nd Gig Review </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> The art work is stunning, the story compelling, and the world that's created soaks you in. A great action/drama combination. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent </p>
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> I first watched this anime during the Adult Swim era on Cartoon Network.  Originally in English and being young in mind, this anime flew way over my head.  Yet I was impressed with Kenji Kamiyama and team's overall creation of a world that goes into cybernetics and a world where cyber augmentation is the new fashion.  The alternative reality of fragmented nation-states at war with one another, with Japan now as a passive player in world politics, was a neat touch because the 'bad-guy nation/good-guy nation' is ambiguous.  In the meanwhile it does play onto more relevant current events, such as today's Japan's Article 9, which prohibits an aggressive stance during conflicts solve problems.  Also the function of the &#34;Japanese Miracle&#34; in the show, or nuclear fallout scrubber technology, shows an inherent throwback desire against nuclear weaponry.  And let's not forget the goofy yet likeable Tachikomas, child-like in their approach to supporting Aramaki's Section 9, yet very intelligent in figuring out the entire plot.The gist of Volume 2 is the overlying issue of solving the Refugee Action Policy, in which the Japanese government benevolently invited refugees across Asia to settle in their country after the flames of war.  This has caused ethno-tensions between refugees who want rights equal to the citizens of Japan, then bedlam ensues with the culmination of the rise of the &#34;Individual Eleven,&#34; a terrorist group with no common affiliations rising with individual terrorist acts that take a statement against the RAP.  The Individual Eleven, though no connection with another, believe that they are doing a service to the nation when at the same time something is afoul in the sudden arise of the group altogether.  Motoko Kusanagi and Section 9 now have to work together to link these attacks to one common source, but eventually run into a major issue of the &#34;powers of be&#34; that pull the strings.The show really does take two or three run-throughs to get the whole concept.  The philosophical dialog, hard to follow in English, is much more novel-like when reading in Japanese subtitles, takes time getting used to.  But the central themes of stand-alone complexes and a society, pretty much cyberized, yet still as a collective desires freedom on a higher level is explored in this anime.  The concept of &#34;individuality&#34; is ironic, even though people try to commit acts of violence to make themselves stand out, they really just copy cat one another.  Society as a mass desires to be individualistic, but at the heart of the human heart is a desire for freedom.  Yes, this drama is convoluted at times, but the creative world of cyberpunk Japan is very unique and Kamiyama does it again in giving you brain food to feed that Ghost In the Shell. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Creative World of SAC </p>
+
+
+<h2> review.date </h2>
+  03-21-2010  
+<h2> review.text </h2>
+
+ <p> This is a great series. If you like the movie or the manga you should enjoy this. Make sure you watch the first season first though. I liked the firs season a little better, but it was very close. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Series </p>
+
+
+<h2> review.date </h2>
+  02-03-2013  
+<h2> review.text </h2>
+
+ <p> Simply amazing in every way. I loved this series since they showed it late nights on adultswim and love it even more now that I own it. I recommend this product along with the first season to complete any anime fans collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Section 9 will always be the best counter-terrorism squad </p>
+
+
+<h2> review.date </h2>
+  08-26-2013  
+<h2> review.text </h2>
+
+ <p> As with the first season the animation is simply gorgeous and the action is top notch. The villain is also a little better this time around, as the Laughing Man from last season was a bit too much of a enigma for his own good. The english dub is as solid as it was last time, and still leaps and bounds ahead of the dub done for the films (which should only be watched in subtitle.)The one issue, which was also the case for the first season, is that there are a few too many instances of characters effectively stopping the story in order to sit down and talk about the philosophy behind what is going on. The depth of thought is impressive and enjoyable, but the manner in which characters talk about these concepts (i.e. openly and bluntly) is a tad clumsy at times. That didn't stop me from still enjoying this from start to finish. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gorgeous and Heady </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> I absolutely loved the story, animation, and ideas in the first series of Ghost in the Shell.  This second series?  Not so much.Clearly, this second series was just to cash-in on the popularity of the first.  Very little effort was made to develop the stories.  As a matter of fact, most episodes seem to be simply rip-offs of various movies.  For instance, one episode was a rip-off of the sniper sequence for &#34;Full Metal Jacket&#34;.  Another episode was a blatant copy of &#34;Taxi Driver&#34;.  The only difference was the Ghost in the Shell versions lost all the drama and cohesiveness of those movies.  Worse, then had lame tacked-on endings.  They just fizzled.However, if you loved the original run, you might want to add a star.  Also, the series gave the &#34;back stories&#34; of many of the main characters.  Unfortunately, the back stories all seemed kinda lame.  They even touched on a love-interest for the Major.  But then they never develop it to see where it might have lead.  It's just a dead end.Worse, the scripts are horrible.  They are simply one character just blurting out ten minutes of exposition.  Not really &#34;story telling&#34;.  Just one character reading an essay more or less.You might want to rent this instead of buying it... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Weak, but if you LOVE "Ghost in the Shell", add a star. </p>
+
+
+<h2> review.date </h2>
+  12-13-2012  
+<h2> review.text </h2>
+
+ <p> This is yet another example of Japanese anime at its finest.Proving that making a second series from an iconic film as 'Ghost In The Shell' is a good move, 2nd Gig fleshes out the characters stories further, the action is just as intense, the suspense and intrigue are fantastic, and the over arching storylines, graphics, soundtrack etc is as awesome as ever.This set will take you to places you never imagined and intices you to watch it repeatidly so that you find yet more details and aspects that you might have missed the first time round.Watching this series in a well packaged set of inspiring DVD's borders on a near religious experience.You owe your collection this set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Sequel Series is as Great as the First Series </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> Wow!  The last 8 episodes of this show were so suspenseful!  I don't want to spoil the experience for anybody so you are just going to have to watch it for yourself. Some of the stand alone episodes are kind of filler but once the real plot kicks in you are hooked.  TThe funny thing is I watched the second series and am now going to start the first series.  I am interested to see who tops who!  It will be hard to beat 2nd Gig.  Anything involving the Major is okay for me! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Major is Major again </p>
+
+
+<h2> review.date </h2>
+  12-23-2012  
+<h2> review.text </h2>
+
+ <p> Anyone who loves anime has probably seen this series at least once. It's good to have the complete series in one package. This is a must have series so get it now before the price goes up! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Classic Anime Series! </p>
+
+
+<h2> review.date </h2>
+  06-30-2010  
+<h2> review.text </h2>
+
+ <p> With the second season of Ghost in the Shell: Stand Alone Complex, Section 9 returns once again but this time their entire group has a different agenda.  While in the first season dealing with the "Laughing Man", this season seems to take a little more serious tone compared to the first season.  Once again they deal with terrorist, this time it's with a terrorist group calling themselves "The Individual Eleven" and trying to start what they call a 'revolution'.  Not only that Section 9, also has to face with refugees that are resorting to suicide bombings to leave their last mark in the world.  I say that the story writing got better for this season though at times its on par with the first season but for the most part it's better than the Season 1 writing.  I definitely recommend this season of Ghost in the Shell for anyone that's a fan of the show let alone the movies.  I give it a 5 stars out of 5. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost in the Shell: SAC does it again </p>
+
+
+<h2> review.date </h2>
+  09-24-2009  
+<h2> review.text </h2>
+
+ <p> As one of the premier Manga series internationally, Ghost In the Shell aka S.A.C., has introduced North American animation fans to a dangerous view of the future.While S.A.C. occurred in the `near' future, 2nd Gig, and the annotated film, Individual Eleven takes place in 2032.  Prior to the dissolution of  Section 9, and the resignation of Major Kusangi, the world experienced two `world' word from 2000-2015, and 2015 to 2024.  The use of nuclear weapons marked the end of WWIII, and the consequent threat by the American Empire to do so again had kept the global forces in Japan at bay.  As Section 9 winds down, a new threat rises.  The increase in independent states and sovereign regions that grew from the chaos of the last 30 years has led to a divided planet with major questions on sovereignty and administrative jurisdiction.As the director said in an interview, "In other words, we simply couldn't ignore the way society had evolved since the events of 9-11 That was the approach we decided to take, and I tried to illustrate a 21st century (near-future) war. But to tell you the truth, I couldn't avoid feeding back into modern reality."  Given the war torn climate in Section 9 and the circumstances the Japanese people find themselves in a complex discussion of the reactions and actions of both the military and militants was the only possible scenario for the series.The complexity of the 26 episodes, 2nd season, is simplified in the motion picture, "Individual Eleven".  While the original episodes contain a more dynamic, more in-depth plot flow than the 160 minute film, the full 700 minute presentation is equally spectacular.  With such a complex storyline, the editing and directoral decisions required  for the short version must have been hellish.  The resulting 160 minute  `short' is riveting, and leads viewers through a nightmare world of politics, survival, semantics, and loyalties.  As in any time of war, there are aggressors and defenders, and the forces led by the Togusa struggle with suicides, random acts of violence, and seek to uncover the "Puppet Master".Amidst the intense plot driven "Individual Eleven" and "2nd Gig", several sub plots wind through the main tapestry.With Section 9 investigating the machinations of the "Puppet Master", the Tachikoma's appearance adds another layer to the story.  Similar to the Q Collective in Star Trek, they are robots endowed with sophisticated AI with a little free will and philosophical discussion thrown in.  Ultimately, their sacrifice paves the way for the successful conclusion of the conflict that Kuze controls.That brings us to another interesting plot line.  Kuze, the lone survivor of the Eleven, fled to the refugee camps and soon became a magnet for other survivors.  His silence, and ability to make cranes with his left hand, served as therapy and those around him offered their life stories.  He disappeared from view, and his relationship with Kusangi was resurrected as both were cybertized.There are so many themes and plot threads running through this series that a book can be written on them.  Intelligent animation has the power to inspire, and SAC is very intelligent!  The animation style is worthy of an Academy Award, and should be recognized as such.Look for this amazing series and film at your local video dealer or go online at [...]I remain,Fully aliveTim Lasiuta </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic </p>
+
+
+<h2> review.date </h2>
+  08-15-2011  
+<h2> review.text </h2>
+
+ <p> COMPLEX PLOT, CRAZY ACTION, LOTS OF DRAMA, EDGE OF YOUR SEAT TYPE STUFF! GET IT NOW BROTHAS AND SISTAS! 4 1/2 STARS! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OOOOOOOOOOH YEAH! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

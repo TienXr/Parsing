@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004F5ET62 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> Exactly what I needed ,fits most Blueparrot headsets .Certainly fit mine and makes it look good as new ,i would and have told others where they can get parts for their headsets </p>
+
+
+<h2> review.summary </h2>
+
+ <p> REPLACEMENT PARTS ,WHEN YOU NEED THEM !! FAIR PRICE TOO !! </p>
+
+
+<h2> review.date </h2>
+  01-17-2013  
+<h2> review.text </h2>
+
+ <p> good quality, love it, I am so happy with this product,  exacly like in the picture love it good quality </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good quality </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> Exact fit as described. I love the fact that it came with 2 sets. If it last like the original set I won't need any for 2-4 years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> The windscreens in these packages fit MUCH better than the original.  I lost both original screens because my jacket would pull the tips off and I would loose them.  I thought about gluing the tips on and using small zip ties to hold them on but after getting these and getting them on I have not needed to &#34;fix&#34; them.They are kinda hard to get installed but that is also what makes them better than the originals.  They come off near as easy and still work just as well as the original.  If I use the earpiece covers I will update you on how they work but as of yet I have had no use for them as the originals work just fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only purchased for the windscreen </p>
+
+
+<h2> review.date </h2>
+  04-22-2013  
+<h2> review.text </h2>
+
+ <p> I dont just use these for blue parrot.  You can also put them over the mic inside your cars hands free or your gaming head set.With these foam parts I can stand over my detroit 60 series at high idle with the fan and speak comfortably on the phone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> most important part! </p>
+
+
+<h2> review.date </h2>
+  02-17-2014  
+<h2> review.text </h2>
+
+ <p> At first the 'leatherette' ear pieces seemed a little tight, but once on, they fit great and were as comfortable as new.  Good to be able to fix a wear item instead of throw away a good working headset! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great refresh </p>
+
+
+<h2> review.date </h2>
+  08-08-2013  
+<h2> review.text </h2>
+
+ <p> Good value, good quality.  Bought it to replace some components.  Begs the question sometimes if just buying a new one is better, but inexpensive enough to not give buyer's remorse. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good value, good quality </p>
+
+
+<h2> review.date </h2>
+  02-17-2013  
+<h2> review.text </h2>
+
+ <p> Really only needed the windscreens but now I have a few extra parts! Love my Blue Parrot! Original parts are always the best choice! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product! </p>
+
+
+<h2> review.date </h2>
+  08-16-2012  
+<h2> review.text </h2>
+
+ <p> They fit, and they work.  What more to say?  Well worth the investment.  Will order another set when needed.  Fixed a much needed item, as I have serious hearing problems.David </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product, Works well </p>
+
+
+<h2> review.date </h2>
+  05-22-2012  
+<h2> review.text </h2>
+
+ <p> These appear to be in improved product over what I got with my Blue Parrot headset new.I've had these a few months now and they are holding up even better than the originals. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Even nicer than the ones it came with. </p>
+
+
+<h2> review.date </h2>
+  05-14-2013  
+<h2> review.text </h2>
+
+ <p> when you wear a head set and sweet this comes in handy after a few months and this one was pretty good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a must have </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> I put the leatherette pad on and then the mesh pad over that.  It is a very snug fit but you get the cushion from the leather pad and the mesh keeps you from getting &#34;chapped ear&#34; when you are on for extended periods of time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  12-07-2012  
+<h2> review.text </h2>
+
+ <p> The sponge and the plastic covering degrade over time, so these are great replacements.Seems like all manufacturers use the same padding, and these fit perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great to replace old pads </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

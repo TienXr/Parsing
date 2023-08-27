@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1897217803 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-01-2011  
+<h2> review.text </h2>
+
+ <p> I have been REALLY lucky picking books by Bourne, Ibarra, Brown and now Fuchs.  This tale of a post Zday world has exceptional plot and character development.  This is the first book I have purchased from this author and I'll be reading everything he wrote immediately!Moderate pacing, awesome action  and a killer twist at the end will leave you wanting more!!!  Get this book now! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fabulous!  Gore, action, and WAY WAY MORE! </p>
+
+
+<h2> review.date </h2>
+  03-09-2009  
+<h2> review.text </h2>
+
+ <p> This book started out okay. It started to go downhill, but I kept reading hoping for a good ending. Sometimes a good ending will make it better. The ending was so bad. I am so shocked at some of these reviews! Before you plan on a trilogy, you should at least round up the first book! It didn't even make sense! I try to give new independent authors a chance, but this author needs to think hard about the ending. Really Ruined It! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't Believe The Ending </p>
+
+
+<h2> review.date </h2>
+  02-27-2009  
+<h2> review.text </h2>
+
+ <p> I liked this book.  It isnt perfect but it is far from bad.  You could get a lot worse then this.The story starts off after the outbreak has need around for a while and tells the story of 4 people that survived the zombie outbreak.  They are living semi normal lives still as they still have electricity and the internet and even milk that hasnt gone bad.  This changes very quickly for our group that dont fully meet each other until well into the book.It follows how the people feel about the event, how it has affected them and how they survive during the outbreak.  When they meet up there is an issue that arises and will i am sure be explained in the later books.You cant go wrong even if the outbreak takes place in Canada :)Get it, read it, and prepare for it!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good book,  well written and laid out. </p>
+
+
+<h2> review.date </h2>
+  09-21-2008  
+<h2> review.text </h2>
+
+ <p> AP Fuchs puts together a miasma of 4 different characters to absolutely drive this novel into 6th gear. It's not all gore and gutmunching, although there is plenty of that, this is an actual character driven zombie novel that will have you caring for each and every person. There's no real villian in this novel, the first of a trilogy, other than the zombies. That's quite a refreshing take for the zombie genre novel and Fuchs pulls it off very, very well.There's Billie, the pink haired, internet child, punk rocker who is portrayed as smart, caring, strong and yet doubtful in some of the ideas she comes up with.There's Des, a computer nerd with feelings for Billie that he tries to keep hidden, but not very well. Des was my favorite character in that you can see him grow from a scared teenager to a lead pipe wielding zombie killing machine.There's Joe, the hardass who want's to be in total contol over each and every situation the cast finds themselves in. But his self doubts concerning his lost love drive him almost to the point of suicide by gun or zombie.There's August, an older patriarch who had to kill his entire family when they turned. This part of the novel was one of the most gut-wrenching, heart-rending portions of any novel I've read. August is a God fearing believer who puts his trust not in man, but in God. It makes for some really serious word play with the other characters.Put them all together, add in the insatiable zombies and you get a novel that will have you screaming for the second installment when you turn the last page of "Blood of the Dead".I know in my rotting heart that AP Fuchs will be a force to be watched for in the next few years. Purchase "Blood of the Dead" now and get in on the first floor. Just remember to board up the widows and doors properly.Dr. PusHost of the "Library of the Living Dead" podcast and owner of the "Library of the Living Dead" press. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Blood of the Dead" will rock your undead head! </p>
+
+
+<h2> review.date </h2>
+  04-20-2011  
+<h2> review.text </h2>
+
+ <p> This book is fun, well written, and a good read for those who like Z tales.  A worthy edition to any Z bookshelf. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not your normal Z book </p>
+
+
+<h2> review.date </h2>
+  04-02-2009  
+<h2> review.text </h2>
+
+ <p> Stereotypes galore and terribly predictable. The female lead is so weak and stupid that she never bothers to pick up a real weapon. She has lived in a world with zombies for a long time but goes to the apartment of the gamer geek without even a big stick.I also find it hard to believe that the milk man kept delivering milk when the dead started walking.The end felt like the author was a schizophrenic who went off his medication. It came out of nowhere, it made little sense, and I resent the money and time I spent on this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Horrible! </p>
+
+
+<h2> review.date </h2>
+  01-30-2009  
+<h2> review.text </h2>
+
+ <p> Basically a GREAT action packed zombie novel, but also very much a character driven story.Joe is primarily concerned with killing zombies and then contemplating killing himself.August is definitely the most fleshed out character, who is in mourning over his family and puts all his faith in the Lord to get him through.Des I HATED in the beginning because he is basically a winy girl who doesn't have any  balls. But eventually he starts to come into his own.Billie is the pink-haired internet junky.  So definitely it is a motley crue but the way the characters play off each other is really done very well.Towards the end of the book there is a big twist, but it fits quite nicely in with the plot and ensures that this trilogy is definitely going to be one to keep eye on. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> more zombie goodness </p>
+
+
+<h2> review.date </h2>
+  12-23-2008  
+<h2> review.text </h2>
+
+ <p> This book starts out with a great scene and then breaks down. The 'plot' of this story is mostly a movement from one place to the next, and shows no real development of character. There is an interesting twist near the end, but it is left unexplained (likely until the next chapter)... if you're smart, you'll PASS </p>
+
+
+<h2> review.summary </h2>
+
+ <p> PASS </p>
+
+
+<h2> review.date </h2>
+  05-11-2009  
+<h2> review.text </h2>
+
+ <p> It has some flaws. The writing, and some aspects of the plot could be a bit more polished. But what it lacks there, it makes up for in imagination and throwing all conventions away by the end for an odd "to be continued" conclusion. There's enough books out there which stick to the standard zombie formula. While it might fumble a bit trying to have one foot in that, and another outside, I'll give it a lot of credit for trying. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm happy for the twists </p>
+
+
+<h2> review.date </h2>
+  07-29-2009  
+<h2> review.text </h2>
+
+ <p> I've read all the reviews listed thus far before writing my own, seems people's opinion of it are all over the place. I will say that any reviews that gripe about the ending should be dismissed and not factor into your decision of reading this book. Right on the cover it states Book 1 of the Undead World Trilogy, so one should not be expecting an ending but rather a turning point. And that is what we are given.The book takes place 1 year after the event that turns most of the population into the walking dead and focuses solely on 4 survivors. This focus allows for very intimate relationships with the characters and it's a nonstop blood splashing, zombie stomping thrill ride. Unfortunately, there in lies why I cannot give a 5 star rating. The story is too tightly written for the action and pain our characters are going through and the few details we are given about the Haven (where are surviving characters live) pose more questions than they answer. It feels like an over-sight. Hopefully, these questions will be addressed in Book 2, which I am now eagerly awaiting.There is only one book left on my shelf written by Mr. Fuchs (Axiom-man: Doorway of Darkness) for me to read. I have seen this author grow and mature with each title and I recommend this book to you whole heartedly. Pick it up and get on board, Book 2 is right around the corner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it or hate it, you decide. </p>
+
+
+<h2> review.date </h2>
+  07-31-2010  
+<h2> review.text </h2>
+
+ <p> While the book wasn't horrible, I can't really recommend it.  It wasn't so much a novel as it was a written comic book.  It just wasn't believable.  The characters were shallow sterotypes and the action was forced.  The book is filled with BOOMS, THUDS, DRUNGGS, THOOMS and THWACKS (to name a few) like the old Batman television series.  The novel also has a main character who, despite being a comic book writer, manages to make his own super-gun and ammo (the X-09!) despite the fact that he lives in an apartment in the city and has no knowledge of gun manufacture (but he figured out how to on the internet.)  He spends the entire book brooding of his lost love (a one night stand who went back to her abusive boyfriend).  Most of the charaters are somewhat emotionally crippled.  There are other problems, a year into the zombie apocalypse someone is obviously delivering fresh milk (since the heroine uses the last of her milk and Cap'n Crunch).  The main characters are repeatedly swarmed over by dozens of zombies but never get bitten or infected and at one point as they are being pursued by zombies they just happen upon a heliocopter (all ready to fly and of course one of the group just happens to know how to fly one!)  The book ends on a cliffhanger as it is part of a trilogy but I doubt if I will bother with any other books in the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't really recommend it </p>
+
+
+<h2> review.date </h2>
+  10-22-2009  
+<h2> review.text </h2>
+
+ <p> To begin, let me say that I didn't even finish reading the free sample of this book on the Kindle. I know that some people will believe that because of this I shouldn't write a review of the book.That said, I was still moved to write a review because... I couldn't finish reading the free sample of this book on the Kindle. Seriously. Couldn't.I really wanted to like this book. I love small publishers, and I love horror, and I'm always trying to find new talent. And with the large number of positive reviews I thought this would be a safe bet. The problem is that I'm a stickler for good writing (and by "good" I mean technically proficient). I don't mind the occasional typo or poor word choice, but this book honestly feels like a first draft at best.To start with, the very first sentence contains one of my pet peeves. It begins "Whattsa matter, baby?". I'm a firm believer that one should never try to write in dialects unless absolutely necessary. If the same sentence was written as "what's the" our minds would still give it the informal edge as we read it.A few other things from the first couple pages that bugged me:- A dress that used to be "off yellow". I'm familiar with dark yellow, pale yellow, lemon yellow, etc. but I've never seen "off yellow". I think the picture would be more vivid if the author just said "faded yellow" or "dirty yellow" or something.- The main character is observing the scene while hiding "off to the side". This is just too vague in any but casual speech. I still have no idea where he was hiding in the room, or how the other people didn't see him. We are sort of told later, but I still have no picture of it in my head.- A bit later, three people are on one side of the room and two are "across the way." This is so vague as to be meaningless. Both this and "off to the side" would be okay in dialogue, but just don't work as part of third person narration.- The air in the room stinks with the "funk of the dead". This actually made me laugh out loud. Maybe it's just me, but I do not believe that I've ever heard this word used in a serious context. Or, at least, not since about 1978.- "If 'Betty' was the girl's real name or not, Joe didn't know nor, right now, care." This sentence is just so awkward, and like much of the rest of the writing it is in the passive voice. A good editor would have suggested something like "Joe didn't know if 'Betty' was the girl's real name or not. And right now, he didn't care."This is just a sampling from the first five or six pages (Kindle pages, that is, with about a medium font size), but almost every sentence could use an editor's touch or a complete rewrite. I found myself frequently rereading lines and getting distracted by poor syntax.Now, if this sort of thing doesn't bother you, then you may want to try the book for yourself. The concept looks interesting, and some of the ideas (judging by the other reviews) seem to be fairly cool. If the author can sharpen his skills, I'd even like to give him a second chance at some point down the road. For now, though, I just can't recommend this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fans of good writing... may want to look elsewhere </p>
+
+
+<h2> review.date </h2>
+  07-22-2008  
+<h2> review.text </h2>
+
+ <p> Fuchs (author of the 'Axiom Man' series of superhero novels) delivers a satisfying addition to the ever-growing zombie subgenre.  After introducing the four protagonists (each one finely done, especially August Norton, a man struggling with his faith along with the new chaotic state of the world), we're thrown into (nearly) non-stop action and flesh-eating mayhem as our four survivors travel together to reach the same destination (symbolic as well as literal?--you be the judge).There seems to be this trend with some recent zombie novels I've read: the first half usually features a scenario similar to the one described above, then after the halfway point the author adds his/her own twist to the story . . . and Fuchs' twist is quite different as supernatural beings come to the aid of the remaining humans.Despite this being a zombie novel, there's some genuinely deep moments, especially chapter 24's "life and death" exchange between Joe and Billie, the novels' two main characters.BLOOD OF THE DEAD will be enjoyed by any zombie fan, and I'm interested to see where Fuchs goes with the next installment (this is the first of a planned trilogy).  (Warning: this one really packs on the brain-splattering goodness!.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Satisfying addition to the zombie subgenre </p>
+
+
+<h2> review.date </h2>
+  09-10-2008  
+<h2> review.text </h2>
+
+ <p> This is the beginning of a trilogy and I felt after reading this story that 90% of it was a set up for what comes with very few pages left in this first book.What we have is what is essentially a character driven zombie story where we are introduced to four main characters who end up coming together through the course of this novel to join forces to face off against the dead in Winnipeg, Canada.  They have all survived a year after a grey soup of a rain fell and instantly killed many people, turning into zombies immediately.  Most others died afterwards in the carnage but a part of the city remains safe, called Haven.  Three of our characters live there, Joe, who sees himself as a angel of vengeance, having fashioned his own hand cannon to blast the undead back to the just dead.  There is Des, a video game warrior who wishes he was a real hero but has spent most of his time behind a computer screen since the world collapsed, and Billie, a young punker girl with Pink hair who is also a net junky that has had little use for much in the way of human interaction.  August is the fourth character here, an older man who was forced to kill his entire family when they all turned into zombies after they all fled into the woods an hour outside the city.  Now he has returned and our four characters are thrust together when all the undead, which had mostly be relegated to the inner city have come searching for anyone still alive.Much of this book is spent with the characters running and fighting the undead.  It also is spent with many of the younger characters acting hyper moody with each other, which may be realistic given the grim circumstances but if I am going to be critical about this story it lies here.  August is frustrated with God and wondering where he has been this entire time while these three young people barely seem able to get along long enough to help each other survive.  After a while all their pouting and moodiness started to get on my nerves.  But it did not kill the story for me.  The author did a good job of fleshing out these characters and the pain each one of them are going through in this new undead world.As I mentioned earlier, I got the sense that all of this was introductory effort on the author's part because we really get to the meat of what is going to make this trilogy tick in about the last thirty pages or so.  I will admit it gets somewhat confusing, which of course just translates into a cliff hanger ending and a lot of unanswered questions that often come with a trilogy.  I will not go into detail but suffice it to say we are exposed to some supernatural elements that will have to play a very heavy duty role in book's two and three.Overall, I enjoyed this story.  There is gore galore and plenty of action for those who crave that in their zombie stories.  The author has unleashed a few variations on the zombie theme with hints and more obvious introductions towards the end of your not so regular dead human's brought back to life that I will be curious to see more of.AP Fuchs does a good job in writing his story and he is able to build up the suspense quite well.  There is enough here for me to be quite interested in part II and part III when they are published.  I just hope that we do not have to wait too long for the next installment, since he does leave you hanging at the end of this novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First of the Undead World </p>
+
+
+<h2> review.date </h2>
+  08-03-2011  
+<h2> review.text </h2>
+
+ <p> Others have already touched on the plot so I won't rehash it.I will say that I loved this book. I found the characters extremely likeable and the action intense. Others had problems with the ending but I for one enjoyed it. It threw me for a loop, left me with questions and extremely eager to see what happens next.The book was a fun read. It's not the be all and end all of zombie literature but it's definitely something different from your standard survival horror. There's tons of gore and zombie action but it's a bit breezier and not as oppressively serious as many others I've read in the genre. Some of the back-and-forth dialogue between Des and Billie is genuinely amusing, you don't find much humor in the zombie/survival horror field.There isn't any cursing or sexual situations in the book so it would even be an enjoyable read for younger/teen readers, provided they can handle the violence.A.P. is rapidly becoming one of my favorite authors. I love his Axiom-Man series and the Undead World series is shaping up to be just as enjoyable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic </p>
+
+
+<h2> review.date </h2>
+  05-10-2009  
+<h2> review.text </h2>
+
+ <p> I bought this book because I'm a huge fan of the zombie genre.  I was really disappointed.  The characters back story was completely uninteresting and lacked depth(one of the guys had a weekend fling with a girl and decided she was his soul mate and that was all he thought about for the whole book).  The zombie fight scenes were graphic but unbelievable - how many times can you survive being right in the middle of a horde of zombies and not get bitten?  In the case of this book, evidently you can umpteen times.  Instead of thinking "yeah, they got away!" I was hoping "just get bitten and end the book already!".  Thats not a good thought to have when reading a zombie novel.  This brings me to the end of the book.  Several other reviews talk about how bizarre the end is.....thats an understatement.  It's like he was writing the end of a completely different book.  In my opinion, please dont waste your time or money on this.  There are way better zombie books out there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Waste of time and money </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

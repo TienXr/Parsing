@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1933771461 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-27-2008  
+<h2> review.text </h2>
+
+ <p> So, you think you know Terry Pratchett's Discworld, do you?  Even if you have read and re-read Pratchett's thirty-plus Discworld novels (and companion books), Lawrence Watt-Evans's "The Turtle Moves: Discworld's Story Unauthorized" will still teach you a new thing or two, I suspect -- new insights into characters, new ways of looking at the novels.Watt-Evans, a noted science fiction/fantasy author himself, has created a respectful, genial, and thoughtful look at the Discworld universe, discussing each novel and story and placing them in context of "sub-series" (within the overall Discworld series).  He does this with a tone of mock frustration ("How come Pratchett can write such an extraordinarily successful series of books and I can't?!?" -- well, maybe Watt-Evans's frustration isn't wholly fictional; surely, any author must envy such a creation), but it is clear throughout that Watt-Evans is first and foremost a fan of Discworld -- not blind to its occasional minor flaws, but overall deeply impressed with its high quality.In his introductions, Watt-Evans explains that he is writing the book both for fans of the Discworld tales and also for those readers yet unfamiliar with them.  Oh, and also to make money while trying to understand the roots of Pratchett's success (I am sure this is said tongue-in-cheek, although he wouldn't mind making the money)."The Turtle Moves" is a pleasure, and as truly informative as it is amusing to read.  As the cover blurb says: "The greatest British fantasy series by a living author who doesn't go by initials is Terry Pratchett's Discworld". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So, you think you know Discworld? </p>
+
+
+<h2> review.date </h2>
+  11-08-2008  
+<h2> review.text </h2>
+
+ <p> The Turtle Moves! Discworld's Story Unauthorized by Lawrence Watt-Evans is in my opinion one mans obsession. He introduces himself, as well as does two separate introductions for those that have and have not read Terry Pratchett's books. He is looking for a way to make a book series in the way that Pratchett has, I mean who wouldn't want 31 books and possibly counting in a series?Lawrence Watt-Evans, goes into detail explaining his theories and thoughts on Pratchett's stories, a series that is about four elephants carrying a flat Earth while on the back of a turtle moving through space. His book is more for those that have read Pratchett's work, than those that know nothing about it. I felt like when I was reading his explanations, that I had missed some very vital details that only reading the books myself would solve. I can't say that I am going to rush right out and get one of Mr. Pratchett's books, but I do have to say that Mr. Watt-Evans has done an excellent job writing and researching for those that do follow the Discworld series.Mr. Watt-Evans, I'm sure has made Terry Pratchett proud with his explanations, all of his hard work doing the research, as well as getting it all written up and published. I have to admit that I very much enjoyed the footnotes, they were humorous at times as well as informative. As I said I didn't have any idea of what the Discworld series was until I read this book, but now I have a pretty good understanding, so Mr. Watt-Evans' book was a success! 4 HeartsContact Lawrence: [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Discover Discworld </p>
+
+
+<h2> review.date </h2>
+  02-24-2009  
+<h2> review.text </h2>
+
+ <p> This book is supposed to be an in-depth look at the Discworld series of novels.  The problem is that the discussion of the books and the chapters on their meaning and place in the series is so superficial that anyone who has even read the dust jackets will have understood that much.  The only useful part is that it lists some of the one-shot stories that aren't published in the United States.  Of course, anyone with enough interest to purchase a book on pratchett will have already found them on the internet.  Save your money and just buy more Discworld books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I can't figure out who the audience is for this book </p>
+
+
+<h2> review.date </h2>
+  09-12-2013  
+<h2> review.text </h2>
+
+ <p> If you ever wanted to know more about some of the jokes in the Discworld novels, this is a good choice. It's not too expensive, and it helps to translate some of Pratchett's more British jokes into American. :) The only unfortunate thing is that it was written before "Unseen Academicals." I hope that he writes a sequel that mentions some of the newer books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book, but dated. </p>
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> The author has a good general knowledge of the Discworld books, but any true aficionado will find it pretty superficial. My husband wanted to gain some insight into why his wife and son are fascinated by Pratchett. This book did not give it to him.Out of date by several volumes by now, of course. That's the danger of reviewing a living (and thankfully prolific) author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> and having moved ... </p>
+
+
+<h2> review.date </h2>
+  04-07-2009  
+<h2> review.text </h2>
+
+ <p> The Turtle Moves!: Discworld's Story is a companion book by Lawrence Watt-Evans (BenBella Books, 2008) to Terry Pratchett's DiscWorld series.  I learned about puns and word play I missed, plus background.  And I see that there's an upcoming Tiffany Aching book, I Shall Wear Midnight, and possibly Raising Taxes, and a number of books I wasn't aware of, including the three Science of Discworld books (stories plus science). and short stories, two of which I got to read online.  (See the link to Lspace below.)  The short stories include Troll Bridge (Cohen story).It starts off a bit slow, but when he gets to the stories, it was fun remembering and learning more about my favorites and the connections between stories and characters--lots of details.  He points out the changes from the first two books (parodies) and the evolution of the characters and plots.  l learned the connection between XXXX and Australia; the meaning of words and names, including Tempscire, Carrot, Hex (the computer), ...Btw, the kangaroo in The Last Continent is called Scrappy, which Watt-Evans mentions in passing.  (This is not his favorite book.)  I have a vague recollection that there was a TV program in Australia about a kangaroo, named Scrappy--yet another connection to Australia, along with the cave paintings, bush rangers, Mad Max references, ....There's also a bibliography and online resoources list, including theLspace website: [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic overview with insights into the Discworld series </p>
+
+
+<h2> review.date </h2>
+  09-26-2013  
+<h2> review.text </h2>
+
+ <p> I read only a sample of this book. Needless to say that was more than enough for me. It is clear the author thought he could fit Sir Terry Pratchet into a book - or more precisely into a box. This is exactly the opposite of what he is and his stories were written for the whole world to interpret the way it works for them at the time they read it. This author pretends to know more about Terry Pratchet and his books than anyone else- he does not and he only manages to fail himself in this misguided attempt to show off his supposed superiority. I have read every single Pratchet book and some twice. Each time I found something diffirent and new whilst enjoying it as much as the first time. Please Dont spend time and money on this book. Its truly just a waste of both. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not impressed </p>
+
+
+<h2> review.date </h2>
+  05-31-2013  
+<h2> review.text </h2>
+
+ <p> An interesting insight into the &#34;Discworld&#34; series. Informative and of interest to beginners and devotees alike. A number of things that the author points out fall into the category of &#34;Well that's bleedin obvious. Why didn't I think of that?&#34; </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Getting things in perspective </p>
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> There are two groups of people who will benefit most from this overview: Dedicated fans of Sir Terry Pratchett's Discworld novels and those who are thinking about attempting one of them and are wondering where to start. As his readers know, the thirty-odd books about the Discworld aren't really a single series; they're a collection of story arcs, each focusing (more or less) on a particular theme or group of characters -- though individuals and locations and bits of history from any of the books are apt to appear in any of the others. Watt-Evans, himself a professional fantasist, has identified the arcs the books belong in, plus a couple of singletons or one-offs, too. And then he provides an brief discussion of each book (and, later, of each arc), noting how Pratchett's work has become much more nuanced and sophisticated over time -- which is why you probably don't want to start with the first book published about the Discworld -- and ferreting out his apparent philosophy of life, the universe, and everything. And Watt-Evans pretty much gets all of it right, in my opinion, especially in his theory that the overarching theme of the Discworld books is that they're about stories. Not that they *tell* stories -- they're actually *about* stories. Storytelling, to Pratchett, is one of the things that defines humanity. Though Watt-Evans explicitly denies he's committing literary criticism here, you will find a number of comments and points that will make you rethink some of the books. In fact, for the fan, I recommend you read this book and then start the Discworld series over, in proper order, keeping in mind what you've read here. If only he hadn't gotten so carried away with the footnotes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An above-average guide for fans and potential readers alike </p>
+
+
+<h2> review.date </h2>
+  09-12-2011  
+<h2> review.text </h2>
+
+ <p> The author tries a little too hard to be 'wild and zany' and doesn't really pull it off.  He's basically read a lot of the Discworld novels and tells the fans, who have also read the series, what they're about.  I was hoping for more but this just falls flat as an attempt at a humorous book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting but a tad too pretentious for my tastes </p>
+
+
+<h2> review.date </h2>
+  12-16-2013  
+<h2> review.text </h2>
+
+ <p> I started reading it but did not get too far.  It is not as good as the Silmarillion and annoying to me.  I was after a good story and this was not it.  Perhaps other people will like it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> quit reading it </p>
+
+
+<h2> review.date </h2>
+  08-04-2008  
+<h2> review.text </h2>
+
+ <p> The substance is called "narrativium" and Mr Watt-Evans is a Heavy Dealer of the material.  And why not, since his book is concerned with the inventor of narrativium, Terry Pratchett?  "Narrativium" has to do with telling stories and Pratchett is peerless in that regard.  Watt-Evans has undertaken a momentous task in relating and assessing the many volumes comprising the [sort-of] series of Pratchett's Discworld.  The collection is an outstanding synthesis, each piece addressing both the established fan and the newcomer to this magical world.  Watt-Evans' own prose skills are amply displayed here in a highly personalised account.It's telling that Watt-Evans must begin with THREE Introductions.  That's a sign that Discworld books are anything but simple "fantasy" and that their readership is wide and varied.  He follows this with some "Commentary" [of which there are two more sets in the book], then descriptions of the books in chronological order.  That order causes some continuity problems as he notes things like "six[!] novels later" for readers to revisit certain characters.  Each of the essays on the individual books necessarily imparts enough of the story to establish its place and value in the set, while struggling to avoid spoilers.  He does this well, although there are a few giveaways that might have been avoided.  The point of this string of chapters is to both entice the new reader to the Discworld books while offering insights regular fans may have missed.  He offers "starting points" to the new reader, each explained with solid reasons for the selection.  "Background" characters and villains are given a hearing, with The Luggage granted its own chapter.If it's necessary to select an outstanding essay in this collection, that will unquestionably be Chapter 56 on Sam Vimes and the City Watch.  While many characters in the Discworld series grow and develop over several volumes, Sam Vimes does so in a very special way.  Although he rises in the hierarchy of the Watch, while at the same time marrying into the richest family of the City of Ankh-Morpork, he resolutely remains his own man.  Vimes is beset by a need for justice as well as keeping his City intact and running smoothly.  His anger often rises in response to events, and he has an internal Beast to maintain control over.  The conditions for Ankh-Morpork's running smoothly are set by Vimes' chief foil [he has no trouble with criminals], the City Patrician, Havelock Vetinari.  Watt-Evans offers fine portraits of both and why their interactions are so important.There are a couple of small clangers in this book - omissions, mainly.  He lets most of Pratchett's titles stand without comment, but "The Last Continent" is so named not just because it seems to have been the final effort by a Discworld creator-god, but because it was the last one visually encountered by European seamen.  "Monstrous Regiment", an otherwise totally enigmatic title, derives from a 16th Century religious tract.  Either because Watt-Evans is US-born or is pandering to that audience, he fails to inform readers of something every child in the UK would instantly recognise.  These are minor things which detract nothing from an excellent summation of Terry Pratchett's work and his genius.  Watt-Evans has no problem with Terry's international renown, but deftly avoids declaring that Discworld stories are more than entertaining, they are addictive.  He's candidly envious of Pratchett's genius, which is only right and proper.  Pratchett is without equal.  [stephen a. haines - Ottawa, Canada] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Caution!  Contains addictive substance! </p>
+
+
+<h2> review.date </h2>
+  02-16-2009  
+<h2> review.text </h2>
+
+ <p> This book is very hard to put down. It's very detailed and complete. It makes me want to go back and reread a number of the Discworld books as incidents were mentioned that I had forgotten. I also bought the young adult series based on his references to them.I wish I could buy the books that were mentioned but are available only in the UK. To purchase those would result in shipping fees much higher than I am comfortable with.I highly recommend this book to all Pratchett Discworld fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Turtle Moves </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

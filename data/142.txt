@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00DYQSZ68 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> really what can be saidI needed itbought itit worksnice braid , makes it look goodvery happy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> does whats its suppose to </p>
+
+
+<h2> review.date </h2>
+  09-07-2013  
+<h2> review.text </h2>
+
+ <p> It worked great with all the fans I had on it. All 4 fans worked fine no problems. For the price it is worth getting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It worked great </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> The product looks great, and is the perfect length. Basically, everything about this adapter is awesome, except the fact that it developed a short in the wires in less than a week. I *really* don't want to have to use molex adapters, so I'm hoping that A) I just got a manufacturer defect and B) the seller will offer to replace it.Update: Amazon and Circotech both contacted me to replace the item. The replacement item works well, so I'm assuming the first one was a fluke. Circotech contacted me offering to replace the item, then I replied to them and never received a response back.Bottom line: Cable works as intended, Amazon was great, seller (Circotech) was courteous but didn't follow through. Rating increased from 1 star to 4. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Broke within a week (Updated) </p>
+
+
+<h2> review.date </h2>
+  06-04-2014  
+<h2> review.text </h2>
+
+ <p> I got two of these to help control multi-set fans in a NZXT fan controller. Worked really well - I currently have 4 fans running on two and they work really well! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job </p>
+
+
+<h2> review.date </h2>
+  12-17-2013  
+<h2> review.text </h2>
+
+ <p> I needed extra connectors to add extra PC fan connections to install extra internal fans. I had no more available connections on my motherboard. This gave me what I needed to add those fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good buy.... </p>
+
+
+<h2> review.date </h2>
+  01-19-2014  
+<h2> review.text </h2>
+
+ <p> Two out of the four leads were dead on arrival. I have thorogly troubleshot to confirm that this is not a fault with the fan or the power supply. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only two of the plugs work. </p>
+
+
+<h2> review.date </h2>
+  12-26-2013  
+<h2> review.text </h2>
+
+ <p> I use this with a fan speed controller to power and control fan speeds for 4 additional fans, and I have no issues.It has great length, gives you just enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It Works </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> I ordered these for my roommate and he couldn't be happier these were easy to install an easy to get going with all seven of his case fans now I highly recommend this item </p>
+
+
+<h2> review.summary </h2>
+
+ <p> worked like a charm! </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> There was a manufacturer defect. There were missing pins on most of the splits. Sleeving and heatshrink are nice but if the product is not working or tested before being shipped, no use to me.MOVE ALONG. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Manufacturer defect </p>
+
+
+<h2> review.date </h2>
+  10-31-2013  
+<h2> review.text </h2>
+
+ <p> Pros:- Reasonable price- Black braided cable- The length of the cable quite longCons:- One of the port does not works. (super annoying cons) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only 3 that works. </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> Wasn't sure at first if this was what i needed but i plugged it in to one of my fan connectors in my motherboard then to my four fans and it worked so I'm happy with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works </p>
+
+
+<h2> review.date </h2>
+  07-18-2014  
+<h2> review.text </h2>
+
+ <p> Does what it said it. No issues. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple Utility </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> Worked as expected.  Well made.  Nice cable cover.  Have old motherboard with only one system fan output but upgraded case with (3) fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Cable </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> I used this 4 pin splitter to connect the 4 fans on the side of my case directly into the motherboard. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what the doctor ordered </p>
+
+
+<h2> review.date </h2>
+  10-31-2013  
+<h2> review.text </h2>
+
+ <p> It's just a wire splitter.  Why not split four ways instead of two for the same price? This works great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> Waiting for a month for this to arrive to my country in south america, only to find it was broken. There was some bad wiring on one of the ends, black and red wires were misplaced. Of course it's not a difficult fix, but the product should work out of the box as expected. Also, I checked up wiring where all the wires are glued together, and some of them were so poorly put together that they lost contact right away. Now I need to fix and check all of the wire connections with a solder. In the end, I'll use the 3-pin female and males and make my own splitter. Not recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Broken </p>
+
+
+<h2> review.date </h2>
+  11-18-2013  
+<h2> review.text </h2>
+
+ <p> For the price you really can't do any better, I suppose it could be slightly longer, but that is digging. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality, well sleeved </p>
+
+
+<h2> review.date </h2>
+  04-03-2014  
+<h2> review.text </h2>
+
+ <p> This connector works well.  I would not feed multiple fans from a motherboard connections with this, would draw too much power, and probably confuse the motherboards RPM sensor.  But if you just want to attach multiple fans without any speed control this is the thing to use.  Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well </p>
+
+
+<h2> review.date </h2>
+  02-17-2014  
+<h2> review.text </h2>
+
+ <p> easy to use convenient to use for any application, no problems in attaching but I will say that if you use this on multiple fans make sure they are the same size otherwise the smaller fans will spin faster. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice </p>
+
+
+<h2> review.date </h2>
+  11-25-2013  
+<h2> review.text </h2>
+
+ <p> Does it's job.I have these hooked up to four corsair 120 mm fans.works pretty good.Cables could be longer tho. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3-Pin Female to 4 x 3-Pin Male Computer Case Fan Splitter Power Connector. </p>
+
+
+<h2> review.date </h2>
+  11-30-2013  
+<h2> review.text </h2>
+
+ <p> Fan splitters are essential when you get more than 3 or 4 fans in a chassis.  This one works well, and I do not need variable speed fans in this application </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hooray for fan splitters </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> the other connectors were 2 pin, that wasn't what i expected, to bad that i am not anymore in the country to return it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> only one was 3 pin </p>
+
+
+<h2> review.date </h2>
+  02-06-2014  
+<h2> review.text </h2>
+
+ <p> This cables are VERY good for my motherboard, I can only connect 2 fans.. Bought this cable and now i have 5 fans without any problem.The only CON, is when I put a limiter to reduce all the fans from 12v to 5v, the cable don't have enough power and the fans doesn't turn on. But if you conect the 5v limiter to the fan on the other side, it works great!Este cable es muy bueno para mi placa madre, solo puedo conectarle 2 ventiladores.. Compre este cable y ahora conecto 5 ventiladores sin ningun problema.La unica contra, es cuando pongo un limitador de 12v a 5v, el cable no pasa suficiente energia y los ventiladores no prenden. But si conecto el limitador de 5v al ventilador en el otro extremo, funciona perfectamente. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good.. No words about it </p>
+
+
+<h2> review.date </h2>
+  12-11-2013  
+<h2> review.text </h2>
+
+ <p> Purchased 2 of these to hook up into my Corsair 900d case. They are straight forward, turns 1 3 pin connection into 4. The downside, ordering 2, completely wiring your system, to find out that one of them is a dud. Tested it on 2 different power connections (1 mobo header and a 3 pin to molex) and absolutely no power.1 out of 2 cables working is better that none, nevertheless it's a cable and there's not much to it for it to work. I'm going to send this back and probably buy a more reputable branded cable.EDIT **3-3-2014I tried contacting the seller twice about one of the cables not working, and of course never got a reply. I ended up cutting into the heatshrink, to find out the wires they used to solder together were very thin and ripped apart. I ended up having to strip the wire down and solder it again but it does work.I recommend getting the Phobya PWM splitter, not only is it manufactured better it also allows you to have PWM control of all the fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great cable, when working </p>
+
+
+<h2> review.date </h2>
+  03-02-2014  
+<h2> review.text </h2>
+
+ <p> Although I made a mistake ordering this, I will keep it as I may need it in the near future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fan Connector </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> Does exactly what it was designed to do.I had one issue though, and this might have been a deal-breaker for someone else. When my splitter came, it was non-functional. I used a multimeter to measure voltage on the female connectors, and there was none. I cut the sheathing off and found that the black cable had broken off at a solder point. I simply resoldered it and replaced the shrink wrap. It has been working perfect since.I don't expect these to all have this issue, so I am not going to mark it down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works good </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

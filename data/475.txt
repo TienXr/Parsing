@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00HF8UCDK <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good clean book </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed this book because of the two characters' stories. In the first it was a little hard for me to swallow that nobody had noticed the man was deaf for twenty years. I think thinks would have been dropped behind him and people yelling at his back would give somebody in his past a clue. Other than this it was a sweet story.The second one would have been better if Opal hadn't whined so much and tried too hard to make Nebraska fit her way of life. The children were the best part. They were well written and I liked their antics.All in all a good book. I would read more by these authors. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love can be found </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love a good romantic book. I could not put this book down. I like how Alex was a man who lost his wife and did not realize he could love again.  I think it was great how Pete got a chance at life once he married and his wife Ada opened his world for him. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> great book, loved the whole series. Could not put the book down.  it was enjoyale. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bride by Arrangement....fantastic book </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The only thing wrong with this book I found was it was too short!! Loved the setting, the characters and the way the author allowed love to blossom between all the characters in these  combine stories for this book. Such a refreshing read.Joanie Watson Dixon </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> pretty good way to spend a day </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Possible spoiler (though I do t see how you would t figure it out immediately) I found it really and truly annoying that no one realized Pete was deaf and instead thought he was mentally delayed or I. Some way &#34;damaged &#34; the man could t hear....  Anything how do u go thru life w no one even suspecting that is the reason u can do everything g except speak /heAr. Still it was a good book I preferred the first story to the second but all in all it was a decent diversion. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good, clean stories..... </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked the first story slightly better than the second one.  The second story started slow.  I don't remember reading anything by Janet Syas Niksick before, but her story turned out to be pretty good.  Both stories start out with two young ladies coming out west for two different reasons.  Ada, to be a bride, an arrangement her brother made for her.  And Opal, to be a governess to two children of a banker.  You know you can not go wrong with reading Ruth Ann Nordin.  She is one of the best authors today.  I recommend these two stories. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> First half 5 stars, second half 4 </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm a huge Ruth Ann Nordin fan, and she did not disappoint me with her half of the book.  It was everything I expect out of one of her books.  I loved watching the characters figure each other out, and see love bloom!!!The second half of the book was by an author I have never read before, and I liked that part of the book as well, but it didn't have as much connection to the characters as the first half of the book had.  I just didn't fall in love with them the way I did the first set.  Its still well worth the read, and if you have never read Ruth Ann Nordin before, go and pick up any one of her books.  You'll love them!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyed </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed this book, I read reviews and thought we'll let me try and I just got done reading I just couldn't put down. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> love mail order brides stoies </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a big, big, big fan of Ruth Ann Nordin.  I admire her as a person and her writing is the top of the line.  Once I start reading one of her books, I'm there till the end.  She writes in such a way that just entrances your attention and time flies quickly.  The first story, The Purchased Bride, was the same.  Ada came by train, was told what others thought of her husband-to-be, and still was agreeable to the arrangement.  She saw something in Pete that now other person saw.  There were so many lessons to be learnt thru this book. more that just the main story.  Ada's brother and Pete's brother set here up, and she handled it great.  The second story, She Came By Train, I don't feel was as bad as others have said.  It's not far fetched to believe a governess is hired thru the mail.  The only thing I felt was wild was that Alexander wouldn't tell Opal how he felt.  That was a tat bit frustrating to me.  Over all, I enjoyed the read.  ****I received this book from the author in exchange for a hones review*** </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Two books in one </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was good. I liked that there were two story s in one book.  The first story had a mysteries of sorts.  The next story had two men in love with woman. A nice length also. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> read </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This story is actually two books.  At the end of the first it left me wanting to know more which it didn't  But the end of the first book was continued to the end of the second, so all ended good. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good story </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ruth Ann Nordin  writes about a different time and different ways of thinking. Women have no to few rights. People set their judgements in stone. Based upon limited understanding. And fears. Sometimes it takes a fresh eye to see whats right in front of you. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Two Stories. 4 Stars for the 1st, 2 Stars for the 2nd </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> First Story: &#34;The Purchased Bride&#34; by Ruth Ann Nordin:This author has a really good feel for characters and motivation. The basic story is problematical; (SPOILER ALERT) It's straining credulity to believe that a deaf man's family could remain ignorant of his disability for twenty years, chalking it up to being &#34;slow in the head&#34; instead. That said, the author does such a beautiful job of telling this romance - telling it back and forth from the different points of view of the two main characters - and doing such a lovely, sensitive job with it - that you tend to forgive the sensibility lapses, and the few anachronistic words and remarksSecond Story: &#34;She Came By Train&#34; by Janet Syas Nitsick:Not worth the electrons it's written with. It starts with the classic romance novel setup, governess is hired (by mail order?) to tend to the two children of a lonely, heartsore widower: then it descends into a series of banalities, one after another, snowballing into a mindless jumble of poor character development, vapid dialogue, weak motivation, and anachronistic words, phrases and attitudes... One stupid little thing that irritated me no end - the man from Nebraska says &#34;pretty&#34;, while the man from Virginia says &#34;purdy&#34; and &#34;you sure are the purdiest thing&#34;. Aaaaaaaargh!!! A small thing, I know, but so pointless in that it was the only word the Virginian spoke in &#34;dialect&#34;. Amateurism at its worst.Bottom line: I'll be checking out other stories by Ruth Ann Nordin; I will avoiding everything by Janet Syas Nitsick </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Two women facing the unknown in Nebraska </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bride by Arrangement Anthology by Ruth Ann Nordin and Janet Syas NitsickTwo women leave their homes in Virginia to travel the unknown. What and who will they find in Lincoln, Nebraska? One is to marry a stranger and the other is a governess. One has gone willingly, the other one has not. Two different backgrounds and yet this adventures builds a lasting friendship.The Purchased Bride by Ruth Ann NordinAda Wilcox is not happy. Her brother Sam has sold her to some man. She could be traveling to end up in a brothel somewhere in Nebraska for all she knows. Blessedly, she don't.Pete Kelly is more than anyone thinks him to be. His brother just considers him childlike and unable to run his own life. No one sees how lonely he is.Pete could rival John from Loving Eliza for my heart. Ruth really knows how to make a special hero. Loved this story.**Sexual content within marriageShe Came by Train by Janet Syas NitsickOpal Preston did not want to leave her beloved Virginia. She loved the flowers and trees and just everything. It seemed best to take a governess job to lighten the load on her father. So she left her father, sister and brothers and headed to Lincoln, Nebraska.Alexander Boyer owned a bank in Lincoln, a widower with two children. After the beautiful, but high society, governess comes to their home he wonders about his choice. And why he seems to be whistling and smiling more. Or why he feels the need to have their butler deliver fresh flowers to her room every morning after the handsome traveling minister comes to town.I enjoyed both of these stories. Had to wipe my eyes a wee bit for both of them. Especially when a decision is made that means loving someone is to do what's best for them. Even to the point of letting them go.Published by Parchment & Plume, LLC </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> enjoyable - light reading </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-31-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Likes the handling of the people in this book.good reading, well written.Enjoyed the description of territory and towns in book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Two very endearing stories </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved the two stories included in this book.  It begins and ends in the same place about two different women with two different stories to tell.  The stories are wonderfully thought out and written in a clear manner.  The story moves at good pace and still allows the reader to feel the stories.  My only complaint is that the second story seemed to end too abruptly. An epilogue that would have built upon the ending of the first would have been wonderful.  Perhaps after Opal and Alex had a child and Opal getting to see he  father and family again. That was not resolved. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Loved, loved this book!!! Ruth took a look at a view that today we would not think twice about but would not think about how it effected people way in the past. She did a wonderful job. Well written like you expect from Ruth. The only thing I didn't like was that it was to short. You come to love Ada and Pete and want more. The second part was also good but I didn't get involved with the characters as much. But the end does include more of Ada & Pete. Ruth please more of Ada & Pete!!!!!!!!! Anyone that enjoys Ruth Ann Nordin will fall in love also! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Refreshingly unique ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Although I'm an avid reader of historical romance, I was pleasantly surprised and intrigued by this story line. I was quickly drawn in and couldn't put it down, reading well past my bedtime. I instantly bonded and cried with Ada and was horrified as her future sister-in-law  told about the man she was to marry.  Now I truly know what a page turner is. This is one of the best books I've read in years! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bride by Arrangement </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed reading this story about people who are different still need love too.it was nice to read about 2 different sides of the same story line. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

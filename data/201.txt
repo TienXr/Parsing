@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00006G8IG <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Stellar cast, winning combination... </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie was very well acted by a cast of talented actors and actresses, particularly Angela Bassett in the titular role of Ruby Delacroix.  The story is ultimately a story about searching for freedom--leaving an all-too-familiar place, both figuratively and literally.  This is embodied in Emerald Delacroix (Jurnee Smollett), Ruby's fifteen-year-old daughter who knows and understands that both she and her mother are meant for more than their small town in Louisiana.  The struggle between them is Ruby's initial reluctance to embrace change, while Emerald refuses to settle.  There's also Earl Delacroix (Brian Stokes Mitchell), who coldly rejects his wife and her small-town ways.  Upon further examination, we learn that Earl has left his family because of a need to explore his options outside of their small town (Emerald takes after her father in this regard; in fact, in their last conversation, he tells her that she's "just as good as anybody else; even better than most").  It is Billy Dupre who finally challenges views that Ruby has held close to her heart and gets her to step outside of her comfort zone.  Even though things end tragically for them, it gives Ruby the courage to break free of societal restraints and leave her hometown and do what she wants to do, once and for all.  The movie ends with Ruby and Emerald leaving their hometown behind, free to live their lives the way they see fit--and not how their racist society feels they should. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Use your Brains, not follow your Heart. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-03-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The more thought I put into this movie, the more I'de rather not had seen it.  Nothing is going to come out good when people cheat.  Losing a child would put a strain on any relationship, but apparently they had other issues between them. This man knew that he wife was unstable, but ignored the signs for his own pleasures. Instead, he went after Angela Bassett knowing this affair would not be accepted under any reasonings in that day and age.As stated, this was a time when mixed races were not accepted.  Sure Angela's husband ran out on her and her daughter, and she probably did feel lonely, but why risk danger to your family.  She's still married herself and had a daughter to think of.Even though she did not do this crime, a high price was paid for cheating with a married white man. She and her daughter's lives were turned upside down, because now, they are on the run. I didn't like the ending, which should have been better for them. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The passions beneath the surface. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-29-2002  
+<h2> REVIEW TEXT </h2>
+
+ <p> RUBY'S BUCKET OF BLOOD tells the tale of people caught up in a cycle of unhappiness and how they found what they wanted, if only for a little while.  Set in the segregated sixties in a bayou town, Angela Bassett and Kevin Anderson star as Ruby, the owner of her own juke joint and married to a man who has distanced himself from her, both emotionally and physically.  Her 15-year-old daughter, Emerald, feels she is too good to be a part of her mother's life and the town she stays in.  Kevin's Billy Dupree is a talented white blues singer, married to a woman he loves, but is not in love with, due to the guilt they both feel after the death of their son.  Glenn Plummer also stars as Johnny, the guitarist of the band that performs their regularly.  He is trying to live the  life that makes his family happy, while keeping his desire for someone else under wraps.  It's these complex relationships that propel the movie along, and Angela Bassett is to be commended for turning in a supurb performance of a woman who wants more out of her life than what she feels she is expected to have and nothing more, even if it's with someone who could get her killed.  Recommended for the romantic at heart. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> rubys bucket of blood </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love angela basset she is a brilliant actor I added the movie to my collection but i don't think the plot warrented murder but I am happy with the ending Jurnee Smollet is one beautiful actor </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Beautiful Movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-27-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ruby Delacroix (Angela Bassett) is a hard working mom and wife. She works too much to feed her teenage daughter Emerald (Jurnee Smollett) and her disrespectful husband Earl (Brian Stokes Mitchell). She runs a popular juke point on the Louisiana bayou called the Bucket of Blood. When Earl decides he can't live in the small town, he leaves Ruby and Emerald. Besides dealing with that issue, Ruby has to find another singer when her regular one quits the band. Things start to look up when band leader Johnny Beaugh (Glenn Plummer) brings in white singer Billy Dupree ( Kevin Anderson) to fill in. Resistant at first, Ruby hires him. With his talent and musical voice, Ruby changes her tune about Billy. Billy offers his friendship and comfort, which Ruby so desperately needs. What becomes an issue is Billy's wife Betty (Angelica Torn). Ruby's got too many issues to deal with and wonders if any of it is worth the price of happiness </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Plesantly  Entertaining </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-30-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this movie, it caught me by surprise, I started watching  it one afternoon and had to leave, but caught it on again, and this time I stayed to finish the movie, it was pure cajun style. It had spice to it and some french taste that was exotic, a good story line that you could follow without being totally lost, terrific setting in the true sense of what the cajun country setting could be like if you have never been.  Angela Bassett and the other characters that sang that down home blues was pretty good, I got my husband to even look at it, and he liked it just as well, I give this movies 5 amazing stars to give it a try. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 2 stars b/c it kept me interested enough to finish watching </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-21-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> I thought this movie reeked!  Angela, you can do so much better!!  Probably the best AA actress today.Anyway, this movie was terrible to me.  I couldn't figure out she hooked up w/the white man.  What was the point?  A lot of loose ends.  And why do most movies about interracial relationships have to end w/somebody dying?See it on Showtime or HBO--whichever it is.  Don't buy it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pan Fis </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I consider this movie to be a rare jewel that everyone should see.  It was factual and the actors did a wonderful job.  Kudos to Whoopi for this great film. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Different </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie was set back in the backwoods of an area, where black people made their own bars and had their own fun.  Also the choices that people made they made sure that they did what they had to do.  Also it lets you know that some men don't like their women being to independent. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Romance was Drastically Overlooked </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-15-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> Angela Bassett is my favorite actress. Ruby's Bucket of Blood is entertaining and interesting but too many elements side swap the romance. The romance between Ruby ( Bassett ) and Kevin Anderson ( I can't believe I forgot the character's name ) has great potential but takes the entire movie to get started. Then when it finally gets going the movie is over. The romance didn't build properly. The characters didn't learn enough about one another. There were missing scenes that allowed them to grow. You really need to show that growth when you're doing a romance especially an interracial one. So I was disappointed that we didn't see more Angela and Kevin scenes. I thought the film was supposed to be about Ruby, her husband and being in love with a white man but it turned into jamborees at her club. It's a nice movie to watch for a fun time but the romance element of the film is dead. That's unfortunate because Bassett and Anderson have a lot of chemistry. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ruby's Bucket Of Blood </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-22-2002  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great Cast ~ Kevin Anderson is just so great as the part of Billy~ This is the first time I've seen Kevin Anderson in any movie ~ And he is to die for Handsome~ I'd of liked to hear him "Sing" more in this film~ Boy can he sing? YES!!!The Great Angela Bassett does a wonderful part as Ruby~ Left by her husband with a 15 y.o. beautiful daughter alone to look after Emerald (the Daughter) and run a Bar "Ruby's Bucket of Blood" in the Louisiana Bayou's in the segregated south early 60's era.The chemistry between Kevin and Angela on screen is "Dynamic"~Their relationship is just beginning and beautifully so ~ until it is brought to a tragic ending via Billy's crazed wife~I loved when confronted by Billy's Wife if his feelings for Ruby mattered "he said what passed between the two (Billy and Ruby) did matter". Had things taken a different turn in just a brief moment the Relationship between Ruby and Billy could have been wonderful~ Both starved for love and both finding it together if only for a brief moment in time.If you are looking for the usual "Happy Ending" you won't find it here.I am waiting for the Sound Track to be released which will be a MUST HAVE~I'd also like to see a lot more of "Kevin Anderson in Film"~ He is just Dynamic~Did I mention to die for Handsome? ? ?Buy this "Film" ~ It is a Great Movie! I love it!!!You won't forget Kevin Anderson after seeing this film~ I promise!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Was not what I thought it would be... </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The story line was not what I thought it would be. It was not as exciting as I thought it would be... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ANGELA BASSETT SHINES IN "RUBY'S BUCKET OF BLOOD" </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-25-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> AS USUAL ANGELA BASSETT DELIVERS.  THIS MOVIE IS SOOOOOO GOOD, I'MA BIG FAN OF ANGELA BASSETT AND I CAN TELL YOU THAT YOU WOULD NOT BEDISAPPOINTED IN THIS MOVIE OR ANY MOVIE STARRING ANGELA BASSETT.  A GREATMOVIE TO ADD TO YOUR COLLECTION.  IF YOU LIKE DRAMA , YOU WOULD LOVE THIS MOVIE. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

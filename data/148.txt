@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00GNE0CHI <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-04-2014  
+<h2> review.text </h2>
+
+ <p> As the other review said it's basically a 270X for less, however this card has less problems then the 270X is you plan on using it for mining scrypt coins(which I do when I'm not using my PC). I'm getting 425 kHs a sec per card with a gentle overclock and some tweaking with cgminer for a total 850ish kHs a sec. Considering this card draws only 150-160 watts at load per card it's a screaming deal on the hash rate. Where a 6990 will hash almost the same(depending on oc settings) for about 450-490 watts.Now if I didn't value my sanity I could easily get  470kHs per card if I wanted my cards to sound like a harrier jet taking off. However I haven't done any undervolting yet(which this particular card loves) to reduce the overheating issue. Which I plan to play with Bamt version of Linux and do some undervolting once I get the damn usb drive to mount. In the meantime I'm content with my stable 850ish kHs on Windows 7 without any risers or specialized cooling.Bottom-line, just because you see fancy flagship card such as the R9 290X doesn't mean you should jump on it for mining. They're extremely expensive due to high demand and not exactly the most efficient cards. This version of the 270 used to be $180 until miners started figuring out how severely underrated this card is, which was about a month ago when I bought my pair.Edit 2/09/14: These are the settings I run on the Kalroth version of cgminer I have running on my rig.setx GPU_MAX_ALLOC_PERCENT 100setx GPU_USE_SYNC_OBJECTS 1cgminer --scrypt -o pool -u username -p password --no-submit-stale -I 17 -g 1 --thread-concurrency 14000 --lookup-gap 0 -w 256 --gpu-engine 1050 --gpu-memclock 1450 --gpu-powertune 20 --temp-target 80 --auto-fan </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Using it to for mining and gaming. Severely underrated, 425-470 kHs per card and draws 150-160 watts at load. </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> Increased WEI score for Graphics from 4.4 to 7.9, and World of Warcraft FPS from 10 to 70.  Worked in a PCI Express 2.0 slot even though this is a 3.0 card. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Significant upgrade for a four year old motherboard </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> These GPUs function pretty well for the normal price of $209 but if you are planning anything other than a single GPU for gaming or editing I'd look elsewhere. Crossfire doesn't work well at all on these. Straight out of the box I had to edit my registry to disable ULPS (a power saving feature) on the GPUs just to get crossfire to work.The AMD driver system was pretty garbage and caused a lot of headaches. Despite having a powertune feature in the software, these GPUs will not change their voltage without a BIOS flash. There is no dual BIOS switch so that is risky. Temperatures were terrible in crossfire. Even with 7 fans in my case and an undervolt from 1.206 to 1.100, they easily hit 80c with no overclock. In the end I returned them because they just got too hot for my comfort level, and it just wasn't worth it when they got spotty performance in the few games that supported crossfire.Overall these GPUs were pretty mediocre. They're fine for simple tasks with one GPU, but when you get into crossfire, mining and overclocking these are a huge headache. If you are looking to mine I'd check out another brand or go for the 270x. If you just want a GPU for games spend the extra on a 760 and never look back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Alright GPU with bad support </p>
+
+
+<h2> review.date </h2>
+  02-17-2014  
+<h2> review.text </h2>
+
+ <p> Works great and not too hard on the pocket. I upgraded from on board and it makes a world of difference. Very happy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT CARD! </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> I was looking forward to replace an aging GTX 560Ti. I was a loyal nVidia customer until now that I decided to give a try to AMD/ATi. As a matter of fact, I've been a loyal AMD CPU customer for very long time now (awesome value and stability). Card is solid and quiet, delivering great performance (with noticeable gain over the GTX 560Ti). But, for some reason I can not use the HDMI cable to connect to my diplay (LG 23&#34; 1080p IPS). The image gets shrunk and a black box appears around it, wasting precious screen space and blurring the text on Windows 7 desktop. I tried using GPU scaling to correct the problem as suggested  on the Internet forums with no good results (image over-scaling or under-scaling) and even tried different good HDMI cables.So, I have no native 1080p support with HDMI cable for my display. Nevertheless, I tried an old DVI cable and presto! It works flawlessly!In the light of this, I suppose it's a driver issue (a very known and documented one) on AMD/ATi cards. Poor or glitched drivers has been the single reason that have kept me away from these great cards for so long, and once again I long for nVidia's polished drivers. I hope they correct this on a future driver release or if someone here post a solution that would be very appreciated.On the other hand, Gigabyte's card is very well built and quiet. I have not checked temperatures so I can't express any judgement on this regard. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great card for the money, HDMI issue. </p>
+
+
+<h2> review.date </h2>
+  05-12-2014  
+<h2> review.text </h2>
+
+ <p> I ordered this card to upgrade some aging power hungry cards I've used. This card is great for the price. My only concern is that I was under the assumption that I ordered a Gigabyte R9 270 with 2 six pin power connectors but instead was sent an XFX R9 270 with one 6 pin power connector. Either way this card out performs 2 GTX 560 Ti in SLI on every front. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Correct GPU R9 270, Wrong Brand XFX not Gigabyte </p>
+
+
+<h2> review.date </h2>
+  05-11-2014  
+<h2> review.text </h2>
+
+ <p> Used for mining, won't ever let you down.  You can run it at 100% for months on end and it will keep going.  Does 515 kh/s Scrypt or 260 n-scrypt. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Card </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> I'm using this in a Core2Quad windows 7 PC.  This thing is great so far.  It's playing everything that I've thrown at it, pretty much at the max settings.  Great card, great value.  Not too noisy.  Very happy so far. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Plays everything I've thrown at it so far. </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> I'm getting good frame rates gaming with this card. It fit wells in my case and is of high quality with no AMD driver issues. However, using it in a home theater computer (HTC) can be problematic as it is quite loud. The dual fans spinning at over 2k RPM generate plenty of noise. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good card -- very noisy though at load </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> Bought a used one for $110 to play World of Tanks.  Oh, I had to upgrade my power supply because this beast needs 2x6pin connectors in which my old PS did not have.  Now I got around 25 fps (15 fps on 6570 card that I gave to my brother).  I need to upgrade my 3.4ghz Core 2 duo to FX 6300 6-core AMD cpu in which my brother has (coupled with my old 6570 he got around 70-100 fps on WoT). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent for its price and performance, but need to upgrade CPU </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

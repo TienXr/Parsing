@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0069TYFK2 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-12-2012  
+<h2> review.text </h2>
+
+ <p> I read just about anything but this was so slow and repetitive that I stopped about a 1/3 of the way through the book.  I bought it for the Kindle and Michael Parker was a new author for me.  I just did not like his style </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very slow read </p>
+
+
+<h2> review.date </h2>
+  07-22-2012  
+<h2> review.text </h2>
+
+ <p> The books grabs you from the beginning and the premise is good and a change of pace.  Plenty of twists and turns to keep you reading, but the ending was disappointing and rather pat.  Worth the 99cents I paid and certainly more value than others of its ilk. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting, but disappointing ending </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> This is the kind of story that I truly enjoy reading.  It starts off with action during WWII and picks up many years later with the constant threat of some secret that might harm the Catholic church.  I liked the mix of characters from the old soldiers involved in the WWII incident to the church officials and security to the young adults who get involved.  And, to make it even more interesting, the Mafia!I thought the action was pretty non-stop, the adventure and intrigue unrelenting, and interplay and hint of romance icing on the story.I did find a number of errors that a professional editor would have picked up and in a couple of places, these errors did make reading a little more difficult for I slogged through it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Adventure; Great Characters; Great Ending; Needs Editorial Help! </p>
+
+
+<h2> review.date </h2>
+  12-02-2012  
+<h2> review.text </h2>
+
+ <p> Another of my favorite authors - story lines tend to repeat a little here and there but in all it was a great read with a jazzy ending </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another favorite </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> Excellent book with many twists and turns in the suspenseful plot line which kept me on the edge of my seat with a very satisfactory ending. Thanks to Michael Parker. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great~ </p>
+
+
+<h2> review.date </h2>
+  07-05-2012  
+<h2> review.text </h2>
+
+ <p> Roselli's Gold is a quick, light read--a mildly entertaining story about WWII gold and a lost Vatican secret. The parts of the book that were good reminded me of a cross between Indiana Jones and the Jack Higgins novel "Sheba". The cover art was particularly intriguing and I spotted very few typos, impressive for a self-pubbed book.What I didn't like: there were too many angles to the story for each to be developed sufficiently in the pages allocated. You have the Vatican, Roselli, Roselli's kids, the Mafia, the French--at some point it became mind-numbing. And I was let down by the ending, felt anti-climactic after all that had gone before. There is also a case of incest that, while not explicit, was totally unnecessary. It didn't add anything to the story and just gave me a queasy feeling.I would give the plotting four stars and the characterization two. Michael Parker is an author of some talent, and I'll probably be reading more of him in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light Reading </p>
+
+
+<h2> review.date </h2>
+  04-16-2012  
+<h2> review.text </h2>
+
+ <p> This was a somewhat quasi-historic book that started in 1941 and ended in 1968 or thereabouts and included the oldest Italian family, the Vatican, and the intrusion of a war that affected so many individuals, World War II. But the book was not about war or about the Mafia but about making the right decisions in the face of incredible odds.Also, it touched on responsibility and hope and all that's good.The book wasn't easy to get through though but it was worth reading all the way through.The characters grow on you and even though there were tough times they pulled through and that made the whole book a pleasure to read.I thoroughly recommend this book and specially so if you have any interest in second world war events and the involvement between the vatican and the mafia. It's definitely a different way to look at events that happened during this time.The book appears to have been well researched and well written.Enjoy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A secret revealed that could upend the Vatican </p>
+
+
+<h2> review.date </h2>
+  02-17-2013  
+<h2> review.text </h2>
+
+ <p> I have always wondered what happened to the heroes of the North Africa battles ofWWII. if you like suspense,drama, excitement, and just plain fun reading follow Roselli's actions during and after the war. You will love every page of this story. I have always wanted to say,&#34;it was a book I just couldn't put down until I finished it&#34; Finally I found one. Get Roselli's Gold I bet you won't put it down either! A great piece of work by Mr. Parker. I'll be buying more of his works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An ex Desert Rat's Story </p>
+
+
+<h2> review.date </h2>
+  05-01-2012  
+<h2> review.text </h2>
+
+ <p> I'm not much of a reader, but I read this book in 2 days.  I really enjoyed it.  I enjoyed the pictures the author painted.  The suroundings were vivid in my mind.  There were many portions of the book that I really felt for the characters.  The author helped me get to know them.There were a few odd things that popped up that sidetracked my mind just a moment and pulled me out of the story, but I enjoyed the story enough to step past those things and continue reading.I was fortunate to find this book on a free day, but I recommend it to everyone, even at a normal price.  Very worth my time.  I'll keep my eye on this author and check out their other ebooks as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Enjoyable Book </p>
+
+
+<h2> review.date </h2>
+  10-15-2012  
+<h2> review.text </h2>
+
+ <p> Enjoyed this as a light read. Not the novel of the year, but had a good plot line and interesting characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Entertaining </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

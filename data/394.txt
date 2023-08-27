@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0046LV01C <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-20-2013  
+<h2> review.text </h2>
+
+ <p> Loved this book .... it can be read alone or as the third in the Oregon series by Bonnie Blythe.  I liked all 3 but this was my favorite... if you like travel, you will love the descriptions and the characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mexican adventure, love, faith </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> This is another hit by Bonnie Blythe.  I have really enjoyed this series.  This was book third in the series and I liked it just as much as the other two.  You won't be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Hit </p>
+
+
+<h2> review.date </h2>
+  05-02-2014  
+<h2> review.text </h2>
+
+ <p> Being from Oregon, I had to read this series.  I enjoyed them all and will look for more in the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Series is Great </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> This series is very relatable to everyday life. It's something that everyone who picks up this book to read will either have went through this or known someone who has. I laughed, cried, and would recommend to anyone and everyone! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome message in this series </p>
+
+
+<h2> review.date </h2>
+  05-02-2013  
+<h2> review.text </h2>
+
+ <p> Just finished the 3rd book in the series "Oregon in Love". I just enjoy these novels because the content is wholesome with some good teaching of How God can work in our lives.Miranda is looking for a half sister she didn't know about until just before her mother's death.  This leads her and Spencer all the way to Mexico with no clues of how to find her.  Spencer is very helpful and eventually leads Miranda into a true relationship with the Lord after fnding her sister.  A happy ending with marriage on the way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Milagro for Miranda </p>
+
+
+<h2> review.date </h2>
+  04-04-2014  
+<h2> review.text </h2>
+
+ <p> The action in the story takes place over way too short a time to be believable. The heroine feels justified in committing illegal acts to further her ends, and she's the star of a Christian romance? I found it preposterous that she and the hero would fall in love.  The Christian aspects seemed really forced: she doesn't seem to have much faith, and they're constantly praying for miracles, which BOOM arrive right on schedule. The hero seems to exist to be her human ATM, funding her search for her biological sister, and the pray/miracle seems to make God into some sort of vending machine. Then there were plot holes: how did the villain get a copy of a picture of the heroine that had to have been taken years before she met the villain? Why does the hero so readily believe a stranger who accuses his father of a crime? If the author had had the couple meet in a conventional way (easily done) and have a loving trusting relationship prior to the events of the book, it might have been believable, but the story was like being dropped into the front car of a roller coaster as it's cresting the first hill. You're off and running before you have a chance to say 'Wait a minute, how did THIS happen?' </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flawed </p>
+
+
+<h2> review.date </h2>
+  07-03-2012  
+<h2> review.text </h2>
+
+ <p> Bonnie really has a way with creating realistic characters. Spencer is a guy that loves the Lord, has a great heart and high morals.  He can also be insensitive,judgemental,  and says something stupid to Miranda almost every time he opens his mouth. Gotta love it! Miranda on the other hand is confused about God, is hot tempered, bitter (with some reason), but is vulnerable and compassionate.  Great story. The only thing was it really needs a part 2. You get so engrossed with the characters and their complex situation and then it leaves you wanting to see how things are resolved. Have to say though that Bonnie is becoming my favorite Christian author. I definitely recommend this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyed it </p>
+
+
+<h2> review.date </h2>
+  08-31-2012  
+<h2> review.text </h2>
+
+ <p> Good read and a touching story. This book takes you through a journey of a sister looking for her little sister and the trials to find her and thee love she finds in the man who helps in the search. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Heartwarming Love Story </p>
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> I have been enjoying a new find of wholesome Christian romances and this book is included in that list. This is an excellent read that I recommend . Set in Mexico, the author did a good descriptive job to included the reader. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful read </p>
+
+
+<h2> review.date </h2>
+  09-06-2013  
+<h2> review.text </h2>
+
+ <p> I love this author!  You can be sure that she will use Christian morals and values in all her books. I feel in Love with the characters. I hope she makes another book to continue this story. I would like to see what happens when Miranda finally gets her sister. Would love to see her wedding and life after this book. I highly recommend The Oregon in Love & Cascade Bride Series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful book and author Milagro for Miranda </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

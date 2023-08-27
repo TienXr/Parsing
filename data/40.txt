@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B001FN2PDG <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-21-2010  
+<h2> review.text </h2>
+
+ <p> The M820 has the look and feel of a 'normal' picture frame, only it will display, slide show style, as many pictures as your memory card could possibly hold and it offers some, mostly unneeded but related features such as sound, the ability to play videos and some rudimentary and difficult to use file management capabilities.WHAT YOU GETFor you money, inside the nice cardboard box you will find:- The frame itself with an 8" display at 800x480 resolution- DC adapter- 2 mattes, silver and burgundy- A small cleaning cloth- Kodak EasyShare software on a CD- Manual in English/French/Spanish/Portuguese- One-page Quick StartSETUP AND OPERATIONWithin less than 5 minutes of me opening the box, my frame was already displaying pictures. It's as simple as plugging it in and inserting a memory card or a USB drive in the back.For fine-tuning, the touch border menu system (NEVER TOUCH THE SCREEN) will let you customize your slide shows by selecting:- the time each picture is displayed - from 5 seconds to one hour- the sort order (A-Z, Z-A, newest to oldest or vice-versa)- orientation - portrait or landscape- the source for your pictures - internal memory, or one of the 3 (THREE) external memory portsPhysically, your frame can sit on its stands that rotates 90 degrees to allow for either portrait or landscape or you can use the mounting holes to hang it on a wall. The 2 provided mattes are easy to attach and more can be purchased from Kodak.In addition to displaying pictures and playing videos, the frame can be also used to play music.Besides slide shows, it's possible to display one specific picture by selecting it from a display mode of thumbnails.FEATURESThe most important parameter is, of course, the display and it's a bright, crisp, , fast, 800x480.Kodak has built a lots of features into this frame, some most welcome, others not exactly needed. The most impressive is the frame's ability to accept just about any memory card in existence. There are 3 slots in the back:- SD, MMC, MS, xD- CF, MD- USBIn addition, you can connect to a computer and load the frame's own tiny 128 MB internal memory.Since you can have 'something' in each of the three slots at any given time, you could load this frame with, literally, tens of thousands of pictures if you so desire - slide shows will only look at one port at a time but you can switch any time you want.Not likely to be used much, the frame does allow you to copy files between the various ports or from a camera/computer, you can magnify a picture, rotate it, save slide shows, print a picture and so on.The EasyShare software lets you organize, print, and share your pictures. It's nice that it was in the box but I am not likely to use it - it's available as a free download, by the way.MY RATINGSince all I wanted was a picture frame that displays pictures with bright colors without distorting the original, the M820 fully meets my expectations.I appreciate its ability to take inputs from so many different sources - I currently have an inexpensiveHP 8 GB Class 4 SDHC Flash Memory Card Q6276A-EFwith over 1000 pictures on it, cycling them at a rate of one every 30 seconds. I also like the 'real picture frame' look and feel, with the nice mattes included. I don't have much use for the 'extra' features having to do with file management or music playing but them being there doesn't hurt. The border touch interface is not always as responsive as it could be but, once a slide show is set, the frame is likely to keep working for many days before there's any need of controls so this is not a big demerit.The M820 is an easy 5-star because I am impressed and so is the rest of the family and so are friends who invariably ask me the 2 questions: where I got it from and for how much :). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's all superlatives where it matters </p>
+
+
+<h2> review.date </h2>
+  12-23-2009  
+<h2> review.text </h2>
+
+ <p> I bought this product as a gift for my in-laws from a major retailer (NOT AMAZON WHO HAS ALWAYS BEEN GREAT).  They've had it for a year and I recently tried to load some additional pictures on it and it just quit working.  Tried all the trouble shooting and chatted with them on line to fix it but nothing worked.  Then, even though it was still within the 1 year warranty period they told me they wouldn't honor the warranty because I didn't have the original store receipt.  I have the credit card receipt but not the store receipt.  Bottom line is, it broke within a year and they won't honor the warranty and it cost the same to fix it as to buy a new one.  I will not buy a Kodak product again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Totally Disappointed </p>
+
+
+<h2> review.date </h2>
+  12-25-2008  
+<h2> review.text </h2>
+
+ <p> I got this as a Xmas present today.  I'm a computer expert.  I can't believe how problematic the software is with this frame.The picture quality is actually very good compared to others I've purchased.  I like that it takes multiple types of memory cards and it is a very nice looking frame. However, I couldn't get my computer to see the internal or external memory cards no matter what I tried.  I finally gave up on it and just downloaded the pictures directly to my SD card.  Kodak brags that it has 128MB of internal memory.  Big deal!  You can buy a 2 GB SD card for less than $10 these days.  When will manufactures of electronic stuff quit being so cheap with the internal memory?  I can't use it anyway because I can't access it from my computer.The navigation controls on the outside of the screen is a nice idea, but it is not intuitive to learn.  Once I got the hang of it I was fine, but believe me - this is not how to do human engineering.Now for the bad part.  The software took about 1 hour to install on my very fast computer. Most of the time was downloading the outdated software that came with the CD.  I actually thought it had stalled once or twice.  I don't think I have ever seen software take so long to load.  Once the bloated software was loaded it failed to recognize my computer.  Then it started locking up on me.I spent pretty much the entire afternoon messing with this thing not believing I couldn't get this to work. Surely it can't be this difficult to link to my computer?  I must be doing something wrong? (I thought)  If I was, I couldn't figure it out!  (I updated firmware, uninstalled the software and reinstalled, changed the order of putting in the USB cable, rebooted the computer lots of times, looked at Kodak's website for help - which was useless!)BTW, the box says it comes with a USB cable but it doesn't.  Nice touch Kodak! The very poorly written manual tells you this.  (Maybe Kodak should fix this on their box?)  And...if you are lucky enough to have a double flat male USB cable on hand, (which isn't common at all )it still won't work.  It also has a fire wire connection which I didn't try because I didn't have that cable.Folks - this is bad engineering in my book.  How does Kodak stay in business making products like this?  I understand from others that the previous model was even worse.IMO this is a very poorly designed product. Too bad, it could have been an outstanding one if someone would have taken the time to write a  simple software interface to it. Heck,  I would have been happy just to transfer files directly from my PC to the internal and external memory on the display.I haven't decided if I'm going to keep it yet or not.  I give it two stars because it wasted so much of my time this afternoon and I'm still mad about that. :)KODAK ARE YOU LISTENING?  probably not.......  :( </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible software and ease of use - BEWARE! </p>
+
+
+<h2> review.date </h2>
+  10-05-2010  
+<h2> review.text </h2>
+
+ <p> I was a bit reluctant to buy this frame sight-unseen but it works very well, nice quality overall. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good product </p>
+
+
+<h2> review.date </h2>
+  08-02-2010  
+<h2> review.text </h2>
+
+ <p> The description states that it plays several different formats of video.  But don't be mislead.  If you have the right kind of digital camera, you can move clips to the frame, as long as they aren't edited at all, or even trimmed.  There are no export settings for Quicktime that produce video that will play on your frame.  The only video that will play on your frame is video straight from your camera, and the types of cameras that take video that will play is extremely limited.  I have three different types of digital video cameras and none of them work.  I have a sony cybershot camera, and that video works as long as it's not trimmed.If you want to shoot video that you can trim before using in the frame, you'll also need the KODAK EASYSHARE M580.  Nice they don't tell you that on the box.  Hopefully I've saved you two weeks of messing around if you really need this to work for something important like helping an elderly person with dementia stay somewhat oriented to their life.  Of course, there are no discounts available for this camera.Added 6-16-2011:  So I bought the M580.  Equally disappointing. Returned both.Otherwise, it's a great frame.  Love the quality.  Fairly easy to use if you're patient. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Box Details on Video VERY MISLEADING </p>
+
+
+<h2> review.date </h2>
+  12-20-2008  
+<h2> review.text </h2>
+
+ <p> Just got this for my parents as a xmas gift, and I can say I am very happy with the unit. Setup is easy - turn on, watch the included demo video, and plug in your media (in my case, a USB flash drive) and you're good to go - the unit starts the slide show through your whole set automatically.The "touchscreen" is actually the bottom and right hand borders of the frame, and it's pretty responsive, although it may take a few minutes to get used to. You can play photos, music or video, adjust the transition timing and effects, and change the frame colors to your liking with the included Home Decor Kit.This is more than what I needed so I love it! All I wanted was a nice digital frame to display a good set of photos with varied transition effects and a clear resolution, and this unit does exactly that. Certainly not the sharpness seen in other high-end units, but in terms of value, you cannot go wrong with this purchase. Very much recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great photos, user-friendly </p>
+
+
+<h2> review.date </h2>
+  12-19-2008  
+<h2> review.text </h2>
+
+ <p> I wanted a frame for my parents who are not computer experts. Since they have a easy share camera the two work well together the SD memory it uses is cheap and the picture quality is pretty good. I was worried about buying an off name brand since this will run 24/7, several friends at work have easy share frames that have been running for a long time. The buttons on the frame which make it seem like a touch screen without touching the display screen are very nice and with the white background I can't see any finger prints. All in all a nice frame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Nice </p>
+
+
+<h2> review.date </h2>
+  08-31-2009  
+<h2> review.text </h2>
+
+ <p> I paid $62 for this very nice digital frame. The delivery was not fast and I received only 128 MB SD card but anyway I think it was good deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice digital frame </p>
+
+
+<h2> review.date </h2>
+  05-26-2009  
+<h2> review.text </h2>
+
+ <p> I bought this product a month ago as a gift to my brother in law. So far he is very impressed with the photo frame. The picture is very crisp with good resolution. The software works fine. The touch screen (or I should say touch frame) menu options are very convenient and intuitive, makes it easier to operate. So overall I am very satisfied with this digital frame. I am reserving 5th star for customer service (I hope I don't have to contact them at all!). But otherwise I would surely recommend buying this product. Good value for money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice quality for a competitive price </p>
+
+
+<h2> review.date </h2>
+  04-02-2010  
+<h2> review.text </h2>
+
+ <p> Have bought many refurbished items & again....this frame was equally good. Sent it as a Christmas Present. They loved it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Refurbished Kodak Frame </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00026Z9CQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-19-2008  
+<h2> review.text </h2>
+
+ <p> I have a Logitech Internet Keyboard, and this adapter did not worked.Windows XP recognized that was something in the USB, but could not install any driver or something to make it work. Considering that this adapter is only a connection adapter, without any circuit, there is indeed no sense in having to install a driver.I had to buy another adapter, those ones with connectors for Mouse and Keyboard, as that have a circuit in between. I use only the keyboard connector. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not worked with Logitech Keyboard </p>
+
+
+<h2> review.date </h2>
+  02-26-2013  
+<h2> review.text </h2>
+
+ <p> If you got an old school computer or got non usb ports for a mouse then I would say buy this thing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> got it when it came out </p>
+
+
+<h2> review.date </h2>
+  01-15-2011  
+<h2> review.text </h2>
+
+ <p> Tried to use this on a Logitech Deluxe 250 Keyboard and Logitech M-SBF96 mouseLogitech PSE Optical Wheel Mouse - Black (Pack of 100)(not a 100 of them... just one.), no luck on either of them working. Lights light up on both devices but windows7, RHEL and bios don't pick up the signal. Was just going to throw it away (cost $2 with free prime shipping), but returning it at Amazons expense since they really should just remove this item due to the high failure rate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wont work on Logitech Deluxe 250 Keyboard </p>
+
+
+<h2> review.date </h2>
+  09-01-2010  
+<h2> review.text </h2>
+
+ <p> I was hoping this is a generic PS/2 adapter for keyboards, but no such luck. The product description claims it's for logitech devices, and I have a PS/2 keyboard I bought at a thrift store that isn't logitech... and it doesn't work with it. Oh well - just have to get a cheap USB keyboard after all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> this is *not* a generic adapter - believe the description! </p>
+
+
+<h2> review.date </h2>
+  03-26-2006  
+<h2> review.text </h2>
+
+ <p> Bought one of these fellers for my laptop to use one of the old IBM  'clicky' type keyboards; no trouble using the keyboard with any computer with a ps/2 connector, but the USB converter is not recoginzed with the Dell. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Confirmed - No go for Dell's </p>
+
+
+<h2> review.date </h2>
+  10-30-2010  
+<h2> review.text </h2>
+
+ <p> the device is good to have but though it did not work on my machine i would still have it on hand anyway. would recommend it to anyone who has an older machine an wants to use the newer usb devices.l </p>
+
+
+<h2> review.summary </h2>
+
+ <p> handy </p>
+
+
+<h2> review.date </h2>
+  03-26-2010  
+<h2> review.text </h2>
+
+ <p> This adapter did not work with my DELL keyboard... I was shocked.  Not sure how they can make it custom, but they did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did not work for DELL keyboard... </p>
+
+
+<h2> review.date </h2>
+  09-04-2006  
+<h2> review.text </h2>
+
+ <p> Same as above, will not work with Dell. Considering Dell's share of the computer market, don't you think Amazon ought to tell us this, even if the manufacturer and the retail store don't? Why doesn't Amazon check these customer ratings and refuse to sell products which get 1 or 2 stars across the board??? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> simply doesn't work </p>
+
+
+<h2> review.date </h2>
+  11-08-2006  
+<h2> review.text </h2>
+
+ <p> I hooked this thing up to my dell 1705 laptop tonight so I could use my nice old keyboard on it.  It never worked.  Went to amazon and read the comments - seems alot of people have had the same problem.  Aparently laptops are not the "normal" pc's that you might make from scratch and have "custom" stuff in them from Dell, Compaq, HP, Gateway, Apple, IBM, Lenovo, among others...It DOES NOT WORK - DO NOT WASTE YOUR MONEY - TELL AMAZON TO DITCH THIS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I wish we could give zero stars... </p>
+
+
+<h2> review.date </h2>
+  11-11-2009  
+<h2> review.text </h2>
+
+ <p> I ordered this device hoping to connect one of my existing PS/2 keyboards to my USB-only laptop.  I'm not a neophyte, but unless one knows exactly what "passive" indicates in this context it is impossible to infer the impotence of the product.  Spending the four dollars isn't the worst - that's reserved for knowing I should've just driven to the corner superstore and bought a new USB keyboard instead of waiting for this to ship.  FAILURE, Amazon.com. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works, but only for keyboards and mice that ALREADY come with them. </p>
+
+
+<h2> review.date </h2>
+  01-15-2011  
+<h2> review.text </h2>
+
+ <p> I had a old custom built arcade cabinet that ran a PC for Mame. I upgraded the computer and the new computer has no PS2 ports on it which was vital for the keyboard interface to the control panel. It was a generic keyboard interface I bought many years ago from [...]. I bought this hoping to not rebuild the keyboard interface and plugged it in and it works great!!!Now the next step is try and get my com port arcade spinner interface to USB, but that is a different story. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great!!! </p>
+
+
+<h2> review.date </h2>
+  02-08-2011  
+<h2> review.text </h2>
+
+ <p> I usually always read the reviews...but didnt for this..my mistake..total POS.Why would amazon even sell this.  I should return it but for $200 Im not going to waste my time or Amazons time...Amazon is good to me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Should have read review </p>
+
+
+<h2> review.date </h2>
+  05-27-2011  
+<h2> review.text </h2>
+
+ <p> Didn't work for me on a logitech mouse. Tried it in several different ports. Computer never recognized i even plugged anything in to any usb port. I bought another dual adapter with short cables on it, a little bigger and bulkier, plugged that same mouse into it and it into the same usb port and instantly that combination worked, so it is not my mouse or usb port, it was this green adapter.Got it to at sort of work on another mouse but only by holding it at a slight angle once plugged in to usb port. Then it malfunctioned again.Not reliable as it is poorly constructed, if you get it to work it is a random event.Do not buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Didn't work </p>
+
+
+<h2> review.date </h2>
+  12-24-2010  
+<h2> review.text </h2>
+
+ <p> Adapter has not worked with any computer/keyboard/mouse combination I have tried. Not a fault of the adapter, it is electrically sound but is a passive device, not active, so it does no communication conversion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good luck </p>
+
+
+<h2> review.date </h2>
+  01-12-2007  
+<h2> review.text </h2>
+
+ <p> This item only works with Logitech brand keyboards.  From the reviews seems like the buyers have not done the proper research and Amazon description does not state that either.So, unless you have a Logitech brand keyboard this item will not work for you.Hope this helps those that are still looking </p>
+
+
+<h2> review.summary </h2>
+
+ <p> *********  READ THIS ****************** </p>
+
+
+<h2> review.date </h2>
+  12-29-2008  
+<h2> review.text </h2>
+
+ <p> all this thing does is reposition the connection so its compatible with the usb slot on your pc, it does not actively change the signal to make it usb compatible. so it will only work with mice n keyboards that are set up to be used with adapters already -- this usually isnt the case with the devices most people will want this for. you guys want to look for converters, not adapters. for success, id stick with the ones that get high marks in the user reviews.good luck! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> this is a passive adapter, not a converter (which is why it isnt working for many) </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> Doesn't rust doesn't bust and have been in service for quit some time. It was a good investment for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked Great </p>
+
+
+<h2> review.date </h2>
+  02-07-2010  
+<h2> review.text </h2>
+
+ <p> Does as advertised. Used for several years with no difficulties. Would buy again if needed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for older keyboards on new computers that neglect to include the PS/2 port </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

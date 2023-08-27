@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00BMMPPNW <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> After a long search for a decent sounding blue tooth speaker I feel I have finally found one I like. I have tried over a dozen different brands and now have four speakers and only use this one except for the one I use when swimming since it's waterproof. I've tried the Sony, Bose, and purchased the Jambox among others and this is the only one that I found the combination of openness and enough bass to create a sound that I really enjoy. It can be driven quite loud without distortion and has a terrific build quality. When I first tried to use it I didn't know about the magnetic cover and thought that it sounded muffled which in effect it really was. When I opened the magnetic cover I was extremely pleased with the sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> finally found a bluetooth speaker I liked </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> worth buying it , music is great and sound is good. cheaper then bose as well </p>
+
+
+<h2> review.summary </h2>
+
+ <p> music is great and sound is good </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> Didn't like this at all. received a used one - open box - but still not happy with the sound. Metallic sound and lots of small sounds from bluetooth disturbances. Read a lot of reviews now after I returned it and apparently it is a common problem with this speaker. Bought BOSE from Amazon instead, the mini speaker outrageusely good. Buy it instead if you don't need NFC.I did and I am VERY happy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sound thin and lots of noice </p>
+
+
+<h2> review.date </h2>
+  05-03-2013  
+<h2> review.text </h2>
+
+ <p> I have been keeping tabs on this device since it was announced at CES 2013. When I saw it on Amazon, I got it as soon as I could. I had been in the looking for a portable Bluetooth type speaker since the holidays 2012. I had narrowed it down to the Jawbone Big Jambox or the Bose Soundlink. When I was about to make a purchase, this Samsung speaker was announced so I decided to wait. I am so glad I waited! The sound is rich and full. It works great with my tablet and my phone. However with my phone, the same tracks sound better thanks to the built in aptX support. I was surprised at how crisp the sound was as well. Bass is good even without the bass boost on. Quite honestly, I can't tell a difference with or without it. Not the the bass doesn't work, but on regular it has deep and full sound already. The volume is sufficient to fill a room or apartment. It works great for a small outdoor patio as well. It won't blast sound for an outdoor backyard party, but if that's your purpose, you probably want something more powerful than any portable speaker of this type can provide. Pairing is simple via NFC. Just hold your phone up to it and it pairs automatically. Bluetooth pairing for non NFC devices is fairly simple as well. The only down side is that you can only pair one device at a time with this speaker. The only other downside is that this speaker does not allow you to talk through it for calls. However the Bose Soundlink does not allow this either. Still more than worth it for the better sound quality with the aptX support. Great that it has a USB phone charging port on the back. Allows for full functional control without awkward cords on the front or side. Also great that it comes with a kickstand and cover. The cover is simple to operate. At first I was confused on how to remove the cover, but the bottom slides to one side to "unlock" the attached cover. Great speaker for anyone in the looking. Very satisfied with this purchase. I also think it's worth noting that while I was a bit suspect of sound quality at first, this speaker delivers. The only reviews I've seen online were what I call "drive by" reviews from CES. Those reviews were from the show floor of CES and not really in a lab testing area or real world environment. Glad that I was not disappointed. I am actually surprised by the sound quality and ease of use of this product.Update: I recently took this on a 4 day trip with me and was able to use it in the hotel room quite often. It provided great sound that I could hear throughout my suite. Don't let the small size fool you, this speaker provides good quality sound and is great to relax with at the end of a day. Or great to jam tunes while getting ready in the morning. No real distortion at high volumes. However turning it all the way up other than to test it, is really not necessary. It can fill a room with only about 1/3-1/2 volume. Again, very pleased with this device and purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Device </p>
+
+
+<h2> review.date </h2>
+  11-26-2013  
+<h2> review.text </h2>
+
+ <p> Great sound and works great with any phone. Easy to tote around. Battery last a long time, well worth the cost. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great portable speaker </p>
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> Samsung did a very good job. The design of this speaker is excellent with very nice tuned passive bass radiator. The results is close to magic for a speaker system of this size. I have compared it with the Bose Soundlink II and Bose Soundlink Mini and honestly this is a better performance speaker in all the sound spectrum, and surprising cheaper. What it is important to know is that this is not a speaker for high volumen reproduction, nevertheless it performs extremely well for backyard or pool easy listen. The size is amazing and not bigger than a book. The sound quality also benefit because the use aptX coding over the bluetooth link. The NFC woks very well with my samsung Galaxy S4 you just touch the speaker with your device and go. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent speaker </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> Just received mine today and I really enjoy it.  I have purchased this for my wife a Christmas gift and I'm really going to miss having it in my office.  The sound is clear and the it has decent base.  I am by no means a audio expert but I am very pleased with this purchase, my second choice was the small bose system.Update - I have had this unit for over a month and I still like it a lot.  The battery life is good, and the sound is crisp and clear for my purposes.I do have a bose speaker as well, and it is not quite as good as that unit, but substantially less expensive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Really Like it - </p>
+
+
+<h2> review.date </h2>
+  04-08-2014  
+<h2> review.text </h2>
+
+ <p> I am really impressed with this speaker.After topping off the battery, I paired it first using the Near Field Communications (NFC) feature with my Samsung smart phone (where NFC is called "tap+send").  I didn't have to power up the speaker.  I activated NFC on the phone, tapped it to the side of the speaker, and accepted the pairing on the phone - voila! - the speaker turned itself on and I had instant Hi-Fidelity sound since I had already been playing music on my smart phone.  After experimenting with it for awhile I was absolutely impressed.I decided to try apt-X.  My phone has NFC but not apt-X and one of my computers has apt-X but not NFC.  This speaker is my first apt-X-capable receiver.  I disconnected from the phone and manually paired and connected the computer - voila! - I had an apt-X connection,  You'll like apt-X.  After experimenting with it for awhile again I was even more impressed.The sound is incredible whether on A2DP or A2DP with apt-X.  It is perfect whether at low, medium, or high volumes.  Speaking of high volume, I measured 90+ dB at 1 meter, with no distortion, on a pretty taxing track.  I prefer the bass boost on but it is nice with the bass boost off, too.I love the sound quality for music, videos, movies, radio, or television, whether from one of my smart phones or one of my computers.  It is like having a small soundbar with big-soundbar sound."Rechargeable battery plays up to twelve hours"?  I get over twice that.  Recharge time is just a few hours.  (I have gone through three or four recharge cycles.)The controls are intuitive and work flawlessly.Exterior design and construction are top-notch.Samsung seems to have done everything right. Everything.JimUpdate April 21, 2014I wanted to get a better feel for rechargeable battery play time per charge and for recharge time.  Quite frankly, it ran for so many hours over so many days that I kept losing track.  I needed to log it.I finished a battery test today and the speaker was going strong after 32.5 aggregate operating hours of intermittent operation on Bluetooth at intermediate (default start) power to full power.  Probably 90%+ of the time at full power.I plugged it in and it indicated fully recharged after another hour or two.Wow!JimUpdate May 11, 2014I performed another battery check over a few more days.  30.0 hours.  Again probably 90%+ of the time at full power.Jim </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Samsung seems to have done everything right. Everything. </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> It did not pair with MAC computer. Quality was mediocre. I had to return it as i was not completely sold. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blue tooth speaker </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> I was surprised at the sound quality for a unit like this. Much better than most other units I have listened to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing sound quality </p>
+
+
+<h2> review.date </h2>
+  12-20-2013  
+<h2> review.text </h2>
+
+ <p> Power cable falls out by itself...had to tape it in place. Sound is good and receives from Samsung Smart TV okay. Unnecessary packaging and the removable speaker cover seems to offer no benefit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sound, poor design </p>
+
+
+<h2> review.date </h2>
+  06-06-2013  
+<h2> review.text </h2>
+
+ <p> If you asked me which portable speaker is best, until now i would have let you decide between Bose Soundlink, Big Jambox or TDK A33. But after having heard the Samsung DA-F60 recently, i would definitely recommend this over all the others.Sizewise the Samsung is nearly identical to the Bose Soundlink. Also weight is similar. While the Big Jambox is considerably bigger, the TDK A33 is a bit smaller.The sound coming out of the Samsung DA-F60 is really rich, full and brillant. Unlike the Bose, which suffers a lot in treble response when not positioned well (it sounds best on-axis, but listen to it from a higher position or from the sides and it will sound dull and muffled) the Samsung doesn't have this directional sound, it has also overall a clearer treble to begin with.Regarding bass response, Bose is a bit stronger, but the bass on the Soundlink can sometimes already sound overpowering, depending on music, positioning against a wall etc. the Samsung seems exactly spot on. There is a Bassboost-Button, but to tell the truth I hardly heard any difference between on or off.Vocals sound fuller on the Bose, they sound a bit thin on the Samsung, but this is nitpicking and overall there is nothing to really complain about soundwise. Only at high volumes the sound starts to suffer, but neither the Bose sounds really good at highest volume levels. The Samsung vibrates though with stronger bass notes. This could be annyoing sometimes as it can make nearby objects vibrate around, depending on where it is placed.Featurewise the Samsung also supports Apt-X to have the best streaming quality possible, and it has NFC for quick pairing, if your phone supports this. And above all it has a USB-Port for charging other device, although I haven't tried this yet.If i didn't already own the Bose Soundlink (I had it from the first day it became available nearly 2 years ago), I would definitely consider the Samsung. It is slightly cheaper, has a more neutral and elegant look (the Bose just looks too retro for my taste), and it has more and better features. I couldn't say which one sounds better, as both have their own sound signature. If you like treble and always thought the Bose sounded too muffled, I would take a look at the Samsung. If you like the deepest and strongest bass from the smallest form factor, i would probably go for the Bose.Ps. 2 days ago the new Bose Soundlink Mini was announced. This speaker could turn around everything written here as it is considerably smaller than every other speaker mentioned here (it is slightly bigger than the normal Jambox) but according to most people who already heard it, it should sound much bigger than it is. Bass response should be nearly equal to the normal Soundlink. As it is even cheaper, I would definitely also consider this if real portability is your main goal! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best portable speakers (now) </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> Original comments:This is a nice little unit that has great sound. It is a little tricky to connect to the first time with each appliance (I use it on 2 iPads, 2 iPhones, and my MacBook Pro), since you have to remember to push the function until in blinks. After the first time it connects well, and so far I see no problem with battery life.My wife complained that it put her phone calls on the speaker, and shouldn't, but I don't know if there is a way to turn that off.EDIT after a few weeks of use:While the sound is good when working, it cuts out fairly consistently as if it was a poorly recorded disc, although that is not the case. I have turned off other nearby bluetooth devices, but it continues. Works better 12 inches away than across the room (6 ft).The battery light is only lit when plugged in, so it is hard to know how much battery is left. I'm also worried because they say not to overcharge the battery, and it is easy to control the first charge, but after that, it is run for a while, charge until who knows? I plug it in to charge and forget it.You also frequently have to go into settings on the ipad  or iphone and push the pair button on it to connect. It does not automatically remember the pairing as my car does.EDIT AFTER 2 MONTHSEach time I use it my rating goes down. Deep base tones  are flat, bams. Now I'm looking for troubleshooting instructions since it refuses to connect to any device. It shows up, but comes will not connect.EDIT AFTER 4 MONTHSWhat a disappointment. I figured out that to go back to a different paired device you have to delete the original pairing, but now the charger will not put out more than 5 volts of the 14 it needs to charge. The charging indicator is so bad that you really don't know much about what it is doing, having to keep pushing the button to see the red and finally figuring out it won't charge.So now I have a big paperweight. If this is any indication of how Samsung electronics work, I'm glad I've never bought their phones.The manual gives contacts for 31 countries, but not the US or where I've taken it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JUNK My worst purchase ever </p>
+
+
+<h2> review.date </h2>
+  11-27-2013  
+<h2> review.text </h2>
+
+ <p> The reviewers giving this 5 Stars are lifted straight out of other promoted online reviews word for word, even from supposed verified purchasers.  Scam alert! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't believe the reviews.  Most reviews are fraudulently lifted from other online reviews! </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> [UPDATE]Ok. So I figured out why I was getting horrible sound and originally gave it 1 star, when everyone else liked it.I feed dumb, but hey, this is the design Samsung came up with.1. You have to remove the black cloth speaker cover when playing. Doh. Yes. But its not indicated anywhere. Much like how I setup a Panasonic Viera Plasma HDTV and we couldn't figure out why the speakers sounded so bad, and was vibrating all the bass, when we found later that the back bottom rear of the Viera, where the speakers are, are covered by the clear plastic, much like when you unbox a new Apple product, or any product these days. But no sticker on the front of the HDTV telling you to remove before use so we didn't even know it was there.2. Needed to press the 3rd button at the bottom, for enhanced bass.3. Tried the Poweramp trial app from the Play store as someone suggested, but I didn't see any benefit to it. The volume dial was weaker and sound was poorer than just playing music from the Google Play Music default app in the Nexus 7 (2013).I still don't like the design quirks, so its not for me, but I can recommend it for those who don't mind a black cloth cover flapping around in the wind when you use the Samsung.Didn't keep it long enough to know battery life for both the Samsung and the Nexus 7 when playing music constantly.I still prefer the now discontinued Pioneer SMA4 and SMA3 (smaller, with battery and waterproof) although they are much heftier and not as portable as this Samsung.I just played the free songs currently available from Google Play to do my evaluation, and one MP3 (Scott Bradlee & Postmodern Jukebox - We Can't Stop - Bebop)The free songs are:Stone Temple Pilots - Thank YouTaylor Swift - RedEnya - Orinoco FlowBruno Mars - Locked Out Of HeavenRihanna - StayGreen Day - Good RiddanceChristina Aguilera - Hunger Games - We Remainand about a dozen others.[Original Review]I bought 5 wireless speakers to try out, and so far this is the worst sounding.Even worse than the mono, Bem that I also tried.I'll update if I find I'm doing something wrong.Using it with Nexus 7 tablet, bluetooth, playing music from Google Play store and one MP3.All sound horrid.Bluetooth pairing was also not intuitive.Instruction sheet is only a few pages, with unclear instructions and the LED light icons are all hidden behind the cloth cover, so you have to figure that out first, and remove the cover. Doh. I know. But I've never seen a product designed like this.And the buttons are all odd. A cutout letter F. A speaker with a slash, that doesn't look like it. No power light on the power button, although it looks like it would light up. And then a Z logo square on the other end, that looks like a button, so you press that to see what happens.Finally, the volume dial? You try to spin it around, and then you find out that you push it in and it pops out. But its not knurled and slippery finish, and it keeps spinning, so you don't really know when you've reached maximum volume. Ugh.Too much weirdness for me in design.No thanks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> All bass, no treble? Am I doing something wrong? Defective tweeter? </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

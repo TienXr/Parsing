@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0009WRUZ2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Impressive. Great for Movies and Music. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-02-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am thoroughly impressed with the range and depth of this sub-woofer. I am not a "shake the walls"(even though this subwoofer is fully capable of doing so) kind of guy, but I do like a strong solid base when listening to my music. I played with the settings on my reciever and sub-woofer for the better part of an hour trying to find the sound I liked the most. It blew me away when I finally sat back and relaxed to listen to my music. I have always been apprehensive about buying subwoofers because 95% percent of the reviews I have read have to do with movies and not music. The other 5% usually say that "so and so subwoofer" is good with movies but not music. This is amazing with both. I am very happy with this purchase. You really can't go wrong with the price.As for a sub-woofer interconnect, you will have to buy it separately because the subwoofer does not come with one. I bought the "Monster Cable THXI100-SW16NF Thx Certified Sub Woofer Interconnect". It is long and decently priced(THX certified to boot).Note: (Read the Instructions that come with the Sub-woofer) Instructions state that the subwoofer should NOT be plugged into the accessory type AC outlets on the rear of your reciever. Also, there is a break-in period(as with all speakers) that I strongly suggest you adhere to if you want your subwoofer to last longer and produce a consistent quality sound. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Price Performance Ratio - 5/5  Just Performance 4/5 </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-02-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I wont waste your time reiterating everything written below but Ill mention some details that were glazed over.There are MANY MANY MANY types of subs (even HT subs) I have 2 subs in my HT room costing in the multiple thousands, I custom made them myself for my specific application.I have a ported sub (ported at 24Hz) which is crossover limited to 20-51hz, and a sealed 15 inch sub running 800 RMS watts that takes care of 50-78 hz.What the above setup renders me is lots of great thunder and explosive bass, but also EXTREMELY tight bass with gunfire and music scenes in movies like Matrix (gunfire) and Ray (music).Now enter the P4000, I needed a sub for my dads HT room and I picked up one of these.  For the price as people have stated it is amazing, I did a frequency sweep and it came down to 25Hz that's an amazing low frequency response to get.As we went up the frequency I cut it off at 85 hz even at that frequency it was getting too boomy for my taste but for most since your satellites or bookshelves will not play below 80 hz you need something to get up to that range.So my recommendation is to get a set of bookshelf speakers that will play down to at least 80 hz, and then have this P4000 cover 25-80, don't go above 80 your just losing SQ after that.For the price though it is amazing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Sub Great Price!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-25-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Once you hear and see this sub you will not believe that it cost less than $200. I have heard and researched subs that cost 2 or 3 times the price of the ASP 4000 and I am not convinced that more money equals better sound. In both movie and music applications this sub sounds absolutely great. The low pass filter, front volume control, high level inputs, etc. Not what you'd expect at this price. Highly recommended sub! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Athena stands for POWER--High Quality Build </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very well built. Due to down fireing sub woofer  you can put this anywhere since the low end is non directional. You can't tell where it is coming from in the room. It goes with any set of speakers. With it set just to three the thing pumps out the lowest sounds. My wife thought we were having an earthquake one evening when it was this on a television program. The signal to noise ratio is excillent and silent at idle.A++++++++++++ </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Deep powerful bass </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-28-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this subwoofer and I am very difficult to please.  I spent many months testing out various subs and this one topped the list.  This sub delivers rich, full-bodied bass suitable for action movies, rock, hip hop.  Well worth every penny. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-04-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sounds great, have it in the front of the room and then another in the rear, a lot of factors play a role in how well it sounds such as the reciever and LFE input.  My only complaint is if you want to run mulitple woofers it doesnt have a LFE in and LFE out.  I've seen this feature on cheaper subwoofers.  Looks nice, sounds mean. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Earthquake in my living room!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> This sub is nice nice nice!I didn't expect $150 can go so far with this sub.  It literally rocks my room.  Very powerful.  I fit it with all athena speakers ws-60 for LCR and then 2 surrounds using ws-15.  I like my whole setup very much.  But ended up costing me 1500 for the whole set.  Was thinking of going for around 1000 or less only :(  OH well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Blows My Old Sub Completely Out of the Water! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-08-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I built my own subwoofer in college using a Cerwin-Vega 12" driver.  It is massive and requires an amplifier to power it (a passive sub).  I've been pretty happy with it for almost 15 years, but I always wondered what a good sub would sound like in comparison.  (I'd tried cheaper subs from Sony and Yamaha and they didn't sound as good as mine.)  When I saw the Athena AS-P4000 on sale, I had to try it.  And let me just say that I should keep my day job.  This thing makes my old sub sound like it's not even turned on!  And that is with the volume on the new sub turned to 3 (out of 10).  It is really amazing.  I'm waiting until it's "broken in" to start tweaking levels and calibrating it with the rest of my home theater system, but at this point, I'm thoroughly impressed.  I'm also very satisfied with the quality of the materials and the workmanship.  It feels very solid and well-built.  A fine sub in my book! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Performance vs. Price = Top Notch </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I always find it interesting when I read reviews of products on Amazon that are so vastly different from one another.  It makes it difficult to figure out who's right and who's wrong, or why there is such a difference of opinion on a specific product.  I've read all the reviews here and there are more similarities among the reviews than contradictions.  So, let me add to the reviews, and as a reader, you can make your own assessment, based on the frequency of user's feedback on these points.1.  The quality of the build of the subwoofer is very, very good.  Looks a lot better in real life than in the picture. For instance, the volume knob on the front of the subwoofer "feels" expensive.  Nice glide to it, very stable.  The finish is good with a lot of attention to detail in the suspension legs, the corner work, the back panel, etc.  It's actually attractive!2.  The sound quality is also extremely good.  I'm not into the "thump" of a subwoofer for the physical effect only, it has to reproduce low frequencies with a lot of nuance to compliment music.  It's a showoff with 5.1 DVD soundtracks, but it's actually the first subwoofer that makes my music sound better.  To be fair, I spent a lot of time tweaking all the volume and crossover levels, but I have other subs that are only suited for movie soundtracks.  And they cost 2 to 3 times as much.3.  It did take a while to set it up properly with my 5.1 receiver.  I had to tweak the LFE level and the sub level on the receiver, and the crossover and volume control of the subwoofer itself.  But once set(it took me close to an hour), you have an impressive sound for both movies and music.  Incorrect settings can really produce unflattering effects.  When I first connected it and turned it on, I was terrified that I had made a bad purchase.  An hour later, I was patting myself on the back.4.  Don't let my subject line fool you.  You aren't going to be giving up a lot of performance for the price.  It's a great buy, with great performance.  I have a Polk sub that cost more than double what I paid for this sub, and while good, it isn't ALL that much better than this sub.  In addition, this sub sports a very industrial high tech look, which is a plus for folks who care about their room esthetics.5.  If you are interested in buying something that is a "quality" product, but have a self imposed spending limit, this is a very smart buy.  You'll get the best of both worlds.  You'll get a great performing speaker for a very reasonable (and downright cheap!!!) price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Terrific sub -- if you get it at the right price </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-23-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got this sub to handle the low end for a stereo pair of bookshelf speakers from SVS (the very good SBS-01). I'm using the speakers in my office, so it's not a critical listening environment; I just wanted decent sound. Still, I'm very impressed with the Athena sub. Even though it's only got a 10" speaker, it delivers an amazing amount of clean, deep bass. The built-in amplifier is very powerful; I'm using the sub on a hard wooden parquet floor, and I only have the amp's volume control turned up to around 2 (out of 10). That hard floor can also make the bass a bit overpowering on occasion. I'm going to try putting a bit of carpet under the sub and seeing how that affects the sound.At the time I bought the sub, Amazon carried it themselves and offered an excellent price, considerably lower than list. At the price I bought it, I would certainly purchase it again. At list price, I would shop harder and look at some of the alternatives, though you may still end up with the Athena. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00908IFAU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> do not tilt </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Three Stars </p>
+
+
+<h2> review.date </h2>
+  12-16-2013  
+<h2> review.text </h2>
+
+ <p> Easy to assemble and break down. I only wish it came with a stand. Still, quite good for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for the price </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> Small easy set up and break down great for in and outdoor perfect for the cowboy 150s strobes [...] cover photo used this box and a cowboy 150 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> They get it done fast! </p>
+
+
+<h2> review.date </h2>
+  03-22-2014  
+<h2> review.text </h2>
+
+ <p> Received one as a gift.  The Octogon SB, does provide for a nice soft light without the spill of a shoot through umbrella.  As other have mentioned, there is limited movement (i.e it is difficult to angle at all), but for standard portraits, it works well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good deal for soft light </p>
+
+
+<h2> review.date </h2>
+  05-02-2013  
+<h2> review.text </h2>
+
+ <p> Was looking for something to create some soft light and this fit the bill nicely.. It's def not a Wescott.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good for the price </p>
+
+
+<h2> review.date </h2>
+  01-25-2013  
+<h2> review.text </h2>
+
+ <p> Works great but hard to tilt downwards because the stand is actually inside.  At most, you can only have it horizontal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> I like the soft box except you cannot tilt them back and forth because they are completely covered, other than that they work! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice soft box </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> Only thing I can ask for is instructions. Please provide those. It's confusing. Other than that i love this thing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  10-17-2013  
+<h2> review.text </h2>
+
+ <p> Just got this and put an sb800 camera strobe in it, set to 1/4 power.  At 400 ISO I got a reading of F5.6 at about six feet indoors.  I expect to get about F4 outdoors, F5.6 at 800 ISO...that's with a camera strobe only.... I then used the softbox for an outdoors family portrait last weekend and the results were great.  I used a Lumedyne portable strobe and everything fit nicely inside the box.  It's pretty well made considering the price.  I'm amazed that I can get this quality for $20.00.  I've paid over $100 for Wescott brand umbrella-mount boxes that aren't as nicely shaped. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price </p>
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> I have used this for several shoots.  It's compact and sets up in a decent amount of time.  If you want faster setup, you pay exponentially more so it's up to your pocket book if something faster is required.  Results are great: soft light on your subject and exactly what you expect if you use it right. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great results, a bit of a pain to set up, but well-worth the money. </p>
+
+
+<h2> review.date </h2>
+  05-16-2013  
+<h2> review.text </h2>
+
+ <p> This Off Camera Photography Photo Studio Umbrella is really good, I might get more of this.  The only bad thing I found is the zipper won't let the umbrella face down but I think that is not an issue because I can ensamble differnet and problem solve ;-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Off Camera Photography Photo Studio Umbrella </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> I've taken this to several shoots and it's holding strong. My only gripe is the bag it comes in. Once broken down, the bag seems a bit small for both the umbrella and the white material. Other than that it's a winner </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great softbox </p>
+
+
+<h2> review.date </h2>
+  10-08-2012  
+<h2> review.text </h2>
+
+ <p> Does a nice job with diffusing light. Good size for 3/4 length shots. Unfortunately it does not swivel so you won't be able to place it above your subject and angle down. Also, the ribs are not very strong. I dropped it and two of the ribs bent. I was able to bend them back into place and all is good now. It obviously is not high-end but if you take care of it (and find a way to angle it) it does just as good a job as the high-end softboxes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Photos look nice and soft </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> Nice Octogon Softbox, I paid less than $40 bucks so I got what I expected. I use it when Im out in the field and it does what I need it to do. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK I guess </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000WXBY7I <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-24-2012  
+<h2> review.text </h2>
+
+ <p> I wanted to use GLS 12 g speaker wire this time and it didn't squeeze in the speaker hole without losing some strands..found these as a solution..they work great...they do hang down but i think they are supposed to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great for 12 gauge that doesn't fit in the speaker hole </p>
+
+
+<h2> review.date </h2>
+  12-15-2011  
+<h2> review.text </h2>
+
+ <p> I have used these for years for my speakers. They come in two flavors. These are for speakers that don't have plug connections but rather have those little push button things that grab the bare wire. THe other type fit into the plug connectors (I've had both type of speakers in the past). To attach these to the wire just strip the wire and shove into connector. When you screw it down it mashes the wire to hold and make a good connection. Then you just pop in and out of speakers without any frayed ends or short circuits. I love em. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Work great for quick speaker connections </p>
+
+
+<h2> review.date </h2>
+  01-19-2014  
+<h2> review.text </h2>
+
+ <p> Great product and a great price compared to the electronics stores. Cant beat the price...Ordered 3 more sets for my system in the Den. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Speaker Connectors </p>
+
+
+<h2> review.date </h2>
+  04-24-2012  
+<h2> review.text </h2>
+
+ <p> No more fumbling trying to thread a wire into the back of my receiver speaker input ports.  Quick adapter, color coded red and black.  Easy to push in and remove.  Tight connection.  Great sound.  I should have done this years ago. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  03-06-2012  
+<h2> review.text </h2>
+
+ <p> Nicely made, easy to install and strong connection to cable and unit.  A little pricey, but I guess you get what you pay for. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nicely made </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> Gold plating at end of wire oversized to fit in many audio receptacles.  You could cut it off, but there goes the plating.  Apply what you would have spent on this to a slightly higher quality connector. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disfunctional </p>
+
+
+<h2> review.date </h2>
+  06-01-2014  
+<h2> review.text </h2>
+
+ <p> I use these on a set of speakers which I often need to connect/disconnect. I was originally looking for standard flex pin connectors which are inflexible, but these ended up working very well. Its flexibility allows you to use it no matter how your wire and connector are oriented. This is a big plus, whereas if you had the standard inflexible ones, you have to aim in a certain way. This probably won't matter to most people, but those in confined or odd spaces will appreciate it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for mobility </p>
+
+
+<h2> review.date </h2>
+  03-28-2012  
+<h2> review.text </h2>
+
+ <p> They look well made, but beware that the cable is too thick to fit some speakers. I have Orb Audio speakers and the cable simply won't fit through the holes in the terminals. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> They don't fit my speakers </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> I have these connectors in both the Banana and Pin configuration.  This is a simple and fool-resistant gizmo to easily connect and disconnect speaker wires.  The connectors by GLS and Sewell work just as well as these and are cheaper, but only Monster makes the Pin configuration.  Highly recommended--I have them on all my speakers and amps.  The pin may be too large for some of the tiny spring loaded outputs but it can be trimmed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Idea and Execution </p>
+
+
+<h2> review.date </h2>
+  11-08-2013  
+<h2> review.text </h2>
+
+ <p> Like other reviews, the metal tip at the end is thicker than the rest of the wire and made it near impossible for me to use these with my speakers. Looks like a great design other than the tip. Could theoretically cut or modify the tip but then you are degrading the product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Meh. Wire tip issues. </p>
+
+
+<h2> review.date </h2>
+  08-01-2013  
+<h2> review.text </h2>
+
+ <p> These connectors were very high quality and promise many years of repeat use. The flex connectors are of greater size than many push style speaker connectors, especially those for which my use was intended.  I will use them elsewhere to connect to the amplifier </p>
+
+
+<h2> review.summary </h2>
+
+ <p> self crimping connectors much preferred </p>
+
+
+<h2> review.date </h2>
+  04-29-2013  
+<h2> review.text </h2>
+
+ <p> These connectors work just fine, but what in it's construction should cost so much? Monster has made a business off selling a high end name on average components. It's just a shame other companies aren't making a similar connector because it is a useful design. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely Overpriced, but there aren't meny alternatives. </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> Since most higher-end speakers will have some sort of binding post, the banana plug version of this will work for most applications. Occassionally, some nicer speakers will still have spring clips.  That's the case with my Sony SS-B3000 speakers.  Great bookshelf speakers, but Sony cheaped out on the binding posts, but no matter with these babies, it makes connecting and disconnecting a snap with no frayed copper to keep twisting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect For Spring Clips! </p>
+
+
+<h2> review.date </h2>
+  06-12-2013  
+<h2> review.text </h2>
+
+ <p> These are a tad pricey, but they work precisely as expected and the quality is always first rate.  A cable terminated with one of these is lasts longer and can withstand connecting and disconnecting without fraying the wires.  These are also easier to insert into hard-to-reach receptacles on audio devices.  I think they are worth the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Monster self-crimping flex pin </p>
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> Broke while tightening a screw on the back of the speaker.  I have been an audio and home theater enthusiast for over 40 years and the only cables that I have ever had fail have been made by Monster.  Bought several of these and one failed.  Monster is over priced junk in my opinion.  I'll be sticking to Monoprice, Blue Jean and other quality suppliers-manufacturers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More monster junk. </p>
+
+
+<h2> review.date </h2>
+  07-10-2013  
+<h2> review.text </h2>
+
+ <p> I've used Monster products for several years. I think they make some of the best stereo connector products on the market.  Most modern stereos use banana plug speaker connectors.  I'm a 'retro stereo' guy and have several 1970's-1980's stereos.  Most of the this older stereo equipment uses twisted wire connections for speaker connections.  To get a better speaker connections, Monster Flex-Pin connectors are the way to go.  Sometimes there is a problem, the Flex-Pin connectors (soldered tip) won't fit in the speaker connector slot.  At that point you have two choices: (1) cut the tip of the Flex-Pin to fit the speaker connector hole (not practical, you can ruin the Flex-Pin itself, or (2) drill a slightly larger hole in the speaker terminal block so the Flex-Pin connectors will fit, I chose the later.  You only have to do it once and the job is done for the life of the receiver/amplifier.  This is a, kind of, DIY speaker connector fix.  I hope my experiences were of some help. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Monster Quicklock Flex Pin Connectors Review </p>
+
+
+<h2> review.date </h2>
+  03-05-2013  
+<h2> review.text </h2>
+
+ <p> Keeps wire leads much more manageable...great for older stereo's that do not have banana plug receptors and keeps wires from hitting each other.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy attachment </p>
+
+
+<h2> review.date </h2>
+  04-15-2011  
+<h2> review.text </h2>
+
+ <p> These are really nice when shipped in a box and not through the mail. The connectors are really good and simple to install and sound great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice speaker cable connectors </p>
+
+
+<h2> review.date </h2>
+  11-24-2012  
+<h2> review.text </h2>
+
+ <p> These connectors are really well made.  Very expensive, but very sturdy.  However,  there needs to be some type of basic instructions included wit them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Monster QuickLock MKII Connectors </p>
+
+
+<h2> review.date </h2>
+  04-02-2010  
+<h2> review.text </h2>
+
+ <p> These are perfect for using when connecting your speakers to your AVR where space is limited. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for AVR use. </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> Product seem to be built solid with a great desighn.I used them for 3 daysI realy wanted to like them but found that they robbed the warmth clarity and low end from my sansui 7070.As soon as I removed them the 7070 was back in all of the low end and warmth returned.Also am using the 16 ga monster xp wires . With deftec studio 450 terminated with bannana plugs.They might be nice they just didnt work for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Low frequency robber </p>
+
+
+<h2> review.date </h2>
+  07-27-2013  
+<h2> review.text </h2>
+
+ <p> These Monster connectors are the easiest, most secure, way to hook up my speakers. I never have to worry about the quality of my speaker connections with these bad boys! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LoveThese Connectors </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> No issues and easy to tap. Did not need any tools and only takes seconds. I am ordering a second pair. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked well for me! </p>
+
+
+<h2> review.date </h2>
+  04-16-2011  
+<h2> review.text </h2>
+
+ <p> I was very unsure of this purchase but I can say now that I am very happy with these tips. I tend to stay away from Monster products because I feel they are a rip off but I could not find any tips that were not thin solid tips that break easily. These seemed to be easy to hook up and they are flexible tips so they should not break easily. After getting them they were indeed very easy to hook up and I think it would take wire cutters to break them. The only complaint I have is that they are very think so my speakers that are on the wall stick out about a half an inch in the middle and don't seem to sit right but with a little tweaking of the mount I was able to make it work. Other than that, these tips are excellent and well worth the money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Blu-Ray player </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> Haven't used this product from this seller yet but have used this product before and these look perfect so I'm giving them 5 stars because I looked them over well.  Packaged well.  Thanks for a great product I couldn't find my local store, and thanks to Amazon for another great item in their product line! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product! </p>
+
+
+<h2> review.date </h2>
+  07-14-2012  
+<h2> review.text </h2>
+
+ <p> Great product.  Much better connection than just using bare speaker wire.  Easy to use.  Needed when you dont have a whole lot of space </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+
+<h2> review.date </h2>
+  10-17-2012  
+<h2> review.text </h2>
+
+ <p> Bought these to connect wire to my newPolk Audio PSW10 10-Inch Monitor Series Powered Subwoofer (Single, Black). I have a vintage NAD receiver with no dedicated subwoofer output and so I needed to wire from the receiver to the satellite speakers via the sub. I remember the spring clip speaker terminals from the old days and did not want the hassle of jamming bare wire into little holes. I had never used or even seen these up close but decided to get give them a try since they looked liked they could solve my problem. The Flex Pins really made wiring of 4 runs of speaker cable much easier.Each run has a set of these at the sub end and then a set ofMonster QuickLock MKII Gold Banana Connectors For Easy Self Crimping Terminations - 2 prat the satellite end. It was also very easy to fitMonster Cable - XP - Speaker Cable - Bulk 60ftthrough the bottoms. I'm no electronic whiz, but with new pair of wire strippersKlein 1011 Wire Stripper Cutter Solid and Stranded Wire Blue 6 1/8 Inches, this was a very easy job.The Flex pins are indeed flexible yet sturdy. The only minor issue I had with inserting them into the terminals was the size of the solid little nub of metal at the very tip. 2 did not fit into the spring clips, so I used the plier side of my stripping tool and just compressed the ends until they were flatter. Then they inserted w/o a problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for Spring clip speaker terminals </p>
+
+
+<h2> review.date </h2>
+  12-27-2011  
+<h2> review.text </h2>
+
+ <p> I bought this particular set of Flex Pin connectors to hook up a center channel to my Onkyo Receiver.  Both sets of connections were the type of screw-down connectors that have a hole in the middle of the threads:  you're expected to feed bare wire into the hole and screw down the cap to pinch the top of them.  This can be a bit tricky if you're just trying to use bare wire:  pinch the wire's insulation and you may kill your connection.  Leave too much slack and you may inadvertently bump the metal backplate and seriously screw things up if your receiver isn't well grounded.  I've since tried generic connectors from Radio Shack and come back to Monster for the simple reason that their connectors are built better.  My generics had a harder time biting (and keeping) the wire like the QuickLocks do.I have more than one type of Monster QuickLock connector, and they all work the same way: what you see here is threaded so that you can unscrew each connector along the middle--right about where you see the colored band and lettering in the above image. Once you do this, you feed the wire through the bottom piece, fray the loose wire so that is lies across the threads of the bottom half, and then screw the top half back on over the top of the wires. You want a decent amount of bare wire without the wire's insulation sticking all the way up the inside the bottom half. As you're screwing the two halves back together, go gently until that last turn, then bear down a bit so the connector threads bite the wire and hold it.Now that I've properly capped my wires, life is hassle-free. I don't notice any better sound with this brand of connector than any other, but that's not the point: Monster succeeds at making a good, solid connector that stays put like it's supposed to.The only drawback is that the body of Monster's QuickLock connectors is still fairly wide, which can mean some close quarters when you're using a series of them in the same spot--or like my center channel, the screw-down connections are recessed in the back of the unit.  If not for a bit of fumbling hassle with this issue, these connectors would be perfect.  I still recommend them over the generics I've tried. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lock Solid </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> For those times when you are forced to use a spring or push lock connector, try to avoid them, this is the way to go.  It makes an excellent connection to the bare wire and as good as you can expect to the horrible spring connectors some low to mid fi gear is cursed with.  Easy to install, BUT if the spring connectors opening is small, be prepared to do some filing to get a fit.  Tedious, but I know of no better connector for these cursed spring lock things. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works very well </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

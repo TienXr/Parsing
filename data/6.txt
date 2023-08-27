@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00009M6TG <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> I am using this with the newer MT352 Talkabout.  This works great, and I have tested it both in VOX and using the radio to PTT.  It can fit under closed faced helmets, though the mic may be close to your mouth.  I have not tested it with a bike helmet, or how well it will stay on under different conditions, but much easier to talk than just via the radio, when being active. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great with the MT352 </p>
+
+
+<h2> review.date </h2>
+  05-09-2005  
+<h2> review.text </h2>
+
+ <p> I cannot get this to stay on my ear.  When I do get it on, it is not close enough to my ear, so it's hard to hear.  I now use the earbud model with a PTT/mic on the cord -- Motorola 53727. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Will not stay on my ear </p>
+
+
+<h2> review.date </h2>
+  03-17-2006  
+<h2> review.text </h2>
+
+ <p> I purchased these mic's for my wedding videography company to use during all day film shoots.  They stand up to the constant use and reuse.  I highly recommend if you're in a high paced industry.  They hold up and maintain performance as advertised. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very funtional boom mic </p>
+
+
+<h2> review.date </h2>
+  05-14-2011  
+<h2> review.text </h2>
+
+ <p> I brought this product several days now an is unable to use it as the ports for the radio is different that what came on the item... I searched for an M1 plug before purchasing and it came up with this item... The display photo did not display the jack either... I was gonna return the item but ordered an adapter instead...Motorola Earpiece with Boom Microphone </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Motorola Earpiece with Boom Mic </p>
+
+
+<h2> review.date </h2>
+  09-20-2011  
+<h2> review.text </h2>
+
+ <p> I never even got to testing the audio quality because the ear piece was so uncomfortable. My ears are on the large side - but not huge - and this didn't fit well at all. I haven't had problems with other around-the-ear headsets but this one is rigid with a tight fit. Putting it on is a two handed operation requiring folding and tucking of ear parts. If I try to take it off with one hand it pinches my ear painfully. I'll be returning it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not for large ears </p>
+
+
+<h2> review.date </h2>
+  03-21-2005  
+<h2> review.text </h2>
+
+ <p> My buddy and I use the Motorola 56320 earpiece & boom microphone several times over the past year.  We use them in conjunction with Motorola VOX capable walkie talkies.  They are fairly comfortable and work as advertised.We do have one small complaint.  You wouldn't think so but I could argue that the cheap 10 cent microphone windscreen is this product's most important component.I found this out the hardway.  The windscreen is not secured to the microphone by any adhesive.  Over time the fit gets loose, and it keeps falling off.  When this happens it is only a matter of time before you lose it.  We use ours to comunicate while bike riding.  Without a windscreen, the mike constantly keeps openning and closing, regardless of sensitivity settings.Trying to buy replacement windscreens is near impossible.  We searched high and low, and could not find anything afordable.  We settled on a piece of a replacement foam cushion.  It worked, however it makes us look like dorks!  We finally caved and bought new headsets.So do yourself a favor, before you use the Motorola 56320, take a minute and secure the windscreen to the mike with electrical tape or adhesive.  If you don't you'll be kicking yourself after you lose it and recall this prediction! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product but.... </p>
+
+
+<h2> review.date </h2>
+  04-25-2011  
+<h2> review.text </h2>
+
+ <p> This headset fits well, but it works poorly.If you cue send recieve directly through the walky-talky, it works, but its not worth the trouble. The hands-free feature is pathetically useless.Works sometimes, and when it does, there is 10 second delay  to get it going. If you don't mind repeating everthing you say twice and never pausing, I guess you could communicate with it -- if it was life and death -- but otherwise, a total waste of effort and money.  The instructions are a joke. I do not recommend buying this at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not measure up to claim </p>
+
+
+<h2> review.date </h2>
+  09-10-2009  
+<h2> review.text </h2>
+
+ <p> Highly recommended for bicycling.  No wind noise, VOX works well with Motorola radio.  Price is right. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly recommended for bicycling. </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> The product its ok, but i will prefered the headphone like security. If you are working in a wedding or something like this... this product isnt the best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Its ok. </p>
+
+
+<h2> review.date </h2>
+  08-20-2011  
+<h2> review.text </h2>
+
+ <p> We use these head sets while we ride our ATVs.  The price was right and they work just like I expected them too.  I wish they were hands-free but what can one expect for $10?  Would be nice if the ear bud piece could except different sizes/types for more comfort. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as expected </p>
+
+
+<h2> review.date </h2>
+  02-01-2011  
+<h2> review.text </h2>
+
+ <p> After trying unsuccessfully to get the ear piece to stay on my ear, I gave up and returned the unit to Amazon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not The Best </p>
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> I have been trying to find a system that can do a good job with hands-free walkie-talkie operation. This falls short, although it's one of the best ones I've tried. It clips half your sentence at the beginning, and you have to have the microphone literally in your mouth and speak with a regular voice. That obviously doesn't work if you're in a place where you cannot speak normally and you have to be more quiet.Either way, it's convenient enough, you just have to still click the button on the walkie-talkie. It should have had a PTT button on the headset itself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useless for hands-free talking </p>
+
+
+<h2> review.date </h2>
+  06-06-2011  
+<h2> review.text </h2>
+
+ <p> In the past 6 years I've been using this earpiece with my Motorola T5420 about 20-30 times a year, about 3-5 hours each time. So far, the sound quality has been good both on the earpiece and from what I said via speaker. The earpiece itself has been quite comfortable to wear and it is very easy to switch between left-right side.After all these years, I found out early this month (April 2011) that rubber cover of the cable right at the 2.5mm plug has just ruptured. I mean the rubber skin literally split apart due to wears and tears but it still works fine.  I will continue to use it to see how many more months I can get out of it.  But I will aorder another one as a back up (and I hope the new one will last as long).This is definitely a good product to have for TALKABOUT users.NOTE:1. Motorola has its own standard, so when I say 2.5mm plug, it is in fact a little longer than those 2.5mm for your MP3, cordless phone.2. If your 2 Way radio is ON when you plug this in, for nearly all model, the radio will automatically switch to VOX mode. Meaning, it broadcasts everything from your mic to channel you set. So, be cautious when you play with it, I've been hearing all sort of "private" converstaions from my colleages who accidentally got themselves on VOX during their break time.3. This is a basic earpiece for 2 way radio, so sound quality is not like those for FM/AM broadcast nor a good cell phone.  So, here are my advice when using it(a) do take a second of PAUSE when you press TALK button(b) avoid talking at the same time with others, no one will understand anything. That's why I suggest rule (a)(c) be real close to the mic when talking. How close? So close that your lips touch the boom foam of the mic.(d) speak clearly and slowly </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sound quality and comfortable to wear </p>
+
+
+<h2> review.date </h2>
+  11-11-2006  
+<h2> review.text </h2>
+
+ <p> The earphone is good in sound and the microphone is very good. to put on your ear it's a little dificult first i only could use it on my left ear, i try to put in my right ear but the earphone doesn't feel son good... the ear support it's fine but the speaker itself don`t permit to adapter on my right ear because it's turn ok but don't let espace enuoght to put it comfortable </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good. a little bit dificult to use </p>
+
+
+<h2> review.date </h2>
+  07-12-2010  
+<h2> review.text </h2>
+
+ <p> Great mic, stays on the ear and doesn't let the noise of the wind through when biking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mic's </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> Ideal for a noisy environment, noise cancelling microphone picks up your voice and screens out much of the background noise. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> When the noise is too much these are a must have. </p>
+
+
+<h2> review.date </h2>
+  12-04-2009  
+<h2> review.text </h2>
+
+ <p> I bought this for my hubby, so he can communicate while out and about on the ranch. He won't wear it because he doesn't like the way it fits his ear. So there it sits in the drawer. At least it didn't cost that much. It does work with our Sam's Club walkie-talkies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works...but... </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> We use these on long bike rides with two-way radios and these work well for VOX and the boom mike helps reduce wind noise so the VOX stops transmitting when expected.  The only issues are that the ear attachment works better for some ears than others and is uncomfortable after long periods without adjustment.  In our case we plan to address these issues by attaching the earpiece to our helmet straps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great with minor issues </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> The earpiece fees quite odd on the ear but it definitely works the way it should. Great product for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works very well </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000FUH350 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-26-2007  
+<h2> review.text </h2>
+
+ <p> "Hustle" has become an excellent show, full of intricate plotting, sharp wit, and enjoyable ensemble acting. The first season, unfortunately, is seriously marred by a lack of originality. Both the first and last episodes are shameless ripoffs of "The Sting." When you have only six episodes, stealing the plots for two of them from the SAME movie is quite a con!However, three of the four remaining episodes (all but the weak second ep) are very good indeed. At its best, the show has the feel of a breezy "Mission: Impossible" with more interesting characters.If you're discovering this show for the first time, start with Season 2. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Uneven start to a fine series </p>
+
+
+<h2> review.date </h2>
+  09-16-2007  
+<h2> review.text </h2>
+
+ <p> Every so often there's a television show that completely enchants me; Hustle is one of those shows. Taking place in contemporary London, it's a caper-a-week tale of con-men with hearts of gold earning a living by duping wealthy ne'er-do-wells of their ill-gotten gains.Hustle follows a crew of grifters including legendary con-man Michael "Mickey Bricks" Stone (Adrian Lester), Danny Blue (Marc Warren), Stacie Monroe (Jaime Murray), Ash Morgan (Robert Glenister), and Albert Stroller (American acting legend Robert Vaughn) as they pick up the big con game again after a long haitus during which Mickey was in prison. Danny, an untried novice, is the newest addition to the crew - with some hesitation. Each of them has their particular jobs to do - Mickey and Danny work the inside to convince their marks, Ash is the man who can get or make anything, Albert is the roper who brings the marks in, and Stacie plays convincing backup parts, as well as lending her expertise as a pick-pocket. Working as a family unit, these grifters struggle to make ends meet while pulling cons and taking scores off of those wealthy they deem deserving of comeuppance.This series is a treat. Unlike most American crime shows, where the focus is on the dark and depressing reality and violence of the streets, Hustle is a refreshing tale of modern-day Robin Hoods staying just one step ahead of the law - and their marks. The emphasis here is on fun. The music is light (a bouncy sort of techno-jazz), the dialogue crisp, and the atmosphere humorous. These are characters, and a show, that you will quickly grow to love and return to again and again. Admittedly, this program owes a great deal to the Academy Award-winning Paul Newman/Robert Redford opus The Sting (which is heavily referenced in the first episode), but they take that film's love of capers and sense of fun to new levels.However, do be warned that while this set includes the full first season, it is, nonetheless, only six episodes long and, thus, goes by very quickly. Setting this aside, Hustle is a brilliant show that I cannot recommend highly enough. Check it out, and enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Non-Stop Fun </p>
+
+
+<h2> review.date </h2>
+  10-06-2006  
+<h2> review.text </h2>
+
+ <p> The show's opening credits wears its influences very much on its sleeve with a very slick, jazzy feel reminiscent, in look, of the ones for Catch Me If You Can with the music segueing into a trip-hop-ish score much like the one David Holmes composed for Steven Soderbergh's Ocean's Eleven remake.Hustle is beautifully shot so that each episode is like a slickly produced mini-movie - imagine Ocean's Eleven: The Movie. The show uses freeze frames, messes with camera speeds, uses inventive camera angles and even has a character break the fourth wall and address the camera or otherwise call attention to the fact that we're watching a television program.The show examines what motivates these grifters. Sure, it's the thrill and challenge of fleecing some rich mark but it is also avoiding the drudgery of working a boring, soulless 9 to 5 job. These people are keen observers of human nature. They know how to gain someone's confidence and take their money while avoiding being caught by the victim and the authorities. And in a refreshing change of pace, this group doesn't always succeed every time out and we see what happens when a mark gets wise when one of the con artists screws up. As Hustle progresses through this first season, it gradually delves more into the personal lives of the main characters and their inter-personal relationships.The first disc includes "Assembling the Team Part 1," a making of featurette. This extra goes through the show's origins, casting and characters with the cast talking about working with each other in a very informative way that is great for those new to this show.The second disc features the second part to "Assembling the Team" with each of the main cast members gush about each other in this engaging look at how this show came together.Finally, there are well-written biographies on the main cast members. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Con is On... </p>
+
+
+<h2> review.date </h2>
+  05-05-2007  
+<h2> review.text </h2>
+
+ <p> A crew of five long-con artists (Adrian Lester, Marc Warren, Jamie Sheridan, Robert Glenister, and Robert Vaughn) target arrogant wealthy cretins with elaborate confidence schemes.  Operating under the credo that it is impossible to con an honest man, they design situations in which the greed and dishonesty of the mark is necessary for the scam to succeed.  Just in case that isn't enough to secure viewer sympathy, the writers often have the protagonists conning to raise money to help a bedridden friend or avenge an unfairly cheated old lady.  As far-fetched as this sentimental streak may be, it is an essential element of this show's breezy, clever, thoroughly entertaining style.  The entire cast is excellent, but Lester and Warren really stand out.  It's good to see the dependable Robert Vaughn again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only 6 episodes? *That's* a crime! </p>
+
+
+<h2> review.date </h2>
+  10-16-2008  
+<h2> review.text </h2>
+
+ <p> I've said it before and I'll say again, British cinema does more with less. Hustle is one of my favorite series. I've watched seasons 1-3 and I've loved every episode. I'm surprised they haven't cloned this series on HBO or Showtime. I think it's a little dry for American audiences. If you can come to grips with the dry but solid writing of this original show then you're well on your way to enjoying a well made program. Pick it up with a little patience and I think you'll love this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The long con... </p>
+
+
+<h2> review.date </h2>
+  06-12-2006  
+<h2> review.text </h2>
+
+ <p> I originally watched this show because Robert Vaughn was in it.  Now I watch it for all the characters.  This show is so well written and so clever.  It is so much better than 99% of American TV shows.  Glad to see Season Two is starting soon and cannot wait to own the first season on DVD! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great British TV Show </p>
+
+
+<h2> review.date </h2>
+  03-31-2007  
+<h2> review.text </h2>
+
+ <p> This is a delightful, witty series.  Influenced by the amazon.com critiques for Season Two, I watched that series first and am glad I did.Main complaint with Season One is that three of the six episodes "pay homage" to THE STING.  While this is okay for two of the three, the finale episode deepens appreciation for the Newman-Redford-Brennan feature.Worth the DVD investment, but first allow yourself to get hooked by the less derivative second season. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> see Season Two first </p>
+
+
+<h2> review.date </h2>
+  12-05-2006  
+<h2> review.text </h2>
+
+ <p> "Hustle" is a breezy, lightweight treat from BBC America.  Originally broadcast in the States on AMC, the series follows a group of con artists as they stage one elaborate setup after another.  London is their playground, and these pros are in for the "long con" to make a fortune from each episode's caper.  Their "mark," in each case, is generally undone by his/her own failings or misdeeds for our group has distinct ethics--they only target people who deserve it.  That's certainly a pleasant notion.  It keeps things frothy and fun--and keeps anyone from viewing the protagonists as villains and criminals (which, in truth, they are)."Hustle" succeeds by having a talented and appealing cast.  Not only do you like everyone, you root for them.  Robert Vaughn is the show's biggest name, and here he plays the mastermind who often lures the victims to their eventual undoing.  Adrian Lester is the group's leader, a legendary con man recently released from prison.  Marc Warren provides much of the comedic relief as Danny Blue--a young, irreverent newcomer who challenges and frustrates the others.  The funniest moments generally involve Lester and Warren going head-to-head, each always trying to outdo the other.  The team is rounded out by Jaime Murray (the bombshell) and Robert Glenister (the tech expert).The tone of "Hustle" is light and the pace is fast.  It is easy to enjoy the antics within the program and to be amused by the scenarios.  The cons themselves, however, are fairly familiar territory for those who follow this type of entertainment.  While I was entertained consistently, I was rarely surprised.  And while this may sound like a large problem, it's not.  This show is more about the journey--and with witty, intelligent scripts and a spot-on cast, it's hard for me to imagine anyone not being engaged and entertained by "Hustle."Each season consists of six episodes, some more effective than others--but not a loser in the bunch.  My personal favorite comes from season 2.  In it, Lester and Warren take on a personal competition.  They are both dropped naked in the middle of London and then each strives to win by ending up the day with more of value.  Once and for all, they want to determine who has more skill.  This was a very funny episode and the only one that didn't deal specifically with a con.Recommended as a lark--good for lovers of comedy and capers.  "Hustle" may not be particularly edgy or challenging, it's just fun.  KGHarris, 12/06. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm Not Conning You--"Hustle" Is So Much Fun, It's Almost Criminal </p>
+
+
+<h2> review.date </h2>
+  01-16-2007  
+<h2> review.text </h2>
+
+ <p> Hustle is a fun show about con men/women working the angles to take money away from those that are willing to overlook morals and good judgement.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This show was a surprise </p>
+
+
+<h2> review.date </h2>
+  01-05-2007  
+<h2> review.text </h2>
+
+ <p> HUSTLE is a BBC series currently in production in the United Kingdom.  So far, three seasons have been shot, produced, and shown, all to great reviews.  The episodes revolve around the adventures and misadventures of a professional long con team (meaning that the set-up for a mark takes time, effort, and money).  This is the first DVD set to be released in Region 1, but the second is coming in February.Adrian Lester stars as Mickey Bricks, the team's leader.  Robert Vaughn is Albert Stroller, the team's hook to get a mark set up.  Stacie Monroe (Jaime Murray) works as the banker and the bait in some of the cons.  Robert Glenister plays Ash Morgan, the "fixer" for the team, meaning he can fix problems and electronics, and get necessary supplies.  Mark Warren stars as Danny Blue, the team's newest recruit.HUSTLE revolves around this close-knit family, playing off their strengths and weaknesses.  Each episode deepens the character more, and allows you to peek into their backgrounds -- where all kinds of surprising things are hidden.  Although the characters constantly evolve, the episodes are stand-alone, each a complete story in itself.If you like crime stories with a touch of comedy, a knowing wink to the audience, and even a little education in all things criminal, HUSTLE is definitely a series you should buy or rent.  Or you might be able to catch episodes on AMC.  But I'm willing to bet they lure you in and get you to shell out a few hard-earned bucks for the DVD set.  That's the art of the con. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heart-Stealing Con Team At Work </p>
+
+
+<h2> review.date </h2>
+  01-09-2007  
+<h2> review.text </h2>
+
+ <p> I stumbled across Hustle late one night when nothing else was on.  I was hooked right away!  This is a great show, it's funny, full of suspense, and intellegent.  I even let my kids watch it, although I was a bit surprised when there was a little bit of nudity that wasn't there on TV.  Hustle has a little bit of something for everyone! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hustle is a great show </p>
+
+
+<h2> review.date </h2>
+  08-06-2006  
+<h2> review.text </h2>
+
+ <p> I started watching this show long before "Thief" and "Heist" came along, both of which served up in-your-face violence and the dregs of humanity.  "Hustle" is a class act, and gets its highest marks from the quality of the cast, writing, and lack of gunplay (owing to the Brits' staunch anti-gun laws).  All of which goes to show that alluring stars and creative writing can out-wit, out-play, and out-last any flash-in-the-pan also-ran.  I do want to see what Ray Liotta has to offer in this fall's "Smith."  Maybe it will give Hustle the only run for its money out there.  In the meantime, I look forward to re-playing the cons of Mickey and his gang on season one's DVD set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AMC Tops A-List TV </p>
+
+
+<h2> review.date </h2>
+  04-01-2007  
+<h2> review.text </h2>
+
+ <p> Hustle is a great con show with all the theatrics of a great heist movie like Ocean's Eleven.  The characters are all great and since they have a strict code of ethics you don't have to feel bad about cheering for the "bad guys." The show is good quality in both appearance and writing.  Its a nice fun show that you can just sit back and enjoy.  The writing is good enough that the cons don't get boring.  If you like the caper genre you'll really like this show.  If you like glitzy shows like Las Vegas (which is not as good as this at all) you'll like this show too.  If you just like to watch interesting people doing interesting things then this show is for you also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sharp and Fresh </p>
+
+
+<h2> review.date </h2>
+  05-06-2007  
+<h2> review.text </h2>
+
+ <p> Season one tells the story of Mickey Bricks, the best of the long con artist as he put together a crew of grifters that quickly become the talk of Scotland Yard. This show is a must see for any one of all ages... My hat is off to BBC Programing </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enter the grifters </p>
+
+
+<h2> review.date </h2>
+  09-09-2006  
+<h2> review.text </h2>
+
+ <p> What do you get when you put five smart,cunning and charming con people together?.Well,what happens is(hang on to your wallets folks)cause you get 'Hustle'.Hustle the new BBC and AMC television show now on DVD.Hustle tells the story of five con people,or should I say con artist.And our lovable con artist are. Jack of all trades and computer expert'The Fixer'Ash Morgan(Robert Glenister).Cool,smart and master of the long con'The Inside Man'Mickey Stone(Adrian Lester).Lustrous,beautiful and sexy'The Lure'Stacie Monroe(Jaime Murray).Knowledgeable and wise'The Roper'Albert Stroller'(Robert Vaughn) and street smart,unpredicable and master of the short con'The Wild Card'Danny Blue(Marc Warren).Hustle is a well written and entertaining show fulled with coolness,class and style.Some of the episodes have a tendency to hit you with a little suprise at the end.So be on the lookout for it.It's one of the things I like about the show.So in since the audience is con right along with the mark.I really wacthing this show.And I always make it a point to watch the long verison(the DVD set contains the long versions)of the show instead of the short ones.Following the adventures of these con artists can be very enjoyable.And in season one.We get to see them put the con on a manipulative art gallery owner,an arrojant fairground owner and a greedy businessman.And they also manage to save a businessmans business as well.Some of the guest stars on season one are Orla Brady,James Laurenson and Tamzin Outhwaite.Yes!!The Con Is On.So keep in mind the first rule of the con'You Can't Con An Honest Man. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A  Fool  And  His  Money  Are  Soon  Separated </p>
+
+
+<h2> review.date </h2>
+  01-26-2014  
+<h2> review.text </h2>
+
+ <p> I have one tiny jibe at this first season which is that the final episode is a dead swipe from a famous American movie starring Newman and Redford. That being said I still gave this five stars. The comment I will add here is that you have to wonder why, considering his awesome performances here, American TV has managed to ignore Robert Vaughn the way they have. Anyway this is a great series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lives Up To Expectations </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00F4NJBYY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> Very informative and well written guide ! Anybody that is considering retirement should know about the content of this book. For most of us retirement is certain, but there are things you need to consider before leaving your work for good to have a steady and stable financial fife after retiring. It's well researched book with solid and kind of an eye-opening info. I highly recommend for everyone interested in this topic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well Reasearched and Informative Guide </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> An excellent guide to planning your financial future.  This book gives step by step details on how to get started on your retirement planning including calculations for what you need to save and how. I took a look at my financials using his guide and I'm on track and on my way! I works recommend this to everyone who doesn't have a plan and needs help in their retirement planning. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> planning for the future! </p>
+
+
+<h2> review.date </h2>
+  11-30-2013  
+<h2> review.text </h2>
+
+ <p> There are so many different options around to invest money and prepare for retirement. It is really quite difficult to choose the most secure plan and retirement strategy, especially in such bad economic situation like today! I found out that this book contains practical and helpful information on how to plan retirement. I like the style of writing, - plain and understandable. I was never good with all those numbers, but after reading this book at least I came up with the amount I need to save for my retirement and what even more important I got the strategy on how to accomplish this task. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Helpful information on how to plan retirement </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> Retirement Planning, Guide to all Important Financial Decisions by Mark Vincent throws reality right smack in your face. It's crazy scary how much it cost to retire. There are just so many variables you don't know about. Your health, lifestyle, inflation, family situation, desires ... are all unknowns you need to be prepared for in &#34;money talk.&#34;Vincent does a nice job bringing important life-money factors to light sooner, not later. Thanks for making me think! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's Never Too Late To Start! </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> Great book that's helped me get clear about my finances for my future.  Until now I've only thought about money to pay my bills and save up for holidays.  This has really helped me be sensible and plan for my future.  It's a great feeling to know I have financial security for the rest of my life! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great help! </p>
+
+
+<h2> review.date </h2>
+  11-12-2013  
+<h2> review.text </h2>
+
+ <p> One of the most important things in life is preparing for the future, especially in the financial area. This book presents some helpful strategies that I personally found very useful that will help you prepare for retirement. The first thing is to know how much money you need and how to start saving properly. You will also find in the book ways to invest your money so that you can get a higher return on your investments. Great book everyone! Secure your future now! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Manage your financial life </p>
+
+
+<h2> review.date </h2>
+  09-21-2013  
+<h2> review.text </h2>
+
+ <p> This is an excellent concise guide to get you started on retirement planning. It gives you some nice, solid basics, some calculations for what you'll realistically need to save and more.  Would recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Retirement Planning </p>
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> Really valuable book - it is never too late to start planning your retirement and manage your finances. Start today and you will be greatful that you did. Sometimes small changes can contribute to a huge difference. It is your life, take charge of it now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Start planning NOW </p>
+
+
+<h2> review.date </h2>
+  11-18-2013  
+<h2> review.text </h2>
+
+ <p> Informative guide on the many options available for retirement that many people may not be aware off and insightful material on how one can save up for retirement. Good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Informative </p>
+
+
+<h2> review.date </h2>
+  10-03-2013  
+<h2> review.text </h2>
+
+ <p> Most people fail to take the necessary steps for future success. Planning and understanding the financial climate is important, and can be incorporated in daily routines. The book is concise and details proven methods for erasing money issues and making smart investment decisions. A useful guide for setting yourself up for a happy, and hopefully early, retirement. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Invaluable </p>
+
+
+<h2> review.date </h2>
+  11-20-2013  
+<h2> review.text </h2>
+
+ <p> If you didn&#8217;t plan your retirement or you don&#8217;t know how to do that, then this is the right book for you. It contains some important financial decisions you need to make to have comfortable retirement. Personally, I like the chapter about investing money which is something to think about. Anyway, this book is amazing! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Retirement Planning </p>
+
+
+<h2> review.date </h2>
+  10-08-2013  
+<h2> review.text </h2>
+
+ <p> This book is a great resource when it comes to planning your retirement. A lot of people go into there retirement not being very well prepared. I think that this book is really good in that it mentions things like inflation which a lot of people just don't think about when they are planning retirement. I also like that this book isn't a 500page boring textbook! It is easy to read, and straight to the point! It is really a great guide! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved It </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> Very good book on pointing out the right direction in getting the financial education you need. This book is filled with lot's of useful tips and it's organized in a very good way. Don't confuse this for a check-list or an instruction guide to your desires. Here you'll find the right references and the right direction, but it's up to you to learn a lot more before becoming succesful pensioner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good Book </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

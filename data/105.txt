@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B006GM56N2 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> worked and fit well </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a great replacement for our charger.  We didn't know if the battery wasn't working or the charger, so we got a new charger first.  This charger worked great and fit well for our pavilion. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Present </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this for a friend.  It works well according to him.  No complaints as of yet.  I also bought a spare but it hasn't been needed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brand name cheap </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was an HP brand at non-HP prices. It powers the laptop as expected. We will not know until it has been used a while of it truly was a good value but I do not expect any issues. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hasn't Broke So Far </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have a HP G60 model computer from 2009. Still runs great and works perfectly for a computer that is going on 5 years old at least. For some reason HP can make a damn charger. This is the 3rd replacement I have bought since the other two have shorted out or wires became exposed. This one has done me well and I will buy another one if the one I have takes a dump on me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The OEM charger was getting a little iffy so I decided to get this one. So far, it's worked without a hitch. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works fine </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got this charger for  my girlfriend's HP Pavilion a  year ago and it is still working fine.  I really recommend it </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great price on a good product </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this charger to replace one my daughter lost.  It works great with two HP G series laptops we have.  Definately a good pick up.  I would not hesitate to buy another of these chargers should another go missing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is better than the original. Charges faster and it's smaller. Love it. I could not have ask for better. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It works for my HP Elitebook 8460p UPDATED </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this as a 2 nd charger to use when I travel. I used it twice. So far so good.UpdateI gave it 3 stars because it fit and worked twice . This was downgraded from my earlier rating.It is May 12, 2013. The charger no longer works and is out of the Amazon return window. This was only the third use. It failed to work on the third.I tried to contact Texasdiscountelectronics. If they respond and remedy the situation, I will adjust the rating accordingly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great customer service! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Charger works flawlessly! I over used it by going back & forth between my two laptops and I caused it to overheat I guess but I simply contacted them and they got me with a new charger. Thanks! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Adapter </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have bought many adapters just like this one but the difference of this adapter and the other ones I have bought is quality. This one is more like the original that came with my computer. Don't let the picture fool you though, it is not an official HP adapter but it is just as good if not better. It has been 6 months since receiving this adapter and it is still perfect. I am very happy with this adapter and plan to buy another one to have an extra. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Adapter </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just need it, because the two years old Adapter from HP Laptop burned out. I'm glad I find it here and price was also great. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HP Adapter for G60 Laptop </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Genuine HP part, works like the original! Not too loose in the socket or anything. Came with a nice pouch that'll be convenient for travel. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> LASTED ABOUT 3 MONTHs </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this to replace one going bad after 2 years this replacement lasted about 3 month before it went bad back to HP Warranty </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ORIGINAL CHARGER, ADAPTER FOR G72, HP LAPTOP </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the original HP adapter that came in the box with my HP, g72 laptop. I tried to get others that claimed they would fit to save $$$. But they did not work, this has the three prong ,not two prong that fits my g72  HP laptop. It is a great buy and prime shipping. Much better price than ordering it from HP. I will say it again. It is the original adapter and has HP on the adapter. It looks EXACTLY the same as the one that shipped with the new laptop. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HP G60 Laptop </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My laptop all of a sudden stopped charging, I wasnt sure if it was my computer or if my charger was just old. I crossed my fingers and bought this charger with Amazon and i'm really happy to say it IS compatible with my HP G60 Laptop. It instantly charged it and I am up and running again! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works as a charger should </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Works fine, does the job.  Can't beat the price for an actual HP brand charger.  If you need a charger for an older model HP why buy an odd brand after-market charger? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> charger </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I couldnt be Amazon first, Its the best online, The prices for electronics has always beat anyone else... the delivery is alsofast This was exactly what I needed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Accurate and Quick </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This OEM is a perfect replacement for the one my dog found rather tasty. Having a fresh one is a joy because the laptop charges far faster with a new plug.Shipped immediately. Arrived quickly. Works precisely as described. Terrific price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Thanks for this charger, it save me from boredoom. The only thing about this product is that it kind of fragile. I noticed that its pilling, yes pilling at one end without dropping anything on it. You can prevent that based on how you fold it and stretch it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works as advertised! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got this as a replacement charger for my HP laptop. I have been using it for 3 weeks now without any problems. I'm happy with it. I can confidently recommend this product if you are looking for a replacement charger. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-06-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ordered this as a replacement for my HPG60 as described it is a HP charger and it does work for the G60 however when i pluged it in my computer informed me that the capacitor for this charger is smaller than the origional and would not charge at optimal performance. It does charge it, just at a slower rate and when i put my computer on hi perfomance it gets very hot but as long as it works ill take it over the $60 one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good price for replacement charger </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this for my parents HP laptop back in the springtime, March or April, after being repaired for charging issues. They've left their laptop with the cord attached in the carrying bag, which was a bad idea. After browsing other websites, for a similar charging unit for many $$$ more, this was the best price and came promptly. Haven't had any issues with mine, yet, but I know where to get one in case it does. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

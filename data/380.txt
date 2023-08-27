@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1933515910 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-23-2010  
+<h2> review.text </h2>
+
+ <p> Rick Bullock left his ad job to become director of a New Jersey homeless shelter to honor his late wife. Although going from a six-figure salary to the considerably lower pay of his current position was a tough transition, the lack of respect he received seemed to come with the territory. Now he finds himself on a strange road trip to prove that one of his long-time shelter residents (Zeus) has been falsely accused of killing Benjamin Kurios, a Bible-thumping evangelist.Rick gets in touch with Doug Kool, an old friend and contributor to the shelter, for the funds to travel to Orlando. Going along on this trip is Maurice Tyson (the only person who can understand what Zeus says) and Doc Waters, who has not endured himself with the mob. Kool said he would back Rick's trip on one condition - he take Twyla Tharp (not the dancer) along with him. Twyla is the niece of Manny Maglio who runs a string of strip clubs in the NJ/NY area. She is also a stripper, and Manny is trying to get her to take an honest job. He is sending her to Universal Studios in Orlando for a job interview.Rick reluctantly agrees and off the group goes to see if they can get Zeus released. Along the way they run across a transcript of the Book of Nathan that supposedly reveals at what point during pregnancy a human inherits a soul.This comedic mystery is full of humorous twists and turns that will keep the reader smiling, if not laughing out loud. The eclectic travel companions not only have their own quirky conversations with each other, but they run into some very interesting people along the way.The authors have written an entertaining story that will keep readers engaged. There really is a mystery story that touches on a sensitive topic involving pro-life and pro-choice groups, while the gang dodges a sinister New Jersey mobster and deals with a devious billionaire.Join Rick and his quirky band of travelers on a road trip like no other in Book of Nathan. The story will keep you enthralled to the very end!Book of Nathan </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable Comedic Mystery </p>
+
+
+<h2> review.date </h2>
+  08-07-2010  
+<h2> review.text </h2>
+
+ <p> Former advertising executive Rick Bullock runs a homeless shelter in New Brunswick, New Jersey.  His late wife who succumbed to cancer had a passion to help the homeless and now he does.  He is taken aback when the police arrest someone he knows former East Jersey State prisoner and a frequent guest of Rick's facility, Zeus for the murder of a famous televangelist in Florida.  Bullock refuses to believe that Zeus who would not hurt a fly killed anyone especially this gruesome homicide.Bullock heads to Florida to determine what he can do.  He is taken aback further when his amateur inquiry leads to a lost book of the Bible that contains a definitive answer to a disturbing question and the evidence that his friend is innocent.  However, someone does not want the out of state person intruding on a slam dunk case and that unknown adversary is willing to kill to achieve Zeus' conviction.Filled with numerous surprising spins, the Book of Nathan is an enjoyable incredibly fast-paced mystery as Rick's discovery of a manuscript has the mob, pro-lifers, pro-choicers and others demanding he hand over his find or else.  Over the top of High Point, readers who appreciate a twisting story line faster than a speeding bullet and will want to join Rick on his odyssey.Harriet Klausner </p>
+
+
+<h2> review.summary </h2>
+
+ <p> incredibly fast-paced mystery </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> Couldn't put it down, full of twists and turns and action - loved the storyline. Kept me guessing, I'm sure I will read it again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book </p>
+
+
+<h2> review.date </h2>
+  11-01-2010  
+<h2> review.text </h2>
+
+ <p> Richard "Bullet" Bullock is the dedicated, conscientious director of the Gateway Men's Shelter in New Brunswick, New Jersey.  One of his clients, a mentally retarded Romanian giant, Zeus, is falsely imprisoned in Orlando for murdering the most powerful evangelist in the world, Benjamin Kurios.  Bullet and his entourage of oddballs from the Gateway travel to Orlando to question Zeus.  Bullet becomes ensnared in a war between extremist groups consisting of pro-life and pro-choice advocates.  Both groups believe Zeus has revealed to Bullet the secret location of a CD which contains a translated copy of the recently discovered "Book of Nathan" - a missing book of the Bible which could support or destroy the pro-life movement.  Soon Bullet and his friends find themselves constantly stalked and attacked by hired assassins."Book of Nathan" is an extremely intriguing, complex whodunit that is set against a background of the very controversial issue of abortion.  A huge pro-life advocate myself, I thought I would detest this novel.  Instead I loved it.  Yes, I was offended, feeling that the overall tone of the novel was pro-choice and anti-Christian.  However, I didn't read anything that swayed my beliefs.  On the contrary, my beliefs were strengthened.  Any novel that can make me stand back and re-evaluate my belief system or can rile my passions is a good novel.  With its riveting scenes of violence and cast of hilarious characters, "Book of Nathan" is pure entertainment.  I grew to like Bullet and I beg the authors, Curt Weeden and Richard Marek, that he return in a sequel involving more mysteries at the Gateway Men's Shelter.  I'll be greatly offended if they don't.Yes, Richard "Bullet" Bullock is a man I strongly admire.  His young wife, an advocate for the homeless, died with cancer.  Bullet quit his successful career as a Manhattan advertising executive at Harris & Gilbarton and continued carrying her torch.  He truly cares about the men at Gateway as evidenced by him risking his life to free Miklos Petris Zeusenordorf (a.k.a. Zeus) whom no one seems to care about except Bullet.  He's one of the few people who even takes the time to correctly pronounce his name.  Bullet is an agnostic.  My assumption is that he became one after losing his wife to cancer.  Many people lose their faith after tragedy strikes.  Have I ever questioned mine?  Absolutely.  It wouldn't be faith if we never questioned it.  Jesus warned us that our lives on a sinful Earth would have heartache, but He also promised to always be there for us.  In a way, Bullet is a lot like Jesus.  He tries to always be there for his residents."Book of Nathan" has a villain who is extremely evil and insane.  He/she will sacrifice anything, and anyone, in order to obtain the encrypted translation of the "Book of Nathan" that is on a CD.  This person doesn't even know exactly what is on the disk.  The information may or may not support their stance on abortion.  The "Book of Nathan" supposedly contains information concerning the concept of ensoulment.  Basically, an embryo is a physical shell awaiting a soul.  The process of ensoulment may begin at conception or it may not occur until three months after conception.  Ensoulment is a new concept for me.  There are also those who believe that personhood begins at conception, regardless of ensoulment.  Therefore, there are many pro-lifers, such as I, who wouldn't be persuaded by ensoulment.  Basically, Benjamin Kurios was murdered for naught.  However, Kurios was the type of minister who preached according to his own will rather than the will of the Lord.  In other words, he preached sermons that would make his contributors happy rather than angry.  Does he remind you of any particular televangelists?The gorgeous, voluptuous Twyla Tharp provided a tremendous amount of comic relief.  You may want to read "Book of Nathan" for her sexual antics alone.  Bullet's trip to Orlando is being funded by a powerful mobster, porn king Manny Maglio.  Bullet must escort Manny`s estranged niece, Twyla, a hooker and a stripper, to Orlando for an interview with Universal Studios.  Practically everything she said made me laugh out loud.  Unfortunately, most of what she said I can't repeat.  The funniest dialogue took place between her and a prisoner of the Orange County Jail, Beuford Krap, who was arrested for bestiality.  Zeus's Jewish lawyer, Yigal Rosenblatt, develops a crush on her.  Eventually, the two become inseparable, providing the novel`s sole romantic relationship."Book of Nathan" is highly recommended for fans of humorous crime noir and old-fashioned whodunit mysteries.  Don't let the abortion issue deter you from reading it.  There are nutty characters on both sides of the issue.  The shocking twists at the end make this novel a must read.  Also, you will be cheering for the likeable Bullet.  One of the co-authors, Curt Weeden, is a former vice president for Johnson & Johnson.  In the novel, a giant polish sausage, a kielbasa, becomes stuck inside the entrance to the underground garage of the Johnson & Johnson headquarters.  (You have to read it to believe it.)  Weeden has also had much experience working with homeless shelters.  The other co-author, Richard Marek, has edited hundreds of novels, working closely with numerous best-selling authors, including Thomas Harris, Robert Ludlum and James Baldwin.  "Book of Nathan" is their first collaboration and I hope it won't be their last.  As I said earlier, I would love to read more mysteries involving Bullet and his hilarious cohorts at the Gateway Men's Shelter.Joseph B. Hoyos </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Many People Are Willing To Sacrifice Most Anything To Get Their Hands On The "Book of Nathan" </p>
+
+
+<h2> review.date </h2>
+  05-22-2012  
+<h2> review.text </h2>
+
+ <p> While I have not finished reading this story, it is a real page-turner, loaded with quite a few intriguing characters culled from the fringe of society. There is a director of a homeless shelter who continues to grieve and honor his wife, dead for 12 years. There is Zeus, a homeless man with a serious speech impediment, jailed and wrongly accused of murder. There is a mob boss's niece, who seems pretty canny for all her whorish ways!When I've finished the book, I'll edit this review, but I don't want to spoil the read for others. I'll also be sharing this read on GoodReads. If you're a member, join me there to discuss what I expect will be an excellent conclusion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Saving Zeus </p>
+
+
+<h2> review.date </h2>
+  05-16-2014  
+<h2> review.text </h2>
+
+ <p> I spent a huge chunk of my life in central Jersey, and this is a Jersey book. I can vouch for all the locations in it. It's about a guy who runs a homeless mission in New Brunswick who goes to the aid of one of his homeless people when the man is falsely accused of murdering an evangelist for a CD of a newly-discovered long-lost book of the Bible. The characters are well-drawn and they grow on you. I highly recommend this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Jersey Book </p>
+
+
+<h2> review.date </h2>
+  06-01-2011  
+<h2> review.text </h2>
+
+ <p> This book details the adventures of a good samaritan, Rick Bullock, the director of a homeless shelter and soup kitchen called the Gateway. One of his charges follows an inspirational speaker all the way to Orlando, Florida, only to be accused of that speaker's murder and imprisoned and awaiting trial. His defense is difficult because he doesn't speak intelligibly, except to one of his homeless friends. From there, an adventure begins, starting with a desire to clear his homeless friend for the murder he knew he didn't commit, through a motley crew of people who come on the adventure with Rick and help in his quest to try to clear their friend and help Rick find the missing book of the Bible called the Book of Nathan.The writing was fairly skillful. Characterization was slim, while the narrative was extra heavy on plot. You are drawn into the factions for and against abortion - not a spoiler, you find this out early on. I was a bit taken aback by it, but it did have its merit as the plot developed further. I hit a snag in the middle of the book due to a highly implausible plot point that nearly caused me to cast the book aside in search of the next book in my huge to-be-read pile, but I persevered and ended up finishing the last half of the book well after bedtime.Though I do recommend this book, some people may be insulted by either view on abortion, even though the book itself doesn't take a heavy stance either way. The race to find the book of Nathan is an interesting one and the plot twists are plenty. It was a fun book to read, but not quite five star material. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost lost me half-way through </p>
+
+
+<h2> review.date </h2>
+  04-30-2012  
+<h2> review.text </h2>
+
+ <p> The book introduction is subject to some misunderstanding, as it implies there is an emphasis on a Bibilical conspiracy thriller, ala Dan Brown or some other historical mystical thriller.  It's more of a detective legal read than that.Rick Bullock is a former Madison Avenue executive who now runs a NJ homeless shelter. One of his clients is Miklos (Zeus) Zeusenoerdorf, who is accused of committing a murder in Florida.  Bullock engages his long time friend Doug Kool to help facilitate a prison visit and ends up exchanging this help for a personal favor:  escort a gangster's niece to Florida for a job interview.  We all know how well this will end up!! Apparently, the niece (Twlya Tharp -- but not THE famous Twyla Tharp) is a ditzy prostitute/stripper who is trying to go legitimate and Maglio (the gangster) wants to ensure all goes well.The plot continues with Zeus' apparent inadvertent involvement with a evangelist who possesses the Book of Nathan, one of the missing books of the Bible.  The plot goes on to involve pro-life and pro-choice radical groups and a wild, frantic ride around Bullock's attempt to clear Zeus' name while staying out of the center of a complex conspiracy.The plot is sufficiently engaging, not overly compelling and often a little disjointed.  I'm not sure if this is due to having two authors, but not all the parts fit completely together.  It has humor, strange twists and interesting characters, some of whom are one-dimensional and stereotypical (the big, thick necked Asian mercenary bodyguard, for example)I would have rated this 3.5 had I had that option but settled on 4 because I did like it and it was more than okay. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Overall Read </p>
+
+
+<h2> review.date </h2>
+  05-06-2012  
+<h2> review.text </h2>
+
+ <p> Great and unique characters make this suspense novel a great quick read. If you are a fan of the John loke style of characters (ie Donavan Creed)that are quirky and funny and interesting, you will enjoy this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A nice surprise..... </p>
+
+
+<h2> review.date </h2>
+  09-29-2010  
+<h2> review.text </h2>
+
+ <p> Rick left his high-paying job to run a homeless shelter.  One of his regular clients, a mentally-off giant of a man, is accused of killing a television evangelist.  Rick does not think he is guilty.  He sets out to prove it.During his escapade, he discovers a big controversy.  A pro-life group is keeping secret a long-lost book of the Bible that blows their idea of life at conception out of the water.  They think Zeus has the lost book, the Book of Nathan.The characters of this book are quirky and fun.  They are just as entertaining as the plot.  This is an awesome book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quirky and fun </p>
+
+
+<h2> review.date </h2>
+  08-09-2010  
+<h2> review.text </h2>
+
+ <p> I received an ARC (Advance Review Copy) of the BOOK OF NATHAN that was distributed at Thrillerfest, the annual convention of the International Thriller Writers which I attended. (The conference is great fun, and open to readers - I suggest that you consider attending it next year.) I enjoyed the story, although find it difficult to classify - it has elements of a thriller, but there is substantial comedic relief - bordering on farce at times. Part of the plot line also involves a very controversial social and political issue, although it is presented in a neutral way and does not involve the preachiness concerning their obvious agendas that some authors insert into their plots.As the book opens, we meet Rick Bullock, the former ad executive who is now a director of a NJ homeless shelter. His initial encounter with a new client, Miklos (Zeus) Zeusenoerdorf both sets the stage for the main plot and generates the memories of Annie, his deceased wife, which are a crucial element of his current job and desire to help Zeus. Zeus is soon accused of committing a murder in Florida, and Bullock recruits his friend Doug Kool to help him visit Zeus in jail in order to attempt to overcome Zeus' limited communication skills and piece together what happened. Immediately Doug recruits Manny Maglio (the king of the strip clubs) as a benefactor if Bullet will aid in chaperoning his niece, Twyla Tharp (not the well known Twyla Tharp, but a stripper who has taken her name). And while the characters are very entertaining, they get even weirder, including Yigal Rosenblatt, Abraham Arcontius, Maurice Tyson, and Doc Waters.There are multiple attempts apparently meant to distract and even kill Bullet (Doug's nickname for him), but after returning to NJ he perseveres and gradually uncovers the underlying cause for the murder of Benjamin Kurios, the "prince of evangelists" and supposed key to the wisdom in THE BOOK OF NATHAN. This title refers to one of the "missing books of the Bible", to which there are references elsewhere in the text. The BOOK OF NATHAN is mentioned in 2 Chronicles 9:29 (incorrectly identified in this first printing as 1 Chronicles, a fact amazingly not mentioned by any of the previous reviewers who rushed to get their reviews posted and couldn't even bother to check the reference in the text). The story is a wild ride, literally and figuratively. While the plot is very clever, I find it impossible to outline further without including spoilers.The action is very fast paced, but the frequent injections of humor and weirdness kept the tension intermittent rather than letting it consistently build. In many ways the story was as much a mystery for Bullet to unravel as it was a real thriller. This is not a story to be skimmed, since much of the enjoyment and cleverness is in the details including the character development and humorous touches, particularly the Kielbasavan episode. In my view, the authors attempted to do too much, and my rating of what I view as a generous four stars is an attempt to balance the many diverse plusses and minuses of the book.First, the plot had five star potential but I believe that the authors should have decided whether they wanted to write a mystery with comedic overtones or a thriller; I do not believe that they were totally successful in attempting to straddle those genres. They definitely deserve credit for the clever use of a unique Biblical anchor to the story.Second, as I have mentioned, the contentious subject matter was handled in an informational and neutral way, and the outcome was not at all definitive regarding the conflicting viewpoints that were at the center of the story. Extremists on both sides were not painted in a very favorable light, and there was no attempt to influence the reader regarding the issue involved. This is not a book about religion; rather the religious beliefs of some characters are a central element of the plot.Third, while most of the characters were relatively undeveloped, and in fact the majority could be described as caricatures and stereotypes, this treatment was in keeping with the overall style of the narrative. In opposition, the complexity of Bullet's motivation and the impact of his wife's death on his life's trajectory made his actions quite believable.Fourth, the humor was really well done, even if jarring at times. It is a difficult feat to juxtapose scenes involving Weiner Man with the meaningful use of Latin references, yet somehow that was done in a manner that did not seem contrived.Finally, the story is relatively short and an easy read; the authors did not attempt to pad it with extraneous characters or irrelevant plot additions.So, the flaws and somewhat uneven writing (perhaps a function of co-authors) clearly kept if from being a five star novel in my estimation, but after considering my rating I decided that I had enjoyed it more than the books which I have rated three stars - so I settled on four stars.Tucker Andersen  8/9/2010 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Light Hearted Thriller (Reviewed by a Long Time Amazon Reviewer) </p>
+
+
+<h2> review.date </h2>
+  06-13-2012  
+<h2> review.text </h2>
+
+ <p> I am enjoying the book currently!  Interesting and enjoyable.  I would recommend this read to anyone.  I think that persons who are endevoring upon good, wholesome and clean reading will find this book most enjoyable! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VVM </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

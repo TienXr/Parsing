@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1601622589 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-23-2010  
+<h2> review.text </h2>
+
+ <p> This book started off slow and then in the middle when we read abour Carins' abuse by Monty it started to get deep.  The book was a little too long for me, it could have been shorten.  The last few pages of her story really makes you realize the importance that  forgiveness can have on your life.  Good book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> INSPIRATIONAL </p>
+
+
+<h2> review.date </h2>
+  12-16-2010  
+<h2> review.text </h2>
+
+ <p> this book was so goooooood!!! i loved how it was real life and not like i cant believe this. it was described to a tee. it made u feel every character in this book. its not the average street hardcore killing,raping,gangsta type of book, but dont get it twisted!!! she brought the heat with this book. i loved it so much im going to get the other on. i pray that its this good. for this to her first book she is not playing!!!! she put her foot in this one. a woman could actually see herself going through something like this or at least no someone that did.wow!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> real life </p>
+
+
+<h2> review.date </h2>
+  01-22-2010  
+<h2> review.text </h2>
+
+ <p> Ms. Ellis is a great storyteller.  From page to page you feel the emotion, excitement, anger and energy Carin is feeling. I found myself caught up in the good old days as the author so poignantly described life in the early nineties. The first part of the book kept a smile on my face and had me thinking back in time about the clothes, cars, music and jewelry of that era. It was fun reminicing about the fun and often wild times I had in the nineties. This story really brought back that period in my life and I had to stop and thank GOD, that because of HIS grace this wasn't me. This was such a well written story it was not rushed in any way but there was never a dull moment. The title says everything about the story inside. I "Loved" it.  I will definately read this again later this year.  I am going to let my teenage daughter read this as well as the issue of domestic violence is so prevelent in her generation.  This one is a MUST READ for all women (young and old) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Story Awesome Read </p>
+
+
+<h2> review.date </h2>
+  03-04-2010  
+<h2> review.text </h2>
+
+ <p> What a page turner this was my first time reading from Ayana Ellis and I msut say job well done, Carin went through it with it Monty her life period, Don't want to tell the story so inspiring....PAGETURNER INDEED..READERS PLZ ADD THIS ONE TO THE LIST </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME AWESOME !!!!! </p>
+
+
+<h2> review.date </h2>
+  04-10-2010  
+<h2> review.text </h2>
+
+ <p> "Full Circle" tells the story of Carin Douglas.  A girl who was raised by a single mother that didn't give her the attention she needed so she sought out her attention in the streets.  Carin was a smart girl that didn't always put herself in the right situations.  In her young days she runs with a stick up crew and then as she grows older she finds herself in an abusive relationship.  Her father comes back into her life around the age of 18 but even he can't stop her from staying with a man that beats her like she's a man.  I won't tell the ending but I think the author wraps things up in a good way.I thought this book got slow during the parts of Carin's life where she was being abused but now that I think about it maybe the author was really trying to display through her words why people stay in abusive relationships.  Other things that I enjoyed about the writing style was telling the story through the different character's points of view and the inspiration that this book may provide to people who may be in this situation.  Also, by Carin being dressed in the best clothes and driving the best cars but still being beat by her fiance shows that you never know what goes on behind closed doors no matter how much money someone has.  It shows that all that glitters is not gold.  Overall this was a good book that I highly recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Read Worth Your Time </p>
+
+
+<h2> review.date </h2>
+  12-31-2009  
+<h2> review.text </h2>
+
+ <p> This was a good book. This book actually surprised me,I needed something to read so I purchased this book to read until my book I ordered came through the mail.But this was page turner. If you havent read this please do. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great read </p>
+
+
+<h2> review.date </h2>
+  03-31-2010  
+<h2> review.text </h2>
+
+ <p> This was a very well written story that was gripping, gritty and full of both passion and pain. Ms. Ellis detailed the many faces of love thru her journey dealing with her father not being around, domestic violence and having the courage to overcome it. This story had me so wrapped up that I at times caught myself talking to Carin, hoping that she would leave but understanding that until she decided that she was sick and tired of being sick and tired that nothing would change, but so happy that she was able to forgive and move forward. I admire the courage it took to bring to this issue to the forefront in such detail. A page turner to the very end!TONYA CARPENTERDEJA VU BOOKCLUB REVEIWER </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FULL OF PASSION </p>
+
+
+<h2> review.date </h2>
+  03-08-2010  
+<h2> review.text </h2>
+
+ <p> At the tender age of 15 Carin Douglass was already wise enough to know what was missing from her life; the love of her father.  When Darren abandoned Carin's mother Jackie, he left Jackie bitter and unable to show love to the daughter Darren left behind as well.  When Carin started searching for the love that was missing at home it led her to Chauncey, Panama then eventually Monty.  Chauncey helped Carin to feel needed while Panama transformed Carin into the Bonnie for his Clyde.Panama's tutelage landed Carin behind bars and forced Jackie to seek out Darren to help rescue Carin from incarceration. By 19 Carin is all grown up and she feels that Darren's fathering is too little too late, especially when she snares Money Monty.  Monty has no problem winning over Carin's heart he's generous and caring.  But when Monty's abusive tendencies surfaces how long will Carin suffer while attempting to prove that she's better at maintaining a relationship than her mother?  Can Carin's father become the man of her dreams and rescue her from the man of her nightmares that Monty has metamorphosed into?In Full Circle author Ayana Ellis paints a vivid picture of a young girl looking for love and the people she turned to in her attempt to fill that void.  Ayana has a flair for storytelling bringing not only Carin's character to life but also the Brooklyn streets and the early 90's era from fashion, music, places and the lingo.  It all helps readers to feel as if Carin's journey becomes their own. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reciprocity (4.5 Stars) </p>
+
+
+<h2> review.date </h2>
+  04-11-2011  
+<h2> review.text </h2>
+
+ <p> OMG this was a great book. I finished this book in record time. It was definitely a page turner. I personally have never dealt with physical abuse but this book allowed me understand how someone can stay in this type of relationship. This book opened my eyes to so much and I am truly grateful. Physical abuse can happen to any one of us, and people who never thought they would deal with it or stay in an abusive relationship actually do. I originally was hesitant about reading a book about abuse. I mean I thought it was about a girl who just stayed in an abusive relationship.I have told a number of my friends and family about this book.The author was simply amazing at telling this story, it fact it is more than a story, this book was based on real life events. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly recommend this book... </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> This book is a poignant look into the tattered life of a domestic violence victim. It was an incredibly realistic read and is one of my top ten favorite books. I really felt so bad for the protagonist and all of the rejection, abuse, and turmoilsheshe had to experience. This is a very solid and well-written literary piece. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Definite Must Read! </p>
+
+
+<h2> review.date </h2>
+  08-15-2011  
+<h2> review.text </h2>
+
+ <p> LONG STORY BUT IT WAS GREAT!! CARIN WAS CRAZY AS HELL FOR PUTTING UP WHAT SHE DID WITH MONTY THAT LONG AND HE WAS JUST A A NUTCASE THAT GOT WHAT HE DESERVED IMO. NO SYMPATHY FOR HIS ASS AT ALL. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME </p>
+
+
+<h2> review.date </h2>
+  01-22-2010  
+<h2> review.text </h2>
+
+ <p> I have to agree with the previous reviewer this was a page turner, I couldn't put it down. Don't miss out on this one go out and buy it. I had to give it 5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Read </p>
+
+
+<h2> review.date </h2>
+  03-20-2010  
+<h2> review.text </h2>
+
+ <p> Carrin Douglas is a headstrong teenager who can handle herself on the streets if need be. Carrin's father Darrin had long since walked out on her and her mother Jackie, pushing Jackie into the single parent role. Carrin viewed her mother as "cool" when she wasn't mad about something. But lately Carrin didn't like the way Jackie was never home, either she was at work or out with her boyfriend Tony leaving Carrin alone to fend for herself...and Carrin definitely wasn't "cool" with that! So being the defiant teenager Carrin began cutting school and hanging with boyfriend Chauncey who absolutely adored Carrin.But Chauncey paled in comparison to the charisma of older stick up kid Panama, who was more of the rough and ready type that would keep Carrin on her toes. Panama promptly pulled Carrin into his edgy world which left Chauncey in the dust and brought her serious trouble. But Carrin was a ride or die chick and suffered the consequences like a trooper.Hearing of his daughter's troubles from Carrin's mother, Darrin decides it's time to step up and try to build a relationship with Carrin.Leaving her teenage years behind, Carrin decides to clean up her act and move on from her past. She meets Monty aka "Money Monty" and the two indulge in a relationship where money is no problem and the loving is plentiful. But eventually Carrin begins to see a different side of Monty emerging, bringing rage and jealousy full force with the fall out leaving Carrin battered and bruised. By the time Carrin realizes Monty has a serious problem she has already invested her heart. Will Carrin stay with Monty and continue to be his fall out girl or will she reveal her past and show him that she is not to be messed with?Do certain childhood events play a part in how we conduct ourselves in relationships as we get older? Answer that question for yourself as you read Ayana Ellis' "Full Circle" and take an inside look into the lives of an abuser and the abused.Each chapter is headed by a character's name and their thoughts, actions and personalities are exposed so the reader is able to get the story from all sides. Ms. Ellis gives true dramatic accounts and this read will touch your heart as you realize this story could be based on someone you know...because this is as real as it gets.Bravo to Ms. Ellis for having the courage and strength to share her story.LocksieARC Book Club Inc.Star Rating 4.5**** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Why does love always feel like a battlefield? </p>
+
+
+<h2> review.date </h2>
+  07-18-2012  
+<h2> review.text </h2>
+
+ <p> This is really a great story. I hope is get the publicity that it deserves.  The story makes you want to read, read, and read. I read the last 400 pages is one day.  The character Carin makes you admire her, love her, sympathize for her, and just want to shake some sense into her.  This is a book everyone should read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very compelling book </p>
+
+
+<h2> review.date </h2>
+  10-27-2010  
+<h2> review.text </h2>
+
+ <p> Ayana Ellis did what alot of authors have trouble doing...and thats SHOWING a story! You can tell that this book was based on a true events because it was so real and I could visualize everything so well in my head.At times I didnt know wether to love or hate the main character Carin,My heart really went out to her though..This book took me on a emmotional rollercoaster ride,yes it is long but I loved every minute of it and I congratulate the author on a job well done. I just wish I knew the details of how Monty got that slanted eye..I was waiting for more info on that but it never came.I was also hoping that Chauncey would come back in the picture,I really liked his character.Other than that,this book is a must read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not only did I read the story,but I felt the story! </p>
+
+
+<h2> review.date </h2>
+  12-30-2010  
+<h2> review.text </h2>
+
+ <p> I like this book a lot  it started off a little slow but as the author development the story it got better and better , there was a few error thats didn't take over  from the story ,domestic violence is a very serious illnes that was very much a part of this story as i read on i could feel Carin pain,i just didn't understand the mother. I recommend every young person starting to date to read this book. one slap is too many.very good job on the book and i would read this author again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> when ur pass  becomes ur future </p>
+
+
+<h2> review.date </h2>
+  04-08-2010  
+<h2> review.text </h2>
+
+ <p> Carrin Douglass is wise beyond her years, even at the age of 15 years old, not only did she have common sense, but she also had street smart. With the combination of both tools, she is able to handle herself in any situation, so she thought. The only thing that she wasn't able to handle was when her father Daren walked out on her mother and her. She craves her father's love but her mother's nurturing.Jackie is a single mother, who never forgave Daren for pushing her into this role. She took it out on Carrin, by never being there, and not having food in house. Will Jackie change her ways?Chauncey who is Carrin long time boyfriend, only wanted the best for her, but will he be able to stand up to Panama charismatic ways? Panama lures Carrin into his lifestyles, setting up and robbing people. Will she be able to leave this lifestyle ?After hearing his daughter was troubles, and in need of help, Daren decided it was time to step up and be a man and helped his daughter in her time of need. After doing her time in jail, Carrin decided to change her ways and end up meeting Monty aka "Money Monty".Thinking that Monty was the guy of her dream, the two became inseparable. However, there was a deep dark secret that she did not know about. Carrin started seeing a different side of Monty, a side that no one should ever experience. Will she be able to escape? Or will she end up dead?After reading this book, I wanted to speak with this author. The characters in this book was so realistic, it had me on an emotional roller coaster. I spoke with Ms. Ellis and learn that this is what she went thru, the emotional and psychical abuse that she endured was heartbreaking. She wanted to be able to tell her story; she wanted to be able to help one person to realize there is help out there. If you're in this type of relationship, please get help and don't be afraid to ask. This took a lot of courage; I congratulate Ms. Ellis in writing this inspiring novel. I cannot wait to see what she has up her sleeves. I highly recommend this books to ALL readers, across the board.ShaifireUrban Fire Books5 stars </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WHAT'S LOVE GOT TO DO WITH IT? </p>
+
+
+<h2> review.date </h2>
+  10-11-2010  
+<h2> review.text </h2>
+
+ <p> It's depressing to see how men beat women they say they love, and how women minds are warped to stay with their abuser. If he smacks and slaps you around once, get ready for the calm before the storm.This is a must read for women AND MEN! A realistic tale of domestic violence, obsession, and why women tolerate anything less than what they are worth! YOU CAN'T CHANGE A MAN, and VICE VERSA.To all that are in abusive relationships, your kids are watching your behavior, and don't be shocked when they grow up to beat women, and women accept getting abused. Take a bow, they learned it from YOU!Overall rating 5.0. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Story But Very Depressing!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

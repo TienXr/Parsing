@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00HY2RGWC <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-07-2014  
+<h2> review.text </h2>
+
+ <p> Easy reading but way too short.  I wanted to read more but all of a sudden it was finished.  Just got into it and it was over. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too short </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> Creeper and Pirate known as the X-Mafia is a vicious street gang that is  into all sorts of violent crimes. X-Mafia will harm anybody and anyone that gets in their way.  No one is exempt from the X-Mafia.The characters are very well written. As you are reading the story you can picture the description of each character.  The good and bad characters draw you into the story.The story line captures you from the first page.The  story filled with action from start to finish.KR Bankston did an excellent job with this book.I highly recommend you add X-MAFIA to your list of books to read this year. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mafia </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> I'm a big fan of the thin ice series so seeing where it all starts for Pirate and Creeper was a bonus. This book was packed with action and a definite page turner!  I was able to satisfy the thin ice series beast that I had growing in me. I would like to see what happens leading up to them linking up with the others from thin ice. Well written...I'm not going to spoil it by giving away parts so you must purchase it for yourself along with the thin ice series if you never read it. This series is guaranteed to have you wanting more. This is what you call the true definition of a novel. You won't be disappointed...CHARNESE THE BOOK CRITIC DC </p>
+
+
+<h2> review.summary </h2>
+
+ <p> KR does it again....banger! </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> Starting out a little curious on the road the Author Kr Bankston would take us on.... Getting familiar with the character's we all were so consumed with.... Pirate and Creeper both dominant and interesting characters... Creeper name matched him to detail a non expressive individual. You would never know his thoughts... he was somewhat confused in his own emotions... but finding out he truly love someone.... his own boundaries were crossed...and that he couldn't control...Pirate... what can I say...my heart went out to him because loving someone would cause you to have deep emotions you never thought could break you the way it broke him.... both men started out very possessive not realizing the impact it caused... upon others. But in the end it all makes since. Kr Bankston is a phenomenal writer/author... she keeps you locked in wanting to see more and the outcome throughout the book... a page turner always... just itching for the next one.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Beginning </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> How can one person continue to write about so much male fineness to the point where you start wiping sweat from your brows in 20 Damn degree weather!  well KR Bankston did just that!  Lawd have mercy!  whew!  ok back to the review.  if you have not read the Thin Ice series, you missed the earlier introductions of the two characters but you will not need to read the series (however you will enjoy that series) before reading this book as she takes you right to the gusto immediately.  You will find that Things that look good are not always good for you.  the decisions you make today, can be one that will affect the plans you have for yourself for the future.  Cold, calculating and manipulating sums it all up for this crew. Those that thought it was a good idea to double cross or disobey these men got handled as the two men saw fit!  How much of your life are you willing to sacrifice in order to live out your dream!  Those are questions that will be asked as decisions for your very existence will have to be made.  This book had some of everything in it.  Dreams, tragedies, self preservation, betrayal, love, loyalty and heartbreak.  All of this between. the pages of one book.  So get ready to weather this storm and dig right in.  You will enjoy it.  Kudos KR. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My girl is at it again! </p>
+
+
+<h2> review.date </h2>
+  01-22-2014  
+<h2> review.text </h2>
+
+ <p> Absolute best book I have read in a long time! The characters jump off the page and entice you into their world.  I connected to all of the characters. I could feel their pain, sorrow, happiness and joy. This story makes you cry, laugh, sad, happy and relieved.  I could not ask for anything more in a book.I don't know what I could possibly say about this book that has not been said. It is every bit as good as they hype, and possibly even better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kudos to KR Bankston </p>
+
+
+<h2> review.date </h2>
+  02-04-2014  
+<h2> review.text </h2>
+
+ <p> Kr, please tell me there's a part 2 on the way!  This book was a page-turner. Now I know the back story about Creeper and Pirate from the Thin ICE series, but now I want more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great read! </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> As usual this is another banger. If you have not checked out other work from  Mr Bankston please do. With the literary industry the way it is its always good to get something different.Keep up the good work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read! </p>
+
+
+<h2> review.date </h2>
+  02-15-2014  
+<h2> review.text </h2>
+
+ <p> Pirate and Creeper, Trent and Craig these two men cause sin to trickle in.The leaders of the notorious X-Mafia gang are as deadly as they are fine. Inducing new members to the gang life changes the heart of one man. Aaron, friends with Kimiko and Tamiya. This book reads like a movie. I felt my heart pumping with adrenaline as I turned each page I have to wonder about a couple character that I'm sure we have not seen the last of. Great read I've enjoyed this book greatly well written. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My my my X marks the spot </p>
+
+
+<h2> review.date </h2>
+  06-13-2014  
+<h2> review.text </h2>
+
+ <p> Promising to make changes for a new way of life Creeper and Pirate find old habits seem to be hard to drop. KR Bankston is doing a fantastic job of going back and giving the beginnings of the Thin Ice characters. These stories are just as electrifying as all her books are.Good Job!4.25 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pirate and Creeper.... </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> I WAS INTO THIS BOOK FROM BEGINNING TO END SO MANY TWIST AND TURNS A MUST READ IF U LOVE THUGS AND BEING IN LOVE WITH ONE LOVED CREEPER AND PIRATE IS SOMETHING ELSE BOTH ARE NOT TO BE FOOLED WITH </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW VERY NICE READ </p>
+
+
+<h2> review.date </h2>
+  01-22-2014  
+<h2> review.text </h2>
+
+ <p> This book was soon good. If you read the Thin Ice series you know who these guys are. It was good to read how they got their beginning. Th u s is going to be another great series from th I s author. Highly anticipating the next one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it </p>
+
+
+<h2> review.date </h2>
+  04-02-2014  
+<h2> review.text </h2>
+
+ <p> Mrs. Bankston has done it again. This is what you call entertainment. My emotions were all over the place, I wasn't sure if I should be team creeper or not. I hated him and loved him. Wow. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent </p>
+
+
+<h2> review.date </h2>
+  02-07-2014  
+<h2> review.text </h2>
+
+ <p> This story had me on edge the whole time! Creeper and Pirate about that life for real! I really enjoyed the read in  about how they came up in the game and how they love to the bitter death! Once again KR  did her thang! Excellent Story! A must read for all the Thin Ice fans you will not be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Rise </p>
+
+
+<h2> review.date </h2>
+  07-22-2014  
+<h2> review.text </h2>
+
+ <p> This was a excellent read. KR Bankston has done it again with this one. This book captured my attention from page one and held it until the end. If you are looking for excellent read this is the book for you.The characters and story line were all well written. The author does a great job pulling you into the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Team Creeper </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

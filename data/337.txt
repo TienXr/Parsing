@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1599180812 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-12-2002  
+<h2> review.text </h2>
+
+ <p> This book is really packed with a lot of information and resources for the entrepreneur-to-be. Covers all aspects to be concidered when starting a new business, be it a home-based, a franchise, buying an already established business, etc. and even advises on which legal structure is more adecuate for your type of business. Has a lot of links to the web which can offer tremendous help on this matter. Buy, have it borrowed, do whatever, but read it. You wont regret it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very, very helpful </p>
+
+
+<h2> review.date </h2>
+  03-16-2007  
+<h2> review.text </h2>
+
+ <p> My nephew wants to start his own business and be self sufficient. He had no idea where to begin since his whole family works for the City of New York. I got him this book for a birthday present and he called me and told me it was just terrific and that it gave him many great ideas. I pass this information on to you. It's tough to be self-employed but this book is a good way to see how to get your feet wet.Frank Scoblete author of Golden Touch Blackjack Revolution! and Golden Touch Dice Control Revolution! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My Nephew Loved It </p>
+
+
+<h2> review.date </h2>
+  09-15-2006  
+<h2> review.text </h2>
+
+ <p> There is a lot to starting a business. Some people KNOW what business they want to get involved with and start. While others are clueless. The clueless bunch are the ones who should consider reading this book. It covers quite a few topics that an entrepreneur must consider when starting a business. But it does not go overboard going into too much detail on any of the topics.The book covers the following issues:1. Do you have a business concept? Are you qualified to start a business (do you have what it takes)?2. Researching your business concept and writing a business plan3. Financing your business: family, friends, banks, angels, VC firms4. Getting started in business after you have a sound business plan written5. Marketing, promoting, publicity, advertising, customer service, and the Internet6. Bookkeeping and taxesI thought the book was well-written and fairly well organized. It is divided into eight parts. I would have liked it better if Parts 4 and 5 had been consolidated into one section called "Getting Started." I also would have liked the book better if Parts 6 and 7 on marketing had been consolidated into one section and the material on how to put together a Web site saved for another book. I think the chapter on business plans was deficient, and maybe that subject should have either been beefed up a bit or saved for another book.This book provides someone new to small business with insight, tips, knowledge and expertise to take their desire to start a company to the next level. It's in its third edition and still selling well, so it would be kind of hard to knock this "introductory small business guide." 5 stars! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book for someone thinking about starting a small business. Easy to read format and easy to comprehend. </p>
+
+
+<h2> review.date </h2>
+  11-03-2000  
+<h2> review.text </h2>
+
+ <p> This book is very general but it covers a wide range of areas.  I enjoyed reading this book and it is something that I can refer to over and over again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good book </p>
+
+
+<h2> review.date </h2>
+  02-27-2006  
+<h2> review.text </h2>
+
+ <p> This is a great book in that it is big enough (about 800 pages) and written by enough people (the staff of Engrepreneur Magazine), and has been around long enough (this is the third edition) that it can cover nearly every aspect of the formation of a business.There is so much information here that a lot of it will not be helpful to you -- so skip over those parts. For instance, consider location. They have a chapter on locating your business. I wanted to work at home in a small town in the remote west. I picked the location and then picked the type of business that I could do to meet these other requirements. If, on the other hand, you are thinking retail, your location requirements are different.Two comments I'd stress a bit stronger than they do, as in it can't be stressed strongly enough.1. Cut your 'nut' (the amount of money you have to have each month) to the absolute minimum so during the start up phase you don't have such a high burden to carry. Buying a new house, a couple of new cars and having a couple of kids in college would put quite a burden on a new business.2. Buy used equipment first. They talk about computers. I needed a new one. Well not new, but another one. I found one at a thrift shop for $75, added $20 worth of used memory from e-Bay and have one that is just as functional as the newest ones.Overall, an excellent overview of what you're about to get into. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Overview of the Whole Shebang </p>
+
+
+<h2> review.date </h2>
+  06-10-2008  
+<h2> review.text </h2>
+
+ <p> This is an excellent book for the aspiring entrepreneur. Having worked for the larger corporations most of my life and having very little experience in running my own business I found this book to be comprehensive and thorough in introducing me to the intricacies of starting a business. Reading it showed me that there is no reason to be intimidated by beginning such an entrepreneurial venture and it's probably the smartest thing that a person can do who wants to take responsibility for their life in the working world. The book is quite inspiring, it's very thorough, and it's formatted like a map while showing me how to properly navigate the curves, speed bumps, and detours along the way as I start my own small business venture. As the book says, to be forewarned is to be forearmed and the book shows the best route to take on the exiting journey. The 4th edition of the book has been revised and updated to take into consideration the ever dynamic changes of the contemporary business world where business ideas, trends and strategies are always in a state of flux. I highly recommend this book for the aspiring entrepreneur who wants to take a leap into business ownership. As the book says there are few entrepreneurs who are sorry they took the leap into business ownership and few ever regret taking the journey. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A primer road map </p>
+
+
+<h2> review.date </h2>
+  12-15-2009  
+<h2> review.text </h2>
+
+ <p> Many businesses fail soon after they start, but how does one avoid these mistakes? "Start Your Own Business: The Only Startup Book You'll Ever Need" is the fourth edition of Entrepreneur Magazine's volume on breaking into the world of being your own boss. With plenty of informative info on everything from getting the creative juices flowing, pushing one's product, and beyond simply starting, "Start Your Own Business" is a volume that should be in every starting entrepreneur's collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A volume that should be in every starting entrepreneur's collection </p>
+
+
+<h2> review.date </h2>
+  05-25-2010  
+<h2> review.text </h2>
+
+ <p> This book is a great starter resource for anyone who seeks to start a retail business. I own two businesses, one service the other retail, and it really doesn't do well to cater to service start-ups. The book does have some valuable resources and to me it encompasses a bunch of already provided knowledge and puts it in one place. I think for anyone in a service industry interested in starting and creating a business you should read The Magic Touch: How to make $100,000 per year as a massage Therapist by Meagan R. Holub. Don't let the title fool you! This book is a blueprinted action plan that helps guide service professionals to a successful career, making 100k/yr. The great thing about Meagan's book is the writing style. It's conversational, honest and passionate! A must have for building service businesses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great Appetizer </p>
+
+
+<h2> review.date </h2>
+  01-24-2003  
+<h2> review.text </h2>
+
+ <p> This is a very comprehensive (and big!) book. It covers all the basic steps you need to know about starting and running a business, from business forms to accounting to buying insurance to employee issues to purchasing.  No one subject is covered in great depth, of course, but reading the book gives you a VERY GOOD IDEA of what kind of work you're getting yourself into when you run a new, small business.Not every chapter will be worthwhile (I pretty much skipped the chapter on how to select office equipment) but most chapters are worth a quick look, and many were worth in depth review.  Of all the &quot;basic overview&quot; type books about starting and running a small business that I've plunked down money for, this one is the best, HANDS DOWN! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best primer on running a business I've seen </p>
+
+
+<h2> review.date </h2>
+  05-01-2005  
+<h2> review.text </h2>
+
+ <p> "Start Your Own Business" is a great book for the first time business owner, or anyone who is thinking about owning a business.  The book covers a wide range of topics from idea conception, to choosing a business structure, obtaining financing, performing market research, buying equipment, basic accounting, etc.  This book covers almost every topic related to starting a business.That being said, the book doesn't go into great detail on most of the topics, it merely introduces each aspect and explains the most important parts.  However this book is quite incomplete without additional information.Regardless this book has some great information in an easy to read format.  The book includes some great web sites that give more information on particular topics but I wish that the author would have included more book recommendations.If you are thinking about owning your own business, this book is for you.  But if you already own a business, this may be too elementary for you.  But if not, I highly recommend this book.  5 out of 5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great starter book </p>
+
+
+<h2> review.date </h2>
+  07-07-2008  
+<h2> review.text </h2>
+
+ <p> I couldn't believe how much I got from this book on starting my business.  If someone had shared these tips with me when I started, I could have shaved five years off my learning time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Helpful </p>
+
+
+<h2> review.date </h2>
+  06-30-2008  
+<h2> review.text </h2>
+
+ <p> It does not even cover LLC properly - like the difference between single-owner and multiple-owner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Primitive </p>
+
+
+<h2> review.date </h2>
+  04-26-2009  
+<h2> review.text </h2>
+
+ <p> The 4th edition of the book has been revised and updated to take into consideration the ever dynamic changes of the contemporary business world where business ideas, trends and strategies are always in a state of flux.I found Start Your Own Business to be a lot more informative and helpful than the Business Kit book, but I worry that if I had started with it, I would have been initially overwhelmed. 700 pages to many to read.The book is good in providing general information as good as could be provided by one book to cover all the issues involved with starting a business in a nonspecific field.SMALL BUSINESS-The Art of The Start -40 Successful Concepts for  A Small Business Start-up - You Start, Grow And Succeede-Marketing Intelligence - Transforming Brand and Increasing Sales  - Tips and Tricks with Best Practices </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Primer for every new business </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> Something to alway have on the book shelf to flip back through. In the process of setting up a business or thinking where do I go now, kep this one handy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Keep this one handy </p>
+
+
+<h2> review.date </h2>
+  04-26-2006  
+<h2> review.text </h2>
+
+ <p> The first thing anyone considering this book should bear in mind is that it was written for inexperienced would-be entrepreneurs. Non-beginners would not appreciate its simplified outlook."Start Your Own Business" provides all the basic advice and guidance in getting a small business up and running in a matter days. Each chapter comprises of salient points, which were explained using simple terms. The coverage of these chapters include: business planning, administration, finance and marketing. There is also valuable information on how to articulate and manage customer relations, information technology, as well as enterprise growth and expansion.Indeed, floating and keeping an enterprise running is a very demanding task, and the pieces of advice found in this book could make the difference between success and failure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SIMPLE  BUSINESS  GUIDE  FOR  BEGINNERS </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

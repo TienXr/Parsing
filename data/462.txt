@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00FCAZTYK <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved this book </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very educational for all ages. The pictures are beautiful and brilliant in color. Very well done. They explain quite well about each animal they present. I can hardly wait to read this to my grand children which is why I purchased this book. Well worth the money. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 50 Wonderfully Weird Animals Will Delight </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved this book. It contains 50 of the weirdest animals you will ever find. Each animal is shown in wonderful color and all its glory and then you get an interesting fact filled write up about the animal. This will educate, delight and entertain kids of all ages and will make the adults realize they don't know everything. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Finally! An Animal Book With Freaky Weird Creatures! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Weird Animals by Donald Sullivan is freaky cool kids book with creatures you don't run across everyday. Finally, a book with an animal my daughter has never heard of! The Blob Fish! Too funny. The images are awesome and the facts crisp clear and exciting. Nice job! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A fun book with great photos </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was a fun read, firstly with the great photos of these weird and wonderful creatures, and then with a great explanation of what they were, where they lived and how they lived. The author has obviously taken great care with this book and this shows in how thoughtfully it has been put together. Thank you. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun for young scientists </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a fun way to teach your kids about the natural world. A short description of each animal helps kids learn, but it's the high quality photos that will interest them the most, at least if my kids are an example. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Weird Animals is Enlightening! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love picking up animal books for my niece and nephew. This one was a learning experience. I never heard of these animals and the kids were fascinated! They loved learning and were impressed with the beautiful images. Thumbs up! Get it for the kids! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> So Many Fun Facts! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Did you know that a caterpillar called the lonomia is the most poisonous in the world? Or that Emperor Tamarin monkeys grow giant mustaches? So many fun, interesting facts about strange animals! Your curious young one will love it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic, interesting animals. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Weird is an understatement for the animals presented in this book. I love how the author has gathered such weird and interesting animals into this collection. The photos are detailed and beautiful.This a great learning tool for older children. Would be a wonderful starting point for a school project. Highly recommended. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Interesting animals </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book contains a lot of amazing and interesting animals that I've never knew existed.  Some are weird looking but some are really beautiful to look at.  I had a great time looking at the pictures inside and discovering what these animals are.  Children will definitely enjoy this book and learn as well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Toy Doll </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Weird Animals my daughter loved it. I liked it. Never knew there were animals in the world that looked like that. Besides great pictures the book was informative on each species. If your child likes animals & weird things they'll like this book. A lot!. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Entertaining & Educational Animal Book </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Just purchased this book for my grandchildren and wanted to check it out first. I really just wanted to make sure that it was okay for them to have, but before I knew it, I had read every description and looked and all the pictures in the entire book. It is just that fascinating! The book has some really scary critters like the Tongue Eating Louse, a parasite that actually eats and eventually replaces its host's tongue and the Narwhale, which has a horn on its head that can get to be 9' long. 50 Weird Animals also features some deadly specimens like the Komodo Dragon, which can reach 10 ft. long and weigh up to 330 lbs., and the Pacu Fish, which the natives call the "ball cutter". The Pacu has been known to bite off and eat human appendages. Ouch!! Then there are the really cute creatures like the Angora rabbit, and my favorite, the Venezuelan Poodle moth, which looks like a tiny Poodle dog with wings and antennae.The only thing I could find wrong with the book was the photo didn't show the teeth of the Atlantic Wolfish also called the devil fish. The book says this fish has so many teeth that it can't close its mouth yet the picture does not show the teeth.If you are looking for a delightful, yet educational book to share with your children and grandchildren, this book fills the bill in every way. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

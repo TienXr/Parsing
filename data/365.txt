@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 178116262X <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-02-2014  
+<h2> review.text </h2>
+
+ <p> The Secret Lives of Married Women by Elissa Wald left a lot to be desired in a novel that was a Hard Case Crime Novel or by the cover, a book of erotica. There were surprisingly very little of either.There was no great mystery to solve and very little in the way of erotic moments in the book. Two whole stories and one good sex scene between them both? What there is in The Secret Lives of Married Women are two very confused married women.The first story is about Leda, a young married woman who is pregnant and buying her first home with her Russian husband Stas. She finds a handyman who is helping her with her remodel, but seems to be taking a much more avid interest in her. Leda complains to her husband and soon the handyman goes missing. Leda must come to terms with her suspicion that somehow her husband may be involved in the murder of the handyman. More so, come to terms with her own feelings about it. The fact that she loved the thought that her husband may have killed for her. That this thought brought passion and danger to desire for her husband.The second story is about Leda's sister Lil, a high powered attorney who has little to no time for her husband or family life. Lil approaches everything in her life in a cold and calculating manner and the result of her attitude has begun to wear on her marriage. She takes a case for a well known real estate developer who is caught breaking the law. But what is surprising here is not the developer but his assistant. Nan. A young woman who up until this current job, had lived her life before as a submissive in a sex club. It is in her interviews with Nan that finds in herself, a longing for desire that she had left behind.Both stories are well written and character driven. They do seem poorly marketed. The Secret Lives of Married Women would have been better served not being advertised as some mystery noir with erotic overtones. For in that regard, it does fail miserably. Had it been marketing differently it might have been better appreciated for the characters and fine writing that it does have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as advertised! </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> This book is an indepth look at sexuality and how we view our own complex sexual lives.  This did not seem to be the typical crime novel, and I wish it had not been released as such.  Give this novel a chance, it really does touch on some facinating and complicated issues. You wont' be disappointed! I loved this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So much more than you'd think </p>
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> From a literary point of view, this erotic thriller is a step up from a lot of the junk out there.  That said, I was disappointed.  I ordered it after reading a review that covered it in the NYTimes Book Review recently, which gave me high hopes.  I just didn't engage fully with the story line,  felt the plot didn't have the energy to carry my interest.  It also seemed to split itself in two in a disjointed way, as the two sisters' stories unfolded.  Appreciate the effort, and did offer some hot scenes that were a guilty pleasure.  The torrid cover was amusing, kinda fun to read it on the subway at rush hour.  Left it on the subway seat when I was finished with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Meh </p>
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> This book is broken into two segments. Each segment focuses on one sister in a set of identical twins. Leda is the out going, full of fun twin that will try just about anything. She meets a young Russian immigrant, Stas, at work and eventually marries the younger man. Their story starts a bit slow as the author give us background info and sets the stage for the mystery that is the main thrust of their story. Leda had her first child within the first year of her marriage and became pregnant for the second child fairly easily. Life seems easy for her (thinks her twin, Lillian).The second half of the book focuses on Lillian and her husband, Darren. They met in college, went to law school together, graduated at the top of their class and ended up with jobs in top law firms in the same city. Lillian has been trying to become pregnant for years. The stress of the "calendar sex" has taken away most of the fun of their sex life. They are now down to just those times when she determine that she can become pregnant.Lillian takes on a new Client, a blind man, who has quite a story. His story ends up triggering a few changes in Lillian. Telling any more would be a spoiler! This book truly surprised me as it unfolded into the meaty parts. Interesting characters and a comfortable 'author's voice'. I loved the plot and how the two parts of the story were tied together. There are a few twists and turns and definitely a few surprises. I loved it and will be looking for more from this fine author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Twins with different life styles and LOVE styles! </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> THE SECRET LIVES OF MARRIED WOMEN, with its brilliant pulp paperback cover by Glen Orbik, sounds and looks a lot more salacious than it really is. It is a brilliant and spellbinding psychological exploration of the dark side written by only the second woman ever published by Hard Case Crime in its decade of existence. This is noir from a female perspective.Author Elissa Wald is an interesting story herself. She ran away to join the circus, worked as a stripper to put herself through Columbia University, and spent time exploring the world of S&M.; In 1995, she self-published --- still unusual back then --- a collection of S&M-themed; fiction called MEETING THE MASTER. The book became a cult hit, found a traditional publisher, and is still in print all these years later. Wald wrote her first novel in 2001. And then she vanished.Until now. THE SECRET LIVES OF MARRIED WOMEN is about two identical twin sisters, Leda and Lillian. Leda tells her sister, &#8220;It&#8217;s like we&#8217;re one person split in two. I got the wildness, the darkness and the artistry.&#8221; And as for Lillian: &#8220;You got the credentials, the integrity and the sense.&#8221; Lillian later admits that Leda &#8220;&#8230;was like a wanton, wayward version of me.&#8221; In this book, which is divided in half with each sister telling her own story, each will have her world turned on its head and have to face their darkest fears and the darkness inside them.The doppelganger has long been a feature of noir. But here it is not a paranormal double but an actual birth double. And the first sentence of the book tells us we are entering the noir universe: &#8220;Before that summer, the summer of fear.&#8221;This is a hard-boiled mystery, so it has all the elements: a stalker, a murder, a crime, a dramatic courtroom confrontation. But this is very much a psychological drama, told from a female point of view. The major action is inside the protagonists.Leda, the wild child, has settled down, fallen in love, gone the romantic route, and seemingly gotten it all. With a devoted husband, one child and another on the way, she is now on the verge of the American Dream --- moving into a new home in the suburbs. But as Freud pointed out over a century ago, the past, especially the past we have buried, has a way of coming back to haunt us. And events soon send Leda spiraling into doubt about her new well-ordered world. She says at one point: &#8220;I shouldn&#8217;t have married him, I thought for perhaps the hundredth time.&#8221; Eventually the prospect of violence will drive her into a state of terror. She says, &#8220;If you are lucky you can rid yourself of the wolf at your door, but what do you do if the wolf is in your bed?&#8221;For Lillian, she already has everything. A brilliant, successful attorney, she has worked hard and played by the rules. But she and her husband have been unable to conceive a child. While working on a major case, she encounters a woman who is a total submissive and who fascinates her. She finds that the woman &#8220;has a force field of whole-hearted focus, devotion, self-abandonment. Rapture.&#8221; Later, Lillian says of the submissive that &#8220;this young woman spent her every waking hour in a kind of erotic trance.&#8221;Just as Leda is forced to take a journey into the darkness of her current perfect life, Lillian must take a journey into the darkness of her own heart and starts exploring the world of S&M.; This will lead to one of the most explicit sex scenes that I have read in a recent novel.But while the title sounds like the title of a movie that would have been playing on 42nd Street in the 1970s, those coming to this book expecting a lot of kinky sex will be disappointed. This is a gripping psychological story that keeps you turning the pages. This is noir. And in the noir universe, nothing is ever as it seems. Even what we think we know for certain might be false. Leda describes it perfectly. Wald writes: &#8220;Sitting there, listening to the locusts seething behind the screen, I had a sudden dizzying sense of how scant a shelter we had here, how precarious it all was: the few planks underfoot that kept us above the dirt, the lanterns that we lit against the dusk.&#8221;In true noir, the darkness is always closer than you think. Elissa Wald is a great, honest writer. One hopes we will not have to wait another decade for her next work. And kudos again to Hard Case Crime for introducing us to another wonderful writer and keeping 21st-century noir on the cutting edge.Reviewed by Tom Callahan </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Crime Noir from a Female Perspective </p>
+
+
+<h2> review.date </h2>
+  06-01-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed this book and it was a quick read.  The characters are pretty intense for such a short story and both couples were very different, but still believable.  The eroticism was very well done, it was arousing but subtle. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A different twist </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> Hard Case Crime doesn't publish many books by women and perhaps there is a dearth of women writers in the hardboiled field.  Even so, Hard Case has found a couple of topnotch female writers who offer a slightly different perspective to the writing.  Elissa Ward has not solely worked as a writer, but has worked as a stripper and in a carnival.  Perhaps such life experiences prepared her for the type of writing that she does, perhaps not.The Secret Lives of Married Women appears to be quite salacious and provocative from both the lurid cover and the title.  One would think that it is more about sexual affairs than it is.  It is an unusual book for Hard Case to publish. It neither involves a hardboiled detective nor a bumbling criminal on the run from the mob, the police, his inlaws, or foreign mercenaries.It is the story of two sisters, Leda and Lily.  One goes to work in a computer firm, after dating many of the wrong guys and quickly marries a Russian immigrant with a slightly mysterious past.  They move to Portland, where the sister meets a too-friendly handyman who shows up unannounced virtually every day while the woman is home alone with her infant.  Her feelings of being creeped out by Jack the Handyman are conveyed quite convincingly as is her initial inability to share with her husband aspects of her racy past that she wishes no one knew about anymore.  Yet, somehow the handyman has viewed the films and knows her past.  This portion of the book is compelling reading.The second portion of the book focuses on the other sister, the one who did not have a racy past, went to law school, married her best friend from law school, and has a somewhat boring love life with him.  It features a courtroom incident where the lawyer sister is shocked by what issues from the witness stand although the reader, having come to know the witness, is not surprised.  The focus of this portion of the book is this sister's fascination with sadomasochism.  It does contain elements of courtroom drama, blackmail, and sexual experimentation, but those elements are not overwhelming in the story and the true story focuses on the sisters' emotions.It is a well written book and reads quickly, but it is, as mentioned earlier, somewhat outside the crime fiction world. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Elissa Ward Knows How To Write </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> The psychological and emotional aspects of this book were really well done.  I found myself really enjoying the stories because I was so emotionally engaged with the characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> enjoyable & involving </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> Being a fan of the  Hard Case Crime imprint,  at first, I too was surprised at this book's presence in the publisher's line.  And being a fan of the imprint,  I've recently began pre-ordering Hard Case Crime books.  When this book arrived, the cover did not surprise me, it appeared a perfect fit with earlier books.  But I hadn't read any reviews; in fact, I didn't know anything about the book except it's publication date.Halfway through the book I recalled a famous Hitchcock movie.  Then as I read the book took a turn, and then several more turns that I had't anticipated in the least.Perhaps it's best to come to this book unprepared.  I just completed reading some reviews, and I'm glad I read them after I finished the book.  I agree with the reviewers' praise, though to best enjoy this book and it's series of surprises, merely read and enjoy!...And then compare with like minded readers who've finished this book!  You're in for a treat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Breathless pace, Surprises in store </p>
+
+
+<h2> review.date </h2>
+  11-12-2013  
+<h2> review.text </h2>
+
+ <p> I am not familiar with either the publisher or the author. For those who are looking for porn you will not be happy because there is not much about sex in the book. Others have reviewed the play by play so there is no reason to repeat that. It does merit reading as a love story and a story of twin sisters and their dealings with their husbands. As such it is all right as a story, but the kicker comes in the one part of the book in which one sister is changed because of a sexual experience--with her husband! An interesting read.J. Robert Ewbank author "John Wesley, Natural Man, and the Isms" and "Wesley's Wars" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A decent read </p>
+
+
+<h2> review.date </h2>
+  03-22-2014  
+<h2> review.text </h2>
+
+ <p> Two sisters embark on inner journeys that will dredge up the inner most secrets of their lives.Leda and Lillian are two sisters that seem at first glance to be complete polar opposites. One is a successful attorney seemingly content with her life; the other is a former porn star who has settled down in the middle of suburbia.Leda and her husband Stas have just moved into their new house. When domestic bliss is interrupted by facilities issues, the handyman working for their neighbor comes to the rescue. Only&#8230;is it what it seems or is he really using their house problems to stalk Leda? Pregnant with a young child, Leda becomes increasingly afraid of Jack. Her husband, Stas is equally thrilling and terrifying. Leda is hiding some secrets from her very sexy younger husband and Jack has just figured out who she used to be. Should she tell Stas about her past, but even more importantly, about Jack? What will he do? It seems like her Russian husband has a few skeletons in his own closet.This first part of the book was rife with bitterness and complex emotions that one would have moving into a new house. Neither husband nor wife know everything about the other and as Leda becomes more and more terrified everything is magnified for her. The sex with her husband, the fear of what he will do to her when he finds out about her very naughty video. When Jack winds up missing, she is almost certain Stas had something to do with it. Every nerve ending is thrilled with the concept of loving such a dangerous man. But&#8230;did he really do it?The second half of the book is about Lillian, Leda&#8217;s very repressed sister. Lil is married to Darren, but their marriage has been reduced to timing their marital activities to try to conceive. It breaks her heart that Leda is already has one child and is expecting another when she can&#8217;t even get pregnant. Completely bound by her own expectations, Lillian is very uptight and angry. When she finds Leda&#8217;s porn video hidden in Darren&#8217;s things, she loses it. Confronting him only adds another layer of ice on the glacier.The matter is made more complex by the current case Lillian is working on. Abel is a blind developer accused of taking a bribe. His assistant Nan is always present and there is something between the two of them that strikes a chord in Lillian. Abel is a married man, but she can see Nan always there&#8230;until she isn&#8217;t. Nan is devoted to Abel in a way that he can barely understand. A professional submissive, Nan will do anything for him and in doing so could either damn him to prison or save him completely. If only he hadn&#8217;t cast her away. Lillian learns more about Nan and is drawn to it, even as she is repulsed by the sexuality of it.Lillian begins a journey into Nan&#8217;s world, wanting to satisfy a compulsion that started when she watched Leda&#8217;s video. What is the fascination with BDSM? Why would a woman want to be submissive and subjected to the things that go on at the Nutcracker, the local dungeon? Lillian is about to embark on a soul wrenching voyage into her own inner darkness, but doing so will allow her to embrace her own demons and finally be able to set herself free.These two stories wound themselves together seamlessly and I could not get enough. The old style cover brought to mind stories of the 1970s, as did some of the language. Not much mind you. Just when I felt myself drifting back in time, a modern phrase would remind me &#8220;when&#8221; I was. The complex relationship between sisters is also highlighted here. Love&#8230;hate&#8230;jealousy&#8230;bitterness. It&#8217;s all there, ripped open and gasping for air. Leda with her family while Lillian weeps alone in her cold marriage bed&#8212;it&#8217;s reality. We always want what the other has, even when it makes us feel petty and spiteful. That is the hidden gem inside of this amazing book. Elissa Wald scrapes across every emotion and makes it real. The book is classified as erotic, but there really isn&#8217;t much in the way of actual sex scenes. It is the heightened sexual tension and the discovery of the darker, meatier sides of married women as vibrant beings that puts the spark in this tale. Just don&#8217;t forget the dangerous men that share their beds. That would be very remiss indeed and you might have to be punished.If you are looking for a different kind of read that will want to make you cuff yourself to the bed, then you have to try The Secret Lives of Married Women.originally posted at long and short reviews </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Reading </p>
+
+
+<h2> review.date </h2>
+  10-11-2013  
+<h2> review.text </h2>
+
+ <p> Leda and Lillian are identical twins yet very different. While Leda has always been the wild one with a free and adventurous spirit, Lillian is a lot more repressed and has lived her life according to a strict plan.  Now that they&#8217;re both in their thirties and married their lives should be settled but both women are about to discover that life still holds shocks and surprises.Leda has just moved into a new house with her Russian husband and young daughter. Even before she moves in she attracts the attention of the builder working on the house next door. And before she&#8217;s quite aware of it the man seems to be around all the time, constantly finding opportunities to be in her company and in her house. Leda has found herself a stalker who knows more about her past than even her husband does and Leda can&#8217;t help being afraid of the man. She doesn&#8217;t know what fear is though, until the builder disappears and the police start investigating what happened to him.Lillian is preparing for what may well be one of the most difficult trails of her career when she discovers her sister&#8217;s dark secret and a side to her husband that she never knew existed. When the facts she uncovers for the trail show links to the secret her sister has kept for so long Lillian finds herself discovering things about herself she never knew.This is a strange one for me. The Secret Lives of Married Women was a very easy book to read and yet it is proving very hard to review. Part of the problem is due to the fact that rather than one continues story this book contains two separate narratives. While there are some links between Leda&#8217;s and Lillian&#8217;s stories, these are superficial at best. The continuity lies in the fact that both sisters find themselves in situations they are ill prepared for and dealing with them in ways they wouldn&#8217;t have been able to imagine. If, like me, you find yourself waiting for a closer connection between the two stories to be revealed you will be disappointed; I know I was.I was also slightly bewildered that my favourite character in this book was not either of the two sisters but rather a secondary character in Lillian&#8217;s story. Nan&#8217;s story, for me, was the most powerful and heart-wrenching one. The orphan raised by nuns who resigns her job as a professional submissive when she has the opportunity to become the personal assistant for a blind developer, only to lose what has been the best thing that ever happened to her was equally beautiful and devastating. Unfortunately I can&#8217;t say more without completely spoiling the story.The cover of this book seems to suggest that this is a rather sexy, if not raunchy book. And while there are certain scenes in this book that more than live up to that promise, I wouldn&#8217;t call this erotic fiction. But then, I wouldn&#8217;t call this a crime novel either even though there is an investigation in Leda&#8217;s part of the story and a trail in Lillian&#8217;s. In fact, I&#8217;m not quite sure how to label this book.What I can say with certainty is that this is a good book that managed to surprise me on several occasions. This is a very well written novel containing a fascinating and easy to read story which is never quite what you expect it to be. And in these days when a lot of books appear to be written according to a formula, that makes a very nice change. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Quite what I expected </p>
+
+
+<h2> review.date </h2>
+  11-06-2013  
+<h2> review.text </h2>
+
+ <p> This is an engaging novel that followers of the Hard Case Crime series will embrace and enjoy.  Having said that, readers should know that this is more of a psychological thriller than a crime novel per se.  The novel concerns twin sisters who are similar in appearance but very different in personality.  The first, Leda, is a homemaker who once worked as an actress, including an appearance in a soft-core S/M film.  The second, Lillian, is an attorney working on an important case.  She is more subdued than Leda, but she allows herself some release in the course of the story.The novel is divided into two parts, the first Leda&#8217;s, the second Lillian&#8217;s.  (Leda lives in Washington state, near Portland, Lillian in New York.)  Leda and her Russian husband have purchased a home with some maintenance issues.  Across the street a new house is being constructed.  When a workman there agrees to do some work for Leda she becomes concerned that he is crossing lines and becoming too familiar.  When he disappears (very conveniently) she fears that her husband may be involved.On the other coast, Lillian is defending a contractor who misappropriated some public funds.  There are mitigating circumstances and the contractor (who is blind) commands the reader&#8217;s respect because he responds appropriately when his assistant, Nan, also begins to cross lines.  Nan has both lived with the Carmelite sisters and worked as a submissive in an S/M club, an interesting, natural transition in her experience.  When she seeks to relate to the contractor on a personal level, rather than simply serving as his reader and general assistant, he pulls back and does the right thing.Watching all of these S/M moves (her husband has a copy of Leda&#8217;s film), Lillian decides to try her hand at it (very briefly).  The relevant scene is a very short one, no more than a couple pages, and the delicious but lurid, pulp cover art gives the reader a sense of the book&#8217;s contents which considerably overstates the actual erotic dimensions.The book is only a step or two away from being a mainstream novel with some genre-fiction overtones.  But, Hard Case Crime readers, not to worry.  This is not a fern bar read; it fits within the series and it is well-written and well-imagined.  If you want a doppelganger/twin novel with some ongoing sexual tensions and some poignant crises of conscience (all wrapped in a satisfying package with a satisfying conclusion), this one is for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Little Something For Everyone </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> The Author, Elissa Wald, is truly gifted in the art of imagery, and is brilliant with the use of words.  This is a liberating novel and I greatly anticipate her next release.~~Rachel Frisch </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A intriguing and surprising novel </p>
+
+
+<h2> review.date </h2>
+  01-12-2014  
+<h2> review.text </h2>
+
+ <p> There wasn't much of a reason to link the two sisters but I guess it was in order to show some sort of contrast. I found myself skimming much of the book just to get to the end as it wasn't so interesting and I was looking for something to peak my interest. I can't say that I didn't like the book, but there just wasn't a wow factor-it was average. It wasn't a waste if time but a quick read that tells a story, doesn't make you think and just sort of flows.Too heavy for a beach read but good for a plane read. Quick and forgotten.I know many complain about the deception on the front cover/lack of sex scenes but I think I can give the writer credit for creating a sexual undertone in different ways throughout the book rather than throwing sex scenes at the reader. I appreciated this aspect as it's not so obvious and let's your imagination take over...though for some it could be disappointingly subtle.Also there is no mystery and vet subtle crim.Overall the book was quick, ok...but good to pass time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No Mystery, Average Book </p>
+
+
+<h2> review.date </h2>
+  10-13-2013  
+<h2> review.text </h2>
+
+ <p> This novel is like nothing else published in the Hard Case Crime library. Several times while reading it I questioned whether it even should have been published under this imprint. But when I finished I realized it did belong under the banner and it was a terrific read and I had discovered a brilliant new voice in the way of writer Ellissa Ward.I am not going to give too much away in this review, I would prefer the reader make the discoveries as they go along on this journey.The book is divided into two parts although it crosses over several times. This is a story of two twin sisters, their marriages and the startling discoveries they make.Part one starts out with a very slow burn. Many novels in the suspense genre like to bat you over the head with a startling development as it opens, this is not one of them.  Things start out very mundane with just enough mysteries unfolding to keep you wondering. This story is of the wilder sister who is trying to settle into the role of mother and housewife. It is also the story of a stalker and a younger husband with mysterious past.The second part introduces us to the other sister, a repressed but successful attorney. It is also the story of another very interesting character who has acted as professional sexual submissive partner in the past. She has become the assistant to the blind man the attorney has set out to defend.The packaging from Hard Case Crime is top notch in their new over-sized trade paperback format with large easy to read print. Artist Glen Orbik has out done himself in this beautiful evocative cover.Highly Recommended </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sex, Secrets and Sisters </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

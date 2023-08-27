@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B001TK9WH2 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-24-2013  
+<h2> review.text </h2>
+
+ <p> I've tried several devices to convert RCA to s-video and this is the first one that actually worked. I can't say the picture is particularly great but then I can't really say whether or not it has to do with the adapter. This is connecting an old VCR to an HD tv. The picture is snowy but definitely viewable. I can't say I really expected any better.If I find a way to determine how much of the picture quality is attributable to adapter I will update the post. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works - I guess </p>
+
+
+<h2> review.date </h2>
+  12-24-2013  
+<h2> review.text </h2>
+
+ <p> This adapter worked as expected. No issues and with 4-pin S-video, not the 7 pin variety (less common) The price was very reasonable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great for standard 4-pin S video </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> I use a video distribution amp in my A/V system, but it doesn't have an S-Video connection, just component and composite. I was debating which component would have to go when I stumbled upon this connector on Amazon.Its a one-piece molded adapter, with gold plated components at both ends of the adapter. It feels solid enough, but I discovered one 'problem' and thus the subtraction of one star. The problem is this, depending on the orientation of your cables and jacks, you might find that the weight of the cable going into the S-Video end of the adapter pulls down on the adapter. A longer, tighter sleeve where the S-Video goes into the adapter would solve this problem.Notwithstanding this, contact appears tight enough, and I am using it successfully in my system. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Good Find </p>
+
+
+<h2> review.date </h2>
+  09-07-2013  
+<h2> review.text </h2>
+
+ <p> Worked just as I expected it to. Those of us who have older A/V receivers and very new HDTV's have to adapt many connections to fit our systems.  This little device solved one problem that had been a thorn in my side for quite a while. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Monoprice S-Video Female to RCA Male Adapter - Gold Plated </p>
+
+
+<h2> review.date </h2>
+  02-04-2014  
+<h2> review.text </h2>
+
+ <p> Plug worked and was very easy to use. Not something you would need all the time but my father had svideo on a old tv that died and the new one had only component, composite and hdmi </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Let me plug in to non svideo tv with my svidoe cable and this converter </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> I purchased 2 of these and used a high end SVideo cable on both of them!! I got a better picture using the RCA (Yellow Composite) cable than the grainy line crossed picture I got with these adapters!! Did not work from a DTV high def receiver to a Panasonic DVR!! Too bad!! Why do they sell these when they do not work (I was highly skeptical to begin with as I have never seen a Svideo to Composite RCA before!! Bummer!! I gave it  a single star because they did arrive quite soon as I have the Amazon Prime!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This adapter does not work!! </p>
+
+
+<h2> review.date </h2>
+  10-09-2013  
+<h2> review.text </h2>
+
+ <p> This unit easily converted the signal and has construction rugged enough for Prosumer use.I used them in concert with a digital distribution amp and it worked fine. You should be happy with this unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as advertsied. </p>
+
+
+<h2> review.date </h2>
+  12-29-2012  
+<h2> review.text </h2>
+
+ <p> The wife wanted Pandora, so I purchased a Roku to use on an older TV. I used the adapter to hook up S-Video vs. a RCA video cable. The PQ is better than RCA, so I'm happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked for Roku installation on older TV </p>
+
+
+<h2> review.date </h2>
+  08-28-2013  
+<h2> review.text </h2>
+
+ <p> Periodically, we liked to connect the laptop to the Flat Screen TV. The problem however is that when we upgraded on TV, we did not have the same type connectors to help us utilize such like situations. The Laptop utilizes S-Video connection while the newer TV only allowed for HDMI, Component and Composite TV as well as the common PC Video Jack (which the Laptop Does not have. This adapter allowed us to go from S-Video to Audio Video connections the TV supported. Hopefully this is a good solution for others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect Solution For The Situation </p>
+
+
+<h2> review.date </h2>
+  03-27-2014  
+<h2> review.text </h2>
+
+ <p> This was needed for our new Epson projector and old cable to give us DVD video play. A cheap fix! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> QUICK FIX </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

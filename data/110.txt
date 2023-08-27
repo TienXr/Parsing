@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00761NDHI <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> I needed a smaller board and this fits the space.  The SainSmart products that I've used have worked well. A little wire wrap and it was hooked up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  02-07-2013  
+<h2> review.text </h2>
+
+ <p> Sweet: +low price, +mini USB connector, +Built-in led on Pin 13 allows blink LED without adding any components. +header pins for breadboard, +power from USB option (among many), +load modified program (aka sketch) without having pressing reset on the board. Easy start: download developer suite for Windows; wrap protective shipping foam the other way around; plug in USB to laptop; select Board (328) from menu; select File / examples / 01.Basics / Blink. See white led blinking. Modify blink time and upload again = new blink rate. Can not get any easier than this! The Developer Environment is implemented as Java application. When (integrated) developer environment is faced with unexpected condition the Java shows exception text in the messages text rather than crashing hard. I tried to trick the IDE by disabling com port from control panel and upload program, but IDE handled the exception gracefully. Thumbs up for both hardware and developer environment. "USB Device Not Recognized" message = hold board Reset button down while plugging in cable - red blinks means the USB protocol started successfully (works on 1st or 2nd try). USB cable (4ft,toroid!) included, but may be the cause of protocol start up issues - try other/shorter cable (w/out toroid). Less than 12 seconds wait between disconnect and reconnect w/included cable reproduces start up issue. Test with other cable: counting 1 2 3 is all that is needed for cooling off in between. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> easy start on Windows XP </p>
+
+
+<h2> review.date </h2>
+  11-06-2012  
+<h2> review.text </h2>
+
+ <p> There isn't much different about this than an Arduino Uno R3. It's based on the same microprocessor, the ATMEGA328. The only reason I rate this a 4/5 is because the manufacturer sent me a free USB cable which was faulty. If you find your Nano working for no apparent reason, try another cable. The one included is very cheap.EDIT:If you short circuit this device, and it no longer powers up, it may not be dead. Check the board (top and bottom) for any blown diodes. This happened to me, and you can solder on any other normal diode to get it working again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exceptionally small, and as powerful as an Uno R3 </p>
+
+
+<h2> review.date </h2>
+  04-20-2013  
+<h2> review.text </h2>
+
+ <p> Got this device today.When I didn't see COM port, based on previous reviews I thought that there is something wrong with the cable, but actually the cable is fine, this board uses FTDI chip, and requires drivers: [...]After installing drivers, everything worked perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anton </p>
+
+
+<h2> review.date </h2>
+  09-04-2013  
+<h2> review.text </h2>
+
+ <p> Works just like the Arduino Nano.  Has been working just fine in a 24/7 environment for about 1 month now.  In general, I would appreciate some documentation on any/all of the SainSmart products, but I can't complain too much with prices this low. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product! </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> After buying their black version that was DOA, I opted for this one and it's been flawless since day one.  I have it permanently installed in a project and couldn't be happier. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is the nano you are looking for </p>
+
+
+<h2> review.date </h2>
+  12-17-2012  
+<h2> review.text </h2>
+
+ <p> Unboxed this guy and hooked him up to some relays(also sainSmart) to control my xmas lights, works very well. I read some reviews of people grounding pins and blowing out the unit, but if you know what your wiring and DONT WIRE HOT, this will work great. Ported my code over from my UNO to this guy, very low power. Would definitely buy again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little arduino </p>
+
+
+<h2> review.date </h2>
+  01-27-2014  
+<h2> review.text </h2>
+
+ <p> great for breadboarding. I had a boarduino I had assembled myself. My son blew it up. This replaces it and is nicer, overall.Shipping was fast. It costs too much for what it is. Check out Arduino Pro Minis on e-bay for a much cheaper alternative. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a quality small arduino </p>
+
+
+<h2> review.date </h2>
+  12-26-2013  
+<h2> review.text </h2>
+
+ <p> i bought two of these. one of them died a few days after getting it, but the other is holding up nicely. i e used it to prototype as well as an ISP. super flexible! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little starter </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> As others posted, you need the drivers. Here's the deal, everytime I tried to install the drivers it said &#34;windows has determined you have the best driver already blah blah blah&#34; But it wouldn't communicate with the computer. I wasn't able to get much support other than &#34;download the drivers&#34; etc etc. If you want to get this up and running make sure to ready this.I tried a different computer and it instantly installed properly after I downloaded the Arduino software. I got to thinking, I bet that is my problem! The Arduino software on initial install sets up a usb to serial converter, then when you plug in your Arduino and Arduino variant it will install a communications port for the Arduino IDE to use.  My issue was, I already had the Arduino software installed for my UNO and it was doing the communication port setup.If this is your only board, make sure to use the Arduino IDE, once installed THEN connect your nano to the computer.  This should install the communication port needed to run.If this is not your only board and you are having the driver issues there is no need to reinstall or redownload the Arduino IDE. Simply do to the download file and click the drivers file. There you should find a dpinst-amd64 (for 64 bit users) and dpinst-x86 (for 32 bit users). Double click and run the appropriate one. This will set up the USB convertor for you.  Now plug your board in and it will install properly.On the top side of your SainSmart is the main chip. Most likely a ATMega 328.  Make sure you have your com port selected, the board selected as Nano with ATMega 328 (or whichever chip you have if different) and then you are all set to start programming! I recommend using the blink program as a test, just change the timing in the delay() functions and upload to the board to watch the led blink at a different rate.Furthermore, there are lots of complaints about the USB cord that comes with it.  Not a single issue here. Sure it's a little short but depending on how you use it is all that matters..... right?Finally, I highly recommend a 170 pin bread board. This will snap right in place and gives you an excellent spot to plug in male jumpers. Otherwise you will need female jumpers which you probably wont have that many of. It also provides it with a sturdier base than just the board flopping around.Sorry for the length of this review, but I felt it necessary to those who experience problems like I did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great, once installed properly. Windows users READ ME </p>
+
+
+<h2> review.date </h2>
+  03-09-2013  
+<h2> review.text </h2>
+
+ <p> This Arduino Nano clone, while not made in Italy, was very well manufactured and thoughtfully packaged. It came with headers pre-installed and bright blue status LEDs, and worked right out of the package. It also included female jumper cables!I was very satisfied and plan to buy again when the need arises. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Arduino-compatible board at a great price </p>
+
+
+<h2> review.date </h2>
+  09-02-2013  
+<h2> review.text </h2>
+
+ <p> This Arduino platform is, obviously, much smaller than the UNO or MEGA, DUE etc. So being able to just pop it into a breadboard is more convenient in most cases. For me the benefit of compactness and no headers, just plug-n-play meant far fewer wires were needed to connect to components and such given a breadboard's strips and how it powers-per-row. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Arduino </p>
+
+
+<h2> review.date </h2>
+  10-11-2013  
+<h2> review.text </h2>
+
+ <p> I ordered this particular part because it was stocked and delivered by Amazon Prime. It comes with a short USB cable as well as  jumper wires. The one that I recieved was actually labeled &#34;funduino.com&#34; (that is an invlaid URL) so I expect they get them from whatever manufacturer has the best price this week.I used this device to prototype a digital thermometer that reports the current temperature from a set of LM34 temperature sensors to my server once a minute. The complete PUBLIC DOMAIN project is detailed on my web site KeyWild.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Used to Prototype Digital Thermometer </p>
+
+
+<h2> review.date </h2>
+  12-19-2013  
+<h2> review.text </h2>
+
+ <p> ** You must load a FTDI driver on your computer to talk to this **I had this one wrapped up for return (didn't show up in list of USB devices on OS X) and got the second in from a different vendor. Since I hadn't needed a driver for my Uno, I didn't expect to need one for the Nano. When the second had the exact same problem, it dawned on me that maybe *I* was the problem. A little bit of reading, I discovered this model uses the FTDI interface and needs drivers from [...] Within a minute of installing the drivers, I pushed a simple sketch to the unit and watched the LED flash in pulses of three. Also, one article referred to holding down the reset key while plugging it in to set it to USB mode. I'm not sure this was actually needed, but it didn't hurt anything. I'm sure a lot of experienced buyers already know all this, but I thought it might be nice for newcomers to the Nano to have this attached to the product reviews.On to the review, great little circuit for sealing up inside a project. Smaller than a pair of postage stamps, it has all the best bits of a larger Arduino and very little goes to waste. I like the fact that SainSmart doesn't try to pass it off as an original Arduino product, opting to boldly display it's own logo where other clones do not. All in all, well worth the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent value, needs some setup but works fine </p>
+
+
+<h2> review.date </h2>
+  04-18-2014  
+<h2> review.text </h2>
+
+ <p> This is a wonderful little Arduino board that I have been using as a substitute for a Uno board.  Documentation from the Arduino site is great (See: http://arduino.cc/en/Main/ArduinoBoardNano).  All I need is this attached to the breadboard.  It is just as easy to program from the IDE through a USB connection to the computer as is the Uno or other boards with a USB connection.  Quick delivery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> well designed and built </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> One glitch, initially used a 3 foot generic USB cable on a laptop and desktop with both scenarios failing to communicate.  Switch to the 1.5 foot USB shipped with the Nano worked fine with both computers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Working </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> This little guy seems identical to the real Nano in every way so far.  After reading several of the reviews here, I was very surprised to find that Windows 7 (64-bit) identified it and installed drivers right away.  I didn't need to go searching for FTDI drivers at all.  The Arduino IDE picked it up right away and without issue.  It can be mounted on a breadboard quite nicely as well, which is very helpful for prototyping projects.  SainSmart did an outstanding job with this product.  I would highly recommend this to anyone wanting a small Arduino. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Little Microcontroller </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

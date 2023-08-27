@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0035EQ8EK <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-14-2013  
+<h2> review.text </h2>
+
+ <p> I HAD TROUBLE INSTALLING THIS MOUSE DUE TO INSTRUCTIONS.  ONCE I FIGURED OUT WHAT THEY WERE ACTUALLY SAYING, IT WAS VERY EASY.  HAVE HAD TO REINSTALL FEW TIMES DUE TO SYSTEM PROBLEMS BUT THIS MOUSE SNAPS BACK EVERY TIME ON REBOOT.  HAS WORKED WITHOUT ANY TROUBLE FOR ABOUT 18 MONTHS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MOUSE THAT ROARED </p>
+
+
+<h2> review.date </h2>
+  09-11-2011  
+<h2> review.text </h2>
+
+ <p> I've owned wireless mice in the past and have had... varying degrees of satisfaction.  Suffice to say this one stands out as the coolest one I've used so far for one simple reason: how compact it is.The mouse is battery powered (two AA batteries, included), like most wireless mice. While some are capable of being smaller, this one is a very nice size.  I'd say it's slightly smaller than a standard wired mouse, but not noticeably so when it is in your hand. It's comfortable yet light, but doesn't feel cheap.The biggest perk relative to other, non-bluetooth wireless mice that I've used is that the computer connection (USB) is about as long as the insert into the slot and that's it.  I uploaded a picture to the product page, you can check it out to see the size... it really is as small as it looks in the default picture.  Once plugged in, it's very difficult to even notice it's there.  The range is very impressive... I've tested up to 10 feet away and couldn't even notice any interference with the smoothness of the mouse tracking.So far for surfaces, I've tried it on the hardwood surface of a desk, a mousepad, and my computer case (not really sure what the exact material is); all of them work perfectly.  It comes with software that can be installed to adjust sensitivity, although the mouse works fine without the software (just plug it in, let your computer install the drivers, and in 5 seconds you're operational).All in all, I'm extremely satisfied with this mouse.  Given the range, the size, and especially the price (I bought it for $11, I'd pay up to $15 for it), I would definitely buy this mouse again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compact, easy, efficient </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> I bought this as a Christmas present for my mom last year and I thought it was going to be a nice mouse!  I was wrong.  It feels extremely cheap and the plastic battery cover pops off almost with every mouse click and the only way to stop that is to hold it a certain way (a way that holds down on the top) which I find very uncomfortable.  I usually grip the sides of the mouse and gently rest my palm on it.  That doesn't work very well with this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> flimsy </p>
+
+
+<h2> review.date </h2>
+  06-16-2010  
+<h2> review.text </h2>
+
+ <p> This is a great product. What is so nice about is that the reciever which plugs into the USB port is small enough that it can be left in without to much fear of damage when when moving the computer around. Would recommend this mouse. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Computer mouse review </p>
+
+
+<h2> review.date </h2>
+  01-09-2011  
+<h2> review.text </h2>
+
+ <p> Overall, mouse works well.  It's a little small but fits my hand fine.  I like the settings options provided w/ the included software.  Very customizable.  I wish it had a place to store the dongle in the actual mouse b/c even though it's small enough to leave in the laptop, it protrudes a bit when the laptop is placed in a sleeve.Only real issue is the reconnect after the computer resumes from sleep mode; it can be a bit finicky.I got this on sale so it was a good value.  However, there are other mini-mice out there that are better made and priced comparably or less (check out some from Logitech and Microsoft and compare!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HP 2.4 GHz Wireless Optical Mobile Mouse </p>
+
+
+<h2> review.date </h2>
+  02-18-2013  
+<h2> review.text </h2>
+
+ <p> Worked well then died after 14 months. The item has a one year warrenty but I would expect an item like this to last much longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lasted 14 months </p>
+
+
+<h2> review.date </h2>
+  11-25-2011  
+<h2> review.text </h2>
+
+ <p> This mouse is awesome. That's all there is to it. I use it with my laptop because it was time I got a new mouse and I was not disappointed. I recommend this mouse to anyone who's looking for a nice upgrade. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely awesome </p>
+
+
+<h2> review.date </h2>
+  12-14-2010  
+<h2> review.text </h2>
+
+ <p> I have a new DM4T HP Laptop,my first laptop and HP product ever.It may have to go back, as even though it is a Core I5 with an independent graphics card and top of the line upgrades, it freezes and can't handle the tasks it should. This mouse though is excellent.The mouse works great, is responsive to my movements, and makes manuevering the laptop (when the darn laptop does not freeze) much easier.It also looks nice and was the lowest price anywhere on Amazon.com.Much lower than the ripoff price at the HP site. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great, made well, looks nice and lowest price on Amazon.com </p>
+
+
+<h2> review.date </h2>
+  11-14-2011  
+<h2> review.text </h2>
+
+ <p> My new mouse arrived today. I plugged the tiny transceiver into a USB port, pulled the two clear plastic strip from the rear cover of the mouse and thereby allowing the AA cells to make contact. Then I switched it on with the tiny switch on the bottom. Windows detected the new device and installed the drivers within a few seconds. After that was completed, the mouse worked but a bit too slowly for my taste. I selected Mouse from the Control Panel list and clicked the Pointer Options tab on the Mouse Properties page. I moved the 'Select a pointer speed' slider until the pointer was moving at my preferred rate of speed. A click on Apply, another on OK and that task was completed. The mouse tracked well on the mouse pad, the desktop, my trousers, and the glossy cover of a magazine.I next set out to test the functions of the new tool. This mouse has several. I already knew that the basic left and right click buttons and the scroll wheel worked. I went to the Amazon site and, after clicking on Your Account, selected this product from the Your Orders list after logging in. I now had some pages to go back to using the left side button. A couple of clicks took me back and the right side button brought me to the product page again. That covered the five functions listed on the product page. There are three more as far as I am able to determine. As can be seen in the photo on the product page, there is a tiny arrow on each side of the scroll wheel. To test their functionality, I used my keyboard Control + function to enlarge the page until it no longer fit within the sides of my monitor's screen. When that happened, a moveable bar appeared at the bottom of the browser page. I first dragged it back and forth with the mouse pointer then tried the tiny arrows by nudging the top of the scroll wheel to the left and right. They worked as intended so I brought the size back down using Control -. The last function is accessed by pressing and releasing the scroll wheel. Doing so causes a small circular icon to appear, centered at the tip of the pointer. With the icon visible, upward and downward scrolling is done by moving the mouse rather than by rolling the scroll wheel. I don't anticipate using this function but it does work if I find a need for it. A tap on the scroll wheel made the icon disappear and returned the scrolling function to the wheel.With all eight functions tested successfully, I'll now mention two issues raised in other reviews. One was a complaint that the mouse's cover came loose repeatedly. The other was the absence of a place to store the tiny USB transceiver for traveling. A comment by Bobby G on Maricela Gamez's three star review offered solutions to both. I pasted it here so it will be more easily seen by future review readers."Maricela, I thought I had these problems too when I first got the mouse. However, if you "open" the mouse with the switch on the bottom (the way to change batteries), you have to hit that switch again in the opposite direction to "close" the top. Once closed, the top should be secure.As for the USB connection, in between the batteries there is a tiny slot where the USB connector fits perfectly and securely.So actually both of the problems you have with the mouse have some easy solutions :)"Maricela agreed. Thanks, Bobby G.Another reviewer mentioned that the HP software was incompatible with 64-bit Window operating systems. As all functions worked without that software, I chose not to install it.It's too soon for me to determine whether I'll be happy with this mouse over the long haul. It's a bit smaller and also noticeably heavier toward the rear of than the wired mouse I used previously. I attribute the last difference to the two AA cells powering it. It's only noticeable when lifting the mouse from its pad. The way I hold it when lifting, the rear of the mouse drops down and stays in contact with the mouse pad. I can choose to grip it more tightly or move my hand back until the mouse is balanced. I'm hopeful that the added functions will make up for those minor quibbles and that I'll quickly adapt to them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> All functions work with Windows 7 Home Premium 64-bit </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> Got this for my son, he it 12 and it is a small mouse that was easy for him to use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It is a small mouse. </p>
+
+
+<h2> review.date </h2>
+  12-08-2011  
+<h2> review.text </h2>
+
+ <p> Bought this mouse while searching for a new one to replace my old optical mouse. Comfortable to use, the buttons are in good spots and I especially like the side buttons so you can go Back/Forward while browsing the web. The wireless range is great, in fact I'm pretty sure this mouse has the longest range out of all the others I've ever owned. Worked just fine when I threw the receiver in my laptops USB port, however if you want to get the most out of this mouse's available settings/customization you will need to install the software included on the CD. Settings and sensitivity is very customizable to your liking once the software is installed. It does work on most surfaces but it struggles on glass or any glossy surface.Now my reason why it didn't receive 5/5 from me. The right mouse button on mine squeaks when clicked, it's pretty excessive and quite audible. It can also get a bit irritating while gaming when the right mouse button is used a lot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty decent wireless mouse </p>
+
+
+<h2> review.date </h2>
+  09-19-2011  
+<h2> review.text </h2>
+
+ <p> I use this wireless mouse for my Mac Book Pro.  Got it on a Gold Box Deal for $10.99.  I actually prefer it over my $75 Magic Mouse from Apple.  Easy to use.  Great value.Pros-Price-Ease of UseCons-Could easily lose USB attachment-Top cover comes lose frequently </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Wireless Mouse For The Price </p>
+
+
+<h2> review.date </h2>
+  09-19-2012  
+<h2> review.text </h2>
+
+ <p> This product was ordered November 25, 2011, I got it a few days later, in other words it hasn't been a year yet.  I noticed that using the scroll wheel to scroll up the page is fine but going down the page is hard.  This started a couple months of having the mouse but over the months got worse to the point where it seems stuck.  I have taken it apart and that has not helped, I have no idea what could cause this to happen in the mouse.  So far I only had to change the battery once...so, that is a plus in my eyes (hence the two stars).I used my laptop for school but I left it at home, mostly because my books were on my touchpad and I did not need the laptop as much.  Now, I have a book online on a website that my touchpad cannot pull up.  In other words, I am using my laptop more for school compared to my last semesters. Since, I did not rely heavily on my laptop before, the fact that the mouse did not scroll down the page that well was a small nuisance, now it is just a pain to the point where I need to replace it.  I have had a mouse for several years that is still in good shape, it's just the wireless option was something I wanted. So, I am will be shopping for another wireless mouse.  The price I paid for this mouse was $13.49 which is twice what it is being sold as now.  It is not worth the price, even though that is cheap. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Scrolling is a pain </p>
+
+
+<h2> review.date </h2>
+  06-11-2010  
+<h2> review.text </h2>
+
+ <p> I've had this mouse for a little over a week now and enjoy it.  The only thing I wish it had as a way to charge from USB instead of having to use a AA battery.As is it works very well.  The little USB dongle is small enough that I don't have to take it out of my netbook when I go places. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good mouse </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

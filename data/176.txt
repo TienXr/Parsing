@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 6305910529 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-12-2000  
+<h2> review.text </h2>
+
+ <p> The original Star Trek was far superior to the followups for many reasons  and City on the Edge of Forever, the pinnacle of that series.  Harlan  Ellison's legendary feud over script revision with Gene Roddenberry is well  known, and supposedly the original script is even better than the one used.  Nevertheless I've not seen any other TV script that approaches the  profundity of this.  Kirk and Spock track Bones through a time/space portal  to 1930 and meet Edith Keeler, a person who changed history after being  saved by Bones.  Kirk falls in love with her, but has to decide between  love and the Allied WWII victory.  This whole episode is thought  provoking, the characters are believable, the fact that this was done in  1967 shines through in its creativity and emotional intensity.  Such  a contrast to the ridiculous follow-up series and films.  All episodes of  the original are worth seeing, but this is the best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Why this was the Best Star Trek Episode </p>
+
+
+<h2> review.date </h2>
+  03-06-2002  
+<h2> review.text </h2>
+
+ <p> I give this DVD five stars, not because of the episode Errand of Mercy(which is not one of the better episodes but is still okay) but because of the episode City on the Edge of Forever.That episode in my opinion is the best episode out of all the 79 of Star Trek the Original Series.I like the time travel concept, specifically the time/space portal that both Kirk and Spock are forced to travel through to bring back the ship's doctor "Bones" because he jumps through before they do and when Spock and Kirk jump through into 1930s Earth they have to wait until enough time has elapsed before they catch up with him.He has travelled weeks into their 1930s future.Kirk falls in love with Edith Keeler and Spock tells Jim she must die.Later they find McCoy and he tries to save Edith from getting hit by a truck but Kirk stops him, knowing she has to be sacrificed in order for millions of people to live.By the time they all travel back through the time portal again and return to the moment that they left(scotty tells them they only left a moment ago)Kirk is not the same man.Naturally because of his loss.He says."Let's get the hell outta here."Science fiction and television just doesn't get any better than this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> City on the Edge of Forever best episode of all </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> Joan Collins as Edith Keeler somehow brings the best of what is most fleeting and precious to the two in command of the Starship Enterprise. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The original Star Trek at its most grand and poignant </p>
+
+
+<h2> review.date </h2>
+  05-24-2002  
+<h2> review.text </h2>
+
+ <p> STAR TREK was always at its peak when exploring either the complex sociology between the cultures of different worlds OR the intimate lives and their defining moments of the crew of the USS Enterprise 1701.In Volume 14, you get one lucky DVD that covers both.In Episode 27 (ERRAND OF MERCY), you get a layered sociology story of not one, not two, but three different cultures: (1) the Federation, a democracy; (2) the Klingons, a dictatorship; and (3) the Organians, a culture entirely devoted to non-violence.  When these three cultures meet, they clash in ways rarely explored in the realm of science fiction yet alone television drama.  While the episode features a handful of laughable moments (everything in Klingon and Federation property turns 350 degrees, at the Organians control, when the two empires are about to go to war), the writing gives the viewer something to seriously think about when it comes to cultures interfacing.  Whose rules ultimately win out?  What social morales should be dominant?  Why must there be a single victor?  One truly inspired episode.In Episode 28 (CITY OF THE EDGE OF FOREVER), the viewer is treated to what is, arguably, the finest hour of Trek ever produced: Edith Keeler (played almost whimsically by Joan Collins) must die while Kirk, Spock, and McCoy -- all of whom have traveled back in time to determine what single event changed the course of history -- watch on helplessly.  For a trio that has dedicated themselves to peace at all costs, it's one shocking finale.The DVD transfer is superb, as usual with these Paramount reissues.  The Dolby 5.1 is excellent, and, despite a few grainy scenes, all looks beautiful in the world of Star Trek. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It Just Doesn't Get Any Better Than This </p>
+
+
+<h2> review.date </h2>
+  10-01-2006  
+<h2> review.text </h2>
+
+ <p> If you are picking which volumes to keep from the first season, this has got to be one of them.  We get two of the best episodes from the season here and although the believablility factor is stretched quite a bit on "City...", "Errand of Mercy" is an excellent episode too.  In the former, we get a Hugo Award winner and in the latter, we get to meet the Klingons for the first time!  Both are great reasons to pick up this volume which represent the best of what Star Trek had to offer from its first season.  In "Errand ...", superior beings teach representatives from the Klingon Empire and the Federation an important lesson about coexisting and about settling differences non-violently, something we could all still learn from today too.  Overall, the plot is very good as well as the acting."City..." has become over the years one of the all-time favourite episodes of all Trek fans and I like it too but I have some trouble accepting some of the dramatic licence that this story expects us to take.  For example, when Bones makes his unfortunate leap into the past and changes history, I can't understand why the Enterprise as well as the landing party didn't cease to exist as well.  In any case, if you can ignore this one point, the rest of the episode is a real gem.Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Keeper!  Best Episodes From the First Season! </p>
+
+
+<h2> review.date </h2>
+  10-14-2000  
+<h2> review.text </h2>
+
+ <p> CITY is the Best TREK episode Ever. Need I say more? The dramatics of this episode have never been matched. They never will be. They don't make them like this anymore. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CITY is the Best TREK episode Ever </p>
+
+
+<h2> review.date </h2>
+  03-04-2005  
+<h2> review.text </h2>
+
+ <p> "The City on the Edge of Forever" is great drama presented during Star Trek's phenomenal run in the sixties.  The story was genuine and unique for the time and addressed the issue of time travel quite intelligently..Based on an original story by Harlan Ellison, this wonderful episode starred the beautiful Joan Collins in a sensitive and touching role as Edith Keeler..a social worker who's death has an impact upon history.The chemistry between William Shatner and Joan Collins works well in this episode and Shatner's acting is very subdued but very effective..He conveys his emotions quite effectively in his closeups!  I can understand why this particular episode is considered one of the best in the series!  Every time I used to run across it as a rerun I would find myself stopping what I was doing to watch it!  Now I have it on DVD and still enjoy watching it!  One of my favorite scenes is the close up on Joan Collin's face when Spock was trying to explain what he was trying to buid with all the the tubes and antennas chirping in their bungalow..Her expression is priceless!  I loved Joan Collins in this role..I wish she would have done more in this vein..The Guardian of Forever was a unique design and worked very effectively for the show..It must have been quite a feat putting together all of these props for this show..I would say I am a true Trekkie in that I have read practically every autobiography written by the cast and all the supporting books on the show..I can say honestly that I have seen all 79 episodes at one time or another in my life but now that they are available on DVD I plan on rewatching them and adding my favorites to my collection!Also DeForest Kelley was superb in this show!  DeForest was a brilliant actor who has made such an indelible impression as "Bones" McCoy..In this episode his frenzied state of mind is portrayed convincingly and his scene with Joan Collins is one of the best in the series in my opinion.  This show had it all..great writing..great directing..great acting!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Drama! </p>
+
+
+<h2> review.date </h2>
+  07-16-2000  
+<h2> review.text </h2>
+
+ <p> This DVD installment of Star Trek features two episodes which are a must for every fan.  Those with friends unfamiliar with Classic Trek would do well to show them these two episodes.  Their friends will be instantly  hooked.Errand of Mercy was Star Trek's first story dealing with the  Klingons.  The late John Colicos, best known as Baltar from Battlestar  Galactica, was given a virtually free reign to create the look of his  character.  He saw Kor as a futuristic Ghenghis Khan, and that template  prevailed until the redesigned Klingons appeared in the first Star Trek  movie.  Under Colicos' masterly performance, the Klingons are shown to be  barbaric, militaristic, brutal, but not ENTIRELY evil.  Kor recognizes the  value of valor, and laments that duty requires him to kill Captain Kirk:  &quot;Always it is the brave ones who die.  The soldiers.&quot; He is also  perceptive enough to recognize that Klingons and Federation members are  more alike than Kirk would care to admit.  This is further demonstrated by  the surprise ending, which hints at the events of Star Trek VI The  Undiscovered Country.  The plot development at the end, involving the true  nature of the Organians is an effective and original twist.The City  on the Edge of Forever is considered by many to be Star Trek's finest  episode.  The screenplay, based on a story by Harlan Ellison, is craftily  writted and paced.  It is also Star Trek's best time travel story.  Starting as a chase through time for a deranged McCoy, the victim of an  accidental drug overdose, the story takes an abrupt turn toward lighter  fare when Kirk and Spock arrive in 1930 New York City.  After Kirk meets  Edith Keeler (Joan Collins) and recognizes a kindred soul, the story seems  headed for a romantic conclusion.  Kirk at last seems to have found true  and pure love.  Then, what the audience least expects it, Spock lowers the  boom:  Edith Keeler must die, or history will be altered and humanity will  be subjected to another Dark Ages.  The superb writing--most of the  dialogue was by Gene Coon, one of Star Trek's unsung heroes--is backed up  by top flight performances by Shatner, Nimoy, Collins, and the late  DeForest Kelley.  Is it a stretch to say that 50 years from now, Collins  will be remembered for this role, rather than for Dynasty? The lighting for  the 1930 portion of the story looks unusually subdued for a Star Trek  episode, but perhaps the filmmakers were trying for a Depression-era look.Paramount has done a very good job with sound and picture transfer.  Images are sharper, colors more vibrant, and flesh tomes more realistic  than before.  There are two small mistakes on the box cover:  Despite the  disclaimer, the original music for City on the Edge of Forever (based on  the pop tune &quot;Good Night, Sweetheart&quot;) has been restored for the  DVD.  The VHS version featured much less effective music.  Also, one photo  on the back cover is from the second season episode,  &quot;Metamorphosis.&quot;I envy those who are seeing these episodes for  the first time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two Unforgettable Episodes of Classic Trek </p>
+
+
+<h2> review.date </h2>
+  07-18-2002  
+<h2> review.text </h2>
+
+ <p> I think everyone will agree that Volume 14 is definetly one of the most popular Trek DVD's to date.  The reason being well it's actually quite simple: (1) The debut of the Klingons and of course (2) One of the best Trek episodes ever.  So I can easily say that this is Highly recommended before going into great detail about the episodes.The first episode here is ERRAND OF MERCY which features the debut of the Klingons led by Commander Korr (played by John Colicos).  This episode finds the Enterprise races to Organia to prevent the Klingons from taking over the planet.  However when they arrive the Organians refuse the help of Starfleet and pretty soon the Klingons invade the planet.  A frustrated Kirk tries to reason with the stubborn Organians who will not allow the Klingons and Starfleet to fight.  Both sides completely unnerved later find out that there is more to the Organians than meets the eye for they are a far superior race compare humans or Klingons.  A classic!The next episode is one of Trek's finest CITY ON THE EDGE OF FOREVER is easily one of my favourites.  McCoy goes insane after consuming a drug accidently and beams down to a planet with a bizarre Time portal.  When the crew beams down to catch him McCoy jumps into the portal and wisked off to the past altering the course of time to the extent that the Enterpirse no longer exists.  Kirk and Spock go back in time to find McCoy and end up it the early 1930's during the depression.  There Kirk and Spock await for McCoy to show up and they befriend the beautiful social worker Edith Keeler (played by Joan Collins).  Kirk begins to fall in love with the woman and Spock later reveals that in order to set time straight again Edith Keeler must die unfortunetly.  This episode is a powerful drama and easily one of Star Trek's finest episodes ever.  A true classic.Bottom Line: these episodes must be seen.  Both are excellent and belong in everyones collection!  Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ONE OF THE BEST DVD'S IN THE SERIES!!! </p>
+
+
+<h2> review.date </h2>
+  08-06-2001  
+<h2> review.text </h2>
+
+ <p> Without a doubt, two of the best of the original series.  Even in the light of the well-written episodes of The Next Generation these stand out as pioneering sci-fi TV.So far, this is the only one I've bought in this newest format.  While I give the episodes 5 stars, I would give the picture and sound quality 1 star.  It's disgusting how much money Paramount has made off of this show when you consider how absolutely terrible the quality of the DVD's are.  With the technology now available, there shouldn't be any lines, blips or crap in the picture, but now and then, that's exactly what you see.  And there are no special features on the disc and a truly primitive packaging design that any 1st year art student could have done better.  Paramount really dropped the ball on this re-re-re-release.I realize that greed is cool again, but I for one would spend a little more money (on top of the already ridiculous price) to get something professionally and lovingly remastered and packaged onto the relatively new DVD format.  But, very likely, they will, so I suggest you hardcore Trekkies wait for the &quot;Golden Jubilee Director's Extra Special Rodenberry Estate Approved Cut Anniversary Edition&quot; re-re-re-re-release which some marketing schlubb is probably working on somewhere deep in the bowels of Paramount. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT EPS, CRAPPY TRANSFER </p>
+
+
+<h2> review.date </h2>
+  07-21-2005  
+<h2> review.text </h2>
+
+ <p> Let the Nazis have the world, it's a small price to pay to bag Joan Collins. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I would have saved Joan Collins from the car </p>
+
+
+<h2> review.date </h2>
+  10-14-2001  
+<h2> review.text </h2>
+
+ <p> Volume 14 of the Star Trek DVD Series offers two of the show's most controversial episodes, albeit in different ways, but both having to do with considerations outside of the particular episode.  The Federation and the Klingon Empire have started fighting again and the Enterprise hurries to Organia, a strategically important planet.  Wanting the cooperation of the Organians, Kirk and Spock beams down and find the universe's most passive people, who are not at all concerned that the big bag Klingons are coming.  The Klingons do show up, stranding Kirk and Splock on the planet where they are disguised as Organians and get to witness the arrival of Kor, the Klingon military governor.  Kirk and Spock begin a two-person resistance movement, blowing up Klingon supplies.  The Klingons retaliate against the population, but then Ayelborne, leader of the Organians, decides he has had enough of all this nonsense.  One of the things I most like about &quot;Errand of Mercy,&quot; is that it is one of the few times that the Enterprise encounters a race of superior beings who are not seriously flawed in some way.  This also becomes one of the most problematic episodes in Star Trek history, because the Organian Peace Treaty makes it impossible for the Federation and Klingon to go on killing each other.  In theory, anyhow (you have to admit, they have the enforcement capabilities); in practice, the two civilizations would continue to have fun with each other in future Star Trek episodes.Then we come to what is clearly the most famous, most admired and most controversial Star Trek episode, &quot;The City on the Edge of Forever.&quot;  As I would think most people know by know, McCoy goes back in time through the time portal of the Guardian of Forever and changes history.  Kirk and Spock follow to set things right, ending up in the U.S. during the Great Depression where they learn that the focal point in time is Edith Keeler, a social worker: Because McCoy will save her life, Edith will lead a peace movement that will delay U.S. involvement in World War II, allowing Hitler time to create the atomic bomb first and win the war (which is not a good thing).  Unfortunately, Kirk falls in love with Edith and does not want her to die.  Originally written by Harlan Ellison, who has published both the original script and his side of what really happened (that's an understatement), the only thing everybody can agree on is that changes were made in the script.  The biggest difference in the two versions has to do with which character prevents Edith from being saved: in the episode it is Kirk, but in the original script it is Spock.  Ellison's point was that Kirk was willing to sacrifice the future for love; the powers that be maintained their hero would not act that way.  Ironically, these two opinions are enshrined in the second and third Star Trek movies, where we go from the good of the many outweighs the good of the one (Spock sacrifices live to save the ship), to the good of the one outweighs the good of the many (Kirk save Spock at the expense of his career).  I have to admit that I very much like both versions; it was years before I stopped crying when I watched the end of &quot;The City on the Edge of Forever.&quot;  Yet as great as that ending is, with Kirk having nothing to say about what has happened except &quot;Let's get the hell out of here,&quot; what Ellison was attempting was even more operatic.  Ultimately, what hurts this episode the most is not the great debate over which version is superior, but that Kirk would have a different girl on a different planet for what seemed like every other episode during the rest of the series, which undermines his (supposedly) epic love for Edith Keeler. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Harlan Ellison's classic Star Trek episode (and another one) </p>
+
+
+<h2> review.date </h2>
+  06-03-2001  
+<h2> review.text </h2>
+
+ <p> &quot;City on the Edge of Forever&quot; is the best of the 1st season. The ending is a real tear-jerker.&quot;Errand of Mercy&quot; gives us a &quot;first look&quot; at the notorious Klingons featuring the late John Colicos in his unforgetable role as Kor. He really steals the show with his snarling,his laugh &amp; his acting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> City &amp; Errand </p>
+
+
+<h2> review.date </h2>
+  07-13-2000  
+<h2> review.text </h2>
+
+ <p> In Errand of Mercy, We finally meet the Klingons. One of the longest and most influential trek villians (and then allies), it is wonderful to see their debut. Kirk and Spock have beemed down to Organia, a strategically  important planet in the battle between the Federation and the Klingon  Empire. Kirk orders the Enterprsie too get the fleet, and it is up to the  Captain and First Officer to prevent the Klingons from seizing Organia. The  episdoe becomes an ultimate game of wits and risk. Who's manipulating whom?  A must see!In &quot;The City on the Edge of Forever&quot;, Joan Collins  guest stars as Edith Keeler, as 1930's social worker. Dr. McCoy, in a  halucinatory and paranoid state, beams down to an orbiting planet, and  jumps through the Guardian of Forever. He alters the timeline, and suddenly  the Enterprise is gone. Kirk and Spock have to go after him to undo the  pollution to the time line. In 1930's earth, Kirk falls in love with Edith.  And he has to make the ultimate choice: The future of humanity or his love  for Edith Keeler. An ultimately definning moment for Kirk, this episode is  a trek favorite.Just to see Edith and to see the Klingons alone is  enough reason to buy this DVD. The quality of the sound is particularly  wonderful - and the images are clean and sharp.What a wonderful addition  to the Trek DVD library! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Classic Episode and a Classic Villan on this DVD! </p>
+
+
+<h2> review.date </h2>
+  12-15-2001  
+<h2> review.text </h2>
+
+ <p> I remember distinctly one day in grade school, towards the end of the school year, when we were all herded into one of the larger classrooms, and were shown &quot;The City on the Edge of Forever&quot;.  I don't know why they showed it to us, but it was probably to cover a state-mandated day of classes when the teachers had run out of things to teach.I personally have lapsed into and out of Trek-geekdom.  (Basically, I decided one day in college that if you accept the concept of a warp drive, you have to accept that the rest of physics is bollocks, and what's the point then of dickering over technical consistency).  This episode, however, remains one of my favorite, and, in my opinion, one of the best hours of television ever created.  Possibly this is simply childhood nostalgia, but I think it is something more.&quot;City on the Edge of Forever&quot; is a character study that requires a relatively low level of suspension of disbelief with respect to the pseudo-science.  Once you give the writers the benefit of the quasi-mystical Guardian of Forever (not a big leap), you can sit back and enjoy the drama and pathos.  Joan Collins' Edith Keeler, an idealist as far removed from her later roles as night is removed from day, holds our interests as arguably the only woman in the entire canon of the original Star Trek series to engage Kirk's heart, rather than his loins.  The interplay between Spock and Kirk, both humorous and serious, captures our attention as they slowly realize that the future hinges on the sacrifice of someone who is basically innocent and pure of heart, who acts as her conscience dictates and with whom Kirk has fallen in love.  Much has been said about the ending, and the choice of who makes the hard choice at the end.  And in the end, I feel they got it right.  Dramatically, it means far more for Kirk to have been the one to make the hard choice rather than Spock or McCoy.One of the differences between &quot;Star Wars&quot; and &quot;Star Trek&quot;, the two greatest science-fiction franchises of all time, is simply this:  &quot;Star Wars&quot; tends to focus on the people, whereas &quot;Star Trek&quot; has an often unpleasant habit of focusing on the technology.  The &quot;Star Wars&quot; movies have spaceships, lasers, and all the rest, but how they actually work is mostly irrelevant to the story.  (Which is why the introduction of the &quot;midi-chlorians&quot; was such a huge mistake).  &quot;Star Trek&quot; has tended to focus as much or more on the science and technology than the people, resulting in a very mixed product quality.  &quot;City on the Edge of Forever&quot; is one of those Trek episodes that recognizes that it is people, not technology, that make for engaging drama.  As a result, it is a Trek episode that even strangers to the cult of Trek can appreciate, and a truly immortal hour of television. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The City on the Edge of Forever - A true classic </p>
+
+
+<h2> review.date </h2>
+  07-01-2003  
+<h2> review.text </h2>
+
+ <p> The City On The Edge Of Forever is the best series episode despite the rewrites that nearly ruined it.  Real Drama in Science Fiction....what a concept!  Very few atttempts at TV Science Fiction have come close to this one episode.But I digress....where does Paramount get off packaging this series in 40 separate sets?  There are now two other ST series available in a much more convenient package (season sets).If ST:TOS would be packaged this way I'd grab the first two seasons in a heartbeat....the third season should be burned!Just My Opinion....  Live Long And Prosper! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My Favorite &quot;Original&quot; Episode But.... </p>
+
+
+<h2> review.date </h2>
+  05-22-2001  
+<h2> review.text </h2>
+
+ <p> Little more needs to be said about the vibrant and mint-fresh visual quality of these two excellent television episodes. Star Trek has never looked better, and the superb cinematography and music of The Original Series (much better than any of the show's later incarnations) are at last presented in a medium which do them full justice.The same can't be said for the packaging. Though this may seem a trvial concern, one can't help but feel that the DVD packages (slicks) were put together by young hotshot-trendies who may not have ever seen an episode. The strange choice of typography, not to mention the colours, the incorrect use of photos (surely there are enough Trekkers around to proof this stuff; I estimate it would take the average Trekker 0.2372 seconds to spot the &quot;Metamorphosis&quot; photo on the &quot;City&quot; slick) and the lack of special features on the DVD makes one feel a little short changed. Compare Star Trek to the &quot;Contact&quot; DVD with its multiple audio tracks and commentary. It would have been great to have Shatner or Nimoy or any of the others do some audio, or perhaps a music-only track. Why not some rare stills from each episode (as with the Space:1999 or Thunderbirds DVDs), or some &quot;making of&quot; text a'la The Twilight Zone. At the very least, use the classic font for titles and a colour scheme more in keeping with the art direction of the series, rather than the dumb &quot;hip&quot; look we have now (out of date by tomorrow afternoon).The episodes themselves both deserve five stars. This was a great program and one that is sorely missed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Missing Star is for the Packaging </p>
+
+
+<h2> review.date </h2>
+  09-01-2003  
+<h2> review.text </h2>
+
+ <p> Gene L. Coon's Errand of Mercy and Harlan Ellison's City on the Edge of Forever (extensively rewritten by Coon, Gene Roddenberry and story editor D. C. Fontana although it's true to Ellison's original concept)are two of the finest episodes produced for Trek. I would argue the point that City is the best (there were others equally as good if not better and, in fact, Ellison's original script was much, much better than the version that was shot and aired). The former was totally Coon's creation. Coon was the unsung hero of Trek writing many of the original series finest episodes and using his experience as a hands on writer/producer to help Roddenberry fine tune his vision for the series.Essentially this is a conflict between the Federation (read the United States) and the Klingon Empire (read the Russians or Chinese however you want to look at it). It details a power struggle over a backwater planet where each group wants the planet as part of an ongoing power struggle. Kirk wants Organia to join the Federation as they are strategically valuable. The Klingon Empire invades the planet. They know Kirk and Spock are there and threaten to kill the inhabitants one at a time or in groups unless they give up Kirk and Spock. The Organians refuse as they've got a couple of tricks up their sleeves.City dealt with time travel. The Enterprise discovers a planet that is almost unstuck (to borrow from Vonnegut)in time. There are portals all over the planet that provided the original inhabitants with gateways to the past. Accidently injected with a powerful but dangerous drug, McCoy loses his mind, attacks crew members and escapes from the ship. Kirk, Spock and a landing party pursue him. They discover the portals, their purpose (they're intelligent and alive in a sense) and McCoy at the same time. McCoy travels into Earth's past to escape the landing party and, somehow, changes the past so World War Two is won by the Axis powers. The result is a stranded landing party and a nonexistant Federation to save them. Kirk and Spock choose to travel to the past to undo whatever damage McCoy has done.Featuring top notch art direction, effects (for 1967), performances (Shatner is, for the most part, very restrained and very, very effective in both)and direction, both episodes rate highly in the Trek canon and science fiction. City won the Hugo award and Ellison's original (much more emotionally complex)script won the Writer's Guild of America Award (where it was pitted against all episodic television shows submitted for that year).While City IS a classic and a great episode of Trek, you owe it to yourself to read Ellison's original script which has been published as a trade paperback with introductions by original series writer David Gerrold, story editor/writer D. C. Fontana, Next Gen writer Melissa Snodgrass, actors Nimoy and Walter Koenig. It's a great piece of writing and it's a pity that it has never been produced. Errand, on the other hand, is fairly close to Coon's original conception (although Roddenberry may have had a hand in rewriting it). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two of the finest episodes of the original Trek </p>
+
+
+<h2> review.date </h2>
+  07-02-2001  
+<h2> review.text </h2>
+
+ <p> Well, I'd have to admit that it'd be an understatement to say that this particular volume contains two of the series' most historic eppies. The first show, 'Errand of Mercy', introduced us to the original Klingons, who looked more like members of Genghis Khan's Mongol horde than the ridge-headed warriors of the movie &amp; NextGen/ DS9/ Voyager fame. And of course there's the Organians, whose outward appearance &amp; apparent level of technology belie their true power, which proves to be far greater than the combined might of the Star Fleet and Klingon Forces.Then there's 'The City on the Edge of Forever', Trek Classic's most celebrated &amp; controversial episode. It featured an early appearance by 'Dynasty' mistress Joan Collins, who played the tragic love interest of James Kirk. How... original!Then there's the controversy: writer Harlan Ellison's fight for creative control of this particular Trek has become Hollywood legend, and still garners debates to this day. I've always enjoyed hearing &amp; reading about this battle, especially Ellison's venomous statements about Gene Roddenberry. Even after nearly four decades, he's still got a beef about the whole affair!But the main reason I watch the show nowadays is to look for flubs, continuity errors, &amp; left-in bloopers. And 'City' has one doozy of a moment. After the cordrazine-maddened McCoy runs into the past, he meets and gives a quick medical once-over to a vagrant, then passes out. The bum takes advantage of McCoy's state, and swipes the doctor's phaser. Here's where the weird part comes into play: in the long shot where the vagrant is fiddling with the weapon's controls before vaporizing himself, you can see that the middle finger of his right hand is missing a knuckle. Then it cuts to a close-up showing his hands working the dials &amp; buttons, and the knuckle miraculously reappears!At least with James 'Scotty' Doohan, they made a (mostly successful) effort to cover up his slight lack of manual dexterity. But, I guess a different standard applies if you're only a one-episode bit player...'Late </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The magically reappearing digit conspiracy revealed! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

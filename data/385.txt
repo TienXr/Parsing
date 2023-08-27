@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1938469003 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> Purchased this as a gift for my beer-brewing husband.  He declared that this was one of the two books that he's been wanting most and is thrilled with it's contents! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A gift </p>
+
+
+<h2> review.date </h2>
+  10-05-2012  
+<h2> review.text </h2>
+
+ <p> If you like beer history, you'll like this book. About half of it is history of the IPA from 1800 to present. The history is well written and extremely well researched. If you are the sort who reads the beer history blog Shut Up about Barclay Perkins, you will enjoy the book.Unfortunately, I found the book lacking in real tips for brewing better (modern) IPAs. There is good recipe information for brewing historical IPAs circa 1800-1850 (including water chemistry), but none of the recipes are scaled for the standard 5 gallon homebrewer setup. I myself am looking forward to using the information to brew a heavily hopped Burton IPA in the near future. There are also excellent recipes for some of the best-known modern IPAs in the country. All in all, about 50 pages of recipes. These recipes are from the horse's mouth, so to speak, and should be much more accurate than anything you find on the internet.There is some style discussion for double IPAs, black IPAs (or dark cascadians, whatever you want to call them), and Belgian IPAs, but it really doesn't amount to much and is more of a side note than a main focus.There is good brewing information in the book, but if you have already read Palmer's How to Brew and Yeast by White and Zainesheff (both of which are excellent books all homebrewers should read), I don't think there will be anything new to you. In the end, it is a nice addition to the interested brewer, but definitely not a must-have. Cheers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well written but average information </p>
+
+
+<h2> review.date </h2>
+  05-31-2013  
+<h2> review.text </h2>
+
+ <p> Who better to take you through the history of the style, wide ranging techniques, and a boatload of recipes drawn from an impressive variety of styles within the IPA universe. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> master class from an IPA master </p>
+
+
+<h2> review.date </h2>
+  05-22-2014  
+<h2> review.text </h2>
+
+ <p> so, if you have read the pale ale  book, this is perhaps another perspective on pale ales, with a bit more of a modern viewpoint on it. if you are not a fan of pale ales or beer history, then I would stay away, as this is chalk full of history, and can be rather dry at times. the regular pale ale book really only covered classic recipes, and the new american styles, but really nothing about black ipa, wit, belgian or anything from the last decade. the history was great, and seemed to me to be quite a bit more thorough and well vetted. i am a big fan of charts and tables and they are very helpful in this book for comparing the different styles. now, there are recipes, and many are historic, some arcane, but this is what you get when you ask for recipes that are proprietary in nature. i have taken them and put them into beersmith for the actual 5Gal amounts. as with all things, you will get out of this book what you put into it, and this one will need a bit of thought. but, i am eager to try some of the classics, perhaps even the black ipa's. a very good, and welcomed update to the original pale ale brewing book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> IPA's </p>
+
+
+<h2> review.date </h2>
+  06-13-2013  
+<h2> review.text </h2>
+
+ <p> My son loved it and is using it today.  He tells me it is one of the better books he has used on brewing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It was a gift. </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> I'm not finished reading it, but so far it's a little heavy on history of old brew houses and light on recipe formulation.  I'm guessing that will come, but right now I'm not chomping at the bit to continue reading.  It's good, just not great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> I had heard a lot about this book on podcast and was excited to read it. It reads like a good book, mostly explaining the history and style of what an IPA is and is not.  The history of this style of beer is really fascinating.  Best of all, this book provides a ton of great recipes for famous IPAs.  My only complaint is that the recipes are given in percentages, rather than the typical 5 gallon homebrew size.  Given some brew software, that is easily calculated though.If you want the real story of IPAs and want some killer recipes to go with it, get this book right away. The author is one of the definitive sources on this style for the modern age. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great deep dive into IPAs </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> This is a great read and very current review of India Pale Ales. This is a must read for any true IPA enthusiast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic read </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> This book is for you... some reviewers wanted to hear more about recipes but I'd rather hear the stories of the brewers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you like brewing history </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> This is a fun read.  It's good on a lot of history.  Some complain that it doesn't have a lot of focus on the new american IPA's but I think that is really it's own book.If you want to brew an IPA this is a key reference. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well done history </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

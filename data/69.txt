@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B003U8CP84 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> It's not a snug fit -- but it definitely works well with no issues.  Power unit lights up too!... nice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This one seems to work. </p>
+
+
+<h2> review.date </h2>
+  10-11-2013  
+<h2> review.text </h2>
+
+ <p> Got this to replace the power cord that my son broke.  Worked great.  No problems at all with this unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> This works perfect for the old apple computer that needed a new power cord.  The Apple ibook G4 is the compeer we purchased this for and there are no issues at all.  It works way better than the vintage original ;) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as described </p>
+
+
+<h2> review.date </h2>
+  03-29-2012  
+<h2> review.text </h2>
+
+ <p> I really like the fact that this charger isnt like the origional with the big square thing on the plug. This is more normal. The only thing i dont like about it is that it does not light up when its charging to u dont really know if its charging when the computer is off...but other than that i love it. And it shipped fast! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JUST WHAT I NEEDED! ^_^ </p>
+
+
+<h2> review.date </h2>
+  01-24-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this when the original cord stopped working if I looked at it wrong.  This is made from sturdy material that appears less likely to break or fray.  The connection to my laptop is tight and secure and resists accidental pulling.  This is not as fancy-looking as what Apple produces, but it's a worthy power supply for a great price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful replacement </p>
+
+
+<h2> review.date </h2>
+  01-06-2013  
+<h2> review.text </h2>
+
+ <p> It works like the original - what else do you need?  This was a replacement for a dead apple unit at half the cost. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Electrify! </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> it works better then the real one, strong durable, good quality, I had my charger for 5+ years now  and it's still working like new </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great charger </p>
+
+
+<h2> review.date </h2>
+  12-09-2012  
+<h2> review.text </h2>
+
+ <p> Very pleased with this charger.Works great on my older iBook.The price was right and shipped fast!Worked right out of the box...plug-n-play!Pleased! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great on my older iBook </p>
+
+
+<h2> review.date </h2>
+  01-16-2013  
+<h2> review.text </h2>
+
+ <p> I originally bought a 3rd part iBood adapter from amazon about three years ago. It was just way cheaper than the official adapters (i.e. $5 instead of $60). That adapter was a disappointment. Though it originally worked, eventually the computer got to where it would not charge, but would only come on with the adapter attached. Initially, I thought the aging Mac's battery was shot, but I purchased a replacement battery and the problem of not charging persisted. Eventually, I started wondering if maybe the adapter was not strong enough to charge it anymore (I'm not sure if it was more likely an Amperage or Voltage problem). I purchased this adapter after reading a bunch of reviews on these third part adapters from many different sellers. As you probably have already seen, opinions are all over the board. Many people say they work great for a very low price; others say they bought a piece of worthless junk. In the end I decided to chance another cheap replacement, as the computer is so old I realistically won't get enough life out of a $60 adapter to make it worth it. This adapter did not disappoint. It works better than the last one. It charges the computer and forms a much more substantial connection with the computer (actually king of 'clicks' into the socket).I honestly cannot guarantee my experience is totally repeatable. The product reviews for so many of these cheap iBook adapters seem to be contradictory. To make matters worse, all of the adapters in the pictures appear identical. In fact, this new one looks exactly like the older replacement that I bought that was crap from the beginning. So much so that before throwing away the old one I compared them and could not tell one from the other. The best advice I can offer is to try this seller, trust that it will be the same adapter as I got, and that the quality of that adapter is consistent. Not that reassuring, I know, but for the price I believe it's a worthwhile gamble. You can always return it and try again if you get the shaft. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> better than last 3rd part adapter I bought </p>
+
+
+<h2> review.date </h2>
+  06-10-2013  
+<h2> review.text </h2>
+
+ <p> This power adapter and cord was in excellent condition. I didn't need the product once purchased, and I'm still waiting to get a refund on this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great condition </p>
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> I have an old G4 I did not start in a long time and this cord charged it up, froze on the grey screen on bootup. Does not finnish starting, just grey screen forever but I think that it may have had that problem before. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works! </p>
+
+
+<h2> review.date </h2>
+  01-27-2013  
+<h2> review.text </h2>
+
+ <p> Seems like this is going to last a while. I will post a condition result after 6 months of use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works and sturdy </p>
+
+
+<h2> review.date </h2>
+  07-06-2014  
+<h2> review.text </h2>
+
+ <p> Not much to say - bought as a replacement for a lost charger and works perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Power! </p>
+
+
+<h2> review.date </h2>
+  04-15-2014  
+<h2> review.text </h2>
+
+ <p> Nice quality..worked perfectly and great price!  How can you go wrong.  Reviewers were right.  Thought I'd confirm as well.  Buy w/confidence. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> just buy this nice power adaptor chord it works! </p>
+
+
+<h2> review.date </h2>
+  05-28-2011  
+<h2> review.text </h2>
+
+ <p> Almost a year after buying this power supply I haven't had a problem powering my iBook.  This power supply doesn't give up!  I can be kind of hard on power supplies but this one  hasn't let me down.  An excellent value, glad that it's still working and that I found it here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You would think it's  Apple OEM </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

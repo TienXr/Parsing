@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00009R6HB <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-05-2011  
+<h2> review.text </h2>
+
+ <p> it is a snug fit bag for the 055x tripod, with no room to leave the head attached.  so add screwing on the head to set-up/tear-down time.  compact, and not cumbersome.  not padded, very light.  thin material.  do not abuse. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> snug fit, must remove head </p>
+
+
+<h2> review.date </h2>
+  10-20-2012  
+<h2> review.text </h2>
+
+ <p> There is nothing to indicate that this bag is a Manfrotto. It is almost identical to theVidPro TC-27 Padded Tripod Bag, but three and a half times more expensive! I know because I ordered one of those as well.I sent it back within minutes of opening it.It was cheaply made, the wrong size, the wrong color, and missing anything remotely related to Manfrotto.Not sure what's up, but skip this bag till something gets cleaned up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WTF? Zero stars is too many. </p>
+
+
+<h2> review.date </h2>
+  07-05-2009  
+<h2> review.text </h2>
+
+ <p> Very tight fitting product.  It is well made but get the next size larger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product a little tight. </p>
+
+
+<h2> review.date </h2>
+  05-12-2011  
+<h2> review.text </h2>
+
+ <p> If you just dropped $250+ for a carbon fiber tripod, you'll want to protect it.  Carbon fiber is stronger than steel but lacks the ductility (ability to bend) that steel and aluminum have.  When it reaches its yield strength things shatter, and with baggage handlers trying to cram everything onboard in under 10 minutes you don't want your big bucks tripod comming out as a bunch of shards of carbon fiber tube at the destinatation (I like to go carry on with my tripod for this exact reason - but sometimes it's hard to carryon an entire eng kit)This bag has much more padding than other, cheaper bags on the market - that's what you are paying for, not the light weight, but protection.  That means that some tripod/head combinations won't fit inside the bag.  Be prepared to remove and re-install your head.  Often the head is heavier than the tripod, so it might ship separately anyways.This is a small price to pay for insurance on expensive tripods against crushing effects on carbon fiber.  I finally went for it when the prices dropped $10 figuring it was worth the new price to protect my investment in lightweight portability. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good bag for the tripod, head fit is iffy </p>
+
+
+<h2> review.date </h2>
+  11-07-2011  
+<h2> review.text </h2>
+
+ <p> this bag is great!! i have 3 of them and i stuff them full. i probably overstuff them!! light stands, strobe heads, tripods, umbrellas, you name it....i stuff it. i highly recommend these bags </p>
+
+
+<h2> review.summary </h2>
+
+ <p> awesome bag!! </p>
+
+
+<h2> review.date </h2>
+  01-09-2010  
+<h2> review.text </h2>
+
+ <p> Sent this bag back it was too small for just the tripod not counting the head. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> awful </p>
+
+
+<h2> review.date </h2>
+  02-24-2010  
+<h2> review.text </h2>
+
+ <p> This is a half way decent bag but an 055X with a head on it will not fit. Why would anyone make such an oversight? Why advertise a bag for a tripod that won't hold the tripod ready to use? I feel that this is poor research and bad planning on the part of the sales dept. I do not like to return items but this time I have no choice and someone besides myself should have to pay the price. I'm sure that probably will not happen but it was worth a shot! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too short!!! </p>
+
+
+<h2> review.date </h2>
+  10-16-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this when I purchased my tripod and 322RC2 ball head. Quite simply, the assembled tripod and head do not fit in the bag. I'll have to disassemble them if I want to use it.The bag is sturdy and well constructed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice bag, but does not fit the tripod with head attached </p>
+
+
+<h2> review.date </h2>
+  12-16-2008  
+<h2> review.text </h2>
+
+ <p> Great Bogan/Manfrotto quality.  This does the job.  I have two of them, one for a mono pod and one for a video/DSLR.  The small pocket on the side is large enough to hold spare mounting plates or small ball head but you won't fit a fluid video head in the pouch.  Other than that it's perfect for everyday use.  Keeps my tripods in great shape while lugging them around in the car. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for most tripods or monopods! </p>
+
+
+<h2> review.date </h2>
+  05-02-2010  
+<h2> review.text </h2>
+
+ <p> I am sorry - do they think that there will be no head on the tripod? The bag is well made (as mentioned, I would have liked a larger pocket), but to recommend a bag for the tripod (I have the 190X) and to have to remove or install the head each time I handle the tripod to or from the bag is not efficient I also have the Manfrotto Monopod (and yes, I must remove or install the head each time with that also) and it holds all 4 pieces, but the pain of setup is annoying.So if you do not mind the setup each time - the bag is well made, padded and does work well. Still debating if I want to keep or return and find another solution. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits tripod - and thats it! </p>
+
+
+<h2> review.date </h2>
+  01-08-2010  
+<h2> review.text </h2>
+
+ <p> This is a great quality bag. I have the 190XPROB, and the tripod does indeed fit in the bag. There is a small zippered pouch on the outside that measures 6x9 inches, the zippers appear to be good quality (on the main compartment the 2 zippers have holes in the tops so you can lock them). The webbing for the handles and shoulder strap appears to be quality material and stitched well. The case is also padded throughout. The only criticism I have - and this is the first time I have purchased a tripod case - is that while the case does contain the tripod, it does not contain the tripod with the head attached. I have one of the smaller Manfrotto heads, yet it does not fit in the case while attached to the tripod. Maybe it's just semantics, but I would have thought that "tripod" means the legs plus a head. But maybe that's just me. On the other hand, the head fits in the case along with the legs once removed. As a matter of fact, there is room in the case for at least 2 heads along with the legs, detached. I don't anticipate using the case a whole lot, and probably for the times I do use it detaching the head will not be a problem, but it would have been nice if it had been designed to accomodate at least a small attached head. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great quality, but could be larger </p>
+
+
+<h2> review.date </h2>
+  05-24-2011  
+<h2> review.text </h2>
+
+ <p> I purchased this bag to carry my new tripod.  It was specified as compatible with my particular model.  And, yes, it did fit.  As long as I removed the head.  With the head on the tripod it no longer fit.  I don't know about you, but I don't want to be attaching and removing my head every time I pull out the tripod and then put it back.  In fact, I'm not going to do it.IMO, not very useful.  It's a great bag.  Has a nice storage pocket, seems to be well-made.  But the fit is too tight to be useful.  I had to return it.Measure your tripod length carefully and make sure this will suit your needs before ordering. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice bag, but..... </p>
+
+
+<h2> review.date </h2>
+  12-01-2009  
+<h2> review.text </h2>
+
+ <p> In contrast to what the product description suggests, this 3279 bag is NOT the correct bag for theManfrotto 055CXPRO3 Carbon Fiber 3 Section Tripod with Q90 Column and Magnesium Castings (Black)when theManfrotto 488RC2 Midi Ball Head with RC2 Rapid Connect System (3157N)is attached to the tripod.  With that head attached, or perhaps with any head attached, the 3279 bag is too short.  Use theManfrotto AW 3280BLK Tripod Bag for Tripods up to 35-Inch (Black)instead. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the right bag for the Manfrotto 055CXPRO3 tripod with 488RC2 head </p>
+
+
+<h2> review.date </h2>
+  05-11-2011  
+<h2> review.text </h2>
+
+ <p> This bag worked great for me - a perfect fit for theManfrotto 190CXPRO4 4-Section Pro Carbon Fiber Tripod without Headwith theVanguard GH-100 Pistol Grip Ball Head. I specifically chose the PRO4 for its shorter length (vs. the other 190CX models with 3 leg sections) and I prefer the Vanguard pistol grip for the head. The combo with head attached easily fit in the bag with about an inch to spare. There's still plenty of room inside for miscellaneous accessories like my flash, filters, and tripod collars. The bag measures 25" long with a cross-section of 4.75"x4.75". My tripod is 20" long. The head extends another 4" for a total of 24". So it was a nice fit with an easy in and out. The bag is made of heavy canvas type material with some, but not much, padding. The main zipper feels heavy duty. There's a 9"x5.5" zippered pocket on the side of the bag which would be useful for keeping flat things, but I don't think I'll use it. The straps are very sturdily attached with a lot of stitching. The main thing to keep in mind when buying tripod bags is to know the size of the bag (all 3 dimensions) and compare it to your tripod+head size. I read a lot of reviews about the Manfrotto 055CXPRO3 or 055CX3 not fitting in the bag with head attached. Of course not! Those tripods, by themselves without heads, are already 25" which is the length of the bag. With heads detached it'd be a snug fit, but attached, no way. So make sure your tripod+head is under 25" before buying this bag. If it fits you're going to like it. NOTE: The bag is black, not blue as pictured by Amazon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Right bag but make sure you know the size of your tripod+head </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

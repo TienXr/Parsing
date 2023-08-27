@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1599214547 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> What a great concept and title.... but the recipes are impractical and call for uncommon ingredients. Rose petals? Really? I am very disappointed in this book for which I had high hopes as a baby shower gift for my neice. What a shame. Good concept... fumbled! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great concept; ridiculous recipes </p>
+
+
+<h2> review.date </h2>
+  10-30-2009  
+<h2> review.text </h2>
+
+ <p> Normally I wouldn't bother reviewing a non-alcoholic drinks book (I don't want to encourage their spread) but I am making an exception in this case because it was written with pregnancy in mind rather than some Fascist/Prohibitionist agenda. Natalie does a very creative job creating excellent cocktails to lessen the suffering of pregnant women who are craving real cocktails.The book features 75 recipes with ingredients, directions, etc. all of which are quite good and inventive. They not only taste good but are pleasing to the eye. One of the best books on non-alcoholic cocktails out there.As a bonus, there is a fair amount of pregnancy affirmations in there for people who like that kind of thing, which also makes it a great gift for a baby shower- just jot a couple of the recipes down beforehand so you can hand the mother to be one (or several) of these cocktails during the shower- she'll probably need them by then! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Book of Virgin Cocktails for the Ex Virgin </p>
+
+
+<h2> review.date </h2>
+  06-02-2011  
+<h2> review.text </h2>
+
+ <p> Some medicines shouldn't be taken while drinking cocktails.  OR, you shouldn't drink cocktails when taking some medicines.  So, if you're taking acetaminophen or valium or some such, it'd be nice to be able to make or order something other than a Shirley Temple.  This book definitely is not just for the "Mom-to-be."  My wife and I are 'way past that stage, but we're at that age where stuff breaks, pulls apart, or just gets sore for no known reason. Recently, while waiting for parts to heal up, we bought this book.  We tried most of the recipes, skipping those requiring trips to healthfood stores for exotic ingredients - most stuff can be found at "good" grocery stores.  Because I healed faster, I got to try them with the alcohol added while she stayed with the "base."  Trust me (I'm too old to lie about much), she claims she wasn't jealous, and I didn't feel guilty drinking a real cocktail while she couldn't.  Plus, the bartender at our favorite restaurant appreciated having some relatively simple but uncommon nonalcoholic recipes to add to her repertoire.  Finally, we have some friends who don't drink alcohol very often or at all, and we've already added some of the recipes to the list of things we offer dinner guests so they aren't stuck with juices, soft drinks, colas, or ice water.If you're put off by (or too young or old to appreciate) the cutesy focus on child-bearing, well, then, don't read those parts - just focus on the recipes. And, thanks, Amazon, for quick delivery.  We got to use this book during our recuperation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good addition to bartenders' book collection </p>
+
+
+<h2> review.date </h2>
+  01-09-2009  
+<h2> review.text </h2>
+
+ <p> Illustrated with color photography sure to whet one's thirst, Preggatinis: Mixology for the Mom-to-Be is a most remarkable guide to mixing delicious non-alcoholic drinks, perfect not only for pregnant (or soon-to-be pregnant!) women, but also for anyone who prefers their cocktails without intoxicants. Preggatinis are not the same as syrupy, so-called "mocktails"; they are composed of freshly squeezed juices, fresh fruit or vegetables, herbs, and homemade syrups, and thus usually feature nutrition as well as great taste! Best of all, there are "de-virginize" options for these drinks, perfect for dads, nonpregnant friends, and anyone else interested in enjoying a preggatini with an extra kick. From "Berry Cherry Blossom" to "Hot Buttered Mum's Rum" and "Pomegranate Cooler", these drinks are sure to delight the palate of all tasters. Highly recommended, especially as a baby shower gift. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These non-alcoholic drinks are sure to delight the palate of all tasters </p>
+
+
+<h2> review.date </h2>
+  11-07-2010  
+<h2> review.text </h2>
+
+ <p> I really liked the format of this book.  It was easy to follow, and the pictures were nice, and well done.  My frustration was that the first third of the book was alcoholic drinks.  This wasn't what I was looking for, and for the amount of recipes that were included in the book, it just didn't make it worth the price.  The other book that I bought had 4 times the recipes, but no pictures, so I stopped at the first one.  Maybe if they could combine the two. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I liked the picture format, but didn't include enough </p>
+
+
+<h2> review.date </h2>
+  01-21-2013  
+<h2> review.text </h2>
+
+ <p> I got this for a girlfriend that just found out that she's is pregnant with their first child and she loves it. And the names of the recipes are so funny and cute! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great gift! </p>
+
+
+<h2> review.date </h2>
+  04-03-2014  
+<h2> review.text </h2>
+
+ <p> I love this book.  I used to drink wine when I watched the bachelor or when hanging out with my sister.  Now that I am pregnant though that is on hold but I still wanted to drink something fancy so this book was perfect!  It is also nice bc it shows you how to add alcohol for dad or for after so I would make one with and one without when I was with my husband </p>
+
+
+<h2> review.summary </h2>
+
+ <p> so much fun! </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> a fun gift for a friend:) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  03-20-2014  
+<h2> review.text </h2>
+
+ <p> I bought this as a gift.  Many of the recipes look like they would be delightfully refreshing.  It's a thin hard cover, another plus.  The pictures are colorful and abundant too.  The book is smaller than I expected.  Perhaps I didn't read the specs if there were any given.  It measures about 7 1/2&#34; X 5 1/2&#34;.  I'm hoping to use one of the recipes at the baby shower where I will also present the book to the baby's father and tell him to take care of his pregnant and later, nursing wife.  I think the book was a good deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good looking recipes </p>
+
+
+<h2> review.date </h2>
+  05-30-2013  
+<h2> review.text </h2>
+
+ <p> Great drink recipes to try although some of them call for some unique ingredients that might be difficult to find. The best part is also the humor that is involved throughout the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Preggatinis: Mixology for the Mom-to-Be </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

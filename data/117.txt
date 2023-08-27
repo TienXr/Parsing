@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B008F4YKCW <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent stand for the price </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-02-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've got half a dozen headphones, but nowhere to hang them. I wish the base was heavier for stability, but this probably is a non-issue. Additional weight would just be for peace of mind. Highly recommended! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent product, easy to assemble, very sturdy. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been using this stand for several weeks now and I just love it. It took just a few minutes to assemble with the supplied wrench and nothing has come loose even though I put the headphones on and off it several times a day. The wood looks very nice and is not cheap pine and it does not slide or mar the furniture. One of my headphones is theHifiMan Electronics HE-500 Planar Magnetic Over-Ear Headphones (Black)which are quite heavy and the stand is very stable and has never fallen over or become imbalanced when putting phones on or off the stand. Very convenient place to store the phones you use the most at a fair price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Utilitarian stand </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nothing fancy but this holds my Sennheisers and my portable Beyerdynamic T 51p headphones without falling over or tilting. This won't win any design awards but it does the job without paying big bucks for a metal or plastic stand. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works with any headphone. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Works as expected. Real wood. Ships with the allen wrench needed for assembly.Might cause permanent indentations in the top of the headphone's padding if you leave it there long enough. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great but slightly overpriced. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As a two headphones stand this one is hard to beat.  Too bad at $25 it is a bit overpriced. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pleased </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I wanted something nice to support one of my four sets of headphones. I was ready to spend more for less when I saw this. It arrived and went together well and supports two headphones at once in woodshop style. I bought a cheap beanie to stretch over then for dust and protection and it works like a charm. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice stand </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I kept thinking to myself that I could have build a stand just like this from my left over bamboo flooring panels, but I was a little too lazy to do so. I wanted to give it 5 stars, however, for what it is, I do think its a little pricey. I did experience the same thing as a previous reviewer where the screws could not be tightened to a point where the pieces were snug and would not move. I too added a flat washer, and a lock washer and I am pretty confident that I would have to tighten the two screws on rare occasion. I would have given 5 stars if this item was around 10 dollars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great dual headphone stand </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This stand works great for my two headphones.  The base is heavy enough that it doesn't tip over when I remove one of the headphones.  I also didn't have a problem tightening down the screws when putting it together.  There is a built in metal receiver for the screws, so I was able to get them very tight and it didn't strip.  I guess some of the other stands have a problem with stripping out when they are tightened down too much.  This stand also comes with an allen wrench to put it together, grooves for resting the headphones on, as well as a blue Velcro strap that can be used to help secure the headphone wires.  Exactly what I was looking for at a great price! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Well made, but could use some improvement </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The main problem with this is the screws never get tight enough to keep the top from moving occasionally. Also a heavier base would keep it from toppling over. I used extra meal washers below the screw heads so they could be tightened enough to make it solid. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Value Stand </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-20-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I put this together in about 3 minutes. It works great for keeping two of your favorite headphones around. I like to keep one Open and one Closed headphone on them. I can see myself buying more in the future. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Value, clean look </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a really nice, value priced headphone stand.  There are some things I do and don't like about it thoughPOSITIVES:1.  Easy to put together, you just need a phillips head driver and you install two screws and your done.2.  The headphones stay on this and don't slip off because of the 1/8 inch of wood that is cut away to form a &#34;cup&#34; to hold the headphone bands.3.  Headphones hang a good distance from the desk-top so that the cable doesn't become warped or tangled.4.  Can take my Hifiman he-500 alone and not need another headphone to counterbalance.NEGATIVES:1.  No rubber feet, so it might slip a little on a wood desk surface when grabbing headphones.  Worth purchasing some rubber feet for this bad boy.2.  To remedy this they also could have added weight to the bottom, as it isn't bottom heavy as it should be.3.  I wish it also came in black!  (minor I know)Overall a great product for the budget minded audiophile! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

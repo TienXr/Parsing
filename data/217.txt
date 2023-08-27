@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00068S97M <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-23-2012  
+<h2> review.text </h2>
+
+ <p> This is a great compilation dvd that includes 6 separate workouts on the rebounder. They are all good. However, my favorite is the "Senior" workout led by JoJo Tyler that features using a stabilizing bar.  The music has a slower groove and JoJo cues well while offering a lot of tips on form and safety. It's not just for seniors.  It's for anyone who wants to gently move into rebound exercise. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The One You Want! </p>
+
+
+<h2> review.date </h2>
+  01-21-2013  
+<h2> review.text </h2>
+
+ <p> This video was perfect for the Urban Rebounder....it showed the proper form for using the epuipment....would recommend this when starting out! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Video! </p>
+
+
+<h2> review.date </h2>
+  05-21-2013  
+<h2> review.text </h2>
+
+ <p> I added rebounding into my cardio repertoire to give myself some more variety.  This is the first rebounding DVD I used after I purchased my Cellersizer.If you've ever done any of Cathe Friedrich's older workout videos such as PowerMax, the look of Urban Rebounder will be very familiar to you.  This is because both videos are produced by Greg Twombly who was the founder of the Creative Instructors Aerobics.  So the look of these workouts gives me the impression they were created in the late 90s.  The sets, other than the floor, have a sort of cardboard look to them.This workout is extremely basic.  As you go from Basic to Advanced, JB Berns adds more and more basic moves.  Even in the advanced workouts he refers to the moves by the workout they were introduced in.  The basic moves include jumping jacks, military press (jumping with your feet together, pressing up with your arms), basic bounce, etc.After the cardio portion, he moves into the "Sports Specific" routines which feature moves like skiing, jogging/running and squats.  It's not a bad workout and it will leave you sweating.  My biggest problem is that its fairly boring.  There are frustrating moments when he announces that you're going to take it from the top, even though you've already "taken it from the top" about a dozen times.  I find the beginner and advance less frustrating in this regard.So no, it's not bad.  Just beware that you might feel like it's time to move on after you've done these workouts three or four times. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Back to the 90s </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> First time I've ventured into ordering one of these and I'm truly impressed.  This workout kicked my tail, and I can't wait until I'm able to do the whole thing through from start to finish.  I look forward to purchasing additional DVDs from this line. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Urban Rebounding Workout </p>
+
+
+<h2> review.date </h2>
+  07-24-2006  
+<h2> review.text </h2>
+
+ <p> I purchased this and I confess I've only tried it twice.  I simply can't make it through the whole video.  I am using a regular fitness trampoline rather than the expensive rebounder, and I am not sure if that makes a difference.This is a lot of fun, but I have to mix the exercise that they do with just jogging or marching in place to keep my heart beat from going through the roof.  I'm not "athletic", but I do exercise daily. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Using a regular exercise trampoline </p>
+
+
+<h2> review.date </h2>
+  03-08-2005  
+<h2> review.text </h2>
+
+ <p> I got this DVD when I first got the Urban Rebounder. Since I had nothing else to compare it to, I went with it. You MUST start at the beginning if you've never done this workout before. Even though the choreography is very basic, there's still lots of safety tips and basic moves that must be learned. I'm pleased to say after just  one month of using my rebounder I was using the advanced routine. Each routine ends with strenth and ab work which I was not impressed with. However, the cardio portion is well worth the money. After three months of the advanced routine, I got bored! Luckily, there are more compilations. Even though I liked compilation 3 better, I'm glad I started with #1 simply for the more complete instruction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great beginning Rebounder DVD </p>
+
+
+<h2> review.date </h2>
+  03-03-2014  
+<h2> review.text </h2>
+
+ <p> The exercise video shows all the other videos.  The video and work out is okay.  I continue to try it. my cordination is off and I afraid of failing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I got this workout DVD since I purchased a trampoline for my daughter and I </p>
+
+
+<h2> review.date </h2>
+  08-19-2013  
+<h2> review.text </h2>
+
+ <p> I don't know if it is me - but I found some of the instructors off-putting.  The blond that struts her stuff on the trampoline and flashes that fake smile every second is one of them.  I have nothing against her - but I want to feel comfortable and really &#34;connect&#34; with a video in order to want to do it again.  I usually end up getting bored - rolling my eyes - and turn it off.  I'd rather just jump on my trampoline on its own without a video that to watch irritating instructors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I didn't like it </p>
+
+
+<h2> review.date </h2>
+  05-26-2005  
+<h2> review.text </h2>
+
+ <p> I just got this in the mail today.  I've had a mini-trampoline for many years and have always loved messing around on it, but I'm the type of person who benefits from instruction.  I am glad to see these workouts.They tell you to use their Urban Rebounder, but my no-name model from Sears works fine.  I don't know if I could add the stability bar on to it, but I don't think I'll need to use that.I started at the beginning and did the first workout:  First-Timers.  It was so difficult I couldn't believe it.  They slowed everything down so much that it was no fun and I was completely out of breath.  I had to take jogging breaks to catch my breath.  However, the First-Timers workout only needs to be gone through one time, if that.  I think you can learn all the basics from the second workout:  The Basic.The Basic workout was really fun and up to tempo (unlike the First-Timers).  It was exactly what I was hoping for: a good workout on the mini-tramp.  It included a warm up, cardio section, jogging/sprinting section, cool down, and abs workout (which I thought was pretty tough).  The moves were all basic but the warm up and cool down had some variety not included in the cardio section.This disc includes 6 workouts, not four.  They are:  First-Timers, Basic Program, Intermediate, Advanced, Oldies But Goodies (for Seniors), and Abdominal Bound.I haven't tried the other four yet, but the other reviewer covered the Advanced program and the fundamental outline of all the programs. I did look at the workout for seniors.  The music for it is also very slow so I don't know if it will be a fun workout.  It has a different instructor (JoJo) who is very interesting.The main instructor, JB Berns, puts me in mind of the martial arts instructor from Napoleon Dynamite, but he's not that bad.  He's actually kind of funny.  He does take the name of the Lord in vain twice in First-Timers and once in Basic.  I hope that will not continue into the other programs.  You'd think someone would have told him . . . (unless they didn't want their face smashed?)He mentions checking your heart rate one time, but gave no time to do so.  I'm glad he mentioned it because I was so focused on the moves that I didn't realize how elevated my heart rate was.  After that, I had to modify the moves myself to keep my heart rate down.  They had five people on camera; you'd think one of them could have demonstrated some modifications.Sometimes he gives good instructions on form, but other times none.  He says, "use good form," but doesn't explicate.  If you are a beginner you will need to learn about form from other fitness instructors (Karen Voight being the best I know of).The demonstrators are all wearing gym shoes, so I wore mine.  I tried the cool down barefoot because my feet were hot, but I think it's better to wear shoes for the workout.I'd have to say that maybe this DVD only deserves three stars because of its weaknesses, but I gave it four because it's unique (are there any other rebounder DVDs out there?) and because it's a good value.  You get six workouts on one disc.There are other compilations too, with different instructors, including ballet, dance, pilates (core), African, Latin, kick, boxing, hip hop, hi-lo, and stretching.  I'm looking forward to trying some of those. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rebounding is Fun </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> I'm glad that I ordered this product to go along with my new Urban Rebounder....especially by the creator J.B. Berns.  Thank you </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Product! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

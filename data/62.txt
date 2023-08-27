@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0032FOJGG <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-31-2012  
+<h2> review.text </h2>
+
+ <p> This is a frustrating radio.  It basically works, but it fails on several things that ought to be easy.  Autoconnect, as others have pointed out, doesn't work out of the box.  It does not display the clock when the radio is off, and it switches out of displaying the clock to displaying the source even when it is on.  There is no mute button on the radio (seriously--there is one on the remote, but nothing on the radio, and who actually uses a remote control when they drive).  Hitting the track advance when playing music via bluetooth from my Android phone causes it to shift to a new disk, not the next track, but I do not know whether the fault there is in the phone or the radio.I wouldn't buy this again </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You can find better </p>
+
+
+<h2> review.date </h2>
+  07-26-2010  
+<h2> review.text </h2>
+
+ <p> This is a great head unit. A little tricky to figure out how to set up but all in all pretty simple and great sound </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little stereo </p>
+
+
+<h2> review.date </h2>
+  04-13-2012  
+<h2> review.text </h2>
+
+ <p> this stereo does everything it says it does. It took about 30 min to install and works great. I read some reviews about the mic not working but mine works and sounds like I'm useing the phone without hands free, so i'm told. I put the mic up in the dash by the speedo where it cant be seen and is out of the wind. Couldnt ask for anything more for under $100 I would buy it again. Oh it also bluetooths my phone AND music/youtube etc from my Sprint HTC. It took about 5 min to set up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great deal </p>
+
+
+<h2> review.date </h2>
+  01-18-2011  
+<h2> review.text </h2>
+
+ <p> Considering the high regular retail price I suppose I was expecting more. Overall it seems to be a good product though. I guess the best way to do this is a pros and cons list.Pros:Easy installPlenty of connections in the backNice blue LEDsCompatibility with media formatsCons:No Bass/Treble adjustments only Sub control (Extremely disappointed by this)USB connection really should be on the front, not have to wire from the backDetachable faceplate (I know its for security, but I'd prefer not to have it that way)Basically what it comes down to is this device is compatible with virtually everything, but out of the box it can't do much on its own without add-ons. It's a quality product, just don't pay over $100 for it.Edit: Let me clarify, this deck can do ALOT, if you have the devices (iPod, Bluetooth, Flashdrive, HD Radio adapter, XM Satelite, etc). I was hoping for a more audiophile experience, the number of options available to adjust audio settings is very limited which was what I was hoping for most. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Overall a Good Product </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> Installed this in my 1995 Chevy truck and the features this radio has brings my old truck into the present with Bluetooth connectivity and an audio port for my android smartphone. Have had some issues with the Bluetooth not connecting all the time but overall great radio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good head unit. </p>
+
+
+<h2> review.date </h2>
+  05-10-2011  
+<h2> review.text </h2>
+
+ <p> I bought this based on all the good reviews here, and I am terribly disappointed that I shelled out over $100 for this.  It is so bad that I am putting it up on Craigslist and buying a bluetooth FM modulator to use with my old stereo.Problems (in order from most to least severe):1.The quality of the bluetooth audio streaming is very very poor.  It sounds passable for quiet acoustic songs, but when you have any highs or portions of the music with lots of instruments and varied sounds the audio falls apart with scratchy high-pitched distortion even with mp3 source material encoded at 256k and above.  Using the line-in is easily twice as clear if not more.  If you are used to having an audio device directly connected, the bluetooth will grate on your ears.  Since this is the primary reason I bought the thing, this is totally unacceptable to me.  Also, I tested several decent smartphones (Palm Pre, Samsung Epic 4g, HTC Hero) and all had bad sound quality and the scratchy sounds.2.This unit seems to have overall bad sound quality.  Bass notes are all that it can really push effectively.  Highs sound clipped even at moderately high volumes, and the max volume is not as high as you would hope.  CD's sound OK, but again are not as good as even cheaper units from other brands.3.FM reception is not great.  I got this unit after owning my last stereo (JVC KD-HDR1) for about 3 years which had great reception, and the tuner on this makes even local stations sound like they are coming from a hundred miles away.4.The USB playback is useless for large storage media.  I have a 32gb microsd card which is supposedly within the range this thing can handle, but it just stays on "reading" eternally.  I didn't buy it for this use, so I am not too offended, but you should beware of this.5.Terrible hands free microphone reception.  Even when it is right in front of my mouth, I have to yell to get people to hear me.6.Cheap buttons on the front mean you have to push right near the center of the "starburst" cluster where the plastic flaps flex.  However, the jog dial is actually nice and rubbery.Good Stuff:1.It looks pretty nice if not basic.2.It has a plethora of connectors.3.USB cable for charging and a line input on the front.Conclusion:Absolutely do not buy this.  I regret it so much.  I am buying a Soundfly BT Ultimate BT->FM modulator and putting my old stereo back in, and then I am putting this thing up on Craigslist.  I cannot believe people who are suggesting the BT audio quality is even passable on this thing and wonder if they all have hearing problems.  I am not an audiophile, and I use cheapo earbuds and a decade old bookshelf cd player at home; but, this stereo has terrible audio quality.  If I had to do this all over again, I would have bought one of the newer JVC units like a KD HDR60 and gotten a separate BT unit since JVC's BT addon boxes are overpriced and have mixed reviews as well.If you are looking for bluetooth streaming, stay away.  If you aren't looking for BT, there is much better gear for the money out there with HD Radio built in.EDIT:I am now using the Soundfly BT Ultimate fm modulator box with my old stereo.  With the BT audio streaming from my phone to that device and through FM to the radio the audio is far clearer than this Clarion unit. Also, the included microphone with the Soundfly works great (no more yelling). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible Bluetooth Audio And All Around Low Quality </p>
+
+
+<h2> review.date </h2>
+  03-14-2011  
+<h2> review.text </h2>
+
+ <p> Here is my updated review.  This unit could be nearly perfect if a couple of gremlins where properly fixed.  That said, it is a solid unit for around $100.So here is my list of pros, cons, and cons that have been fixed (mostly):Con (fixed):  Phone would not connect to cz500 automatically.  Fix:  As mentioned in other comments, simply disable autoconnect, turn off, turn on, then turn autoconnect back on.  (see other posts for more details)Con (fixed):  Phonebook would not connect to phone for SIM contacts.  For my HTC Touchpro 2 (aka Tilt 2, Rhodium) go to the properties for the CZ500 connection and check the box for "connections authorized".  If that doesn't work, you may need to upgrade your ROM to a "Manilla 2.5" ROM, but I'm not positive and don't have time to go back and test.Con (sort of fixed):  Phonebook (after fixing above), showed mismatched names w/numbers.  The connection was also unstable (sometimes showed "No Match").  Go into your SIM contacts and remove all special characters from the names.  (like commas and slashes)  Power the phone on/off between your cleaning of contacts (to clear it's memory).  Edit:  The unstability is back, so this issue is not fixed yet...Con:  The CZ500 does not receive calls when the car is running, but the radio is turned off.  My old Sony Bluetooth receiver would still ring, as long as my car was running, even with the radio off.  Fortunately this is easily fixed by leaving the unit on, but just turning the volume down.Con:  The receiver seems very suseptical to the phone's cellular radio and makes lots of "buzz - click - click - click" sounds if the radio is on low volume.  My old sony did not do this.  (minor)Con:  You can't initiate phone calls without changing the source.  (minor)Con:  Mediocre navigation tools for browsing a USB memory stick plugged in.  (minor)Con:  HD Radio sucks.  I guess that is not this radio's fault, but in the hills of the San Francisco Bay, it is poor.  I have grown used to it, so it is not a huge deal anymore.  (but I was expecting the performance of the new digital OTA TV)  Don't pay extra for the HD tuner module!Con (minor):  You can't tell the unit to default display the clock.  You need to press a button 3x to get the clock when you want it.Pro (big):  Easy to read display.  This baby is easy to see and beautiful, even in bad light.Pro:  Sound clarity.  The bluetooth mic is very good in my 1997 GMC Sonoma.  (not a picture of quietness)Pro:  Easy to use controls.  While there are some nuances, the unit is pretty easy to use.Pro:  Not a gaudy POS for drug dealers.  The unit is nice looking.Pro (huge):  This unit is an amazing deal for the money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ironed out a few warts and am now pretty happy! </p>
+
+
+<h2> review.date </h2>
+  01-24-2011  
+<h2> review.text </h2>
+
+ <p> Pros:1) Bang for the buck !!2) Bluetooth works3) Everything else works4) Ipod control from the stereo. Does not allow controlling via iPod, but allows playing in shuffle mode. This is great because you can keep your eyes on the road and not twiddling your thumbs on the iPod.Cons:1) Bluetooth does not recognize phonebook or dialed/received/missed calls2) If you are in any mode other than Bluetooth, you cannot dial outgoing calls.3) Tuning radio stations is irritating to say the least.4) Sucky manualExpanding on the cons:Thanks to gluepet for describing how to get the auto-connect to work. Just changing it from on->off->on didn't work for me. Switching the system completely off and then restarting it again did.1) Every time I try to access the phonebook or dialed/received/missed calls, it shows "WAITING" for a couple of seconds and then shows "NO MATCH". I just haven't been able to get this working. I don't know if this is because of my phone(Nokia 5530) or some setting in the stereo. If someone can help me with this, I could care less about the other 2 cons.2) The manual says that by hitting the Band OR the MENU key should allow you to dial number or access your phonebook or dialed/received/missed calls. But it fails to mention that this is only possible in Bluetooth mode. So if you want to dial out, you first have to switch to Bluetooth mode and then make a call. Not a huge deal, but still pointless since the "Band" key is useless in the Ipod mode anyway- so might as well save the user from clicking multiple times. If there is a way to do this in other modes, please let me know.3) Tuning is a PITA since it takes too long. Auto Tuning only sets the stations for FM3 and AM (this is listed in the manual as well). So we are pretty much back to manual tuning on FM1 and FM2. This sucks. However, I just programmed my 3 fav stations and called it a day.So why 4 stars? Well cause, I, personally, can live with cons 2) and 3) as they do not affect me everyday. and from other comments I gather that 1) works for many people and so it "could" just be my phone. (I will try to use another phone and see if its any different and update the review)EDIT : It was just my phone. Changed the phone and now have no issues with the phonebook anymore. The tuning of stations is still painful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> no phonebook/dialed call access yet </p>
+
+
+<h2> review.date </h2>
+  05-04-2010  
+<h2> review.text </h2>
+
+ <p> I put this in my wife's car so she could use her iPod and have bluetooth for her phone.  The iPod function works quite well.  The bluetooth feature is nice but you need to make sure it is mounted in the right location.  Our phone doesn't auto-connect to the bluetooth (have to do it manually each time), but that may be a problem with our phone.The buttons are quite easy to use and read, which is nice for an after-market stereo.  The volume knob is large and has rubber around the outside edge, which makes it easy to adjust with just one finger.  The display is large and easy to read.  If you hook it up with the right wiring harness, it also integrates with your headlights so it can auto-dim at night.  For the price, I don't know if you will find another stereo with this many features. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great features!  Great Price!! </p>
+
+
+<h2> review.date </h2>
+  10-31-2011  
+<h2> review.text </h2>
+
+ <p> I bought this Clarion car stereo about 4 weeks ago. I installed it myself and have gotten used to the controls and the features within.I can't stop thinking about how satisfied I am with this unit. For the money, this stereo has ALL of the bells and whistles of a more expensive stereo but the cost is "just right"...I smile every time I get into my car, snap in the faceplate and tunes start automatically streaming from my cell phone.I initially wanted a stereo that had USB in the BACK so I can charge my iPod and playback music without the hassle of cables in the front, however Bluetooth streaming has changed the game in my opinion. Although I cannot store as much music on my cell phone, the addition of Pandora, Audiogalaxy and other streaming services completely change the way I listen to music. I no longer feel the need to store an iPod in the glovebox. So for now, the USB will be used to dock other devices that friends bring along for road trips or to charge my accessories that utilize USB. It's still a win but I had no idea how awesome Bluetooth streaming could be until now. There is a caveat though: The audio quality does suffer a bit when streaming. There is compression and it's obvious in the mid-range. Lots of sonic crashing in the mid bands when streaming from BlueTooth. I did a lot of testing and found that when I plugged my phone into the USB port, the same audio sounded clearer. For day to day driving, Bluetooth is just fine though, but if you want to stop and really listen to stuff, I suggest using the USB port or a CD/DVD for optimal quality.PROS:1) Ergonomics: The radio layout is fantastic. The ergonomics of the layout make sense and are easily found without having to constantly look down to adjust settings/volume. Of course, the included remote helps too (I velcro'd mine to the steering wheel...I know...ghetto)...Unlike other reviewers, I found the quality of the knob and the buttons to be quite nice. The response and texture of the knob and buttons makes it a pleasure to use because you do not need to look at the front to know where you are. The menu layouts are also quite nice. One minor complaint is that using the menus for finding artists/song titles is tedious but ... Can YOU think of a better way to search for songs using a 2 line text window? That shouldn't be a ding against the radio because it's a logic fault. Using Bluetooth streaming, you can control the music from your portable device without using the deck interface...WIN2) Easy installation. I connected mine to a custom face on a '91 Mazda MX-6. There are a lot of cable junctions in the back so space could be an issue for some but I found it compacted nicely and the connections are all nice quality. The RCA connections to my amp were clear and simple. This unit has 2x SUB outs as well so I found that to be an amazing addition. All the cables were labeled clearly and connected to the factory connectors with ease. It wired correctly the first time and that was awesome. One small hiccup: There is a brown cable coming out of the radio that has no label and the instruction manual shows no such wire. ha ha ha...who knows!3) It's LOUD! Even without an amplifier, the deck produces some decent audio output! The built in presets for audio tuning are crappy though so I found that the custom interface was the way to go. Each setting for bass, mid and treble have three EQ type settings. The manual does not instruct you how to use that so just tweak by ear I suppose and find what suits you best. But when that is all set, you will really enjoy the audio output when listening to CD's and/or a portable music device via the USB interface. It's pretty clean! The Volume control is smooth too. Unlike other decks, the lower volume controls are pretty fine, meaning you have good control over the lower volumes without the unit "jumping" too low or too high. Volume metric goes from 0 to 40 and I find 28-33 to be about the right volume when driving. Getting it to 38 will produce some minor distortions in the mid range if you are not using an amplifier but .. dang, it's pretty loud at 38 so ... unless you are in a limo or a giant van, I'm guessing you won't need it that loud.4) Detachable Faceplate. Seems to me that feature is slowly going away for a lot of units. I love that I can remove the faceplate so bad guys don't break my car windows! It takes some getting used to lining up the sides. I still struggle a bit trying to get the right side hinge just right so I can snap it in. Also, when releasing, it has a secondary catch to it that makes me feel like I am going to break the unit when pulling it off. Not a complaint but I'm not sure if that is what they wanted by the design.5) FEATURES: WOW! This deck is LOADED with features! SAT radio connections, HD Radio connections, Bluetooth Hands-Free with a built-in Mic (that you can replace with a higher quality mic), Streaming, DVD/CD audio playback, 4ch RCA to an Amplifier, AUX in the front, AUX/USB with charging capability from the rear and more. Honestly, feature wise, what more could you want? This thing is LOADED and for the price. The real difference is the USB in the rear. I did not find many units with this feature. I'm afraid that it is going away. I love the idea of USB from the back for a more quality looking connection without wires hanging out the front. That way you can run a wire to your glove box or center console for the aux input. It just looks cleaner and hides the gear from view.6) Bluetooth Phone quality is decent. I put the mic on my visor and routed the wire though the interior plastic frame around the windshield for a clean look. The mic they give you is decent. It could be better but it works out of the box and that is fine. Whats great about this is that it's not wires INTO the deck so that means you can replace this mic with another higher quality one using a 1/8" mono cable/mic combo. Phone calls sound great and the other person can hear me just fine without having any issues with regards to call quality. Remember that most quality issues are with your cell carrier and not the device. Most of the time the mic is the weakest link in the chain but Clarion did a solid by providing a decent mic. It should be no farther than 12" from your face though otherwise consider getting another mic that is higher quality. The deck also features an address book which worked flawlessly with my phone and I was able to place calls using only the deck face, however honestly it's easier to initiate a call using voice activated dialing from the phone itself. It's still not a bad thing though because they at least offer the basic dialing controls from the interface, including hang up, etc. My only request would have been for them to include voice dialing technology inside the deck but .. I suppose most cell phones have this now which I can say works great with this deck.CONS:1) Bluetooth Streaming has a bug. Like the other reviewers note, there is a fix. For me, it took a few tries for the fix to take hold. It really annoyed me for a week but I finally sat down and did this:a) UNPAIR your device from the deckb) go to the bluetooth menu and turn OFF the autoconnectc) turn OFF the deckd) detach faceplace (Probably not required but I did it to be superstitious)e) attach faceplatef) turn ON the deckg) go to the bluetooth menu and turn ON the autoconnecth) turn OFF the decki) detach faceplace (Probably not required but I did it to be superstitious)j) attach faceplatek) turn ON the deckl) PAIR your device to the deckWOW..that sucks but only when I did it the way I outlined above did it work with my phone. That is a terrible bug. Oh and if you lose power to the radio from the memory circuit, you get to do this all over again. Grrr...But listen, it takes 5 minutes and it's an easily fixable bug so ... it's not worth stripping a star from the review over something like this. It's just...annoying. I paired it with an iPhone4, BTW.2) Audio tuning presets are weak! You get three factory presets and each are terrible! One is DEEP bass, one is punchy and the other is excite. Gross, each is over-indulgent and in my opinion, not good in any setting. I cannot imagine that anyone would use these. Thank god they give you a custom setting. But good grief what a messy way to adjust your audio as each setting on custom has three settings per setting. It's easy enough to figure out but if you are picky on audio, you will need to spend a good 10-20 minutes tuning this thing for your rig. Again, it's something that everyone should do anyhow but ... they could have at least picked better presets.3) Menu Settings: Like all things, it takes time to get to know them. The menu settings in this deck are a little different because they packed so many features into the unit that they had to use a menu-submenu-subsubmenu system in order to access them all. For most, that's a cumbersome way of getting to what you need quickly but ... It's a more modern way of setting configurations so I get it. It's similar to the way you control a printer for a computer in that you have only 1-2 lines of display to control a wide range of settings. With only a few buttons to control all of that, there has to be some give. So ... if you are a sensitive person that has trouble understanding "nested" menu layouts, you should be warned that this unit could take you some time to get to know.4) The Clock: Yeah, it's easy to set but ... I do find it annoying that the main thing you want to display gets unset after time. I want the clock, not the track settings. You would think it could recall that setting and make it stick. Clarion is not the only maker that is guilty of this. Grrr...But lucky for me my car has a digital clock elsewhere so it doesn't matter to me but .... I still find that to be egregious on their part.5) Not really a CON but it might be for some: The display is capable of showing you text from the artist/title/track. That's great and it scrolls when it's really long text. The downside is that when you are Bluetooth streaming, it does not do this. The display says "BLUETOOTH CONNECT" and that's it. Aw[...] mashed many buttons trying to get it to change but ... alas it will not. Maybe that information is not sent over the stream but it should be!Well, that's about all I have to say. Even with the CONS noted above, I still cannot give this a 4 star review because this deck does 100% of what I want and does not disappoint. The unit feels sturdy, has nice controls, nice features and delivers audio in a nice way. Yes, it takes time to get there but you should do that anyway and not expect it to be perfect when it's taken out of the box. With little effort, you can have the perfect car stereo with all of the features you want. Why look anywhere else when it's right here in front of you? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FANTASTIC Stereo for the money! </p>
+
+
+<h2> review.date </h2>
+  04-07-2012  
+<h2> review.text </h2>
+
+ <p> Ok so I feel I have had this head unit long enough(8 months) to review it appropriately. I must say and am so irritated by this head unit I was going to go office space on it. For those of you that have now clue what I mean watch the movie and you will see lol. The bluetooth is TERRIBLE! Music will sound extremely distorted from your phone and you will be hung up on by whoever you are calling due to them not hearing you. Half the time when I end up plugging my Iphone into the unit it will fail to read or freeze. after you hang up your phone via bluetooth your music will freeze and you will have to unplug and replug your iphone. As for tweeking your sound settings, I will say that is the head units plus. There is a wide range of adjustments you can make. This is my first Clarion and I must say it will be my last. I have always used Pioneer and I must apoligize to the pioneer god as I have learned my lesson. I may not be the greatest car stereo enthusiast, but believe me when I say stay away from this one. You will be deeply upset and angry. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Clarion CZ500 zero stars! </p>
+
+
+<h2> review.date </h2>
+  08-11-2010  
+<h2> review.text </h2>
+
+ <p> I installed this in my '90 Miata. It was easy to install and it sounds great, especially with the Amp that I added on. It's got some nice presets for EQ and if the presets don't work for you you can program custom ones.- the ipod connection works (no ipad support), but I've decided not to use it since the only way to navigate is using the deck, and with a two line display with big characters, that's quite miserable. I'd much rather use my ipod for navigation.- I've settled on USB. I have a 16gb USB stick that I regularly update and just leave in the car. It's much easier to deal with the USB filesystem than the iPod. I'd get a smaller USB, since if you had 16gb of music on it, it would be a lot to navigate.- lots of success with the bluetooth, even with the top down on the convertible. Works great with my blackberry. If you have an iPhone the streaming from the device works nice and then you can use the iphone interface to navigate music. (have not tried iOS 4)- the headline for this device on Amazon mentions AAC support. THERE IS NO ACC support unless you use an iPod. The device does not have an AAC decoder and won't platy AAC files off USB or CD. I missed that, some other brands have real AAC support.- the instruction manual is seriously lacking, when it comes to describing now to navigate all the features of the unit. Took a good bit of guessing on my part. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good unit - know the caveats </p>
+
+
+<h2> review.date </h2>
+  12-13-2010  
+<h2> review.text </h2>
+
+ <p> This deck unit may look simple but it sports some really good features for the money.First, the audio quality compared to my VZ309 is better and the VZ309 I own has a 24bit DAC.  The 50 watts per channel is more than enough is your not using any amplifier.  I also own the THD300 HD receiver and live in the hills in the CA bay area and for the most part reception is good and I like how it switches from digital to analogue so you continue to receive music.  Therefore, if your HD signal is weak it will switch to the analogue channel quickly.  The only thing you notice is the audio quality may switch back and forth but its better than hearing static!I advise upgrading to the HD tuner.The USB port is on a cable and while I would have given this 5 stars the USB on a cable is a bit annoying but not a deal breaker.  The front face plate is easy to remove and the controls on the front panel are simple, basic and does what it supposed to do with ease.  They made something complex simple and keep your eyes on the road.Pairing the phone was simple and the phone feature just worked.  I don't have an Iphone and used with an HTC EVO by Sprint and it paired the first time and I love how you can shut the car off come back and it automatically pairs back up with the phone.  All the features of incoming and outgoing calls worked flawlessly and the microphone provided by Clarion is very clear.  Mine is mounted on the dash behind the steering wheel and about 24 inches away from my face.  My friend could hear me beautifully while driving.  It appears the mic has noise cancellation as he could not hear any road noise or static or even the air con.For the money that this unit is going for which retails for 249.99 anything less than that is a great deal for this unit. Like I said I gave it 4 out 5 starts only due to the USB being external wire.  Other than that I can't recommmend this radio enough.  Great hands free operation, HD and analogue tuning is seamless, audio quality is comparable to a unit with a 24 bit DAC, and a good price in a small package with up to date features.  Clarion scores big with this model in my opinion!Good luck on your purchase and decision. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent audio, handsfree and works with the HTC EVO </p>
+
+
+<h2> review.date </h2>
+  01-04-2011  
+<h2> review.text </h2>
+
+ <p> This Clarion was what I expected. My HTC mytouch 3g works great with it. I ended up placing the mic up next to my sun visor (hiding the wire in the panels of course) and everyone tells me they hear me just fine even when I am going down the freeway. I would have used the clip it came with but I lost it so I ended up stuffing the wire down the side panel and pointing it towards me...worked great in the end. When you pick up the phone wait for a sec or two then say hello or you will get some confusion with the other side. the audio playback via Bluetooth from my phone works great... I just wished that everytime it syncs up with my phone it didn't start playing music...but no biggie. I love the Idea of the usb port on the back since I can hide my Ipod in my glove box. some advice: if it isn't turning on check the manual. It has an alright troubleshooting section. Turned out I blew my car fuse to the radio and a quick swap and it was good to go. make sure to leave plenty of time to hide your cables and connect the cables. the mic cable and the usb cable are tricky to move around and get where you want them. I can't speak for the Aux port or the CD...but I am sure they are just fine. The IPOD controls on the front work amazingly well. I have learned the way of playlists so it makes my life a whole lot easier browsing music. The volume knob has great control and give me great control on how loud or soft it is.some things I didn't like:no Pause or play button on the faceplate! you have to use the remote...unless I missed somethingI wish the USB cable wasn't permanently attacked to the back. would have been easier going down and through some tight spots when installingTakes some getting used to to navigate through the options of bass and so on. Just don't try this while driving though and you should be able to figure it out rather quickly.the beep noise after each button press was horrible. luckly there was an option to turn it off by holding the D button and going through those options. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! </p>
+
+
+<h2> review.date </h2>
+  01-22-2011  
+<h2> review.text </h2>
+
+ <p> It's hard to imagine a more feature-laden unit below $100. It sounds very good, with very decent FM range, but easily the primary strength of this unit is its versatile connectivity: USB for iPod or flash drive, front AUX input, bluetooth, and of course CD/mp3 (though some players have dropped this feature). The rear USB cable was important to me for concealing a drive in the glovebox, which I preferred to the convenience of front-panel USB access.Bluetooth capability had not been a priority for me, but the handsfree calling system and music streaming work well, an unexpectedly big plus.  The disc player loads much more slowly than my previous Pioneer models, but the USB file loading time is somewhat better, and that will be my primary source of music.The main downside (minus one star) of the CZ500 is its much less refined display of mp3 track information, and its far less capable search mechanism, a problem if using drives larger than, say, 2 or 4 GB.  It has a two-line display, but only the top line changes to show file name, artist, etc.  By contrast, Pioneer has developed a very nice scrolling search that can navigate much larger drives full of music.  Still, with the Clarion you can tell what's playing, and eventually find what you're looking for on the drive.Finally, I'll note that this unit fit my 1998 Corolla nicely, despite warnings from Amazon and Crutchfield that it wouldn't.  Very easy to install, despite the many jacks hanging off the back -- a bit of a nuisance, but also part of the unit's great connectivity.  All in all, the best deal currently on Amazon for features and price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> All about connectivity </p>
+
+
+<h2> review.date </h2>
+  07-27-2011  
+<h2> review.text </h2>
+
+ <p> It's the worse stereo I have ever seen. I bought this clarion cz500 and it worked only 1 week.It's China's rubbish, I hate this stereoI strongly suggest not buying this rubbishMy friend ordered both for himself and for me his Stereo clarion cz500 was till healthy but yesterday his stereo also failed (both of them was burnt processor as stereo master said)I hate this stereo </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's China's rubbish It's the worse stereo I have ever seen </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

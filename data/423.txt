@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00970E55A <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-30-2012  
+<h2> review.text </h2>
+
+ <p> Good old SciFi I Also bought HMS SCOTT. the other book in the series! I like this style of writing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Captain Algernon Fisk Against the Pirates of the Asteroid Belt </p>
+
+
+<h2> review.date </h2>
+  12-01-2012  
+<h2> review.text </h2>
+
+ <p> This is a fun read for spare moments.  It is not great literature but it holds your interest from page to page.  There are many typos as has been noted by other reviewers, but this does not interfere with the reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy read for spare time </p>
+
+
+<h2> review.date </h2>
+  11-24-2012  
+<h2> review.text </h2>
+
+ <p> a little to easy to see how it was going to end. It a good 50s type of SiFi. I think its a fast read, and great adventure story for killing time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Its good, but.. </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> Hadn't read any books from this author but took a chance and was rewarded with an excellent story that had well written characters.  I look forward to the next book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Happy camper!! </p>
+
+
+<h2> review.date </h2>
+  09-22-2012  
+<h2> review.text </h2>
+
+ <p> Enjoyable read. Developed characters and plot. Some minor copyright mistakes, but nothing the really detracts. Looking forward to the further adventures of Captain Fiske. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very enjoyable ! </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> This book is a good buy for a commuter or traveler to take with them.  An interesting story line, characters & good action flow that does not require total attention by the reader. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another &#34;Jolly Good Read&#34; </p>
+
+
+<h2> review.date </h2>
+  11-19-2012  
+<h2> review.text </h2>
+
+ <p> I don't really know how to review this story.It was short.  To be honest, it was really too short.  I felt that the characters didn't get enough development in many casesIt was written in first person.  This can be good, but here the writing actually made it difficult to empathize with any of the characters.  The writing and narrative style just never engaged me enough to make me care about the charactersAnd the worst part was that it felt somewhat derivitive.  Now to a point its basically impossible to write a story that is 100% unique, there are just too many stories out there, but this one which even the author admits was "influenced" by the Horatio Hornblower books never broke out and gave me a plot or character that felt new.  There were times I almost felt like I had read the story before and since I wasn't engaged with any of the characters due to the narrative style, I found the story dull.It is an interesting interpretation of the basic plot, but overall I've read better stories.  I can't really recommend this to anyone.  There is some talent in the writing, but the lack of engagement disappointed me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Readable, but that's about it </p>
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> Awesome adventure. Can not wait to read what happens in the next adventure. I cannot get enough of Capt Fisk. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Captivating </p>
+
+
+<h2> review.date </h2>
+  12-23-2012  
+<h2> review.text </h2>
+
+ <p> Pleasant fast reading a really fun space opera.  I enjoyed it greatly and it prompted me to buy more of this series.  If you like military space opera with a Horatio Hornblower feel you will like this swashbuckling book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun Read </p>
+
+
+<h2> review.date </h2>
+  11-22-2012  
+<h2> review.text </h2>
+
+ <p> This is one that I just couldn't be bothered reading.  It would need a lot of editing before I would find it worthwhile. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Didn't like it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

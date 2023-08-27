@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B009YE8L72 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great case </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very well made; a solid piece.  It's a tiny bit inconvenient that you have to release the bottom corners to make it stand up, but worth it for how well it stands.  And because it can't slide around at all inside the case, it always shuts off when you close it (something that hasn't always happened with other cases I've had). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Super!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Just what I wanted, very sturdy and durable.  Love it.  Would buy again, but I doubt I'll need to any time soon. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome pink leather </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Pink is my favorite color! I have a new mini iPad and this fit perfect! I really love it! Thanks allot for such a favorite product in leather! Ty </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice case - must unclip lower "latches" to use as stand. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The case is protective, and the little hand loop is surprisingly convenient.We put a screen protector on our iPad mini and clipping and unclipping the bottom clips in landscape mode to use the stand function made the screen protector bubble up on the corners...I wonder how long the clips will maintain their grip over time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works very well.  Elastic handle very nice </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> ProsCan be held securely with one hand to read, etc.  elastic handle works very well.Can also be used to prop up mini iPad as illustrated.ConsI wish it would cover more of the corners and edge for more protection but that would make it thicker. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very good cover, very practical and not expensive </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I originally received one that did not function properly, when you closed it, the iPad didn't go to sleep. But TechVendor told me to return it, so I sent it back and bought a new one, which works perfectly. My daughter loves it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not bad at all </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like it...It protects my ipad mini pretty well I bought it mainly for the back hand strap and that has worked out great, the only minor issue is when you want to use the case as a stand you have to pull out the side 2 corners from the caseI would purchase this case again </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good quality product </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Overall this is a good-design protective cover for an ipad mini.  Color choice is also excellent in this particular cover. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> NOT slim </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's just too bulky - definitely not &#34;ultra slim&#34;2 stars because the yellow is really prettyIt's also not light-weight </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good product </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like this cover a lot - it has solved the problem of using my ipad in bed and not getting a tired hand due to holding it at all odd angles.  The cover also snaps into place securely when closed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Its ok </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I wasn't crazy about this case, since I preferred magnets, but this case is much more protective then the magnet varieties.  It is very important that corners are covered and this case has that down perfect.  it is slightly difficult to clip this case in which is mildly irritating. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

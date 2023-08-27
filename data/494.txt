@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00KJKZZNI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-13-2014  
+<h2> review.text </h2>
+
+ <p> Her books are always good I haven't found one yet I didn't like.  Keep them coming I look forward to new books </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pepper </p>
+
+
+<h2> review.date </h2>
+  07-19-2014  
+<h2> review.text </h2>
+
+ <p> It was just okay.The book was a quick read and it focused on the two main characters but it didn't really have a conclusion. You have two people that are building a long term relationship and have never met each other. They do eventually meet and Rose finds out SPOILER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!that Michael is a smoker which is a major problem for her b/c of her husbands death. Although the issue is quickly resolved and they move on. And the issue of their differences or how their family might react is never really discussed. The ending is brief and doesn't really give you a sense of conclusion of to the relationship. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just Okay </p>
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> I almost went with 4 stars because of the abrupt ending, as if Pep said ok that's it and leaves them together--kind of.  I did like how she told of their meeting and the progress of their long-distance relationship. The story was short, but done so well, as only PP can do---except for  ending.  I would buy a sequel for the same price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love the title! </p>
+
+
+<h2> review.date </h2>
+  05-28-2014  
+<h2> review.text </h2>
+
+ <p> There are some short stories that don't feel short and others that do, this was one of the ones that do. I'm usually not a fan of the widow stories because authors tend to have the characters move on too fast or create a flaw in the deceased to make the newcomer look better. But I'm a fan of Ms. Pace so I decided to give this a shot. I wouldn't say I regret my decision,  but there were some things that reminded me of why I don't do these types of stories in the first place. I think Rose jumped into a relationship too quick. I think it was like six months to a year or so after her husband died before she was telling Michael she loved him and dating him exclusively. You can't help who you love and when you fall in love, but when you write a blog talking about how sad you are since your husband died and your kid went to college, it made me wonder how much of it was Michael and how much of it was the companionship. Also at times it read like a PSA to stop smoking, which is a good message, but was a bit much to make literally everyone in the story, except Rose, a smoker. Lastly, I felt that the page of conflict was completely unnecessary, it just further made the story read like a PSA. Overall, I still got what I expected to get from a good Pepper Pace story. There were two flawed main characters that seemed to make each other better. I liked that they both got a second chance at a new life and I liked the descriptions of art and tattoos. Good, quick read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Read </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> This book only enhances my belief that PP is one of the best writers in the romance genre.  The book tells of two people despite disparities in age, race and culture find their HEA through a mutual knowledge of a Japanese Go mask Delicate Sadness.  Using cyberspace juxtaposed against the ancient mask is genius.  The story itself was emotional, the characters were relateable with real issuses  Wonderful story.  Highly recommend </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Masks Lift Love Blooms </p>
+
+
+<h2> review.date </h2>
+  06-08-2014  
+<h2> review.text </h2>
+
+ <p> But I wish it was longer. It was a nice little story, but I want a nice meaty story from pepper again. I miss those. This one was great though, she's still my fav automatic one-click author! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I enjoyed it :) </p>
+
+
+<h2> review.date </h2>
+  07-21-2014  
+<h2> review.text </h2>
+
+ <p> I really like Pepper Pace's books and will read just about anything she puts out, even if it's a short story, which I don't really care for. So, The Delicate Sadness was no exception for me. I liked the setup, that the two characters were virutally brought together by the loss of Rose's husband, I even enjoyed them getting to know each other. What I didn't enjoy so much was the ending, or lack thereof. When Rose and Michael finally meet there is some minor tension with her finding out something about him, and the odd response the people in his tattoo shop have to her, as well as, what I would have considered the main issue, their long distance relationship. The author eloquently pointed out how unbalanced their relationship really was given the distance between them, so I expected a good conclusion to help address that concern. Instead we are given a kinda conclusion, but it never really addressed the tension points in full. Outside of that, this was a decent short story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Needed a fuller conclusion </p>
+
+
+<h2> review.date </h2>
+  06-07-2014  
+<h2> review.text </h2>
+
+ <p> Really like this book something different from pepper pace, I wish it was a little longer but I will always continue to look for her books and will always purchase them and I recommend this book to anyone that love pepper pace work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> Nothing much to the story, bug girl a short story it was okay, I own a couple of her books seem interesting still yet to read them, I bought thus one thnking oh good AMBW, nope....so again it was okay. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay </p>
+
+
+<h2> review.date </h2>
+  06-29-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book I felt the characters were easy and likeable. I enjoyed the way the book allowed the characters to explore a number of social taboos without coming across as being fictitious. I was a bit disappointed however as I had read this story in a previous compilation and did not realize it, and the author did not alert that the story was previously published. So bitter sweet feelings to this book or should I say this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> From the cover I didn't know what to expect but I should have know when it come to Pepper pace to never judge the book by it cover lol, not only that she had me doing research on Google about the cover and that song. I love her writing style and the way she brought the story to live, you can feel the emotions, pain, and love from the characters. I love when an author make me feel and connect with the characters and she did that in this book. Very short and sweet, I want more of Michael and Rose. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I want more Pepper Pace...that book was really good </p>
+
+
+<h2> review.date </h2>
+  05-31-2014  
+<h2> review.text </h2>
+
+ <p> If Pepper Pace chose to write a phone book,  I would buy it.  Each new book release becomes my favorite.  Michael and Rose are no exception.  4 stars because I needed a full length novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> how does she do it? </p>
+
+
+<h2> review.date </h2>
+  05-26-2014  
+<h2> review.text </h2>
+
+ <p> This was fantastically simple and lovely. This was one of the most simple and loving story that I have read from Ms. Pace. The fact these two fell in love without physical contact made it more fun to read and enjoy. A year and a half seems perfect for the face to face. There was no exaggeration, just love and simple interaction of those each holds fear.Great job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> simply beautiful </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this shorty story like many of PP's novels. It only loses a star because it felt kind of rushed but then I guess that's because it was a short story. I hope she comes out with another full length novel soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a bad quick read </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> Pepper Pace has done it again!! Her writing is always compelling and emotionally evocative. I always jump at the chance to buy a new Pepper Pace book when I see one.  Thanks Pepper!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just like old times..... </p>
+
+
+<h2> review.date </h2>
+  07-18-2014  
+<h2> review.text </h2>
+
+ <p> Pepper Pace is one of my favorite authors!!!! She has yet to let me down....Again, I fell in love with the chacters and wanted more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My Goodness!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

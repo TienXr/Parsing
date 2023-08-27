@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00005NI9D <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Heartwarming movie! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this movie and when I needed a new copy I was happy to be able to receive it so quickly and in perfect condition. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sequel to &#34;Prancer&#34; </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the charming sequel to &#34;Prancer.&#34;  You do not need to be a child to enjoy this movie; all you need is to still have the sensitivities you once had as a child.  Sit back and revisit your childhood. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Prancer Returns </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-20-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very loving story to continue with the first movie of Prancer.  Still keep's the heart warming message of the original and worth getting to watch with the original one. :)  I enjoyed the movie with my holiday collection for the Christmas and New Years season.  My daughter even enjoyed it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not as good as the original </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The reindeer was cute and so was the little boy...but that's probably the best thing that I can say about this movie. The story wasn't memorable at all as I can't even remember it off the top of my head and the acting was subpar at best.  If you think you'd enjoy a Christmas fantasy about a child and one of Santa's reindeer, watch the original.  It was well acted, well done and a is a joy to watch! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Prancer Returns </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The original Prancer is such a favorite of mine that I kept 2 copies so I would always have one to watch.  This sequel, even with different cast, is just as enchanting.  The disc was perfect and delivery was prompt. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not Fullscreen </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-30-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The description misleads. It says "Fullscreen", but it's not. It's "Widescreen". I might have bought it anyways, I don't know, but it should have been my choice. I prefer"Fullscreen", but sometimes I buy "Widescreen" if I like the movie. Anyways like I said it should have been my choice. Amazon should put the right information in the product description. And match the right reviews to the right movie or boxed set. A lot of times there will be mixed reviews like with disney there will be masterpiece, platinum, etc., even vhs, reviews within the same movie. I have to wade through all of them just to find the ones that pertain to the movie I'm thinking of buying. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great show </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This has always been a favorite any seaason of the year...being PG it still has alot of suspence and drama , while dealing with death and hope and change.Believe is the theme. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Prancer returns </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-11-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie is a sequel to Prancer.  A little girl finds prancer and takes him home and shelters him and feeds him.  I haven't gotten to see the new one yet, my children have it in there room and watch it over and over.  Must be good </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Family entertainment </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Just funny stuff. Magic of Christmas with no agenda.  My grand children watch it every year.  We recommend it with hot chocolate and ice cream. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good...But Stick To The Original </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-17-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> For those of you who have already seen Prancer Returns, here is the lowdown on the DVD release.  Amazon's specs are incorrect; the movie is presented in Anamorphic Widescreen (16x9)!  This release has no real special features that can be accessed on a DVD player (the back of the case lists chapter selection as a special feature), although it does have a few DVD-ROM games that can be accessed on a computer.For those who are unfamiliar with the story, but are contemplating a purchase, let me advise ordering the original Prancer instead.  There isn't anything necessarily wrong with Prancer Returns, but it just feels like a rehash of the far superior original.  Prancer Returns has a passable, although predictable, story, which is quite reminiscent of the first film.  The story isn't as downbeat as the first, and features a few comedic bits; although the comedy generally detract from the overall feel and flow of the rest of the film.  The acting is a mixed bag.  Jack Palance turns in a great performance as the grouchy neighbor.  Gavin Fink does an acceptable job as the protagonist, but can't carry the movie nearly as well as the girl from the original Prancer.Prancer Returns is a good companion to the first movie.  Unfortunately, it also remind us of how much better the original is. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Prancer Returns </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-13-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I choose this rating because the movie is good. What I like about the movie is that an eight-year old Charlie Holton's life is about to change. Deep in the mountain woods, he discovers a gangly baby reindeer, all alone. Believing this must be Prancer, Santa's reindeer, Charlie takes the gentle creature home to care for him until Christmas. Charlie even emails Santa Claus, telling him to pick up Prancer on nearby Antler Ridge on Christmas Eve. Charlie's quest to return the reindeer marks a dramatic change in the lives of Charlie and his family as, struggling and nearly broken, they are returned to love through the magical appearance of the reindeer. Prancer Returns is the story of how one boy's faith in humanity can bring hope and happiness to a family, a town, and especially to himself. What I dislike about the movie is that I wanted to see more of it. I would recommend this movie to other people. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great movie for kids </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I used to show this movie to my kids when they were little and now I show it to my grand kids. it is a great movie for seeing Christmas through the eyes of a child. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Holiday Story </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-25-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sequals are rarely successful, but this film proves the exception. It is at least as good and in some ways better than the original &quot;Prancer&quot;. It is a really nice holiday story that should please both children and adults. Yes, it is a fantasy, but one grounded in reality which makes it the best kind of make-believe. From the opening, the viewer knows what the results will be. It is obvious who the divorced mother will end up with, the reindeer will actually be one of Santa's and the unpleasant person will get his just dues, but the way the events unfold make it a really enjoyable story. The characters are true to life with excellent preformances from the children. This could become a Christmas classic. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A continuing story of Prancer by way of his "Son" </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This segment of the "Prancer" release of 1989 does a fair job of connecting with the original not trying to duplicate the story but instead just offering a later and continuing story instead.Not as good as the original in my opinion only but I feel anybody who liked "Prancer" will also like "Prancer Returns" and I am glad I purchased both because they do refer back to the original connecting the two stories well but without any of the original actors or actresses or scenes so all new viewing as far as people portrayed are concerned.As in the original many live and real outdoor scenes will be shown as well as real animals shown interacting with the cast at various times.This video is excellent to view after the first "Prancer" but by itself might lose some of it's charm not knowing what is being referred to first hand during the "Prancer Returns" segment of this story, which seems to leave itself open for an almost annual updated segment as the generations of "Prancer" might continue.I rate it as a good family film/video for the entire age group a family may consist of to be viewed around Christmas for full effect..The town it was filmed in and around will be noted in the credits, if you watch both "Prancer videos" look for any difference from the first to the second releases. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Powerful Performances </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a follow up to the first movie 'Prancer' and I can't stop watching the great acting in this movie. I highly recommend this movie for family viewing, it's a heart warming movie. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Prancer Sequel </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-02-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Prancer Returns is not as good as the first one, but i was surprised that it was enjoyable. If you have the first, I would reccomend this one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HEARTWARMING SEQUEL </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-08-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's certainly easy to dismiss this made for cable sequel as merely a retreading of the original.  But it's heart is so big and the production is so well done, PRANCER RETURNS stands on its own wobbly feet.  This time, it's Prancer's son who brings the magical mystery alive, and Gavin Fink as Charlie is an endearing waif.  Robert Clark as his older brother is also fine in his role.  The adults, John Corbett-Stacy Edwards-Jack Palance-Michael O'Keefe--are also credible and the heartwarming message of belief and family values are also well ensconced in its storyline.  The relationship between the brothers is especially touching and the movie's predictable ending is still magical to those of us who still have that whimsical belief in Christmas magic. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love of a Child </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-28-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> We ordered this movie because I thought it would be some what a continue from Prancer. No this is a whole different movie and different actors. It is still a good family film to watch for Christmas. Out of the two movies my favorite is Prancer. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Family Movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perfect Christmas movie for family.  Enjoyed the first Prancer movie and was glad they did a sequal.  Simply put, it's cute! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> my review on prancer returns </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-25-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Prancer Returns arrived on time and in excellant condition condition. The dvd was perfect and packaged very well both my grandchildren loved it and so did I. I would purchase dvds again from amazon </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Family Movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is a good family movie, but the original was much better.  Guess they were just trying to make a little more money off the franchise. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exciting saga continues... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> We have Prancer and wanted to see the saga continue.  Excited to add this to my Christmas collection of entertainment. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Prancer Returns </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-09-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> A sequel to the earlier Prancer and takes place in the same town years later. A boy finds a injured reindeer and and sees it happen to be the reincarnation of Prancer and nurses it back to health.Very modern than the original,as the town folks make it a traditon to celebrate each christmas the missing reindeer from there town street display. I liked the original better as it seemed to be more grounded with the storyline. The sequel is cute too in it's own respect </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> YEAH! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I watched this movie years ago, but I looked for it every year and it never seemed to play only the first one did!  This is my fav out of the 2. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> BOUGHT FOR THE KIDS FOR CHRISTMAS </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> BOUGHT THE FIRST COPY OF PRANCER, AND NOW PRANCER #2 IS AVAILABLE TO VIEW....AM NOT SPENDING TO MUCH TIME WATCHING THIS COPY YET ALONG THE FIRST COPY OF PRANCER...!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

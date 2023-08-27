@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00006HYWR <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-29-2004  
+<h2> review.text </h2>
+
+ <p> I use this to listen to audible books exclusively.  It is very dependable with easy controls and not a lot to go wrong.  I  had an old rio that was very fussy.  I am much pleased with the battery life and simplicity of this player. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Small and Dependabe </p>
+
+
+<h2> review.date </h2>
+  08-08-2003  
+<h2> review.text </h2>
+
+ <p> I didn't buy this from Amazon. It was a delayed "impulse" purchase from a local store a few days ago. After getting it home, I became curious about product reviews and checked with Amazon...user experiences were a bit scary, to say the least. Creative's scant 90 day parts/labor warranty only added to the insecurity. However, the player worked, sound was beautiful, so I tried to convince myself that everything would be all right.That was Monday evening. As of Friday morning, the player was totally dead. Pressing/holding the power button did nothing, even after inserting a new AAA battery...in fact, I tried TWO brand new batteries, with the same result each time.The memory module still functions--I inserted it into my computer's USB port and all is well. I didn't buy it as flash memory for my computer, however. I bought it as a portable Mp3 unit--and that's totally dead.My faith in Creative Labs is shaken--from other user's comments, from my own unhappy experience with this product, and from the pathetic excuse for a warranty--and Creative even wants you to pay to ship the product back to them during the warranty period. Forget it, this item is being returned to the place of purchase within 24 hours. There are better choices, from better companies, with better warranties.Buyer beware! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's Going Back </p>
+
+
+<h2> review.date </h2>
+  07-22-2003  
+<h2> review.text </h2>
+
+ <p> This device has great sound, especially with decent headphones, but is a case study in falsity in advertising, since the only other way to explain the company's claim that the battery lasts up to 12 hours is to assume that they rounded up to the nearest multiple of 12. Also note that there's no window, and songs added without reformatting will, as an inviolable rule, never end up where you want them. But it is really small... just make sure you pack a few extra batteries. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sound, short battery life </p>
+
+
+<h2> review.date </h2>
+  12-17-2002  
+<h2> review.text </h2>
+
+ <p> The MuVo was my second choice player, having returned a Samsung Yepp YP30-SH model to Best Buy the day before. The latter has  better styling, features and display, but its atrocious digital rights management gave me a new appreciation for the MuVo.Basically, the MuVo has none of that. It's a flash drive that just happens to play MP3's &amp; WMA files, and in a Spartan fashion at that. On the downside, of course there's no EQ controls or LCD display, volume level is just adequate, and it doesn't skip playback of incompatible files gracefully. The MuVo also occasionally clips the beginning or ending of songs, so consider adding a little padding when compressing your files.On the plus side, its codecs have breadth; it supports a good variety of MP3 and Windows Media bitrates, which is an important thing that's almost never mentioned on the box. If the unit only had a built-in microphone, I'd give it five stars.For reference, here's the test matrix I tried with the unit.Windows Media 9 VBR100 1-Pass Lossless: No  (811Kbps)Windows Media 9 393K VBR: NoWindows Media 9 192K VBR for Portables: NoWindows Media 9 96K 2-pass CBR: YesWindows Media 9 64K 2-pass CBR: YesWindows Media 8 6K Voice: NoWindows Media 8 20K Mono: YesWindows Media 8 32K Stereo: YesWindows Media 8 128K: YesWindows Media 8 160K: YesAnd a few unusual MP3 variations. I tried more than these, and couldn't get the MP3 codec to choke once. Very solid.24Kbps Mono: OK32Kbps Mono: OK40Kbps Mono: OK56Kbps Mono: OK </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Think: Flash Drive that just happens to support MP3/WMA </p>
+
+
+<h2> review.date </h2>
+  06-13-2003  
+<h2> review.text </h2>
+
+ <p> After seeing this reviewed several times on TechTV, I purchased this mp3 player as my first one ever.  It's extremely easy to use and figure out, even for beginners.  The music transfers over quickly and you can use both MP3 &amp; WMA formats.  I love it's ability to hold files, photos and more as well.  It never skips or freezes and it's small enough to fit in your palm.  It uses a AAA battery so it doesn't weigh much at all.  The only down side that I can see are the size of the ear buds (they are too big for my ears and fall out often) but those are easily replaced.  You do have to hold down the play button for a few seconds to power it on and off, but I am pretty sure that feature was added so that it doesn't get turned on by accident (say, in your purse or pocket) and run down the batteries. All in all, I'm pretty happy with it and have had no problems. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So easy to use and tiny to boot! </p>
+
+
+<h2> review.date </h2>
+  07-29-2003  
+<h2> review.text </h2>
+
+ <p> I received this MP3 player as a freebie throw-in with my Dell computer.  If I had actually paid any money for it, let alone the actual sales price, I would have returned this zero-star performer in a flash.The only upside to it is its design simplicity:  part of the unit detaches, plugs into any USB port, and is then recognized as a portable drive.  From there, you just move files into/out of the player just like any other drive.  No additional software installs, setup, etc. - true plug and play.Unfortunately, the cons are much more numerous.  The most disappointing aspect is the sound, from the ill-fitting earbuds that deliver the thinnest of tones to the playback unit that chops off the first millisecond of every track.  That latter fact really makes this unit completely unacceptable.  Also, the lack of any LCD display coupled with buttons that are small and difficult to use make control a constant problem as well.  Capacity is so-so - I've had to lop tracks off of many albums that I've attempted to load.  Lastly, the packaged unit doesn't come with any armband - it's available as a separate accessory, which seems excessive for the price.This player is fine only if you can find one for dirt cheap and are looking for an option to use when you're mowing the lawn or any other dirty activity where you'd be reluctant to bring your &quot;real&quot; MP3. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Gave It Two Stars Because I Got It for Free </p>
+
+
+<h2> review.date </h2>
+  06-29-2003  
+<h2> review.text </h2>
+
+ <p> I bought this MP3 player thinking that it would be convenient and also double as a hard disk to move files from home to work and vise versa.  Since I have had the machine I have had to completely reformat it over a half dozen times (within 2 months).  Currently it is not working at all.  This machine has been extremely unreliable.  Often I would go on a trip and it would simple not work- one then needs the CD and a computer to reformat the device before it can work again.  and , after you reformat it, you have to re-install all the songs you had on there before.  When it does work every time you shut it off and restart it you have to go from the beginning to get back to where you were.  I thought small size and lack of features would mean hassle free use.  Nothing is further from the truth.  I am only upset  now because I cannot find the receipt to return this junk.  Please, do yourself a favor and get something else. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> don't buy this MP3 player unless your stupid </p>
+
+
+<h2> review.date </h2>
+  05-27-2003  
+<h2> review.text </h2>
+
+ <p> When my new Fujitsu laptop came with a free MuVo (64MB version), I was pretty happy that I got a super-compact MP3 player, even though I save most of my MP3/WMA files on my iPaq 1910 Pocket PC.  But after one week of use, I was sorely disappointed with this poor-quality Korean-made product with the Creative Labs name.I've been a fan of Creative Labs ever since I replaced my dead AdLib sound card with a Creative over 10 years ago.  Over the years I've been happy with their sound cards, so the poor quality of the MuVo came as a very sore disappointment for a loyal customer like myself.  Let me tell you what happened.I loaded the MuVo with about 10 songs.  I went on a short trip, and when I got off the plane, I found the files on the MuVo corrupted!  It couldn't have been an airport X-ray scanner problem, since both my iPaq 1910 and my Panasonic e-wear camcorder are totally fine, no errors with their flash memory.  I reformatted the MuVo and loaded a few new songs, but as I type this right now, one of them is corrupted and not playable.Since I got this free, I probably shouldn't whine, but judging from recent reviews of Creative Labs products posted here on Amazon, I don't think they are the same innovative, customer-friendly small company from Singapore any more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lost data! </p>
+
+
+<h2> review.date </h2>
+  03-21-2006  
+<h2> review.text </h2>
+
+ <p> When this device worked, it was great.  Small, could go running with it, and I remember excellent audio clarity.  But every once in a while it wouldn't work.  And I could never figure out why.  80% of the time worked great.  20% of time it really pissed me off.  A year later it seems to have completely stopped working.  Would probably have given a 5 if the player was more solid and tech difficulties/bugs had been worked out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked OK for first year or so </p>
+
+
+<h2> review.date </h2>
+  08-05-2007  
+<h2> review.text </h2>
+
+ <p> I bought this 64MB Muvo from WalMart, like 4 years ago, when I was in college. It's still working properly. It can take high temparature. I keep this machine in my car and I live in Florida. It's very hot in sunny day in Florida. But this machine is working fine. I dropped this machine many time on the concrete floor, and it's working fine as like nothing happended.Only problem is its memory size. It's 64MB. Actuall memory we can use is like 54 MB. It provide drag and drop transfer, which is very convinient. I know some MP3 player requires convert format of files when we transfer into machine. I can store like 10 songs in this machine. But I can re-loaded song when I got tired of songs. Someday, I will get new larger memory MP3 player. But I am okay with this product right now.I think current MP3 player manufactures do not know what customers want. They just put many un-neccesary features like Text view, photo view, and Video view, Voice recording and etc, which most of cunsumers will never use.What I want from MP3 player is1. Durability like this machine and2. Easy Inteface(Easy Usability) like Ipod.3. Quality sounds like Samsung mp3 players. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is very good, durable product. </p>
+
+
+<h2> review.date </h2>
+  05-22-2007  
+<h2> review.text </h2>
+
+ <p> I purchased this for my little neffew.  This is his first MP3 player.  This player is very simple, and non-frustrating for a first-timer.  It does what it does quite well, and it is about the size of a pack of gum.  However, if you can still find this one (it has been discontinued by the manufacturer), and you want simple, buy it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you want simple - buy this one. </p>
+
+
+<h2> review.date </h2>
+  12-02-2002  
+<h2> review.text </h2>
+
+ <p> The MUVO is for people who like to keep it simple. Simple design. Simple use. Simple file storage. Simple battery change. Good sound and 128MB effective data storage. I actually think it sounds great! If you want gadget buttons, flickering lights and advanced choices - go for something else. The MUVO just gets the work done. As for those who report problems I can only say; No problems here. Music please! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nifty, small and easy to use MP3 </p>
+
+
+<h2> review.date </h2>
+  01-21-2003  
+<h2> review.text </h2>
+
+ <p> The thing is cheaper at the circuit city website. That's all I have to say about it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ITS CHEAPER AT CIRCUIT CITY </p>
+
+
+<h2> review.date </h2>
+  06-04-2004  
+<h2> review.text </h2>
+
+ <p> well, I bought the Muvo in late 2002 for my son.within 3 months, problem occurred. We managed to useit and repair it (reformat, download new drivers)for another 3 months. But, eventually, it just can'teven be power on.Called Creative Lab support, they said it's exceeded the3-month limited warranty. In the hope that they willfind the problem and theirconscience, I sent them the broken device and 20 dollarsexamination fee.The result came back &quot;It can't be powered on. If youwant to replace it, please pay an extra 75 dollars&quot;.I was mad as hell.In a fury, I canceled my 20 dollars Credit cardbill -- and they didn't contest that. But I still missedthe 9 dollars I spent on Fedex shipping. And I missedthe $150 floppy drive that I could have kept myself (I learnedthat I may be able to use the broken MP3 player as afloppy drive by reading the reviews on this website).I will never buy anything from Creative Lab. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> broke in 6 months and had a terrible time with support </p>
+
+
+<h2> review.date </h2>
+  02-06-2004  
+<h2> review.text </h2>
+
+ <p> This is a great product while it works. It is compact, reliable, and easy to use (just drag your music files to the player as if it were a removable disk drive).But beware: it WILL fail. I had three and all failed completely within a year -- one within two months. Once your player fails you are pretty much out of luck. Creative support is almost non-existent; but if you can track it down you will have to pay $20 to have them &quot;look at it&quot; and ultimately nearly $80 to replace it. In this product's defense, it could be pointed out that many MP3 players have a limited lifetime (e.g. even the iPod's batteries run down within a couple years and are costly or impossible to replace) so it could be argued that product failure is not in itself a reason to avoid this product (that's why it doesn't get just one star). But the MuVo just doesn't last long enough to be worth the price: two months of 128 Mb of music for $90 (or 64 Mb for $80) just doesn't compare with a year or more of many gigabytes for a couple hundred (even the overpriced Porsche of players, the iPod mini can he had for $250). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great -- While it Works </p>
+
+
+<h2> review.date </h2>
+  02-05-2003  
+<h2> review.text </h2>
+
+ <p> Thanks to one reviewer, I erased my files in Muvo,re-loaded the files, and it works. I thought it was broken.And it was too late for me to return this Muvo.Thanks, whoever you are.This is the Best,Pros: Fast files transfer, Light weight,Con: It drains a battery in 2 hours.Did anyone's battery last over 5 hours? or 10 hours?But If I had to do this again, I would have boughtthe Panasonic e-wear.Reason: the battery shoudl last longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Changing My rating </p>
+
+
+<h2> review.date </h2>
+  12-02-2002  
+<h2> review.text </h2>
+
+ <p> This is a remarkable machine.  It is tiny, magnificently designed and so easy to use, it defies the imagination.  Why other companies are not using a similar approach is a mystery to me.  I want to emphasize that this is 100% Macintosh compatible!  No one is saying this, but all you do is open the box, put in a AAA battery and plug the little guy into a USB port.  In 1 second you will see a new drive called "Untitled" on your desktop.  Open up your iTunes or other MP3 program and just drag the songs you want onto the new drive.  Then remove it and you are done!  No software, no upgrades, no cables no incompatibilities!  It's even easier to use than the venerable iPod (which is also excellent but larger, less portable and much more expensive).  I'm using it with OS X Jaguar as well as Win 2000 and it is a joy.  I also have a PowerPoint presentation stored on there so that I can carry it with me.  This is the future.  A perfect gift for anyone new to MP3s as there is simply no learning curve.  I can't say enough about this amazing product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Remarkable machine, 100% Macintosh compatible! </p>
+
+
+<h2> review.date </h2>
+  03-13-2003  
+<h2> review.text </h2>
+
+ <p> The MuVo I bought worked very well during thewarranty period.  After that it would not turnon, even after reformatting.  It still worksas a USB flash disk, but won't play music.Based on research on the Internet to find a fix,I found that this is apparently a common problemwith the unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It was great while it worked.... </p>
+
+
+<h2> review.date </h2>
+  01-25-2004  
+<h2> review.text </h2>
+
+ <p> A friend gave me this as a gift, which I'm glad she did because I'm not sure if I'd want to pay for itThe good things about the player is that it's very simplistic.  It only has two pieces to it, so you don't have to worry abot a bunch of cables or anything.  You slide out the flash drive, plug it into your USB port, and start copying files to it directly from Windows Explorer, which recognizes it as an additional hard drive.  The player will hold around 15-18 mp3 songs encoded at 128kbps.  This is plenty for someone like me who only runs for 20-30 minutes.  It's also nice to have a flash drive that I can easily transfer files with. I have not experienced any effect of the player cutting off the first second of each song like another reviewer said.  Every song starts right up at the beginning.The cons: AT first, I couldn't do anything with this device until I formatted it.  Windows would recognize it, but not let me remove or copy any files to it.  I tried it on several computers and could only listen to the songs already on it until I found the format software, but it works great now.  The player doesn't have an LCD screen, so you can't see what song is playing, although this isn't really a problem with only 64mb of storage space.  Another problem, is that it didn't come with the armband. You have to order it seperately from Creative.  For a portable MP3 player designed to be used with exercise, this is ridiculous.  For the price they should have thrown it in, or at least put a belt clip on it.  I have to wear shorts with pockets in them to carry it with me when I run.  I also have to hold the headphone cord to keep it from flapping around.  The armband would have prevented all this.  The player does come with some earphones that suck and a neck loop that is great if you run in the woods or at night where no one can see what an idiot you look like.The player also features a "loop" button that allows you to start recording a point in one of your songs, press a button, and it will loop the section you recorded over and over.  I have no idea what the point of this was, or why they wasted time with it.  As far as I can tell, it is completely useless.My biggest complaint is the battery life.  It holds one AAA battery.  This is nice for the compact size, but I would have rather it been slightly larger and held tow batteries.  I like my music up pretty loud, and my battery is dead after 45-60 minutes.  That is unacceptable. I've seen reviews that say the battery life lasts 12 hours at 60% volume.  I have never seen that. I have to buy batteries in bulk just to be able to use it.  What's more, the Muvo will actually drain amps from your battery when it's turned off. For the life of me I can't figure out why.  It's a flash drive, so there should be zero reason it needs to keep power up.  It is not very significant, but if you put a brand new battery in and don't turn it on at all, in about two months the battery will be dead from the drain.  WMA files also consume more battery usage than mp3 files.The player also has a skip button that lets you skip tracks and fast forward, but it can act flaky on WMA files, and instead of seeking through a song, just skip right to the beginning.  There is also no repeat feature.  After the last song, you have to hit play again to restart it.  No random song feature either.Although this player is pretty much outdated now, it would be a decent player.  I like the basic design and the controls are easy to use.  It's just not worth the current price, and it has too many flaws to use for serious athletes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A little too expensive for the features </p>
+
+
+<h2> review.date </h2>
+  10-12-2002  
+<h2> review.text </h2>
+
+ <p> I got the 128MB version of this product, but except for storage capacity both models are the same.  The first thing that gets you is the size.  The photos don't do it justice.  Like, it's really, really small. We're talking 1 1/4 x 2 3/4 x 1/2 (inches).  And, it weighs almost nothing.There have been some negative comments on this product, but I feel the negatives are what make this product what it is.  You see, you have to look at this thing as a USB memory module -- that just happens to play music.  One complaint has been the lack of a display, but a display would just make it bigger.  Another complaint has been the lack of a memory.  When you turn it off it starts back at the beginning.  Well, I assume a memory feature would use up battery life.  And another complaint has been a lack of controls.  I mean, how many controls do you need?  It's so simple I had it up and running 10 minutes after opening the box, and that includes loading files onto it.It does feel kinda cheap (plastic), but the controls work well, and the only problems I've had are sometimes when you click to move up or down a track it might miss by a track.  Fast foward is not audible, so you hold the button and guess.  Otherwise, it works extremely well.Another thing that makes this product unique is that the memory module separates from the battery compartment and plugs right into a USB port.  No drivers are needed for Window Me/2000/XP, but you will have to load the included drivers if you use Windows 98.  I work on a lot of computers and often have to transfer files from one to another.  The MuVo makes this a snap.  And hey, if you happen to load a few MP3 files on it you can listen to some tunes while you're walking from one office to another.Sound quality is determined by how good your MP3 files are and your headphones.  I have a pair of Sonys that do sound better than what comes with it, but not much.  And here's a tip:  The free version of sofware that came with your CDRW may not rip MP3 files at 128kb (about the lowest quality that sounds decent).  I did a bit of searching around and found a program called CDex that works quite well at getting decent quality MP3 files off your CDs -- and it's free!The MuVo also has a repeat function.  You push a button at the beginning of where you want the repeat to start, and again where you want it to end.  While this is a lot of work if you want to listen to one track over and over, it's perfect for any musician trying to learn a song.If you're looking for CD quality and lots of features, I suggest you get a good skip-proof portable CD player.  But, if you want a very small MP3 player that sounds pretty damn good, and is extremly small and lightweight, this is a great product.  By the way, everbody I've shown this to has been amazed at both the sound quality and the size. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Product </p>
+
+
+<h2> review.date </h2>
+  01-03-2007  
+<h2> review.text </h2>
+
+ <p> This player is too old and not worth the money. Spend a few more bucks and get a player with Gb's of storage space and way better audio output. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Was great, but is now very much out of date </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

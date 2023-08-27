@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00AO9LT6Q <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-01-2013  
+<h2> review.text </h2>
+
+ <p> The negative reviews must be from jealous people because I found this book to be quite great and I definitely encourage other readers to give this book a chance. It is definitely worth it. The scenes are very sensual and erotic, something expected just by the title. Each story was also different from the next.  Also, each lead character was different, which I am incredibly glad about. I hate reading a series of stories where everything is the same. A lot of the imagery is very strong and helps the story move along quite nicely. Though we stay in scene for a while, each sentence is fresh. So I really can't see what the negative reviewers were seeing. They must need glasses! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Adore the Intimacy </p>
+
+
+<h2> review.date </h2>
+  12-29-2012  
+<h2> review.text </h2>
+
+ <p> Each story was good hate last one end so fast that one was the hottest. I would tell someone to read </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short story lines </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> IT WAS VERY WICKED. A LITTLE TOO WICKED FOR ME THOUGH. BUT I CANNOT RISK BUYING THE NEXT VOLUME. FULL OF SPICE. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WICKED 1 </p>
+
+
+<h2> review.date </h2>
+  12-18-2012  
+<h2> review.text </h2>
+
+ <p> Not what I thought, much more graphic than I like in a book. One two three four five six seven </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mature audience </p>
+
+
+<h2> review.date </h2>
+  05-18-2013  
+<h2> review.text </h2>
+
+ <p> Some short stories are just that ....... short on story line and one is finished before you start, left wondering what it was all about. These short stories are definitely NOT like that. Yes, short in length but long on suspense and storyline feeling like much longer books .......The exciting highlights are very well written. These female authors have written very exciting books </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shorts .... Yes, but Full on descriptions </p>
+
+
+<h2> review.date </h2>
+  09-05-2013  
+<h2> review.text </h2>
+
+ <p> A very good read for adults who are in to the series recommend highly must read the next series of books very hard to put down very enjoyable read </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wicked desires </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> I would rather have read more about the characters. I feel that there was not much develop in the story, and that they were, well, short. Almost too short, at times. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad . . . </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> Looking for more stories by these authors. All three shorts were very erotic and sensual wish they had been longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good stories </p>
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> Short stories that keep you wanting more. I enjoyed the details of each scene. This allowed for you too feel like you're part if the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short but good </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> I almost deleted this little treasure before reading it because of the two 1-star reviews.  I'm glad that I decided to give it a shot because I found the stories steamy and fun.  The first 2 stories were even a little romantic, which I like. I encourage other readers to give it a chance.  They were short stories, about 30 minutes each.  I read all 3 in one sitting and needed a smoke after each one.  Thanks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What's their problem? </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> Enjoyed reading this one. Nothing like a hot read. You can't be afraid to open up to new things. Maybe you'll get lucky. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Book </p>
+
+
+<h2> review.date </h2>
+  12-23-2012  
+<h2> review.text </h2>
+
+ <p> I was pleasantly surprised by this trio of books and had half expected a take off of the awfully written and boring 'Shades of Grey' trilogy. But I was wrong. The 3 short stories are all different and with enough erotic moments to keep me reading right until the end.I particularly liked some of the phrases for example - "If he kissed her, right then and there, and she wasn't into it, he'd be fired on the spot. Hell she'd probably call the cops on his ass. Security at the very least".To sum up, I enjoyed the books, they were not repetitive and each story had different characters and scenes.A good read for those with spare time who like erotica. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An interesting read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

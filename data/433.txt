@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BEWB71O <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-24-2013  
+<h2> review.text </h2>
+
+ <p> Another great entry in this series will inspire young people to lives of character as it examines heroic characters from history.  This volume features some well known people such as Alvin York and George Washington Carver, but also many more obscure unknown characters including allied soldiers from World War II, as well as Russians who stood up to the emerging tyranny of Communist Russian in the 1910s and 20s. This is a great book for character education or just to find some inspiring historical stories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Real Heroes </p>
+
+
+<h2> review.date </h2>
+  06-11-2013  
+<h2> review.text </h2>
+
+ <p> I love inspirational stories that are quick easy reads for when waiting for whatever reason.  Great stories to share too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book </p>
+
+
+<h2> review.date </h2>
+  06-19-2013  
+<h2> review.text </h2>
+
+ <p> Have really enjoyed reading this book.  Some great portraits of great people.  Would highly recommend this to anyone, especially if you like reading short stories of individuals from history. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Portraits of Integrity </p>
+
+
+<h2> review.date </h2>
+  04-17-2013  
+<h2> review.text </h2>
+
+ <p> As one who loves history and biographies, I was often wishing the stories were longer!  They were interesting and well written, and really, the perfect length to read to children.  I love the questions at the end of each chapter that not only gauge comprehension, but also provide food for thought and discussion.There were a number of typos that were mildly distracting, but overall, the book was excellent! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little book! </p>
+
+
+<h2> review.date </h2>
+  06-11-2013  
+<h2> review.text </h2>
+
+ <p> Another tool to add to my library.  I never get tired of reading and never get tired of having examples and material that is at my fingertips.  The scripture verses and examples were truly awesome and thoughtful.  The manner in which a number of things were woven together served to speak to any and all that would read it (i.e. historical content, scriptures and examples were all noteworthy).Highly recommend it for Youth Pastors and Sunday School Leaders. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Tool for Sunday School/Church </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> It was interesting but not one of my favorites.  I do like reading about other people and seeing how they reacted to life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Portraits </p>
+
+
+<h2> review.date </h2>
+  06-16-2013  
+<h2> review.text </h2>
+
+ <p> A very  good overview of each person described in telling why they were great and what they did in life </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good overview </p>
+
+
+<h2> review.date </h2>
+  04-20-2013  
+<h2> review.text </h2>
+
+ <p> This is a great resource for teaching children history and character lessons all rolled together. My daughters are 10, and their only complaint is that they wish each story was longer :) The discussion questions at the end of each story are a great way to help bring out the character lessons! Definitely a resource I would recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful resource! </p>
+
+
+<h2> review.date </h2>
+  04-19-2013  
+<h2> review.text </h2>
+
+ <p> Portraits of Integrity Volume 2 is a very interesting little book.  I especially loved the historical accounts that accompanied the character traits of meekness, obedience, and humility.There are 14 character traits and corresponding historical accounts covered in this book.  The historical accounts are fascinating and do a decent job of illustrating the assigned character trait for most of stories.The authors definitely have a "northern viewpoint" of the civil war.We love the Boyers and have used their character materials for years.  I am so thankful for the work they have poured into their projects and books.  Our family has benefitted greatly from many of products the Boyers have put out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Teach history and character traits at the same time </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> This was an interesting book dealing with several different people who displayed high levels of character in difficult and challenging circumstances. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Portraits of Integrity </p>
+
+
+<h2> review.date </h2>
+  06-01-2013  
+<h2> review.text </h2>
+
+ <p> Each chapter contains a character trait(ie. Loyalty), a definition, a related verse(KJV), an interesting story about a historic figure, and follow-up questions(for use in a school, etc.)This book is well designed, formatted, and decently copy-edited.As a foreign missionary living in Nepal for the last few years, I especially appreciate the beautiful stories of Missionaries Amy Carmichael and Nate Saint, but was extremely disappointed to see that the second story in the book was about Abraham Lincoln, a man whose pride and deceit led to the deaths of more Americans than any other national leader. I would have been able to stomach the simple story illustrating Gentleness had it not been for the following quote referring to the war between the states: "What are we doing? How can we love and hate at the same time? Why are we fighting? For what?" He knew the answer. So that thousands of men, women and children could live free." This was not the reason for the war and it pains me to see this common lie propagated in a book that seems to be marketed toward young people as an education tool.Without the Lincoln propaganda, this book would have received 4 stars and my unequivocal recommendation because of the otherwise excellent content. As it stands, I have difficulty recommending it at all, even at the price I paid: $0.00If you don't care about lies being included in your child's character lessons, feel free to purchase this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful Character Teaching Book with a Serious Caveat </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> This book is well-written and researched.  I loved that it contained Bible verses to compliment the interesting stories of real people. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read </p>
+
+
+<h2> review.date </h2>
+  07-09-2013  
+<h2> review.text </h2>
+
+ <p> I liked having short stories that I could begin and finish in one sitting.  The fact that they are all true makes it that much better.  Great learning experience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gives Great historical insight. </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> This second volume contains more stories of historical figures that demonstrated virtues such as honesty and love. Great uplifting stories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Volume 2 </p>
+
+
+<h2> review.date </h2>
+  06-25-2013  
+<h2> review.text </h2>
+
+ <p> The boys I read two of the stories to liked it.  Read to them at bedtime the first night we were together and they asked for me to read it to them again the second night.  Asked them some questions the next morning to see they were really listening and they could answer my questions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boys like it! </p>
+
+
+<h2> review.date </h2>
+  04-22-2013  
+<h2> review.text </h2>
+
+ <p> As homeschoolers we have really enjoyed Portraits of Integrity.  We are using this series in conjunction with Character Concepts "Kids of Character Bible Study."  The book introduces several character qualities.  Topics include: generosity, gentleness, gratefulness, honesty, honor, hospitality, humility, initiative, joyfulness, kindness, love, loyalty, meekness, and obedience.  Each topic is broken down by definition of that quality, a memory verse, a story from history showcasing a hero from the past, and a thorough discussion question section that really helps you get into the topic.  This book is perfect for Bible Study, homeschool history, family devotionals or just for fun!  You do NOT have to read Volume 1 to enjoy this book, it can completely stand alone.  The stories are interesting and even my 6 year old is wide-eyed.  You won't be sorry you bought it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must have for Character Training! </p>
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> Each story is uplifting.  Maybe a little on the light side, but just the sort of thing to restore your faith in humanity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice stories </p>
+
+
+<h2> review.date </h2>
+  04-19-2013  
+<h2> review.text </h2>
+
+ <p> Portraits of Integrity Vol. 2 is an excellent resource for any family. What I appreciate most about the book is the inclusion of history and people not only from America, but other parts of the world.  There are chapters devoted to missionaries, American war heroes, Russian war heroes, and Russian housekeepers! ( I thoroughly enjoyed reading about Ms. Darya Efimova. What courage!)Each chapter begins by stating a particular quality trait which is simply defined then followed by a memory verse of scripture applicable to that trait.  The story opens with an event, date, and place.  This book is a definite page turner.  Informative without being dry, the authors did a great job in telling each story with great detail while honoring those people whose stories are being told.I thought each character trait and verse accurately fit the story/people which followed, except for the stories about Kate Gibson and Col. John Hunt Morgan.The story about Kate Gibson was used to convey the trait of hospitality, but I feel that more could have been written to describe who she actually was in the place of history. The story about Col. John Hunt Morgan was used to illustrate initiative, but I think a better story could have been used. He displayed initiative by escaping the Union Army, but is this the kind of initiative that is best described as a godly type to pursue? Others may disagree with me, but this is something to think about.There are some disappointing typos and errors in writing: "motercycles" instead of "motorcycles", for example.  A sentence beginning with the number "16" instead of being written out as "Sixteen".  Dr. George Washington Carver described as "pottering" around in his laboratory instead of "puttering". Not too many errors, but some.The story about Sergeant Alvin C. York (I can never read too much about this man) is used to exemplify the trait of obedience.  The chapter ends with "Sergeant Alvin C. York demonstrated obedience by carrying out orders in spite of his own feelings."I disagree with this statement.  Sergeant York initially refused to take up arms in the Great War because he felt it was against the teachings of God.  His obedience followed a change in these feelings after God showed him that fighting against evil to preserve good was the right thing to do; not because he did what the Army wanted despite his feelings.All in all, this book is an excellent resource and well worth buying. To our great shame, there are too many of us who don't know or care about history.The authors have provided a treasure to teach us and our children that history is made through people.  If we can learn from great people, especially those who honored and honor the Lord, then parents stand a chance of training and raising great people who can change a nation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> History to Instill Character </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

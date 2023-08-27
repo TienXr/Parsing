@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B005F0WRAQ <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> I look forward to the next book in this series which I do plan on getting.  I would recommend this book to a friend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This was a good story </p>
+
+
+<h2> review.date </h2>
+  03-07-2012  
+<h2> review.text </h2>
+
+ <p> My thoughts:I have to start this review with a quick disclaimer - I LOVE EVERYTHING these women write! Having said that...Once again I found myself reading about an incredibly strong woman and the ultimate badboy/goodman destined to be together, but struggling to stay apart.Things I enjoyed about this story: characters, the setting, the storyline, the endingThings I wish had been different about this story: length and backstoryThe characters are wonderful and I was thrilled that it was set in Minnesota because that is where I live, but I was left with some holes that more backstory could have filled and would have happily read at least another hundred pages (or more) about Gabe and Marci.All-in-all, another fantastic installment from these clever wordsmiths - well worth the read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> another fantastic installment from these clever wordsmiths </p>
+
+
+<h2> review.date </h2>
+  02-25-2012  
+<h2> review.text </h2>
+
+ <p> Post apocalyptic, sci-fi, paranormal romance? Yeah, it's a mouthful.  I was drawn to this novella with its promises of a sexy half demon and an adventure, and am I glad it delivered.Marci is a summoner, a descendant of the people who held the power to summon demons.  In their shallow grasps of power they unleash demons they can't control that cause widespread death and destruction.  All summoners are blamed, even those like Marci that had no part in the original outbreak (sins of the father and all that jazz).  Which leaves Marci hiding in plane sight in one of the underground human strongholds.  If she's discovered through any of the random DNA tests they will throw her top-side to the mercy of the demons.Gabe is a half-demon who gathers supplies for the open community where he lives.  Humans, summoners, and half-demons all co-exist happily in Rochester (thanks to some strict rules enforced by a pretty scary guy.)  While making a supply run at the facility where Marci works all hell breaks lose and the security network that defends against the demons goes down.  They find themselves in lock down together and things start to heat up.  But can Gabe talk Marci into staying with him?The beginning was a bit difficult to get into.  I was thrown into a post apocalyptic world without much explanation of how things became so messed up.  Thankfully, things were explained pretty  quickly and I started to really get into the story.  I felt for Marci.  She's had to live her entire life blending into the background because of her genetics.  Gabe's character is constantly warring with his two natures.  His demon side is telling him to use all of his powers to make Marci his, but his human side knows that it would kill any kind of relationship he could have with her.  I don't want to give too much away, so I'll just say that I enjoyed Demon Bait and now, that I fully understand the "new world", I look forward to reading the second in the series, Hammer Down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3.5 stars </p>
+
+
+<h2> review.date </h2>
+  12-03-2011  
+<h2> review.text </h2>
+
+ <p> In postapocalyptic Minnesota, demons have been warring with humans and now run free above-ground. Society has divided, with some still living topside in protected but flourishing communities while others have gone underground, choosing to dedicate their lives to technology and experiencing life mostly in a virtual world.Marci is a tech living below, her specialty being perfecting the avatars for the virtual plane everyone uses for long-distance or group communication or pleasure. She's hiding a big secret that she's worried is about to come out - with techs vanishing for what she thinks may be DNA scans, she's afraid it's only a matter of time before her demon half is revealed. She isn't given much time to worry about it - a critical breach in the security of compound sends her running for safety, joined by the mysterious, sexy and obvious top-lander that she saw earlier.Gabe's own half-demon recognized Marci's half-demon summoner power and he was determined to get her alone. Now that the two of them are trapped underground for however long, he needs to convince her that her place isn't in this stale, emotionless environment, however safe she thinks she is. She was made to live above ground and be claimed by another half-demon - and he knows just the man for the job.Now I know that part of why I loved this is that I play video games and I really got the whole usage of people stepping in and out onto the virtual reality plane, assuming avatars and navigating through places that were representations of real places but not real until they stepped back out. The story is short and quite a bit of the information in it comes out in the virtual plane because Gabe keeps getting yanked into it by the ruler of his community - so it's stuff Marci is unaware of even though she's physically with him.Gabe and Marci got together very fast. There's probably a parallel that can be drawn between the relationship between a summoner and a demon and maybe werewolf bondmates. They're drawn to each other because they have to be. In this case, there's a twist (that I'm not revealing), one that makes Marci hugely valuable to the topside community and makes the relationship with Gabe dangerous even though they have a connection they want to act on, biological or chemical need be damned.The sexy times between Marci and Gabe are of course, hot and hotter. They have their own issues with how to separate the natural urge to be with each other because of what they are and the need to be with each other because of who they are - and when they get it right it's delicious and smoking at once.I liked that there was a decent amount of space given to showing what the world is like in the topside community. Gabe's friends are introduced, Marci experiences her new freedom and conversely sees new rules and punishment.In the novella format, I never expect perfect world-building or character realization, but I'm interested in where this is going. I especially like the idea of the virtual plane (I watched a lot of Tron and play too much Xbox 360, I know) and flying zombies and am hoping if Rogers destroys more of Minnesota, the Packers will continue to win the Super Bowl. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Demons, destruction and virtual reality in Minnesota </p>
+
+
+<h2> review.date </h2>
+  11-29-2011  
+<h2> review.text </h2>
+
+ <p> 3.5 out of 5 stars. Adventurous, seductive, and sweet are the three words I would choose to describe this unique apocalyptic romance book!! Marci has grown up believing she has to hide who she is, even though her magic is just simmering under her skin wanting to get out. Gabe is fierce and sweet, and just the type who you'd love to be seduced by!! I could not get enough of this book!!My only problem with this book was what happened once they were found. I mean I understand the necessity for what happened but it seemed to mess up the flow of the book for me, I guess. Otherwise, I like how the book did wrap up at the end!I recommend this to whoever is already fans of Moira Rogers and to those who like adventurous paranormal romance books!!Review By: From Me to You ... Book Reviews(read more of this review and a few teasers on my blog) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Made the Grade: Children of the Undying Series, Book 1 </p>
+
+
+<h2> review.date </h2>
+  03-16-2012  
+<h2> review.text </h2>
+
+ <p> Clocking in at only around 100 pages, Demon Bait packs quite a bit of punch for what could be considered a relatively low word count.  With a captivating universe where evil demons have taken over and the world's human population has taken to the underground for protection, much of a person's life is spent in virtual reality.  Having blamed summoners for bringing down the scourge of demons, humans live in fear and prejudice against those who may carry demon or summoner blood.Marci was wonderful. She was a strong character without being bitchy, and Gabe was alpha while still desperately trying to find a balance between his instincts and actual consideration for Marci.While I do of course wish there'd been a few more details of both the history of the demon/summoner relationship and of the realities of the world outside of the compounds, I still found this an incredibly satisfying read.As always, the love scenes are steamy without ever feeling gratuitous, and the ending was absolutely perfect.A delightfully solid 4.5/5 Stars, and I'm very much looking forward to reading the sequel.{Full review appears on The Romanceaholic. Title was provided free of charge by the author in exchange for an honest review} </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4.5/5 Stars - Original Premise; I'm Dying for the Sequel! </p>
+
+
+<h2> review.date </h2>
+  12-02-2011  
+<h2> review.text </h2>
+
+ <p> Moira Rogers has created a dark and dangerous world, filled with demons and ruined cities.The demon Armageddon has created chaos in the world. Fifty years later, life is lived in virtual reality, and in underground cities. Summoners, those who aren't quite human, are being blamed for it all still, all these years later. Marci has been hiding in plain sight, a summoner passing as human in Gold Mills. She is a net tech, working in the virtual reality field.The authorities have started a genetic testing lottery, searching for those who may be other than human. When a new face shows up, he focuses on Marci. Gabe is handsome and sexy, and there is a side of him that is drawn to Marci: his demon side. Gabe is a halfblood, part demon, part human, but all male. When the system goes down, Marci and Gabe have only seconds to get to a secure area. When Gabe tells Marci about a place where she can live openly, without fear of discovery, she wants to believe him. But she is also worried that, as part demon, he has tricked her. Gabe is determined to save Marci, from the demons and humanity, but can he earn her trust and love without using his gifts? Can Marci accept Gabe and what he offers? Or will she strike out on her own once she is free?The world for this story is the ruin of Minneapolis, and the underground cities humanity has created to be safe. I love the world, and the characters that inhabit it. There is a sense of urgency and danger around every corner, and the fear of reprisal and attack is very prevalent in this.Marci is a strong and very intelligent woman. She is a summoner, but has been able to stay under the notice of the city authorities so far. But with the new genetic lottery, she realizes it is just a matter of time before her secret is revealed. She is willing to keep the status quo, until Gabe enters her life and turns it all upside down. I like Marci, and her determination to live her life her way once she is offered the opportunity.Gabe is hot and sexy, and definitely nothing that Marci has seen before. He is determined to keep her safe, and not influence her decisions where he is concerned. But he forgets to be completely honest with her, and this could end up working to his disadvantage in the future. I liked Gabe, and his attempts to not use his demon magic to bind Marci to him. He is determined to allow her free will, and the ability to make her own choices, even if they don't include him in her future.This is a very interesting start to Moira Rogers' newest series, and there is a lot of world building in it. I enjoyed meeting the people who inhabit this world, and look forward to meeting more of them as the series progresses. The secondary characters are all well crafted, but Marci and Gabe are the stars in this one. There is a bit of danger, a harrowing escape, and lots of steamy romance in this, and there is a happy ever after for Gabe and Marci after a few tense moments. I recommend this to anyone who likes romance with an edge.Originally posted at The Long and Short of It Romance Reviews </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot Read </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> so i decided that i wanted to read something dystopian with characters above the age of 17....what i didn't realize was that i was walking into a world of gratuitous porn.... i'm all about sex in my reading and real grown-up emotions but the whole premise of the book seemed forced...more like the author just needed an excuse to talk about ridiculous lust...idk, just not for me at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> porn ridiculous </p>
+
+
+<h2> review.date </h2>
+  05-22-2012  
+<h2> review.text </h2>
+
+ <p> Moira Rogers whisks us away into a futuristic world with Demon Bait, the first book in their Children of the Undying series and quite a powerful ride! I don't typically read this genre much, but was curious, because hey, it's Moira Rogers, y'all! In this post-apocalyptic story, the humans have banded together underground and through virtual networks, and demons walk the earth and dominate it.Marci is a human summoner who is smart and savvy and working as a network programmer. Before the Fall, the summoners had all the power with the ability to control demons by calling them from wherever they resided. After the Fall, demons have taken over the earth and the power has shifted to them now. As a halfblood, Gabe is part-demon and he immediately identifies Marci for what she is. While visiting Marci's outpost on a trade mission, he feels the pull to her immediately, and wants to mark her the moment he steps in to the network station. There is a demon attack on the mill, and their station goes in to lockdown, leaving Marci and Gabe physically trapped together. Gabe makes it his mission to convince Marci to go with him to Rochester, where he claims halfbloods like them are openly accepted and respected.I really enjoyed the premise of Demon Bait, it had a very Matrix-y feel to it, but with demons. I also liked that there wasn't any hard-to get going on in the romance department. Gabe makes his case for why Marci needs to leave with him, Marci readily believes it (which is well-explained), and we move along with the story. The sexual tension was immediate and it led to both characters not fighting the attraction. That led to smoking hot smex. I really liked the couple, as well.She rose and licked her lips. "I left," she told him carefully. "I left the mill, and my life isn't over. That wasn't it.""Not in the least," he agreed. "Your life's just getting started."If you are looking for a longer read, this is a novella, but don't judge it by its size (ahem). This story is super dense with action and is pretty fast-paced. Demon Bait is thoroughly enjoyable and it will leave you wanting more. Fortunately, the next book is a full-length novel Hammer Down, and I am reading it next! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Promising and Unique Premise to a New Series! </p>
+
+
+<h2> review.date </h2>
+  11-29-2011  
+<h2> review.text </h2>
+
+ <p> I generally prefer to give a short rundown of my perception of the plot when I write my reviews but the blurb for this one does a great job of it. Once again the duo that writes as Moira Rogers have built an interesting and exciting world to send their characters out into. Post-Apocalyptic tales are hot right now and the Children of the Undying is one I've been looking forward to for a while.What didn't work for me this time was the length. It really didn't give me, personally, enough answers to the world building things I was confused about. So while I was supposed to be focusing on Marci and Gabe I often ended up sidetracked trying to figure out how it all was supposed to work. Struggling through that I ended up not feeling the attachment or care for either character I'd hoped. It's happened before and is one reason I don't usually like novellas as series openers with an occasional exception such as Rogers' WILDER'S MATE. The sexual tension is a yummy contrast to the danger element though I didn't find it enough to win me over.While I couldn't love DEMON BAIT as a whole the set-up for the series is very promising. Looking for another post-apocalyptic romance? You might want to wait until the next in the series is available and read them back to back so you don't suffer from question overload like I am! lol If you're already a fan of Rogers you should definitely pick this up. The formula of Alpha hero and strong but still a little vulnerable heroine Rogers does so well is sure to appeal!**ARC received via author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I need Hammer Down to be out now! </p>
+
+
+<h2> review.date </h2>
+  12-28-2011  
+<h2> review.text </h2>
+
+ <p> Felt like pieces of the backstory and world building were cut off or should just be understood by the reader from the book blurb. Problem is I didn't read the book blurb until the end because book is formatted to have it at end or via TOC. Book opens in Kindle app on first page of chapter so I just started reading then felt a bit lost.What I liked about this book: Love the characterization and I know I can't do wrong with a Moira Rogers book which is why they're auto-buys for me. Just wished this one had been a bit more fleshed out. I AM looking forward to the next in the series though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A little confusing at first </p>
+
+
+<h2> review.date </h2>
+  12-09-2011  
+<h2> review.text </h2>
+
+ <p> It's fifty years after the demon apocalypse and most people now live in underground cities where they spend a lot of time in a virtual world. Marci is a network technician who lives in fear of being randomly selected for genetic-testing. She's part summoner and if anyone finds out, there will be terrible consequences. No one is aware of her secret except for the sexy and dangerous Gabe.Gabe is part incubus from an outcast settlement and it's his job to do what he can to find trade for his people. He's sent to Marci's colony and is surprised to find a summoner living among humans. After a lockdown is issued, Marci and Gabe find themselves alone together and Marci can't help be both scared and attracted to him. Gabe wants to prove he is not ruled by the lust but the longer they're together, the more difficult it is to resist her. With a promise from Gabe to see her safely back to his colony where she'll live without fear of punishment, Marci hopes she is making the right decision to trust him with her heart and her life.Before the fall of cities and the rise of demons that have people taking shelter underground, summoners could call and control a demon. Now the tables have turned and the humans blame summoners. Marci has to hide who she is from everyone or take a chance topside in one of the outcast settlements. In the beginning I thought that Marci was weak for choosing to stay among people who could exile her. But as I read on I realized that Marci was born into a bad situation where her mother instilled the importance of keeping silent and she just thought it was the safer option. It didn't make her weak, it made her a survivor and I admired her for that.Gabe's arrival throws a wrench into Marci's carefully lived existence. He'd like her to come to his outcast settlement of Rochester where she wouldn't have to hide what she is. Her summoner blood calls to him but it's something more that makes him want to explore things further. Gabe is part incubus and was born after his human mother was held prisoner by demons. He would never force himself on a woman like his father did and when Marci unknowingly uses her powers to draw him in, he sends her away even though it causes him pain. He isn't a perfect hero, which are my favorite kind, but he is loyal and will do anything to give Marci the life she deserves. My only real issue with Gabe and Marci was their relationship. I've come to expect a certain quality in a Moira Rogers' couple and I thought these two kind of fell flat. The sexual chemistry was there but I just wasn't wow'd with the emotional connection. I don't think they made a bad couple it's just they aren't the best that I've come across while reading other books from these authors.Demon Bait takes place in a post apocalyptic world where half breeds like Marci and Gabe not only have demons to fear but also humans. It's rare places like Rochester they can call home. The settlement's leader, Dominic Wetzel, is strict and punishes those who break the rules or hurt someone. Zel is only in a couple scenes but he has a commanding presence that lingers even after he's left. I'm very interested in learning more about this character and I was very excited to learn that his book, Hammer Down, will be the next release in the series.I wasn't a big fan of the technology or the virtual world. It just isn't my thing but I see why it would be a necessary escape for those who live in a world like that in Demon Bait. I still ended up enjoying the book and its unique and often scary world that these interesting characters are from. I'd recommend this to someone who likes sci-fi mixed with paranormal romance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3.5 stars for Demon Bait </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

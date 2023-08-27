@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002CXEJAA <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> On the flimsy side, but well worth the price </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Four Stars </p>
+
+
+<h2> review.date </h2>
+  04-16-2013  
+<h2> review.text </h2>
+
+ <p> Bought it as a backup charger for the Canon SX 260. Not quite as high a level of workmanship as the one that came with the camera but works just fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> STK's Canon NB-6L Battery Charger </p>
+
+
+<h2> review.date </h2>
+  12-04-2013  
+<h2> review.text </h2>
+
+ <p> Works fine. Always good to have a extra battery charger for if one burns out or gets lost or you find you need your camera for a event quick and don't have time to charger more than one battery at a time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Always good to have a extra battery charger </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> This works fine on my NB-6L batteries from my Canon S95, and cost less than the Canon charger I was going to buy when I lost my OEM model.  It charges them a bit quicker, which probably means less capacity since quick-charged batteries tend to hold less energy, but I always carry two batteries so I'm happy to trade charge time for battery life.  The batteries still take hundreds of photos per charge so any difference is negligible.Only downside, which warranted the four star rating, is it's probably twice the height of Canon's stock charger so if you're thinking of putting it in a laptop pouch pocket, it's going to poke out much more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than Canon's, and cheaper, but big. </p>
+
+
+<h2> review.date </h2>
+  02-04-2014  
+<h2> review.text </h2>
+
+ <p> glad to have an extra one...happy with this purchase I would  buy this again.I shop on Amazon for everything and think they are great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works great </p>
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> Received this product on time, came with not only wall plugs built into the charger but a car charger as well. The battery charger worked great for me I was a little worried based off of some of the other reviews but when i plugged it worked as advertised (granted I did watch it for about a half hour before i left it alone). Continues to charge my camera battery just great. Seller was also very quick on shipping it to me arrived right no time without any issues. In my opinion it is a great product for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great, did as advertised </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> I bought one to charge the camera battery on the road. It works well & we use it on all our road-trips. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It does its job </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> Purchased this Canon Powershot Battery charger as a replacement for one lost in Hurricane Sandy. The charger worked fine and in a short enough period of several hours, did indeed charge up the battery. I am satisfied with this purchase. The battery arrived on time and was packaged well. I only gave it 4 stars because it is an electronic. I will edit the review after a few months of steady performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Product at a Good Price </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> Buying a third party charger is always a risky affair, but when it pays off it can mean a big savings over the OEM. In this case, the STK charger works exactly as advertised, and for about a third of what the Canon charger costs. The charging rate is close enough to the OEM that I had no issues in using it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Perfectly </p>
+
+
+<h2> review.date </h2>
+  01-17-2013  
+<h2> review.text </h2>
+
+ <p> Does what it is supposed to do and I have no problems with it. Lost my original charger, but this proved to be a good repacement at relatively low cost. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> STKs Canon NBL charger works quite well. </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> Needed this in a hurry as I left my charger in another state.  Got in 2 days and very happy with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works just like it should </p>
+
+
+<h2> review.date </h2>
+  10-14-2012  
+<h2> review.text </h2>
+
+ <p> I bought this battery and charger together, I charged it up in the included charger. It died after a couple of pics and never would take another charge from either the included charger or my other working unit. The charger shows a green light but never charges any of the batteries I have.Since these two pieces of junk came together I would assume really poor manufacturing. I've sent them back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charger and battery both DOA </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> I must admit I was nervous. Seems too good a deal. But it works great. Charged my canon battery and my no  brand too. Great value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> I've been a professional photographer for 37 years.  This charger was purchased to replace the Canon charger that came with my S95, which I left in a hotel in Europe.  This unit works with a regular US outlet, and as an added feature it also has a nice little car (lighter) charger as well - ideal for traveling.  The charger also works with several models of Canon cameras. At half the price of Canon, this is really about twice the value.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than Canon's </p>
+
+
+<h2> review.date </h2>
+  06-27-2013  
+<h2> review.text </h2>
+
+ <p> This battery charger from Canon can be used with various Canon point-and-shoot cameras.  It would be nice if all manufacturer adopted a universal charger so you wouldn't end up with a different charger for each camera you own.  Same thing with printer ink cartridges. I don't foresee any progress in this area soon, since there must be a profit advantage in having all these different chargers and cartridges. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better Than Most </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> It charged the battery on my Canon Powershot S95, just as well as the Canon charger. The indicator LED was red during charging and turned green when charging was complete, just like the Canon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It charged the battery on my Canon Powershot S95 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

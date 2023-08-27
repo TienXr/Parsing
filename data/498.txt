@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00KZXH2BM <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-23-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed the story of Cade and Morgan, however; there were a few issues with grammar and incorrect names. There were parts of this book were the author used Jason for Jamie or Jamie for Jason, and Eddie was spelled wrong a lot of times, also a scene where Morgan was talking to Eddie and somehow Ethan got thrown into the mix so very confusing on the readers part. However, this book was very enjoyable and I hope to read the rest of Morgan and Cades story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Overall good </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> Omg! I couldn't even finish this book!!! The book made NO sense what so ever!!  She is suppose to be this smart super rich woman so why is she staying where he is?????  This book is just a mess.. a total mess!  People are getting beat up and shot, her assistant and her are almost raped AND STILL SHE DOESN'T LEAVE???  Even though she is suppose to have all this money?  What? she can't call a cab??  Her other assistant saves them and then everyone just act like nothing happened.  The emotions in this book are so wrong in so many scenes.  I mean all these events happen and she just acts like nothing happened to her.  I can't even go on anymore about this book because it was such a waste of time that I will never get back! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book is a total mess!! </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> Two worlds collide as stock broker meets bad boy motorcycle gang president, but he is much more than that. This is no ordinary motorcycle club they kill to protect their own something that try as she can Morgan can't understand. But she is drawn like a moth to a flame a flame she never wants put out. She tries to get Cade to open up at least to explain the tattoos- "Filthy Few" on his back and the "1%ers" diamond on his arm for she knows there is more to the club than what he will say. Cade knows if he opens up to the truth Morgan will feel he is nothing more than a serial killer. But then he kills in his own living room as Morgan witnesses...she sees the killer she has fallen for...Raw, gritty, emotional, powerful and sexy still don't begin to describe this outstanding story. Tucci writes with a descriptive, detailed pen that leaves the reader on their toes because just when you think you have it all figured out there is another twist, another curve to the storyline that causes a "WOW" moment. The storyline and characters had me captivated as I couldn't put it down I had to know what was going to happen next. I loved how there is more to the characters than just the shields they present to the world and how Morgan and Cade strip away the facades in each other to expose the need within. I don't care if you are into motorcycle gangs, raw sex, emotional turmoil or just an awesome storyline this one is definitely a must read!I am one who doesn't usually do this but I am adding a note to my review due to all the negativity due to the story problems and grammar issues that are being written. In what I will call an outstanding bold move Tucci clearly took to heart what has been said and has presented us the readers a new and improved "The Filthy Few"! Daniella has addressed the story problems and the grammar issues to give us a smooth read that I still say is an outstanding storyline but now is even better! Don't read the negatives read the new and improved "The Filthy Few"!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two Worlds Collide - A Definite Must Read!!! </p>
+
+
+<h2> review.date </h2>
+  06-23-2014  
+<h2> review.text </h2>
+
+ <p> the Amazon write up sounded so great along with all the reviews.  I found nothing exciting or loving about it.  She is a B**** with a serious attitude, the whole world owes her because she has a 7 figure income.  the accident is her fault but she pushes the blame on Cade.  Even while living in his house she is a B****,  a whole chapter is on her remembering things from her childhood, her mom's death, her 14th bday etc.  her dreams while she is on pain killers.  I couldn't read past chapter 4,  I returned the book.  if it got better after that, the author should have redone the first few chapters as they will scare other readers away.  Don't waste your money on this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> horrible! </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> The basic idea of the story is interesting but the author does not &#34;connect all the dots&#34; so to speak. The emotions felt by the two main  characters seem to be two dimensional and the way they connected never fully explained in my opinion. In addition, the book needs editing badly. Besides misspelled words and words used incorrectly, it seems to me that there were entire sentences or even  paragraphs that are missing. The story did not flow smoothly. I have great respect for those who write and sell their books. This is meant to be constructive feedback, not criticism. I wish this author only the best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> interesting premise </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> Ok so I have never stopped half way through a book yo review it. So far ......ok it but what is completely ticking me off is the fact the writer keeps mess in up the names. The main guys name is "Cade" not cabe or Ethan!!!! Ugggg who was  the proof reader.Ok so I'm finished. I will not be reading book 2. So confused . Next time proof read. Although the Ethan question did get answered but not is to why she kept calling him that. And Stacy one min the author says they live together the next not one min there cousins the next she's not upset when he is blown up and treat  it like a.stranger </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't pay the price </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> *****THIS HAS SPOILERS IN IT******I gave up at about 80% so its not like I didn't give it a good run of it.It was convoluted really that was my biggest complaint. I'm not entirely sure how the happy couple actually hooked up or why they kept hooking up. I'm not really sure about the whole lesbian scene because that just kind of happened out of no where. Kind of like hey I'm not really bi but I'm feeling sad and therefore the next logical thing is to have a one time lesbian encounter with my assistant? Really?I couldn't really keep up with all the various characters walking in and out of the story or what the drama was around them. Mostly because I was spending a lot of my energy again trying to figure out this relationship.And then I was trying to figure out... if her income is in the millions as is claimed in the story... most people would have just hired a nurse or help in general instead of basically spending an entire story on the couch. There were some believability factors in here that I just couldn't get on the bandwagon with. Which I was willing to give up if the personal angst had been more. His angst was alright but by the time they got into her stuff she was already a completely unlikable character to me and I just didn't care about her back story. Maybe I would have if she was the victim of some freakish human trafficking thing where she spent a decade being tortured but her her angst wasn't like that.So that left her as unlikable to me and she didn't redeem herself pretty much at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Didn't finish it </p>
+
+
+<h2> review.date </h2>
+  06-21-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed reading the filthy few is was a very interesting story aboutMorgan who is wealthy and end up in the hospital after being hit by amotorcycle. Morgan and Cade are very likable characters through outthe story. Morgan was a orphan as a child which was really surprisingto me in the story. Overall the story was superb and I would recommendthe book to all of my friends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Filthy Few Iron Disciples MC what a good read </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> I'm a sucker for romance motorcycle novels and this one didn't disappoint me at all! As soon as I started getting into it, I just couldn't to it down. It's a fast read, but full of romance, violence, and really everything you'd find in the world of motorcycle anarchy meets romance and sex.I immediately fell in love with the main characters, Cade and Morgan, and their lives with each other. They are the perfect, yet completely imperfect people for each other, yet still make it work, and thrill us with so many things on every page! They keep you entertained and glued to the book with their fair share of interesting and luring adventures from crazy wild sex to the motorcycle gang to killing and blood.I don't want to give any spoilers but this novel is thoroughly engaging and will keep you hooked from the first page! I highly recommend it and need to say that it is without a doubt one of the best romance motorcycle novels I have read in quite a while. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 5/5, if not more!! </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> I was very happy with the start of the book, the details and how our couple came together.  Sometimes MC books are thrown together with too much fast paced action.  There was plenty of angst in this book, but realness.  Can't wait for the next one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great start to series </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> I Really liked this book because the characters are so memorable.The romance between these 2 people kept me interested from beginning to end. The main characters are Cade,the dangerous motorcycle gang member who kills for sport, and Morgan the wealthy financial consultant who is attracted to Cade because she wants more fire and passion in her corporate world. The love and adventure between these 2 characters is amazing and I could not stop reading this story until I finished it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Really Enjoyed The Filthy Few </p>
+
+
+<h2> review.date </h2>
+  07-15-2014  
+<h2> review.text </h2>
+
+ <p> Unreadable.F. Scott Fitzgerald was a great writer and story plotter,but a lousy speller. That's why he relied on Maxwell Perkins, a man who was incapable of writing lyrical novels but who knew how to shape writing with numerous technical flaws into literary spun gold, to edit his work and make sense of spelling and grammar. It takes a self-aware and humble writer to use editing services when one of his or her chief tools for good writing and communication is horribly broken or missing, just as it takes a brilliant and talented editor to chop, file and burnish otherwise lackluster prose into something readable and even enjoyable.I wish I could write to the author personally, but there's no way to do that. So I'm doing it here. Dear Author, you might or might not be Mrs. Incredible, but even she knows she needs Edna Mode to design her costumes for her. Without someone like Edna (i.e., an editor), you are just a vaguely heroic India Rubber Girl. A grown person with English as a first language  but with extremely poor spelling and grammar skills has no business editing her own book, especially if after doing so it still remains completely unreadable. Take a writing class at the local junior college. Start listening to &#34;Grammar Girl&#34; podcasts and invest in a physical dictionary and thesaurus, and then teach yourself ten random words a week. Start reading classic romance novels to learn plotting, spelling, sentence structure and verb tenses. Heck, buy an ESL book and re-teach yourself English (apparently, you slept through all your grade and middle school classes, and ignored high school altogether).Or, instead of sewing your metaphorical costumes out of shabby fabric in a darkened room while not using a pattern or even a dressmaker's dummy, hire an editor. Why? Because you can't spell, you can't construct a a basic paragraph, and at this point your writing isn't worth giving away, let alone $2.99. Editing is not part of your skill set. Being brave enough to write and self-publish is, and bravery like that deserves to be rewarded. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Advice to the author. </p>
+
+
+<h2> review.date </h2>
+  06-26-2014  
+<h2> review.text </h2>
+
+ <p> The story caught my interest and I'll likely get the sequel, but it is in serious need of some editing and plot synching. Not sure I'm sold on why a big, bad MC president was willing to take on such a flaming hostile snot-***ch rather than strangle her in her sleep, but to each his own. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> kind of a hot mess </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> I have never read a book that the editing and proof reading is so bad ...it's almost ever page.  This is without a doubt the worst book ever.  Sorry that I paid for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> this has to be the worst </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> First it IS a Cliff Hanger even at the bottom of the Book Description it say No Cliff HangerI real did try to get into the story but it has many mistakes in the story, one is Morgan has a brother then later it say she was an only child. Things that keep not making sense say one thing & then another thing later.If that was fixed the going back & forth of different things it would make a great read. I was really looking forward to this & disappointed it ended up this way.This is only my view & others mite find they love it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> While reading The Filthy Few, I noticed that the story plays on the classic opposites attract formula but with a dark, gritty undertone that I loved. Flirting between pleasure and pain, the story is definitely a page-turner with one twist after another. I related to Morgan, wanting to play it safe in life but still being drawn to the mysterious bad boy that usually steps into your life without warning and turns it upside down. I totally had fun exploring her wild, passionate adventure with Cade.There are a couple of details in the story that don't exactly get tied up into a nice little bow but I think that's what adds character to this book and it also leaves room for a killer follow up. All in all, I loved the story and feel good about discovering this intriguing read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dark, sexy read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

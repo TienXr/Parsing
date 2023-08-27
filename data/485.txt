@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00IYPAMGA <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed learning about the life of Jesse James in this book. Although he is seen as an outlaw it also shows the more human side of him. This book will defiantly keep your attention and you will be glad you bought it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Learning About History Is Fun </p>
+
+
+<h2> review.date </h2>
+  04-17-2014  
+<h2> review.text </h2>
+
+ <p> I loved reading this book and I&#8217;m not one who&#8217;s big on history. It was really attention grabbing and gives you a lot of knowledge in a way that sticks with you. The book outlines a lot of bad things done by Jesse James and the gangs that he was in, but then mentions that he was sometimes seen as a real life Robin Hood in a time of war. It gives his life story, from his birth to when he disappeared from the maps under a false name and up until the deaths of him and his brother, Frank. I&#8217;d definitely recommend this book to those who are in middle school (6-8th grade) and above because it does cover some harsh subjects briefly, such as rape and murder. Jesse and Frank James were born in the harsh times of the civil war, and a lot of their lives were spent fighting to survive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short, but informative. Opens doors to more knowledge. </p>
+
+
+<h2> review.date </h2>
+  04-15-2014  
+<h2> review.text </h2>
+
+ <p> Yes, this is very short - but - what content there was I found to be concise and factual.  Interesting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short But Interesting </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> I decided to read this book in honor of my grandfather, who I lost many years ago. He was always a die-hard fan of Jesse James. I remember, as a child, that whenever I was unable to complete a task, my Papa would come to my aid saying, &#8220;Let Jesse rob this train&#8221;. I knew that this meant he was Jesse, who was bigger and braver than me, and that he would finish the job for me.  I ran across this book on Amazon and I decided to finally see what all the fuss was about, all these years later. I was surprised to learn that Jesse James was not a product of poverty and poor parenting. Rather, he came from an affluent family and was well-educated. Actually, there were a lot of facts that I was surprised to learn about Jesse James. Larry Berg is a thoughtful writer. He takes the reader on a trip back to the Wild West, allowing us a glimpse into the world of Jesse James. Rich in detail, &#8220;Jesse James: The Story of the Famous American Outlaw in the Wild West Revealed&#8221;, captivates its reader. This book created such a vivid picture in my mind, that I felt I was a part of all the action. In short, this book a good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Interesting </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> The book gives a quick overview of Jesse James life, and also includes some quotes from his brother, who was his partner-in-crime.  It puts into context the time in which he lived, and some of the reasons he became an outlaw. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quick overview of Jesse James </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> At the end of the semester while my professor told us there might be some questions in the exam on famous American outlaw heroes, I get confused whose biography should I read. Jesse James was the name which came to my mind first. I just grabbed Larry Berg's this biography written on this American Robin Hood. Though this biography is the shorter one, it reveals the myths about Jesse and gets to the core of what he actually raised in, from where he came, and what he became. The book is interesting and informative as well. It is also written in easy language, which makes it convenient for any non-native readers. From the beginning to the end, I never lost my attention as it is flawless. This biography also focuses on the life and the eras of the James family with major highlighting on Jesse James. This book takes me on a short trip from birth until death of Jesse James; I really surprised to read how he grew from, but a mere cowboy into a full-fledged rebel with his own gang of robbers with no thought of taking a life to spare tire.Instead of being only a collation of realities and conjectures about someone who lived underground for his entire life, this beautifully written autobiography is a glance indirectly of how the United States went through the Civil War.I am really enthralled to know that how significant Jesse James's role was in the politics of that time.  Might in my exam I would find no questions about this Wild West outlaw hero, but I really happy to read such a remarkable biography on Jesse James. I would certainly recommend it to my friends and classmates. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Truly a Great Read!! Highly Recommended!! </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> Having spent a good deal of childhood living in the American West, Jesse James was a very familiar name to me, and like many Westerners, he was &#8220;known&#8221; as a bit of a rough and tumble man with a reputation of a good &#8220;bad boy&#8221;.  Since I never bothered to learn more about the man behind the myth, I was really surprised at the stark tragedy of his life and the inglorious way he died.  He was not the &#8220;Robin Hood of the West&#8221; I thought him to be with a stubborn independent streak known to most who live out West.  As you read this book for yourself, you might be surprised to discover the depths of destruction that eventually ruined the life of Jesse James probably stemmed from the various outcomes of the Civil War.  There was next to nothing worth &#8220;nostalgia&#8221; in the later years of James&#8217; life.  Instead of the rugged outlaw and bandit who could secretly be envied, this book gives another true story how crime really does not pay whether past, present, or future &#8211; a life of crime is no way to live. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Truths about an infamous outlaw of the past... </p>
+
+
+<h2> review.date </h2>
+  04-14-2014  
+<h2> review.text </h2>
+
+ <p> I have seen more in depth reporting in high school papers.  Grammatical errors abound.  Another read through would have been a good idea.  I can get this same information from Wiki pedia.  Since this was a free book I can say that the price was right. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jesse James..... </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> Probably one of the greatest, most informative book about Jesse James. I've read a few books about Jesse James, and this book had made it to my top 3. I love how the author brought the readers back to the Wild West. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quite interesting </p>
+
+
+<h2> review.date </h2>
+  04-17-2014  
+<h2> review.text </h2>
+
+ <p> This was interesting, but very short. I would have liked more information. There were several grammatical errors. Pictures would have been nice too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jesse James </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> I had little to 0 knowledge  about Jesse James before reading this book. I now have a good understanding of this man's life and epic events that took place </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Ole' Jesse </p>
+
+
+<h2> review.date </h2>
+  04-18-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed reading this book. I would recommend this book to anyone who has any interest in action, gun fights, robberies, or cowboys. This book kept me drawn in throughout the whole story. If you like historical books filled with minutiae about the Civil War, this is the book for you. Jesse James is definitely a five star book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very revealing look at one of the most famous people of the American West </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

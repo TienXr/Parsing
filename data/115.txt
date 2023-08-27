@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B008B061SQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> The case fits perfectly--snug but not where you're worried about leaving marks. The keyboard cover takes a bit of getting used to but I like it a lot as well, it also reduces keyboard clicking noise which I find nice, anything to quiet down the computer.I read through the negative reviews and it's obvious people just saw macbook pro 13" and ordered it then took it out on the product when it didn't fit because it's made for the late 2012 model RETINA macbook pros, not the previous model with the disc drive and ethernet port etc.Make sure its for the model you have, and if so THIS IS THE CASE YOU WANT! Save so much from a $55-60 speck case which would be comparable, and that doesn't even come with the keyboard slip. Cheers, Kuzy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple excellence </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> Ok, so the case did not come as I had expected. ( i thought the cover would be SEMI-SHEER, but it is not) When the MacBook RETINA screen is closed, the apple logo disappears and what you get is just this solid but GORGEOUS Tiffany blue color. I held my Tiffany's box on top of the cover, and it was the exact color! HOWEVER when the laptop is open, the apple logo will shine through. Out of 10, ten being how bright the logo shines WITHOUT the cover, in comparison, I'd probably say that it is a 6-7ish.  It's got a VERY comfortable smoooth rubber feel to it, although I can imagine that the rubber would get dirty pretty easily and would be hard to wipe off. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NEAR PERFECT!! </p>
+
+
+<h2> review.date </h2>
+  05-02-2013  
+<h2> review.text </h2>
+
+ <p> This case makes my gorgeous MacBook look like it came from Tiffany's.  It fits the laptop perfectly.  I really like the accompanying keyboard cover as well, which makes typing quiet and soft on the fingers.  I thought I'd only use the cover for the keyboard occasionally but find I never want to take it off. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome case </p>
+
+
+<h2> review.date </h2>
+  05-15-2013  
+<h2> review.text </h2>
+
+ <p> It fits.  Snap it on and you are done.  Comes with drop on keyboard cover, which works well. Pleasing color. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It fits... </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> Although I had to return it (because I had to return my Mac Pro),I really liked its color (The pink one was really cute)and I liked how it was very sturdy and feels nice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty color. Sturdy. </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> Love the shell, haven't cleaned it as yet so don't know how it will handle that or is it easy to do but I love it, as for the keyboard cover, it takes time getting use to as am still not comfortable with it but it works. Great product. Thanks. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice. </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> The Case is a great fit and the non-slip rubberized finish means you never feel like it will slip in your hand. None f the interfaces are blocked by this design. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits great - Nice feel </p>
+
+
+<h2> review.date </h2>
+  01-01-2013  
+<h2> review.text </h2>
+
+ <p> From the moment it arrived to the ease of snapping the case on, it's an incredible investment in protecting my mac for such a low cost... Thanks Kuzy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Even Better Than I Expected! </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> I have started using this awesome case immediately after i can touch my Macbook Pro Retina Display. It is totally fit with my Mac and look awesome. For those who are using Mac Book Retina Display, i guess you would love this case as i do right now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case </p>
+
+
+<h2> review.date </h2>
+  05-15-2013  
+<h2> review.text </h2>
+
+ <p> This product was exactly what I ordered, came quickly and brand new. Color was exactly what I expected. Would definitely recommend and order again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly what I ordered, true to color </p>
+
+
+<h2> review.date </h2>
+  04-13-2013  
+<h2> review.text </h2>
+
+ <p> The hard cover fits the 13" MacBook Pro very well. The silicone keyboard cover fits OK but made the keys a lot tougher to be pressed down. If you type fast you will miss ~1/3 of the keys in your typing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cover fits well......Keyboard cover NG </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

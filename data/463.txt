@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00FGDAWUY <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> a great read slump is my boy I just know it's fin to go really go down in part 3 with all the twists and turns </p>
+
+
+<h2> review.summary </h2>
+
+ <p> oaf turner </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> What a good read can't wait to read the others books gets going to be a lot of drama  with the five little knuckle heads. Slump got his hands full with Nikki </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Drama drama </p>
+
+
+<h2> review.date </h2>
+  03-04-2014  
+<h2> review.text </h2>
+
+ <p> I like the story line of this book I hate that it's so short.  I would rather it be longer an cost a little more than, shorter an cost less. All in all I like the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> I read this book in less than one day, incredible read, great page turner and you can't stop reading here Slump 3 is just as good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> It only adds to the first one and keeps you wanting more. I can't wait to see how it all ends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the saga continues </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> Very interesting,don't stop now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> The story line is amazing, but there are so many errors, missing words, and misspelled words.  On one page the paragraph was copied twice....come on! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Please use an editor.... </p>
+
+
+<h2> review.date </h2>
+  06-29-2014  
+<h2> review.text </h2>
+
+ <p> Awesome book!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVE IT!!! </p>
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> I loved this series i read all 4 parts.  I dont really like all these pieces of books but i liked all the drama. I keep looking for more from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Hood Book </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> See my last review for book four. Although the first one was just okay, this is actually better. The book truly don't get good until the third one. There will be the same language as well as typographical errors. This is also the most graphic of the four but it is only a short excerpt. You can actually skip it once you get to that part and not miss anything as far as the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it gets much better </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> Pretty good just too many mistakes had to read over and over. Then start new paragraph become finishing one who proof read this?? But am still going to read 3 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  11-04-2013  
+<h2> review.text </h2>
+
+ <p> Great continuation of part 1 as Slump and the gang continue to dig deeper into the game. The loyalty between Slump, Tee and Stone is unbreakable and close as blood brothers could be.  Ready for part 3 to see what's in store. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> interesting part 2 </p>
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> i really enjoyed part 2 it picked up from part one and i will support this author  in the future </p>
+
+
+<h2> review.summary </h2>
+
+ <p> slupmed is tha men </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

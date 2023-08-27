@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B002B8NLS2 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> This is a very nice TV stand. It is sturdy made well.  It was perfect for my daughter who has 3 game systems so it really helps keeping her things organized. The price was pretty reasonable compared to other TV stands I saw. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice!! </p>
+
+
+<h2> review.date </h2>
+  10-23-2012  
+<h2> review.text </h2>
+
+ <p> I wanted to purchase a different TV table mount(basically the more expensive Omni options like 503FP)but I had the option of getting something else along with my order after saving 170 dollars or so from switching up on my bookshelf speaker choices for my new updated home theater system. I didn't quite have the 200 dollars for any of the center/2 front speakers I'll be buying in the coming weeks so I decided to down grade my tv table mount choice to this mount. Let me tell you, it's all I needed. Fantastic and stylish, this stand is truly a pleasure to own. 47" Vizio TV was easy to install. Cables are well hidden. Very very sturdy. TV sits at a perfect height for when my new Infinity center channel comes in, sitting on the top shelf just under the TV, not to mention it's perfect for my viewing angle tastes.I could go on praising this stand but I'll spare people. My only complaint is that it has no wheels for the feet to make access to the back a little easier but that is far from a major con. It slid around fairly easy on my carpet. Overall I am incredibly happy with this stand and I can't suggest it enough: Only bother buying the higher priced Omni stands if you need them. Don't "want" them and throw your money away. This one gets the job done like a charm and like I said, the viewing angle is perfect from a couch perspective which is far more important imho than mo' shelf space for stuff that at least the 503FP provides, which was my original choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Superb TV mount/stand </p>
+
+
+<h2> review.date </h2>
+  05-13-2011  
+<h2> review.text </h2>
+
+ <p> I'll admit that the instructions through me for a loop at first, then I realized they're intentions are to have you put it together upside down (for ease, I guess). Could've been better instructions, but alas it's the product we're more concerned about. By the way, it's got a ton of parts...I find the Omnimount to be a very good value and a pretty nice stand. I've had no problems with it so far. Love the way the tv can swivel, and the fact that it has 3 shelves. They are glass so I wouldn't put really heavy items on the shelves, but it appears to be a fairly durable unit.The size is good, too. Not too big and I'm using this in a bedroom so it is a decent size for a corner of the room.It's a good alternative to wall mount...I simply didn't want to have another tv in my home mounted on my wall.I'd definitely buy it again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Alternate stand for wall mount is a good buy </p>
+
+
+<h2> review.date </h2>
+  10-11-2013  
+<h2> review.text </h2>
+
+ <p> Well built tv stand.  I have a 55&#34; smart tv and this stand holds it up well.  I used option B and put the back part of the stand on so that the tv is tied in with the stand.  This way, in case I get a dog here in the future, he won't be able to knock the tv off of the stand. Thick heavy glass and well built parts!  Just wish the instructions were a little bit easier to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Instructions are hard to figure out. </p>
+
+
+<h2> review.date </h2>
+  10-22-2013  
+<h2> review.text </h2>
+
+ <p> This fit the bill exactly for what I was looking for. Nice looking unit.  Because of its simple design, it somewhat &#34;disappears&#34; when you put your stereo components on it, which is just fine.  Feels sturdy, like it will last. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Elegant, simple, easy to assemble </p>
+
+
+<h2> review.date </h2>
+  06-02-2010  
+<h2> review.text </h2>
+
+ <p> I have this stand for about a month now, and cannot be happier. Unit is well build, sturdy, can hold my 32" Sony Bravia with no problem. Very easy to assemble. Cords hide well inside of the mounting tube. Also, a huge plus for the TV bracket that can be mounted separately, that by itself is $50 piece. Stand is black, therefor it collect a lot of dust. The tilt on the bracket has a very wide angle (i was surprised how wide it actually swings). When delivered it was packaged well with no pieces missing or anything broken. Its small so fits very well in small spaces (also saving space by getting rid if the tv stand etc). Overall, I am very satisfied with the purchase and will recommend this product to anyone who is looking for a small, well built stand with huge variety of options. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> well built inexpensive product </p>
+
+
+<h2> review.date </h2>
+  10-15-2011  
+<h2> review.text </h2>
+
+ <p> This stand was fairly easy to assemble with easy to follow instructions. The bolts that attach the bracket to the upright had to be tightened with a better wrench than what came with the stand otherwise it seems a little wobbly. I mounted a 42" plasma with ease and most of the wires are out of sight. If you are looking for a stand that does not flash furniture, this is the stand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sturdy, nice loking, easy to assemble,  value for the money </p>
+
+
+<h2> review.date </h2>
+  12-23-2012  
+<h2> review.text </h2>
+
+ <p> I was a little worried about the glass shelves when I received this package because it is heavy and the box was banged up a bit. Upon opening it everything was well packed and safe though. When you take everything out, it can be a little intimidating but after I got started things went very smoothly. Getting everything done took me about an hour alone.The finished product looks great and fits very well in a little nook I have for the TV in a bedroom. It is appears to be very sturdy as well. My only two concerns are that the swivel mount could have used two side openings for the guide rather than the one in the back. It just seems more logical to me to have the TV anchored on the swivel mount by two axis points rather than one in the back. The other concern is with the packaging of the screws, while it was simple enough for me to sort through it all, but I think that the certain screws, washers and nuts could have been packaged in the same bag as to save me time from opening three different baggies and matching them up. Just an idea.The cable management openings in the back are great and keeps everything looking neat.Very happy with this purchase so far! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stylish and easy to set up! </p>
+
+
+<h2> review.date </h2>
+  05-22-2010  
+<h2> review.text </h2>
+
+ <p> The first one arrived with the glass shelves shattered. They quickly shipped a replacement with no hassles, so was very satisfied with that aspect (just disappointed I had to wait a while again). Assembly was a bit of a challenge, but it's worth the effort and a good value. Placed in kids game room. It has more room than we needed for DVR and XBox, but the extra space looks nice with things not bunched together. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bit difficult to assemble, but all in all very happy </p>
+
+
+<h2> review.date </h2>
+  07-21-2010  
+<h2> review.text </h2>
+
+ <p> Just what I wanted. Thought it was a bit higher. For the price it's really good quality. From unpacking Took 30-45 minutes for full assembly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Omnimount Modena 47FP Video Table </p>
+
+
+<h2> review.date </h2>
+  12-31-2013  
+<h2> review.text </h2>
+
+ <p> I spent a few days browsing the web for the perfect corner tv stand based on my needs. My primary concerns were size and a suitable viewing height. The stand is very compact at 27" wide (TV 32") and the TV sits at eye-level from my chair and bed laying down and seated. I am very happy with my purchase! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect height for the bedroom! </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> The moment the box arrives you know it's some pice of kit due to its weight. At 70lbs this stand is 20lbs more than my 47&#34; LCD tv. Unpacking the pieces from their well protected box yields fear and apprehension caused by the huge amount of screws, washers and bits. Thankfully, it's not nearly as scary as the contents suggest and if you have assembled a stand like this before then you should have it together completely in thirty minutes to an hour.Both shelves are black tempered glass, no particle board here, and the pieces go together like butter. Sleek and easy to understand, the wordless directions are excellent due to the fact that every single bit down, to the washers, are clearly numbered. I had no issues putting it together and it's nice to note that every tool you need is included even a simple socket wrench and several sizes of Allen keys. You'll increase your toolbox inventory by merely buying this stand!The stand can be mounted in three ways; as a simple stand which your tv can sit on, as a solo floor mount (the way I put it together) and as a separate stand and wall mount. Each is explained simply and clearly and it would be very easy to undo the unit if you later changed your mind. As a dedicated floor stand your tv can by rotated about 45 degrees without tools needed afterwards or it can be locked off at a specific angle. It also comes with a proactive safety line to secure it to the wall - handy if you have pets or kids, or both.Mounting the tv railing is done by attaching the rails to the back of the tv using the extensive variety of spacers and screw sizes then lowering the tv on the back stand and locking off. This means this is a truly one man job even down to installing the tv on the stand itself, nice touch.Do make a note of the dimensions of both the stand AND the height if you're going for a floor mount. The height is not adjustable and the tv sits on the lower end of vertical position, the height of which will depend on the size of your tv itself.Great stand, great price, easy to put together and cool looks. Nice!For what it is worth, I purchased the 47FP in case this review gets lumped in with other sizes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice stand </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004ZEDJVE <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-08-2012  
+<h2> review.text </h2>
+
+ <p> THIS MOVIE IS AWESOME. IT SHOWS THE LIFE STYLE OF MALE STRIPPERS. FINALLY A MOVIE THAT SHOWS MEN INSTEAD OF WOMEN. YAY! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OMG </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> I found that the plot was extremely interesting. I thought that the acting was very good and it gave me some food for thought </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> This movie is misleading because I thought it was going to be about one thing and it was about something completely different. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not what I thought </p>
+
+
+<h2> review.date </h2>
+  05-18-2013  
+<h2> review.text </h2>
+
+ <p> This was a B movie that again gave a reality point of view.. the Players Club in reverse!!! which I think was a good idea..If you ever been to a male review and paid attention you could recognize the charters </p>
+
+
+<h2> review.summary </h2>
+
+ <p> True </p>
+
+
+<h2> review.date </h2>
+  12-08-2011  
+<h2> review.text </h2>
+
+ <p> I like this movie because it put a different twist on this hustle, long as your not killing anyone make your living the best way you can. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shake </p>
+
+
+<h2> review.date </h2>
+  03-15-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this once and it didn't play.  said no audio or image.  So I sent for a replacement.  Same thing.  Now I see that there are a few reviews saying the same thing.  They must have sent a bad batch out and Amazon should stop offering this for sale. Shame on the company for having such a bum product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rip-Off, doesn't play. </p>
+
+
+<h2> review.date </h2>
+  03-06-2012  
+<h2> review.text </h2>
+
+ <p> OMG ...GIRLS YOU WILL LOVE THIS DVD AND THE MALE DANCERS. THE MAIN CHARACTER WHO TURNS STRIPPER IS GREAT AND HAS "GREAT" MOVES." ONCE HE GETS STARTED, YOU CAN'T TAKE YOUR EYES OFF OF HIM. LADIES SIT BACK AND ENJOY!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SHAKE </p>
+
+
+<h2> review.date </h2>
+  05-14-2013  
+<h2> review.text </h2>
+
+ <p> This movie I was never able to view because the dvd was not sent in the correct geographic screening for me to see ...I really wanted to view it but the seller didnt seem to care much so my monies were just refunded ...OH WELL </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible experience </p>
+
+
+<h2> review.date </h2>
+  05-05-2012  
+<h2> review.text </h2>
+
+ <p> Unlike many independent black DVDs out there that are a waste of film and are clearly being thrown together without any real thought put into them, this is a good film & one to watch.  The script is good, the song track is good, of course Clifton Powell the veteran actor is good as well as Crystale Wilson from the Player's Club, and the other unknown but up & coming actors for the most part are also pretty good.  Maybe 2 or 3 of them can use a few more acting classes but they did okay.  As an author who knows a great deal about writing, what I like that Deidre did in this movie besides writing a good script & taking out time to find people who can actually act is that she gave reference & credit to the movie, Player's Club so she didn't come off as a copycat because this movie is similar to the Player's Club from the male stripper perspective rather than the female perspective.  Also, the story line does follow suit with 2 of the strippers using stripping as a means to make money to better their lives in the future just as the stripper character Diamond did in Player's Club. In this movie credit was also given for the name Diamond used in the Player's Club because one of the male strippers stated to another male stripper that the name Diamond used in the Player's Club is the name he should use as a metaphor to show he's using his jewels to sharpen his mind since he is in med school. In closing, the movie was good and Deidre ensured that she gave credit where credit is due and to me that shows she has integrity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One To Watch ! </p>
+
+
+<h2> review.date </h2>
+  05-17-2012  
+<h2> review.text </h2>
+
+ <p> There are absolutely no redeeming aesthetic qualities in "Shake", if we leave aside the exceptionally good-looking, hard-bodied, virile black men who parade across the screen in various stages of undress. It's still an interesting cultural document on several levels. One is how it demonstrates the process by which the dominate thread in Hip Hop has declined from its early incarnations as fun and as spontaneous forms of social critique and protest by and for young people of color in the cities, into the degenerate mainstay of the culture industries that sustain consumer capitalism and its values among the young of all backgrounds today. "Shake" shares this characteristic with much else, however.What's unique about "Shake" is what is less obvious about it - there's a powerful undercurrent of DL homoeroticism here that's directed toward same-sex oriented black men. This eroticism is disguised by the super-imposition of apparent heterosexuality in the many scenes of near-naked, undulating, highly sexualized and objectified black men. At first glance this movie seems directed toward women, especially black women. Black women are the sex (love?) objects and fans of the male dancers who are the stars and are doting supporters who stand by their men. Beneath the apparent, these female presences serve as excuses, perhaps pretenses that allow the viewer to hone in on the men's bodies, sexuality and sexual performances. They are props to black male sensuality, not as love-interests as in movies that are really geared to female audiences. The context of the film is the world of black male strippers in Atlanta, a world that does exist. Yet anyone even vaguely familiar with this scene and related ones in other cities in black America will be familiar with the heavy patronage from black men who like men in this world. Its particular idioms are substantially different from the world of gay white men, and others who identify with the culture they have created, that now defines most conceptions of male same-sex eroticism in America.This is why the homoeroticism of "Shake" is DL. The issue of Down Low black men cannot be properly examined here. Suffice to say that though it includes those who are closeted and conflicted about their sexuality, it also includes those who are not but who are put off by the feminized, upper-middle class and overwhelmingly white public face of so-called gay culture as it currently exists. Think "Glee", "Will and Grace," "Sex in the City," etc. The specific idioms of Black masculinity is the appeal of this alternative, for which there is no place in gay culture as it now exists. Thus the avoidance of the term "gay" among some black men who will freely acknowledge that other men are their primary object of desire.  "Shake" is an exceptionally bad movie, but even a bad movie can be an interesting cultural document once decoded. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bad Movie -- Good Cultural Document </p>
+
+
+<h2> review.date </h2>
+  12-21-2012  
+<h2> review.text </h2>
+
+ <p> Was good a little long on the story line but entertaining.  I can say this movie too i thought would get deeper into the issues of each character. Good eye candy if that what your looking for. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shake </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> this movie was a pretty good movie.  it had some moments that didn't really relate to the story line. but over all good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> hot hot hot </p>
+
+
+<h2> review.date </h2>
+  11-09-2011  
+<h2> review.text </h2>
+
+ <p> This movie was super good n those fine ass booty shaker men ah let me tell u. That thing started working at the strip club n wow thats all I have to say! Over all the movie is great but sad towards the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ATL- WARNING!!! </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> I bit sketchy,but good.slow to follow.Written by a woman, I wonder if a male could've told this story? Interesting flip on a industry that's primarily been about women.Liked it! Sistahs check it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> hmm..... </p>
+
+
+<h2> review.date </h2>
+  03-15-2012  
+<h2> review.text </h2>
+
+ <p> After reading all the reviews, I purchased this DVD and was looking forward to seeing it. The day it arrived I popped it in the DVD player and nothing, I tried another DVD player  and nothing happened. I thought it was a bad DVD, so I reported it and asked for a replacement. I was ambivalent about the second dvd and I was right to be because it did not work either, not in either DVD player or the laptop. A friend advised me it was a homemade DVD that someone slapped some artwork on to give it the appearance of being authentic. I was and am very disappointed. I am sending them both back. Odd how the disclaimer amazon gives if you are having a problem with the DVD and what to do about it, authentic DVD's don't come with this disclaimer. Amazon save your customers the trouble and stop selling this non-playing dvd. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bootleg DVD won't play </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

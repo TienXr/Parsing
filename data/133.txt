@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00BEJU5WY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> I should have just ordered a regular screen protector. The instructions are to spray a thin layer of the solution on the product and then apply the protector. What they fail to tell you is while you're trying to apply the protector, every part of it is suctioning to the screen making you have to pull it off 500 times because its screwing up the position it has to be in to be straight. Then you have to let the screen completely dry and spray again before attempting again. It's ridiculous. Not only do I have the solution streaks under the protector, but bubbles. It looks terrible. Never again. God knows what it's going to take to get it off. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Never again </p>
+
+
+<h2> review.date </h2>
+  03-16-2013  
+<h2> review.text </h2>
+
+ <p> I applied this skin last night to my Asus q200e for its touch screen. It fits perfectly, and the instructions on the website make it easy to install. The case comes with a protective installation solution, a dust free cloth, a rubbery hard card to press out bubbles. So far it looks good, and bubbles do disappear after a day or so. Screen sensitivity is still the same. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great skin </p>
+
+
+<h2> review.date </h2>
+  06-11-2013  
+<h2> review.text </h2>
+
+ <p> After applying the protector the computer didn't start, also the screen started to shake...The screen has an additional hole next to the one for the camera, why?, any way.... not recommended </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible </p>
+
+
+<h2> review.date </h2>
+  04-01-2013  
+<h2> review.text </h2>
+
+ <p> This product installs &#34;wet,&#34; so it is easy to make sure the product is correctly aligned and, most importantly, has NO bubbles for you to look at for the lift of your device.  I am a very satisfied customer and will look for this brand when I next need a screen protector. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Snap to install - with no bubbles </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> I have only installed the protector a few weeks ago, but no problems so far. I did go watch the video on U-Tube. I found that to be helpful and I had no issues installing the protector. Of course now the real test begins. How does it hold up over time? The real reason I bought this was due to the fingerprints on the screen. It helps a lot, but does not eliminate all fingerprints. It does seem to reduce the sensitivity of the touchscreen, but not enough for it to bother me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice fit and Good Instructions </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> I followed the video instruction.  I bought this specific for my ASUS X202E and had high expectation according to the high rating.  The size is fine but doesn't exactly fit the screen.  At least, you don't have to trim it.  I was happy with that.  But they said it should be bubble free.  NO!!! Not at all.  They might tell you that you did not spray the liquid evenly.  It was hard to spray evenly.  I would not recommend this to my friends.  I was mislead by all the good comments.  C'mon!  NOT easy to apply & NOT matte finish.  My screen still looks very glossy.  I bought "GreatShield Anti-Glare (Matte) Clear Screen Protector Film for Samsung Series 7 Slate 11.6" Tablet (3 Pack)" instead.  Only for 11 dollars, I got 3 packs.  It was so easy to apply.  The matte finish is wonderful.  I highly recommend you to buy "GreatShield Anti-Glare (Matte) Clear Screen Protector Film for Samsung Series 7 Slate 11.6" Tablet (3 Pack)".  By the way, you do have to trim it to fit onto the screen.  It is very easy to do.  I just used regular scissor to trim it.  I like it much better than the Skinomi one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It didn't work for me! Why so many good comments??? </p>
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> As expected is right size for the screen.  Product shipped well and not hard to apply.  I did have some bubbles at first but was able to fix most. Still have a couple but they do not affect screen visibility. Useful product... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very helpful on screen </p>
+
+
+<h2> review.date </h2>
+  10-01-2013  
+<h2> review.text </h2>
+
+ <p> Edit/Update: An unexpected (and in a way, unwelcome) bonus: I dropped by X202E getting it out of the case and it hit on the corner, breaking the screen (upper left, with one crack diagonally across to the bottom near the right). However, the Skniomi protector held everything in place, and with some patience, I was able to get to the Device Manager and disable the touch-screen driver. Once I got that shut down, I could use a mouse to drive the computer to make backups and delete/wipe sensitive data before sending the computer off the Asus (thank goodness for the one-year Accidental Damage Plan Asus coverage). Anyway, while doing this, the screen protector held the shattered screen together, and, in a straight-on view, I couldn't even see the cracks.So, if you are unfortunate enough to break the glass screen, the Skniomi could help save the day. YMMV, of course, depending on the nature of the nature of the damage.Original Review:This review is a cross-post because I purchased three Skinomi products at the same time.I normally purchase Zagg products because I can get them at a retail store, so I can get them when I need them. Yet for my three most recent tech purchases (Sero 7 Pro, Asus X202E, Motorola Droid MAXX [XT1080M]) Zagg was nowhere to be found.I had read good stuff about Skinomi both here and elsewhere, so I purchased all three. All of them came on time.The Skniomi products are "wet" application. Skinomi has good application instructions, and a YouTube video to show you how they want it applied. The "kit" comes with everything you need: screen protector, wet spray, cloth, and a squeegee.Somewhat paradoxically, the smallest of the three (for the MAXX XT080M) as the most difficult to get positioned right, taking three full attempts (two removal and re-wetting).Skinomi recommends turning off the device and if possible, removing the battery (not possible with any of my three devices). I would recommend you also either have a small cloth towel handy, or some paper towels, to soak up what you squeeze out from under the protector. After application, Skinomi wants you to wait several hours before turning on the device. I will say that the bigger the screen, the longer it takes to dry out to a usable state.For about 12-24 hours after installation, your screen won't look right. It will seem pixellated. What you are seeing is the liquid underneath, and as it goes away, the screen will return to its original appearance. Within a day to a few days (again, depending on the size) you won't even know you have a screen protector on there.If you are used to Zagg products, the Skinomi have less "drag" feeling to them. On my Sero 7, there is one small area that didn't seem to ever sit down "right," but it is on the black bezel part of the screen, so it doesn't affect the view. Maybe I have a stray piece of dust under there. There is also one similar area on the Asus screen, but it is up high, way off center, and seems to be getting smaller. The MAXX protector is perfect.I was especially interested in the protector for the Asus because over the years I have had several laptops (mostly without touch screens) that wound up with keyboard impression marks on the screen. I have had a couple of touch screens at work that never seem to stay clean. I generally don't use the touchscreen as a "mouse," but I want to protect the screen in any case.My only "con" is that I would like for Skinomi to have a "matte" option for the laptop, because these high-gloss screens are annoying under some kinds of light.In short, Skniomi has products that are a good value, and do the job they are intended to do. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good protector - would like a matte option for laptops </p>
+
+
+<h2> review.date </h2>
+  03-04-2014  
+<h2> review.text </h2>
+
+ <p> Stay away from screen protectors that require a spray to apply, I ruined my screen with this one and water went through. I realize that it was my fault for not applying the spray properly but why take the risk? These products aren't designed to be exposed to liquids. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ruined my screen with the liquid spray </p>
+
+
+<h2> review.date </h2>
+  07-18-2013  
+<h2> review.text </h2>
+
+ <p> I got this to protect my Asus VivoBook. What I can tell you is that the application process is great. You don't need to get it right the first time. There is a spray pen that it comes with. You spray your screen, the screen protector, and your finger tips. This makes it so that the adhesive doesn't stick until you want it to. You just move it until the protector is where you want it and let it dry for an hour or so. It is so hard to get it right the first time and I have ruined many screen protectors by not getting it perfect the first application. It is just the right amount of thickness to so that it is perfectly clear yet will protect from scratches and dirt. Since my laptop is a touchscreen this screen protector was a no brainer. I don't want dirty finger prints all over my screen. It comes with a microfiber cloth and a squeegee type thing for the bubbles. I would highly recommend this brand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great frustration free application and protection </p>
+
+
+<h2> review.date </h2>
+  02-14-2014  
+<h2> review.text </h2>
+
+ <p> Tooooooooooooooooooo muchhhhhhhhh of  glareeeeeeeeeeee, I ammmmmmmmmm blindddddddddd nowwwwww! I hated it so much, it is too tough as well, not that I don't like though shiled, but it feels weird. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not for me </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00GAOIZBG <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-14-2013  
+<h2> review.text </h2>
+
+ <p> &#34;White Belt&#34; is an excellent short story that deserves notice. The author has a wicked sense of humor that carries into the sarcastic narrative voice of our heroine, Dani. She encounters a zombie outbreak off a Maryland interstate rest area one day while travelling to the Jay-Z concert with her mooch of a boyfriend. As the zombies take over with the typical blood and carnage, Dani's young college student perspective puts it all in a lens of pop culture references, fashion, and snarky t-shirt statements.I truly enjoyed this author's writing style, and unlike many self-publications, the story was free from editorial mistakes. Kudos for a job well done - I look forward to more of Dani's story! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great zombie story! </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> i have to first say that i got this book from the author in exchnge for an honest review..this was a very quick read, and it has a little bit of horror and romance. for this being only 24 pages you have to read this!this book is about a couple who are taking a road trip to see a Jay Z concert. once they stop at a rest stop to quickly use the restroom everything will change forever...that is right, ZOMBIES!! she will find out how much her boyfriend loves her when he takes off and she cant find him, will a innocent bystander take her under their wing or will she be doomed to be one of them :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a great zombie story </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> It's always nice to find a really great zombie story like White Belt, especially when bad ones seem to be running amok these days. What's even nicer about White Belt is how often you find yourself laughing out loud at the writer's wicked sense of humor. It's a very visual story, too, with a writing style that makes everything that happens seem perfectly natural and relatable. Shoe function, for instance, is always an important issue to consider while fleeing eaters (how zombies are referred to in White Belt) with as much ease as possible. And, sadly, some of us can probably imagine our significant other "speeding down the highway, probably still hoping to make Jay Z" in time, no matter that all Hell is breaking loose.There are so many great lines in White Belt. "He looked like he had been waiting for this day his whole life" immediately made me think of some of my friends who get just a little too excited when imagining the possibility of the zombie apocalypse actually happening some day. My absolute favorite, though, is what Dani is thinking as everything kicks off in the beginning: "For a split second all I could think of was what an awesome photo it would make on Instagram. Caption: About to die, ya'll."White Belt is definitely a Kindle keeper, suspenseful as well as funny, the kind of title that you don't immediately take off your ereader after finishing because you know you'll want to read it again! I'm so glad to see from the author's Amazon page that more of her writing is on its way in the near future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Every zombie apocalypse should have this sense of humor! </p>
+
+
+<h2> review.date </h2>
+  07-13-2014  
+<h2> review.text </h2>
+
+ <p> I NEVER read Zombie books but this woman can write. Going to read the next book.  Awesome. Me and Zombies? Who'd have thought it? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Zombies </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> I just finished reading a different zombie book, and then decided to start this short read. I knew it was about zombies, but I didn't realize it would also be funny. Reading the social media accounts was a great touch and I really liked the character Dennis, poor feller! And finally, zombies that aren't killed by a wound to the head. I wonder if we'll find out how they can be killed in the next story's installment?The opening scene was a bit jumbled, but once I read a little further, it helped clear the scenario up.I give White Belt five stars, a fun quick spunky read!~BookLOADS FUN </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun Spunky Read </p>
+
+
+<h2> review.date </h2>
+  10-31-2013  
+<h2> review.text </h2>
+
+ <p> In full disclosure, I helped clean up the final cover for this short story. But I did so because I absolutely love McCray's writing. This short story is fast paced, frightening, and well-written. By it's end you are cheering for Dani and wanting more. So much more! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Four Stars only because I wanted more </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> I received a copy of this book in exchange for an honest review.I don't usually read shorts, only because I always want more, more, more.  This was a little taste of a very different main character in a zombie story.  Usually I meet a strong leader type character when I'm reading about a zombie apocalypse. This time I met a girl who just wanted to have a fun dreamy night with her boyfriend at a Jay Z concert.  She and I were both disappointed that she was not the kick ass hero that she thought she would be in a situation like this.  Good thing she has a sense of humor!  It didn't grab me like I wanted it to, but I have to admit that I want to know what's going to happen to Dani. I'm hoping her boyfriend gets bitten and she loses the wedges. I guess that means I'll be buying the next story ;) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> She's no karate kid </p>
+
+
+<h2> review.date </h2>
+  11-21-2013  
+<h2> review.text </h2>
+
+ <p> This was extremely well written. Faye made me laugh and scared the $&@& out of me as well. Good job. I appreciated the pop culture music and fashion references. I'd definitely read part 2. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My first zombie read! </p>
+
+
+<h2> review.date </h2>
+  10-31-2013  
+<h2> review.text </h2>
+
+ <p> I want Michelle as my best friend if the zombie apocalypse goes down.  Though the quick-turn of the eaters freaked my out, this story was great. Halloween was the perfect day for this to come out and I can't wait for the next part. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hilarious and creepy </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> I haven't read much zombie fiction, but I loved this hilarious short story by Faye McCray. Set in a Maryland rest area on the way to a Jay-Z concert, &#34;White Belt&#34; had me alternately laughing out loud and groaning in horror. Clad in cute but decidedly zombie apocalypse-inappropriate platform wedges, 20-year-old Dani braves a flesh-hungry mob with the help of Michelle, a badass in a trucker hat. Amid the over-the-top carnage, Dani's mooching boyfriend is nowhere to be found--he has other important business to attend to, like getting to the concert on time. The humor throughout the story is fantastic, especially Dani's musings as she flees--then takes on--the zombie masses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hilarious </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

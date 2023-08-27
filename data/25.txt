@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000PTHIBK <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-23-2009  
+<h2> review.text </h2>
+
+ <p> i've only used the remote for a short time. the source button changes the source. the att button mutes the sound on dvd and ipod. volume buttons work with everything. the menu and top menu work very well with dvd menus, but not with ipod music. the subtitle button brings you to subtitle menu on dvd. i didn't have a dvd that has different camera angle's, but looks like it may work. i couldn't get the folder and disc buttons to work with anything. audio menu works, can change radio stations, go to prev or next on ipod songs. didn't get auto play, and book mark buttons to work. direct button turn the screen to a blank grid screen. the rewind, play/pause, and fast forward buttons work great on dvd's, not ipod. prev and next chapter buttons work great on dvd, not ipod. stop button stops dvd. back button for me didn't work. band changed fm to am. disp button changed screen to blank screen. ent button didn't work for me. the number buttons work to change radio stations you have set on your unit well. clear button didn't work for me. this does pretty much everything i want it to and is suppose to do. i only took one star off because the menu button didn't control my ipod music menu's, but worked very with dvd. also when the 7in sreen is tucked in it still works to control and change radio stations, prev and next songs and so forth. so far a few buttons i haven't gotten to work with my unit, but i don't regret buying it. hope this helps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pioneer cd-r55 remote control for pioneer avh-p5100dvd </p>
+
+
+<h2> review.date </h2>
+  10-12-2008  
+<h2> review.text </h2>
+
+ <p> Attention iPOD owners: This remote control only works for changing songs and volume control, it does not work to change/view playlist or anything else within the iPOD.  That is why I didn't rate it with 5 stars.For the rest, you can be sure it will do what it is supposed to do, change stations (radio) and full control on DVD movies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It does what it supposed to do </p>
+
+
+<h2> review.date </h2>
+  09-17-2010  
+<h2> review.text </h2>
+
+ <p> A bit bulky but does the job.  It would be nice if they made it a bit smaller so that it would be more practical, particularly when using in the car. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job. </p>
+
+
+<h2> review.date </h2>
+  03-09-2011  
+<h2> review.text </h2>
+
+ <p> I bought this remote for a Pioneer AV4000 I beleive anyway the radio is a touchscreen and I put in my wifes truck and I didn't want to mess it up so I bought this remote and it works great. There was only two problems with that I didn't like. 1)It has 3 settings on the side of it for different devices (didn't know that at first)and I hit the switch and my wife said it stopped working. Once I realized what happened I fixed it and showed her now there is no problem. 2)I like to adjust the EQ on the unit but the remote will not go to that feature so I do it manually. Besides that I love it cause this will extend the life of the radion cause I don't need to touch it as much </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Investment </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> Its a DVD remote. A little much for in a vehicle if you ask me. Seems to be a universal remote across multiple devices. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Its ok </p>
+
+
+<h2> review.date </h2>
+  01-21-2011  
+<h2> review.text </h2>
+
+ <p> I wanted a remote to turn the volume up, change radio stations and operate the DVDs. This remote it bulky and I can't even scroll through preset radio stattions. Can I have my money back and keep the item please? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doesn't do Much </p>
+
+
+<h2> review.date </h2>
+  10-19-2011  
+<h2> review.text </h2>
+
+ <p> Does not work with the Pioneer Z130 so beware. Thas all dont know how well it works for other. But when I bought it it was advertised as compatible with the BTZ130 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not work with BTz130 </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> Works good with my double din...don't use all the buttons but I'm sure it works fine. Has a good feel to it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works good </p>
+
+
+<h2> review.date </h2>
+  05-01-2011  
+<h2> review.text </h2>
+
+ <p> this remote is awesome. unlike other car stereo remotes this one is actually a decent size. having big hands this helps out alot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice full sized remote </p>
+
+
+<h2> review.date </h2>
+  01-10-2011  
+<h2> review.text </h2>
+
+ <p> It does what it is suppost to do. Controling Volume, switching songs, and total movies control. IPod Owners it does not get u to switch playlist and stuff from ur ipod u have to do it from the screen of the unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Its fine </p>
+
+
+<h2> review.date </h2>
+  01-18-2013  
+<h2> review.text </h2>
+
+ <p> i like this remote a lot! the best remote i've ever owned! way better than the recent kenwood remote i purchased for my most recent double din </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great product </p>
+
+
+<h2> review.date </h2>
+  05-06-2014  
+<h2> review.text </h2>
+
+ <p> I wanted to downgrade my AVIC-D3 to a less buggy firmware and needed a remote to do it. This worked perfectly once I figured out the right setting for the remote(it has 3; AV, DVD, and HEADUNIT) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Used on AVIC-D3 </p>
+
+
+<h2> review.date </h2>
+  11-08-2009  
+<h2> review.text </h2>
+
+ <p> i wasnt expecting all the remote buttons to work with the avic D3 so over all the shipment was fast it wasnt available for a while but as soon as it was in stock i ordered iti cannt complain about the price too best buy sells it for 50 $ i got this for 19.35$overall good workin remote </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great </p>
+
+
+<h2> review.date </h2>
+  05-29-2009  
+<h2> review.text </h2>
+
+ <p> El control remoto cd-r55 de pioneer es excelente producto muy facil manejo y practico para los dvd que no poseen control. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excelente producto y facil manejo </p>
+
+
+<h2> review.date </h2>
+  03-17-2008  
+<h2> review.text </h2>
+
+ <p> Works great with my AvicD3 a bit big but slim, controls radio great. When it comes to CD's I thought I could punch in the actual number on the remote for a certain track cause visualy it leads you to beleive that you can, having a 10 button for selecting double digit tracks on the remote. Well you can't. It does however control my DVD player great! It also does not control any of the MAIN menus or the navigation menus including the bluetooth menu. BUT for the price very satisfied would purchase again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice </p>
+
+
+<h2> review.date </h2>
+  06-17-2013  
+<h2> review.text </h2>
+
+ <p> The control works perfectly on my pioneer radio, guess after a time you never use it too much. good buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great product </p>
+
+
+<h2> review.date </h2>
+  10-20-2008  
+<h2> review.text </h2>
+
+ <p> The volume, att, source, forward and back are the only bottons that work on my reciever. still nice to have sometimes but most of the remote is useless. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> waste of space </p>
+
+
+<h2> review.date </h2>
+  04-29-2012  
+<h2> review.text </h2>
+
+ <p> Worked for my pioneer head unit but some buttons don't do anything but I guess it because it works for many different head units </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works </p>
+
+
+<h2> review.date </h2>
+  01-16-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this about a year ago. Most of the time it works great, however I do have problems with it communicating with my Pioneer head unit. I'm really not sure why, it just seems to have a bad connection every once in a while for some odd reason. Other than that, and the fact that it is a bit bulky, it's a descent product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bit bulky, but works. </p>
+
+
+<h2> review.date </h2>
+  05-09-2010  
+<h2> review.text </h2>
+
+ <p> Bought this for my AVH-P5700DVD unit. Works as described and quite useful. It would have been cool had there been another remote out there that only had the major buttons (volume, menu ctrl, etc) and because I use the AV input 90% of the time I only use the volume buttons (which is the main reason for buying). But for a fully functional remote its great. 4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CD-R55 Remote </p>
+
+
+<h2> review.date </h2>
+  04-24-2009  
+<h2> review.text </h2>
+
+ <p> I didn't need this to operate the 3100dvd, but wanted it to use on trips (as the co-pilot) to change tracks on CDs and to adjust volume level. Works great for those duties, as well as mute function for when we answer the cellphone. Also works well for controlling DVD watching needs. These are found cheaply online, only con is that this remote is oversized, so it could fit all the function buttons. Otherwise it would garner 5 stars instead of 4. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works well with my p3100dvd </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

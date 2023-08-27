@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1551666162 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-09-2014  
+<h2> review.text </h2>
+
+ <p> I have read almost all of Sharon Sala's book. I think this was the best she has written and the rest were great too. This is a book that you will read again someday </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Book </p>
+
+
+<h2> review.date </h2>
+  07-12-2013  
+<h2> review.text </h2>
+
+ <p> The name and cover of this book is the reason why I purchased this book.(And because I love Ms. Salas' work) From the get-go, Butterfly kept me captivated in the story as she led me on a chase of who-done-it. Right when I thought I had it figured out, something else kept me riveted to finding out who the real killer was. There were subtle hints in the beginning but I got so caught up that they were forgotten and by the end of the book I was like, THAT'S RIGHT!!! Hello!!! Did I mention I love Ms. Salas' work? :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fast & Great Read! </p>
+
+
+<h2> review.date </h2>
+  12-01-2002  
+<h2> review.text </h2>
+
+ <p> This book was wonderful. One of my all time favorites. Would suggest buying it. It is one that is hard to put down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Would like to have given more stars </p>
+
+
+<h2> review.date </h2>
+  11-26-2000  
+<h2> review.text </h2>
+
+ <p> I believe that Sharon Sala's novels would appeal more to the romantic reader other than the suspense reader. It is so hard to distinguish if the majority of the novel is going to be suspense or romance, when they say Romantic Suspense. The suspense parts of &quot;Butterfly&quot; were very slow. The book was good in the beginning, but then it got worse. Boring! Trust me, save your money on this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SLOW, SLOW, SLOW! </p>
+
+
+<h2> review.date </h2>
+  06-09-2005  
+<h2> review.text </h2>
+
+ <p> This was a book that was easy to read and I enjoyed reading it, but I had to get by the unbelievable story line.I would only recommend this book to someone who wanted an entertaining read with not much depth. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It was okay </p>
+
+
+<h2> review.date </h2>
+  05-25-2012  
+<h2> review.text </h2>
+
+ <p> I tried to find it in a local library but never could.  Anyhow I loved it.  I have very many of Sharon Sala/ Dinah McCall books, and she continues to amaze me! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I waited FOREVER to find this book </p>
+
+
+<h2> review.date </h2>
+  11-29-2000  
+<h2> review.text </h2>
+
+ <p> I agree that this story was lacking in it's motivation and other details having to do with the murderer's psyche.The two main characters, Ben and China,while meeting under such tragic circumstances, compliment each other  and seem destined to face their challenges together and overcome them.Ben may seem to overdue the &quot;honey&quot; but I can't fault the sincerity of his feelings for China and the love that builds between them.As for the mystery woman with the long blonde hair that commits the murders, I had a pretty good idea who was guilty, but the puzzle didn't fit exactly right,even in the end.I still enjoyed the book.  Ben and China were worth the time!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I feel that the title should have reflected &quot;promises kept&quot;! </p>
+
+
+<h2> review.date </h2>
+  09-04-2004  
+<h2> review.text </h2>
+
+ <p> I am a big fan of mysteries and thrillers, and lately have been looking for new and exciting authors.  The biggest problem I have is that lately many story lines are either "boring" "have been done a million times" or are just unbelievable.  I thought this book was ok.  China the main character, pregnant and homeless, witnesses a murder.  The killer then tries to kill her but she lives.  Enter the cop who with one look wants to be her protector, and has to keep her safe while trying to find the killer.  I like Sharon Sala but did not find this book very original or even exciting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Average Mystery </p>
+
+
+<h2> review.date </h2>
+  11-14-2000  
+<h2> review.text </h2>
+
+ <p> I enjoyed this book, but at the same time felt something was missing.  I guess I got spoiled with &quot;Reunion&quot;, which is the book that started me reading Ms Sala's novels.  The one thing I did enjoy was the unconditional love Ben had for China.  We should all be so lucky.  I feel the story line could have been more compelling and more convincing especially when it came to Bobby Lee and his mother.  Overall it did hold my interest enough for me to continue reading, but mainly because I wanted to know if the killer is who I though it was.  It was. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, but not her best!! </p>
+
+
+<h2> review.date </h2>
+  11-25-2000  
+<h2> review.text </h2>
+
+ <p> In Dallas, her landlord tosses the pregnant China Brown out of her apartment for not paying the rent. As been her history, even as a little girl in Michigan, China is a born victim. She gave the rent money to her boyfriend to hand over to the landlord. Homeless and hopeless, China warily heads to a mission to get inside from the bitter cold gripping the city.On the way, China watches a blonde woman murder celebrity photographer Chaz Finelli and take his camera. The killer next fires shots at the only witness, China. Somehow, China survives, but her unborn child is dead. Detective Ben English heads the investigation with his only lead a near dead China who has no reason to live.Romantic suspense fans know that best-selling author Sharon Sala always provides an exciting novel. Her latest tale, BUTTERFLY, although not quite up to her usual excellence level, is an entertaining story. The weakness to the tale lies in the cold blooded killer who murders like an Ennis developed professional hitman, protects her identity like an individual without a thought in their head and whose motives never come clean. The investigation is fun to follow because the cop and the life-long victim make a charming couple, so much so that readers will want them to make it together.Harriet Klausner </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but not her best </p>
+
+
+<h2> review.date </h2>
+  11-20-2000  
+<h2> review.text </h2>
+
+ <p> A poignant story of China Brown, a woman who's the only witness to a murder.  She's shot and left for dead, and loses the baby she was carrying.  Detective Ben English sets out to find the murderer and protect China at all costs.  This woman who appears so fragile has a soul of steel and captures his heart.  This is more than just a case, this the woman he loves.  Sharon Sala tells a great story about love that was destined to be, and a murder mystery that will leave you guessing right up until the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Poignant Read </p>
+
+
+<h2> review.date </h2>
+  04-03-2003  
+<h2> review.text </h2>
+
+ <p> China Brown has known nothing but heartache and lonliness in her life.  She vows that will change as soon as she has the baby that she loves so desperatley.  For she has made a promise that her baby will have the life that she never did.  Then one night she finds herself out on the street when the father of her baby takes off with all her money.  It was that night that destroyed her dreams and she has vowed revenge.  With the help of Ben English, she begins to heal and lets Ben find his way to her heart.Bennett English is drawn to China from the first moment that he saw her.  There is something beatiful and rare that he sees when he looks at her.  He finds himself falling in love before she even wakes from her coma and when she wakes and looks into his eyes, he knows he is lost.  The only thing standing in the way of their happiness is a killer.Butterfly is an enjoyable book that is more romance than suspense.  The killers identity was a surprise to me, but I enjoyed this book and will look for other books by this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fast read.... </p>
+
+
+<h2> review.date </h2>
+  07-14-2005  
+<h2> review.text </h2>
+
+ <p> Poignant and emotional, Butterfly is one of Sharon Sala's all-time best romances.  The love story is sweet and touching, and I found Ben English to be one of the most endearing heroes I've come across in recent memory.  The tender and protective way he nurtures China until she believes she is truly beautiful both inside and out had me reaching for the Kleenex more than once.  A keeper for me! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful romance! </p>
+
+
+<h2> review.date </h2>
+  05-24-2012  
+<h2> review.text </h2>
+
+ <p> I could not put this book down.  It grabbed me from the first page and held me until the last page.  I love her books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Butterfly by Sharon Sala </p>
+
+
+<h2> review.date </h2>
+  08-20-2005  
+<h2> review.text </h2>
+
+ <p> Evicted after her boyfriend skipped out with the rent money, pregnant China Brown starts walking to the mission but encounters a tall blonde woman who's being photographed by Chaz Finelli, the paparazzi pix guy.  Blondie shoots Chaz, takes his camera, turns and shoots China, the only witness, and leaves her for dead.  Homocide detective Ben English arrives to find that China is barely alive and he follows the ambulance to the hospital, hoping she can identify the shooter.  Thus begins Ben's strange attraction to China, that becomes more understandable when we learn his family background.  Beautiful China, who was told she was ugly as a child and believed it, tries to die because her baby was killed by one of the bullets fired at her.  But while (in her life after life experience) her dead mother takes the baby, a little girl, she sends China back.  This book is for those who like tender.  Ben is all man but a gentle one.  He keeps his promises and it is this thread that China clings to as she slowly regains consciousness.  But the plot revolves around the shooting, who and why, and this part of the plot elevates this book from a ho-hum romance to an edge-of-the-seater.  Power, privilege, the nouveau riche...it's all here.  If I did not know some Texans who fit some of these roles, it would be less believable but I do and they do.  Some may feel there are too many subplots but Sala makes them work.  And just when we think China will never realize her delicate beauty, she does realize it by watching a butterfly crawl from its ugly chrysallis.  Ben had already proposed to her, so she turns the tables and proposes to him.  And the shooter?  You wouldn't believe it if I told you, so read the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fiction is no stranger </p>
+
+
+<h2> review.date </h2>
+  11-14-2000  
+<h2> review.text </h2>
+
+ <p> Romantic suspense books has always been a favorite of mine which was one of the reasons I picked this book up.  But, I was very surprised how fast Ms. Sala grabs you and keeps you reading.  But, beware, if you are an easy cryer, you will definitely want to keep you kleenxes handy.  Some might think it was a bit hooky that Ben takes one look at China and is hooked; but I liked it. Ben was tough and strong, but too me his sensitivity is was got me.  You know that he is the type of guy that will always be there for you.  And China, with the blows she was dealt, she could easily have been a whipping post, but as they say &quot;that, that does not kill you, makes you stronger.&quot;  Definitely a book I would recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read </p>
+
+
+<h2> review.date </h2>
+  12-09-2001  
+<h2> review.text </h2>
+
+ <p> This book lacked suspense a little too much for it to be labeled 'Suspense/Romance'.  It should be labeled simply 'Romance'.  I am an avid romance reader, but I was bored with the romance in this one.  The character of Ben English got on my nerves because he was a little too perfect and seemed obsessed with the female lead China.  I never did understand how he fell in love with her just by seeing her one time on the streets and barely that when she was shot.  It moved too fast and he became too much with the 'honey' endearments and 'sweet' words when he didn't even know her.  Throughout the story I was never fully convinced he loved her and wasn't sure when it happened, or if it ever did.  China was a bit unsecure for my taste and trusted him too fast without knowing him.  Considering some wacko was after her and she was being used by everyone in her life, a few sweet words and she was 'in love'.  I just wasn't convinced.~China is pregnant and alone.  She is left homeless and walking the streets after her loser boyfriend takes off with all her money.  She finds herself the victim of a woman's bullet when the woman kills a photographer trying to take a picture of her on the streets.  China Brown is the only witness to the senseless killing and when the woman turns the gun on her she is sure she is dead.  Waking up later in the hospital, she finds her baby dead and a very attentive detective at her side.  How can she live without her baby?Ben English has to track the merciless killer who thought nothing of murdering a man and then a helpless pregnant woman.  He finds a bond with her that he can't explain and wants her to trust him.  Things get touchy when at first they are looking for a man and find out its a woman with long blonde hair that they should be looking for and someone who may have a grudge against a tabloid photographer.  That could be hundreds of people!He must protect the case's only witness, a shattered woman who doesn't want to live.  Is the killer the person they least suspect?  Is China in immediate danger?  Are they tracking the wrong person?Tracy Talley~@ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lacking in Suspense.... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

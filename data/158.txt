@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 630026629X <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-08-2011  
+<h2> review.text </h2>
+
+ <p> Stagecoach, 1968 filmThe story begins out in the West. Indians attack a stage station. There is a fight in a bar over a dance hall girl. "Get rid of your undesirables" says the Captain. The stagecoach rolls into town to change horses. Dr. John Boone moves to a fresher field. There is humor here about hypocrisy. The dirt streets are suitably muddy. The stagecoach leaves to its next stop. They stop to pick up Ringo as a passenger. They learn the Sioux Indians are on the warpath. The station manager and his family plan to leave their post. The stagecoach travels on the hills at night (for added drama)! There are conflicts among the passengers. When they arrive at the next station they find the people there were all killed! There is more drama and conversation.They see Indians, and turn back. Will they be saved? They see soldiers in uniform approaching. But this is a trick to get closer. Ringo climbs up to join in the shooting. Can they escape? Then a wheel falls off! They must take cover against a larger mobile force. The Indians keep charging as if they were paid well to die. Then suddenly they turn and flee! But it is only to regroup for another attack. [Nobody seems to lack ammunition.] "I guess that was it." That night they arrive in town. There is a rowdy bunch in the saloon. The Marshal makes a mistake. But Ringo is freed to do what needs to be done. At the end the Marshal frees Ringo and the dance hall girl to go where they choose to go.This is a copy of the 1935 version. Was it better? The picture of President US Grant and other background events suggests this was set in 1876. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Difficult Travel by Stagecoach </p>
+
+
+<h2> review.date </h2>
+  02-08-2013  
+<h2> review.text </h2>
+
+ <p> we love westerns and this was not top of the line but has some great actors in it and it is a good movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a western </p>
+
+
+<h2> review.date </h2>
+  02-07-2008  
+<h2> review.text </h2>
+
+ <p> I bought this to see the last film appearance of Lash LaRue...very short scene and about 2 lines. But, still Lash has that way about him. The movie itself was pretty good...surprise.The Kris/Willie/Waylon/Johnny crew made an album where they all dressed in black and featured the original Man in Black, Lash LaRue , on a great , back of the album picture. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a surprise..and a seredipity </p>
+
+
+<h2> review.date </h2>
+  10-01-2007  
+<h2> review.text </h2>
+
+ <p> Great little gem of a movie starring the outlaws of country music. A lot of people are comparing this tv movie to that of the original starring John Wayne, there is no comparison. The original will always be a classic, and teamed legendary director John Wayne with The Duke.But, for me it is hard not to like a film that stars Kris Kristofferson, Johnny Cash, Waylon Jennings, and Willie Nelson. They all do a great job with their roles, and are backed up by a fine supporting cast which includes John Schneider and Elizabeth Ashley.The film follows the same storyline as the original. Will the stagecoach make it safely to it's destination without meeting its demise at the hands of Geronimo? Will The Ringo Kid get his revenge against the Plummers? How can I find out what will happen? The simple answer is, pick up Stagecoach, and take a trip to the west with The Highwaymen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun Film </p>
+
+
+<h2> review.date </h2>
+  06-04-2012  
+<h2> review.text </h2>
+
+ <p> When you toss in a stoic US Marshal, a devoted but underpaid Overland stagecoach driver, a gentleman gambler, a dishonest banker, a whiskey salesman, a pregnant woman, a saloon madam, a dime novel desperado who was falsely imprisoned, and the charming Doc Holiday you have a motley crew.  When you add the Apaches, including Geronimo, and the US Calvary, you have the potential for an explosive situation.This third remake of John Ford's Stagecoach (1939) is a lively production with a lot of country singers/actors (Johnny Cash, Willie Nelson, Kris Kristofferson, Waylon Jennings, John Schneider, Tony Franciosa, Elizabeth Ashley, Mary Crosby, June Carter Cash, and Anthony Newley).  Willie Nelson sings the title song which is catchy.  The music throughout adds the right atmospheric touches to the desert landscapes of Arizona.There is humor mixed in with the drama and tension. The acting is low key but very good.  The story is well executed.Doc Holiday's sympathetic comments about the Apaches were a nice touch.  Not too many westerns showed any sympathy to the Native Americans and their territorial rights.  Manifest Destiny's crossing of the plains and mountains was unstoppable by a people who lived in harmony with the land.Of course you have the classic gunfight at the end between the falsely imprisoned desperado and the actual bad guy.  The gentleman gambler and Doc Holiday are there to make certain the fight is just between the two men without interference from the bad guy's brothers.This was a 1986 made-for-TV movie.  This should not distract from its overall quality.  A number of TV movies during this era were finely crafted pieces of cinema. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stagecoach </p>
+
+
+<h2> review.date </h2>
+  06-10-2010  
+<h2> review.text </h2>
+
+ <p> Is it blasphemy to remake a movie? The answer depends on who you ask and what movie is under consideration. But we all know that the movie industry is blasphemous by nature. So when the original John Ford/John Wayne "Stagecoach" was remade (for TV, no less!) starring (of all things!) country singers (Oh, horrors!), there was a great flood of negative criticism.I don't think anyone involved in this production intended to try to eclipse or even equal the original. If anything, I suspect it was intended as an homage to Ford and Wayne and the entire western movie genre which, without Ford and Wayne, might never have moved beyond Saturday matinees.If you like westerns, do yourself a favor. Watch this without comparing it to the original or, for that matter, to the first remake from 1966. Watch it as a western with a good story. Watch it with an open mind. You might be surprised.It's not Ford and Wayne. I doubt we will see the likes of that pairing again. But it's an entertaining movie with a warm heart. Give it a chance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Maybe not iconic, but entertaining </p>
+
+
+<h2> review.date </h2>
+  04-26-2012  
+<h2> review.text </h2>
+
+ <p> Just to see Willie Nelson attempting to deliver a baby is worth the price of this DVD!  These four (Waylon, Willie, Johnny, Kris) are so not great actors, but manage to make it look real.  Kris is good as the Ringo Kid and the rest are great - even June and Jessi got roles.If you like these musicians and like westerns it is a great movie.  But do not look for singing during the show - its not there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not John Wayne - but a lot of fun! </p>
+
+
+<h2> review.date </h2>
+  06-26-2012  
+<h2> review.text </h2>
+
+ <p> I wasn't sure about this movie, but since I love country singers, I ordered it.  Waylon Jennings, Willie Nelson, John Schneider, Kris Kristofferson are wonderful together.  The dry sense of humor they have is great.  I especially loved Waylon since he played a part not of his personality.  Willie was great.  John and Kris were fantastic.  I recommend any one who likes these people to buy the movie.  You will not be disappointed.  I have never seen the original, but after seeing this re-make, I'm not sure how much I would like the classic original.  THIS IS A WONDERFUL MOVIE AND I HIGHLY RECOMMEND IT. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful Movie </p>
+
+
+<h2> review.date </h2>
+  11-22-2012  
+<h2> review.text </h2>
+
+ <p> Though I do not wish to compare this 1984 film with the John Ford original as being better, it is none-the-less a very good film.  It is somewhat different on many levels from the earlier film which make it quite watchable, and for me it captures the spirit of Haycox's short story well.  All members of the cast, and what a cast, are quite remarkable.Nine very different characters with very different problems have only this single coach to Lordsburg in common. Even if you have seen a movie "Stagecoach" before, none is like this one. Of the 3 I've seen I enjoyed this very much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ERNEST HAYCOX'S SHORT STORY </p>
+
+
+<h2> review.date </h2>
+  03-04-2008  
+<h2> review.text </h2>
+
+ <p> But, it was fun to see the "Highwaymen" together playing cowboys and indians.  Johnny Cash, Waylon Jennings, Willie Nelson, and Kris Kristoferson, need there be any other reason to see this movie?  Other than the title track there isn't any singing.  If you want to see Stagecoach, get the John Ford, Duke Wayne's version ... if you'd like to see a remake of that classic, this is the one for you ... years ago Bing Crosby was in a remake of this classic ... This remake with the "Highwaymen" is the best of any of the remakes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as good as the John Wayne Classic but ... </p>
+
+
+<h2> review.date </h2>
+  04-20-2013  
+<h2> review.text </h2>
+
+ <p> Not too bad!..Although a bit, &#34;Grainy&#34;...it has not transferred too well onto dvd,I bought this to go with my &#34;Highwaymen Collection&#34;...it appears,&#34;The Boys&#34; made this film just as a,&#34;Good Day Out' movie...HOWEVER!..it is worth having,just for some of the,One Liners&#34;...out of 10..I reckon 7. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yeehah! </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> During the past half year I have watched the original, the 1966 version, and now this in a three western package. It might get three stars if I would have not seen those earlier versions. The 1939 Stagecoach is a masterpiece, and the 1966 version was better than I remembered. It had great actors and a lot of action. Many things are changed worse in this version. There is no excitement about Doc's (Halliday here!) success in helping the birth of Lucy's child. This job is taken care of jokingly. The anxiety of 1939 Doc Boone is nonexistent. Similarly the tension of Lucy and Dallas has almost gone. Dallas and Ringo are middle-aged persons, which is surely O.K., but changes the youthful hesitation of the first and second pair. The actors were not bad, but practically everything was clear when you saw the two revolvers of Halliday. I did not care that much about the quasi-deep discussions between the main actors. What about giving Halliday a bad cough? Now he coughed once lightly. Watch the other versions and you will agree with me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not compare even with the 1966 version </p>
+
+
+<h2> review.date </h2>
+  03-21-2013  
+<h2> review.text </h2>
+
+ <p> My dad loves Westerns, and he is Willie Nelson's biggest fan.  He loves this movie and has played it many times.  There is a snatch of music that Willie Nelson plays that he's still trying to identify. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great western </p>
+
+
+<h2> review.date </h2>
+  03-15-2010  
+<h2> review.text </h2>
+
+ <p> If the 1966 version of STAGECOACH (sadly, never available either on VHS or DVD, and a bit better than its reputation) was basically an attempt to recapture the magic of the earlier film by putting it in Cinemascope and Technicolor, adding large dollops of more-realistic violence and drawing out the story to give the film a more "epic" quality, it seems at first glance that the 1986 film is going in the opposite direction.  While the first remake draws the Indian attack out to 20 minutes or so and the final showdown to a series of scenes adding up to several minutes, this Ted Post TV movie starring a bunch of aging country music stars cuts the violence and action to the bare minimum, focusing instead on personality and dialogue.  I suppose the theory was that when you've got legends like Willie Nelson (also a producer), Johnny Cash, Waylon Jennings and Kris Kristofferson as your leads, you'll get that older "country" TV audience and you don't need to worry about the violence that in 1986 you couldn't really show on TV anyway.Well, that was the theory I suppose.  The reality, though, is very little action and a lackluster and plodding series of conversations, most of which feel either weird or hackneyed - or both - and which for the most part aren't delivered with a whole lot of conviction by the famous cast.  I think Cash (as Curly the Marshall) and Kristofferson as Ringo, despite being nearly 20 years older than Wayne or Alex Cord were in the role, probably come off the best; Jennings seems to be sleepwalking through his role of Halliday the gambler and Nelson either doesn't understand his part or just doesn't care much as the drunken doctor - inexplicably "Doc Holiday" in this version though no references to his history with the Earps are ever forthcoming.  John Schneider, fresh of "The Dukes of Hazzard", as Buck the stagecoach driver is the youngest member of the cast at 26 and he tries hard in a role that just isn't as interesting - despite some added scenes - as it was in the two previous versions, albeit much of the charm came from Andy Devine and Slim Pickens in the earlier roles.  Elizabeth Ashley does all right as Dallas, looking a lot more weary and used-up than Claire Trevor or especially Ann-Margret did; Anthony Franciosa doesn't have much to do as Gatewood and Anthony Newley's Peacock turns back in this version halfway through the film, I guess because the filmmakers thought he was expendable and maybe added too much to the budget or running time.  Mary Crosby is lovely as the pregnant Mrs. Mallory but she gets little of consequence to do, apart from the very strange scene with Nelson as she's starting to go into labor where he tries to reassure her by telling her he doesn't know what he's doing.The action as I said is minimal; interestingly the relationship that really gets explored in this version is that between Curly and Buck, which is one thing this film gets right as Cash and Schneider seem to be the most involved in their roles.  Lots of frontier humor and a bit of dark satire run through the film, and there's a slightly larger political overtone than in earlier versions, with Nelson regularly espousing anger at the plight of the natives (Apaches in this version, which was filmed in Arizona).  The central problem here I think is that the characters that really need developing - Ringo and Dallas, and to some extent Doc - really don't get it, and a lot of time is spent instead on fairly useless if entertaining asides.  There's also never any real question here that Ringo is a good guy - ironic in that Kristofferson has played a lot more villains than either Wayne or Cord ever did - and he even gets deputized to help with the nasty Plummer boys at the end!  Nice photography by Gary Graver, who had spent the previous couple of decades working both in the adult film industry and for Orson Welles; minimal score by Nelson (who also sings the OK title song) and David Allan Coe.Overall, watchable enough but rather a waste of some great talent.  Let's just hope this doesn't get remade again anytime soon as each version has been weaker than the last by a large margin, and I shudder to speculate on the cast - especially if an attempt were to be made to appeal to the youth audience.  Taylor Lautner as Ringo, anyone?  The mind boggles... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Comparisons don't help this TV effort, but Cash and others do make it watchable </p>
+
+
+<h2> review.date </h2>
+  11-11-2009  
+<h2> review.text </h2>
+
+ <p> OK, it's not the original.  Step back a minute - few movies at ALL before or since the original verison of "Stagecoach" were as good as that movie.  Now, move on and look at this version of "Stagecoach" on its own.It's pretty well written and acted. (June Carter Cash's lines were great, "There's nothing in my contract says I got to feed the Army.")  A lot better than most of what I see appearing in the theater today, most of which I won't waste my money to go see.The only characters I didn't really like were Elizabeth Ashley's Dallas & Mary Crosby's Mrs. Mallory.  I loved Elizabeth Ashley in a lot of other roles, especially in "Evening Shade" with Burt Reynolds.  I know she's a great actress, but this role, or maybe her dialogue, just didn't work for me somehow.  Too overdone.  I do like her line to Doc about his fingerprints.Mary Crosby, a good actress, too, said she campaigned to get this role, because her Dad was in the 1966 version.  I understand that.  I just thought her character was too bitchy for a Southern lady, especially an Army wife.  Again, though, that's the way the dialogue was written, so I guess she was stuck with it.  The scene playing as I write this is a good one for her, where she finds out her husband has been wounded.  She's strong, but not complaining or bitchy.The humor is a little dry throughout, you have to pay attention.  It doesn't walk up and hit you over the head.  And there's no 13 year old talking back at his or her elders for laughs.  Maybe that's why it appeals to me.John Schneider does a great job as the coach driver.  Again, not Andy Devine, but, he doesn't try to be.  And if he did, it would be ridiculous.Half the fun of watching this movie is saying, "Oh, there's ______!" spotting other country singers or actors.Then there's the old saying we use in our household: "It's a western, how bad can it be?" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great movie </p>
+
+
+<h2> review.date </h2>
+  11-23-2008  
+<h2> review.text </h2>
+
+ <p> Great western with Willie Nelson, Kris Kristofferson, Johnny Cash, And Waylon Jennings.  The only thing that would have made this better would have been either John Wayne or the LONE RANGER showing up at the last minute. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stagecoach </p>
+
+
+<h2> review.date </h2>
+  08-03-2013  
+<h2> review.text </h2>
+
+ <p> Another 10 star rating for another Willie DVD as part of a Birthday gift for my brother.  Sorry it was not rated sooner. I did not see this page until today. It was received in perfect condition and IMMEDIATELY sent on to my brother.  This was GREAT !Sincerely,Sandy Peterson </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 10 Stars </p>
+
+
+<h2> review.date </h2>
+  01-17-2011  
+<h2> review.text </h2>
+
+ <p> Even though John Wayne's version of this movie is more famous, this is a great western adventure.  The cast includes Willie Nelson, Johnny Cash, Waylon Jennings and Kris Kristoferson, which is reason enough to make it part of a movie collection.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> STAGECOACH </p>
+
+
+<h2> review.date </h2>
+  02-18-2008  
+<h2> review.text </h2>
+
+ <p> Stagecoach (1986)...This movie is a definite must have for western lovers.Set in Arizona,this movie has action from gunfights with Geronimo to the outlaws in Lordsburg.Throw in a love plot for a retired saloon girl to delivering babies among stage stops and you have one heck of a movie.With an all star cast of Willie Nelson,John Schneider,Kris Kristofferson,the late great Johnny Cash,and the late great Waylon Jennings,to name a few,you can't go wrong with this movie.There is even a small cameo with the lovely  late June Carter Cash and Miss Jessie Colter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stagecoach(1986) </p>
+
+
+<h2> review.date </h2>
+  01-24-2006  
+<h2> review.text </h2>
+
+ <p> Johnny Cash is the Marshal taking in his prisoner Kris Kristofferson (playing the John Wayne part), Waylon Jennings as the gambler rides along with Willie Nelson as Doc Holliday (there was a physician in the original but not a gun fighting dentisit) and a couple of female roles in this redo of the John Ford classic stagecoach journey through indian territory. Mr Ford has not to worry. Fine to watch this gagle of county western stars walk through a familiar story line. Nothing new. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Remake of the original.................again </p>
+
+
+<h2> review.date </h2>
+  09-08-2008  
+<h2> review.text </h2>
+
+ <p> I LIKE WESTERNS, AND THE ACTORS IN THIS MOVIE. I JUST WISH THEY ALL SANG MORE. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Classic </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000VPOYJC <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> The AmberDome has helped me get beautiful skin tones on portraits of children in shade.  I love the Lightsphere, and this accessory makes it even better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AmberDome </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> I haven't had a change to put this on my Gary Fong half cloud, but I'm sure I'll be OK with it.  I'll write another review once I have the chance to use it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm sure I'll be OK with it. </p>
+
+
+<h2> review.date </h2>
+  12-30-2009  
+<h2> review.text </h2>
+
+ <p> Several people have reviewed this product and commented that it cast too warm of a hue (which could be duplicated in post production) this is absolutely true! The purpose that most of us use this device for is to "match" existing light - making our electronic flash's "color" match a dominate ambient light - for instance if you use an electronic flash outside and want to "light up" the face of a subject to soften shadows and do NOT use the amberdome the resulting flash will look too cold compared to everything else in the shot...using the amberdome will allow you to get the proper amount of light on the subject and blend into the ambient light.By the way, you can use the amberdome in outdoor "golden light" situations and create a beautiful shot - the amberdome will match the golden light very well - in fact I turn by collapsible dome to fire the flash directly through the amberdome at the subject and get great results.You won't use it for most shots, however when you need to match the right situations - nothing else is nearly as good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best used in very specific situations! </p>
+
+
+<h2> review.date </h2>
+  09-12-2009  
+<h2> review.text </h2>
+
+ <p> I bought this to go with my clear Gary Fong diffuser but found most of my photos come out too warm and Ive had to cool the temperature in Photoshop. After a few shoots I stopped using it entirely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Warm </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> Looking to add warm touch to your photos? This amberdome really does add a nice warmth. Fits on dome with no fuss. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Warm </p>
+
+
+<h2> review.date </h2>
+  05-17-2010  
+<h2> review.text </h2>
+
+ <p> On my last assignment, I was to shoot a wedding outdoors, however a sudden change in weather forced the ceremony to be indoors.  The indoor location was good, however, I was faced with tungsten lighting from some spotlights above.  This cast harsh shadows down upon the bride, groom and party.  To resolve this, I set up two remote flashes on either side of the stage and used two amberdomes on my two lightsphere universals and set my white-balance to tungsten.  The photos turned out beautifully and the happy couple were ecstatic with the end results.Gary Fong's amberdome saved the day and my wedding shoot.  It never hurts to be prepared, and Gary Fong's system makes it compact, light and easy to port around.Using this outdoors, I was also able to shoot in the rain and capture some great portraits.  Using the amberdome again I was able warm up the photos, making it look as if the models were looking into a sunset.I would recommend this to all professional and semi-professionals.  For hobbyists who understand how to handle colour, this is also a good item.  However, for the novice-photographer, I would suggest studying up on what these dome colours do to an image and how they change the image you capture first, before using it for the first time.Remember, it's not just about aiming a camera and pressing the trigger, it's how you can use the lighting to create the magic in a photograph and to prevent post-production retouching of your photos. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The perfect solution. </p>
+
+
+<h2> review.date </h2>
+  12-11-2011  
+<h2> review.text </h2>
+
+ <p> When shooting people, I generally like my on camera light sources color temperatures to match the background environment of the location I am shooting in and I bought this to bring the color temperature of the strobe unit to something similar to the interior lighting of homes, restaurants, churches, hotel rooms, and other similarly lit venues.  The strobe color temperature, without some kind of warming is too cold and when the person is lit by strobe (bluish) and the surroundings and background lights are in tungsten(yellow-red) it does not look natural.  Using this in conjunction with the GFLSC01 LightSphere Collapsible Diffuser warms the subject to more match the background and surroundings.I think it is a bit too warm and too saturated with color, I would like a bit less of both.I don't like it for warming skin tones in open shade situations as it leave the backgrounds and surrounding areas not hit by the strobe's light too blue... for these types of situations I prefer doing an overall color correction in post production...or as a camera color balance adjustment by changing the overall color temperature when shooting... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very warm, I only use it for matching tungsten lighting situations </p>
+
+
+<h2> review.date </h2>
+  01-25-2014  
+<h2> review.text </h2>
+
+ <p> Oh amber fong dome how I love thee, you warm up the bleakest environments and even out all the wonderful shades of skin our creator has blessed us with. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amber </p>
+
+
+<h2> review.date </h2>
+  08-08-2011  
+<h2> review.text </h2>
+
+ <p> this really gives an amber color to your flash, i have the white dome as well and really see the difference,, i use the amber outdoors sometimes during a sunset and gives the extra light needed without the white color,, use this rarely, but great when i do,  would be great for beach photos! overpriced though,, its just plastic, </p>
+
+
+<h2> review.summary </h2>
+
+ <p> real amber flash </p>
+
+
+<h2> review.date </h2>
+  12-30-2010  
+<h2> review.text </h2>
+
+ <p> The Gary Fong lightsphere is the most revolutionary, practical and modificable light diffuser, you can remove the Cloud dome and use the Amberdome that produce a warmer image indoor and outdoor, instead of use and change filter's. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gary Fong Amberdome </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> I'm not a professional and I don't use the flash that often so this product wouldn't work for me.  I have tested it and it's alright though it's only designed to fit on their own product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's ok </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

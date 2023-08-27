@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00BT708ZU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-14-2013  
+<h2> review.text </h2>
+
+ <p> In Thirroul in 1948 the sound of the railway is a steady presence in Annika Lachlan's life. Then one day the trains don't run - there has been an accident further up the line, Annika is told, and her husband Mac's life has been lost. Suddenly widowed and alone with her eleven year old daughter Bella, Ani is forced to take a job as librarian in the small town's library.Enveloped in her grief but forced out of solitude by her new job, Ani comes into contact with other hurt souls. Roy McKinnon, a poet, whose wartime experiences have left him unable to write about the beauty he sees all around him. Doctor Frank Draper, recently returned from Germany where he has witnessed unspeakable horrors after the liberation of the concentration camps, and who blames himself for being unable to prevent the deaths of many patients in his care. And Iris McKinnon, who has waited years for her sweetheart to return from the war, only to find him scarred and battered, a changed man.As these troubled people meet, they find solace in each other's company as they try to rebuild their lives and come to term with their individual grief.Hay's beautiful prose takes the reader on a heartbreaking journey of discovery of loss and grief and the way different people deal with tragedy. As Annika progresses through the different stages of sudden widowhood - the shock, the anger, the fear and the bottomless sorrow - her job in the town's library brings her into contact with other people scarred by tragedy. Slowly she manages to bring joy back into her life, but her husband's death remains an omnipresent void in her life."The year I've had, Dr Draper, here, with my daughter, making sense of this strange new world. I've lost my husband. I have this job. I wake up in my room, in my house. And yet everything, everything is different."It took me quite a long time to connect with the characters in this book, but once I did I was quickly drawn into the story and its emotional landscape. The blurb talks about hope, and yet hope was a fleeting thing for me, like sunshine only briefly breaking through the clouds. It left me wondering if the people in the story could ever be whole again, especially after closing the last page. At what stage is the damage too great to ever being able to move on, to start anew?Anyone who has ever lost a loved one will be able to relate to some of the emotions described in this story. The Railwayman's Wife is not a cheerful book but one which invites introspection and reflection. It also skilfully draws the reader's attention to the emotional legacy of war, and its repercussions long after it is over, and many continents away from the battlefields. With her poetic prose, Hay brings to life the atmosphere of a small coastal town in post-war Australia and its people. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Emotional legacy of war </p>
+
+
+<h2> review.date </h2>
+  04-29-2013  
+<h2> review.text </h2>
+
+ <p> An interesting story about a beautiful part of the south coast of new South Wales.It is an area that I have visited on a regular basis.Fond memories still exist in regard to the steam trains that travelled on that rail line and my trips on them.Thirroul was a place were I have had family picnics where swimming in the rock pool was enjoyable ,  Ryan's Hotel still exists,a cleansing ale has been consumed there on more than one occasion.The story leaves you thinking.Well written. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Railwayman's Wife </p>
+
+
+<h2> review.date </h2>
+  02-14-2014  
+<h2> review.text </h2>
+
+ <p> Anikka, Isabel and Mac Lachlan were happy; their lives were peaceful, full of love and dreams to be fulfilled. The war was finally over, it had been for three years &#8211; but people were still grieving for those lost, and the survivors were slowly coming home. Roy McKinnon, a teacher before the war, arrived at his sister Iris&#8217; home to try to continue his life. His teaching was over, he had no patience anymore, but the poetry he wrote before the war just wouldn&#8217;t come to him. Frank Draper was a doctor and decided to continue in Thirroul as he had &#8220;before&#8221;. They were bitter young men, but friends &#8211; they could lift each others spirits when needed.Ani and Mac&#8216;s love was all encompassing &#8211; they delighted in their daughter Isabel and the three of them enjoyed their outings to the beach, their picnics and excursions. When Isabel turned ten, her gift was a kaleidoscope; its magic was spellbounding to Isabel and the wonder and delight at this small gift was heartwarming. With Mac leaving before dawn to do his job on the train, Ani would listen to it groan and puff away from Thirroul, knowing it would bring him back later in the day &#8211; the distinctive sounds of the engine would alert her to his arrival once again.But when tragedy struck, Ani thought her life would never be the same again. Trying to find solace in the books she read, her job in the railway&#8217;s library and Isabel she found herself drifting. Much the same as Roy and Frank. But slowly, over the weeks and months, Roy started to find his words; Frank began to feel a little less angry; and Anikka, well she and Isabel began to enjoy life once again. Slowly, slowly &#8211; a struggle for them all, but the light began to look brighter&#8230;What an amazing book! Soft, quiet and melancholy; beautiful, lyrical and poetic. I don&#8217;t think I have ever read a book with such magical, deeply tender and illuminating words. So many sentences, phrases and paragraphs took my eye, but this one I particularly loved:&#8220;A jacaranda tree transmogrified into something from the northern fairytales of her childhood&#8221; &#8211; P248This book is one which just meanders through the lives of the people involved, but the nature of it is that it will keep you turning the pages until the end. I have no hesitation in highly recommending this wonderful novel which I thoroughly enjoyed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautifully written - a must read! </p>
+
+
+<h2> review.date </h2>
+  05-19-2013  
+<h2> review.text </h2>
+
+ <p> Found it very hard to get into, gave up half way through. Disappointing as I had read such rave reviews of the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hard to get into </p>
+
+
+<h2> review.date </h2>
+  03-18-2014  
+<h2> review.text </h2>
+
+ <p> The Railwayman&#8217;s Wife is the second novel by Australian author, Ashley Hay. It is set in Thirroul, on the south coast of New South Wales, in 1948. Living in post-war New South Wales with her husband, Mackenzie and her ten-year-old daughter, Isabel, Anikka Lachlan  counts herself fortunate to have survived the war without the losses suffered by so many. But then Mac, a railwayman, is killed in a train accident, and Ani&#8217;s life suddenly becomes unrecognisable. She is offered a job in the Railway Institute Library, where she encounters many of the village&#8217;s residents including the frequently abrasive war veteran, Dr Frank Draper, the often dismissive Iris McKinnon and her rather shy brother, Roy, a published war poet. Hay&#8217;s narrative switches between events that immediately precede Mac&#8217;s death and the year that follows, and flashbacks to significant fragments of Ani and Mac&#8217;s history. Ani discovers a Mac she barely recognises from chance bits of conversation and second-hand anecdotes, (&#8220;There&#8217;s an anxious space between not knowing if you&#8217;ve forgotten something, or if you never knew.&#8221;) but also finds that life goes on. Hay&#8217;s second novel, like her first, is filled with beautiful prose, so that locals of the area will be doubly delighted with the depiction of the paradise they call their own. &#8220;And then there&#8217;s the air, the nor&#8217;-easters that play along the shoreline; the westerlies that dump fractious moods over the edge of the escarpment; the smoky draughts in late spring and summer that telegraph bushfires and then spur them on. There are soft sea breezes that tease and tickle with lightest scent of salty water. There are southerly busters, powerful fronts that push up the coast to break open the heat of the day&#8212;they smell clean and crisp, and Ani pushes her nose hungrily into hot afternoons in search of their coming&#8221; and &#8220;Her blond hair so bright, it looked lit from within&#8221; and &#8220;..the afternoon&#8217;s light hits that point before sunset where it softens and swells sometimes into a few minutes of rounder, warmer illumination. Through the window, the greens of the trees thicken slightly; the shadows lengthen, and the sky takes on a fuller shade of blue. The mountain, diminished at midday, surges again to its full height; the clouds flare a brighter white&#8221; are but a few examples. Hay expertly renders the feel of the late forties in a small Australian coastal village; her characters have depth and appeal; her dialogue is credible and the plot contains hope and heartache in equal measure. An absolute pleasure to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An absolute pleasure to read </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> Set in Australia after WW2, in a coastal village south of Sydney - you can almost smell / hear / feel the contrast between the sea and the trains..You really get into the heads of the characters as they come to grips ( through their memories) with loss, and rebuilding. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Moving... </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> It's 1948, and in Thirroul, south of Sydney in coastal New South Wales, Annika (Ani) Lachlan lives with her husband Mackenzie (Mac) and their daughter Isabel.  When Mac, a railway man, is killed in a tragic work-related accident, Ani needs to forge a new life for herself and Isabel.  She is offered a job at the Railway Institute Library, and this enables her to reconnect with other members of the community.  Suffering takes many forms.  Ani has lost her husband, while Dr Frank Draper feels terribly guilty about the fact that his medical assistance could not save concentration camp survivors who died on their first day of freedom and Roy McKinnon, a poet, has lost hope and his ability to write.  Each of them, suffering their own form of loss, is struggling with life.`It's hard enough accommodating death as the thing that interrupts a story you care about, let alone the shudder of realising that there must have been more stories beyond all the ones you'd ever actually heard.'Thirroul is where DH Lawrence wrote `Kangaroo' in 1922, and the book continues to be popular at the Railway Library. As Ani becomes more comfortable in her role as librarian, she tries to help others (including Roy McKinnon and Frank Draper) to find books that may interest, inspire and help them.`You can find anything in a story if you look hard enough.'This is a bittersweet story.  There may be happy endings for some of the characters, but not for all.  Ani learns that all lives have different dimensions: she knew Mac well, but not completely.  Her daughter, her neighbours and Mac's workmates add to her knowledge.  Ani learns, too, that life progresses.  Mac's death, and the death of so many during World War II, changes (but not concludes) the lives of those still living.  There are choices to be made.`But it comes, this memory, and just as quickly goes: she's making a new story here, not reliving an old one.'I became swept up in this story, and while the ending was not the happy ending I initially hoped for, it fits the story.  Life is rarely neat, without some loose ends.  I'm wondering, now, how life continued on for Ani.Note: I accepted an advance reading copy of this novel for review purposes.Jennifer Cameron-Smith </p>
+
+
+<h2> review.summary </h2>
+
+ <p> `She had never appreciated before the lovely anonymity of the unremarkable life.' </p>
+
+
+<h2> review.date </h2>
+  06-21-2013  
+<h2> review.text </h2>
+
+ <p> A touching story  that evolves around the lives of a woman and two men trying to come to terms with traumas suffered.The woman has abruptly become a widow and the men have returned from WW2 to try and resume a normal life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Railwayman's wife </p>
+
+
+<h2> review.date </h2>
+  06-04-2013  
+<h2> review.text </h2>
+
+ <p> Sensitve and beautifully written this is the story of a wife who, after enduring the deprivations during the 2nd World War, loses her husband to a simple and avoidable railway accident. Her grief and her adjustment within her environment and her community are conveyed to the reader stylishly by the author. The descriptions of the coastal area just south of Sydney in New South Wales, Australia are so realistic that one feels one's self standing there admiring the surrounding beauty. The introduction of poetry adds a great deal of literary merit to this fine novel which is strongly recommended as a pleasant read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sensitive </p>
+
+
+<h2> review.date </h2>
+  10-27-2013  
+<h2> review.text </h2>
+
+ <p> I was delighted to read a story set in an area of NSW I have only just become familiar with.Good flow of storyI felt an  emotional attachmentThe ending surprised meWill look for more by this author </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Emotional journey </p>
+
+
+<h2> review.date </h2>
+  06-09-2013  
+<h2> review.text </h2>
+
+ <p> Something totally different to what I usually read, slow but good story, glad I bought it. Really gave me a vivid look into their lives and the effects of the lives of people after the war when they cam ehome again and tried to fit back in. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting Read </p>
+
+
+<h2> review.date </h2>
+  06-09-2013  
+<h2> review.text </h2>
+
+ <p> The Railwayman's Wife is an eloquently written book. It has keen sense of time and place. The three main characters are well drawn. The plot is simple but well constructed. A sad but uplifting story.Margaret Jaffe </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review of The Railwayman's Wife </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> This book was really enjoyable as it took place down south in N.S.W after the war and it is where my son lives now and we could see something's in the area were the same and some had changed. A really interesting and great read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> Only 4 stars because events and consequences are too realistic for me.  Good read but a little depressing.  I like to be lifted out of life's tragedies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too much like real life </p>
+
+
+<h2> review.date </h2>
+  07-05-2013  
+<h2> review.text </h2>
+
+ <p> Put it on your must read list. It is well worth it.  I loved the story, the plotting, the writing style, the characters.  They were alive, very real.  It certainly is a time of period male/female relationships, morals and ethics, and this is handled exceptionally well.  It is not easy to write in the past as the past actually was when it's a recently written book.  The ending is important. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00353W23W <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-22-2011  
+<h2> review.text </h2>
+
+ <p> Other reviewers here are 100-percent correct: This DVD is an amateurish ripoff at any price.It is under 40 minutes long, it has inept technical problems suggesting that it's a bootleg, it appears to have been taken from a VHS tape, and the entire video is plastered with watermarks, Japanese text, English text, and logos.I'm shocked that Richard Carpenter has not had this DVD removed from the market. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Garbage </p>
+
+
+<h2> review.date </h2>
+  06-04-2013  
+<h2> review.text </h2>
+
+ <p> i just got  done watching my dvd it was nice to see them sing it was great to see karen  before she got sick she was greatcharlene </p>
+
+
+<h2> review.summary </h2>
+
+ <p> karen and richard </p>
+
+
+<h2> review.date </h2>
+  04-03-2010  
+<h2> review.text </h2>
+
+ <p> This DVD is a Carpenters' live studio concert from London in 1971.  Even though the audio/video quality of this disc isn't the greatest, it is still good to see and hear live performances by the Carpenters of some of these songs.  A few songs sound synced to the original recordings, but most are live performances.  The other reviewers are right about the quality of the disc, but don't let that stop you from purchasing it, if you are a Carpenters fan. Wish there were other concert DVDs of the Carpenters available. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Live in 1971 </p>
+
+
+<h2> review.date </h2>
+  03-31-2011  
+<h2> review.text </h2>
+
+ <p> I was very disappointed in this DVD production of the 1971 Carpenters, concert, "Live in London".  I really cannot say anything positive about this DVD.  It is of poor quality in terms of audio and video.  It reminds me of bootleg copy of a poor original.  Knowing teh Carpenter tradition of excellence, I have to question why this DVD is such a departure from the quality of the previous musical releases? I have seen better cuts of this concert on You-Tube!  I have this concert on VHS, and it is every bit as good in terms of quality as this DVD, and my VHS tape is a copy of a copy! If this is the video and audio master, then there is nothing left in the Carpenter video vault.There is a bootleg copy of the tv show, "The Wonder Years" that is sold on various sites, and it is clearly a recorded version (probably directly from tv, and is being presented as "new".  Perhaps this is a Japanese tv release that was copied and is being presented as "new".  If so, it is a poor replication of the original concert.I am very disappointed.konedog </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can This Be a Real Carpenter Production? </p>
+
+
+<h2> review.date </h2>
+  07-03-2010  
+<h2> review.text </h2>
+
+ <p> The singer is the bestyour lovely voice remember my age 30 ys ago </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lovely Songs </p>
+
+
+<h2> review.date </h2>
+  11-15-2010  
+<h2> review.text </h2>
+
+ <p> My VHS recording from the TV was WAY better than this!  I recorded the special off of VH1 years ago and although they left a song or two out, my video quality is better.  This production was amateur!  What is most frustrating above all that is that I physically have to change from track 2 to 3, otherwise it goes back to track 2.  You would think that with such a beautiful and professional cover, than the production of the DVD would be just as good-that's how I got suckered into it.  If you love the Carpenters, you might want to have this just so you have SOMETHING different (them performing at the BBC), however, do not get hooked on this merchant's products. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Carpenters at the BBC </p>
+
+
+<h2> review.date </h2>
+  11-15-2012  
+<h2> review.text </h2>
+
+ <p> I didn't know this was out to buy until I found it on Amazon. It was a treat to find and to buy it. They were great together and she was wonderful without a doubt. Her voice is endless. Live in London- The Carpenters </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Carpenters: Live in London </p>
+
+
+<h2> review.date </h2>
+  10-13-2010  
+<h2> review.text </h2>
+
+ <p> ...but worthwhile to real fans; just not at the price being charged. Look for the Region-free Malaysia re-issue or the 2007 Region 2 Japan issue (the Malaysia issue comes from the same source as the Japan 2007 issue). They have the complete show in sequence as was done, and have the original "Close to You" intro to the show (reminiscent of the little intro on "The Singles 1969-1973" LP), as well as the song "I Fell In Love With You" (which was not sung by Karen... or Richard... but they are participating musicians). The broadcast and production credits and titles at beginning and end are intact. It is not from the original negative or reel owned by BBC - but a very clear broadcast from BBC Four in 1971. Looks pretty darn good - a lot better than the "Live In London" version sold here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poor quality issue... </p>
+
+
+<h2> review.date </h2>
+  04-15-2010  
+<h2> review.text </h2>
+
+ <p> Well I gave this a three due to the fact that the subtitles drove me nuts,this factor when manufactured was a simple push of a button so the viewer could remove it.This release is first off a fake this is not the Carpenters live in London,duh you usually have an audience this is no doubt done in a studio.The japanese subtitles makes me believe this was done for japanese audiences cause as far as I know and I have a masters Degree English people dont need subtitles to hear American songs.The soundtrack is defiately canned audience applause.Plus should we mention the fact that the same track keeps playing back and back over and over again"Love Is Surrender".Also did anyone see the ripple on the disc itself which can cause overlapping of the same songs.Amazon I love for bringing alot of different stuff to people but when crap like this appears you take away from the greatness of a group like the Carpenters.As far as the Video goes I cannot agree with other reviewers I think its your tv as my DVD was very clear video.I know for a fact when I was younger and the Carpenters played the Valley Forge Music Fair here in the Deleware Valley they had Cameras taping their show,where is this and other live concerts.I cannot believe Richard Carpenter would allow a piece of garbage like this out,he usually cared about the product the customers would get.Return this to Amazon at there expense and get the word out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Defiately meant for Japanese Distribution </p>
+
+
+<h2> review.date </h2>
+  04-13-2010  
+<h2> review.text </h2>
+
+ <p> I was utterly disappointed in this product. This is nothing more than a bootleg. The songs aren't even in the correct order. The video jumps and changes color from time to time. This is a bootleg and a very bad one. Stay far from this. The only reason why I'm keeping it is because I love the Carpenters. I'll keep in until a real, high quality live in concert DVD is available....shameful... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't believe Amazon would selll bootleg!!! </p>
+
+
+<h2> review.date </h2>
+  03-31-2010  
+<h2> review.text </h2>
+
+ <p> I am a longtime fan and collector of The Carpenters.  When I first heard about this DVD I was excited.  There are very few DVDs on the market on Karen & Richard and so I had been looking forward to this.After a two week delay from the publisher the DVD has finally been released and I received my copy from Amazon in today's mail.  I am very disappointed to say the least.There are 10 selections from the 1971 BBC Concert from the UK in which this is taken from. This TV concert from British television contains the best "live" version Karen Carpenter ever sang.  However, the video quality is terrible!  I was not expecting this as VH1 aired the same concert a decade ago and the quality shown on that airing was good.  So why this is poor quality is beyond me.  The other selections like "And When He Smiles" are of good quality but they have Japanese titles at the top of the screen  plus English subtitles that I couldn't remove on playback on various DVD players.  This also wasn't on the VH1 broadcast so they shouldn't have been on this copy.The ten performances from Karen and Richard are as follows:1. Help2. Love Is Surrender3. And When He Smiles4. Rainy Days and Mondays5. Bacharach/David Medley6. For All We Know7. Sometimes8. Close To You9. We've Only Just Begun10. SuperstarThis, of course, is not to advise not getting this DVD.  It is still a must have for anyone who loves and enjoys the music of The Carpenters.  But this is what you can expect when you purchase the DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A disappointment </p>
+
+
+<h2> review.date </h2>
+  01-19-2012  
+<h2> review.text </h2>
+
+ <p> If the quality of the video and the sound of the music was better, I would give this DVD 5 stars. Just hearing Karen Carpenter live makes this DVD worthwhile. There  are few Dvds out there that have her singing live, so I'm more than happy to have bought this. Listening to her singing live should make everybody realize that she was one of the great female singers of her generation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Great Karen Carpenter </p>
+
+
+<h2> review.date </h2>
+  04-19-2010  
+<h2> review.text </h2>
+
+ <p> For the past 5 years, I have been a regular Amazon customer and this DVD takes the prize for having the poorest video quality out of all the DVDs I have purchased. Very bad picture quality, bad editing and track 2 (LOVE IS SURRENDER) after it finishes keeps going back to the start unless there is manual intervention and you forward it to the next track (AND WHEN HE SMILES).Anyway, in any situation, there is always a positive side and inspite of the DVD's poor video quality, I must say that this DVD is still worth owning if you are a true Carpenters fan like myself. Why? Because out of 10 tracks listed, this DVD contains 8 PRECIOUS LIVE PERFORMANCES from the late, great Karen Carpenter. These are performances I have actually seen for the very first time!Rather than a standard concert, this DVD is more of a LIVE STUDIO CONCERT filmed in 1971 in the UK after the Carpenters released their second and third albums "Close to You" (1970)and "Carpenters"(1971). Out of the 10 songs, only 8 are LIVE performances and the other 2 are NON-LIVE performances.These are the songs:1. HELP - this may have been performed live but in this DVD, Karen's performance is dubbed with the studio version;2. LOVE IS SURRENDER - LIVE;3. AND WHEN HE SMILES - LIVE and a RARE performance never seen before;4. RAINY DAYS AND MONDAYS - LIVE;5. BACHARACH / DAVID MEDLEY - again, like Help, this may have been performed LIVE but the performance is dubbed with the studio version; I had hoped this was a LIVE PERFORMANCE because there was a LIVE Bacharach/David medley included in the expensive Carpenters Anthology 4-cd set manufactured in Japan;6. FOR ALL WE KNOW - LIVE;7. SOMETIMES - I am not so sure if this is a LIVE version because it sounds exactly like the studio version but I think it is LIVE;8. CLOSE TO YOU - LIVE;9. WE'VE ONLY JUST BEGUN - LIVE;10. SUPERSTAR - this is actually my favorite LIVE performance in this DVD because Karen delivers a bravura performance that even surpasses the brilliant studio version. One thing though - this performance was definitely NOT part of this LIVE STUDIO CONCERT filmed in the UK because it is obvious that the performance was taken from another concert at another time showing Karen with a different look, different background and film was used instead of video. But, nonetheless, "Superstar" is a GEM of a PERFORMANCE!Aside from the poor video quality, I must also make mention that the English and Japanese lyrics on screen are downright irritating and insulting to a singer of Karen's calibre. These were clips of their performances intended for Karaoke and not for their fans. The Karaoke thing, therefore, sadly undermines the greatness of Karen's performances. The manufacturers of this DVD obviously had no respect for the artist because of the sloppy job in putting together this DVD which is being sold at $11.49!Karen is gone but her musical legacy lives on. Her voice was God-given and she possessed the qualities of a truly great singer - angelic, distinct, pure voice; flawless delivery and perfect pitch. I pray that one day, fans will be treated to a box-set of all Carpenters performances. The Carpenters are music icons who richly deserve to be immortalized in the most sophisticated audio-video form (DVD or Blu Ray) digitally remastered with 5.1 surround sound for the appreciation of their millions of fans and generations to come. Fans will eagerly await for that day to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DVD STILL WORTH OWNING BY CARPENTERS FANS </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

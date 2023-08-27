@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1495445674 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> I was given a chance by the author to read this part of the series for an honest review. I am in love with the way this series is going. I can't wait for the next. Unbreakable picks up right where you left off and is becoming more steamy and intense. Absolutely left wanting more. Amanda does an amazing job of pulling you and making you relate to the characters and the story!! Waiting patiently for the next ones! Would definitely recommend this series to everyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> keeps getting better! </p>
+
+
+<h2> review.date </h2>
+  06-06-2014  
+<h2> review.text </h2>
+
+ <p> Devon and Erin finally tell their mom's about their relationship and Devon shows us how protective he is of Erin. There's some drama to be had but then, what would a high school romance be without it?This is a sweet story, one that I am enjoying as it unfolds...so glad I have a chance to read the final book as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Book 3 Devon and Erin go further... </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> Ok, this series is getting seriously steamy! Erin & Devon are the epitome of young love! Can't wait to see what happens next in their story!! Hopefully all of their wishes to be together come true!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Steamy! </p>
+
+
+<h2> review.date </h2>
+  06-12-2014  
+<h2> review.text </h2>
+
+ <p> I loved this book! They keep getting better and better. I feel like I know Erin and Devon inside and out. I feel their frustration and longing with each word in the book. I am so gripped in this story I cannot wait for the next release. I won't list specifics as not to give away spoilers, but I guarantee You will fall in love with this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW! </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> This series gets better and better, beware one last cliffhanger at the end!  The love between these characters is so strong that I don't think anyone can break.  The love scenes are super steamy!! This book is a must read in the series!  Can't wait for the next book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> arc review </p>
+
+
+<h2> review.date </h2>
+  06-06-2014  
+<h2> review.text </h2>
+
+ <p> In this book Erin and Devon share more of their relationship physically then the second book. As they grew up as best friendstheir love for one another has increased into something so blissful and touching.. It also shows how much they both want to share their lives together and that nothing will come between them unless they don't both get accepted into the same colleges they applied too. The storyline of these 3 books together is how you go from best of friends growing up as children and falling in love with each other and taking whatever comes at them. Can not wait to see what happens in the fourth book Unbreakable Forever... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great read.. </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> I love Amanda's books they are easy to read And are excellent!  I highly recommend this series. The books are great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Series! </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> **I was provided a copy of this book by the author for an honest review*** I am reviewing this book for Shanoff Says... on blogger & Facebook *This is more of a serial series that it is a novel, there is 1 more book after this and 2 before.  This series keep heating up in a good way. This went way past your typical high school relationship and more of a NA relationship. The steamy scene are well written and definitely get the reaction that is meant. We are seeing Devon and Erin's sexual appetite slowly escalate from vanilla to a little not so vanilla. I love Devon and I love Erin and their very mature personalities for two high school kids.The transitions are little hard to follow at times but I was able to catch up pretty quickly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet, Steamy & Sexy </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> I really am really enjoying this series.  It has kept me interested and eager for more.  I am very impressed with Erin and Devon and I love how Amanda's books pick right up where the last left off.  She gets right to the point.  I can't wait to read Unbreakable Forever! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It just keeps on getting better </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> I really loved the direction Unbreakable Together took Erin & Devon. While the other two books focused on them overcoming an obstacle of some sort, Unbreakable Together focused on their relationship and love for one another. They were more expressive verbally and physically, and we get to see just how devoted they are. I'm so invested in them and can't wait for the next installment. You will not be disappointed.I was given an ARC for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Favorite In The Series </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

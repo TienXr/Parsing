@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B008HCX6S6 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-23-2012  
+<h2> review.text </h2>
+
+ <p> This case is everything I was looking for. Its sleek, it fits well, and its easy to carry. FOR THOSE WITH A T4I AND 40 MM pancake: I was able to fit my 40mm on the side in one of the zippered pockets, but its a little tight. I was also able to fit my charger in the other side but the cable attached to the charger wouldnt fit, so i got a small carabeaner and a small case to attach to the side.I ordered from Mega West. They shipped very quickly through amazon prime. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Item!!! </p>
+
+
+<h2> review.date </h2>
+  09-19-2012  
+<h2> review.text </h2>
+
+ <p> I just recently bought the new Canon T4i with an 18-135 mm lens and then ordered the MegaGear Camera Case Bag to go with it.  I was concerned that the camera with the larger lens wouldn't fit but it does beautifully.  This is an extremely well constructed camera case made out of a heavy duty material which I feel will give great protection to my new camera for years to come.  The top flap closes over the camera with a heavy duty zipper.  It also has a zippered pocket on each side for extra items like filters, etc.  A nice wide comfortable CANON EOS strap clips into a heavy duty ring on the camera bag.  The clip is also very solid.  It's a great, handsome bag for the money and I highly recommend it.Anniez </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MEGAGEAR CANON CAMERA CASE - FANTASTIC QUALITY </p>
+
+
+<h2> review.date </h2>
+  08-28-2012  
+<h2> review.text </h2>
+
+ <p> I ordered this bag to go with my Canon T4i with 18-135 lens and it is a very nice bag, seems to be pretty high quality and will hold up. The side pockets are nice for items like a phone, keys, or clothe to wipe the lens, but the only reason I didn't give it 5 stars is because it is definitely a snug fit for the camera with the 18-135. It fits in there no problem, but when you have the shoulder strap attached to the camera, that takes a little manuveriing around to make everything fit, so a tiny bit more space would be nice. But still a nice bag, well worth the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice high quality bag </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> If it had been a heavier duty bag I would have given it 5 stars, still a great bag and I'm very satisfied with it!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great bag for Canon DSLR & others! </p>
+
+
+<h2> review.date </h2>
+  12-15-2012  
+<h2> review.text </h2>
+
+ <p> Strap & pad is unacceptable.  Strap is flimsy and too short.  Strap pad will not stay in place.  Zipper sticks at cornersrequiring2 hands for second pull to open.  Materail should be stiffer for some crush protection.Would have never bought this if I had seen it in a store.The case does hold camera and lense (I have T4i and zoom) adequately, but a bit tight as other reviewers have noted.Te pockets are nice and work well.  They can store smll stuff like bateries, cleaning stuff, filters, memory cards, etc., but not a flash or a leense. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not substantial </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> I bought the T4i and this was recommended with it.its a nice size for carrying around, smaller than many purses has an over-shoulder strap, and fits in draw-string backpack/bags like a charm.but it's a bit awkward to get the camera in this case, and then with the lens (which I seem to remember this saying that was possible)...I wrap my lens in the fabric bag this case came in, because otherwise my lens would bump around a bit...and for the cost of the camera and the lens that worries me.To fit my lens in with my camera (was never quite sure what arrangement they had in mind for the camera... a diagram for possible arrangements within the case would've been helpful) like that stretches the seams a bit more than they're supposed to stretch.I'll have to do a little bit of patching on the top of the case, after a 3 week trip and taking it out and about with me most days...but if you aren't looking to carry more than one smaller lens, this works ok.it won't protect it much at all, but for traveling light it works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it works... </p>
+
+
+<h2> review.date </h2>
+  03-14-2013  
+<h2> review.text </h2>
+
+ <p> This is a great bag if you're looki g to inly store the camera and maybe the battery charger. The construction is of great quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The bare minimum </p>
+
+
+<h2> review.date </h2>
+  10-15-2012  
+<h2> review.text </h2>
+
+ <p> The MegaGear is perfect for our Canon Rebel T3. Granted, you can only put the camera with one lens (attached) but that's all we need. The two side pockets offer enough space for extra batteries, extra SD cards, or the lens covers.The material is water resistant, and overall the bag doesn't weigh much. Also, the strap can be adjusted. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent entry-level bag </p>
+
+
+<h2> review.date </h2>
+  07-28-2013  
+<h2> review.text </h2>
+
+ <p> I normally get good results based on other reviews.  I guess I've been reading product reviews so long, I can spot those whom are "planted" to leave good reviews, and those whom actually own the product.  That said, I'm not criticizing those whom left a good review, I just don't agree.My set up is a Canon T4i w/ 18 - 135mm.  As others have noted, this is a tight fit.  That's fine, however, the quality of the padding is not very good.  I understand that this is not designed to offer protection like a pelican box, but the materials feel skimpy, as though it was designed to use as little padding as possible to increase the price margin.I'm not even that "bummed out" about the very small side pockets.  Again, I understand that the goal here is for a "day bag."  It's not the bag all your gear is going in when you leave on the trip.  It's to run a belt through, or to use the shoulder strap while your out that day.  However, if on the vast majority of your day trips you like to change out lenses, then definitely take a pass on this and get a larger, more cumbersome bag.  I am fine with it being small as a day bag, because most of the time I'll just take my multi-purpose 18-135mm ef-s STM lens.However, the real problem here is quality.  For those whom have described this as a "high quality bag," well....I just have to disagree.  This bag should not be a penny over $25.  At $50, it should be slightly larger, have an embroidered EOS logo, and a shoulder strap that does not feel like it accompanies something you just won at the county fair.  The zippers feel very cheap.  Frankly, if I saw this very bag at the flea market, I would think immediately it was an illegal knock off due to just how cheap the zippers feel.  Not surprised at all to read a few comments about zippers breaking.All that said, it's not a "horrible" bag by any means.  It just feels cheap.  And oh, BTW, that faux velvet Crown Royal string sac it comes in is a nice attempt to make it appear like you've just received something high end.....but it's a thinly veiled attempt to disguise that this thing was fabricated in the cheapest way possible.  Yeah, that EOS logo is cool to show the world, but I'd rather have a better case that is actually going to protect my investment.As my name suggests.....that's just One Man's Opinion. :-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3 stars is being generous - Okay, but overpriced </p>
+
+
+<h2> review.date </h2>
+  06-03-2013  
+<h2> review.text </h2>
+
+ <p> I bought this bag to hold my Canon T4i with 18-145 telephoto lens. The bag seems solidly constructed and holds the camera suspended and securely in place. The bottom is hard plastic unlike the rest of the bag and could protect the camera and lens if the bag is accidentally dropped with the camera in it.  I don't want to try that test but it would provide better impact protection than the typical soft rectangular bag. This is of course my best guess. It's best not to ever drop a camera even in a bag.The way I use this bag is to first place my lens hood in the bottom and then place the camera in the bag with the lens down. The suspension system holds the camera perfect in place.The bag has 3 zippered pockets which can hold the extra batteries, remote cable and filters. The loops that hold the straps are fabric and might not be the strongest material but should be strong enough.. The handle on top is very soft material and very comfortable to hold for short periods of time..All in all, it's a perfect bag for the combination of dSLR camera and zoom lens and would work with all the Canon rebel cameras and similar Nikon cameras with zoom lenses or any other dSLR camera that has a good size zoom lens.  It's not big enough for some of the pro models which would be too tight and weight too much for this bag.The price is quite reasonable and very competitive with the best bags out there. I use a second small bag to carry extra lenses, flash, and whatever won't fit in the MegaGear bag. This is not the best bag if you want to use the standard small zoom kit lens which could be placed in just about any bag. It is definitely worth the price and should provide long usage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MegaGear Ultra Light  Nice Quality Bag for dSLR and Zoom lenses </p>
+
+
+<h2> review.date </h2>
+  03-10-2013  
+<h2> review.text </h2>
+
+ <p> I like this bag because a Canon EOS just fits...there is no room for lenses or really anything other than an extra battery in the zip up compartments on the sides. If you need something just to protect your camera when not in use or to transport it, this is the case.Light, and easy to carry. If you need to carry other items for your camera such as an extra lens or cleaning supplies, don't bother with this case, it won't be right. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits Just The Camera... </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> I bought this several months ago for a Canon PowerShot SX50 HS and i love it. Just the right size and allows me to include an extra battery, charger and memory cards with no problem. Nice quality. No complaints. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth the price </p>
+
+
+<h2> review.date </h2>
+  01-19-2013  
+<h2> review.text </h2>
+
+ <p> This camera case is exactly what I was looking for. It is as compact as possible, yet it still accommodates my T4i, an 18-135 lens, and a few small accessories as well. When I'm on a picture taking expedition, of course I prefer and need a larger bag, but for vacations, day trips, etc. this bag is perfect. My favorite feature is the belt loop on the back, so that this case can be worn quite comfortably like a holster on your hip. The case and the T4i are small and light enough that I prefer this method rather than having it dangling from my neck or over my shoulder. It also makes it impossible for a snatch-and-run type of theft, when it's attached to your belt. The quality of material and workmanship is good, although at nearly $50, it does seem a bit over-priced. Price aside, it is exactly what I want, so I'm giving this camera case a 5 star rating. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This case is perfect for me </p>
+
+
+<h2> review.date </h2>
+  03-16-2013  
+<h2> review.text </h2>
+
+ <p> I purchased a new Canon T4i recently, and ordered this bag to carry it. It is very light but extremely supportive with nice fitting inside, and also at the bottom for the objective. You can feel the protect is strong enough for regular usage, and it is particularly nice to have Canon on the surface, which matches the camera. The should belt is strong, and it is nice you can attach to your belt. On the both side, you can also insert 2 filters each or some memory cards.  Of course, it is not too big to carry other pieces, such as battery charges, a second objective. However, this is one of the best bags for EOS camera. I would like strongly to recommend it. Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a great bag for Canon EOS REBEL T4I </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

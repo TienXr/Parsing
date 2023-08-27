@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B003EYEE3S <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> Not really what I was expecting...which is VERY good!!!  This movie had an unexpected twist, which is a little unusual for romantic movies.  The actors were great!  I started out thinking &#34;how could she&#34;.  I recommend The Good Guy for those who enjoy romantic drama.  I just wish it was a little longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice romantic drama.... </p>
+
+
+<h2> review.date </h2>
+  10-25-2012  
+<h2> review.text </h2>
+
+ <p> This one has a nice pace. I was drawn in from the start. The tale is Wall Street meets Friends meets When Harry Met Sally, sort of. I wasn't familiar with these young Hollywood stars and starlets. Andrew McCarthy of "The Breakfast Club" plays the Gordon Gecko character on Wall Street here. This is a boy gets girl film, but the twists are interesting. Worth watching. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the better date movies </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> Hey, enjoyable for what it was. Got a kick out of Andrew McCarthy showing up as the head honcho of a Wall Street firm. Talk about less than zero. The acting was pretty good. I thought the &#34;good&#34; guy was played spot on by newcomer Bryan Greenberg. Also, gratuitous Anna Chlumsky is in it as well as Jason Street of &#34;Friday Night Lights&#34; (Scott Porter is his &#34;real&#34; name) escaped his wheelchair to play a nice guy on the surface but sleazy below that Wall Street douche.Plus Rory Gilmore is still in New York as Beth Vest. No, I'm not making that name up. That's Alexis Bledel's character's name. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good sums it up </p>
+
+
+<h2> review.date </h2>
+  06-19-2012  
+<h2> review.text </h2>
+
+ <p> Never rented this movie????? Why did I get an email to rate this purchase when I never rented it? Gonna look back on my charges now! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ????? </p>
+
+
+<h2> review.date </h2>
+  12-01-2013  
+<h2> review.text </h2>
+
+ <p> I hate it when movies start with the ending then start telling how everyone got there.  Having said that, the movie is OK.  The acting is decent and the plot is interesting.  It did have a nice life lesson about being true to yourself, yada yada yada.  The true ending was a bit too abrupt for me, but overall it was an OK movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Good Guy </p>
+
+
+<h2> review.date </h2>
+  09-11-2012  
+<h2> review.text </h2>
+
+ <p> I originally watched this movie on NETFLIX, and decided I wanted a copy of my own for my DVD collection.  The DVD was received well within the time frame given by the seller, the product was in excellent condition and I am so happy I purchased it.  Thank you for the great product and the great service.  THANKS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DVD MOVIE FROM AMAZON.COM </p>
+
+
+<h2> review.date </h2>
+  04-11-2013  
+<h2> review.text </h2>
+
+ <p> I have always like Alexis Bledel as an actor. I think the story line is not too engaging. But it is one of those "feel good" movie so I gave it a 3 star rating. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just a good movie... </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> Upon first viewing I hated it. It's so predictable. Not a good story at all. But I love Scott Porter and if you like him, it's worth a watch. Gave it 3 stars because I think Scott's so perfect, it was good to see a different version of him for once. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bought it for Scott Porter... </p>
+
+
+<h2> review.date </h2>
+  06-15-2012  
+<h2> review.text </h2>
+
+ <p> Don't waste your time watching this movie because you will regret it!! The story-line, acting and the writing was terrible, so basically the whole movie was dreadful. What I regret most is that I will never get back the time I wasted watching this stupid movie. I was hoping for a nice funny romantic film, but I was very disappointed and it was simply boring. Save your money and time!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't wast your time!! </p>
+
+
+<h2> review.date </h2>
+  07-30-2013  
+<h2> review.text </h2>
+
+ <p> Alexis Bledel plays the same type of girl she always seems to play: well behaved and not that exciting. I like her though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chick flick with a little twist in the end </p>
+
+
+<h2> review.date </h2>
+  04-04-2013  
+<h2> review.text </h2>
+
+ <p> I liked this movie. It was a simple relationship darma movie, but the actors were great in their roles. It's not a romantic comedy, so if you're looking for laughs, you'll need to find those elsewhere. But it's a story you can relate to, and for that I give it praise. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Good Movie </p>
+
+
+<h2> review.date </h2>
+  06-16-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed this movie. It was somewhat predictable but it has actors I like so I rented and enjoyed.  I enjoyed the dialog.  There was enough here to recommend it.  It isn't heavy, it wasn't depressing, and it was entertaining for me.  Well worth the 2.00 spent...unlike the 10 spent at the movies to watch something I really didn't enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chick Lit...I enjoyed it more than the others </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> Anything &#34;The Babe&#34; does I watch. It just so happens that she too has not found her role but when she does lookout world.Kudos </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Matein-Movie </p>
+
+
+<h2> review.date </h2>
+  06-20-2010  
+<h2> review.text </h2>
+
+ <p> A funny New York story of f the Wall Street money-makers, their inter-relations and sexual exploitations as Tommy exemplifying the successful career young professional lost it all to Daniel, a not-so-bright co-worker-co-friend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wall Str. Style Living </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> Too much sex and foul language for me.  I watched it when I found out Andrew McCarthy was in it and it was awful!  If you had a 0 I would give it that!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Much foul language </p>
+
+
+<h2> review.date </h2>
+  04-05-2014  
+<h2> review.text </h2>
+
+ <p> But I only rented it on Amazon Prime.  Shallow sums it up.  She waits two months to fall in bed with the bad guy, and falls in bed with the good guy in about two weeks.  What a waste. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This movie makes me wish I could take it back to the store. </p>
+
+
+<h2> review.date </h2>
+  03-18-2011  
+<h2> review.text </h2>
+
+ <p> Did not like this show at all too much unnecessary language for me and very predictable outcome without a real conclusion.  Not great performances by the stars which is a shame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Good Guy but unenjoyable film </p>
+
+
+<h2> review.date </h2>
+  06-26-2014  
+<h2> review.text </h2>
+
+ <p> I found this movie to be *just ok* it's a shame that the title is &#34;The Good Guy&#34;as the Ambitious New Yorker Beth (played by Alexis Bledel)  has it all withthe Hotshot of Wall Street Tommy (played by Scott Porter) but when shemeets his friend Daniel (played by Bran Greenberg) she winds up hookingup with Daniel and Tommy winds up with a Black Woman.  This movie is just okay.I saw it once and that was enough, this is definitely not a five star film and I do notthink it is a four star film either.  I think it is just an okay film and not one to see more than one time! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheesy Movie not received well..... </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> Not sure if this needed to be made into a full length movie for theaters but it kept me interested. Guess the moral of the story is good guys don't always finish last. Decent acting for a low-budget movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watchable in a TV kinda way </p>
+
+
+<h2> review.date </h2>
+  11-06-2012  
+<h2> review.text </h2>
+
+ <p> There was a twist to this story, which made it more interesting.  The acting was very good and the story held our interest.  The characters were likeable - even with their flaws. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not always the Good Guy </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

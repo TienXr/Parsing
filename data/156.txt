@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1605290572 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-10-2013  
+<h2> review.text </h2>
+
+ <p> i bought this DVD from a second hand store and i was hoping that it was going to be like a nude workout kinda movie but no nudity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> shameful </p>
+
+
+<h2> review.date </h2>
+  11-01-2010  
+<h2> review.text </h2>
+
+ <p> First off I want to say that the release dates on Amazon drive me nuts! I have now noticed this with many new DVDs that you can get them elsewhere weeks or months ahead of when Amazon thinks it will be released. Very strange!Anyway, on to the review. I have exercised all my life (over 25 years) and consider myself advanced and very knowledgeable when it comes to DVDs (I own hundreds). I like Jessica as an instructor, she cues well and even if she makes it challenging, there is no dread factor.This DVD consists of a warm up, a 20 minute cardio interval segment, a 20 minute strength training segment with abs and a cool down/stretch. Total workout is 50 minutes. Additional shorter options on the DVD are the cardio workout with warm up and stretch (30 min), and the strength workout with warm up and stretch (30 min) if you want to do them on alternate days. The cardio alternates high and low impact and the time just flies by. The strength training has a medium to fast pace, so if you go heavy this can be extremely challenging, but she leaves you just enough time to grab another set of weights between exercises so that you don't have to stop the DVD (I find this important). One of the background exercisers also shows beginner modifications. I felt I got a really good sweatty total body workout in just under an hour. Very pleasant and satisfying workout, highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great DVD - get it at Target! </p>
+
+
+<h2> review.date </h2>
+  03-27-2013  
+<h2> review.text </h2>
+
+ <p> I loved doing this tough workout! Jessica Smith is calm but motivating and takes you through both cardio and strength training workout. You can opt to do the 20 min strength and 20 minute cardio sections separately or altogether. I did it in one go and it is KILLER- but in a great way. you definitely feel muscle soreness the next dayAnother big plus is that she uses alot of compound moves (like Jackie Warner) so you never really do just one thing at once. You use multiple muscle groups hence increasing your fat burn.I dropped a star because at the beginning of the DVD the cueing was a little (just a little!) off but as the workout progressed this improved.I thought this was destined to be another &#34;girly&#34; workout but Jessica Smith delivers. You definitely want to add this one to your workout DVD rotation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Love It! </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> We received a collage video catalog and this was in there so we boought it here instead so we could get a better deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> cool </p>
+
+
+<h2> review.date </h2>
+  04-22-2013  
+<h2> review.text </h2>
+
+ <p> One of the strongest and most efficient workout DVDs I've found in a long while. Combining equal parts cardio and strength training, Jessica Smith hosts with perfection and the moves are challenging but not draining. Perfect to get you feeling confident in your own (naked!) body or ready to go out on a date. I love doing this workout in the morning; I feel better about the way I look all day. There are some minor drawbacks, like the distracting labels the makers put across the screen for each exercise, but the actual workout itself is TOP-NOTCH and one of my favorite routines out of a gigantic workout DVD collection. Be ready to work and don't be afraid to use heavier weights than they recommend! (I use 8 lbs even though they say 2-3). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loving this workout! </p>
+
+
+<h2> review.date </h2>
+  04-30-2013  
+<h2> review.text </h2>
+
+ <p> I really liked this workout video. I could see a change in my body after using it 3-4 days a week for 3-4weeks. As could my husband! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good </p>
+
+
+<h2> review.date </h2>
+  02-10-2011  
+<h2> review.text </h2>
+
+ <p> I'm at an intermediate fitness level, and wanted a workout that I could do at home in less than an hour."Look Better Naked" fits the bill. There's a cardio workout that will make you breathless and sweaty, and a strength/sculpt workout that will take you closer to a long, lean look.However, I would say that if you have any knee trouble, this DVD isn't for you. There are a lot of leaps, and jumps, as well as squats and lunges. My knees aren't even bad, but I sometimes find them sore, after this workout, no matter how good my form."Look Better Naked" Pros:*--separate cardio/strength workouts that start and end with a warm-up/cool down that can also be played as one long workout*--optional music-only audio track (which I find extremely useful on the days that I want to strangle anyone talking to me during a workout, no matter how encouraging they are)*--Beginner modifications, for those of us just starting, or if we're feeling lazy or winded. ;)*--I really like that I feel like I'm getting a butt-kicking workout in just 30 minutes (less, if I skip the cool down). I have seen results, even without many diet modifications--especially in my legs. (Must be all the jumping and squatting that I complain about... ;D )Cons:*--When you play the routines, either 30 minute or the entire thing, the background models are introduced during the warm-up, and then again at the beginning of each exercise portion. Is this necessary? We just "met" these girls five minutes ago. Also--I wish there was an option for people who are familiar with the workout to watch a version with less chatter from Ms Smith, who seems to very much enjoy the sound of her own voice. I have better things to do with my time than listen to her natter on, and I'd just as soon get on with the workout.*--The cardio routines can be tough to follow, even for someone used to following exercise routines--Smith moves into the next thing pretty fast. Though she explains what's coming up, it's still kind of easy to get out of sync. I'd think it was just me if I hadn't seen other reviews that say the same thing.*--Squats in the warm-up. To me, squats count as the work-out, and I'd rather do moves that limber me before I move into squats.*--There is a hell of a lot of jumping around in the "metabolic" cardio workout. It will get your heart rate up, but, I'm over 30, and it can also be kind of hard on the knees. Just sayin'.All you need are dumb bells (whatever weight you're comfortable with), a mat (probably not even that, if you have carpeting), and good workout shoes.Over all, I'm pleased with this DVD. I like some points more than others, but what counts is, I feel like I'm getting a great workout, in less time than I was spending before. If that's what you're looking for, then I say, go for it. :D </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good workouts--but not if you have bad knees... </p>
+
+
+<h2> review.date </h2>
+  02-21-2011  
+<h2> review.text </h2>
+
+ <p> I consider myself at an intermediate level of fitness.Overall, I got a really great workout (sweated big time.)  Tough but do-able, with a lot of variety to the moves.  Liked the instructor and the the two "backup dancers" --- which I think is the perfect number for workout DVDs ---  were non-annoying (which is good.)  There were some moments when I was hustling to follow along with the footwork but nothing major, didn't feel annoyed or lost at any point.  While the workout is rather high impact with quite a bit of jumping (to get your heart rate up), since one of the backup dancers always does the low impact/intensity modification of all the moves it is still possible for beginners and those who prefer low impact to benefit.For me the main downside was that the instructor talked just a teeny bit too much --- it was non-stop instruction, explanation, motivation, and commentary and I prefer more moments of silence/music or, better yet, just counting.  That said, the DVD does come with the option to turn off commentary  --- not sure if this keeps the cues but I still need those so I don't have to watch the TV the whole time, especially if you are on the floor or facing away. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great workout </p>
+
+
+<h2> review.date </h2>
+  09-08-2012  
+<h2> review.text </h2>
+
+ <p> Jessica Smith is my very favorite.  It's challenging, keeps moving with enough transitions so that you don't get bored, but not crazy dancy can't keep up kind of dvd.  She works out with you as opposed to doing one rep and then walking back and talking about what the others are doing.  I really feel like I get a great workout when I do this one.  Love this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love this workout! </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> These were great workouts. They are both challenging and will make you sweat. You can make modifications as needed. I had to stop a couple of times and drink something but then when right back to it. It is doable but exhausting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Look Better Naked </p>
+
+
+<h2> review.date </h2>
+  02-03-2012  
+<h2> review.text </h2>
+
+ <p> I think Jessica Smith does an amazing job with this workout dvd. The only issue I had was some of the high impact moves, for my knees. She does give the option to modify though. The workout is fun, and I appreciate when everyone does the workout as well, instead of the instructor standing around barking orders and talking. This dvd can be broken into segments or you can do it all at once. Fun workout but you can feel the burn the next day. The screen also shows what you will be doing and how many reps so that is nice. Clear picture, great instructor, excellent workout! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intense but effective </p>
+
+
+<h2> review.date </h2>
+  07-06-2010  
+<h2> review.text </h2>
+
+ <p> I actually enjoyed this dvd alot. I got the book and liked it so much I was curious to get the dvd as well too. I would say my level of fitness is about intermediate to advance and I think this dvd does pretty well catering to different levels. Workouts are short but effective, a great workout to do when you are short on time. This is a good one to keep in your workout dvd collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good workout! </p>
+
+
+<h2> review.date </h2>
+  08-22-2012  
+<h2> review.text </h2>
+
+ <p> I rented this DVD just to check it out before I buy it and I absolutely loved it. The trainer has great energy and is very likable and I love the way the workout is broken into sections : warmup, cardio, strength, cool down. I was sweating alot! I feel my metabolism in overdrive today.  The only thing that is lacking from this DVD is music but overall it is a great workout. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Workout </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> Really enjoyed the work out. Not terribly hard (for the intermediate to advanced) but I am definately incorporating this video into my rotation. Great cueing and the instructor is upbeat and encouraging without being to &#34;perky&#34;. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great workout! </p>
+
+
+<h2> review.date </h2>
+  11-24-2012  
+<h2> review.text </h2>
+
+ <p> This is a good, solid workout that will get your heart going and the sweat pouring! This is one of the videos I have that I can usually feel the next day! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> solid workout </p>
+
+
+<h2> review.date </h2>
+  02-07-2013  
+<h2> review.text </h2>
+
+ <p> I came across Jessica Smith watching clips of her workout on YouTube, and this particular workout has been on my wishlist for sometime.  I finally mastered a few of my other workouts and I was ready to try something new.  I'm glad I did, because this workout is 54 minutes of sweat!  Jessica and her girlz' start off with a low impact warm up which prepares you for a high energy cardio routine.  She isn't cheap with the lunges, and my booty and thighs thank her kindly.  I love that there is strength training and an option for music only, but I need a little more time learning a few of the moves before I choose that option. I would recommend this workout to the hardcore and the beginner who is looking for a change of pace. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spiderwoman in the House! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

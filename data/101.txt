@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B005R4AXBK <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> Let me start by saying that I have purchased many products from Sewell Direct in the past and I have never been dissappointed with any of them. This wall blade item was simply great. Very easy to install, simple to wire and a very good looking product. Sure beats having to hire an electrician to add an electrical outlet. Plenty of room for droping cables also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very well thought out product </p>
+
+
+<h2> review.date </h2>
+  06-22-2013  
+<h2> review.text </h2>
+
+ <p> I love products that make my life easier.  And this sure fits that description.  I had put off installing my TV on the wall because of the complication of running all the cables in the wall.  Yes, I could have bought double gang retrofit boxes and all the wiring, but this was so well designed I thought I'd spend the extra money.  Literally took me less than 1 hour to draw the template on the wall, cut two openings, wire up and install the boxes and run my HDMI and component cables from each box.Level of skills needed to install this product:  Minimal.  If you can use a tape measure, a utility knife, a screwdriver, and a fish tape for your cables (if your wall is insulated like mine was), then you can put this product in! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super Easy Installation, Looks Professional </p>
+
+
+<h2> review.date </h2>
+  06-02-2013  
+<h2> review.text </h2>
+
+ <p> The Sewell Wallblade does exactly what the advertising claims--hides the messy cords from a wall-mounted TV. I found it very easy to install. I have over a dozen connections to the back of my TV, and all the cords fit nicely through the WallBlade openings. This is a quality product I wouldn't hesitate to recommend to a friend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to install </p>
+
+
+<h2> review.date </h2>
+  03-24-2014  
+<h2> review.text </h2>
+
+ <p> This is a must buy if you are looking for an easy solution to hiding ugly wires hanging from your TV. Installation is extremely easy. Anyone that can read and handle some simple DIY can install this product and make it look professionally done. The directions are very clear and the final look is amazing. I highly recommend this product! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product!! </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> This is a great solution to power management of your wall mounted TV without hiring an electrician. Most professional installers will provide cord management (run cords through the walls) but the power cable cannot be run in the wall. This leaves an unsightly cable in the middle of the wall. The only solution was to cover the cord with a plastic cover painted to match the wall, or hire an electrician to put in an outlet behind the TV. The Wallblade solves that problem. Setup was simple, just connect the top and bottom with your standard White, Black and Ground. There is a video on Youtube that walks you through the steps.The housing stays firmly in the wall with two flaps that secure themselves to the inside of the drywall, and the outlets are recessed to allow for flush mounting of the TV.  Awesome product, highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect Solution!!! </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> This is a great way to clear up those messy cords behind the TV.  I am not very handy, but I was able to follow the instructions and install this product with ease.  They you just run everything from your TV through the top hold down behind the wall to the lower outlet and voila no more ugly cords hanging from your nicely mounted TV.  I have been using this for about a year now and it is still working perfectly.  Overall, I think that this is a great product and highly recommend it to anyone looking to clear up their cord clutter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Need not be handy to install </p>
+
+
+<h2> review.date </h2>
+  07-08-2013  
+<h2> review.text </h2>
+
+ <p> Very easy to install an looks very professional when install is complete. Will be buying more of these for sure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> I purchased the Wallblade for my living room to hide my cables and wires for my new tv. It was easy to assemble as the instructions are clear and quick to install. They also have a video on youtube which was explains things pretty well.The wiring is easy to hook up as it's pretty much color coded. White goes with the silver screws, green/neutral goes with the green screw, and black/hot goes with the gold screw. The Wallblade is constructed really well and comes with everything you need. I highly recommend it for your home theater needs.Another user mentioned it doesn't work well with flat plugs. My tv uses a flat plug and I had no issues at all with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Built solid and easy to use </p>
+
+
+<h2> review.date </h2>
+  05-25-2012  
+<h2> review.text </h2>
+
+ <p> This product comes complete with everything you need to hide LCD cables. It took me 2 hours to cut out a couple square holes, drop the cables, mount the rack, and watch my LCD on the wall with a professional look. I would recommend understanding your wall construction before you begin, for somme walls the cables will drop down quickly and for others it may require a little modification (drilling a 1.0" hole through a cross stud). If you are not handy find a friend who is because many installers will charge you up to three times the cost of this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy and professional looking installation </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> Pretty nice and makes a nice clean installation.  A little pricey, but it saves you a lot of work, and makes a nice clean installation for your flat screen on the wall.  You basically just cut two rectangular holes, connect the romex type cable (included) to the upper and lower pieces, then stuff all of the other cables through the adjacent slot.  It takes a while to disassemble the covers over the connectors, and you have to remember to put the cables through the snap on cover plate before you make all of your connections.  The snap on cover plates are a little difficult to pop back off again if you forget to run the wires through them first.  When it's done, it looks great and the cables look all nice and neat tucked away into the wall.  The connectors are recessed so the power leads have more room.  Overall, I'd recommend these, and if I had to do it over again for another flat screen TV, I would use this product again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A little pricey, but works great and makes a nice installation </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

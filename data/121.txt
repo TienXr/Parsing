@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B008OJ6ZYY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-22-2012  
+<h2> review.text </h2>
+
+ <p> I was a little surprise to discover that there is such a package existed after I learnt the Sony RX100, albeit the greatest point & shoot camera ever invented, doesn't come with an out-of-body charger.  With RX100's price tag ($648), you'd expect Sony gives you the choice to charge a spare battery while the camera still can be used.  Nope, the only option is the USB cable and charge the camera like an iphone, except the battery can be removed from camera.This kit include two spare battery and a charger can be used in house as well as car, makes it possible to charge RX100 battery the way expected as with any other digital camera.  With totally 3 batteries, there is always a spare battery fully charged to keep your RX100 going.  I usually go out with at least one spare battery.  Admittedly, RX100 battery consumption is not as terrible as for example Canon s100v, in most cases one battery in camera can last a few hundreds picture.  But at less than $30, it's no brainer to grab this kit and never have to worry about missing important moment because ... the camera is charging.Haven't used the screen protector so not going to comment on it, I'd consider this kit is essential to RX100. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great package that completes the RX100 experience </p>
+
+
+<h2> review.date </h2>
+  05-16-2014  
+<h2> review.text </h2>
+
+ <p> product appeared to be well made, arrived quickly, charged up fine and held their charge during first useage. I would recommend the kit to anybody </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2 pack battery and charger kit met all expectations </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> Was perfect for my two cameras, Sony DSC-HX50V and my Sony action cam HDR-AS30V, now I'm ready for the action. Recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  08-19-2012  
+<h2> review.text </h2>
+
+ <p> This is a pair of batteries that I am using with the Sony RX100. They allow for backup batteries to be charged while the cam is in use, and the batteries themselves are pretty decent so far. Each one has undergone about 3 charges cycles (two for good measure and one for use) so far. They last about the same as the OEM battery, but unlike the OEM, seem to show a full charge till the more or less die. The OEM battery shows the little battery indicator drop more, but gives a better idea of when it will likely die.Getting these allows me to go shoot about 1k images without needed a recharge (using the 2 that come with this package, and the OEM together). That will probably be great on trips, and for w/end shooting etc.I gave 5 stars, but if they don't last, will be back to modify that rating.UPDATE: 2-21-2013Used them for about two months only to find the charge lasts about 100 shots now. OEM is about 300+ shots per charge. I have since purchased another OEM and am using these as backups/emergency (not much at all). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheap and it shows. </p>
+
+
+<h2> review.date </h2>
+  12-04-2012  
+<h2> review.text </h2>
+
+ <p> Pros:External charger that can charge my batteries when i am using the camera, including the OEMCharger feel very sturdyExtra 2 batteries which is as good as the OEMAble to charge in the car (have not done this)bunch of extras which I have not used (screen protector; cloth..ect)Cons:charger is slightly big, but no biggieGreat seller too with buterflyphoto </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for my Sony Rx-100 </p>
+
+
+<h2> review.date </h2>
+  08-29-2012  
+<h2> review.text </h2>
+
+ <p> I'm only 2 charges in but these batteries seem to last much longer than the CIPA rating for this camera.  I took over 300 shots, mostly with fill flash on in bright afternoon light on the beach. The battery still had a few hundred shots left.  I don't know if the OEM battery could do as well since I haven't done any direct comparisons but my gut feeling is that this one would outlast the OEM by a bit.  The charger works for both the OEM and the included batteries.  I have no complaints about this item and I don't think you can go wrong compared to the overpriced OEM version.  Butterfly Photo called to ask how the product was working and and to remind me to write this review.  I would have preferred to just get an email but I definitely appreciate the service and will gladly buy from them again.  The screen protector is generic and you have to cut it out.  I did not try it since I have one already.  I would rather they included a higher quality, pre-cut protector even if the package costed a bit more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than OEM </p>
+
+
+<h2> review.date </h2>
+  11-09-2013  
+<h2> review.text </h2>
+
+ <p> This has worked very good so far. Seems to charge quickly and batteries hold charge.Do recommend this purchase and product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for the money! </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> I was a little apprehensive about this since it's not official Sony, but I've owned it over a year now and am very happy with it and glad I bought it. Why didn't Sony supply this with the camera? Shame on Sony. Charge a few dollars extra and include a real charger with your expensive cameras.The batteries also work well, in fact they hold a charge a lot better than the original Sony battery that came with the camera. That was also surprising.If you own the Sony DSC-RX100, buy this and don't look back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What Sony should supply </p>
+
+
+<h2> review.date </h2>
+  09-01-2012  
+<h2> review.text </h2>
+
+ <p> 2 batteries, a charger that plugs into a US plug, and adapter that plugs into a round dual pin Euro plug, another cord that plugs into your car.Plus screen protectors and a wiping cloth.  All seem to work.Will the batteries last? - some 3rd party batteries do some don't - only time will tell.Meanwhile a bargain compared to Sony. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> The charger I received was the &#34;Vivatar&#34; brand with 5 year warranty and I was very surprised to receive this brand name.  Not that Vivitar is top quality but I EXPECTED a totally no name charger.  Also the batteries are &#34;Power2000&#34; batteries with 2 year warranty which also seem like somewhat name brand batteries and not totally generic so I was happy.  I have not tried them yet but am recharging them now.  If there is any problem I will be sure to write back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good! </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> It charges fast and now I always have a battery ready to go for my camera.  I don't know what else to say except that it is fast and good and easy to use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2 pack battery and charger Kit for Sony </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> These 2 batteries + charger + car charger is a life saver. I bought it cuz I don't want to be bothered with charging battery on the camera for a weekend trip. I take lot of photos on such trips.This package solves the problem quite well. I now have 3 batteries and external charger and ability to charge in car. The batteries themselves are nice and they work perfectly inside the Sony camera. In my experience they last just as long or little longer than the OEM battery. Best thing is - you don't have to worry this battery lasting 10% shorter if that was the case. You have 3 in all to play with :-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheap and nice </p>
+
+
+<h2> review.date </h2>
+  08-23-2012  
+<h2> review.text </h2>
+
+ <p> The only issue I have with the Sony RX100 is that you need to plug in the camera to charge it.  In other words, there is no external charger.  That makes an accessory kit like this one a must.I'm normally not a fan of non-OEM batteries, but the savings here is significant.  Sony replacement batteries are $40 each.  With this kit, you get two batteries, plus the charger.But wait, there's more...  LCD screen protectors and microfiber cleaning cloth.  Ok, that's a bit of a gimmick, but this kit is a great value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great value - must buy with Sony RX100 </p>
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> It perform very well and last as long as the original Sony battery. It will take me a little time to say whether it would last or not. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It is very good for the money </p>
+
+
+<h2> review.date </h2>
+  08-29-2012  
+<h2> review.text </h2>
+
+ <p> If you have an RX100, and despise in camera charging as much as I do, this is a no-brainer purchase... especially since you get the charger AND two spare batteries for less than the cost of one Sony battery!!!  My order arrived very quickly (as always) from Butterfly Camera with a free microfiber cloth and screen protectors.  They both fit well and work perfectly in my RX100.  The kit also includes a cord for charging in the car which is perfect for road trips!  I am very pleased with my purchase and this transaction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Package for Sony RX100 Owners!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1492867268 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-15-2013  
+<h2> review.text </h2>
+
+ <p> Best book of the series so far. McCrays characters are so believable, you will fall in love with each one as you go along with them on their journies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot for me too! </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> I have nothing but good things to say about this series. Catch the story of the sexy firefighter cody mcbride. Your not going to put the book down til you finish it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love the Mcbrides </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> Cheyenne McCray takes you into her cowboy world and you just want to stay there for awhile, I have all her books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good!! </p>
+
+
+<h2> review.date </h2>
+  10-17-2013  
+<h2> review.text </h2>
+
+ <p> When Carolyn comes into town to house-sit for a friend, she never expected to be the victim of some serial arsonist, let alone one who ends up gunning for her.Firefighter, Cody McBride was left unsettled by the startling beauty that had walked out of the diner but he never thought that he see her again.  Until her car was engulfed in flames behind that same diner he had just seen her in.As time moves one, it becomes quite evident to him that Carolyn, despite having no ties to Prescott other than the one friend, has fallen as prey to an arsonist who might have more than a penchant to setting her personal effects on fire when one of the other women he had victimized had disappeared.A fiery tale of suspense, mystery, obsession and explosive love, McCray succeeds at keeping me riveted, holding onto the edge of my seat for what happens next and swooning.  Got to love those firemen! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Explosively wonderful </p>
+
+
+<h2> review.date </h2>
+  03-22-2014  
+<h2> review.text </h2>
+
+ <p> Interesting mystery, well written, deep thoughtful characters, and  h o t  romance !!  This couple is attracted to each other right away, no doubt there.  There is a looney-bin fire nut on the loose, and he targets newcomer, Carilyn.  I like the story flow, the family interactions, and acceptance that not everyone is perfect.  Cheyenne McCray is always a top level writer. Highly recommend this riveting story. Enjoy !! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved Cody and Carilyn! </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> Great series!!! Love the her books , she will never disappoint you in her books , funny you think at leased one you would like less, well each one just keeps getting better. Enjoy!! Great read </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it!!! She did it again. </p>
+
+
+<h2> review.date </h2>
+  02-04-2014  
+<h2> review.text </h2>
+
+ <p> Love it.....I love the whole riding tall series...its about loyalty, love, trust, and morals. Read it its a wonderful series..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> riding tall </p>
+
+
+<h2> review.date </h2>
+  11-23-2013  
+<h2> review.text </h2>
+
+ <p> I cannot get enough of the McBride family! This book is Cody's and Carilyn's story and really shows how much Cheyeene appreciates all that firefighters do! This book is full of adventure suspense and mystery. Who is the arsonist and why is he so obsessed with Carilyn who has just arrived in Prescott? Once you turn the cover the flames of Carilyn's and Cody's love will engulf you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Be engulfed in the flames! </p>
+
+
+<h2> review.date </h2>
+  02-11-2014  
+<h2> review.text </h2>
+
+ <p> OMG=Cowboy FiremanI could not put it down.  Finished it within a couple of hours and needed more.It moved along at an amazing pace, has characters that you cannot help but fall in love with and a story that wont let you go.Cheyenne McCray is an amazing author and no matter what she writes, it is fantastic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OMG </p>
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> I love The Riding Tall series. This book was no exception. The story is well written and characters are believable. I love a little mystery and intrigue along with a hint of danger in my romance. This totally fit the bill. Ms. McCray has become one of my go to writers. Keep 'em coming. I love the people of Prescott. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot read! </p>
+
+
+<h2> review.date </h2>
+  11-24-2013  
+<h2> review.text </h2>
+
+ <p> This is such a good series and I've enjoyed reading every books but then what's not to love about cowboys and Cheyenne McCray writes some hot cowboys. Carilyn Thompson comes to Prescott, Arizona to watch over her friend Leigh's house will she's gone to Europe for a month. Cody McBride works for the Prescott Fire Department and just happens to be in the Hummingbird Cafe where Carilyn is eating lunch. She meets Cody McBride within the first hour of being in town when her car catches fire in the parking lot. Theres an instant attraction between them. Carilyn knows she should stay away from Cody because she's only staying for a month and Cody can't seem to stop thinking about Carilyn. When Carilyn is targeted by an arsonist Cody won't let her out of his sight and over time they come to realize they don't want to be with out the other. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flaming hot </p>
+
+
+<h2> review.date </h2>
+  10-04-2013  
+<h2> review.text </h2>
+
+ <p> The plot is well developed and the story line is fast paced. Carilyn Thompson just arrived in Prescott, Arizona to housesit for her best friend, the decision to stop at a caf&eacute; in town leads everything she owns going up in flames when her car mysteriously catches on fire.  Cody McBride, the sexiest firefighter she'd ever seen, tries to save her car and that leads to a relationship between them that is so hot, hot as the arsonist who has Carilyn in his sites.  Carilyn and Cody must fight for their lives while discovering how much they love each other.  Part of the Riding Tall series but can easily be read as a stand alone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HOT in every way! </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> Wow what a book. I really liked this story was full of romance and suspense, it takes you right to the end. I would highly recommend this book one of the best in this series.  Hope if you get this you enjoy it as much as i did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved It </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> All of the books in this series are awesome. The stories are well written. The author is awesome. Have read just about all of her books. Really am enjoying this series of books and can't wait for the next one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot Cowboys </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> I loved this book because of the story and I would highly recommend it to my friends and family members. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A page Turner. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

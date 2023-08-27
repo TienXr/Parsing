@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 188301087X <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-16-2011  
+<h2> review.text </h2>
+
+ <p> Despite the title, it can hardly be called a "collection", as there are only three complete patterns in the book, and one of those is only partially charted!  However, the basics of the Russian patterns are clearly charted as well as how to make their standard borders, how to turn corners, etc.  The lace is beautiful and the basics part of the book would be a good tool for those who want to start knitting this type of lace. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lace Knitting Instruction </p>
+
+
+<h2> review.date </h2>
+  05-26-2013  
+<h2> review.text </h2>
+
+ <p> Full of beautiful projects.  Saving for winter!I ordered because I was afraid it would be gone if I waited. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Future projects </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> Gift recipient really liked the book, impressive pictures and concepts.  Expert knitter glanced over the directions and thought they seemed clear enough, but has not yet tested them out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> if you're thinking of knitting cobwebs </p>
+
+
+<h2> review.date </h2>
+  08-09-2011  
+<h2> review.text </h2>
+
+ <p> I'm a little partial to Galina's books. I love the passion she shares for her love of Orenburg Lace.  It is her heritage and she knows Orenburg lace like no one else. The patterns are easy to follow and the results outstanding.  Each gossamer web would be a family heirloom.  (If you get a chance, take one of her classes.  She is witty and will share her secrets and love of Orenburg lace.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVE THIS BOOK! </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> I am creating one of her beautiful shawls now and I know it will take the rest of the year.  I hope not longer, it is such a joy and delight to read how these shawls were necessities on all front for the women and their economical welfare.  Would be wonderful if someone created the background of this into a move. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lace Knitting at its Finest </p>
+
+
+<h2> review.date </h2>
+  08-01-2011  
+<h2> review.text </h2>
+
+ <p> This book is more a history of lace knitting. It doesn't really provide patterns for shawls or scarves. If that is what you are looking for, this is NOT the book for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> lace knitting </p>
+
+
+<h2> review.date </h2>
+  01-03-2013  
+<h2> review.text </h2>
+
+ <p> The patterns in this book are beautiful. I don't know if I will make the three complete projects in the back of this book I know I will make use of all the stitch patterns given.I like the little shawl like samples as the border practice is good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gossamer Webs </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> This is a bit of 'how to' and a bit of history of lace shawls. The story is touching, the photos lovely and the directions to learn how to make these works of art fairly clear to even a beginning knitter.For someone who seeks to learn this art the examples in the swatches are easy to follow. As I learn each stitch pattern I'm hoping to some day be able able to create these shawls. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> True beauty </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> This book was not what I expected after reading its synopsis. The patterns are lovely, but all three are very similar. The instructions are minimal. Supposedly, the reader will understand them after knitting a sampler. I have been knitting for more than 50 years, and I have no desire to knit a sampler I'll never be able to use. I would have preferred more complete instructions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointing </p>
+
+
+<h2> review.date </h2>
+  04-08-2013  
+<h2> review.text </h2>
+
+ <p> Why are people saying there are no patterns?It has charts for  many, many different stitches and complete shawls. I found it to be beautiful and a delight to read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved It! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

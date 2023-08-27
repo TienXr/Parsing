@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0017SA5ZY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-30-2010  
+<h2> review.text </h2>
+
+ <p> I ordered these parts to expand my work system from 4 to 8 gig of ram.These parts worked properly with no special tunings (as some other had reported).I plugged these sims in, rebooted the machine, and installed a 64 bit o/s.Everything worked as expected, and my computer is FAR more productive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Product work perfectly with no issues </p>
+
+
+<h2> review.date </h2>
+  04-06-2009  
+<h2> review.text </h2>
+
+ <p> Put these two memory sticks on an Asus P5Q Pro motherboard paired with a Quad Core Q9550, running Vista 64 Bit. Everything runs absolutely hunky dunky. The memory is rock solid.I've run this computer 24x7, continuously folding@home (all 4 cores running 100%) for the past three months with absolutely no hickup at all. The Q9550 runs at around 44degrees C. Just to be sure I did enter the Bios and manually set the memory to 1066 MHz, (it had posted at 800Mhz). Frankly, didn't notice any difference. This machine is also folding on the graphics card constantly which ups the internal temperature of my machine. The graphics card runs at 80degress C continuously.Strong, solid, well built memory. The nice looking Z cover on the sticks is impressive. Adds a bit of structural strength and supposedly cools the chips better. This is a tremendous bargain.September 10, 2013 Update: The memory has worked fine for the past four years. This particular computer is never turned off, it runs 24 x 7. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Value </p>
+
+
+<h2> review.date </h2>
+  02-07-2011  
+<h2> review.text </h2>
+
+ <p> OCZ has long been my choice for performance memory. If you are looking to Overclock your PC, OCZ does it better than anyone else. Engineered to tolerate a wide range of voltages, this memory is the best choice for power-users such as gaming systems and development machines. I process a lot of graphics, and I haven't had a memory 'glitch' in over 4 years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reliable Memory at reasonable price </p>
+
+
+<h2> review.date </h2>
+  05-18-2010  
+<h2> review.text </h2>
+
+ <p> I owned before buying this, I'm very happy with my purchased. My windows 7 64bit is improved now that i have 8gb with OCZ platinum. Your can trust on this due to memory timing are very fast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very fastest memory for ddr2 </p>
+
+
+<h2> review.date </h2>
+  02-11-2010  
+<h2> review.text </h2>
+
+ <p> PC memory isn't something you want second best in.  OCZ is reliable, and reasonable.  First choice for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OCZ?  Anytime for my PC </p>
+
+
+<h2> review.date </h2>
+  10-17-2009  
+<h2> review.text </h2>
+
+ <p> These memories are reliable, work  fast and made my computer (an Intel Quad Core) better. I am satisfied with the buy. The price could be a little less but it worths for. And the dual channel really changes a compuer performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Memories </p>
+
+
+<h2> review.date </h2>
+  01-13-2010  
+<h2> review.text </h2>
+
+ <p> I bought 4 sticks of this memory when I last rebuilt my machine. In the past, I've found OCZ to be very reliable, quick, and inexpensive so I wasn't concerned at all buying this. However, 2 of the 4 sticks purchased were bad - and not just bad at full speed, bad in the "system won't boot at all no matter what you do" way. I tried fiddling with the timings, voltages, etc. and never could get 2 of the sticks to work. The other 2 worked perfectly and continue, after about 6 months, to work perfectly. I will say, I went to the local computer store where they had these same sticks for slightly more than Amazon and bought 2 to put in place of the 2 bad ones I got here and they're in and working perfectly as well.Overall, I still think OCZ is a pretty good brand with a generally quality product, but if I hadn't had a past history of good products from them, I certainly wouldn't think that based on this experience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2 out of 4 dead </p>
+
+
+<h2> review.date </h2>
+  12-24-2010  
+<h2> review.text </h2>
+
+ <p> Over clocked my 2.40 quad to 3.4 ghz timming 5 5 5 15 not 5 5 5 18. running stable as ever. Abit ix38 quadgt board. Im sure It will go faster but this over clocking BS get annoying. Great memory to purchase! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Purchase this ram </p>
+
+
+<h2> review.date </h2>
+  03-25-2009  
+<h2> review.text </h2>
+
+ <p> This RAM runs fine at its rated settings, but you will have to manually set the frequency and timings in the some (probably most) BIOSes since this is just overclocked PC26400. I've got it running at 5-5-5-15 @ 2.1V with no problems. If you don't want to have to set the timings in the BIOS, you may want to consider different RAM (and most likely, different speed RAM altogether). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what its supposed to </p>
+
+
+<h2> review.date </h2>
+  04-19-2010  
+<h2> review.text </h2>
+
+ <p> This has been a great deal for me. The product is working as expected and the price was affordable. For sure will continue buying this brand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent product for the price </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> These sticks of memory have worked great since I got them - no bSOD's, no errors, no problems.  I would buy OCZ memory again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great memory </p>
+
+
+<h2> review.date </h2>
+  12-15-2010  
+<h2> review.text </h2>
+
+ <p> OCZ makes reliable memory.  This is the 4th build I've done using it, and never had a problem.  I've tried the (supposedly) faster, more expensive memory modules (G.Skill. Patriot Viper), but had to play with the timings in order to get them to work.  This memory is basically plug-and-play.  If you are going to use this to add to existing memory that is not as fast, I found I needed to put these modules in the first memory slots and move the (somewhat) slower memory over.  This solved parity issues and Windows 7 64-bit issues with not properly recognizing the new memory (I got the BSOD before I figured out to swap positions with the memory and put the faster modules first).  Once done, all was ok.  Not the fastest or most expensive memory out there, but good, solid reliability that does what it says.  BTW - the timings are 5-5-5-15, with a clock of 2.10 volts.  If your system doesn't immediately recognize the memory as 1066, check to see what the BIOS is set for.  The platinum series  seems to run cooler than the gold series.  I'll definitely be buying more OCZ as I feel the are a quality manufacturer with excellent customer service. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, Solid Speed at a Nice Price </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

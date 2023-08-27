@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B005W2BVMM <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-05-2013  
+<h2> review.text </h2>
+
+ <p> Awesome set of movies. In my opinion the best of the DBZ movies with my personal fav Wrath of The Dragon. Great by and a great set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Greatness </p>
+
+
+<h2> review.date </h2>
+  10-28-2013  
+<h2> review.text </h2>
+
+ <p> a true must have for any fan espeically if ur a manga fun true must have dbz collection! would buy again </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> I wanted to buy the whole series so I could watch what I enjoyed as a child. I have not got the chance to watch everything yet but I intend to eventually. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dragon Ball Z </p>
+
+
+<h2> review.date </h2>
+  12-31-2013  
+<h2> review.text </h2>
+
+ <p> All the DBZ movies were great, I watched the oringinal DVD releases and the improvement in quality is AMAZING. It also comes with 3 sound options and some trailers. Only gripe about it is that there wasn't any booklets or anything which isn't bad at all, FUNimation replied to emails about that saying there's printable PDF's on their website to stay eco-friendly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Colllector's Item </p>
+
+
+<h2> review.date </h2>
+  05-03-2014  
+<h2> review.text </h2>
+
+ <p> this was the most thrilling of all the dbz movie feature sets that came in thin packs this last pack is a for sure of any age to watch and have a blast watching with friends and family 5 stars this set was the most u can laugh alot and be serious at the same time any fan that  enjoys all great feelings of life should get this set </p>
+
+
+<h2> review.summary </h2>
+
+ <p> all i can say of this dbz set 3 movie feature release epic of all movies and dramatic scary and funny and great action </p>
+
+
+<h2> review.date </h2>
+  07-24-2013  
+<h2> review.text </h2>
+
+ <p> Classic Dragon Ball Z awesome and addicting action, with all of your classic z fighter favorites. This set comes highly recommended by yours truly.:) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> I like it because im a big dbz fan I would recommend this to my nephews and nieces and everyone </p>
+
+
+<h2> review.summary </h2>
+
+ <p> thank you </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> Action, action, and nothing but action. Lol Nothing much else huh? Thats pretty much what you expect with a show like this :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Action </p>
+
+
+<h2> review.date </h2>
+  04-10-2013  
+<h2> review.text </h2>
+
+ <p> The movies are action-ed packed and the animation is wonderful. These movies are a must for any animation collector, especially a Dragon Ball Z fan! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Animation Amazing </p>
+
+
+<h2> review.date </h2>
+  05-04-2014  
+<h2> review.text </h2>
+
+ <p> would buy again for kids great anime cartoon i love dragon ball z all dads work good no problems at all </p>
+
+
+<h2> review.summary </h2>
+
+ <p> dragonballz </p>
+
+
+<h2> review.date </h2>
+  10-04-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoy watching the wholes movies and it much better to have in the boxset instead of buy one at a time! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

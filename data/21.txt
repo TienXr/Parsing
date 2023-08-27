@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000BYCNMS <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-10-2010  
+<h2> review.text </h2>
+
+ <p> Using it for a Pioneer Elite 60"... no problems supporting the weight... no sagging or need for any shims. Install was fairly straightforward. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great with a Pioneer Elite 60" </p>
+
+
+<h2> review.date </h2>
+  12-03-2011  
+<h2> review.text </h2>
+
+ <p> Went through a couple of cheaper wall brackets to save a few bucks. Big mistake. Even though they were rated to carry much more weight than my TV weighs, they proved to be very flimsy. I felt quite unsafe leaving my new expensive TV mounted on them. NOT SO with this bracket. Superb design and build quality. Easy install. Did it by myself - not a problem if you do it right (have TV sitting on its own stand at the right height and slide it up to the installed bracket and attach the bolts - piece of cake!).Price is great for something so well made and designed. Gets my highest recommendation. By the way, I have an 80" set mounted and it is dead solid! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heavy Duty excellent Value </p>
+
+
+<h2> review.date </h2>
+  02-09-2008  
+<h2> review.text </h2>
+
+ <p> The engineering on this device is superb.The only problem I had was I broke the head off one of the lag bolts while bolting the bracket to the wall. My neighbor had the same issue. Is the wood too hard in my walls? or is the lag bolt not strong enough?I went to Virgil's and bought 4 new lag bolts, to make sure they were all good.It's great how I can point the Sony TV in any direction! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Superb Manufacturing/Engineering </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> Our Sony 52-inch Bravia is mounted high up over our fireplace.  The articulating feature of this unit is perfect for tilting our tv so that the reflections from windows are eliminated.  I recommend this specific unit for the most flexibility possible...G&P </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just right! </p>
+
+
+<h2> review.date </h2>
+  12-15-2011  
+<h2> review.text </h2>
+
+ <p> The mount is very strong and sturdy. It easily holds the 55 inch I put on it, no sagging whatsoever. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid </p>
+
+
+<h2> review.date </h2>
+  12-21-2011  
+<h2> review.text </h2>
+
+ <p> I recently purchased the Sanus VMDD26B articulating wall mount for use with my new 46" LED LCD. The mount weighs about double what the TV does, but I needed something sturdy enough that would allow the TV to be extended a full two feet from the wall. I paid about $200, and it's worth every penny. The fit, finish, and operation of the mount are first rate. Be warned, however, that this mount is no lightweight. When time comes to mate the TV to the assembly which holds it you will need two people. In fact, I reversed the order of installation (I was by myself at the time) and did everything before attaching the TV. This allowed me full access to all the swing arm bolts, which need to be loosened somewhat before the arms will extend smoothly. When my son came over, it was a simple matter to attach the TV and do the final adjustments (left/right tilt, front/back tilt, and leveling). I would have given this mount five stars, but the written installation instructions are virtually useless. The pictures, however, are very detailed, and you can figure out everything you need to do if you study them carefully. One particular accessory, the "preventer", is mentioned only once, and no details are given. I figured out by trial and error that these brackets, when attached to the swing arms, will lock the arms in one position if you don't want the TV to move once it's installed. In summary, this is a first quality, heavy-duty mount which I would definitely recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sturdy high quality wall mount </p>
+
+
+<h2> review.date </h2>
+  06-15-2008  
+<h2> review.text </h2>
+
+ <p> I got this for my Sony 52" XBR5. I wanted the very best, strongest, and most maneuverable mount I could get. I do not believe it will ever come down, and I'm sure not nervous that the TV will fall on me or anybody. I agree with R.D. Fisher that It's overkill for a 52" LCD, but also that if you need the strength, the flexibility of repositioning your TV, you cannot beat this mount.That said, I gave it 4 of 5 because:I wish it screwed into three studs (16" centers) like the Peerless mount I used for my 52" Samsung in the bedroom..I agree with Digger in Texas that the instructions suck (Peerless instructions are 100% better) and are mostly pictograms, and the hardware is minimally applicable. I had to use bolts from the Peerless mount. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic, once it's up. </p>
+
+
+<h2> review.date </h2>
+  08-13-2011  
+<h2> review.text </h2>
+
+ <p> This is one of the best wall mounts available for the price (you would have to pay a lot more for better).  The structure is very solid and sturdy. This is very heavy mount, say ~60 lbs, so the mount and TV will not be light weight.  But, your TV will not wobble around as with cheap light weight mounts. The mount/TV adjustments are good.Other thoughts.  The bags of hardware are all presorted, labeled, and easy to find individual parts. The instructions are ok, excessive multi-language manuals are not on my favorite's list.  The wire clips (for cable harnessing) are bit too easy to break.What's all this lag bolt problem stuff? Drilling a 3/16 inch pilot hole into the studs if anything makes the lag bolts a tad too loose. Maybe 10 ft-lbs was needed to tighten the brackets to the wall. Perhaps a next size larger bolt would better to secure all the weight, better but not really necessary.Summary, don't fool around with anything less. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Very Very Good Wall Mount </p>
+
+
+<h2> review.date </h2>
+  10-24-2008  
+<h2> review.text </h2>
+
+ <p> The Design is great and exactly what i needed. It's got a very easy brainless setup but the LAG bolts were really cheap. I went and spent 3.86 on new lagbolts and asked amazon compensation! I broke 2 of the lag bolts just ratcheting them. They literally snapped off! I've never EVER had this with a lag bolt, ever.  So that's my advice. If you buy this item spend about 3-4$ for higher quality lagbolts. Other than that it's a great item but because i got inferior quality bolts i  can't give this item any higher than 3 star. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Design, Lower Quality Parts </p>
+
+
+<h2> review.date </h2>
+  05-07-2012  
+<h2> review.text </h2>
+
+ <p> I bought this TV mount online on EBay as other websites have discontinued the product (older year model).  I spoke to at least five high end audio shops and they all unequivocally recommended this TV mount over others. Benefits are:1. Super sturdy and robust design (with my 60" Plasma 3D TV). Impressive design and strength, hangs my 105-pound tv with ease. The double arms are also well designed and include well hidden cable management.2. Full articulating motion with no compromise in extended position. Other TV mounts sag or lose leveling when extended. This one does not because of the two fully attached and cantilevered arms. Both arms move in parallel so you basically get two arms supporting movement rather than most mounts with one.3. Easy setup.  We had two AV guys mount our TV and the assembly and mounting was a breeze. Very intuitive, and the design allows you to level, reset vertical height and move horizontally even after mounting! This means your Tv can be placed perfectly even if your wall plates are not placed perfectly.  Thank you to all the reviewers who recommended getting new lag bolts. Well worth the investment, especially if you get galvanized steel and spray paint the bolts black to match.4. Buttery smooth motion control. I read reviews of many other TV mounts which were hard to move once installed, or sagged and hit the wall when extended.  Both the Cheetah and Vision mounts suffer this problem, as well as the dept store Rocketfish and low end Sanus mounts. This mount is perfect, can be moved with two fingers, and requires no special gymnastics to move around. Really critical - read other reviews of folks who have broken their tv screens trying to move them around.5. Cheap insurance albeit a bit expensive.  I will admit I almost bought a $35 mount on Amazon.  After all, even if it is terrible you are not out much money.  But then the experts convinced me otherwise and they were right. I have the peace of mind that my $1500 TV is soundly protected and so much FUN!  More usable than any other system and my TV is now the talk of the town among my friends.  Bring on movie nights and karaoke!!!Buy this. Love it. Sleep better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best large tv mount period </p>
+
+
+<h2> review.date </h2>
+  08-23-2011  
+<h2> review.text </h2>
+
+ <p> Very nice stand, easy to install. Hold a 60 inch LED TV with ease. It is vey easy to move the TV around, can redce viewing distance by at least a foot by bringing the TV forward thereby increasing the "immersion effect" on your 3D TV...slightly expensive, but worth it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice Wall mount </p>
+
+
+<h2> review.date </h2>
+  04-08-2014  
+<h2> review.text </h2>
+
+ <p> We installed this Sanus Wall Mount six years ago and it operates (telescoping and adjusting side-to-side) perfectly. It took some help from a friend to install the mount to the wall as well as installing the TV to the wall mount. This mount is sturdy and heavy duty -- made from quality material. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wall mount has handled a 58 inch Panasonic with no problems </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

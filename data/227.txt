@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000F8O3UK <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sister Princess </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-24-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> If I had to sum this anime up in one word it would be.....adorable. This anime is just so incredibly cute! The story of this anime is that a guy named Wataru Minakami fails his high-school entrance exam. But little does he know that he was accepted to a high-school on a remote island called Promised Island. There he gradually meets all twelve (that's right TWELVE) of his little sisters. This review is strongly a matter of opinion, that said you can check this anime out on YouTube. I'd highly recommend checking it out on YouTube before deciding what to do. I personally LOVED this anime and I hope you folks will too! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Makes me want 12 sisters </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-12-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was just an outstanding series in my opinion. The story follows Wataru, a boy who is denied to attend an 'elite' school in Tokyo and is sent to Promised Island. It is here where he finds out that he has 12 sisters. Yes...12 sisters. He then begins living in the house with his 12 siblings and the story follows this as he learns what it means to be important to so many.This series was top-notch in my opinion. It showed just how bonds are formed and why family is so important. I can't begin to put into words the feelings that encompass the series because emotions are common in the series. The set does have its funny spots and it has it sad points, but it combines these two elements so well that the plot couldn't be made any better. I'm just blown away by these series, kudos to the designers and everyone who worked on it.The art design, characters, scenery, and plot are just so detailed and it is just an amazing combination when put into visual and sound. This series is a must have for anime collectors such as myself. After viewing this series it has become one of my treasured items. I also think that the sound tracks used should have some credit. The opening song just blew me away, I could listen to it all day. Same with the end song and even some of the music during the shows. Usually I don't talk about the opening songs, but this really deserved to be mentioned. EXTREMELY GOOD series. I wish I could rate it higher. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Tons of fun to watch. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wataru Minakami failed his high school entrance exam b/c his answers were misaligned. He is sent by his father to the Stargazer academy on a place called Promised Island. When he arrives he is greeted by 12 cute and charming girls that claim to be his sisters. Wataru has been kept away from his family since he was very small. His life has been focused on training to be the family heir. So he is surprised to find out that he has 12 sisters. His life is filled with fun and games as his sisters try to make up for the time they have lost with their brother.I really love this series. I can't believe it's not more popular. It has good animation and some pretty good voice acting. My only complaint with this series is the main characters catch phrase. He says, "it can't be true", like 5 times per episode. It's kinda weird at first, but you get used to it. This anime has also got a few weird parts in it involving 2 of his sisters that have a crush on him. Never fear though nothing too odd happens. Overall this story is very cute and a lot of fun. It makes you forget the troubles you have and just relaxes you. That's what anime is all about in my opinion. I hope you enjoy this series as much as I do. It's tons of fun to watch. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sweet, sweet, sugar sweet, did I mention sweet? </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a series you will feel good about showing to your kids.When Wateru discovers his school has rejected him for the coming year, he moves to Promised Island, where he meets his twelve sisters. This meeting changes him forever.This has episodes that make you want to go, "Awwwww" Some of the kids may not understand why Wateru or his sisters occasionally blush. Or the hints of attraction that are there. Most of the episodes are adorable or adventurous. Like the time one of his sisters goes out hunting for Mr. Teddy Bear from her dreams. Or the time all of them end up shipwrecked on an unknown island, seeming to be far away from Promised Island.The catchphrase "It can't be true!" will be heard most of the time from Wateru. If someone else says it, it sounds more hilarious.Bottom line. Get the series. You won't regret it. You will want to watch it again and again. ^_^ </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Look up the word Cute and You'll find this series! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-09-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Okay I love Anime and When I first saw "Sister Princess" I was thinking okay maybe this would be cute for little girls.But too my happy suprise me being an older adult I really did enjoy this series.This is a great series!Perfect if you need to take a break from all the gun, blow up, bloody, Anime series out there.I found myself smiling at each of the characthers in their own way.I personally love the littlest sister the best ^__^Very cute story, ADV did a wonderful job dubbing the show and the animation was colorful and bright.Sister Princess is one feel good Anime! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sister princess </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I find this show good and funny. It has interesting story. I would recommend this anime.My favorite character is Chikage </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cute Series But No True Liking For The Characters </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-20-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Amazon info you get from the site gives most of what the storyline is away but a few people I know as well as myself couldn't bring ourselves to truly care what was happening to any of the characters.  The animation is decent and for the most part the English voice actors were pretty good of course if you're like me you also prefer the Japanese voice actors as well.The show tries to give each character a story epic per episode as to why they are on the island and why they are there for.  I again just could not feel any true emotions for any of the characters maybe because it doesn't give more explanations on the characters themselves or just how the series was written.  That being said if you like humorous,light-hearted,and a romantic story tone this would be for you if you want any thing with more depth I would advise trying another anime </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sister Princess </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I saw this Anime on Youtube. I like this One, It is clean and enjoyable. A young girl may enjoy this Anime. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> You gotta see this oone must buy for da family </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-21-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really had no ideal what this was till I brought it I fell in love with it.Its a heart felt very touching seris.It speaks of true love and willing to do anything for your family.Here a boy all alone who finds out he  has a home and family who is lost along the way he changes for the best and finds himself.Its a long seris but it brings back those days one had bein with their family.How he grows an learns to cheerish who his family is really its a heart felt seris if u got kids family buy it watch the seris with them.Please buy this u will love it as much as I do </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sweet series </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-16-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Okay now then where to begin. Sister Princess is about a guy named Wataru. Wataru is the top student in his class, a shoe in for is chosen high school. However he fills in his high school entrance exam answer sheet wrong and there for rejected from the only school he applied to. Thus the hillarity begins, first his life long buttler says far well. But before he leaves he announces Wataru's acceptance in to a high school on an island, named Promised Island, he is then forcably whisked away to the mysterious island. Upon arriving he meets each of his twelve sisters, yes you heard me twelve sisters and begins to live with them and the series goes on from there.Now to the actual reviewing. First off if you can put aside how rediculus a sixteen year old boy having twelve sister that all but three or four are less then three years younger then him then you will find a pleasent, clean series. Again this series is one of the cleanest series I have ever seen. Which is a nice change of pace, there are a out of place sexy jokes, but no jiggle or pantie shots and no romance. This is simply a story clean and pleasant about a boy and his relationship with his sisters, that though are very pretty have very little curves. All of which are truly and deeply madly in love with their older brother.Don't let this put you off though. Everyone, even the guys, are beautifully drawn and despite the large cast everyone has their own definate personality. From the rather elegent but slow Aria to the tender harted Karin, it is difficult to mistaken any on of the characters for another. This is in part dew to the fact that each sister has a unquic voice and acsent. All work well, the only one that doesn't make sense is the traditional Japanese sister that has a thick dutch acsent?Aside from the first two and last two and few in the middle each episode is donated to a different sister. The pace is nice and it'll keep watching just to see what's next.The art and music design are excellent. The opening theme is actually so good that it is one of the few that I've seen that made me want to listen to it and not skip ahead to the episode, I even rewinded a few times.I recommend this to anyone that is looking for a simple unomplicated story or something for their kids to watch. This series can be enjoyed by all ages and doesn't really have any twists.Before I go a review of the actual box set itself. The box set is one of ADV's new thin pack packages. Best thing about the box set is the cases are small and don't take up much space. The box for the case is sturdy and well made with nice art work. But that's really all the good things I can say about the box set. In the end I wouldn't recommend getting the box set, like most of the thin box sets. Why you ask? Well for a simple reason is ADV goes threw each disc and removes all of the extra content with the exception of a few trailers on the first disc. This means the textless opening and closings, cast interviews, insert pages even the reversible covers are all gone which sucks big time. So if you have the money use it to buy the disc separately and keep the extras it'll cost you a little extra but I think it's worth it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

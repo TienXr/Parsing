@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B006YG9398 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> Installed on a 990fx board and a simple change of multiplier in the BIOS and I'm stable at 1866MHz 9.9.9.24. A bonus is it looks good, not too flash. In all honesty there's really very little point to pushing above 1600MHz as there is little performance gain with the exception of motherboards with integrated graphics but it's extra performance with no need to up the voltage and increase power consumption. Been running stable for 3 months or so. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good looks and easy overclocking </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> I have this running at 1600MHz in a ASUS z87 motherboard.  There have been no problems.The memory sticks look awesome too </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks cool, works great </p>
+
+
+<h2> review.date </h2>
+  06-29-2014  
+<h2> review.text </h2>
+
+ <p> Crucial has always been my choice for memory components, and the impressive heatsink design on these are very good. They have built in XMP 1.3, and from my testing, it remains at 1600MHz at CL8 for all columns. The build quality is also very rugged, as I feel if I stepped on them, they wouldn't break. This could be because of the metal design on the heatsink area. Black PCB is also a bonus for the generic all-black PC builds.Have been using these for 6 months now, no issues whatsoever. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Stable and Fast RAM </p>
+
+
+<h2> review.date </h2>
+  12-12-2013  
+<h2> review.text </h2>
+
+ <p> PC was crawling along with 8GB of RAM. Bought two of these kits, installed them and BAM! Like new. The thing is quick and responsive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kick it up a notch! </p>
+
+
+<h2> review.date </h2>
+  04-02-2013  
+<h2> review.text </h2>
+
+ <p> Memory works as it should.  Tolerates reasonable OCing.Its tall so be conscious of that when selecting cpu cooler or motherboard (to separate the two). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice ddr3s </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> Not marble, nor the gilded monumentsOf princes, shall outlive this powerful rhyme;But you shall shine more bright in these contentsThan unswept stone, besmeared with sluttish time.When wasteful war shall statues overturn,And broils root out the work of masonry,Nor Mars his sword nor war's quick fire shall burnThe living record of this [Curcial Ballistix Elite] memory. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It worked in the computer I bought it for </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> The quality of this memorys are amazing, heavy and made in total metal, be careful with the aftermarket coolers because are really really high! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best choice for $69.99 </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> Those rams are so fast and very good in cooling...the headsings is very good and runs like a monsters i put it in my gaming computer and im so proud for my choice! for this price u cant find easy cl8 rams! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kicks assesss Awesome RAMS FAST FAST!!!!! </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> Beautiful memory ram. the big heatsink make the memory stay cold all the time. With many capacity of overclock. I recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the best ram </p>
+
+
+<h2> review.date </h2>
+  08-04-2013  
+<h2> review.text </h2>
+
+ <p> Plugged it in and it worked.  I did need to adjust the voltage in the bios first since the previous cards were running at a higher voltage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

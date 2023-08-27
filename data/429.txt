@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00B4XLK38 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> "Silent Dreams" is a collection of poems written by Danish writer, Helle Gade. The anthology is divided into four parts: Chaos, Nordic, Darkness and Joy and covers a swathe of emotions. I particularly enjoyed the Nordic section, especially "Thunder and Mischief" and "Warrior". Many of the poems in the section entitled "Joy" are wonderful also.When I taught teenagers, many years ago, I would love to have been able to use this anthology for appreciation and stimulation - there is so much fantastic material within this slim volume.It is hard to believe that this is Helle Gade's first book - the poems are so well written and have depth, which will ensure that they are returned to, time and again.  I look forward to more! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful poetry! </p>
+
+
+<h2> review.date </h2>
+  05-12-2013  
+<h2> review.text </h2>
+
+ <p> "Silent Dreams" is the first collection of poetry published by Danish writer, Helle Gade. I was absolutely stunned by the depth of emotion in these poems. The collection is separated into four sections: Chaos, Nordic, Darkness and Joy - each containing poems expressing those emotions. I love mythology, so I was particularly drawn to the Nordic section. She even includes several poems in her native language. I can't wait to read more from this inspiring poet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding! </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> Author Helle Gade is new to publishing but you wouldn't guess it from the complexity and potency of her writing. Silent Dreams contains poetry of a unique style, with religion and Nordic beliefs wove into the author's own experience and pain. It is modern as it is classical. I felt reading the author was very in touch with her heritage and not afraid to share it with an English audience. There are even a couple poems in her own language which I loved as well. This book is a game changer; it is vibrant and alive. I promise you will never look at poetry the same way again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vibrant & Alive: Unique to the End </p>
+
+
+<h2> review.date </h2>
+  05-14-2013  
+<h2> review.text </h2>
+
+ <p> Recommended by an old friend, I truly enjoyed reading this book. I read it on the Kindle app, but I'd prefer paper! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> This collection of poems is a very quick read that is easy to read in just one seating. Maybe it is that I don't really know a lot about poetry, but the poems didn't really touch my sensitive side and didn't make me feel anything. They read too prosaic to me, and they could have used one more round of edits. The huge grammar mistake in the acknowledgements page was like a slap. The poems were well-crafted and they show talent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Talented </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> This work is a magnificent display of poetry when such is real, felt, seen, and experienced.I've read tons of poetic works and will place this in my favorite top 10. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Most Excellent </p>
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> Helle Gade's debut poetry anthology is a wonder to read.Her poems, despite their brief nature, contain a depth of emotion that had me constantly wondering what would come next. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poetry that speaks to the soul </p>
+
+
+<h2> review.date </h2>
+  01-29-2013  
+<h2> review.text </h2>
+
+ <p> This author is new to the poetry world, this book proves she belongs there. The words cut deep where they count. The style she writes resonates with the soul. Everyone can relate to these beautiful and sad words. I love them all, so it's hard to have a favorite, but MOTHER touched me..this book will touch you to. Thank you for sharing your skill with us. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A book for the soul </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> I have to start by saying I don't read much poetry, but I really liked this collection. It's a quick read, but these are the types of poems that you can read again and again. Many of the poems are very brief, only a few lines, but somehow the author has managed to say so much in a few words. There are four sections to the book, Chaos, Nordic, Darkness, and Joy. Each section contains a selection of verse relating to the theme. Helle Gade writes with passion whether she is writing about something that is disturbing or a happier subject. My particular favourite is 'Watching'; a poignant poem. I also like the poetry inspired by Norse mythology. 'Thunder & Mischief' has a wonderful nostalgic feel to it. Helle Gade's poems seem to have been effortlessly written and like a true poet her verse seems to be utterly personal and tells the story of her life. There are poems of pain, regret, fear, love, and everything in between, in this collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful debut </p>
+
+
+<h2> review.date </h2>
+  04-16-2013  
+<h2> review.text </h2>
+
+ <p> I downloaded this delicious collection of lovely poetry and savored every soulful word. The author touches on many subjects on which I resonated deeply. Helle Gade is a poet to watch. I enjoyed the way she covered a variety of topics with depth, truth and refreshing simplicity. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Silent Dreams is Heartfelt & Soulful </p>
+
+
+<h2> review.date </h2>
+  08-10-2013  
+<h2> review.text </h2>
+
+ <p> Silent Dreams by Helle Gade is a trip through all human emotions. In it, we can find the heights of ecstasy and the depths of despair. As a reader, I could feel the touch of the Gods, the love of a pet, the joy and sorrow of the human condition.Ms. Gade gives us a glimpse into the agony and misery one can feel in a brutal relationship as well as the sense of loss of self that can happen if one allowed their being to be lost in another. Yet it is also filled with joy, beauty, and a gentle touch, from a soul filled with purity and honesty.At times, she weaves a soothing portrait of a daughters love, only to bring us to the ruthlessness of war. Helle Gade's work is a remarkable collection of verse. Her poetry flows from the soul and is startlingly beautiful verse, for a first book. Kudos to Ms. Gade for the bliss and glory she takes us into as her verse guides us into and beyond life.Highly Recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HUMANITY UNCHAINED </p>
+
+
+<h2> review.date </h2>
+  05-23-2013  
+<h2> review.text </h2>
+
+ <p> I believe poetry is a personal taste-thing, and I truly enjoyed the poetry in this book. As someone who has a Scandinavian background and has studied there a little, it was a pleasure to read words written with Norse influence. It encompassed the whole of the human experience as well, taking you directly into the moment/experience with each word. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lovely </p>
+
+
+<h2> review.date </h2>
+  03-27-2013  
+<h2> review.text </h2>
+
+ <p> I found all of the poems to be very insightful to the author's own thoughts and feelings.  I found love, pain and longing mingled between lovely words and sentences. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> Even with me being a poet, I don't pick up many poetry collections to review. But I'm starting to find some great collections that I can pick up and can't seem to put them down. Silent Dreams is one of those.I was surprised when I finished, because I read it "cover-to-cover" (ebooks don't have covers, silly me). I rarely have the attention span to read more than a few poems at a time, even when it's a collection from one of my favorites. Gade's words sucked me in and didn't let me go until the very end.I enjoyed that there was a great mixture of themes throughout, along with a little treat at the end. The last two poems were in the poet's native Danish. While I don't have any idea what the words meant, I tried to recite the poems. I failed miserably, but it only added to my enjoyment of the collection. When a can create beautiful works in multiple languages, it's a show of skills many writers don't possess.This collection will be one I go back to, to re-read and share with fellow poetry fans for a while to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review: Silent Dreams, by Helle Gade </p>
+
+
+<h2> review.date </h2>
+  04-14-2013  
+<h2> review.text </h2>
+
+ <p> Helle Gade's "Silent Dreams" is a wonderful book of soul shattering poetry.Describing pain with heart-breaking ease and victory with moving grace, this collection is not one to be missed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poetry that moves the soul </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

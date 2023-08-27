@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1627981454 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> Brandon, Nate, and Hannah , After a few bumpy moments , every one is finally happy and in Love at last . it's a interesting story to read .. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good read! </p>
+
+
+<h2> review.date </h2>
+  12-09-2013  
+<h2> review.text </h2>
+
+ <p> Another one that is a bit hard for me to review. I liked Nate and Brandon just fine, but the whole sneakiness of Hannah just bothered me. I get that's what made the story and the drama, if Hannah had come clean or ended her creative use of Nate sooner the story would have been over. I just had a hard time getting past the way Nate and Brandon met. And Marilyn was too much... Personal taste, and this one wasn't quite to my taste.This book is set in Seattle, my home town, and one of my pet peeves is authors that get details in their location wrong. Rick R. Reed does NOT do that! He's got the setting just right!I liked this book but I didn't love it. I'll keep reading Rick's books, I like him as an author just fine! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good characters, ok plot. </p>
+
+
+<h2> review.date </h2>
+  04-10-2014  
+<h2> review.text </h2>
+
+ <p> I'm doing this review in a bit of a rush, so I don't really have time to go into much detail except to say it was well worth the time to read it!  This is NOT one you need to pass up! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really good </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> A beautiful (and beautifully written) love story between practically virgin 28-year-old Brandon Wilde and the epitome of Seattle freewheelers, 34-year-old Nate Tippie, this book earns its five stars solely on the interactions and personal developments between the two main characters as well as the final twist in the tale that threatens to tear them apart.I was sorely tempted to downgrade to four stars, however, because of the actions and personalities of the secondary characters--Nate's sister Hannah and her new BFF, Marilyn, who are actually responsible for bringing the two together in an unique, but ultimately cruelly played out, way which you can gather from the book's promotional blurbs. While I ultimately had some change of heart toward Hannah, I still found the emphasis placed on Marilyn in several situations to be over the top, or just plain distasteful. She comes across as a person without a moral compass--nicest thing I can say about her (though I gather the sequel of sorts gets into more of her character development, hope it's more sympathetic).Still, the risky flip-flops that both Brandon and Nate experience in their own respective reticent and freewheeling personalities are handled beautifully in plot, scenes and language by Reed who has captured me as a new fan and leaves me humming for more--of Brandon and Nate, and Reed's work.Still, the risky flip-flops that both Brandon and Nate experience in their own reticent and freewheeling personalities, respectively, are handled beautifully in plot, scenes and language by Reed who has captured me as a new fan and leaves me humming for more--of Brandon and Nate, and Reed's work </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful Love Story With Flawed Secondary Characters </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> Whether I am reading a mf or a mm book, I want a romance story with an HEA andHungry for Lovefills that requirement. I loved the build up of the relationship between Nate and Brandon, and not one of those stories that just concentrated on the sex. Yes, there were sex scenes, but there was also an emotional connection between them. We have Nate, who has a slew of one night stands, but has come to a conclusion that he wants love, with that one person, a forever kind of love but he has yet to find it. And then there is Brandon, who wants the same thing but who is practically a virgin. He can't seem to find that special one either. Hannah and Marilyn are just so wacko!! It was through them making that profile in the dating website, that Nate and Brandon meet, and the instant connection is there, sparks fly between the 2 of them. Now Hannah is a good sister, I know she should know better than what she did, but through this comedy of errors, Nate and Brandon do find their way to each other, Hannah does find her someone and Marilyn, well, that girl just confused me to no end. I thoroughly enjoyed reading this book, it brought out so much emotions in me, I had tears and laughter and joy. And yes, I figured out Nate's real job before it actually came out, that was an interesting part of the story. Do I think Hannah and Marilyn's antics took away from the story? No I don't. Do I recommend you read this book? Yes I do. Thank you Rick for giving me a copy of this book to read and review. I loved it, just love a good romance!!! Oh and the sex scenes were just so hot!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Beautiful Romance, I just Loved it!! </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> This review is slightly spoilerish but no major spoilers are revealed.Nate Tippie isn't a one-man kinda guy. At least not on the outside. He's in the bed of a different guy every time he has the urge (which is often).  On the inside? He wants to find true love just like most do. Unfortunately it doesn't seem to be in the cards. One one-night-stand after another and he's no closer to finding a partner than ever. He enjoys the sex and the random hook-ups but he hopes that someday he can find someone to love and who will love him back.Brandon Wylde has never been involved in the club scene. He doesn't have a lot of sexual experience and that's by choice. He's not looking for random hook-ups like his best friend, Christian. He's looking for true love and is determined to find it even if it means signing up on a dating site to do it. Taking a chance, he creates a profile on the site OpenHeartOpenMind, a site that specializes in romance, not just just sexual encounters. Brandon looks in a mirror and sees plain. He sees nothing spectacular that would make other men turn heads. He is who he is and doesn't see himself as others do...... a good looking man. He has an amazing mother, who the reader will fall in love with immediately. Brandon is a self-professed mama's boy (I loved that).Hannah is Nate's sister and Marilyn is Hannah's psychotic best friend.  I have to state early that I am not a fan of either. This lack of love did not go away as the story played out. If anything, it grew. More on that later.Hannah and Marilyn are heavily into M/M romance novels. Marilyn goes one step further and is obsessed with gay men in general. She's loud, obnoxious and doesn't censor anything she says, regardless of who is around or where she is. The two get drunk one night and decide to check out some of the gay hook-up sites online. One drink thing leads to another and a false profile is created on OpenHeartOpenMind with the women using Nate's info. It's only to check out the men on the site, right? Well, not exactly.  The profile is supposed to be deleted but it's not and Hannah takes it a step further by contacting someone on the site under the pretense of being Nate, but not for the reasons one would think (hence my total lack of love for Hannah).Brandon gets a message on OpenHeartOpenMind and is convinced that he may have found the one. One message after another and the two 'men' agree to meet. This is done via messages on the site. It also leaves Hannah with a major dilemma. Nate has no idea that his name (and later, photo) were used on this particular dating site, though he has used a lot of the others to meet random men for sex in the past (and often). She eventually comes clean with Nate and he reluctantly agrees to meet Brandon to let him down easy.It doesn't quite happen that way.There is much more I could say about all of the above but I won't. That would be completely giving the story away so I will hold back on what happens when Nate and Brandon actually meet for the first time and what happens later. I will, however, give my thoughts on the characters.Hannah. She claims to have her brother's best interests at heart but in reality, all she cares about is her own selfish, jealous self. Setting up the false profile on the dating site was one thing. She brought Nate and Brandon together.  A good thing, right? Definitely. But she also goes out of her way to try to sabotage her brother's happiness because of her own jealousy. I feel that she's forgiven too easily but that's just me. Nothing she did later redeemed her character in my eyes.Marilyn. Where to start? Not much of a best friend to Hannah but then again, by the time I got to the end of the book I felt that they deserved each other. She's loud and obnoxious and just as selfish as Hannah. Not someone I would want to be associated with, especially in public.Nancy, Brandon's mother. I adored her. She's the perfect mother and one that any gay or straight person would be very lucky to have. She did one thing that had me shaking my head but as a mother myself I could relate so I let it go.Brandon. I absolutely adored him. He's a little shy. He's very self-conscious. But inside, he's a wonderful human being. All he wants is a man to love... a man he can trust.Nate. I liked Nate a lot even if I didn't always agree with him. I felt that he should have been more forthcoming on some things but had he been, the story would not have worked out the way it did. It was a pleasure watching him go from a different man each night to falling head over heels in love with Brandon. His profession is kept secret throughout most of the book but it didn't take long for this reader to figure it out. :)Overall, I really enjoyed this book, as I have every other I've read by this author and I've read quite a few. The love story is good. There is just enough conflict to keep it interesting but not so much where the reader gets frustrated. All of the characters are perfect for the story, even if I didn't necessarily like some of them. The way everything comes together at the end is very nice.  There is a quick epilogue so the reader can see Nate and Brandon (and the other characters) a little down the road. It was perfect.Another great read by Rick R. Reed.Review (slightly edited) originally published at ontopdownunderbookreviews.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Winner by Rick R. Reed </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed reading, but I could have gone without the meddling of Hannah, even though she is a central character in the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> This is a story about a hopeless romantic and how he learns to let go of his ideas about what is true and truthful. Eventually  he lets some in and discovers himself along the way. A nice sweet story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For the romantics. </p>
+
+
+<h2> review.date </h2>
+  09-29-2013  
+<h2> review.text </h2>
+
+ <p> Mr. Reed takes the concept of hiding behind the anonymity of the internet dating to aid in bringing together people who really need to be together; all with a bit of a twist.  It's this twist that I'm noticing is the hallmark of Mr. Reed's writing.  Once you've read one or two of his books (which I recommend), you will begin looking for the 'twist', that conglomeration of circumstance that makes his writing unique from other writers.  I will not reveal the complete 'twist' here, for that would be a disservice to the reader.  Just know that the 'twist' is more than the summary you read about the book's content and theme.Characters are real, three-dimensional, and perfectly believable.  The people in the story could be your neighbors, relatives, or close acquaintances.  It's the age-old story of people seeking love.  It's a universal theme that you need to explore - this theme has a modern edge, all delivered Mr. Reed's style.Do yourself a favor.  Get this book right away and dive in.  Mr. Reed's literary waters are ready to pull you into  worlds that you will never want to leave. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Must Read! </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> As luck would have it, I had the opportunity to meet Rick R. Reed, and listen to him do a reading, just days before starting this book. The really cool side affect of that was that I could hear his voice in my head as I read. It was pretty awesome. ;)Brandon Wylde is tired of the dating scene, and of all the websites that promise only a hookup. He is looking for a partner, someone else who is looking for romance, and a long-lasting relationship; so, he signs up on the gay dating site, OpenHeartOpenMind.Nate Tippie seems perfectly happy with the countless one night stands, and short-term hookups that make up his romantic life. At least that's what his actions in the beginning of the book would have us believe. It's also what his sister, Hannah, believes to be true. We find out, however, that Nate IS looking for `more'. He DOES want someone to spend his nights, and his life with.Next we meet Hannah, and her crazy friend Marilyn. Marilyn is obsessed with gay men, and reading gay romance novels. Hannah also reads gay romance, and obviously has some knowledge of the gay lifestyle because of her brother...but she isn't as invested in all of the ins and outs as Marilyn is. One night, while trying to get deeper into the OpenHeartOpenMind site in order to check out some profiles, they create a fake account, ultimately using Nate as the model. Hannah finds Brandon's profile, and becomes so enamored with his looks, and what he says in his bio, that she decides to write to him.Of course, Brandon is interested in "Whos2Know", the profile that Hannah has created, and then in whom he believes to be Nate, once they start corresponding. Hannah has to come clean with Nate, and asks him to go meet Brandon in order to "let him down easy," rather than simply erasing the profile, and disappearing with no explanation. However, upon arriving at the meeting with Brandon, Nate is instantly smitten. I really, really loved his reaction to Brandon when they initially meet - he falls so hard for Brandon, it's really charming to read. The rest of the story involves their romance, which quickly turns steamy, and whether or not they can overcome all of the deceptions that their budding romance is based on.The different relationships in the book were a big part of what made the story so good. Nate and Hannah are extremely close, and when the situation with the fake profile escalates to the point that it could end things between Nate and Brandon, things come to a head between the brother and sister. I really liked the way that altercation was handled. The relationship between Brandon and his mother is also fantastic. Incredibly supporting and loving, they are always there for each other. You can see how her nurturing has shaped Brandon.Hungry for Love was the first book I have read by Mr. Reed, and it definitely will not be the last. The style is extremely easy-going and I really enjoyed the flow of the book. There were some scenes and lines that absolutely had me laughing out loud, and also several `awwwww' moments. I also have to say that being from Seattle, all of the local references really added to the reading experience for me.Without giving anything away, I will say that the last quarter of the book was my favorite. There are so many satisfying and heart-warming moments. Characters finding their truths, and realizing the people they are meant to be, and who they are meant to be with, all written beautifully with humor, and love, and intelligence. Rick Reed has done a wonderful, wonderful job with this story!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved this book!! </p>
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> I loved this book. Mr. Reed is one of those writer's who can pull the reader in and keeps them there until the story ends. I have read several of Mr. Reed's books and I've enjoyed everyone of them.Keep up the good writing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful story </p>
+
+
+<h2> review.date </h2>
+  03-27-2014  
+<h2> review.text </h2>
+
+ <p> Completely unrealistic. If someone's sister really does what this chick did, she'd get the biggest arse kicking from the sibling she did it to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Meh </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> This one started out really strong for me, and I especially enjoyed the feeling I was getting a personal tour through downtown Seattle. That was fun :) And the book was well-written, no distracting typos, flowed really well, etc...but...unfortunately, I think, in this book, the snarkiness of Hannah's friend, and Hannah's wanting to be living Nate's life vicariously left an icky feeling for me...I wanted to like it so much more than I did, and obviously others enjoyed it, but maybe I was hoping for a bit more 'When Harry met Sam' vibe that the blurb lead me to expect.  I liked the resolution, and the epilogue was sweet (but where was Nancy?) and I had a feeling early on about Nate's 'secret', so that played out well...The subterfuge and jealousy of Nate's sister and her coworker had me feeling sad in many of the situations. I did like the honesty of each character's flaws, and enjoyed meeting Brandon's mother, but was disappointed we didn't see more of her after being introduced.The premise and foundation of this story was extremely relevant and timely with social media being such an influence in today's dating game. I felt it came from an authentic place, but wish that the supporting characters hadn't seemed so vindictive.It was nice to see Nate have feelings that weren't solely run by his libido after all his 'cattin' around'. Shows there is hope for the romantic in all of us :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Darn. Wanted to like more... </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> I love this book. This is the first book by Rick R Reed that I have read. From the beginning it had me hook. I wanted to keep reading but had to put it down to go to bed. I love all the characters. Marilyn and Hannah are so funny. Nate is always looking for love so he has one night stands. Brandon is looking for love not one night stands. This book is is full of fun and a roller coaster ride. I love this author and will add him to my favorite author list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A New Favorite Author </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> This was my first book that I've read of Rick and I was not disappoint .  His stile of writing grabs you and pulls you in and I loved it . It might have been my first book but it will not be my last . Vicky Huntington </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hungry for Love by Rick R. 'Reed </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> I liked Nate and Brandon, but could not stand Nate's sister and her coworker. I made it past the 50% mark, but Hannah and Marilyn were so obnoxious that I finally gave up on the story. The writing makes this feel like a first book. I hope that Rick Reed keeps writing because the framework is there, he just needs to improve his style. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Less than I Expected and yet still too much </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

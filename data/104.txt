@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0069VYPV4 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great starter! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-09-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this in May for my birthday and took it out to the coast with my friends and family. We had a really great time with it and it worked well as a starter scope. I'm not sure I would see much reason to upgrade as I'm not much of an enthusiast. Great to settle basic desires. It wasn't too difficult to assemble and I was able to do it in about an hour. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Kids AND grandkids love it </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Last weekend we went out and in one night saw a full moon, the rings of saturn, Jupiter and several of the moons around it, Mars, and some spectacular stars (there was vog drifting south of us from the Big Island of Hawaii, that REALLY gave an atmospheric effect to the stars on the horizon).  We like it so much I ordered a set of connectors for our Nikon camera (D5000) and a lens and filter kit (Celestron Accessory Kit). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My husband's Christmas present! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> He loves it. He has always been very much interested in astronomy but never went so far as to buy a telescope. He can tell me about anything in the night sky and is absolutely fascinated about it. He hasn't had very much time to use the scope but he did go out one night. He said he looked at the moon and he said the view was very sharp. He has a lot to learn so I plan on buying lots of accessories to keep him busy. I have already bought  &#34;NightWatch: A Practical Guide to Viewing the Universe&#34;, Orion 05662 Moon Filter, Orion Shorty 2X Barlow eyepiece, 15163 padded scope case, Orion 08890 Premium Accessory Kit, &#34;National Geographic Backyard Guide to the Night Sky&#34;, &#34;National Audubon Society Field Guide to the Night Sky (National Audubon Society Field Guides) &#34;, &#34;Guide to the Stars Map&#34; &#8211; January 15, 2013 by Ken Graun (Author), &#34;The Night Sky 30-40 (Large; North Latitude) [Map] &#34;, and Orion 5768 RedBeam Mini LED Flashlight.  I haven't much interest in telescopes but I have learned that his is a reflective type. He picked it and he is very much satisfied. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love this telescope! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This works great for objects within our solar system and to show you incredibe clusters of stars, but other than that you really can't see any deep-space objects. I was mostly upset by the fact that the description says "the view of Andromeda will knock your socks off" when you can barely see it on a great night! It is still incredible to see another galaxy, but it (literally) looks better through a $30 pair of binoculars. The views of saturn and jupiter are absolutely incredible, the rings are amazing on saturn and you can see 2-3 of its moons. Jupiter i prefer even more over saturn because you can make out several of its red "stripes" and 4-5 of its bright moons! Its incredible to believe the amount of magnification you can get out of this telescope and how many more stars you can see, The hercules cluster is amazing! I would DEFINITELY recommend this! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> After 4 Weeks.... </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I spent a day off and put this together. It was not difficult although I have not calibrated or balanced it yet. This is included in the manual, I just have not got to it. Anyway, it has been hazy and cloudy and blowing dust here in Arizona, as well as smoke from fires...so not the best time for viewing. Finally last night there was a break in the clouds and the almost full moon popped out. I decided to march the scope outside in the backyard of my house in the city and try her out. I need to point out that after reading up on this I decided to also purchase the shorty barlow lens and a moon filter. It was my understanding that focusing on the moon when it is full can be glaringly bad or worse than when using this filter. All was in place , I headed outside used the rangefinder to bring it into line of sight. Played around about two minutes and was enjoying some spectacular crater views. My point is, this unit is very easy to negotiate, once calibrated correctly I know I am REALLY going to enjoy it. The two adjustment knobs make subtle changes, which at distance is what you have to have,subtlety! Do not actually touch the body of the scope while focusing or watching or you could throw it a few light years off! More to follow as I zoom in on some of the planets out there. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Seems like a well-built telescope, but some problems </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ordered this as a present for my son in December. It is now late January and we have not yet been able to use it. This came in a large box and was rather hard to assemble. We checked the parts, best we could, before assembly--there wasn't much to go by. The instructions are very poorly written. When we finally got it together we discovered there were two or three key parts missing and until we got them, the telescope was useless. My son is an adult, so can't blame any misdirections on him. A main mounting screw on the tripod was missing, called Orion and they sent it right away. After we got it together and attempted to use it we discovered that the bushing that holds the lens to the telescope was missing and there was no way to look through the lens. Called Orion, they are sending it. Orion has many videos on their website showing how to construct their various models. The video for this model did not include any information on how to mount the lenses. I looked at several videos for larger telescopes and saw that usually there was a bushing to mount the lens--when I called Orion they confirmed there was. Instructions on mounting the lenses and basic operation of the telescope should be clearer and more descriptive. At one time I wanted to be an astronomer and even made several refractive and reflective telescopes from scratch, including grinding a mirror--putting a kit telescope together should be EASIER. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice optics with some minor flaws </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> For those who have assembly problems, Orion has a very nice youtube video that describes the process step by step. It's extremely helpful! Just search youtube for the scope and you'll find it. My impressions after a month of use:1) The Expanse eyepieces are very good. They are probably the best part of the scope. The optics are quite excellent once collimated.2) What can you see? Well, although technically one should be able to see magnitude 11 or 12 objects, in reality if you're close to a city magnitude 10 is more realistic. The 4 major moons of Jupiter are very easy and you can also easily see the cloud bands of Jupiter. Titan around Saturn is also very straight forward (as are Saturn's rings). Rhea is visible when squinting, Tethys I can barely see even squinting if conditions are really excellent. Dione and Iapetus I can not see. Mars looks like a red marble. I've looked at deep space objects but they just look like a fuzzy cloud.3) The included eyepieces are fantastic for the planets and their moons. For the Earth's moon, I use a 3x Barlow to dim the image (no shade or filter needed). The moon is the right brightness to use the same 3x Barlow with Orion's 3.6mm lens, allowing very high magnification, although this is obviously pushing the scope past it's optical limits. With the 3x Barlow and the 6mm eyepiece, you can see really good separation of doubles like Mizar.4) The focuser on this scope is just too rudimentary. It would be very useful to have finer adjustment. I find myself often just nudging the focuser without actually turning it to get the focus I want. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Jupiter and the moon were very cool to see </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I only got to see Jupiter and the moon so far...with the biggest magnifying eyepiece this comes with(6x or 3x cant remember) you can see cloud bands on Jupiter and I spotted 4 or 5 moons.  Our moon looked amazing..it was very cool to see the craters close up. I'm looking forward to the weather clearing up...been cloudy for a week now :/Now for my complaints...the starry night software was an adventure. It would just hang on the install forever..finally I tried to copy the files off manually and realized the issue is the disc reads at about 500 bytes a second or so.  I let it copy over night and got further only to run into further errors.  With windows 7 I had to run it in XP compatibility mode before it finally worked. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Gregg L. Friedman MD, Psychiatrist, Hallandale Beach, FL </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was able to see Saturn on a clear night. I am very impressed with the quality of this telescope. It was a great purchase. By Gregg L. Friedman MD, Psychiatrist, Hallandale Beach, FL </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A nice beginner telescope. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Not the best thing going, a bit shaky and a bit loose where it would be nice to be tighter. Would be great if they gave you more lenses too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> REALLY </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> telescope is alright needs a barlow lens definitly if you want to see anything worth while. the shipping was horrible supposed to get here in 3 to 5 days took more like 10 days. i also orderd a moon filter that didnt get here till 3 days later no point in looking at a full moon with out a moon filter. i know its not the companys faul for the delay in shipping but i missed the full moon because of it. They sould of shipped it Fedex instead of UPS. aAny ways another thing i dont like are the slow motion controls they are cheap they feel like drinking straws. just horrible I bought this product because of its high reviews. but i am dissapointed. my first look at the moon was like what?? it looked so tiny. needless </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My husband loves his birthday gift! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The telescope works great! The equatorial mount is finicky, as other reviewers have stated. It can move on its own, which of course leads to a frustrated astronomer. Everything else on the telescope is awesome. We've taken it on several camping trips and it sets up fairly easily. I highly recommend buying the Orion carrying case, but get a size bigger than they recommend. I also got him the Orion case with ten extra lenses, including the incredibly useful 2x Barlow Lens. I researched a lot of telescopes before purchasing this one. Orion has had excellent support and customer service. Their website is filled with useful guides and videos on how to use the telescope. The company was definitely the ultimate deciding factor in choosing telescopes and so far, everything has worked incredibly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great beginners telescope </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've had the Orion StarBlast 4.5 Equatorial Reflector Telescope about 3 weeks now and am very pleased with this purchase. Optics are excellent! Tube construction is very sturdy. The mount, however, is only adequate (it's a $160 scope so what do you expect) but does have decent controls, all things considered. My grand kids and I are having a wonderful time viewing the planets and, especially, the moon. Seeing Saturn, when it was in opposition on May 10th, was amazing and Jupiter, including four or five of its moons, elicited many a &#34;WOW&#34; from everyone.If you are wanting to get into backyard astronomy and want a great telescope for not a whole lot of cash, this is the telescope you need to get, hands down. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-02-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This light bucket is the right size for a wide variety of astronomers; from beginners to simply look at the moons of Jupiter, to those who want to use the advanced navigation tools to locate objects. As with any medium-priced telescope, it's never quite powerful enough to do everything you want .. but there are a number of lens options available. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice so far </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have had it for just a day, so far it has been nice.  Assembly is tricky but there is a web video that helps a lot.  Got it up and running in about 30 minutes and was able to see the moon clearly.The only issue is that the red dot spotter is mounted on the wrong bracket so I am going to have to dremmel 2 holes to get it to mount to the scope.  Would have given it 4 stars if it were not for that. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best for the bucks! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've owned one of these telescopes, which I bought with the #08890 Premium Accessory Kit (see review for that kit), and I have to admit I'm impressed. Why? The Amazon.com package came in right on time and without a single ding in the outer box, (more to do with UPS really, but still they chose an excellent shipper), the parts were set in individual boxes and there was plenty of cushioning within one and all to keep them safe during their journey. The tripod is not one of those cheap, flimsy crap constructs that could have been made by a child, but this tripod is sturdy, easy to assemble, and fully adjustable for the perfect height anyone would need. The finder scope works great and I had no difficulty in setting it up and using it. Assembly was fast, fun, and educational - I suggest, strongly, reading everything that comes with the unit first, then assemble it and you will have a far better experience. I tried to put it up w/o reading ANY of the information - finished it and discovered the tube was on backwards! I could study the ground really close-up but the sky was nowhere to be found! The lenses that come with it gave a wonderful view of the moon and I spent hours enjoying this feather before moving on to Venus which is easy to find in my latitude, plus the eyepieces are wide so they don't hurt the eye when viewing. I kept my glasses on and found the eyepieces were plenty large enough to use with glasses and in the background light of a small town around me I was still able to focus on individual features on the moon with great success. First time out was a learning experience, as were the second thru fourth, but then I was able to use the scope in the dark and all controls became intuitive, so this would be a wonderful first users telescope and for the money I could not have done better. I paid under $230 for the unit and everything I needed to begin my astronomical observations was in the box! A great gift for anyone over 14 years of age - with but one slight caveat that I wouldn't want changed or &#34;improved&#34; - the telescope on the tripod is HEAVY and somewhat unwieldy, but that is due to the durable nature of the product, the counterweight is a lot to carry around by itself, but on the scope (where it belongs) it just adds that much more to the setup. No deductions for weight - sorry, I feel quality of construct is far more important than having to use the old arms to lift the unit and so forth. Color is great for both genders of user, and the paint is quality-it doesn't rub off when cleaned or anything!! (Yes this happened w/another item and it was upsetting)For the price, the overall quality, inclusion of finder scope, tripod, written material, customer service provided by seller, packaging, shipping method, power of included lenses, and ease of assemble, mobility, and use make the Orion StarBlast 4.5 Equatorial Telescope the best one can purchase. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for beginners </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm what you would call a beginning amateur astronomer and I love this telescope. The set up, while it took a little longer than the instructions said, were easy enough to understand. It's a very simple telescope is very easy to use. The lenses it comes with are great for viewing the moon and stars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great First Telescope </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have always been interested in Astronomy but in the past 6 months I have started to gain interest in owning a telescope. After much research I continued to come back to this particular model. My wife must have paid attention b/c I got the Orion StarBlast 4.5 as an early christmas gift this year. I felt like a kid again on Christmas morning!The telescope was packaged well and protected during shipping. The unit was easy to put together however the instructions could have had more diagrams - I grew up with Legos so I tend to work better with visual instructions. I ended up putting the instructions aside and put the telescope and tripod together based on the picture for the most part. I read through the instructions the following day and made some adjustments to my initial build. The EQ mount works great so far. My only gripe is with the latitude adjustment t-bolt. This adjustment can be cumbersome at times as opposed to the slow motion controls that are included for R.A. and Dec. The tripod itself is sturdy enough however 1 out of the 3 adjustable legs tends to stick. These are the only minor issues I have come across in the past week.The EZ finder reflex sight has definitely made it effortless to zero in on objects in the sky. All of the components have a quality finish, especially the optical tube and the EQ mount. The 2 included eyepieces (6mm and 15mm) have allowed me to see the moon and Jupiter (including 3/4 moons). Views of the moon were crisp and sharp even in less than crystal clear skys. Overall the optics appear to be high quality. Im looking forward to the weather clearing up soon on the east coast so I can really explore the night sky. The portability of this telescope is also excellent. The optical tube can be very easily separated from the mount and packed for a road trip.Overall I would highly recommend this telescope to any of my friends or family based on quality, price, and portability.I would recommend the purchase of additional eyepieces and filters to enhance the experience. Orion currently has an accessory kit that has good reviews  - 1.25 Inch Premium Telescope Accessory Kit. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Impressed! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Firstly, I am an utter noob when it comes to telescopes.Secondly, I have wanted a &#34;real&#34; telescope for a long time.Thirdly, one of my sons (who is 10) wanted one for his birthday because he has become interested in astronomy.So, all those things combined together to help me pull the trigger on a scope.  I wanted to get him one that would allow him to see more than just the moon, but I didn't want to spend a small fortune in case his interest fades.  After a ton of research and review reading, my wife and I thought that the Starblast 4.5 EQ would be a great &#34;beginner&#34; scope.  The only accessory we bought with it was a moon filter, so this review only includes what came in the box used with that filter.My son hasn't seen it yet, so if I remember, this review will be updated when we actually give it to him and have had a chance to run it through it's paces, but &#34;dad&#34; (me) has taken it out twice - once to assemble everything (it was overcast that night so I couldn't have used it even if I wanted to), and once on a clear night to &#34;check the optics&#34; (honest!).All I can say is that, from my untrained eye, and utter cluelessness about how to get the most out of this scope, after a 10 minute viewing session, I was amazed.The moon was crisp and clear.  I had used a simple, small refractor a LONG time ago, and that doesn't even compare to what I saw through the Starblast.  I used that moon filter I bought and the details on the moon were still easy to see.But I really wanted to see Jupiter.  So I trained the scope on it using the finder and was able to see Jupiter and 4 of its moons!  But the coolest thing by far was, after my eyes adjusted, I was able to make out the cloud banding!  Man, that was something to see.  I've seen pictures (and I wish this scope would deliver that kind of image, but come on, I paid &#60; $200 for it so...) but seeing that in real life, through my own scope was something to behold.So, after 10 minutes of use, here's what I would say:Setup:------1)  Assembling the tripod and mount was easy following the included directions.2)  Setting up the scope was a bit more involved, partly because I had never done anything like that before and I wanted to make sure I got it right, but the video instructions here were invaluable in that regard.  I followed along with the video and had it set up in short order.3)  Since I was just doing a quick viewing, I didn't care about aligning it with Polaris, etc. I could see the moon and Jupiter without aid so I pointed the scope and went at it.4)  Calibrating the finder is likewise easy - without using the EZ Finder, point the scope to a bright star you know so you can see it in the eyepiece, then look throgh the EZ Finder and adjust it until the red dot is on the star.5)  I'm not sure if I need to collimate the scope, but everything I looked at seemed to be focused well - more use will give me more info hereUsage:------1)  The finder is &#34;iffy&#34; - sometimes it turns on, and sometimes it doesn't. I've had to turn it off and on a few times to get the red dot to show up2)  The EQ mount works for our use so far.  Focusing the eyepiece does cause it to shake enough that things bounce around, which makes it sort of difficult to get a crystal clear focus without making small adjustments, but I didn't expect rock solid so this doesn't bother me.3)  I was able to get a very clear image of the moon and Jupiter without making any adjustments to the optics (i.e. no collimation)4)  The EQ mount will take some practice to get used to, but I'm a noob so that's expected. The slow motion controls are essential and useful, and allow you to mount them on either side of the axis they control depending on what's comfortable for you.5)  Both eyepieces are nice.  I used the 15mm eyepiece to find things and the 6mm one to zoom in on them.6)  All of this viewing took place in my driveway in the shadow of my neighbor's house caused by a streetlight.  I can't wait to get this out in the country!Quality:--------1)  I have nothing to compare this to and no experience that would give me the ability to say &#34;the optics are great!&#34;, but I will say this - the scope tube is well built, and I was able to see Jupiter and 4 of it's moons from my driveway.2)  The included eyepieces are nice - a 15mm for a larger view, and a 6 mm for a close up view.  I'd like to get a 3mm eyepiece (or a Barlow) and try it out on Jupiter again.3)  The EQ mount isn't as sturdy as I'd like, but I got the EQ version because it was $50 cheaper than the Dobsonian version.  Given what I can see through this scope, and the fact that I'm not planning on doing any &#34;real&#34; astrophotography with it, it suffices.4) The EZ Finder II is touchy.  Sometimes the red dot fails to come on, but when it's calibrated, it's pretty accurate.  It will get your object in view no problem.Overall, in the short time I've used this, I have been very impressed.  It met every one of my expectations, and exceeded others.  Seeing Jupiter's cloud bands and moons in person for the first time was pretty awesome, and made me appreciate everything I read in researching scopes.The questions I'm asking myself now are:1)  Should I have gotten the Dobsonian version?2)  Should I get a motorized tracker?3)  Should I have gotten a &#34;push to&#34; version?4)  Should I have gotten a &#34;goto&#34; scope?5)  Should I have gotten a 20' long 24&#34; Dobsonian with liquid nitrogen cooling and a 100 megapixel live imager with integrated astrophotography post processing for full WiFi PC control and automatic object centering and awesome images just short of Hubble??!?!?!?!?I can get 1 and 2 through accesorizing, and if I want a &#34;push to&#34; capability, I'll get it when I get the 10&#34; Dob.  4 could be an upgrade to 3, and 5 is a pipe dream.But 20 years ago, this Starblast 4.5 was a pipe dream.This scope hooked me in 10 minutes.  What will it do for you? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A very nice telescope for a casual observer </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm only a casual observer of the moon and planets, and bought this to replace an old refractor.  I was amazed at the image quality of this by comparison.Assembly, which took about an hour was simple and straightforward.  I was happy to find that even after shipping, no alignment of the optics was necessary.The EZ Finder reflex sight was surprisingly accurate, and I picked up Jupiter without any searching at all.Very happy with this purchase. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

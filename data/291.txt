@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B008JQGR2M <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> Here is another atmospheric, nuanced, mature psychodrama from the perceptive and skillful Anania -- and you'd only be human to be stifling a yawn about now.  Actually it's riveting, the way Altman and Hartley can be riveting, but just because Anania knows his stuff won't mean that anyone will care.  He does know his stuff though; this is the most accurate of the many recent films to tackle schizophrenia, and it's also the most accurate about &#34;theater people.&#34;  But we're still in the very outer margins of fringe culture here, and not even Altman or Hartley at their most subtle ever seemed to flirt so heavily with complete irrelevance.  Like recreating the Sistine Chapel in frosting on a carrot cake.  So, I'm still rooting for Anania, as I have been since Her Name Is Carla if not before, but more like the way I root for certain esoteric indie bands, in full acceptance of the fact that they're never going to record Stairway to Heaven, not even by indie standards. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jay Anania, the next Hal Hartley? </p>
+
+
+<h2> review.date </h2>
+  11-23-2012  
+<h2> review.text </h2>
+
+ <p> So we waited, and waited, but about a half hour into this gave up. Boring. Always. Not one interesting scene or conversation. So painful . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Painfully boring </p>
+
+
+<h2> review.date </h2>
+  05-03-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed the simplicity of this movie with a cast of talented actors and their dedication to making the film as real and quirky and strange as it came off. I also liked the general foreplay throughout, leaving the audience waiting for what the heck was going on with Winona's character. It was entertaining and everyone played their parts well..it got strange and offputting at the end, but all in all, I recommend seeing it at least once. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> despite strange reviews... </p>
+
+
+<h2> review.date </h2>
+  10-23-2012  
+<h2> review.text </h2>
+
+ <p> This movie was sooo bad, it doesn't even rate a 1 star but the system wouldn't let me give it less than 1.  I usually enjoy Winona Ryder's & James Franco's movies but this was so slow and didn't make any kind of sense.  Really surprised that these two big actors would even do this film.  What a disgrace to their profession!  Don't waste your time or money!  :o(( </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the Worst Movies...The Letter!  :o( </p>
+
+
+<h2> review.date </h2>
+  08-25-2013  
+<h2> review.text </h2>
+
+ <p> Five very attractive actors make love to the camera...  A tedious play within a tedious movie...  Visual beauty abounds...  Coherence does not...I bought this movie by accident ... rather, I chose not to return it when it arrived in the mail instead of the Bette Davis movie of the same title I thought I had ordered.  It looked interesting so I kept it, and finally I decided to give it a viewing.  Too bad I opened the package, thereby sabotaging my opportunity to return it...Still, there are intriguing ideas contained within this mess of a movie... if only writer/director Jay Anania had figured out how to clearly convey what he wanted to say, and had made more of an effort at plotting (and given it the serious shot of adrenaline it needed)... there is a fascinating picture struggling to be released from this footage!  Although I can't recommend this work, I have to admit that I couldn't stop watching.  I was waiting for something to happen that made sense, and I think I got at least a portion of the idea, but it was too little, too late.  This was a tragic waste of talent, because it's all on display here: good acting, gorgeous photography and appropriately moody music.  But the sum did not equal the promise of the parts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Attempt at Something... </p>
+
+
+<h2> review.date </h2>
+  10-11-2012  
+<h2> review.text </h2>
+
+ <p> I will state up front I only watched this mess through to the end out of a longstanding loyalty to Winona Ryder.  It was only 93 minutes in length, but the entire experience felt so much longer.  The plot itself is promising:  a theatre director working with a very small ensemble cast may either be descending into insanity or may legitimately be victim to a nefarious plot to poison her.The problems are myriad.  Repeated phrases ("Why is that strange?"), excruciatingly drawn-out closeups of Winona's tortured visage as it is wracked by confusion and despair, the smirking, snide reactions of James Franco; the negligable contributions of the ensemble cast.  It all adds up to nothing.Jay Anania (director) was clearly aiming for a very intellectual, minimalist, and theatre-driven piece of drama with "The Letter".  Even that belabored vehicle -- the Japanese tradition of composing missives to dead loved ones and then sailing them downriver -- was so occluded by the saturnine voice-over of Winona that I still don't see the point of giving the film this title.Please, Ms. Ryder:  choose your next work mroe carefully, because this one was a celluloid disaster. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pointless </p>
+
+
+<h2> review.date </h2>
+  10-03-2012  
+<h2> review.text </h2>
+
+ <p> "The Letter" is the most boring movie I have ever had the misfortune to watch.  It makes the hour and a half run time seem like a month.  I was actually worried that the machine I rented it from would not take it back.  Narrated in a droning monotone voice by a playwrite/director the movie is about her attempts to direct and also re-write a boring and amateurish play which is in rehearsals.  The dialogue between the actors is slow and seemingly meaningless in this clunker and I wonder why as fine an actor as James Russo would take a role in it.  I read that "The Letter" cost ten million to make and if so it makes the Obama bailout of Solyndra seem like the deal of the decade!  Do yourself a favor and skip this snooze-job unless you are experiencing sleeping problems in the first place. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What the????? </p>
+
+
+<h2> review.date </h2>
+  11-14-2012  
+<h2> review.text </h2>
+
+ <p> What a mess! No real story, just a collection of confused and confusing, disjointed scenes.What was writer/director Jay Anania not thinking?Winona Ryder portrays a playwright who is apparently going insane. How much is in her mind? What's real and what's not? Has she been drugged? Or not? Many possibilities are suggested, but we never really learn any answers. I suppose that's meant to be profound?THE LETTER has many closeups, and even extreme closeups. Yes, Winona Ryder looks lovely in her closeups. If you want a collection of Ryder images for your screensaver, then this is the DVD for you. But if you want a film that's entertaining, or even coherent, you must look elsewhere.As in many of her past films, Ryder: 1. Does voiceovers, 2. Plays a writer, 3. Plays a Crazy Girl.Alas, ever since her excellentGirl, Interrupted, Ryder's too often been typecast as The Crazy Girl. She sometimes plays other types (e.g., the also excellentWhen Love Is Not Enough), but isn't often enough given the chance.And what an awful title -- THE LETTER. So generic. The IMDB lists 28 films titled THE LETTER just since 2006.THE LETTER actually reminded me of the much betterNightmares (Totally Uncut & Uncensored), a 1980 slasher film, because NIGHTMARES is set amid a really bad, pretentious play, much like that in THE LETTER. Except that NIGHTMARES parodies the sort of pretentiousness found in THE LETTER.NIGHTMARES is a gory horror film -- but what's really scary is that (according to the IMDB) THE LETTER's writer/director "Jay Anania heads the directing program at the graduate film school at New York University and is one of James Franco's teachers."Franco co-stars in THE LETTER. I guess Anania used his NYU film school contacts to get this film made, but based on this sample of his filmmaking skills, NYU should fire him and refund his students' tuition fees. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yes, it really is THAT bad! </p>
+
+
+<h2> review.date </h2>
+  09-24-2012  
+<h2> review.text </h2>
+
+ <p> "On that first night of course we didn't know who you were, or what you would do to us, or what you would do to me." Martine (Ryder) is a New York playwright who is getting a chance to direct her boyfriend in a new play she wrote. Soon after rehearsals begin an unknown actor, Tyrone (Franco) shows up and begins to cause tension. His acting is good but he is hostile to everyone except Martine. While the rehearsals are going on Martine begins to become paranoid and thinks someone is trying to kill her. Her re-writes of the play begin to confuse the actors and the line between life and paranoia are blurred. First of all I will say this is not terrible but this is another movie that tries to be artsy for the sake of being artsy. I find the easiest way to describe movies sometimes are to compare them to others that many have seen. I open with that because it seemed like this movie tried it's hardest to be like "Black Swan" but never quite making it. Very limited scenery and actors but the main focus is on Martine's slow descent into madness. You begin to question if she is just overly paranoid or if her concerns are legit. This is the type of movie that keeps you wondering about that which helps you make it through. Overall, an OK movie but tried to be artsy for the sake of being artsy. I give it a B-. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A movie that seemed artsy for the sake of being artsy. Tried it's hardest to be "Black Swan" but fell a little short. I say B- </p>
+
+
+<h2> review.date </h2>
+  10-01-2012  
+<h2> review.text </h2>
+
+ <p> This is one of those films that tries to be artsy and clever with the photography but ends up being tiresome and a bit slow for no good reason.  I did like Winona Ryder very much as the main character, a play director who is losing her sanity slowly as the rehearsals crumble and her relationships are strained. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not sure what to think..... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

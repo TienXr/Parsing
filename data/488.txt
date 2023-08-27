@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00JT5GFA6 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> A very good read. I especially enjoyed the Christian principles included and the way the characters expressed their beliefs. I would recommend that  this book be placed in young adult Bible classes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Family United </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> I really liked this book. It is nice to read stories with significant characters and Christian values. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> Good and easy summer oriented reading. Great for beach time. Remaining words written simply to comply with the minimum word count requirement. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed thus book!  I didn't want to put it down. It's one of those rare books that you can put yourself into and be part of. I would definitely recommend it wholeheartedly! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> By Summer's End </p>
+
+
+<h2> review.date </h2>
+  04-26-2014  
+<h2> review.text </h2>
+
+ <p> a tender love story, sweet clean romance! the characters were people I would like to know. Love the country and the horses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Truly beautiful </p>
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> great book about love, grace and forgiveness. hard to put down once you start reading. if you also love horses it's a book for you. hope all enjoy it as much as I have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> This has been one of the best books I have read. It has been a pleasure to read literature that I includes belief in Christ to play such an important role in one's life. God Bless this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent! </p>
+
+
+<h2> review.date </h2>
+  05-20-2014  
+<h2> review.text </h2>
+
+ <p> Even  a teen would enjoy reading this, yet it is mature enough for an older audience. More of a female rather than a male/female story.  Loved the answer to the mystery as to why she inherited the property. A satisfying story and ending. Not boring at all. Shows what hope can do for someone, how it can change a life. Lessons were good that the young girl learned, and she was a fun character in the book. I really enjoyed it. Listened to it mostly while doing other things. sat up to the wee hours of the morning, then decided I just had to go to bed, and finish it today. Glad I got it.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet story </p>
+
+
+<h2> review.date </h2>
+  05-04-2014  
+<h2> review.text </h2>
+
+ <p> By Summer's End was a great read.  I love all Rosemarie Naramores' books.  Her stories are real and exhibit Christian values.  The main character, Holly Holton, a strong female character remains strong even though she faces much adversity. She never loses her faith in God. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great book! </p>
+
+
+<h2> review.date </h2>
+  05-07-2014  
+<h2> review.text </h2>
+
+ <p> I am so happy to read a Christian romance book. This a story about a young woman that never gives up on the ones she loves. Her sister tried to make it hard to love but Holly looked past that. Then a handsome man came along and added to the stress that is her life. But she is guided by a more powerful force than all lifes hard knocks. Read this book so we can get more of these types of books published. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> christian romance </p>
+
+
+<h2> review.date </h2>
+  05-03-2014  
+<h2> review.text </h2>
+
+ <p> Holly finds that broken lives can be turned into good when God has a plan for you.  She discovers her sister, Brianna, and the two of them receive good news.... a home!......but will it be taken from them?  Of course there's not smooth going all the way,  A  sweet romance and....... Nice dialogue and actions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good story with a satisfying ending. </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> What do you do when your world is turned upside down?  You turn to God and put it all in his hands!!!  Great story.. Read it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

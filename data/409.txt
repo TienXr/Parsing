@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007DR41MQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-26-2012  
+<h2> review.text </h2>
+
+ <p> My three year old loves this story..it's simple enough that she tries to "read" it back to me!  A simple and sweet bedtime story... my favorite part was the reference at the end.  I highly recommend it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My Little girls loves it! </p>
+
+
+<h2> review.date </h2>
+  04-29-2012  
+<h2> review.text </h2>
+
+ <p> True to the nature of cats this kitten loves sleep and will not change his mind for anyone. The little girl is given this cat for a birthday present and shares with us what it is like having it. I like the easy story that goes with the pictures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Independent Cat </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> Such a cute story and we were absolutely delighted to meet the real Einstein The Lazy Kitty. A new favorite read together story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> We Love Einstein The Lazy Kitty! </p>
+
+
+<h2> review.date </h2>
+  12-30-2012  
+<h2> review.text </h2>
+
+ <p> My daughter enjoyed this book, she loved seeing the cat at the end. Simple easy quick kids book. Great price too </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny Book </p>
+
+
+<h2> review.date </h2>
+  04-22-2012  
+<h2> review.text </h2>
+
+ <p> This is a cute book, definitely how a cat would act. The pictures of the real Einstein were a bonus. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> cute book </p>
+
+
+<h2> review.date </h2>
+  05-23-2012  
+<h2> review.text </h2>
+
+ <p> Einstein seems to be like most cats, asleep. It's a book that gives Einstein so many scenarios, and the love of a simple cat for his owner, shines through. (Cats will be pleased.)  Clever, and gently illustrated; it doesn't always make it with the rhyming pattern, I found. But kids will warm to this book and like the funny nature of it. Another books which shows the silly side of life too isIf You Find A Monkey - A Rhyming Book for Children (Rhyming for Children)It's full of different rhyming sequences and things that happen, often to animals. Fun books, lots of variety. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Book Sure to Appeal to Kitty Lovers </p>
+
+
+<h2> review.date </h2>
+  06-29-2013  
+<h2> review.text </h2>
+
+ <p> Cute story my 6 year old was able to read to me. He really enjoyed the story and the pictures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute kitty story! </p>
+
+
+<h2> review.date </h2>
+  08-06-2012  
+<h2> review.text </h2>
+
+ <p> Where did you find this boneless kitten?  He is so sweet.  The drawings in this book are yummy.  Any cat lover will be smitten.  The story is flowing, with only an few trips in meter or awkward passages to muddle the tongue.  The text should drawl and be as lazy as Einstein...but it ripples like a brook babbling hurridly away.  IMHO  In my humble opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pictures Adorable.  Photographs outstanding </p>
+
+
+<h2> review.date </h2>
+  04-21-2012  
+<h2> review.text </h2>
+
+ <p> This is a cute little book based on the author's real cat.  I imagine a sequel where einstein  is always too busy to take a nap. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> cute kitten </p>
+
+
+<h2> review.date </h2>
+  03-05-2013  
+<h2> review.text </h2>
+
+ <p> I've read this story to my son over and over. He loves it. It's just right for a toddler. The story is cute and the pictures are adorable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute story </p>
+
+
+<h2> review.date </h2>
+  12-12-2012  
+<h2> review.text </h2>
+
+ <p> Love it, my 3 yr old loves me reading it to him at night before bed.  We will probably read it many times over </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute </p>
+
+
+<h2> review.date </h2>
+  05-22-2012  
+<h2> review.text </h2>
+
+ <p> This book gives a child's eye view of what a little lazy kitty can see in his or her enviornment.  The pictures would entice a child to want to read this book. Thank you for making it so enjoyable for me, and I will certainly use it for my students this summer when I do story hour with my students. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Child's Review of Einstein the Lazy Kitty </p>
+
+
+<h2> review.date </h2>
+  04-19-2012  
+<h2> review.text </h2>
+
+ <p> The story of Einstein the Lazy Kitty is told in rhymes. The text alternates with pictures so it is large enough for even very young children to read. The story is basically about a little girl named Jessie who gets a cat for her birthday. When she tries to get Einstein to go outside to play he refuses and says: "No, I don't think so." This book is actually sort of funny and will amuse young readers. The book is based on the author's cat who likes to sleep a lot. There are a few pictures of the real cat at the end. The point of the story seems to be that we should accept animals as they are. However I have a feeling that for Jessie's next birthday she will ask for a puppy.~The Rebecca Review </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gentle Rhymes </p>
+
+
+<h2> review.date </h2>
+  10-22-2012  
+<h2> review.text </h2>
+
+ <p> My kids were bored and no matter how many times we try to read this book, they get bored and walk away half way through.  Its not a BAD book, just boring. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> boring </p>
+
+
+<h2> review.date </h2>
+  08-17-2012  
+<h2> review.text </h2>
+
+ <p> My son and I loved this. Very sweet. I'd like to see more books with Einstein. I expected him to wake up at night and drive her crazy though! Thats what my cat would have done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very cute! </p>
+
+
+<h2> review.date </h2>
+  07-31-2013  
+<h2> review.text </h2>
+
+ <p> Although this book was funny, my son thought it was too short.  He wanted more funny stories about this kitty since he has 4 very lazy kitties who sleep a lot.  He liked the pictures a lot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

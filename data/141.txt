@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00DLKE91C <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-17-2013  
+<h2> review.text </h2>
+
+ <p> I'm chuckling as I'm reading the other reviews for this TV wall mount and wondering what is wrong with me.  Although the design is pretty standard and the equipment is very heavy duty and comes with all the pieces, it scares me.  There's dozens of screws that go with this and this is not a one man operation because the piece is downright heavy.  It says that it's only 37lbs, but it feels at least like 50.  Add a 100 pound television to that and I simply wouldn't trust it.  I have a 60" flat panel for this and believe the 65 inch limit is really more for the weight concern than anything else.  I was so worried about it that I ended up calling in some pro friends of mine to get this set up since my husband and I looked like two clowns scratching our heads.  You can slide the tv up and down which is great if you'd like it a little higher or lower without having to reset the whole thing up again.One thing that I have to question is why call it the Lift70 if the biggest tv it takes is 65?  Why not call it the Lift65?  It's a little misleading since I also have a 70" tv for our movie room that I would have loved to put on this, but since my heart was going pitter patter with the 60", there was no way I was going to try the 70. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kids, don't try this at home </p>
+
+
+<h2> review.date </h2>
+  09-06-2013  
+<h2> review.text </h2>
+
+ <p> Since getting a Sony 50 inch TV a year ago, it has been on it's stand placed on a long oak credenza in the living room. It was the second TV in that position and I've always wanted it to be above the piece of furniture, on the wall instead. I wanted it there for ease of cleaning the furniture, ease of watching the TV and a whole host of other reasons.The OmniMount LIFT70 Tilt TV Mount for 46-65 Inch TVs was the perfect way to do just that. When the UPS man dropped it off, I immediately thought "Woah, this is heavy".  But that weight is what makes it strong and also what gives it such a smooth movement once the TV is mounted to it.This is a pretty heavy mount and while I was able to get the TV mounted to it with a bit of trouble, I'm sure with one more person helping it would have been much easier, it took me about 3 hours with a couple of breaks. Locating the studs in your wall is of paramount importance. Standard mollys are not going to do the trick and nobody wants a nice 600-dollar TV to end up in shambles on the ground, so follow the instructions to the letter. The other particulars will most likely relate to where your cable is coming from and I doubt most people will have to re-locate that like I did.Once mounted, the profile is not quite as slim as I would have liked but since one is almost never looking down that particular wall to see how much is showing, it's a small issue. The action of the mechanism is quite smooth and takes very little effort, much smoother than I was anticipating. The up/down and vertical tilt make this a mount that pretty much gives you everything you need... as long as you are willing to sit right in the front/middle of the TV. It does not tilt side to side at all, so the old stand sort of had a feature this does not. To be honest, however, I don't miss it.Now I have room for all kinds of magazines and books on the credenza and they aren't reflecting the TV glare any more and the TV looks far better on the wall than on the stand. I'm still getting used to looking at the TV higher than eye level while seated, but dusting the credenza is one easy big swoop instead of working around the intricacies of a TV on a tacky stand. Nice mount, 4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Smooth Slide, Solid Support </p>
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> We'd been searching for a good wall mount for the past several months since we bought our Westinghouse 46" tv.Our 46" Westinghouse is just the right size for this "Lift 70", in fact this heavy duty, deluxe wall mount can hold up to a 65" diagonal screen.It helps that our tv feels like it's about 25 lbs and evenly distributed.  For some of the larger tv's and some of the larger tv's that are considerably heavier than ours, it's a toss up as to if this model should be used.The LIFT 70 is heavy.The good of this is that it's plainly obvious that it's durable, but mounting this on our bedroom wall had me concerned for a minute as the weight of the wall mount and the tv seemed intimidating.The wall mount is about 45-50 lbs by itself.  After making the exact measurements for where you'd like to hang the mount, you're now dealing with drilling holes.  Although the instruction book doesn't explicitly say how to screw in the almost two (2) dozen different nail bits, I STRONGLY suggest using a drill as opposed to screwing in the nails by hand.  But, the surface area becomes less fortified when pierced.I suspect that with the weight of your tv, the weight of the wall mount and any pieces added to the wall would make mounting anything above 50 lbs, NOT recommended.  The wall mount is 50 lbs, the tv should not be more than that either.*** Installation ***+ You'll need to have at least 2 people from beginning to end.+ A multi-head, electric drill and bit set.+ A leveler+ Two .5" wood blocks (personal recommendation)- placed underneath+ Hammer+ 7/32", ", 3/8" drill bits+ Pencil+ Wrench+ Phillips head screw driver*** Installation ***The installation will run you about 90 minutes after you've decided where you're going to place the mount and tv.This unit demands that you start to measure above 42" (or 3.5') from the floor.  It may be more practical that you decide where to hand the unit measuring from the ceiling down and using the 42" default space as a mental reminder.Once the measurements are made, "measure twice, cut once," then you'll need to have a second person to affix one side and moving the other side.  The wood blocks should be drilled in first, however, because their placement acts as a pillar to keep the mount attached to the area where it'll be drilled.I should mention this.  It's important to know if your HDTV has a standard wall mount attachment.  I was recently surprised to learn that not every newer model tv has it built in.*** The price ***The price retails for $350.  This is a high quality wall mount.  When attached, there are levers on either side to tilt the tv to an angle that looks to be 10-degrees.  And, you can lower the tv from its installed height to a 42".  And, this is a heavy, steel material.With all of these features, is it worth $350?  Can I get by with a less expensive one?It's possible.  $350 is a very high price for a wall mount and in order for it be able to reasonably hold up a larger screen 55" or higher, the wall has to be fortified.The downside is obvious, if you've made an investment in a larger, more expensive tv, and if that tv falls down because a less expensive make couldn't prevent it, you're most likely out of the cost of your tv.So, if you have a VERY expensive tv, this will in my opinion offer you the protection you need irrespective of the bells and whistles.  If you have a budget tv (like this writer), you can find an adequate one for 1/3 the price.Based on quality alone...4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Plan Ahead and This Wall Mount Will Serve You Well.  OMNI "Lift 70": A Critical Review. </p>
+
+
+<h2> review.date </h2>
+  09-01-2013  
+<h2> review.text </h2>
+
+ <p> This mount is wonderful for our 45 inch tv.  Please note that this mount does not have a swing out feature or move side to side, it is strictly up and down.As a mom, I wanted this mount that keeps the tv close to the wall, as I don't need any temptation for my little climbers to swing from it!  This mount feels secure and safe on the wall.  I carried the box in when it arrived (about 37 lbs) but called my dad to help me with installation.Most the supplies you need come with the mount and hardware.  What you will need is a leveler, thing that tells you where studs are on wall, 13mm wrench, pencil, and measuring tape.  The directions show you how to measure the width of your tv and include 16 inch travel downward space.  We got it installed fairly easily and it took us both to mount tv.  Definately a two person job.It's been wonderful to have this mount, mostly so I can move the tv down when the sun from the skylight creates glare in late afternoon.  I only have to use two fingers and glide it easily to move it.  My older son adjusts the tv to the perfect height while he's playing games and I prefer it higher when I'm playing Just Dance on the wii.The tilt is very slight, so don't expect a major difference there, but it does help with the glare from out window at times.I'm happy with this solid, safely secured, wall mount that is easy to adjust.  Great for families. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Great in Playroom </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> Some of the other reviews seem to be missing the point... This is a very unique mount which allows the user to install a TV on a wall at "couch height" and raise it closer to standing height, or lower it to use while sitting on the floor.  No, it does not pan from side to side.  The maker also offers mounts that move in all directions (pan, tilt, and height adjustable).  Next, the model number indicates the maximum WEIGHT capacity of the mount.  It has nothing to do with TV screen size.  The packaging provides an estimated TV size range, but weight is the most important factor.  Because the mount is height adjustable, the TV weight must be within the specified weight range of the mount. They make one for smaller/lighter TVs too (Lift50).  The mount is very well built and seems to include all hardware needed to install my TV.  Realistically the install is a two person operation although I was able to get it accomplished by myself... I'd recommend a helper.  Overall, this is a REALLY cool mount.  It added a dynamic that I have never seen before and I find myself raising the TV to standing height quite often for gaming and to view the TV from another room. Some effort needs to made to be sure wires are routed well so the height adjustment is as smooth and light as it is supposed to be.  On that subject, it was necessary for me to adjust the tension that controls up/down movement.  It was very easy.  There is a bolt on the top of the mount that you turn to adjust the mount for the weight of the TV.  Once done, the TV glides up and down the wall with light, one-handed effort.  To summarize, it's a very sturdy mount for TVs up to 70 pounds, you do not need to reinforce your wall (as noted in other review).  Just follow the instructions and all will be fine.  Overall it's a great product which has changed/enhanced the way I use my TV.  I'm not sure how I survived without it previously. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great mount for gaming, TV viewing, entertaining </p>
+
+
+<h2> review.date </h2>
+  08-26-2013  
+<h2> review.text </h2>
+
+ <p> This is a great TV mount for anyone looking for added versatility. It not only allows you to mount your flat-screen TV to the wall, but also provides a way to tilt the TV, so that no matter what angle you're viewing it from, it's perfect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great TV Mount! </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> The OmniMount is one heavy product, but that is good, since it has to hold your TV to the wall.  This mount is very well made, sturdy and looks like it will last a life time.  Not a one man/woman job to mount it, but it is rather easy to do if you have the right equipment.As others have mentioned, you must have a level, and something to find the studs.  You don't want a crooked TV, nor do you want it to come crashing off the wall.Many...and I mean many screws are included, but lay them out, have them ready and it's a snap.  The mount slides up and down, but NOT side to side, it does have a slight tilt as well.All in all, this is a great product, just be prepared with proper equipment and a helper as well as a fair amount of time and you'll be quite happy with the finished results.Definitely a keeper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sturdy and does the job </p>
+
+
+<h2> review.date </h2>
+  09-19-2013  
+<h2> review.text </h2>
+
+ <p> I must say, the slide action on this TV mount is awesome!  I have 2 other TVs hanging on the older mounts that only tilt.  This new design blows them away.  Now I can adjust my TV up and down on the wall - which is perfect when I rearrange the furniture, use P90x exercise DVDs or watch movies.  I don't have to compromise with one location for all my uses.  I'm sure that other brands will follow suit.  The slide action is that good.This mount is presently on my wall holding up my 50" Samsung HDTV.  Installation was as easy as hanging a TV can be. I've done TV Mount installations twice before and this one has been the easiest.  All the hardware was there and all the screw holes were very easy to get to.  I recommend using a stud finder when hanging this TV.  You can knock with your hand to locate studs, but that isn't as reliable. Try to get as many screws as possible onto studs.  Studs will handle the weight much better than drywall.  Here is a cheaper stud finder, but any should work.CH Hanson 03040 Magnetic Stud Finder.Creating the screw holes are the most important part.  BE SURE THE HOLES ARE LEVEL!  You don't want a crooked TV.  After creating your screws holes, attach the LIFT70 mount and tighten the screws.  Then slide on the TV and tighten those screws.  That's it!  Done! My installation was less than 15 minutes from unboxing to starting a show.I used this LIFT70 to hang my 50" Samsung.  The LIFT70 holds TVs 46-65".  OmniMount also has the LIFT50 that holds TVs 40"-50", but I decided that going with a stronger mount is the wise choice.If you need more help installing your HDTV using this  LIFT70 mounts, here's a video on YouTube  [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The slide action is amazing!  Installation video link included. </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> This OmniMount LIFT70 is special!  Surprisingly not too difficult to install when there are two people who plan out the job and install together.  It is heavy, and it will be accomplished much easier with two people.  Having the ability to move the tv to an optimal viewing level based on my current needs is just superb.  I use it much more than I ever thought I would.  The placement of the tv on the wall works well at one level, but when I am home during the day and working in the kitchen, I find that it so convenient to move it for better viewing pleasure.The only drawback on this mount is that it does not come with the feature that allows me to swivel it left and right.  I don't know how much I would use that feature in this house, but I did use it a lot at my other house with a different living room set-up and of course, a different mount. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This One is Special! </p>
+
+
+<h2> review.date </h2>
+  09-22-2013  
+<h2> review.text </h2>
+
+ <p> The OmniMount Mount Lift70 is pretty cool.  It feels exceedingly sturdy and appears to be well constructed.We installed in the basement on a newly constructed wall.  Installation was NOT easy as the instructions weren't clear enough for we first timers.  STEP 1, for example, says only: "Attach monitor using monitor hardware, M-A, M-B, etc...".  ETC?!?  There's also a Note that reads: "M4 screws (Part M-A, M-B) should not be used for hole patterns greater than 200mm x 200mm.  (I was like, what the heck.)My ineptness aside, once the apparatus was installed it was very cool.  The tilt and elevations features are great, allowing us to adjust the image depending on where in the room we are.Plus, it's wonderful to eliminate another dust collecting surface.THINGS YOU SHOULD KNOW--IMPORTANT:  the maximum television weight that this will support is 70 pounds--the OmniMount works for TVs up to 65 inches.--the OmniMount will work for smaller Televisions, down to 46 inches (although I can't verify as none of our mountable televisions are that small--Heavy, heavy, heavy.  Maybe it's the shape, but this mount seems very heavy when you're lifting it.--Instructions posed a real problem for us.  Fortunately we had a neighbor who could help out with the weight and with moving us through the construction quickly:  installation time took over an hour--the OmniMount is very sturdy and given the number of screws and gauge of the metal I feel comfortable having this support our television on the wall, although I do think that if we had little children that we would have raised the level to keep it out of their reach--this particular mount does not pan side to side; BUT does elevate (from couch height to game-play/standing) and tiltVery nice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You WILL Need Help </p>
+
+
+<h2> review.date </h2>
+  09-06-2013  
+<h2> review.text </h2>
+
+ <p> I needed a stand for my basement tv set up for way too long so this was a blessing. I am using it for my 48 inch Sony TV and it easily attached to the mount with little effort. There is a tilt function that is nice and different but just to let everyone know the tilt tilts a little not at great lengths so it has its limitations. Still a nice product that was not to heavy to move around the room. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Suprisingly Easy Set up. </p>
+
+
+<h2> review.date </h2>
+  10-17-2013  
+<h2> review.text </h2>
+
+ <p> I was able to get and use the OmniMount LIFT70 Tilt TV Mount without too much of a problem.  It was simply a morning project to get it anchored and get the TV mounted.  The smooth glide of being able to adjust the TV is an excellent feature for playing Wii or watching movies on the couch.  The install was fairly easy, but could have been tricky if this was my first time installing a wall mount.  This mount is an excellent product and I'll be using it for years.  The high quality metal and build gives me confidence in it and I've got no doubts that my TV is secured to the wall.  I'd highly recommend this mount if you're looking to mount your TV but still be able to adjust it based on what activities you're doing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> This is a heavy duty wall mount for 46-65" TVs that weigh no less than 45 pounds and no more than 70 pounds. It's non-electric, allows your TV be tilted 10 degrees forward and allows your TV to slide down the wall as much as 16" from it's installed position. There is no side-to-side swivel capabilities with this mount.It comes beautifully and very well packaged with plenty of protective Styrofoam.Installing this mount is not a quick process so plan to spend an entire afternoon (with at least one more helper) installing it. You will need:a levela hammera Philips head screw drivera drill with bits of either 7/32", 1/2" or 3/8" (depending upon the type of wall you are mounting it on)a stud findera marking pencil or pena 13mm socket wrenchI also recommend a highlighter pen (explained later)Read the installation guide carefully a couple of times before you do anything else. It's confusing and doesn't have a lot of text and is not well laid out and what text there is is in a tiny font. If you've ever used IKEA instructions for assembly, you'll know what I mean. Also, it's in multiple languages - all on the same page. Do yourself a favor and highlight the appropriate language on each page before you begin. It will save you loads of time during installation.Make sure your TV is the right size and weight and then check your VESA hole pattern measurement so that you will know which screws to use. There are lots of screws included so that you can choose the correct ones for your particular TV. Figuring this out right away and then laying out the screws you'll need before beginning installation will make the process much simpler and take less time.Also, look at and measure carefully the place you want to install the mount. There is an included mounting template for convenience. You'll need to take into account where the electrical outlet is, where the studs are located, etc. (You must have at least 2 screws in a stud for this mount to be securely and correctly installed.) You also must make sure that your electrical cords run *outside* of the horizontal rails so the placement of the cords on your TV in relation to the placement of your electrical outlet is extremely important. And remember, when you install this mount, it is in it's highest position. Your TV can slide down the wall as much as 16", but it cannot slide up higher than where it is mounted. In other words, planning and measuring first is the key to a good installation.If you do all the prep work I mentioned, installation can be accomplished in about an hour pretty easily. Because the mount is basically in two parts - the mount on the wall and the plate that attaches to your TV, you will need to lift your TV (with the mounting plate installed) up a little higher than the wall mount to "hang" it from the mounting rails. This is clearly a 2 person job (especially with a 55"-65" TV) and a third person is helpful to look from the side to make sure you're at the right spot.I installed this mount with no problems, but I have installed a couple of wall mounts before and they all install in the same basic way. I'm delighted that, after tweaking the adjustment bolt, my TV easily tilts or moves down and up the wall with a very slight touch. It feels very secure on the wall.The price is on the high end of these kinds of mounts, IMO, and I'd likely buy a less expensive mount for a 46" TV since they are much lighter in weight than a 65" model. Unless you have one of the older, heavier models, this mount is probably overkill for a 46" TV. However, for a 55" or 65" TV, this very heavy duty mount is not unreasonably priced for the job it does. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heavy duty wall mount with nice features </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> This would be the perfect product for a specific application: you have a large TV in most likely a large room.  Sometimes you would like to position the TV at eye-level with people sitting in the couch but sometimes you want to watch the TV from across the room, perhaps while you are in the kitchen attached to a large family room.  It is designed to allow anyone to lower or raise the TV at the touch of a finger.  It does not however allow you to change the angle of the TV - for that you need something with an arm, but when you have an arm holding the display the TV will never be as flush against the wall.The other consideration when buying this mount is that it is very heavy - my first intention was to use it to mount my 55&#34; LG display in my living room wall (the LG currently sits on top of an IKEA TV stand) but given the age of my home and the horsehair plaster, not to mention that the wall hides a pocket door, there is no way I'm going to attempt that.  Instead I am using it in the recreation room of a second home. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> High Quality but extremely heavy </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> Welllll the first one that came in did not work properly out of the box. Once installed the tv would stay up once if you coaxed it and held it in position for several seconds but there was no middle place to set it. It was either all the way down or all the way up. After about a week, it would no longer stay up at all. I wasn't sure if that was due to the fact that the TV was on the larger size of the indicated capable range or not.So I called Omnimount. Not even 1 minute into the phone troubleshooting session, they said "don't worry about it, we'll send you a new one". I gave them the information they asked for and 2 days later a new one arrived. It took a while for me to get my helpers back out here to install but the replacement works perfectly and I am very happy with it.Let me make this very, very, very clear....OMNIMOUNT STANDS BEHIND THEIR PRODUCTS.If you have a problem, tech support answers quickly and they make your problem vanish into thin air.Here is a word of warning however. In the first one that was installed, the mounting guide's holes did not line up with the holes on the unit. So be sure that your mounting guide (that cardboard thing) has the holes in the right spot before you drill holes.You may find the installation video on omnimount's website that shows the installation where the unit is bolted in the center to a vertical stud  and there are drywall inserts on either side. I think that is the smaller unit because the two larger ones that I've had, the instructions say to bolt on one side to a stud and the other side into the anchors.Being that the very expensive new TV was going 7 feet up in the air, I didn't want to trust fastening half of it to the wall with drywall anchors.We put in two furring strips that were bolted to 3 different studs and then bolted all 4 holes to the furring strips. I'm more confident in that setup knowing that not one but two horizontal supports and not one but three vertical supports has to fail before the mount falls. And it would probably take a tornado for that to happen.I have one suggested improvement and that is to make the ends of the brackets go down further. The brackets I am talking about are what latches on to the mount. They don't dip down very far and that makes me a little nervous.The installation was straightforward but took a while, about 3 hours but this thing was installed very high up, required ladders and some additional engineering to satisfy my desire for it to be installed precisely and securely.  It's not an inexpensive mount but there aren't many/any that will go up and down like this. I would recommend this mount if you need that functionality and I wouldn't, at this point, hesitate to buy another omnimount product in the future.  At the end of the day, it's how you take care of your customers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Omnimount stands behind their products. </p>
+
+
+<h2> review.date </h2>
+  09-30-2013  
+<h2> review.text </h2>
+
+ <p> I replaced an older, cheaper (around $100) mount with this one and really like it. It keeps the tv closer to the wall than the one I had and the slide up and down/tilt functionality is pretty cool. If you're not planning to use that additional functionality it's not worth the extra money but if you use your tv for different activities (things you would do standing vs. sitting, etc.) it's a pretty great function to have.I've only installed one other mount and it was my first but this one seemed pretty straightforward. Since I already knew where the studs were that wasn't a problem and using a level to keep the mount level ensures your tv will be level as well. This is a heavy piece of equipment but that means you don't have to worry about your tv falling (as long as you drill into studs). There are a lot of screws and pieces in here but as long as you get them all organized before getting started on the installation they're pretty straightforward. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cool functionality and a good upgrade from a standard mount </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

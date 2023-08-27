@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00K6L9U3Q <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-11-2014  
+<h2> review.text </h2>
+
+ <p> This is one of the cutest stories I have read. Love, Money, a Security Dog and a Sweet Little Pooch all in one with a little bit of mystery thrown into the mix.Vince is one very lucky guy if you ask me. All he has to do is one thing in order to inherit billions of dollars from his Aunt. But to Vince, it sure does seem like his unlucky day getting stuck with a rich pooch that doesn't even closely fit his style, or his look for that matter. What big buff guy is going to be seen with a primp and proper rich pooch that costs more than anything he owns. But that rich pooch might just be the reason he meets the most beautiful woman he's ever seen. Will Vince come to love Mimi the little rich pooch or will he still wish he didn't get stuck with the job?Sophie is a French Nanny who just happens to be in the park at just the right time to meet Vince. And will become Mimi's Nanny soon enough. After having accepted the position and doing as she normally would, she begins to have things happen to her and Sir Galahad comes to her and Mimi's rescue. Will she be able to talk Vince into keeping him and will that stop the attacks on Sophie? Or is Sophie even really in danger?What will happen to Mimi and the Doberman Sir Galahad in the end?Does Vince and Sophie discover the truth before it's too late? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super Cute Story about a Rich Little Pooch and her Family </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> Very quick reading story with lots of heat and comedy. This author is new to me and I've already picked up several of her books. I like her writing style and her alpha males. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> funny with steam </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> a cute , lite enjoyable read , one of the feel good ones . Will look forward to reading more from Nancy Warren . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun read </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> Vince has it all - he's extra tall, dark, and handsome. He's an excellent negotiator and all the women just fall after him. Then his aunt passes away and he is named in her will. He's expecting a monetary mention, but what he gets is much, much more. His aunt has left him her beloved toy French poodle, Mimi, who understands only French. She asks that he love and nurture Mimi until she dies of natural causes, then he will inherit the remainder of the fourteen million dollars that she has bequeathed to Mimi.He has two cousins who are less than thrilled at this arrangement. Sure, they are given their million each, but it is nothing in comparison to what favorite nephew Vince has received.Vince is in a quandary. He has a sorry excuse for a dog. If he'd wanted a dog, he would have picked a Doberman, not a poodle! His second problem is that the only French he knows is filet mignon and French fries! Thankfully, he bumps into a French governess who is willing to help him out.This book is racy, but that is to be expected with the French element. The characters are charming and realistic. I fell for them from the very start. It is very fast moving and a very quick read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny with outlandish antics! </p>
+
+
+<h2> review.date </h2>
+  05-07-2014  
+<h2> review.text </h2>
+
+ <p> What would you do if your rich aunt left you a dog, a French toy poodle?  And you were responsible for taking care of the poodle until she dies, then you inherit 14 million dollars.  Of course with the stipulation that the dog lives out her life naturally.  That&#8217;s exactly what happened to Vince Grange.  His life was perfect up till that moment.  Single, looks and body to draw women and he loved his job.  Vince didn&#8217;t want a dog, and if he did, it would be a real dog, a big dog.  Not a spoiled, small, French poodle with a diamond collar.  Yet, she, Mimi, was all his.  Oh, did I mention Mimi only understood French? Throw in a stunning French &#8220;dog nanny&#8221;, two cousins who want the money, and you end up with a great story filled with humor, suspense and love.  I always enjoy Nancy&#8217;s books, and this lived up to my expectations.  RICH BITCH is an entertaining read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> what would humans do without dogs..... </p>
+
+
+<h2> review.date </h2>
+  05-07-2014  
+<h2> review.text </h2>
+
+ <p> What a great book!  Right from the beginning it made me smile, giggle, smirk, and outright laugh.  Nancy Warren has the perfect cast of characters in this canine romp!  Darling Mimi directs this tale of love and family, and does it in French!  Although there are quite a few serious twists to the book, it keeps true to it's lighthearted theme and makes for a delightful read!!  Awesomesauce! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm wagging my tail!! </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> Vince Grange a big and gruff guy. Aunt Marjorie and Uncle David ended up with the Grange Fortune and no kids. So since Marjorie never had kids she had spoiled lap dogs. The last one being the diamond studded poodle named Mimi. The aunt leaves Vince Mimi and Mimi gets the bulk of her fortune. Vince has to take care of Mimi in the manner she is used to. After Mimi dies Vince will get the rest of the money. If Mimi dies mysteriously and not naturally the rest of the fortune will go to the cousins. Vince hires a nanny for Mimi named Sophie. Sophie and Mimi get mugged in the park and a stray doberman comes and saves them. He follows them home and won't leave. So they adopt the doberman and call him Sir Galahad. Sophie than gets shot at and they are thinking it is her ex boyfriend who doesn't want her to go. It is a funny book with lots of twists and turns. i loved every minute of it and hated to see it end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Entertaining Book! </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> This is a very good book.  It is fast moving and believable.  I look forward to reading more books by this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent book </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> It's a quick read, but totally enjoyable.  If you're owned by a dog you'll enjoy this book.  I'll be looking for more of Ms Warren's work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fun read </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> Rich Bitch: Everything&#8217;s Going to the Dogs by Nancy WarrenVincent Elliot Preston Grange, the fourth, more often known as Vince or Bulldog, has just received an unwanted gift. This big man known for being ruthless has inherited a foofoo dog from his great-aunt. Lucky him. And dearest Mimi only understands French. Yep, he&#8217;s lucky all right. And then...Sophie Veneau stepped into his path when he needed her most. Literally. A French speaking nanny. Lucky him!Things aren&#8217;t quite cut and dried. Things start happening the day Sophie starts as the doggie nanny. Can they solve the mystery before someone gets hurt? This was a fun read. I could just imagine this big manly man taking care of a foofoo dog with painted nails. And it was fun to see the added characters come on the scene. The author really brought all the characters and their actions to life.**Sexual content and language </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who owns who? </p>
+
+
+<h2> review.date </h2>
+  06-04-2014  
+<h2> review.text </h2>
+
+ <p> The book was actually kind of cute.I wasn't sure how I would feel about it at first, but I wanted to try the book out and read it.The dog certainly is spoiled and clashed with Vince.It was a cute read to see how the &#34;family&#34; expanded. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute </p>
+
+
+<h2> review.date </h2>
+  05-16-2014  
+<h2> review.text </h2>
+
+ <p> A poodle worth 14 million and a French nanny is just what Vince needs to make his life complete.  Of course he doesn't know it right away.  And there is the mystery of all the violent things that keep happening.A really good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful book </p>
+
+
+<h2> review.date </h2>
+  05-23-2014  
+<h2> review.text </h2>
+
+ <p> when will writers stop trying to pass short stories off as books?  This story should be in an anthology of the writer's work and then it would be worth the price.  Having said this, the plotline is a nice  one.  The two dogs are cute.  The romance was hurried.  For some reason no one could figure out who the baddie was though surely the reader could work this out  from the get-go?  Good dialogue.  No grammar or spelling mistakes that i noticed.  And i loved it that Mimi the poodle only understood French. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> short story </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> Funny, a big sexy mans man inherits his aunt's prissy toy poodle and the middle inherited the aunt's millions. Throw in a nanny for the poodle a Doberman, being shot at mugged and some poison and you got the makings of a fantastic story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rich Bitch </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> First, I'm a firm believer the best humans are animal lovers, and animal lovers (like me) won't be able  to put this story down.  Then, well I don't want to spoil the story, there is a bit of nailbiting, and over the top hilarity....if you DON'T read this......My threat, well, you gotta read it, then you'll know this is not an idle one. Nancy, for this book alone I love you forever! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JUST GOTTA READ! </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> Not what I expected. It was pretty good and entertaining. Although, most of the time I was saying duh! A little cheesy, but it is a romance story and it was a pleasure (sometimes to much). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rich Entertainment </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> I loved this book. A big burley man and little poodle. I recommend this book. It is a quick amusing read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> funny and cute. </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> The plot was great.  The writing was snappy and amusing.  The characters (except for the villains) were charming -- all four of them -- the hero, the heroine, Sir Galahad and Mimi.So why not a 5?  Because of the raunchy, too too cutesy sex scenes.  Not once, but twice, the fun filled plot was interrupted by descriptions that are absolutely unnecessary to it.  Why?  It may appeal to one kind of audience but, believe me, there are just as many readers who have imaginations.  A subtle description is enough.  They don't need five or six pages and then another five or six pages of descriptions of sex acts.  Imagination is more powerful and detailed than description.  Trust your readers to get the point.  Trust your readers to fill in the gaps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> Very cute book. Nothing hard & nothing heart breaking. Everyone needs a light read every now and then. Good book for an easy read </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute easy read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

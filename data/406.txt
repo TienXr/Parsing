@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0076XVQPC <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Could not stop reading this one </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The book is my best read for me in 2013.  It was enlightening to view both sides of the Holy Wars and especially from a person raised in the Holy Land </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a big fan of historical fiction and bought this off an amazon recommendation. I must say that I enjoyed the book though there are sections that drag a little bit. I would definitely read more from this author. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a so so read </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The story is unfortunately told mostly as a recounting of the times from the fictional hero to another fictional character, although the latter is said to be at least loosely based on an historical figure.  As a result, there is too much &#34;telling&#34; rather than &#34;showing&#34;.  While reading, I always felt somewhat distant as a result.As other reviewers have stated, there is a major historical inaccuracy present, as the author has William Marshall participating in the crusade. The Marshall actually remained behind, part of the regency council. This in despite of the author's assertion of consistency with the historical record and that the book was to be, in part, a &#34;sourcebook/textbook&#34;. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Crusader story: </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed this story. It was very well written and sticks pretty closely, apart from a few timelines altered to facilitate the plot, to the known accounts of what actually took place. In the early part of the book there seemed to me to be too many quite long quotes from religious and literary texts of those times that often detracted from the tale being told. However, when relating the story of the hero in particular, and Richard and Saladin in general, the action moved along nicely.Great characters portrayed, and given life, here, particularly the larger than life King Richard and Conrad.All in all, a good presentation in a field where there is quite a lot of competition for excellence. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A great read -- and more than a novel </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ordered this book for my Kindle without realizing that it was a novel -- foolish me.  But once I started reading it, I found that it is more interesting, from a historian's point of view, than many supposedly scholarly treatises on the subject.This book is a serious study of the times, using real lives and biographies.  Unlike most historical novels that bend history to fit the story line, the author scrupulously adheres to known history and (very cleverly) makes his plot conform.I highly recommend this book to both those who are knowledgeable of the times of the crusades and to those who want a good introduction to the period. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cumbersome, inconsistent style and flawed history </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Outremer by Richard Allibone  **The opening chapter of this book was so engaging and insightful that it perhaps raised my expectations excessively.  The opening scene describes the capture of the True Cross during the Battle of Hattin and captures vividly both the carnage and the emotions of the Christian participants. Unfortunately, Allibone singularly fails to live-up to the promise of this first tantalizing chapter.Indeed, from this first action packed scene he backs away from his subject and begins to write in a laborious style introducing layers of narrators who spend the first quarter of the book retelling the Battle of Hattin from different perspectives. Even after leaving the regurgitated topic of Hattin, Allibone maintains for the most part (but not consistently) the first person narrative so that the reader is told about events rather than shown them.  Allibone is at pains to describe his narrator as sober and objective, so rather than a lively, first-hand personal account of events, the reader is treated to a scholarly description that sometimes degenerates in to pages and pages of tedious debate.The book is further marred by abrupt and inexplicable switches in tense &#8212; sometimes in the middle of a scene. Bizarrely, for the only scene that describes the principal narrator&#8217;s love and marriage &#8212; the only really personal scene in the whole book &#8212; the author switches from the first to third person narrative.  It all makes for an inconsistent mix in which the story-telling detracts from the story.Equally irritating is that despite the very meticulous research, the use of Arab and contemporary terms and lengthy direct quotes from contemporary sources, the book is still filled with significant inaccuracies.  The worst of which is the premise, on which the entire book is based, that peaceful co-existence between the crusader states and their Muslim neighbors was possible.  While it is true that a degree of co-existence had prevailed in the first decades of Christian presence in the Holy Land because the various Islamic states were at war with each other, Nur ad-Din and after him Saladin both declared jihad against the Christian states. It was Saladin&#8217;s stated intention to utterly destroy the Christian presence. As the Israelis know, you can&#8217;t peacefully co-exist with states that deny your right to exist! Saladin was undoubtedly a rational and honorable man. He was not a fanatic. He was capable of generosity, even toward his enemies, and he was willing to make tactical truces with the Christian leaders when it suited his purposes &#8212; mostly when his own armies were exhausted and disintegrating or when drought threatened his power base. But at no time did he waver from his goal of destroying the Christian Kingdom of Jerusalem. Thus, peace was not an option.Likewise, although even his own Arab source for Richard I&#8217;s massacre of hostages at Acre only speaks of &#8220;fighting men,&#8221; Allibone makes a point of having women and children slaughtered &#8212; something for which there is absolutely no historical evidence. Likewise, he repeats the myth that the Crusaders killed all inhabitants of Jerusalem in 1099 and makes no mention of the many times when the crusaders also let Saracen garrisons walk away free such as at Ascalon in 1153. It is equally baffling why, with so much apparent attention to accuracy, he gives William Marshal a prominent role in Richard I&#8217;s crusading army when it is well known that Marshal remained in England as one of Richard&#8217;s trusted justicars.  Or why pretend that the squire of the fictional narrator is a real historical figure and then have him conform in not a single known fact about Ernoul? (In this novel Ernoul is the orphan of low-born crusaders from Gascony who is crude of speech and ends his life in back in France; the real Ernoul was probably the son of a prominent family from Outremer and most certainly served Balian d&#8217;Ibelin; he was highly educated &#8212; so much so that he wrote a chronicle that is one of the two contemporary Christian sources for the period. He probably ended his life as a leading noble in the Latin Kingdom of Cyprus.)In short, while the book is on the whole accurate, it deviates significantly on important points, thereby marring its value as a source of history.  It is furthermore written in a cumbersome and inconsistent style.  The result is that the book both fails to educate and fails to bring to life the exciting events or colorful characters of this fascinating episode of history. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fascinating Story of the Third Crusade </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a fascinating history of the Third Crusade as told by Geoffrey de Moissac to the Bishop of Tours.  While Geoffrey and the Bishop are fictional characters (as is Ernoul d'Auch, Geoffrey's squire) all of the other characters in the story are real persons. Also historically accurate  are the time line, events and locations.  We follow the Crusade as seen through the eyes of Geoffrey from the defeat of the Army of Jerusalem in 1187 to the peace treaty drawn up by Richard the Lionheart and Saladin, the leader of the Muslims, in 1193.During that time we are treated to the battles that took place, going into good detail concerning the strategies and tactics used. We go with Geoffrey from the defense of Tyre, to Rome and thence to France as he and a Papal legate seek to enlist crusaders to come to the Holy Land and free it from the Muslims.  King Richard I of England and King Phillip II of France and other European nobles  soon lead their armies to storm and free Acre and to fight their way to Jerusalem.This story is not only about the battles that took place. It also deals with the personalities and political intrigues involved. Jealousy between Richard and Phillip lead to rivalries as to who will get the honor of freeing Acre and who should be in charge of all the Crusader army.  Questions of morality are raised as are questions of strategy.  We see the difficulties in getting to the Holy Land and incidents that took place along the way. We see the sufferings the iron clad men face from the hot sun as well as from the sniping Saracen archers. This novel covers many diverse and interesting aspects.The one thing I find in error is the presence of William Marshal alongside King Richard during the crusade.  William Marshal was one of the most honorable and bravest of knights.  I imagine the author thought he deserved to be in the Holy Land. Marshal had gone on a pilgrimage to Jerusalem years earlier to keep a vow made to Henry the Younger.  When King Richard went on the crusade, Marshal stayed behind in England as a member of the regency council to protect and oversee Richard's realm.  But, that is an error that did not detract from my enjoyment of this excellent novel. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another Templar Tale </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Before you think otherwise, let me say that I enjoyed this book.  As an amateur Crusade historian, I'm always up for taking a break from the drudgery that is research for a little fancy.  In this case, this tale is rooted squarely in historical annals- with literary license being taken with the principle characters.  The book opens with the Battle of Hattin- which if you did not know, was a military and political disaster that utterly changed the world that was known as Outremer, or, other side of the sea as it was referred to in Europe at the time.  In the opening, the battle is all but lost- the last remnants of the great crusader army whittled down to but a few handfuls of knights and men-at-arms still alive after Saladin's furious assault on the army.The book is written from the viewpoint of a former Crusader, one of a few who survived Hattin (which as far as I know, was only King Guy, all others having been killed either on the battlefield, or as was the case with Reynald de Chatillon, by Saladin's own hand) who was sought out by ecclesiastical authorities looking to supplement their records with regard to the Templars.What follows is engaging enough- especially if you have any interest in the Crusades- and its always fun to pontificate on the true motivations of some of the players involved.  Also of interest, for those who have an interest in the arms and armor of the period will appreciate the author's attempt at outlining what was worn during that time with regard to the arming garments as well as the armor and weapons that were used.  At least, I did.  As a medieval re-enactor, I find myself checking against a mental checklist for any inconsistencies, but that's my damage and not necessarily yours.In closing, any with interest in Templars, the Crusades or that period of time in general- and a love of fiction without the overarching emphasis on strict and accurate portrayals, will enjoy this book.  I guess my only real complaint is that it has no companion novel- it stands alone.  You always want good books to continue, and this one was good enough to want to read more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Outremer </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A good presentation of the history of the 3rd Crusade.  Some first person, some third person, some historical quotes.  I liked it.  It was informative but not so gripping I couldn't put it down, however. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Educational but not boring </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> As I am relatively new to educating myself on this period in history.  i found this book very informative and historically accurate, yet with a good story that moves along enjoyably around the characters. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> OK not great </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This saga starts out well with the recounting of the crusader debacle at Hattin and the subsequent defense of Tyre against Saladin, but thereafter drags somewhat; I grew bored with it after the midpoint or so. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The BEST Crusades story have read so far </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Will not offer a spoiler commentary just that after having read now dozens of books historical and fictional on the Crusades believe THIS ONE is by far the best.  Found it hard to put down and was especially impressed with the author's decision to use the actual terms of the time to explain the fighting forces, weapons and other critical information including a glossary in the back of the book for those who wish to follow up.  VERY impressed with this one! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Outremer was very good </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> While reading the Templar books I am finding out many different stories related to the characters they are writhing about.  I thought this was a good story.  Thanks </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very well done, insightfully written.Provided an a amazing real detail from both sides of the story. This is a must read for anyone interested in the 3rd crusade </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another great book of the crusades. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was listed as a reference in another book about the crusades.  This book is well written, easy to ready and provides details for the struggle of this area during the crusades.  You will be shocked as some to the thing these people endured in the name of Christianity.  I loved it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It was an ok read </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I expected the book to be a better read than it was. It was more about the main characters sexual conquests. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

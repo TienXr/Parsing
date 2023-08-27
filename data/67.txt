@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B003EWQ7YO <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> So, I bought this grid to increase the directionality of light coming form my 60&#34; octa, a requirement it satisfied handily. A nice (to me) side effect, that I should have thought of was the fact that it also eats up some light. Consequently, I can shoot a little less stopped down, or at more than 1/4 power on my monolight. While I'm not getting the exact results I want, I think that is more due to my lack of familiarity, and the fact that my strip box is MUCH better suited to the results I want to get... I guess I need ANOTHER grid :)It does it's job, it does it well, but it does feel a bit odd, not strictly fabric like, despite being a fabric. Regardless, it does it's job with minimal fuss. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Grid it good! </p>
+
+
+<h2> review.date </h2>
+  01-03-2013  
+<h2> review.text </h2>
+
+ <p> Seems like Fotodiox likes to save money on instructions, as neither the grid nor the softbox ever came with instructions. So I tore the grid some when I first was figuring it out. It still works and does a nice job. Just don't pull on it too hard. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works, but be gentle with it. </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> Not at good as Profoto but damn good for the price. I use this in conjunction with the Profoto 5 foot octabox. Now take in mind that it is a little delicate. Just be careful with it and it will be fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not at good as Profoto but damn good for the price. </p>
+
+
+<h2> review.date </h2>
+  01-16-2013  
+<h2> review.text </h2>
+
+ <p> I'm writing this mostly to counter some reports of poor construction.  Mine arrived only yesterday, so my experience is limited.  I put it on my softbox and then removed it, several times, without any problem.  The connections (joints?) in the eggcrate are light but show no signs of coming apart.  It fit pretty well on the softbox and the 2-inch grid does a nice job of directing the light.  It does what it's supposed to be and is of adequate quality for an inexpensive accessory.  I don't expect it'll fall apart under the light use I'll give it, never leaving my home studio.  I wouldn't hesitate to recommend this to my starving photographer friends--or to all you strangers here on Amazon!  It's cheap, it gives a nice effect on the inexpensive Fotodiox octa. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Construction seems fine; does the job </p>
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> Not too happy with the quality. I've only used it twice and it has already ripped in multiple places. I was removing it from my octobox to store it away and it tore apart from the velcro and some of the grid connections broke loose. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flimsy Construction </p>
+
+
+<h2> review.date </h2>
+  04-05-2011  
+<h2> review.text </h2>
+
+ <p> I love Pro Studio softboxes and highly recommend them. I got this egg crate for my 36" Octa and had the darnedest time figuring out how to attach it. No directions were included and it was not intuitive to me as to how it went on.I does direct your light though and in some cases block it because I couldn't determine how to get the grid even across the boxes surface.Probably just me though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> somewhat less than pleased with this </p>
+
+
+<h2> review.date </h2>
+  05-24-2013  
+<h2> review.text </h2>
+
+ <p> This is kind of a two part answer based on you do not use this by itself but with the Fotodiox "softbox"...It has very weak construction and tears like paper without much of a thought...This product does not get my recommendation unless you will keep it in place or know how to remover "paper" from velcro without tearing it...I am sorry for the negative review and hope this was helpful all the same.Wish you all success. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not that great match </p>
+
+
+<h2> review.date </h2>
+  12-19-2013  
+<h2> review.text </h2>
+
+ <p> In small soft boxes, a grid like this does produce harder light. In large soft boxes it just prevents the light from spreading to walls and objects that may change the color of a bounced source without affecting the softness on the subject. It all fits into the original soft box bag. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The icing on the cake for the soft box it fits </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> I have a few Fotodiox pieces in my kit and I like them all.  This one though, is exceptional.  All of the materials are heavy duty and assembled well.  I think that this is going to last.  The design is excellent too...it is really easy to "pop open", put in the two diffusers and shoot.  I have the one with the Bowens mount and it fits onto my monolight easily.  The grid is also well made and not "floppy".  It's easily rigid enough to keep its shape.The light quality is what you'd expect from a double diffused 48" softbox.  It wraps nicely and has soft shadow transitions.  Exactly the  same as any other 48" octa.  If you're considering this, be sure you have a lightstand that will support it...it adds a lot of weight to the front of a stand.  I use a Manfrotto  stacker stand or a C stand with mine and still sandbag the base for safety.I also use Photek Softlighter II's which I also hold in the highest regard.  I bought this Fotodiox softbox because I needed a gridded lightsource in my kit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well built, EZ setup, terrific light </p>
+
+
+<h2> review.date </h2>
+  09-03-2012  
+<h2> review.text </h2>
+
+ <p> I really have nothing to say oter than buy it and save your self some money, this modifier is worth every penny paid and saved! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOve IT, BUY IT! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

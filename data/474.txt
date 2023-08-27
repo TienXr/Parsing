@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00H6PGG9Q <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-15-2013  
+<h2> review.text </h2>
+
+ <p> As usual, Cheri Lasota delivers a book that resonates with intriguing characters, complex plots, and an authentic historical background.  Past and Present are woven together, each story echoing aspects of the mystery of what happened in the lighthouse so many years ago.  An truly enjoyable read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Old Murder, A Ghost, and Star-Crossed Lovers </p>
+
+
+<h2> review.date </h2>
+  12-21-2013  
+<h2> review.text </h2>
+
+ <p> Contemporary, romantic, paranormal, full of mysteries and two couples united by the same light, Cape Sorrow Lighthouse. Which for me was a big surprise as was weaving delicately both history, one in the present and one in 1935.I must say that this book is one of those who wanted to read. Your synopsis attracted me. Its cover is a nice window to content ahead.And that content was something that really did not expect. It is very smooth, natural. I was very pleased to read the story of Finnian and Tiria.With the history of Carina and Morgan in the book, I fell in love. Although in a few moments have that feeling of sadness, I could not stop reading it.So you have a nice variety of characters to be your favorite, and what I&#8217;m particularly divided. I loved everyone equally. Sometimes one more than another. And if I had to choose it would be Morgan.With writing I had no problem, on the contrary, she takes you by the hand . It&#8217;s our own lighthouse illuminating our time reading this book.If you have the opportunity to read the book, do so. It is one of those books you can not miss.I&#8217;m glad that this book has been the last review to this year. It was a nice way to end this 2013. You have part of my genres I like. Enjoy your content and it was a nice reward for the end of year I congratulate the author for this work.My stars review:5/5Blog All things in the Cloud Sweet </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Echoes in the Glass is a beautiful, magical and paranormal book. </p>
+
+
+<h2> review.date </h2>
+  12-18-2013  
+<h2> review.text </h2>
+
+ <p> In this story, the two main characters (Finnian and Tiria) have secrets within themselves that they try to hide from the rest of the world. Finnian carries the secret of an unspeakable crime, while Tiria carries the burden of betrayal.  They both lead a life of wandering until Finnian decides to restore an old lighthouse,  the same lighthouse that Tiria's father is keeper of. The lighthouse itself holds a dark past.This book is full of detail. It helps me visualize the lighthouse, the road both Finnian and Tiria are on, and the relationship between them. I think that the details make this story. It is so VIVID.It took me awhile to get into this story because I normally don't read this genre. But in the end, I ended up enjoying it! I rate this book a B+ on the Nerd Alert Book Love Rating Scale! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read </p>
+
+
+<h2> review.date </h2>
+  12-16-2013  
+<h2> review.text </h2>
+
+ <p> The cover art of this book is what drew my attention. When I saw it I knew I had to read it.  The lighthouse called out to me. I&#8217;ve never read a book based around a lighthouse, so I had to give this book a shot. What&#8217;s really great about this story is that there is TWO stories being told. It&#8217;s half historical, half contemporary with a bit of mystery.  I couldn&#8217;t put my iPad down once I started reading this.The details that the author gave to us really helped me visualize the Lighthouse, as it was in both time periods. I had no problem envisioning how it might have looked when we were visiting it in 1935 or if we were visiting it in the present.Cheri also did an amazing job with the character development, I fell in love with both couples, though for the most part I think I enjoyed Carina and Morgan&#8217;s story more. We get thrown some unexpected twists in both stories and at one point I could almost feel my heart breaking. It&#8217;s a very bittersweet story that gave me one hell of a book hangover and left my heart a wee bit sore.It was a good book and I enjoyed reading it for the most part. ;) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very bittersweet story! </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> The story starts during the depression era and follows that group of characters in the first and then every other chapter while the present group of characters begins in the second chapter. The way the author used every other chapter to follow each group of characters was interesting. I was so caught up in each story I was tempted to skip every other chapter to see their fate sooner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very enjoyable read </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> This was a heart breaking story of love and loss.  I would recommend it to anyone who likes paranormal love and romance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sad story </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> Read in January, 2014This book caught my attention even though it's different from stories I usually read. I'm not into ghost stories, but if one just looks at this as a fantasy rather than reality, it is truly entertaining.Two sets of teenage sweethearts 80 years apart are brought together through events at this lighthouse on the Oregon coast. Ghosts of two women who died there seem to appear to people at the lighthouse, warning of danger, or in a couple of cases their appearance is to help someone in the lighthouse, in these cases, they appear to relatives..The romances are sweet, the kids are very likable and the stories are very good. Very good. They kept me up well into the night.My only recommendation to the reader would be to read all even-numbered story chapters first, then the odd numbered ones until about chapters 25 or 26. Every chapter switches from 1930s to present day, so it gets confusing. I found I wanted to read the chapters about the kids from the 30's all first, then all the present day ones. It flowed much better that way. Then of course they come together as you near the final chapters.Good read, but not what I'd call a "guy book", although some men might enjoy it. Nicholas Sparks-esque </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Helpful ghosts/lighthouse deaths </p>
+
+
+<h2> review.date </h2>
+  12-20-2013  
+<h2> review.text </h2>
+
+ <p> The tale of the past and the present had me holding my breath waiting for the next page. A little paranormal intertwined with current pain, friendship, silent pains, and finding ways to heal.  I felt the sorrow, the danger, the hope, the gentleness and kindness throughout the entire story.  It was a twisted story (meaning having 2 different stories taking place at once), riddled with mystery and ghosts of the past. This was a perfect story for my imagination! Unprecedented descriptions! I felt like I could feel the surroundings of the lighthouse, the coolness, the smells, the tastes! Amazingly gifted and talented author! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for Young Adult!! </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> This book is a light read, definitely YA level and the author has a whole lot of potential.  The overall story is a nice bittersweet romance with a paranormal twist, woven between two time periods.  While I enjoyed the story she was trying to tell I felt that the method of delivery lacked finesse.  Also, because every single woman in the book suffers violence at the hands of men save one incidental story-teller whose gender is irrelevant, I would never recommend this for a YA audience.The main story, of a nineteen year old torn from his family by his violent past and his attempt to find redemption in the renovating of a lighthouse and friendship of a young women with her own secrets, is intertwined with the story of another young couple bound to the same lighthouse, all overlaid with paranormal events.  There is so much potential for an amazing story...However, I had to only give it 2 stars for a few reasons:1) I felt that the characterization was very lacking.  The first few pages shows Finnian at his worst, then the next time we see him he's completely reformed.  He still struggles, but he seems to have already made it over the worst of his internal struggle, now it's just about proving himself to his family.  In the climax, Finnian and Tiria are philosophizing about redemption, but their voices are so similar I nearly couldn't tell who was talking or if it was just he author preaching at me.2) The attempt to weave the stories together was very clunky.  Rather than wait until an appropriate lull in one of the tales, we switch times every. single. chapter.  Now, I'm a reader of George RR Martin, I can handle having to wait a time to find out what happens next (sometimes many years), but switching stories every 7 minutes (my average reading time per chapter according to kindle) left me kind of dizzy and irritable.  I appreciate what she was trying to do, it just lacked finesse.  Also, because of the method of switching between the stories I didn't get time to process the traumatic climax of the 1935 tale (which was well done and completely unexpected!) before going into the present day climax - which I found extremely predicable after the 1935 climax.3) There were continuity errors & things that didn't make sense.  For example, sometimes Finnian refers to himself as 18, sometimes as 19.  Or the fact that Finnian takes a vow of non violence, yet he's been boxing for the last 2 years... when was his vow?4) The biggest issue I have with this book, though, is the perpetuating of rape culture and violence against women it has in it.  There are 2 rapes, a third attempt and 4 generations of women who suffer violence against them from men who are supposed to have been protecting them.  And this is not even really a topic of the book, just a passing backdrop, a minor event for supporting characters, practically made into a cliche.  This story could have been just as effective with half of the violence against the women (or less).Some smaller things I had a hard time with was rushing the tale - I felt that more than 3 years should have passed from the intro for the present day characters to have really matured, especially Finnian.  There were a lot of cliches - SPOILER: the 1935 characters are alone together for 3 days, have sex on the last day and never see each other again, but the girl is now pregnant. Possible, but cliched.  The present-day villain having scary scars on his face & not having been forced at some time by his parents or the law into some sort of therapy... END SPOILERSo, to sum up, great potential, good story idea but given some more rounding out and diversifying of the characters and storylines and a little more creativity in designing conflicts (something other than rape and beating of every woman in the story) this could have been a great little book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lots of potential, nice love story, but too much violence against women for my taste </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> Echoes in the Glass is a book that could safely fit into numerous categories (contemporary, historical, paranormal) and instead of overwhelming you with a ton of elements Cheri Lasota has managed to seamlessly blend them all together. This story managed to take me to one of my favorite places on earth, Oregon, and make me long for all the time spent climbing lighthouses and staring out at the moody ocean.We have two story lines in Echoes in the Glass, one is present day and the other takes places in 1935, but they both focus on two people. The present day story focuses on Finnian and Tiria. They both have painful memories that they want to forget but the close quarters of the lighthouse  doesn&#8217;t allow them to suffer their pain alone. Not to mention the lighthouse has it&#8217;s own story to tell. Finnian carries a heavy weight on his shoulders and he hides from it, so when he takes a job doing restorations on the abandoned Sorrow lighthouse he neglects to mention his real last name or his history with lighthouses. I loved seeing the changes in Finnian and how different he has become since the &#8216;incident&#8217; that occurs in the prologue. I also loved that like most humans he seeks to help out others well before he thinks about helping/healing himself, it made me appreciate his personal journey more. Tiria is someone who has clearly been hurt and she guards herself in a way that would put most people off, but as she slowly cultivates a friendship (and eventually relationship) with Finniaan her walls and defenses come down. I&#8217;m always a fan of seeing YA friends/couples learn to rely and trust someone else when they would prefer to shoulder it alone. The past of the Sorrow light bleeds into the present as the two teens uncover it&#8217;s secrets and learn about it&#8217;s history, including Morgan and Carina.The story line in the past deals with Morgan Graves, a light keeper&#8217;s son, and Carina Jane, the daughter of a rancher, who live in the small town of Seagraves, Oregon during the Depression. Morgan, like Finnian, is escaping a terrible death that still haunts him but can&#8217;t bare to leave the area close to Sorrow Lighthouse. He finds work at Carina&#8217;s ranch and the two slowly become close. I loved that the author chose to give us full chapters taking place in the 1930&#8242;s as well as showing little bits and pieces through Finnian and Tiria&#8217;s story. It really blends the two stories together.The only problems I had were with a few end scenes in Finnian and Tiria&#8217;s story. While they did work and I loved the high amount of tension, I had a bit of trouble suspending some belief and the events felt a bit odd. It definitely wasn&#8217;t a huge issue though and I was more than satisfied with the conclusion.Echoes in the Glass is what I would call a moody book. It&#8217;s not a feel good novel but it is chock full of emotion as our characters learn to move on from the past, allow other people in, and deal with terrible losses. I loved the blend of historical and contemporary fiction, along with the unique setting and the very small touches of paranormal and mystery. If you&#8217;re looking for a atmospheric read with a unique flare then Echoes in the Glass might be for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful and atmospheric read </p>
+
+
+<h2> review.date </h2>
+  12-19-2013  
+<h2> review.text </h2>
+
+ <p> Echoes in the Glass is a masterfully crafted YA book that intertwines two different storylines; one from the past and one in present day. I&#8217;ll admit I was intimidated at first. I thought it would be difficult for me to keep track of what was happening and when, but the author is so incredibly talented that it was as easy as watching a movie. Her storytelling is spot on, and had me constantly wondering what was going to happen next, what secrets were going to surface, and how the characters would be connected. The story hooked me straight away with its mystery, beautiful characters, paranormal element and the seamless blend of contemporary and historical genres.There&#8217;s so much depth to this story, it&#8217;s pretty much impossible for me to summarize intelligently without giving away more than I should. Stories of this caliber can&#8217;t be properly condensed into a slice of heaven. This is something each reader needs to experience. It&#8217;s the kind of story that leaves an imprint on your soul, something you won&#8217;t soon forget. All I can say is that I highly recommend Echoes in the Glass to all fans of contemp&#8230; no, I&#8217;m not limiting it to one genre, or even two. Let&#8217;s just say all fans of reading awesome books! If you read the synopsis and think it sounds like a great read.. multiply that by a hundred and you might be closer to how bloody brilliant this book actually is. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Masterfully crafted YA fiction full of mystery and romance! </p>
+
+
+<h2> review.date </h2>
+  12-18-2013  
+<h2> review.text </h2>
+
+ <p> I read most of this book in the middle of the night. Ghost stories do that to me. And this book is a two-ghost story, so I had a doubly hard time setting it down to sleep. I liked it a lot.Here's why:It's a two-arc story. One contemporary, one historical. Both Romance. We get two couples, with two plights, in one book. Alternating chapters rock us between now and then, which is fun and keeps the story rolling.First, the contemporary side:  Finnian Bell is a runaway. He fled after a brutal fight with his younger brother Joss--a fight he believes ended Joss's life. After three years on the streets he's decided it's time to make amends to his parents--the only way he can. His dad runs a foundation devoted to restoring and preserving lighthouses in America, so Finnian signs on to help restore the post at Sorrow Island, the lighthouse his father most adores knowing he will be required to confront his dad at the lighting ceremony. Finnian prays this will pave the way to a reunion. Of course, he doesn't expect to meet the lighthouse keeper's estranged daughter, Tiria, on the island. And he really doesn't plan to like her.Tiria Vaugh is a broken girl. She's survived a brutal experience that Finnian doesn't know about but senses has changed her into the angry person she's become. She knows he's trying to befriend her, but pushes him away time and again. Plus, she's mad at the world and her father, and Finnian is an easy target. Despite the tension, they develop an uneasy alliance. Divulging their deepest secrets to each other, Finnian learns that not only is his brother alive, he's a dangerous person. A chance encounter sets the climax into motion--and pits brother against brother in a battle over Tiria. The ghosts appear from the moment Tiria and Finnian set foot on Sorrow Island--almost as a warning about how dangerous this place will end up being.Tiria's father isn't happy about Finnian being around his girl. She needs time to heal--and warns Finnian to stay away from her. He does his best, but they become adventurers together in the lighthouse's caverns. It's a quiet teen romance--chaste and thoughtful--but the attraction simmers. I had a bit of trouble with language in the book--and I mean it simply as this:  Finnian doesn't talk like a contemporary teen. I think the author tries to describe him as Irish, and some of his speech and thoughts have a British ring to them, but it didn't jive with the &#34;growing up on a commercial fishing boat/raised helping restore lighthouses&#34; backstory that was offered. He's no foul-mouthed hooligan. In fact, I think he's more stiff than I can imagine a lad from Eire being--if he is one. Perhaps this is ironed in the finished version, but it struck a chord with me and I wonder if it will cause younger readers to stumble. I still loved Finnian, and I adored his story arc--for the most part. Coincidences aside, the end of his storyline seemed a little forced--but I get why the author wanted the parallel experience. I just had a had time believing Joss was so...obsessed? It seemed a bit cartoon-y, to me.For the historical part: It's Depression-era Oregon, and Carina Jane can see Sorrow Island's light from her family ranch where she serves as a &#34;workhorse.&#34; Lack of funds and men on the ranch leave her as the main hand--under the abusive watch of her father. As bad luck would have it, he takes on a boarder to work as well--Morgan Graves, orphaned son of the lighthouse keeper. Morgan's mother fell to her death a month prior and his father fled the murder charges. While Morgan works the ranch, he and Carina develop a deep friendship.Seeing her abuse, Morgan stands up for Carina--only to lose his shelter. They flee together to the only home he's ever known--his lighthouse. They camp there to regroup and Carina soon learns the rumors of a ghost aren't rumors at all--and to join Morgan's grandmother's ghost a new one has arrived--his mother. New perils arrive as well:  the new lighthouse keeper. He's a shifty sort, willing to allow them to stay--in exchange for their services. Of course, the service he'd like from Carina isn't decent. And by then she's head over heels for Morgan--and he, her.Ready to flee again, the climax builds quickly leading to the rather dramatic scene I had expected, but found well-written and thoroughly engaging. So many delightful breadcrumbs had been sprinkled between the two storylines I felt the payoff was rewarding. Their romance is more passionate than Finnian and Tiria's, though it still Fades To Black and gets my Safe For All YA Readers seal.I did enjoy ECHOES IN THE GLASS as both a romance and a paranormal. We don't get any supernatural powers or flash-dash, but the ghosts add some mystery and play pivotal roles in the action. Won't give you the Heebie Jeebies, if that's an issue for you.Disclosure:  An ARC was provided to me to review for a blog tour, so if the final edition doesn't match entirely--that's not me being senile. I say this because some of the description of the book is different from what I read--not much, but I don't want to be called out for it later. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two solid romances in one book. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

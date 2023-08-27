@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000063WQ0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-27-2004  
+<h2> review.text </h2>
+
+ <p> I am currently happily using this card in two machines. The first was the choice of a local custom builder four years ago, and the second was my own choice based on the wonderful sound this card delivers.I'm using them to power a trio of very modest Altec Lansing speakers (subwoofer and two satellites) and a top of line set of Klipsch 5.1 THD speakers. It brings out the best in the both the $40 and the $400 speakers.Let's face it: most current motherboards deliver decent sound with their onboard audio processors these days, and if you are working near the upper limit of your budget, then this may be something you can drop off the raft.However, if you are of a certain age, you'll remember the days when the rule of thumb for "hi-fi" was that separate components delivered better sound than integrated ones. While this may not be true in the domain of personal computer audio, if you have an available PCI slot and $40, these will add life to your audio output.Installation was trouble free, and the bundled software package is superb..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrifc sound card; superb value for a a modest price </p>
+
+
+<h2> review.date </h2>
+  12-10-2004  
+<h2> review.text </h2>
+
+ <p> I bought this inexpensive card to replace the built-in sound of my motherboard because I wanted higher quality output for listening to my MP3s. I am happy with the card and can say that it did increase the sound quality. Highs are crisper and base is punchier and deeper. Installation was very easy and I haven't had any problems with the card. The CPU used with WinAmp playing MP3s is only 0-1% on a P4 3.0 GHz.A good match for this card are the Logitech 2300 THX certified speakers for about $110, which I also purchased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for MP3s </p>
+
+
+<h2> review.date </h2>
+  08-29-2002  
+<h2> review.text </h2>
+
+ <p> I am a music fanatic,I want to hear those footsteps comeup behind me,when i do gaming, Iwant to hear my music clearly,without turning the music down ,because it was distoring. Firstof all I had a Sounblaster 512,I though it was the speaker fault,I went and bought Altec's best,that did not work. I returnedit.I went through about 6 sound systems,just sounded ok. Sowhen I get frustrated about computers and sound,I go to anotherstore for advice,so I did. This guy at the other store,said"heydid you ever hear about Turtle Beach Systems?". I growing up withonly Sound Blaster,stated "Is there anything better than SB?"He stated,"you wont be sorry" So again I bought it from Amazon,and gosh the diferrence between night and day. Theclaritythe ease of setting it up, loading was very easy!!! If youra "picky person on hearing what you want to hear",please get this.I admit it was a name a had not heard ever,but if you know someone in the "computer field",they will tell you. This willbe the last sound card you need. The price was very veryreasonable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent ,"A no-brainer" to set up" </p>
+
+
+<h2> review.date </h2>
+  01-06-2006  
+<h2> review.text </h2>
+
+ <p> Great card. Have used it in 3 machines now and not a single problem with installation or usage.Puzzled by the negative reviews but then I figured it out. Odds are that these people are hearing what actually is on their machines. The Santa Cruz board plays true sound. So if you have a lousy copy of music or a game with lousy sound, that is what you are going to hear.I have found this with some of my music. What sounded OK using my Creative sound board sounded lousy with the Santa Cruz board. The reason was that the music was lousy and the Creative board muddied the sound so much that it masked the flaws in the music. When I reloaded songs directly from clean CD's, the music was great.Also the choice of outputs is a great feature. It allows you to have multiple outputs.So the only caveat I have is, if you want to hear superb music from the Santa Cruz board, make sure the music you are trying to play is clean and not the 25th copy of the song. Every time you copy music or video on a computer it picks up flaws and drops notes. After a few iterations you have muddy music and the Santa Cruz board will play just what you input into it. Garbage In Garbage Out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A "Sound" investment </p>
+
+
+<h2> review.date </h2>
+  07-20-2002  
+<h2> review.text </h2>
+
+ <p> Having heard a SB Audigy Platinum Sound Card in action, I have to tell you that this thing is the real deal for ALOT less. It's got support for EVERY speaker combination you can think of, from 2, to 4, and then the 5.1 6 Speaker setup. I've got the Promedia 5.1 System, and this is the PERFECT card for it. I didn't think I needed to go any further than the Turtle Beach to get top quality sound, and I guessed right. If you buy a Sound Blaster, you'll probably get the same quality, with a few extra features, and a more recognized brand name. However, if your into performance and bang for the buck, rather than brand names, look no further.The installation was simple, pull out the old card, plug this one in. The diagram on the back of the box is plenty detailed enough to help you find where your speaker plugs go. The installaion disk installed itself in about 1 minute, and I was rolling with REAL 5.1 Surround Sound.The control panel is great, plenty of detail to adjust the card to perform to your specifications. It's a fancy card for a discounted price, but your not paying for it by getting less quality. This is a GREAT sound card. Dell sells these with the 8200 series line, and they rarely make mistakes.If you've got a 5.1 System, I ESPECIALLY reccomend this, because you need the 6 speaker support. If your just looking to upgrade, look no further.Good luck and take care. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the Best Out There </p>
+
+
+<h2> review.date </h2>
+  07-07-2003  
+<h2> review.text </h2>
+
+ <p> Turtle Beach's Santa Cruz is a welcome alternative to the everpresent Creative line of sound cards.When I first opened the box, I was disappointed. The box is enormous, but there is almost nothing in it. There is a PCI card, a CD in a paper sleeve, a quick start fold-out, and a warranty registration card. I expected at least a dozen-page manual, and its ommission made me cautious.Installation is easy, though it did require at least two reboots to complete. The full product manual is available on the install CD as a PDF.I upgraded to a Santa Cruz from a Creative SB Live! Value. I upgraded for a few specific reasons. My old card had all the features I wanted - it supported quadraphonic sound, had all the inputs and outputs (digital and analog) that I wanted. Technically, though, it was lacking - the Live! line has notorious problems with interrupt sharing, which modern Windows systems use incessantly. Despite driver upgrades, I had popping, stuttering audio.No more with the Santa Cruz. The new soundcard is much more reliable than the old. I did not expect to hear an audible difference in the sound quality, but I did. The Santa Cruz is crisp and clear, with a very low noise floor. The positional audio is also impeccable. A last unexpected benefit is that it runs much, much cooler than my old Live! did. The main chip on my Live! would be noticibly warm to the touch, but the Santa Cruz stays nice and cold. With summer upon us, every bit of cooling in your PC helps.The bundled software is not flashy, but it is definitely adequate. The tools provided are small and unobtrusive. There is one utility that loads into the tray by default, replacing the standard volume control. I haven't tried disabling that yet, but it is hardly noticeable. There is an eq and an effects selector, with the ability to save presets for quick retrieval.Although I have only quad speakers, the Santa Cruz supports everything from headphones (with virtual surround!) to 5.1 format audio. It also supports several environmental effect standards: In addition to the DirectSound3d, it supports EAX 1.0, EAX 2.0, A3D, IA3D, and Sensaura.The bottom line is that this is a great card. Turtle Beach has a good reputation for good sound cards, and I'm glad that I finally made the switch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally, a 'creative' alternative </p>
+
+
+<h2> review.date </h2>
+  03-26-2003  
+<h2> review.text </h2>
+
+ <p> I have had problems with the sound quality of captured video. The on-board AC'97 made it sound scratchy &amp; tinny. Hence I decided to get a sound card. SB live! and Philips cards were no go as they locked up my system. Hurricane Extreme was no better than on-board audio. In a last desperate measure, I installed the Santa Cruz 5.1 card. The installation was unbelievably smooth (W2K + MSI K7-Master) and the sound quality is excellent. I heartily recommend this card to anyone looking for a stable PCI card with excellent audio quality </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stable &amp; Great Sound </p>
+
+
+<h2> review.date </h2>
+  10-24-2002  
+<h2> review.text </h2>
+
+ <p> Best one I have ever seen. The ouput is unbelievable.What I liked is 4.1/6.1 sound- versa jack- sound option.This will enable one to connect either a headphone or a Digital source. If you are really interested in buying a sound card, this the one I would recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rocks You!! </p>
+
+
+<h2> review.date </h2>
+  12-07-2004  
+<h2> review.text </h2>
+
+ <p> This is a great sound card and a great value to boot. Sure, you can pay two to four times as much for some other brands (that used to be good, but are now just marketing). But, why?My Ensoniq got fried by some errant hardware. I bought a sound card that was half the price of this one. It sounded awful. I could not use it for my editing.I did some searching and got the Santa Cruz. I am very happy -- and I saved a lot of money! The best things are the very low noise floor (necessary for editing) and the incredible seperation (also helpful for editing).I will definitely be recommending this card to my friends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great and Great Value </p>
+
+
+<h2> review.date </h2>
+  07-01-2010  
+<h2> review.text </h2>
+
+ <p> Works with XP and a PCI slot after XP it's not so good.  Actually I think its been discontinued. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Windows XP Sound Card </p>
+
+
+<h2> review.date </h2>
+  04-09-2004  
+<h2> review.text </h2>
+
+ <p> I recently upgraded from basic speakers to a 5:1 speaker set and discovered a hardware problem with my old sound card, a Creative Labs card that was a standard component with my system. The documentation that came with the card wasn't great, and it took a while to identify the problem, so I was looking outside the Creative family for my next sound card. I'd read several good reviews of the Turtle Beach Santa Cruz card, so I figured I'd take a shot on it.That shot definitely paid off. I have nothing but good things to say about my new sound card: installation was easy (I only had to unhook the microphone connector from my old card and snap it onto this one), the drivers installed quickly and easily, and the accompanying software was far superior to the software that I had from Creative. There are a host of sound options available: your standard volume-by-source controls, a graphic equalizer that can be turned on and off with several presets, options for multiple speaker setups with an accompanying image showing where your speakers should be connected (2 speakers, 4 speakers, 5:1, and so on), and additional applications if you want to get more involved.I haven't had a chance to put the card through its paces with a decent game, but the difference in listening to my iTunes files is amazing, and the control I have over the music is great. I'd definitely recommend this card to anyone looking for a reasonably-priced, fairly high-powered sound card, and with Amazon's newly-lowered price, it's an even better deal than when I got it. Buy it and enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what I needed: good price, great value </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

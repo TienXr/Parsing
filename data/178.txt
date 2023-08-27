@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00000K39G <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-28-2000  
+<h2> review.text </h2>
+
+ <p> Karlof, Price and Lorre, the unbeatable trio of mild and humorous horror flics, deliver a performance with a cheesy but comedic atmosphere. Somewhere between &quot;This Island Earth&quot; and &quot;Invasion of the  Body Snatchers&quot; lies this tale of transformation and wizardry,  designed for gruesome laughs and light entertainment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Comedy from Masters of Terror </p>
+
+
+<h2> review.date </h2>
+  03-01-2002  
+<h2> review.text </h2>
+
+ <p> There is a fine line between cheesy campy horror film, and funny horror film.  This falls into the former category.The plot concerns three sorcerers who try to one up each other after they visit the gothic castle home of one.  The plot soon gives way to humor that makes Adam Sandler look like Noel Coward.  So many people find this stuff hilarious, but the lack of laughs makes this painful to watch.  Corman did one decent film, "Frankenstein Unbound," but his penchant for no budget and little thought to scripts have resulted in films on the level of Ed Wood.  No one dares speak of this, however, because Corman is revered for giving up and comers their starts and always making a dime.  Anyone can make a dime off a celluloid pile that costs a nickel."The Raven" features Boris Karloff, Vincent Price, and Peter Lorre, and they are all terrible.  The mug for the camera incessantly, and do not deliver one laugh.  Jack Nicholson, young and fit, shows up in time to give no proof he would ever win Oscars.  Corman's direction is standard, and Richard Matheson's screenplay seems like it was composed as the film progressed.  I would put this on the same level as Disney's live action output of the 1970's: cheesy, cheap, and really bad.This is unrated, and contains mild physical violence and very mild profanity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watch this again? Nevermore: Roger Corman's The Raven </p>
+
+
+<h2> review.date </h2>
+  07-21-2003  
+<h2> review.text </h2>
+
+ <p> This has been one of my favorite movies since I first saw it years ago.  It is a beautiful piece of Dark Comedy with an unbeatable cast.  When you put Vincent Price and Peter Lorre together and let them ad lib you get some amazing stuff.  Boris Karloff was amazing as usual even with his health problesm(you may notice they cut away on the scene with him on the stairs because he could not climb down them well).  Also, this movie is graced by an extremely young Jack Nicholson.  Not a bad acting job and if you want to see more then go see The Terror.  It was filled right after The Raven since they had some left over money.  You cannot beat spooky castles, ravens, dead bodies, bats blood, magical duels and scenes of the same firey wall falling.  If you like Roger Corman or any of the actors in the movie then this is a must see along with The Comedy of Terrors, another black comedy made after the Raven was so successful.  Keep the faith, dExtrosien </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dark Comedy at its best and a young Jack Nicholson </p>
+
+
+<h2> review.date </h2>
+  12-22-2004  
+<h2> review.text </h2>
+
+ <p> Based on Poe's classic, this is a most amusing film about two warring Sorcerers, Dr. Scarabus {Karloff} and Dr. Erasmuc Craven (Vincent Price) who eventually meet up and duel it out one stormy night using their various imaginative Magical talents to out-notch eachother.The film begins with a quote from Edgar Allan Poe's 'The Raven' read by Dr. Erasmuc Craven {Price} which leads into a-knocking at the chamber window, in this case, an actual raven scratching at the pane, but there is more to this lovely bird than meets the eye, who happens to speak in Peter Lorre's voice; it seems he is in a jam being transformed into the black bird by one Dr. Scarabus {Karloff}, and rightfully so, for being intoxicatingly petulent during a visit to his castle {after all, "If a guest in your Lair annoys you, treat him cruelly and without mercy!" - SROTE #4}. So he nags the mild-mannered Craven to return him to his proper form, quite rudely at that, but when not enough potion is mixed up to fully recouperate him, they must go to the cemetary to acquire one last missing ingredient - that of "hair of a dead man", so Erasmuc figures that his deceased father would not mind a lock cut, but while clipping, is warned by the corpse to "beware". Finally, the familiar form of Dr. Bedlo {Lorre} is restored, a rather bumbling nincompoop on the fringes of "The Brotherhood of Magicians", and off he goes to gain revenge, but not before informing Craven that he actually spotted his dead beloved Lenore at the castle, so the grieving Craven is thus determined to free her 'spirit' from his clutches; but to his eventual surprise, discovers that she never died, but actually left him for Scarabus, placing a decomposing body to mislead Craven into thinking it was she, to which his dedication bade him to turn into a shrine. I found Lenore to be of a particuarly despicable sort, more of an opportunistic "groupie" who fanes "love" in order to leech from the Sorcerers' potencies, merely living in their shadow. An empty creature at best, in and of herself.Erasmuc and Bedlo are eventually accompanied by their children, Craven's nubile daughter {Olive Sturgess} and Bedlo's strapping son "Rexford"{Jack Nicholson} on the journey to the Scarabus Castle; wherein Rexford is momentarily possessed by some "diabolical mind control" while he manns the cortege', as was Craven's retainer earlier on, a bald trollish brute who wielded an axe against his superiors, until the mysterious influence wore off. Once within the castle, Scarabus is quite the gracious host, treating his guests to dinner until Bedlo becomes intoxicated and against better judgement, decides to act up again, challenging Scarabus to an enchanted bout, yet Scarabus merely toys with the incompetent "wizard", until finally, growing tired of the mediocre display, dispatches him with a bolt of lightning. But it turns out that there were more sinister purposes concocted by Scarabus, beneath this whole spectacle, as Bedlo re-appears to the subsequently imprisoned trio freeing them of their binds. It is at this point when Scarabus' true intentions are revelaed, and the Magical battle begins between he and Craven, resulting in quite an entertaining match where both imagination and skill are pitted against eachother in kind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Black humor abounds! </p>
+
+
+<h2> review.date </h2>
+  02-18-2003  
+<h2> review.text </h2>
+
+ <p> The pleasure of the movie derives from watching a splendid cast of vintage horror stars giving full value to Richard Matheson's elegant script , and clearly delighting in the whole experience.Vincent Price is "Dr Craven" -a magician and the scion of a now deceased magician of some repute.While reading alone in his study he is interrupted by the titular raven,who turns out to be Peter Lorre, transformed into the unpreposessing avian by the evil Scarabus (Karloff).They venture to Scarbus castle -accompanied by Lorre's son ,a very young and callow Jack Nicholson.Scarabus is the new paramour of Craven,s love Lenotre whom he had thought dead.Scarabus seeks Craven's power of magic by hand signals and the climax features a duel between the two sorcerers .The tone is light and the movie is a lively inventive delight which shows what splendid actors its leads were.Not one for gross out merchants but a fun horror comedy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vintage stars in engaging comic horror </p>
+
+
+<h2> review.date </h2>
+  07-26-2007  
+<h2> review.text </h2>
+
+ <p> A lot of times people refer to a movie as "dark".  As I comment, I will say that this has some "black humor" in it, i.e. humor that is a little on the sickening side, but I would not use the term dark.  Allow me to explain why.Did anyone notice that this picture is rated "G"?  Of course, as with any other film I would watch it with my children (as if I had any), but the only question I have about children seeing this movie really is Hazel Court's low cut dress, and possibly the desertion angle, though children do have to deal with that situation some.There are movies that give me the impression that the actors are having the time of their lives when they make them.  "Dick Tracy" and "Sneakers" are examples of this.  So is "The Raven".  Vincent Price and Boris Carloff (both inaugural members of the Horror Hall of Fame, the only actors with that honor) are great as rival magicians Craven and Scarabus (respectively), and Peter Lorre steals the show as Dr. Bedlo, whether it he is visible before the camera, or whether it's just his voice when his character is turned into a raven.  Jack Nicholson did not show much promise of the career to come, nor was he given much opportunity in this to show it, but he managed his role well.  (By the way, there are only nine actors in this whole movie!)Not remembering my Disney movie chronology, I wonder if either this movie or "The Sword In The Stone" (whichever was made first) influenced the other.  The battle between Craven and Scarabus reminds me of Merlin facing off with Mad Madam Mim in Disney's cartoon.  Another movie comparison is with Casino Royale, where at points Price's performance reminds me of David Niven's in the other movie, but I found this comedy, while not having much more of a plot, a lot funnier and more coherent, and definitely more wholesome.Let me give two morality points that are found in this comedy.  At one point, Craven realizes he made a mistake of not earlier confronting Scarabus but being apathetic.  Evil succeeds when good men do nothing.  This is a message we need to remember, to stand up to evil.The other thing I noticed (SPOILER ALERT -- DO NOT READ THIS PARAGRAPH IF YOU DON'T WANT THE STORY SPOILED) is that in the "battle to the death", Craven didn't try very hard to kill off Scarabus.  There was one possibly fatal attack given to Scarabus, but most of the attacks from Craven were defensive or if more offensive, definitely not deadly.The beginning and the ending were my favorite parts, both playing on the famous line of Egdar Allen Poe's classic poem.One last note:  there was a movie about thirty years earlier called "The Raven".  Like this one, they both allude to the writings of Poe, and both team up Carloff with other famous horror actors (Price and Lorre here, and Bela Lugosi in the other), but there the similarities end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can A Comedy Be Dark And Wholesome At The Same Time? </p>
+
+
+<h2> review.date </h2>
+  10-03-2010  
+<h2> review.text </h2>
+
+ <p> It is a Good movie but not great,It is only worth watching because of Price and Karloff. I prefer them to be in more serious films than this,however since both legends are in this movie it should not disappoint too much.The Raven is worth watching. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Raven. </p>
+
+
+<h2> review.date </h2>
+  03-26-2008  
+<h2> review.text </h2>
+
+ <p> A raven appears at the home of magician Erasmus Craven (Vincent Price) claiming to be a man transformed by the evil Dr. Scarabus (Boris Karloff).  Craven turns him back into human form and is then told that his late wife is alive and well and living at Scarabus castle.This movie is supposed to be campy-funny, but I found it dated and dull.  The costumes are out of King Arthur while the dialogue is modern; the plot made no sense and wasn't even remotely funny.  It was set, apparently, in the middle ages, yet Price recites the 19th century poem, "The Raven."  Price played it straight while Karloff was obviously kidding.  The whole first hour was a set-up for the "magical duel" between Price and Karloff which turned out to be just lame effects and sleepwalking actors.  The only thing that kept me watching was a very young Jack Nicholson as Bedlo's callow son.  I'm sure the actors thought they were making a tongue-in-cheek spoof, but it's a boring, pointless waste of talent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Misses the mark </p>
+
+
+<h2> review.date </h2>
+  06-13-2014  
+<h2> review.text </h2>
+
+ <p> a movie i wasnt expecting to be like the poem. and i wasnt disappointed. its a good movie anyway especially for the vincent price buffs out there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> awesome </p>
+
+
+<h2> review.date </h2>
+  10-15-2012  
+<h2> review.text </h2>
+
+ <p> The Raven stars Vincent Price, Peter Lorre, and Boris Karloff as three wizards. It has everything a B-movie needs: terrible dialog, special effects that border on non-existence, and much more. It is highly entertaining, and a great laugh (even though it is billed as "the macabre masterpiece of terror!")As a special extra, a very young Jack Nicholson plays Peter Lorre's bumbling son! THIS IS A MUST-SEE! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great B-movie! </p>
+
+
+<h2> review.date </h2>
+  07-18-2001  
+<h2> review.text </h2>
+
+ <p> Director Roger Corman figured that the Poe adaptations he had been making at American International starting with &quot;House of Usher&quot; had pretty much run its course, so in a final masterstroke he decided to start playing up the humor.  The result might be more like &quot;Abbott and Costello Meet Frankenstein&quot; than &quot;The Pit and the Pendulum,&quot; but you have to admit &quot;The Raven&quot; is one of the best comedy-thrillers ever made.  The film begins &quot;straight&quot; with Dr. Erasmuc Craven (Vincent Price) intoning Poe's poem, to an actual raven.  But then the raven responsds on cue...with Peter Lorre's voice!  It turns out the raven is really another magician, Dr. Bedlo, who has been victimized by Dr. Scarabus (Boris Karloff).  Craven turns Bedlo back into a human, and Bedlo agrees to help Craven find his beloved Lenore (Hazel Court).  Going along on the journey are Craven's daughter (Olive Sturgess) and Bedlo's son (Jack Nicholson--this explains a lot, huh?).  The film's climax is an epic magical duel between Price and Karloff (why even bother with the characters' names anymore?), where the two sorcerers keep trying to top each other.Ultimately the credit for this one goes mainly to the script from Richard Matheson, who invariably was the screenwriter on Corman's best films.  This is another one of those early films with Nicholson that must have been a great source of embarrassment to him once upon a time, but Price, Karloff and Lorre are having so much fun hamming it up in this one that you have little choice but to enjoy the indignities heaped upon the future Oscar winner.  This 1963 film should not be confused with the film with the same name Karloff made in 1935, although they would certainly make a rather obvious double-bill for a Saturday night. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Corman's horror-comedy classic with Price, Karloff &amp; Lorre </p>
+
+
+<h2> review.date </h2>
+  12-20-1999  
+<h2> review.text </h2>
+
+ <p> This is somewhat of a hard film to measure because it is not bad, but it is not what it could have been. Vincent Price plays a wishy-washy wizard who is mourning the loss of his wife Lenore when he runs into Peter Lorre  who plays a drunken wizard who has been turned into a raven. Lorre informs  Price that he has seen his wife at the castle of  Dr.Scaribus (Boris  Karlof). Price and Lorre, along  with a young Jack Nicholson, set off to  confront Karlof.  This film tries hard to be a comedy with the trappings of  a horror film. This film has a great cast of horror veterens that is wasted  in a cornball comedy, but this cast also keeps this film from being a total  waste and they do make this film watchable. Karlof and Hazel Court are  ecspecially good in their roles as the heavies. This is probably the  weakest of Roger Corman's Poe films even though it boasts the best cast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Close, but not quite </p>
+
+
+<h2> review.date </h2>
+  05-02-2000  
+<h2> review.text </h2>
+
+ <p> This is an absolute charmer of a movie - full of bold colours, cute SFX and great performances from Peter Lorre, Boris Karloff and Vincent Price. The film culminates with a battle of sorcery between Price and Karloff -  great stuff! Also look out for Jack Nicholson in an early role as the  youthful hero. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a magickal technicolor trip into the unknown and beyond </p>
+
+
+<h2> review.date </h2>
+  12-21-2013  
+<h2> review.text </h2>
+
+ <p> The manufacturer of this tape decided to record this movie at the six-hour, SLP speed.  If you know anything about VHS, then you understand that when you slow down the recording from the industry-standard, 2-hour SP speed, you lose significant fidelity or quality, in both the sound (audio) and the picture (video).  It's like adding too much water to Campbell's soup.Some time ago, I bought a VHS copy of &#34;A Little Night Music&#34; from a seller.  It was also recorded at the 6-houir, SLP speed.  This movie is a musical.  Music has to be recorded differently, with much more care and discretion, from the spoken word or it sounds like garbage.  Elizabeth Taylor was not a professional singer.  She 'sings' in this movie, but at te 6-hour speed, it's only a little bit better than nails scraping on a blackboard.Vincent Price, Peter Lorre, Boris Karloff and a very young Jack Nicholson all deserved much better treatment for their acting efforts than they received with this recording.Mr. Z. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Movie very good.  Recording not so good. </p>
+
+
+<h2> review.date </h2>
+  06-15-2010  
+<h2> review.text </h2>
+
+ <p> This movie is a blast from my childhood.  I love Vincent Price movies and this one had just enough humor to giggle through the "scary" parts.  Of course, scary at this time is different from scary in the past but I really enjoy the old style better.  No slash and hack - just good use of the imagination.  This movie on the other hand was tongue-in-cheek and had just the right wry humor to enjoy both Poe and the Horror Three (Peter Lorie, Vincent Price, and Boris Karloff).  Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A New Twist on Vincent </p>
+
+
+<h2> review.date </h2>
+  08-15-2010  
+<h2> review.text </h2>
+
+ <p> I am sure the movie is fine since I have always liked it. I inadvertently purchased a Region 2 dvd since that was all that was available.  I contacted the seller of my error, and I asked if I could exchange it for a Region 1 version.  I received a message that I should have looked closer at my purchase.  I guess they are right.  This is the only time I overlooked this.  Of course, the purchaser (me) is not happy.  It is unfortunate that manufacturers have all of these regions and the dvds are not adapted to this.  It is hard to find and all region dvds or especially blu-rays. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Raven </p>
+
+
+<h2> review.date </h2>
+  12-24-2012  
+<h2> review.text </h2>
+
+ <p> THE STORY WAS RIGHT ON. I KNOW IT IS A OLD MOVIE. BUT, IT WAS STILL GREAT TO WATCH. MY FAVORITE PART IS WHEN HE SAYS SPECK THE RAVEN NEVER MORE. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVE PRICE </p>
+
+
+<h2> review.date </h2>
+  11-12-2008  
+<h2> review.text </h2>
+
+ <p> Raving About Roger Corman's The Raven (1963)Every October my daughter and I pick up a few spooky movies to get into the Halloween groove.  This year, I had the pleasure of introducing her to one of my all time favourite horror comedy classics, Director Roger Corman's "The Raven."  The screenplay is adapted (VERY loosely) from the famous Edgar Allan Poe poem.  This is one of Corman's many American International Picture adaptations of Edgar Allan Poe's works, and one of his best.As the king of "b" horror movies, Corman knew had to make the most out of a tight budget. His stylish films consistently used good source material, well written screenplays, lavish set designs, locations, props, costumes and great horror stars.  "The Raven" boasts no less a cast than Vincent Price, Boris Karloff, Peter Lorre, Jack Nicholson, and 60's scream queen Helen Court - a mind boggling cast given that this is a low budget film.Pairing horror legends Price, Lorre, and Karloff was indeed a momentous occasion and the stars make the most of it.  Any semblance to Poe's Gothic poem pretty much ends after Vincent Price reads the first few lines  (brilliantly recited despite its brevity) at the intro of the movie.  Afterwards, screenplay writer Richard Matheson takes the sombre mood of the original poem and turns it on its ear with his original comic screenplay.At the outset of the film, we learn that Price's character (Dr.Craven - a wizard) has lost his wife Lenore (Helen Court) and has long mourned her loss. He's interrupted in the midst of his grief by "a tapping at his door." Price opens the door to find himself confronted by a raven (Peter Lorre).  The raven, it turns out, can talk and is actually a rascally wizard named Dr Bedlo who has been enchanted by the evil wizard Dr Scarabus (Boris Karloff).  He entreats the amazed doctor to help him become a man again.Richard Matheson's screenplay provides the actors with some wonderful comedy dialogue with which to work. Price and Lorre had been previous teamed in Tales of Terror, and their styles blend beautifully together - they are a scream!  They set about concocting a potion in set designer Daniel's Haller's creepily atmospheric dungeon. After much fumbling, Price finally manages to restore Lorre's human head, but his body remains that of a giant human sized raven.  Seeing Lorre strut his stuff in the Big Bird raven costume is almost worth the DVD price by itself!Once restored, Lorre swears revenge on Dr Scarabus.  He asks for Price's help.  But the doctor refuses until Lorre's character spots a portrait of Price's long lost wife and remarks that he's seen the woman at Scarabus' castle.  The two set off for the castle along with Price's daughter (Olive Sturgess) and Bedlo's son (played by a young delightfully hammy Jack Nicholson).When Lorre and Price reach the castle, the fireworks begin - figuratively and literally.  It's clear these three horror icons are having the time of their lives, hilariously spoofing their monster screen personas.  Dated special effects (though fine for their day) detract little from the final magical showdown between Karloff and Price.I never get sick of seeing this movie and happily give it a rave review! Grab the popcorn and enjoy.Rob RheubottomWinnipeg, MB Canada </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Raving About Roger Corman's The Raven (1963) </p>
+
+
+<h2> review.date </h2>
+  10-31-2009  
+<h2> review.text </h2>
+
+ <p> Vincent PriceThe Fall of the House of Usheris Craven, a recluse magician and son of a powerful wizard who died long ago (and whose coffin is conveniently in his basement, but I digress).  Peter Lorre flies in as a raven, changed into this doubtful bird by Scarabus (Karloff) who plots and plans to lure Craven and steal his power.Lots of funny stuff and silliness between these horror icons makes for a cheesy, fun time for a Halloween viewing.  I've read where Lorre & Price were ad-libbing like crazy during the filming, irritating Karloff who was going by script.Richard MathesonThe Incredible Shrinking Manwrote the wild screenplay, directed by the infamous Roger Corman, one of American International's decent horror comedies.A young Jack NicholsonThe Shiningas the bumbling son of Lorre's character, dressed like Robin Hood.  Jack was much better as a scary horror icon than the forced attempts at humor.  According to some trivia, during the raven scenes, the bird seemed to poop on Jack more than any other cast member!  The magic duel was OK with the less than spectacular animation.  I like the snakes turning into hankerchiefs and gargoyles becoming a bunch of puppies.  Cute & cheesy.Recommend seeing this with the DVD special collection:The Comedy of Terrors/The RavenOther Corman Films that would include one or more of these classic horror actors:The Fall of the House of Usher /The Pit and the PendulumTerrorTales of Terror </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enter The Magician -- Price, Lorre & Karloff Comedy! </p>
+
+
+<h2> review.date </h2>
+  06-08-2007  
+<h2> review.text </h2>
+
+ <p> This is the kind of movie I loved to find on TV on a rainy afternoon when I was a kid.  It's not really a horror movie but a tongue in cheek spoof of the genre.  I was amazed to find a young not yet famous Jack Nicholson in the film with three horror acting kings -  Vincent Price, Peter Lorre and Boris Karloff. The flick is directed by famous B scary movie master Roger Corman and everyone involved seems to be having a blast.  The movie is very very loosely based on Edgar Allan Poe's mysterious and haunting poem but since everything is played for laughs Mr. Poe would probably have a hard time recognizing his contribution. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect Rainy Saturday Afternoon Movie </p>
+
+
+<h2> review.date </h2>
+  09-26-2002  
+<h2> review.text </h2>
+
+ <p> This flick is hilarious. Price and Lorre are comic geniuses and it's a shame they didn't make more. Karloff seems to be having as much fun as the others.The story has nothing to do with Poe's poem. Price and Lorre are socerors, as is Karloff. The three are engaged in magical war while Lorre's son, Jack Nicholson, falls for Price's daughter, adding the romantic interest.The laughs come fast and furious, ranging from slapstick to pithy sayings. It's about as far from horror as one can get.It also shows that the horror genre was declining, awaiting Hammer's revival of the classic horror characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quote the watcher-Evermore </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000066750 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-10-2002  
+<h2> review.text </h2>
+
+ <p> This is one of my favorites! True, I have a lot of favorites but this definitely ranks up in the top 5 at least. Maybe I like it as much as I do because I feel like I can experience the different kinds of relationships that I don't experience in real life. That would be almost all of them. Anyway, the story is quite poignant and touching. The animation is wild. It goes from one side of the anime spectrum, to the other, and back again. A very fun show to watch. A must have for anyone who loves romance anime. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best! </p>
+
+
+<h2> review.date </h2>
+  07-05-2002  
+<h2> review.text </h2>
+
+ <p> From the creators of the monsterously popular "Neon Genisis" and "Furi Kuri" comes an anime that's completely different. Kare Kano (his and her Circumstance) tells the story about High School Student Miyazawa, who thrives on praises. #1 in her class, elegent, smart and always friendly, Miyazawa has it all. However, her whole School image is a fake. She's really lazy, selfish, tempermental and weird.Everything is going fine for Miyazawa untill someone sweeps in and takes everything she built up away. Arima, the new student, is smart, helpfull and #1 in his class. So what will happen when he discovers Miyazawa's little secret?With great storylines, crazy characters, catchy music, and a romance that can't be beat, Kare Kano is one of the best romantic comedy anime i've seen in years (with the exception of Maison Ikkoku)With Veronica Tailor (from slayers and pokemon) and Lisa Ortez (from slayers, magic users club, gall force, pokemon, utena, and matel legend) at the helm of the english track, there's no telling what's gonna happen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gainex does it again! </p>
+
+
+<h2> review.date </h2>
+  01-17-2003  
+<h2> review.text </h2>
+
+ <p> His and Her Circumstances is about the unlikely romance between the two "perfect" kids in school.  They have both hidden themselves behind poker faces their entire lives. Through meeting and dating one another, they are able to peel away the layers of their deception.  And underneath it all...they're pretty whacky!!  They're both a little neurotic and unsure of where they stand in the relationship.  Now I know this makes it sound serious, but this anime is actually a romantic comedy and is full of laughs.  The reason I call it a cinematic experience is because of the unique way of portraying the scenes through the animation.  The art goes from silly to serious, from color to black and white or sketches.  I highly recommend it for everyone, but especially fans of animes like Love Hina or Marmalade Boy.  As a side note, this Dvd is automically set to play in Japanese.  If you want it in English (the dubs are good), you have to set it. I also recommend you set it up for subtitles of the Japanese writing on screen, since they use a lot of writing behind characters and such to express the character's emotions.  The quality of the DVD is excellent, with great sound quality and visuals.  Go buy it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a cinematic experience! </p>
+
+
+<h2> review.date </h2>
+  08-04-2003  
+<h2> review.text </h2>
+
+ <p> "His and Her Circumstances" (aka "Kare Kano") is a 26-episode anime TV series from the studio (Gainax) and director (Hideaki Anno) who'd previously brought us "Neon Genesis Evangelion." Like the earlier series, it's a turbulent tale of adolescence, but with a much lighter tone and absolutely no science fiction or supernatural elements. Its basic premise derives from the mutual attraction of two high-achieving tenth-graders-Yukino Miyazawa, a middle-class girl, and Soichiro Arima, a well-to-do boy. Both have problems reconciling their highly polished public facades with their more insecure private selves. Yukino has a frenetic home life involving two eagerly interested younger sisters (who function as a sort of Greek Chorus) while Arima is an only child with a more restrained home life in a large house where he lives with an aunt and uncle who are his adoptive parents. It all adds up to a thoroughly engaging mix of drama, comedy, laughter and tears.What makes the series so distinctive, aside from the depth of its emotions, is its freewheeling visual imagination. Characters frequently revert to cartoon/comic strip form to express strong feelings. The frame frequently changes in size and scope. Regular "reenactments" are staged like theater pieces, with dramatic stage lighting. Visual metaphors are frequently used, including traffic lights, dripping faucets and street signs (e.g. "Under Construction" to describe the two teens' budding friendship). Text, both Japanese and English, appears on screen so often that non-Japanese-speaking viewers may want to watch this the first time with the English track on, so as not to have to contend with additional blocks of text occasioned by the subtitles.The voice acting is masterfully done by both the Japanese and English-language dub casts. On the DVD, the two actresses in each cast who play Yukino's sisters are seen in alternate preview segments telling us what's coming next. The English voice cast is led by Veronica Taylor ("Pok&eacute;mon"'s Ash) as Yukino and includes such other highly respected vocal performers as Christopher Nicholas, Jessica Calvello, Megan Hollingshead, and Rachael Lillis. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Emotionally honest anime view of high school romance </p>
+
+
+<h2> review.date </h2>
+  01-01-2005  
+<h2> review.text </h2>
+
+ <p> Alright, I have to admit, I was very hesitant about this anime. But it turned out to surprise me. This DVD would be best for any romantic, who likes soaps. All in all, it was cute. To summarize, it's all about a self centered girl in High School, with a loving, but pretty weird family, who puts up a front to people acting like the perfect model student, but reverting back to her "comfortable" nerdy self back at home. Later, competition developes when a guy gets better scores on test, and overall is someone who is perfect in everyway. Ms. Miyazawa, can't say he's perfect, when she declares him her enemy in the battle of vanity. Still, she wasn't counting on love. Anyways, all in all this was a pretty cute anime, with bunches of comedy too. In conclusion, it's a pretty weird romantic comedy about 2 perfect kids that aren't so perfect. HAVE FUN! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Kawaii </p>
+
+
+<h2> review.date </h2>
+  05-27-2004  
+<h2> review.text </h2>
+
+ <p> Although Gainax is best known for sci-fi epics such as EVANGELION, GUNBUSTER and WINGS OF HONNEAMISE, HIS AND HER CIRCUMSTANCES - better known by its Japanese title, KARESHI KANOJYO NO JIJOU, or KARE KANO - marked an attempt by Gainax to try something new: a high-school romantic comedy.  It was also director Hideaki Anno's (EVANGELION, NADIA) directorial swan song in the anime industry before he went on to a career making live-action films.  The result is a high-school romantic comedy done &quot;Gainax-style&quot; - meaning it's anything but conventional, pablum or boring.The characters are not &quot;stock&quot; characters by any means, but there are definite shades of EVANGELION in the main characters.  It's easy to see aspects of EVA's Asuka in Yukino, who, like Asuka, strives to be number one and is less than pleased when someone does better than she does.  And one could say that Arima is a lot like Shinji - not only does he look like an older and taller version of Shinji-kun, but he had an unhappy home life and parents who weren't around to support him when he needed it.  Both are driven to be model students for similar but different reasons.  Unlike Asuka and Shinji, however, Yukino and Arima realize their common ground, bond with each other, and begin to fall in love.  Theirs is not a fairy-tale romance, however (is anybody's ever, really?) - they have to weather all kinds of storms, both inside and outside of themselves.I've only seen the first six episodes, but so far, this show is an absolute delight.  It moves quickly and features a lot of on-screen text, but not so quickly that you can't understand what's going on.  The supporting cast is a strong one too - Yukino's younger sisters, Kano and Tsukino, are adorable and playful but at the same time more wise in the ways of the world than their older sister.  There's also the requisite cute animal mascot (Pero-Pero, also spelled Pero^2 in much the same way that EVA's Pen-Pen was often spelled Pen^2), as well as Arima's self-proclaimed best friend, Hideaki Asaba, who has dreams of becoming the next Hugh Hefner and building a harem of beautiful girls called &quot;Merryland&quot; to keep him company.  The music - by Shiro Sagisu, who's done a lot of music for Gainax productions including EVA and NADIA - is very well done too.  On top of that, it gives a lot of insight as to the pressures that high school students in Japan feel to succeed, and since I went to a private religious high school with very high academic standards myself, I find Yukino and Arima's plight easily relatable.As if that weren't enough, I think the dubbed version is very well-done.  Veronica Taylor's Yukino is terrific and will make you forget that Ms. Taylor was ever Ash Ketchum in &quot;Pokemon.&quot; Yukino changes moods so quickly and expresses such a wide variety of emotions, and Veronica nails them all.  Most of the other dub voice actors do a good job as well.  The two ladies who play Tsukino and Kano actually come out from behind the microphone to host the &quot;next episode&quot; previews - in character.  It's obvious that the voice actors all had a blast doing this show, which seems like it would be a harder show to dub than most.  One of the better-done dubs I've seen.All in all, it's definitely a shojo show, but if you're an open-minded guy you'll find a lot to like here too.  KARE KANO shows off Gainax's versatility and how they can take just about any genre of anime and, through turning it upside down, make it their own. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gainax does it again - another true classic! </p>
+
+
+<h2> review.date </h2>
+  04-01-2003  
+<h2> review.text </h2>
+
+ <p> This is an excellent series with a very realistic love story. A boy named Soichiro and a girl named Yukino meet in high school. They both have hidden people inside each of them, different from the person they show on the outside. The two see each others' hidden characters and they fall in love.The characters make this series. As with most anime, they are deeper than most American cartoons. You know them so well and you like them so much. The character design itself is excellent. They are all drawn well, and I like the comic-book style of the animation.The only thing that may throw people off is that it's kind of slap-sticky. And when I say slap-sticky, I mean ANIME slap-sticky, which is sort of off the wall craziness. Hopefully that won't bother you, because I recommend that you watch this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Love Story </p>
+
+
+<h2> review.date </h2>
+  06-10-2002  
+<h2> review.text </h2>
+
+ <p> HIS AND HER CIRCUMSTANCES is usually described as a romantic-comedy with the story revolving around two overacheiving High School Students.  Sounds sappy, sentimental, and common, right?  Well it's not.  And it's not just for girls - the creators of the action-scifi anime NEON GENESIS EVANGELION created this animated drama.First of all, the pacing is frenetic and HILARIOUS.  You'll find yourself laughing at every episode - but what's the most amazing thing is: 1. It's funny because it's true. 2. They still are able to stop the comedy to show the drama (and sometimes they can do it without stopping the comedy).  It makes you laugh and I'd be surprised if you don't shed a tear or two, either (yes - even the guys).It's also an insightful and realistic tale of growing up and finding out what love is as they follow the characters through all the phases of relationship.  From the first time you realize you like them, to the friendship, to the first kiss, even to the first sexual experiences - and it's done in a mature, realistic and touching manner.Best friends, no friends, rivals, love, crushes, confusion, lonliness, pretending, laughs, shopping, dreams.  This one has it all.  It's deep but entertaining at all times.  One of the best animes out there (unless you're as shallow as a puddle.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not at all what it seems - and more. </p>
+
+
+<h2> review.date </h2>
+  06-11-2003  
+<h2> review.text </h2>
+
+ <p> When I first purchased this dvd I wasn't sure it was for me.  This is the type of story normally reserved for younger girls dreaming of meeting Mr. Right.  However, in short order it convinced me I was wrong.This dvd tells the story of a young woman who appears, on the surface, to be the perfect student.  In reality she is self-centered, arrogant, and a sore loser.  When a young man suddenly moves in to steal her spotlight, she starts getting nervous and angry.  The only thing left is to try to out do him, but all his accomplishments seem to come with ease.This sets the base for a story about growth, love, and understanding not often seen in anime.  The characters all seem very real, and their difficulties almost familiar.  Their struggles endear them to the viewer, and I found myself moved by these two characters' trial and tribulations.This dvd is remarkable without the story.  There are literally thousands of words and emotions that flash on the screen.  These not only display the thoughts and hidden agendas of the characters, but also present themselves clearly despite their number.  These flashed words can also be changed separately from the subtitles, to ease in reading on the fly.The artwork is wonderful, and the characters' emotions are amazingly well read.  One almost doesn't need to hear the words to feel the effects.  However, I will warn those that dislike distorted faces and teardrops and all those other 'stupid anime' things.  This anime has lots of this to help portray the strength of emotions.So, if your looking for a romantic comedy, this is the anime your looking for.  A romantic story that grabs the heart and twists, coupled with a comedic undertone that helps you to see the true hilarity of trying to be perfect.  And if you find yourself staring out a window on a rainy day after watching this anime, don't blame me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly Great! </p>
+
+
+<h2> review.date </h2>
+  09-07-2003  
+<h2> review.text </h2>
+
+ <p> Adapted from a bestselling manga of the same title, this 26-part TV series was unfortunately never finished (based on reports I've read) but delivers, for its first entry, laughs, eye candy, and delightful entertainment considering its from the folks who made NEON GENESIS EVANGELION (as well as NADIA: THE SECRET OF BLUE WATER).This is not an action-adventure story set in 1880's Europe, or a (literally!) mind-bending drama in apocalyptic, war-torn Japan, but rather a modern day story about two High School students who learn to see each other behind their masks and find the perfect friend -- and love in each other.  Popular and brainy on the outside but a sneaky, manipulative slob on the inside, Yukino Miyazawa has ALWAYS been the top student in school... until she is &quot;displaced&quot; by Souiichirou Arima, a soft-speaking young man who struggles to maintain perfection for his family's honor.  Jealous of his popularity and successes, Miyazawa plots to get even and eventually manages to top him on the next exam.  But Miyazawa's world is turned even further upside down when Arima confesses that he is in love with her!  Freaked out, she tries to neglect him, but he sneakily wins her over by blackmailing her into doing his homework for him!  The story of how these two &quot;flawed&quot; characters learn about each other and change as a result of their many meetings is moving... and it's also a lot of fun.What makes the show so entertaining is the style of the artwork and the execution.  HIS AND HER CIRCUMSTANCES isn't just a straightforward drama, but full of deliberately exaggerated cariacture drawings of our protagonists' &quot;real selfs&quot;, manga-style drawings, contradicting subtitles (in Japanese), pencil-drawings, and a lot more stuff that will have you on the floor.  I honestly didn't expect to be laughing so hard, but I was.  And, by the time the first volume came to a close, I was disappointed that it ended so soon.For all its offbeat artwork style, the characters are not cliched exaggerations but real people.  Arima is a young boy who is soft-spoken and friendly but also clever and cunning -- unlike Jean, who much too good a guy to do anything mean or hurtful, or Shinji, who is just too shy -- Arima is active and flawed.  Yukino is flawed, too -- she lies about being the &quot;greatest student in High School&quot; while being expressive with her envy, hatred, and finally romantic feelings.  Like most of GAINAX's heroines, she is also quick-tempered -- but unlike Nadia, whose bratty tantrums felt infuriating considering 1) that Jean did nothing to deserve them, 2) that she's basically much nicer than that to him for a large majority of the show, and Asuka, who was just so nasty that she ended up being unlovable IMO -- Yukino's rages are deliberately exaggerated and funny.  Plus, the entire story is told from her point of view... at first.  Not only that, the characters actually TELL us what's really going on in those twisted little minds of theirs.  This is another big plus to the show, considering that director Hideaki Anno seems to have trouble understanding relationships.  (An article said this series was a study of relationships for him.  Hopefully he'll learn a thing or two from this!)Although it is too bad that the show never got finished (mainly because the creators were frustrated at the &quot;limitations&quot; of animation), the parts that are good -- like much of GAINAX's works, it seems -- are treasures (indeed, the first eight episodes and last episodes of NADIA -- as well as Nadia at her nicest to her friends are precious to this reviewer, as are some of the sequences in EVANGELION).  This first volume is one of those treasures, and it deserves to be seen.The DVD is extensively presented -- and excellent.  The video quality is exquisite, the audio on both English and Japanese (I spot-checked this track) are solidly mixed, the menus are fabulous, and the subtitles and alternate angle options of switching back and forth between Japanese and English made titles, are clever.  The only downside is that, on my DVD player, each time I try to switch the &quot;alternate angle&quot;, there is a brief pause that occurs before it happens.  Does anyone else have this problem?There are also extensive liner notes on the DVD that are intriguing to read.As for the dub?  I love it!  It uses many actors who lent their voices to RECORD OF LODOSS WAR (Lisa Ortiz, Crispin Freeman, Pete Zarustica, Ted Lewis, and others) and they do a really cool job with their parts.  On a side note, I purchased the first volume (and DVD box set) at an Anime convention in New York where I met voice actress Veronica Taylor, who voices Miyazawa -- and, like many of the fans who were on line, I got her autograph.  And she was a treat to talk to (in other words, a really, really nice person)!  Plus, she nails Miyazawa spot on throughout what I saw of this volume.  She said she had a lot of fun recording Miyazawa's lines... and it shows.  Another role she's known for is Ash Ketchum of POKEMON, but I think this is her best role ever.  And meeting her was a wonderful experience for me.Sorry about that being off-topic, but this is just another compliment to how much I really got a kick out of this volume.  Chances are you will, too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny, different, touching, moving, and terrific.  A treat! </p>
+
+
+<h2> review.date </h2>
+  06-12-2003  
+<h2> review.text </h2>
+
+ <p> Karekano is a very special series. On the surface it's a classic gakuen (school-life) anime, depicting the lives of high school students in a typical Tokyo suburb. Some of the difficulties they go through - such as when a teacher actually tries to stop their budding romance because he sees it as interfering with their studies - are very Japanese indeed. High school students who want to do well as Yukino and Soichiro do must study for unbelievably long hours (by the standards of high school students in any other country). There are also episodes later on in the series that depict &quot;ijime&quot; (bullying on various levels), endured by Yukino from her classmates, as well as by Soichiro from his unfeeling relatives. The reasons for which they are persecuted are uniquely Japanese in many ways.Beyond that though, the series is also absolutely hilarious, as well as being one of the best depictions of teenage romance you're likely to find anywhere. The teenagers here are depicted as fully rounded characters instead of archetypes - each one with his/her unique hopes, fears, desires, and conflicts. This raises it well above most series in this genre.On a personal note,  the series made me quite nostalgic for my high school days in Japan. I see a lot of my 16-year old self in Yukino. (yes I was a swot and goody-two-shoes like her...)One caveat is that the ending of the series was a bit abrupt (and it also looks like somewhere along the way they ran out of money or something, causing the animators to use lots of static images). If you want to know what happens to Yukino, Soichiro, Hideaki, Tsubasa and the rest of the gang, try to get a Japanese friend to read you the manga version, which is still being serialized (and is even more intriguing than the early chapters depicted in the anime series). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny, romantic, poignant and true </p>
+
+
+<h2> review.date </h2>
+  10-22-2003  
+<h2> review.text </h2>
+
+ <p> As an artist I learned a lot from watching this series. I found His and Her Circumstances entertaining and engaging, with moments of true brilliance, particularly in the humor. I can see this title appealing particularly to middle-and-high schoolers and it does a great job of capturing something about those times.Artistically there is a good amount of experimentation - it's clear that at this point Gainax is moving towards the dramatic and unique style that emerges in Fooly Cooly. If you are a fan of FLCL you will probably dig H&Hc; as well, and vice versa.However, if you are going to follow these series you shoulf be forwarned. First there is a LOT of filler and recycling of animation. It's not too bad in the first two DVDs but then expect to run into entire episodes which are re-edits of existing footage. Re-caps of the story are ok... but doing it over and over to the point of retelling the entire series is cheap.Worse, there are episodes which are basically just cleaned-up animatics, complete with drawings cut out and pasted on sticks and moved around on video, and tons of pan-and-scans of sketches. This is pretty clearly a way to turn out content without going through the effort and expense of full ink-and-paint. Gainax tries to sweep this under the rug by being "artistic" about it, and you CAN get away with some of that in the name of art perhaps but essentially we have here about 3 DVD's worth of content stretched out to 5.Additionally as occured in Evangellion the ending is fatally flawed. The storyline is cut off in the middle of nowhere, and pasted over with a putty consisting of psychobabble and a healthy dose of screw you it's over. This is particularly frustrating because the entire series builds up a few subplots which are left totally unresolved.For instance Arima, the male protagonist, is hinted at having a black temper and murderous jealousy over Yukino, and the last few episodes play this up to an intensity that makes you wonder if the guy is actually a monster. Pretty heavy for a series that started out with the most serious conflict being Yukino getting the silent treatment from her classmates.So, I'd really have liked to give His and Her Circumstances more stars. I really enjoyed watching it for the most part. But as was the case with Evangellion the story fragments and goes everywhere at once before finally being cut off the way a farmer might put down a rabid dog. Its a shame. Still, get the frist two DVDs and you will have hours of enjoyment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but with flaws </p>
+
+
+<h2> review.date </h2>
+  04-17-2002  
+<h2> review.text </h2>
+
+ <p> Beware: Karekano (the series nickname in Japan) IS NOT your usual romantic anime. Gone are the silly relationships between the likes of Belldandy and Keichi, or the excess of sugar of the likes of Miaka and Tamahome, so this is a title that is different from what both shoujo and shounen anime fans are used to watch. Thankfully.While a shoujo series, Karekano can be easily watched by both shoujo AND shonen fans, as there's something for everybody. What makes it so different? First, the relationship between Arima and Yukina is something that you would expect to see in real life, both of them look perfect on their own way until you get to know them better, so you see that they're just regular humans, living a regular life on a regular city. Just like you and me. No girls coming out the TV or descending from heaven, or pretty boys that saves the girl who just fall in love for her. Even the characters are not depicted as God's gift for beauty on earth, so that's a change.After Yukina starts noticing Arima (in the worst way possible), they start a hate relationship that actually leads to a romantic affair and turns them into boyfriend and girlfriend. Many would argue what's so special on this. It is the daily routine, the chalenge of staying close with all other things to do, friends and their problems, school and jealousy. And above all, that abstract thing that is love, something that's not for sure, that you can feel but you can't put it in a safe and claim yours forever. And at this point, Karekano turns out to be the best romantic animated series ever.Produced at Gainax and directed on it's first 12 episodes by legendary Hideaki Anno (which seems to have overdone it this time) and for the rest of the series by the director of Nadesico and the staff at Gainax, this is a clear example that it's not only great animation that counts for doing a great series. You simply have to watch to understand it.Later in the series the staff even does some experimental animation, which some will regard as bizarre, for me they where cool, and for an episode or two, they sure add some fresh air to the whole animation scene. Of course, later these guyus would work on FLCL, and the exeperience on this series has proved to be effective.If all your life as as anime fan you have asked yourself on why romance on anime was always on platonic level, then Karekano is the answer to this question. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Now that's relationship </p>
+
+
+<h2> review.date </h2>
+  06-06-2005  
+<h2> review.text </h2>
+
+ <p> From the director of "Evangelion" now brings your "His & Her Circumstances". This has two high school students a girl named Yukino who loves being better at everything at her school she wants be be more popular to me she a typical snobby little Bi*ch. She losses attention and starts hatin on the new kid Souchiro a boy yes a boy who is out of a Yukino league when he starts being better at everything I say right on serve her good that gives us guys a good. Boys rule a girls druel!!!!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Soap Opera of animes </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

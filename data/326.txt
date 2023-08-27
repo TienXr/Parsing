@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1590589572 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Thrilling mystery </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Psychologist and trauma expert, Daniel Rinaldi, has already gotten mixed up in a police investigation once before, so it's only natural that officer Eleanor Lowrey turns to him during a botched bank robbery. The only survivor, Treva Williams, could be the link the police need to catch the perpetrators. But Treva is suffering from post traumatic shock, and Rinaldi will need to gently coax the information out of her.As the investigation develops, he also finds himself caught up in the gubernatorial race, with one candidate heavily seeking his favor. Incriminating evidence is revealed, leading Rinaldi to question the ethics of this popular man. Is he really as corrupt as he seems, or is someone else pulling the strings? And how far is someone willing to go to be sure the new governor will give in to his demands?In this sequel to Mirror Image, Rinaldi must use his wits to save himself from those who want him dead. Working in close proximity with the police, he relies heavily on his psychological skills in reading people's motives. What appears to be real is only an illusion, and plot twists abound. I highly recommend this thrilling mystery.Reviewer: Alice Berger </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Strong, Twisty, Hot </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-20-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Author Dennis Palumbo has fashioned a dark, twisted tale of political chicanery of the finest order.  Dan Rinaldi, a Pittsburgh-based psychologist, is on call to the city police department. He helps interact with citizens who have experienced severe trauma, but may have vital information that will help the police solve the latest affront to society.  When the story opens, a bank robbery has gone terribly wrong.  Death has occurred and one of the robbers has apparently escaped.  The only eyewitness insight into the  sequence of events and then the current situation when Rinaldi arrives at the bank, seems to be the witness of a traumatized woman named Treva Williams.At the request of detective Eleanor Lowery, Rinaldi does a curb-side interview with Williams, sitting on the curb in Pittsburgh's blazing summer heat. He then then joins the SWAT team inside the bank.  By the time readers join the major characters in the bank, we are already tangled in a cleverly constructed plot with more than the usual twists and surprises. Each of the characters is nicely identified and each is maintained in a consistent manner, which adds immeasurably to the enjoyment of the novel.There are more than a few twists and cliff hangers in this  novel, as well as a couple  of subplots that have little to do with the main thrust of the story, other than to fill out the characters of some of the characters.  All in all, a nicely packaged story with enough bumps and twists to satisfy the most demanding reader. I expect to see more strong crime fiction from this author. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Compelling Page-Turner </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Dr. Daniel Rinaldi was called to a hostage situation taking place during a botched bank robbery. One person was released, but she was too traumatized to be of much help to authorities who needed information on what was going on inside the bank. It was hoped that trauma expert Rinaldi could help her access her memories as everyone else involved were killed.During the investigation, a series of leads point police toward DA Leland Sinclair who is in the midst of a close gubernatorial campaign. As the campaign heats up a number of incidents take place that puts Sinclair, the detectives investigating the robbery and Rinaldi in grave danger.Fever Dream was written by Dennis Palumbo, who also wrote Mirror Image. He was a former Hollywood screenwriter, now a licensed psychotherapist in private practice. His extensive experience in both writing and psychotherapy not only gave Palumbo the background for this series, but allowed him to dig deep into the psyche of the characters giving them a greater depth than most authors are able to provide.Daniel Rinaldi comes across as a strong character, but with some flaws that allow him to get drawn into situations most of the rest of us would avoid. At times it seems he takes chances that suspend belief, but they add to the depth and suspense of the mystery. The author neatly ties together the bank robbery and Sinclair's quest for the position of governor.Fever Dream is a non-stop series of events that will have readers rapidly turning pages.Fever Dream (Daniel Rinaldi Mysteries) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Great Sequel </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm always worried that the second novel in a series won't live up to the promise of the first, but Fever Dreams is every bit as good as Mirror Image, and perhaps even better.  The plot is fast moving, the characters are getting richer as we get to know them better, and the pace never lets up.  I'm anxiously awaiting the next book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> excellent police procedural </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-02-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Pittsburgh Police Department Sergeant Harry Polk and Detective Eleanor Lowrey asks psychologist Dr. Daniel Rinaldi, a highly regarded trauma expert, to work with Treva Williams, the first freed hostage of a robbery of the First Allegany Bank.  Daniel arrives at the scene while the robbery plays out to its horrific lethal climax.  He agrees with the cops that Treva suffers from a form of post traumatic stress disorder after she witnessed the execution of Bobby Marks; his assertion is confirmed when she goes shocky.Soon afterward while first responders clean up the mess that include a dead robber, district attorney Leland Sinclair and his opponent use the lethal mess to further their runs for governor of the Keystone State.  As Lowry with Rinaldi's consultation digs deeper into the perp who fled from the bank early on, the case twists further as politics intrude on good police work.The second Rinaldi police procedural (see Mirror Image) is an exciting thriller filled with twists and spins.  The fast-paced story line keeps the reader's attention as Dennis Palumbo provides an engaging spinning tale in which each time fans and the shrink think they know what really happened in the fog of the bank robbery, the plot takes us elsewhere.  Fever Dreams is a wonderful mystery.Harriet Klausner </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Peril and Psychology in Pittsburgh </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-29-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was a wonderful read. Mr. Palumbo takes us through the streets of Pittsburgh, trying to help the victims of trauma without pontificating psychologically. He shows what a good practitioner would do; we get plenty of breathless action, and a denouement that works beautifully. Rinaldi is a very appealing hero, and Palumbo does a nice job of showing his humanity. Now I look forward to the next book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Rinaldi is a riveting read! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-03-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I thoroughly enjoyed meeting Dr. Daniel Rinaldi in his debut novel Mirror Image and I'm thrilled to renew the acquaintance in Fever Dream, the second in the series. And let me say right off that I think this second in the series is light years ahead of the first. Palumbo literally grips you from the opening pages and does not let up until the satisfying climax. He does what I expect from this genre--Palumbo mixes interesting, offbeat characters who eventually all fit together into the larger picture as we unravel a puzzling mystery. I think one of Palumbo's strengths is plot and how he can spin us off into different directions and still have the pieces fit together. He knows how to end a chapter with enough of a hook to keep you readingI won't rehash the plot since others are referring to it. But the bank robbery premise and the unfolding political scandal both seem grounded in reality. Rinaldi makes for the perfect protagonist, a flawed human being, trying to do the right thing, surrounded by interesting supporting characters including Polk and Lowrey. His boxing background makes the action scenes plausible. The city of Pittsburgh becomes a supporting character and Palumbo certainly knows his way around the back streets and corridors of power.Palumbo breathes new life into the genre while keeping alive the spirit of the shining knight who goes off to do battle against the Powers That Be, much like Raymond Chandler. I look forward to further adventures of Daniel Rinaldi and urge all my fellow mystery lovers to purchase this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A great read with many surprises in store. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-17-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> A great read, again! As it has been quite a while since Dr. Daniel Rinaldi, a clinical psychologist in Pittsburgh, has been seeing patients and working with the Pittsburgh police department, the Doctor also takes referrals from the police department to help solve difficult cases, and is now pulled into another case of murder and mayhem.On a very hot summer day, there is a bank robbery in Pittsburgh that goes terribly wrong.  All but one hostage being held in the bank are killed.  One hostage, Treva Williams, is released by the robbers and Dr. Rinaldi is called in to treat her at the scene.  He goes to the scene to help as the police have to question Treva about the robbery but, she is in no shape to talk to anyone.  Treva and a bank guard are transported to the hospital and then the fun begins.  The ambulance is found with Treva inside but, the bank guard is gone and the driver is dead.  The two investigating officers, Sgt. Harry Polk and Detective Eleanor Lowrey, along with Dr. Rinaldi, are thrown into a set of circumstances that fall into the category of fantastic reading.  There is a kidnapping and campaign by the current District Attorney, Leland Sinclair, to rise to be the next Governor of the state, and also a bit of mistaken identity to top it all off.In a side story, the Doctor is trying to find out why a young, former patient in a care facility has committed suicide.  Dr. Rinaldi and Detective Lowery are attracted to each other and Sgt. Polk, who is recently divorced is trying to start his life over as a single man and not having much luck.  There is an attempted shooting at a fund raising event for the District Attorney and he is accused of political strategies to help Sinclair to reach his goal.  Dr. Rinaldi is starting to put the puzzles together, when he is nearly killed himself.There are many surprises in this second book featuring Dr. Rinaldi, and readers will want to go back to the first book (Mirror Image), if they haven't already read it to see how these relationships began.  Many of the characters are carried over into this book and the author does an incredible job of bringing everyone together again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Palumbo does it again </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> With Dennis Palumbo's first Rinaldi mystery/thriller "Mirror Image" I knew that here was a writer to fit in with the likes of Michael Connelly, Jonathan Kellerman, and Robert Crais. The second in the Rinaldi series is "Fever Dream", and like a magician Palumbo lays out all the puzzle pieces in plain view but manages to surprise you at the end without cheating along the way.The characters in these books really come alive. The protagonist, Daniel Rinaldi, is imperfect in a lovable way. He cares about all people, not just his therapy patients, and when his life is on the line he is fearful but does what needs to be done. Rinaldi is primarily a psychologist, but from time to time he works with the police to help solve particularly vexing crimes. Save for one detective, Rinaldi is usually disrespected by the force for being an "outsider" yet those who work closely with him respect his ability to connect the dots and understand the way the perps think. Their respect is usually dealt out as backhanded compliments.Rinaldi's willingness to cross the line between psych and sleuth gets him into trouble with the force but he does whatever needs to be done to help solve the crime. As a former boxer Rinaldi is rarely intimidated by anyone, but his bravado sometimes leads to life and death circumstances.This is an exciting series of books with characters who pop from the page and stay with you after you've finished the book. I'd recommend it for any mystery/thriller fans. You won't be disappointed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A twisty page-turner with a great protagonist </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the second Daniel Rinaldi mystery, and it's even better than the first. Rinaldi is not your average, everyday clinical psychologist. He is the superhero of psychologists. Well, he doesn't really have superpowers, but he was an amateur boxer when he was younger and he continues to practice and keep in shape, plus he is very smart. If he didn't have these qualities, he wouldn't still be alive, because as a consultant to the Pittsburgh police department, he finds himself encountering some dangerous and clever villains.The excitement starts on the first page, with a bank robbery gone awry in which only one bank employee is left alive, and never lets up. In addition to being an action-packed thriller, it's also a puzzle mystery, in which Rinaldi, with his psychological acumen, can figure out people's real motivations and see what's really going on behind the facade. The characters are portrayed with depth, and there is one twist after another, which kept me turning the pages. It was really hard to find a stopping place while I was reading, because I always just had to find out what happened next!I'd recommend this book to anyone who enjoys twisty crime thrillers with not only plenty of suspense and action, but an intelligent protagonist and characters that are portrayed vividly enough to seem real. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Well Recommended Author </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-05-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Dennis Palumbo was recommended to me by my Mother In Law in Pittsburgh who is friends with his Mother.  I read Mirror Image and have been looking for new releases of his since then.  This book was entertaining and I find that he has a gift for keeping you guessing until the end. When I thought I had it figured out, I was wrong. That is what keeps you turning the pages.I look forward to new releases to the Daniel Rindali series.  In addition to being a good read, I get to learn more about the city my husband is from and get to ask him questions. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> rinaldi rocks </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-06-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Dennis Palumbo, former screenwriter and now a psychotherapist, has written his second novel.  As much as I liked his first book, "Mirror Image", I like this one twice as much.  Using the city of Pittsburgh the way James Lee Burke uses the Bayous of Louisiana, Palumbo frames an engaging story on parallel tracks that keeps you guessing and anxious.  The intelligent complexity of the plot keeps the pages turning and the surprises coming.  Others have detailed the plot so I will just say that this is one terrific read.  Buckle up and climb aboard for a great ride </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Twisted Tale </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> In the beginning, we had Alex Delaware, psychologist and sometime police consultant.  Now we also have Daniel Rinaldi, psychotherapist and part-time police consultant.  There, of course, the similarities end.  Whereas the Kellerman protagonist is more cerebral, the Palumbo creation is more physical, in keeping with his background as a Golden Glover from the mean streets of Pittsburgh.This novel, the second in which Rinaldi is involved in a murder mystery which endangers his life (multiple times), begins when he is called by a Pittsburgh detective following a bank robbery, to treat the sole surviving hostage (all the others were shot).  From that point, a series of events takes place, fast and furious.  In the midst of everything, there is a gubernatorial campaign in which the D.A. is running as a tough law-and-order candidate, complicating the police efforts and raising other concerns.The complex plot proceeds apace, with scant clues but much physical action, especially a few murders and lots of firepower. The only criticism I have about an otherwise entertaining novel is Rinaldi's omnipotence, allowing him to merely espouse solutions to the various mysteries without any preceding facts in the narrative (maybe that's the way motion picture scripts are written - - the author formerly was a Hollywood screenwriter).  Nevertheless, the book is very enjoyable, and is recommended. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1564147193 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-08-2008  
+<h2> review.text </h2>
+
+ <p> "Progressive Witchcraft: Spirituality, Mysteries & Training in Modern Wicca" is a valuable book from the talented minds of Janet Farrar and Gavin Bone. People will most likely remember Janet's previous books like "The Witches' Bible," "The Witches' Goddess" and "The Witches' God," which she wrote with her now-deceased husband Stewart. Janet and Stewart (and also Gavin) have proven to be leaders in Wiccan thinking.The book is quite an important work. It's not a rehashing of material that is already available, but a valuable discussion of important foundational issues that should be of concern to all Wiccans, and indeed could be important to many who call themselves Witches as well.Janet and Gavin wrote the book to encourage Wiccans and Witches to question the all-too-common assumptions on which our practice and philosophy is based. What is tradition and is it important? What about lineage and degree structures? What is meant by "mysteries" and what do they involve? Is it possible to experience Wiccan mysteries in solitary practice?They go a long way towards demystifying topics which many Wiccans purposefully obscure for rather questionable reasons. Janet and Gavin deflate many of these reasons in rather straightforward ways, and point out that Wicca might have a healthier community if we acknowledge and overcome our shortcomings. They don't just criticize faults, but provide realistic alternatives, drawing on the past in order to direct us in a practical direction for the future.The book provides a generous selection of suggestions for ways to conduct training programs within a Wiccan framework. It's not just about theory, but putting theory into practice. They also set an excellent example for the role of eclecticism in Wiccan practice.There are some ideas which the authors need to research a bit more as they didn't seem to quite "get it" themselves. One instance that comes to mind is the difference between monotheism, duotheism, and the various forms of polytheism (which are often differentiated as "hard" or "soft" polytheism.) They used the Kabbalistic tree of life diagram to illustrate connections between how the various philosophies could interrelate, but in the text failed to make a distinction regarding what is essentially duotheism in the form of "all gods are one god, all goddesses one goddess" which is also sometimes called "soft polytheism." The authors seem to be unaware of "hard polytheism" which does not consider different deities to be aspects of something greater, but claims they are in fact distinct and separate entities."Progressive Witchcraft" is a book meant to make one think, to make the Wiccan community challenge basic assumptions. If enough people read the book and then spread the message that this is an important task of self-evaluation for our community, then we might see an interesting new development in our community."Progressive Witchcraft" is well worth buying and in fact should be considered recommended reading for anyone involved with Wicca. It's potentially the start of an interesting major force in the Wiccan community. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pushing new growth in Wicca </p>
+
+
+<h2> review.date </h2>
+  03-11-2004  
+<h2> review.text </h2>
+
+ <p> From the first moment I began reading PROGRESSIVE WITCHCRAFT, my attention was riveted by the revelation that finally, here is a book that shows the history of Wicca with all its many ever-evolving paths! Truly a scholarly work, PROGRESSIVE WITCHCRAFT includes relevant references at the end of each chapter where readers may further explore specific areas of interest. I was particularly impressed by the inclusion of both the chakra system and Jungian psychology -- along with explanations of how these different perspectives and shamanism have woven their way into various forms and practices of witchcraft.PROGRESSIVE WITCHCRAFT is the kind of book that I imagine will be required reading in many formal Wiccan training programs, because it provides an extraordinarily thorough overview of the history of the craft. Packed with useful tips, tools and exercises, it's also a first-rate introduction to witchcraft that is certain to become a beloved reference book for years to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fresh Perspective on Ancient Ways of Wicca </p>
+
+
+<h2> review.date </h2>
+  02-02-2006  
+<h2> review.text </h2>
+
+ <p> I just finished reading this book and I just can't believe that the authors are being promoted on the back of it as the "leading experts on the subject of modern witchcraft and the Neo-Pagan Movement."  I was very disappointed in this book, as it was the same old regurgitation of just about every other modern Witchcraft or Wicca book already out there, and when it wasn't telling us stuff we've already read elsewhere a hundred times, it was busy taking pot-shots at the origins of modern Wicca...mostly at people who can't "fight back" since they are deceased.If you want to read about Jung, then get a good book about Jung.  If you want to read about the Kabbalah, then get a good book about the Kabbalah.  If you want to read about the chakras, then get a good book about the chakras.  If you want to read about modern Wicca, then get a good book about modern Wicca...cause this ain't it.It is not scholarly in any way, nor new, let alone "progressive."  If anything, it is regressive because it spends an inordinate amount of page space on harping back to the origins of Wicca in an effort to "prove" that it has no real history.  If relaying old lies and gossip and theories built up soley to support their own agenda of what they feel is the ONE TRUE direction that modern Wicca MUST go in constitutes "proof," then their definition of proof must be very different from most of the rest of the world.It was also very odd how when they agreed with a precept of modern Wicca then it became a necessary "ethic" of modern Wicca and if they didn't like something and didn't agree with it, it became "dogma" and that mean it should be done away with the sooner the better.  I guess they get to decide for everyone the difference between the two.I would like to tell you to save your money...but (unlike the authors) I'm not going to tell you what to do, nor what it means, nor where we are going wrong, nor how we can fix it by listening to them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Same Old Same Old </p>
+
+
+<h2> review.date </h2>
+  03-03-2008  
+<h2> review.text </h2>
+
+ <p> Some interesting thoughts, and insights into the 'early days' (ie 60's & 70s) of modern witchcraft from people who were in the thick of it.Also, good concept with the 'progressive' label.The distinction between 'Traditional' & 'Eclectic' Wicca and Witchcraft, is a rather ridiculous one, given that Traditional covens are likely to be just as 'Eclectic' with say, the cultures or deities they use, so what is 'eclectic' really referring to? Someone who isn't 'Traditional' pretty much.To clarify waters that other reviewers may have muddied, like the terms 'liberal' and 'conservative', the term 'progressive' is not referring to a Wiccan Tradition itself (apologies to David Rankine & Ariadne Rainbird, but it's not like we can take the word out of the dictionary) but using it as a descriptor, one that acts as a complement to the term Traditional.It's a pity it couldn't have been popularised a little better, because it is a useful distinction.Anyway, a good deal of the negative reviews, are because Janet & Stewart Farrar, while controversial, did end up being spokespeople for what is now known as Traditional Witchcraft (or even British Traditional Witchcraft), and their books are often still recommended in such circles (a Witches Bible etc).So, imagine the shock when it turns out that they were probably never particularly 'Traditional' in the sense of, into holding with Tradition - which seems to mean using the same ritual scripts that were being used 40-50 years ago), they were just writing about what they were practicing *at the time*. And now they've moved on.It should be obvious really, because the people who were writing the ritual scripts 40 years ago, and coming up with the new techniques of the day, aren't exactly going to have settled down and continue doing the same thing for the next 40 years, they're going to continue writing new scripts from year to year, and learning, growing, changing, evolving, and basically - not holding to Tradition.Oh well.Not saying it's better, but it is different.So, most of the bad reviews are because of that. A few of the best reviews are probably just giving the book credit because it's 'shaken things up', and the worth of it probably lies somewhere in between.If you do have an interest in the history of 1960s witchcraft, do read - there's some tidbits of hilarious gossip in there (mostly surrounding Alex Sander's narcissism, gotta respect a healthy ego!). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Progressive, as a complement to Traditional. </p>
+
+
+<h2> review.date </h2>
+  07-27-2004  
+<h2> review.text </h2>
+
+ <p> Generally when writing a review of a book, I work really hard not to look at other's reviews of the same book. I do this so that I don't &quot;contaminate&quot; my opinion of a book with someone else's opinion. But while I was looking up publication information on Amazon to place in this review, I glanced at the &quot;average customer review&quot; and was shocked to see that it was fairly low.I say &quot;shocked&quot; because this is one of the best books on Witchcraft I have seen in recent years. It is by far the best I have seen yet this year. I guess this is one of those books that you either love, hate, or love to hate. I know that many of the books that push the edge of religious practice get this label, and this one is no exception.The ONLY thing I found to object to was a mistake with where the Sun rises in the Southern Hemisphere. The book says it rises in the West Down Under. It was news to me. So, just to be on the safe side, I contacted a friend of mine who actually lives in Australia, and asked her. She laughed as she told me that she had had a similar conversation with A.J. Drew on the SAME topic. She went on to say that she had talked to Janet and Gavin and pointed out the error. Other reviews say that it was a publisher's printing mistake that is responsible. Damned gremlins.Other than that, this is one of those books that really takes the next several dozen steps in modern Wiccan and Witchcraft practice. It is a book that I feel many should have as the Wicca 201 book they keep asking for.Highlights of this work include a chapter on the evolution of NeoPaganism and how core ideas of Wicca evolved. There is also a chapter about the coven and different structures of the coven, which offers up one of the truest concepts that I have read in a book.[Speaking about a High Priestess oriented coven and how she acts as the voice of the Goddess and allowing the Goddess to directly control the coven] &quot;This does, of course, require a trance component to ritual within the magical practices of the coven. The High Priestess must therefore be able to successfully channel the divine wishes of the Goddess rather than her own ego. She must also possess excellent leadership skills.&quot;It seems to me that more of those &quot;the Goddess is ALL&quot; Wiccan groups would do well to pay attention to this statement.Ultimately this book is a collection of long essays that explores concepts found in Wicca to their logical extent, without falling prey to the trap of expounding one flavor of Wicca over another. Janet and Gavin have struck an extremely hard target of a happy medium in this, offering facts without ever crossing over into being judgmental of the systems they are presenting.Some of the material can be hard to swallow the first time it's read, and many &quot;old guard&quot; Wiccans may draw back in offense the first time it's read. But I would advise they stop for a moment and dispassionately consider what is being offered. I had to do that once or twice, and I could see the worth of what was being offered even though I felt that the suggestions being offered were not for me.One minor thing that I had trouble with was the constant referral to the authors in the third person, and the use of full names when referring to each other. At this point it's not a question of them writing this book together, but it kept striking me as if they were near strangers who had decided to collaborate on this work, and were being very formal to each other. I'm not quite sure what this was about, but it was a continual irritant throughout the book.This book took me a long time to read, as I wanted to absorb the material and really consider it. It's one of the few books that I have reviewed where I DIDN'T skim the book, and I will probably go back and re-read it just to make sure I got all the information being offered.I'm giving this book 4 and 1/2 stars out of 5. I fell this book is one of those that deserves a prominent place on every Pagan's shelf, even those traditions that aren't Wiccan, but which are based on Wiccanesque practice (like some offshoots of the ADF). I don't feel that this would be appropriate for the complete tyro, since many of the concepts would go over their heads, but for anyone who has more than two years of study and practice behind them, the concepts laid out in this book would go a long way to expanding what they are doing. It's truly a Progressive step.Daven </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Accurate Portrayal </p>
+
+
+<h2> review.date </h2>
+  09-18-2010  
+<h2> review.text </h2>
+
+ <p> Farrar and Bone are "spokespeople for what is now known as Traditional Witchcraft (or even British Traditional Witchcraft). With 35 years experience between them they continue to do the same thing.  I think this book is a leveller and they have since moved on and are changing and evolving (i do hope so as i am a fan of their work) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not so traditional </p>
+
+
+<h2> review.date </h2>
+  03-13-2004  
+<h2> review.text </h2>
+
+ <p> I purchased this book out of curiousity having recently met Janet and Gavin (and being a fan of previous works) as well as having been trained by Dave Rankine and Ariadne Rainbird (authors of "Magick without Peers") and therefore experienced to their version of progressive Witchcraft, I would honestly prefer the latter.Farrar/Bone confirmed a number of concepts/ideas that myself and a few others had been saying for years (a good point), and as to "revelations" about the history of Wicca, Ronald Hutton in his "Triumph of the Moon" is recommended for its indepth and well researched content which is not bias.The personal problems I had with this book include the somewhat dismissal and distracting attempt of "wit" throughout the book, as well as what appeared to be an over-riding emphasis on the Norse tradition (their previous books weren't this biased).  Also as an initiate of the Alexandrian Wiccan tradition I was immensely disappointed with the ongoing negativity and lack of respect directed towards Janet's initial teacher - Alex Sanders.  Maybe she should learn to "heal" her wounds from their previous joint effort, "The Healing Craft".One significant error is found on page 186 with respect to the Southern Hemisphere where, according to Farrar/Bone the Sun rises in the West - obviously they need a course in basic astronomy because our "Southern" Sun still and always has risen in the East and sets in the West as per the Northern Hemisphere.  Having travelled at least once to Australia and NZ prior to this book, I would have expected they, of all people, would have got this aspect right.  Due to the lack of quality Craft books available for us "Southerners" I find this error almost unexcusable from "the world's leading experts on the subject of modern witchcraft ..." to quote their blurb on the backcover.In summary, I basically found nothing new nor workable in this book.  Rankine/Rainbird's book on "progressive witchcraft" was based on a course they produced incorporating various magickal techniques which don't normally fall within traditional Wicca and therefore is fresh, exciting and workable - the Farrar/Bone effort comes nowhere near this standard.I would agree that the Farrar/Bone book is overall "interesting", but unfortunately it does not come close to expectations and there are a number of better written, better informed books available. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointing Result from alleged "experts" </p>
+
+
+<h2> review.date </h2>
+  02-24-2004  
+<h2> review.text </h2>
+
+ <p> When I first saw this book in the store I wasn't sure if I would like it since so many witchcraft books seem to repeat each other endlessly with the same information.  I was pleasently surprised with some of the information.  While it does have alot of the usual witchcraft information such as the sabbats, chakras and so on it also contains some much needed material for the more practiced witch.  One aspect that I liked most were their descriptions on the differences between everyone being a priest/priestess in their own right verses actually being of service to the Divine as a Clergy person in the craft.  I would say a great book for both the beginner and the advanced witch.  Has some good information for everyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pleasently surprised </p>
+
+
+<h2> review.date </h2>
+  08-27-2004  
+<h2> review.text </h2>
+
+ <p> The history in this book is refreshingly honest, and on occassion, engagingly personal. If some of the history is revelatory, or scandalous, or even intolerable to some traditionalists, one of the most annoying bits must be, these authors ARE authorities on traditional Wicca, as witnesses and participants in key events. I think many traditionalists, and other pagans, will appreciate this work because it is that of teachers who ultimately respect themselves, their own teachers and their current and future students: gentle but not misleading, and not denigrating even when that must have been a challenge; it IS respect to be honest, to forgive short-comings and foibles, to appreciately see what you really learned, and to expect your "children" to be able to learn and grow fruitfully in paths you helped create. If you cannot laugh at yourself and (with the greatest respect) with your kin laugh about you believe and do - you could interpret this book as heresy. That would be a shame.The book also presents a complicated cosmology, which I think would be confusing to many; I did not find it or the several exercises which utterly depended upon it to be worthwhile, but others more BTW or Western spiritualist influenced will probably like them. There are other exercises in the book I would think any Witch or pagan would appreciate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I recommend this one </p>
+
+
+<h2> review.date </h2>
+  04-16-2005  
+<h2> review.text </h2>
+
+ <p> OK, now, first I have to qualify this by saying that, as far as books on Wicca go, this isn't as awful as it could be. Nothing terribly new, nothing terribly progressive. Some weird rules, like everything HAS to be done three times and there HAS to be three elements to every working. But nu, in the end there's not much to complain about. At least Janet seems to have dropped her weird homophobia that was cleverly disguised as a love for polarity in "A Witches Bible Compleat." Either that or I skimmed past it. Whatever. I own a Witchcraft shop so I didn't have to pay for it. No skin off my behind.This review, though, isn't about what's INSIDE the book. It's about the back cover. While it's my New Policy to say nothing if I have nothing nice to say (let's see how long THAT will last), I just couldn't let this slide. Here's what the "about the authors" says:"Janet Farrar and Gavin Bone are considered the world's LEADING EXPERTS [emphasis mine] on the subject of modern witchcraft and the neo-Pagan movement."WHAT??? By WHOM??? I guess one should expect grandiose claims from people who call themselves Witch Queens and Lady This and Lady That (I loved it when Doreen Valiente said the only queen she recognized lives in Buckingham Palace), but COME ON!Oy vey, I have to go take a valium. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Your Royal Heinie </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> Witches have always borrowed from themselves as well as everybody else. The authors have got their oxcart full to bursting, which proves their theory of Progressive Witchcraft abundantly beyond any worry or query. Let's see what we've got: quaint bits of recent (last 100 years) Craft history peppered in the text and the end notes (I got rather fond of the notes); a wee shock of excitement brought on by the recital of the authors' actions of questionable ethics (fairy tree at a holy well 21/one of our local sites 109); 'The Coven Mind' (page 102); nice photos and neat pictures (especially 'The Lady's Star' 136); 'Ascending The Spiral' path-working (144); the short version of the chakras (pages 158-159); Appendix I: Goddesses (I enjoy a frolic with The Goddess) 247; and the exercise of watching the authors showing who and what they are through the ritual of this book. There's a vast amount of information in the authors' oxcart. Whew! I've selected what interest me at the moment, and apparently, that's the reason why I've read this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Progressive Witchcraft by Janet Farrar and Gavin Bone </p>
+
+
+<h2> review.date </h2>
+  10-27-2005  
+<h2> review.text </h2>
+
+ <p> This is an excellent book for those new to the Path of Wicca. There are even a few tidbits in the beginning chapters that a long time follower of The Way might find extremely interesting.The authors explore and truthfully examine our history, both fact and fiction. Like myself, they believe that both the myth and the reality of where Wicca and Witchcraft come from are relevant to the modern practitioner.The authors use the early chapters in the book to explain who we were, who we are and where we are headed as a community. Using their own pasts and experiences as reference, they take us on a journey through the evolution of Witchcraft into the diverse Traditions and Paths that have come into existence since Gardner, Sanders, Valiente and Crowley (among others) first came on the scene.After the history lessons the reader is treated to an in depth study of Wiccan spirituality and those oh so elusive mysteries. The Gods and Goddesses are touched on briefly and then the book moves on to what is and how to "be" a witch. Myths about coven life and solitary practice are discussed and refuted.The Wiccan belief system and cosmology is given a high priority in the book. In fact there is little left unexamined in the practical aspects of following a Wiccan Path.If you are looking for yet another spell book, you won't find that here. Although the authors include several meditations and a few rituals, they did not comprise the meat of the book.There were a few places where I was left scratching my head. I am still trying to figure out how the Sun manages to rise in the West and set in the East for our brothers and sisters who live in the Southern Hemisphere. Another feature of the book that I found distracting was the constant reference to other pages or chapters in the book.The authors' biases are very apparent in their writings, but I enjoyed the book and found it to be informative. I recommend this book as a fine addition to your spiritual library.W. Lyon Martin Author/Illustrator of "An Ordinary Girl, A Magical Child" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but not great. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

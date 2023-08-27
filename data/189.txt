@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00005JMJR <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-19-2011  
+<h2> review.text </h2>
+
+ <p> I would like to add my name to the list of those who are looking for a DVD or TV-downloadable version.  This was one of the most impressive and spectacular movies I ever saw, and I remember it after 45 years.  PLEASE let us have it again!Andrew Charig  Middlefield MA  ACharig@hotmail.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DVD please  and on-line </p>
+
+
+<h2> review.date </h2>
+  03-12-2010  
+<h2> review.text </h2>
+
+ <p> The insects were here before us, and they'll be here afterwards.  Pair this chill-filled documentary with Saul Bass' "Phase IV" (he was the guy who made the great title sequences for all your favorite films) for an evening of entomological horror.  The good doctor says: "Only Man ponders his existence. His questions lead to torment, for he is unable to accept, as the insects do, that life's only purpose is life itself."  Where's the dvd edition? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> They will win </p>
+
+
+<h2> review.date </h2>
+  06-25-2012  
+<h2> review.text </h2>
+
+ <p> This DVD is well worth seeing. The photography is word class and the naration is fascinating. I remember it when it first came out, and years later, I was able to make a VHS copy from TV. The quality of my recording was poor, and so I was really excited to find a mint DVD to add to my collection. The video is great for young and old alike, and it is based on the truth, (an extremely rare commodity these days).The Hellstrom Chronicle </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A little known gem..... </p>
+
+
+<h2> review.date </h2>
+  11-15-2013  
+<h2> review.text </h2>
+
+ <p> A movie that makes you think.  A what if movie that plays like a documentary.  Very convincing so.  What if the insects toke over the world.  Very scary.  Watch it and you make the best choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A frightening little movie </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> &#34;The Hellstrom Chronicle&#34; is an insect film that has deserved a DVD release for some time (not just for inspiring entomologists who lean towards the speculative literatures in their leisure hours) but the Olive Films release, while merciful, is not nearly as high of quality as it should have been. The transfer of the film is a bit grainy, a bit off color, and obviously not remastered. I am so disappointed that Green was not asked to contribute an audio commentary. I realize that sounds nerdy to some, but he is a great documentary director (known today for providing the story for Peckinpah's &#34;The Wild Bunch&#34;) and conceptualist. He could have at least been interviewed. Why Seltzer wasn't interviewed either is still a mystery. I can't believe that there are no archived interviews about this title--it was unique in its day because it was a film (maybe the first?) that blended the genres of science fiction thriller and quasi-documentary film for a truly unique approach to crafting a film experience. The script really is fun, as it blends fact, fiction, and paranoia, as well as entomological commentary. I can't give the product (DVD) three stars--the rating that this issue deserves--because I so love the film itself--Green allows us to dip low into the insect world and, truthfully, there is never a lack of interesting images to see in this picture. Even the somewhat interjecting comments by Nils Hellstrom do not distract from the fascinating insect footage. We've seen so many improvements in close photography and computer-printed movies that it seems as if this title will only be treated as 'archaic' by film historians when they head back to it in future. But, for me, it's a timeless divergence into the little seen world of insect production and (as Seth Brundle would say) politics. Not the best DVD that we could have gotten, but at least the wait is finally over. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's about time... </p>
+
+
+<h2> review.date </h2>
+  12-16-2006  
+<h2> review.text </h2>
+
+ <p> A tad irrelevant, a bit childish, sure, but it will make you think.  Are we the Masters of the Earth or just a bunch of parasites that don't deserve to live in such a wonderful place?  If nothing else, great macrophotography, and an amusing storyline.  I can't wait for my little girls to see this.  We should never take for granted the World that we live in. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Let's have it, then! </p>
+
+
+<h2> review.date </h2>
+  04-01-2011  
+<h2> review.text </h2>
+
+ <p> Long before we had great documentaries such as Planet Earth, Life and the World's Most Amazing Events, there was a documentary that was way ahead of it's time. That "Doc".... was titled 'The Hellstrom Chronicle'! The amazing thing about this documentary is that I still remember it! I haven't seen it for well over 30 years and I can remember pieces of it as if I saw it yesterday. The film is beautifully shot with some incredible footage even by today's standards. I can only hope that this masterpiece will see an appropriate DVD and or Blu Ray release. It really is a one of a kind film that should be part of anyone's nature film library. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> IN THE BEGINNING THERE WAS THE HELLSTROM CHRONICLE! </p>
+
+
+<h2> review.date </h2>
+  05-26-2005  
+<h2> review.text </h2>
+
+ <p> I saw this movie in the theater when it first came out, and was blown away by the cinematography, which would be good by today's standards.  Not only should this movie still be on VHS, but I think it is deserving of being on DVD as well, and perhaps even released in theaters again.  Anyone who had never seen it would have no idea how old it was, and us old farts who did see it would no doubt enjoy seeing it again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Should be Re-released on DVD </p>
+
+
+<h2> review.date </h2>
+  04-23-2008  
+<h2> review.text </h2>
+
+ <p> My Dad mentioned in passing he'd really like to own this movie. Sadly I was forced to purchase it on VHS! ACK! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DVD please! </p>
+
+
+<h2> review.date </h2>
+  01-11-2012  
+<h2> review.text </h2>
+
+ <p> Nils Hellstrom the host of the 1972 Oscar winning documentary "The Hellstrom Chronicle" doesn't exist and never has. A documentary-thriller written by David Seltzer ("The Omen")and directed by Walon Green argues that bugs, plants and other small creatures will inherit the Earth and we, humanity, are but temporary passengers on our planet.Using fascinating microphotography (which was cutting edge at the time), "The Hellstrom Chronicle" allows the host (actor Lawrence Pressman who confides in us early on in the documentary that what he is about to tell us has cost him friends and faculty positions)to document with often stunning photography WHY we don't and won't deserve to inherit the Earth. Cleverly promoting the film as if it were science fiction thriller, producer David Wolper, Seltzer and Green created a fascinating film that used truth to lure in unsuspecting audiences like a venus flytrap to educate while entertaining.Olive films presents "The Hellstrom Chronicle" in, what it claims, is the original aspect ratio in 1.66:1 pillar boxed (with black bars on the side). The international Movie Database claims that the film was originally presented in 1.85:1 but it's possible that the film was matted in theaters after the film was shot. Olive films has often released films that were independently produced, have become public domain or were orphaned and not owned by a major studio.The visual presentation of the film is somewhat mixed ranging from stunning with bright, bold colors to clearly in need of restoration. For example, there's a scene early on where Hellstrom talks to us in a public park and the source print has clearly faded (and it's on one side of the frame). After the somewhat uneven presentation in the beginning the film (particularly the microphotography sequences) improves with bold colors and good detail.There's also speckling evident throughout although it's not bad it could easily have been digitally removed with a bit more careful restoration. I'm sure the film would look much worse if not for some of the adjustments done to the image during the transfer process to Blu-ray and DVD.No doubt the flaws I mentioned won't be quite as noticeable on DVD as they are on Blu-ray.Image quality varies from quite good to soft. On the whole the presentation is good for a 40 year old film that hasn't had extensive restoration. Surprisingly, the live action footage of the Hellstrom is the softest looking in this presentation. Film grain is visible throughout the presentation.Audio sounds quite good with a solid mono presentation. The music by Lalo Schifrin (the "Mission: Impossible" theme among his many credits) adds considerable to the mood of the film providing the narrative glue much like Pressman's narration.There aren't any special features which is a pity because director Walon Green is still alive (he is a producer/writer on "Law and Order: Criminal Intent" among other series)and even actor Pressman (still alive and performing in such as "Crossing Jordan", "The Mentalist" and other shows)as is writer David Seltzer and any one of the three could have been hired to provide a commentary track, appear in special features about the making of the film if contacted, etc.Although the visual presentation isn't anywhere near flawless, the film looks decent even if it could have used restoration and is a marked impovement over the previous "gray market" releases of the film on DVD. The lack of special features is disappointing as well but isn't a deal breaker for picking up the movie.I'd still recommend "The Hellstrom Chronicle" as it's a fascinating movie and a nice companion piece to the cult classicPhase IVwhich takes the next step from this film.The film: 5 starsPresentation: 3 starsAudio: 4 starsSpecial Features: 0 starsI'd recommend "The Hellstrom Chronicle" although viewers may want to adjust their expectations for the Blu-ray and DVD accordingly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Classic 1972 documentary finally appears on Blu-ray and DVD-visual presentation is a bit soft although decent looking. No extras </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

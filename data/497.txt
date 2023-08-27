@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00KZKZTNI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Woohooo </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wow!!!!Take a Hot doctor (Ryan)A average girl (Emma)Abusive soon to be ex-boyfriend (Eric)What is the diagnosis in this triangle? You would think it would be a downer but truly it isn't no pun intended.This is my first book that I have read by D.D. Parker. I must admit I was a little hesitant going into this book at first but to my delight this author brought an amazing read to this reviewer.The triangle that this author created was so real that if you walked into a doctor and asked would this be a normal triangle? I hope the answer would be yes cause lets face it. In everyday life we come upon things that scare us. Abusive relationships and such are in our everyday lives what this author brought to me was awareness to this issue. She also brought love at first site to two amazing characters.We all live with secrets. Some good, some bad and some ugly. This author makes us see as we read that good things can happen to the right people if only we believe in ourselves.So pick up this book and read what I have and at the end of the book be sure and Smile and think no matter the circumstance that love can happen if you only give it a chance.Happy Reading </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome Series!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Emma Wells had her life all planned out. She was in medical school wanting nothing more than to become a doctor. That is until she found out she fainted at the sight of blood.After banging her head on the floor, she&#8217;s taken care of by Dr. Ryan Matthews. After waking up she can&#8217;t seem to take her eyes off of him and the chemistry between them is undeniable.But she is already taken by another man. She realizes that he will never let her go.Will Dr. Matthews still be able to prescribe Emma just what she needs or will Emma&#8217;s own demons come to threaten more than just their relationship?This book is well written. I loved the details. You can just feel the chemistry between Ryan and Emma coming off the pages. I loved how cute and flirty Ryan and Emma were throughout the book.Yummy doctor, what more could a girl ask for? I love how fun Ryan is. Doing stupid things just to make Emma laugh, so cute. This book is a great, fun, quick read with a great plot twist for all characters involved. I would highly recommend The White Coat series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GOOD READ!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I thoroughly enjoyed this book- great story line - captivating characters-seemed a little too full of information at the beginning- but will expect great things in this authors next release- loved the medical background-plenty of potential in the base of the story for more awesome stories! Good Job D.D. Parker </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good read </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a really good book. I loved the story line and how it shows a woman's point of view on how she dwelt with domestic violence. But it is a love connection woven in the story line as well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Serious and sexy. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This story held my attention right from the beginning and I never felt sure about what twist the tale would take, which means, I loved the writing. Each character was clearly realistic and, although the events moved along quickly, they felt like an unfortunate reality. Because I read for fun and to relax, the issues these characters face are too modern, serious, and real for me too detach from so, as much as I enjoyed the writing and characters, I don't currently plan on reading more from this series. However, I would definitely recommend this book, series, and author to others. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great hot read </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a great book 1 for a series. First off, LOVE the whole hot doctor thing. I also loved the HOLY SMOKIN hotness that was the chemistry between these two. Everything about this book was entertaining and page turning. I pretty much read it in one sitting.Though, this was also my ONLY problem. It was too short! A book this great could have only gotten better if it was longer. The author is an excellent story teller and really knows how to play up the scenes and the dialogue to make everything extra entertaining. I just wished for more!These two meet and have an instant connection. They don't have a lot of time to work up that love, so it's pretty much insta-love between them.Our heroine has an abusive boyfriend at the time she meets the Dr. hero.The Hero's sense of humor and the dialogue between these two is hysterical.This is a great, quick, hot read.Pleasantly enough though, I did find out book 2 had just come out - so I devoured that little treat as well.Totally recommend! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The developing love story is Well told and played out </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Emma thought everything was set for her future:  UCLA, med school, boyfriend of five years and the first time she sees blood-she passes out, gets a concussion, seizes,  and meets the man of her dreams..THE DOCTOR!!The old boyfriend is a nightmare.  The developing love story is  Well told and played out.I  given this book to read and review for an honest opinion, which I always give.  I couldn't put it down as the characters take over the book. Needless to say, I hope at some point, the best friend Courtney, will get her own book!!  Now on to the second in this series.Well done, D.D. Parker!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> MMhmmm! hot doctors </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a good book. I loved the drama and the excitement, but I wish there was more of Emma and Ryan interaction. I would have liked to see more moments between the two characters, to see them falling for each other. Maybe one day we could see things from Ryan's point of view. All in all it was a good read. It was short and too the point, but filled with lots of emotion and I wouldn't mind seeing more of them in a second book. :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A doctors romance with a twist </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A fast paced romance between a doctor (Ryan) and a pre-med student (Emma), that once I began I couldn't put it down. I just really enjoyed the twist the author put on this triangle of romance, being Eric (Emma's ex boyfriend from six years) an excellent source for this twists.I really like that the author also presents how difficult is for a person to deals with an abusive relationship that morph into a codependency from both parties.For me this would've gotten 5 starts if it was just a little longer, so you could see how characters feelings grew and not have that insta-love/lust and I would've really liked to have more character development. I think that this story have the potential to be a novel instead of a novella, but I love it anyways.Overall, I would gladly recommend this to anyone, they will not be disappointed. Also I'm really excited for the installment on the series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not good </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Felt all over the place like I was missing parts....too rushed. just didn't work for me. there needs to be ALOT more of a prequel because I felt like I started half way through a story. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent beginning to a new series! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I wanted more!  This story had many great elements, but at near 100 pages, it wasn't long enough.  Okay, my whining aside, I loved the instant chemistry between Emma and Ryan.  Eric still being in her life scared me.  He was abusive and out of control.  I really liked her best friend, Courtney.  She is a small character in this story, but is very central for me because of her unwaivering support of Emma.  She realizes how dangerous Eric has become and immediately takes Emma in.  I see we get more of Jason in the next of the White Coat series, and I am hoping Ryan and Emma will be in it as well.  I can see the possibility of many overlapping stories coming out of this one.ARC provided in exchange for honest review. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GREAT DEBUT! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I LOVED this book! Once I started reading, I found it was hard to stop. Emma is a pre-med college student who ends up fainting during her first day of shadowing at the hospital. Dr. Ryan Matthews, the hot, young doctor, ends up taking care of Emma after she banged her head on the floor. The chemistry between these two is instant, reminding me of a scene on Grey's Anatomy. The problem is...Emma's got a possessive boyfriend that won't let her go.I thought the story was unlike anything I've read before. The dialogue between Emma and her friend was pretty funny and I REALLY enjoyed the scenes between Ryan and Emma. Let's just say that after reading this, I will always wonder about what can happen in Express fitting rooms. :)I'm anxious to read about Dr. Jason next. I would definitely recommend to those that enjoy NA serials!*I received a copy of this book in exchange for an honest review.* </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hmmmm </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I will say that the sex scenes were good but the story itself was unbelievable.  Women don't have sex with a new guy when they're living with a psycho boyfriend.  Couldn't get past that.  Glad it ended so fast, wouldn't have read much more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fluffy. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A short, simple and light read. It was okay. I liked the characters. I think the story needed more depth. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great beginning </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> There isn't truly much to say about this book other than it had a nice light flow to it. We got to know the main character and her dilemma and not much of the other chracters and i believe that was intention. it was her life, her epiphany and it was quite enjoyable. This wasn't really a HEA because it lack a number of things to be one but i believe it is a HEB-- Happily Ever Beginning of a true love story. A great beginning to a love story in another novel </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> MMMMMM.... </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Hot book. Enjoyed this short story and wish it would have been longer, will have to check out the next in the series! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Prescribed. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> So this started off very good and very interesting. The whole storyline was interesting and intriguing and catches your attention. I love the whole doctor thing. Loved how they met. Loved the whole ex and how he becomes stalkerish and wanting revenge, etc. It was a short read and it was very enjoyable and I will probably read Jason's story. There was just a few tiny things that made it a 3 for me. If some things were differen't, would of been a 4 for sure. I don't get the whole I love you thing when they haven't even went on a date. Just the food court/shirt/making out and then having sex in a closet? and they love each other? so that took away a bit. I wanted MORE relationship and build up. I wish things were dragged out a bit more with them dating, the stalker thing, etc. And I didn't like her lying to Ryan about Eric or Eric about Ryan. She should of left Eric and never went back and been honest. Then when the thing came to light it wasn't even really mentioned by Ryan he just was mad that Eric was stalking her. Rightfully so, it just didn't feel to realistic. I get this is fiction and a book, but still, things should kinda make sense how things would happen in real life. But all in all it was a very good read and I will probably read Jason's and others stories. I hope there is another with Ryan  and Emma. I feel there could be more there. And felt that him being adopted was maybe a huge thing that needed to be touched on. I actually thought maybe him and Eric were going to be brothers or something since they were both adopted and then Ryan said about meeting his brother, etc. So the book was for sure intriguing. I would suggest others read it :-) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Can Dr. Matthews' hotness be enough? </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> 2.5 starsStory moved way to fast. More character development needed. Also some plot points where left unanswered.I did enjoy the steamy scenes with Dr. Matthews.I look forward to reading about Jason's story. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good suspense romance book. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Things went by a lil fast but it was a good book and I'm onto the next one. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

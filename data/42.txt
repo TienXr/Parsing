@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B001GKE2RA <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-21-2010  
+<h2> review.text </h2>
+
+ <p> just don't try to remove the awful orange sticker on it, it just won't be easy and it will leave a mark.it's more compact than I expected, but it has a good sound quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works fine, decent quality of sound, but looks too fragile... </p>
+
+
+<h2> review.date </h2>
+  03-08-2010  
+<h2> review.text </h2>
+
+ <p> I bought this unit for my office.  I didn't want to spend too much for a good product that might "walk away" or get damaged.  Overall, I like it.  The sound quality is good for FM and iPod.  The setup was intially a bit confusing, especially tuning radio stations and setting the time, date, etc.  I would agree that the lowest setting "1" could be a bit lower.  However, I think this was a pretty good deal overall. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, for the price. </p>
+
+
+<h2> review.date </h2>
+  02-09-2009  
+<h2> review.text </h2>
+
+ <p> I was hoping this would sound as good as the IM600 but it doesn't.  Even though they both have the same size speakers (2x 2'', I think), the moondance lacks clarity and bass.  I wish someone would make a small, good sounding ipod dock/clock radio.  I wish the IM600 had a clock (is that asking too much?)  Or if the Logitech mm50 had a clock and FM radio that would be even better.  I think the mm50 has the best sound for its size.  I just need FM and a clock to go along w/ it.Pros: smallCons: overpriced, mediocre sound quality, counter intuitive controls, weak FM reception </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Keep Looking </p>
+
+
+<h2> review.date </h2>
+  05-04-2009  
+<h2> review.text </h2>
+
+ <p> I had this unit out of the box and was mildly pleased...* A little light and cheap feeling.* Button layout and function o.k.* Display o.k.* All features work with my iPod touch.Now how about the AM radio... hmmm, click, click, click. Wha? No AM radio? Back in the box, back to the store. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No AM Radio! </p>
+
+
+<h2> review.date </h2>
+  07-19-2011  
+<h2> review.text </h2>
+
+ <p> Better sound quality than I had anticipated, though for auxiliary inputs (non-iPod mp3 players, you have to crank up the volume to get decent sound).  Setting up the alarm is more complicated than it should be, but not bad.  It would be nice if you could control the sound or song when the alarm goes off, instead any button you push (except to turn it off) snoozes the alarm (so no volume control, song selection, etc.)  I realize you're supposed to get up when the alarm goes off, but sometimes I'd like to lay in bed and listen to more than one song, but this clock only repeats the one song you last played before going to bed.  You can't beat what you get for the price; worth looking into. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great space saving alarm clock </p>
+
+
+<h2> review.date </h2>
+  02-21-2011  
+<h2> review.text </h2>
+
+ <p> Very Good...I was concerned about charging iPhone4 ... but no problem with thatThe sound is very good, I prefer de InMotion clear sound, but for waking up is perfectI recommend it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good / Muy Bueno </p>
+
+
+<h2> review.date </h2>
+  10-09-2010  
+<h2> review.text </h2>
+
+ <p> I bought this as a gift, and my friend loved it! The sound is great and its very small and easy to move around, I recommend this brand, I own another model and the sound quality is just fantastic too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great gift </p>
+
+
+<h2> review.date </h2>
+  05-18-2011  
+<h2> review.text </h2>
+
+ <p> Overall, this is a decent unit for what it does, but it has some very annoying aspects that eventually lead me to return it.Pros:- Sound quality is quite good for a small unit.  It obviously is never going to be an enveloping sound, but it has a good amount of dynamic range.- Charges both iPod and iPhone devices while they are connected.- Works with iPhone 3G even though it doesn't specifically say it does.- Multiple alarms.  For someone who doesn't need to get up at the same time every day, this is very helpful.- Includes a radio.  Many of these iPod dock units don't include a radio.- Includes a remote which is nice if you want to keep the unit across the room.Cons:- The buttons are confusing and non-intuitive.  Some functions require an odd series of button presses. I found myself either looking in the manual or just randomly pressing buttons in order to try to do some things that should be easier to figure out.- Some functions can only be operated from the remote.  This is a real pet peeve of mine. The remote is going to be the first thing that breaks or gets lost so all the functions of the device should be able to be operated with the buttons on the unit.- As others have said, the display is quite bright and it doesn't have enough contrast. At even a moderate brightness, it lights up the whole room at night. Turning the brightness down just dims the whole thing to the point where I can't read the numbers (due to the lack of contrast).- The sound level is pretty loud even on the lowest setting.  In many cases this would be a benefit, but if you want to listen to your iPod before going to sleep, even the lowest volume setting is still not low enough to be what I would call "relaxing."One of the other really annoying things about this unit has more to do with Altec Lansing than this particular unit.  The unit is advertised as working with many different iPod models.  It specifically says "Made for:" and lists at least 10 different iPod models it works with.  When I received my unit it only contained four dock adapters that covered maybe 6 of the models, and none of them fit either of the 2 iPods I have (a classic with click wheel and a 3rd generation nano, so nothing really obscure).  When I called Altec Lansing support to inquire about this and see if some of the adapters were missing, the rep said they were not missing and in a somewhat annoyed tone said, "We can't provide adapters for every model."  Of course you can, you just choose not to.  He said I could order them from their website for free, but there was a shipping charge.  Then he said I didn't really need the adapters and the iPods should just sit in there on the dock connector (which is true).  So I asked him "If you don't really need them, then why provide any of them at all?"  His response was that they do provide better support for the iPod and help protect the dock connector.  So it really would be better to use the adapter, but you're not going to provide them for all the models you advertise it as working with.  I wouldn't call it "working with" an iPod model just because you can physically connect the iPod while not providing the appropriate adapter in order to use the device the way you suggest it be used.If you were mostly going to use this unit as an iPod dock, you would probably like it.  It sounds good and it's stylish enough to use anywhere, you could turn the brightness way down and you only need one or two buttons to turn the iPod on and off.  If you want to use it as a clock and/or as an alarm, you are going to be frustrated with poor button design and an overly bright display. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Confusing interface and doesn't include all adapters </p>
+
+
+<h2> review.date </h2>
+  01-16-2013  
+<h2> review.text </h2>
+
+ <p> As an alarm clock this is great.  As a speaker dock its only so-so.  It doesn't have great music quality and I haven't been that impressed with the music functions.  I have a cheap dock that sounds much better than this but....doesn't have the clock/alarm function.  So I use this and just turn on my stereo if I want to listen to music for something other than going to sleep to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great as alarm clock </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> good sound and remote. but it's pretty bright at night, really hard to program and annoying if the power gets knocked out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> okay </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00FARIAZ0 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-17-2013  
+<h2> review.text </h2>
+
+ <p> I wasl looking for a kids case for my new ipad Air for my daughter and wanted a nicely built case with the stand that can protect the ipad from breaking.  This meets expectations in most areas and thw only reason I give it two stars is -(i) the screen protector is very lightly pasted to the cover and it came out as I was opening the case.(ii) the case has a wide opening around the dock area and the speakers - and dust/liquid can easiy get in from there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sturdy - but not really </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> I have a pleather case for my ipad air but while watching movies it kept collapsing on me I thought the kick stand on this would solve my problems but It introduced another. The plastic protector that goes over the glass is to thick and you loose a good deal of your responsiveness. I could not use my intuos creative stylus at all until I removed the plastic however doing this is not reversible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Had to modify it to do what I wanted </p>
+
+
+<h2> review.date </h2>
+  06-07-2014  
+<h2> review.text </h2>
+
+ <p> I received my case and I am pleased. The reviews prompted my decision to purchase. I won't test it's durability by dropping my iPad Air but it gives me more peace of mind about keeping my iPad secure. For an inexpensive protective cover I recommend because it does provide some protection.  My case has the rubber bumper guards (I call it) and seems pretty durable. All my external needs to access the power cord are not obstructed and the clear screen cover allows finger touch action. I can take clear pictures and capture videos. The kickstand is hard to work so I have to keep a coin or something to use to open it.I recommend the purchase but don't test your expensive iPad to determine its durability. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good </p>
+
+
+<h2> review.date </h2>
+  02-15-2014  
+<h2> review.text </h2>
+
+ <p> Very good case to protect new iPad Air until Lifeproof case comes available in two to three weeks per the company. I like that it has a screen protector that does not stick to the screen. Rubber silicone cover is great for grip and adds protection. The plastic white two piece case fits perfect. Word to the wise, it is hard to open the white case once iPad is in it and advise using a tool made to remove the back of the cell in order to get to the battery. I got a blue triangle shape tool in another kit that came with antenna booster, radiation shield protector included with the LARGE premium leather case with belt loops, belt clip, cloth, and is large enough to hold cell in a protective case. This case also has a plastic kickstand to prop it up. It is very secure and had to use that triangle tool to open it. I recommend this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I-Blason Apple iPad Air / iPad 5 ArmorBox 2 Layer Convertible (Hybrid)... </p>
+
+
+<h2> review.date </h2>
+  07-22-2014  
+<h2> review.text </h2>
+
+ <p> Great case. Very reliable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  01-18-2014  
+<h2> review.text </h2>
+
+ <p> I really like this cover.  Fits my iPad air perfect and feels good on your hands.  The stand is very sturdy and perfect for using in the kitchen to view recipes and such.  It is a little heavier than I would like and the stand is hard to unclasp at first.  For the price it is a good deal and I would recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  02-24-2014  
+<h2> review.text </h2>
+
+ <p> I like the color, stand works great, and i will warn any one that has one if you need to take of the case be gentle it can snap, do to the fact it is incredibly hard to take off. I had to take it off to put a new sim in and boy was it hard to do so, took me an hour to get it back off. But most definitely recommend it, i have dropped my tab a few times and it was just fine =) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well made </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> It can sit down when I use my iPad in the bed, or it can stand up when I am watching a movie at my desk while I am on the computer.  I love it, and I also love the color that I chose because it is one that everyone doesn't have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It serves my purpose. </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> Great case, offers strong protection and some good viewing angles. Adds a decent amount of bulk, but not enough to make holding the tablet uncomfortable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this case,good design and good for watching twitch, netflix, etc </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> I was hoping this case would be a little bit better quality.  It is functionally okay.  The ipad is extremely difficult to get out of the plastic portion of the case once you get it in.  You almost feel like you are going to damage the ipad trying to extract it from the case.  The plastic enclosure isn't a great fit and I never could get it to snap together completely.  I had to remove the screen protector because it made my touch screen unresponsive about 30% of the time.  Very annoying!  All in all I think the case would protect the device fairly well if dropped, even without the screen protector.  That said, I wouldn't buy it again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I got what I paid for. </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> Built like junk.  Back hinge broke off within 2 months.  Not good quality.  Can't even return it now apparently no warranty.  Will not get anymore of my business- which is a huge loss for them since we run a 60 employee business and are getting ready to supply iPads to most. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Junk- breaks to easy </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> Really like the case and of course my favorite color.  I do not like the face cover that is to protect the ipad from finger prints.  it has come lose and the red dirt from the softball field get in between the face of the ipad and the plastic.  Will have to purchase something else to protect the face. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Like this Case/Color </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> This was purchase to protect our ipad air for...THE WIFE. I'll keep you posted on the first drop, with the case on....shouldnt be that fare away. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks good and built tough </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> The items looks great but the construction is very flimsy. The plastic is very thin and doesn't hold up well to general public use. Could be good for home use though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent, but not worth the money </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> The experience I had with the i-BLASON products in the past combined with the features of this product led me to purchase this product.  Please feel free to read my review of the other i-BLAZON protective covers for the iPhone 5 and the Galaxy S4 mobile phones.This review inspires to give you an understanding of the pros and cons for this product from a users perspective &#8211; a personal experience with this item.Materials and Workmanship:Much like the other items I purchased, this case is made from plastic and rubber which in my personal opinion offer great support for your iPad Air product.  The cutouts are well done, allowing perfect connection to power accessories and a great tactile feel for all controls such as the volume controls, power, and the iPad button.  The feel of this product actually exceeded my expectations!Ergonomics:Although this product feels a bit heavier than I expected, it really feels great!  If you hold the iPad in the horizontal orientation, the product gives your fingers a slight curve underneath that offers really good grip and comfort.  I did not expect ergonomics from a $35 device and for that reason it exceeded my expectations in this area!Protection:With its dual-layer design, this product offers good protection for the iPad Air.  It does not have the rubber material used in the iPhone and Galaxy protective units, and you should not expect a shock-mounted iPad, but it does offer reasonable protection for your device without a doubt.Fit/Finish:Inside, the iPad sits tight &#8211; no play, no rattle!  It feels solid &#8211; not flimsy.The product is esthetically appealing (certainly from a gentleman&#8217;s point of view).It gives your device a slight ruggedized look, but it is not nor feels too thick or bulky.Screen Protector:The built in clear and dry screen protector offers reasonable coverage without noticeable/significant light impairment.  I do not notice it is there, as my screen maintains its sensitivity as expected.Price:Let&#8217;s face it, when it comes to inexpensive products, it is really not the price that concerns you, it is lack of knowledge about the product&#8230; not being able to feel it, not knowing about its fit/finish or quality.  Personally I think the product is priced appropriately at $35.  I am not sure if I would pay a whole lot more for it to be honest, but $35&#8230;OKAdvice:If you read through the ratings, you will find an individual having to break the device to get to the finger print under the screen protector.  With the way this product locks together I CAN BELIEVE THIS.  I am thankful for that review.  Do not handle the screen protector.  Also, follow the instructions by going to their website and viewing a brief video before you start.Final verdict:With various color options this product is likely to satisfy most iPad Air users.I enjoy and recommend this product to other iPad Air users without hesitation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product!  Here's why... </p>
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> The design is okay, but i prefer Moko Ultra Slim. This case is expensive with its price.Here is my caseB0083OXSBS </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's Okay ! </p>
+
+
+<h2> review.date </h2>
+  01-03-2014  
+<h2> review.text </h2>
+
+ <p> This is exactly what I wanted and the price I wanted to pay. Looked at the otter box but for $50 cheaper I got what I need and in a cool color with a kickstand! Would definitely recommend!! I actually bought the one for the iPad mini as we'll for my daughter. And we love them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1601547803 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-25-2012  
+<h2> review.text </h2>
+
+ <p> Enjoyed reading this book in fact read the whole series.Couldn't put it down that is the way with all of this series.I would say to make sure and read the whole Halsey Brothers Series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doctor in Petticoats </p>
+
+
+<h2> review.date </h2>
+  04-22-2013  
+<h2> review.text </h2>
+
+ <p> This was a great book.  I loved the characters, the storyline, and even the ending.Although I know it's the last of the Halsey Brother Series, I can't wait to read Logger in Petticoats.Note:  I recommend reading the books in order.  So far, the first four out of five have been very good reads. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another 5 star romance </p>
+
+
+<h2> review.date </h2>
+  07-03-2012  
+<h2> review.text </h2>
+
+ <p> Late nineteenth century Western romance. For a romance with a blind hero, it's pretty good. The novel starts with Clay Halsey, recently blinded in an explosion, starting out at a school for the blind. There he falls in love with the lady doctor, Rachel Tarkiel. Rachel is an independent career woman who throws herself into her medical work because she believes no man will ever love her--she has a big scar on her face form a childhood accident. But Clay and Rachel fall for each other right away. The tension comes first from her disapproving family, then from whether she will be satisfied living with Clay in a small mining town, being a wife and mother.Clay and Rachel are appealing characters. He is quite sweet, not angry or bitter, thank god. The bit about Rachel's scar is such a cliche for a blind hero romance, though, I cringed every time it came up. She is such a strong character, the book would have been better without it. On the other hand, I really liked how she was a career woman, and deeply conflicted about pursuing marriage or career. It was a satisfying and believable way to present a strong female character in a historical setting.The historical details are good. The author clearly did a lot of research, and there's a real sense of place in the Oregon setting. The author depicted Clay's blindness pretty well too. The blind school was similarly well researched, although I was a little disappointed the action shifted away from the school so quickly. After two months, Clay decides he's rehabilitated enough, even though he has barely started learning Braille, never mind anything else. However, a lot of the scenes, particularly in the beginning, are narrated from his point of view, and it's done really well. There's a lot more realism here than in most romances, which I appreciated.This book is part of a series. I didn't read the other books, but while this mostly stands alone, there are some things that are not fully explained from the other books. I did feel a little like I was missing something.The biggest problem, though, is that the author never stops TELLING when she should be showing. In every single scene, the narrator lays out baldly what the main conflict is, over and over. It's such a drag, even more so because the dialog and descriptions are actually pretty good, and could easily have carried the novel without all the boring exposition. As it is, though, the over-explaining really weighs it down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pretty good </p>
+
+
+<h2> review.date </h2>
+  10-06-2012  
+<h2> review.text </h2>
+
+ <p> Held me from the beginning. Very much a feel good book. This is a hope for the future. Dreams do come true. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doctor in petticoats </p>
+
+
+<h2> review.date </h2>
+  04-10-2013  
+<h2> review.text </h2>
+
+ <p> Doctor in Petticoats kept one's attention throughout. A lot of historical outlooks were incorporated nicely into the story. It reached all the emotions throughout and was hard to put down. It surprised me to see how well it deviated from the others in the series --  enough to keep one's interest. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doctor in Petticoats </p>
+
+
+<h2> review.date </h2>
+  05-20-2011  
+<h2> review.text </h2>
+
+ <p> This a good book from beginning to the end.  Definitely 5 stars.  The story has characters with depth.  The story has everything a romantic reader could ask for. A special aspect to this story is that there isn't the usaual does he love, should I love him, etc. You know from the beginning that these two will fall in love and will be together no matter what happens to them.  The questioning of the relationship is kept at an appropriate minimum.  I know that I will read this one again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reader </p>
+
+
+<h2> review.date </h2>
+  12-10-2012  
+<h2> review.text </h2>
+
+ <p> I read all of the Halsey Brother Series books and loved everyone. Paty Jager doesn't disappoint. She uses humor and romance along with suspense which makes for a page turning can't put down read!  I don't know why but my favorite Halsey book was Doctor in Petticoats. I kept hoping that Gil would miraculously regain his sight... I won't tell you if he did or not. You'll have to read it yourself to find out. A great read. I'll be revisiting the Halsey Brother's before this winter is over. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doctor in Petticoats A GREAT read!!! </p>
+
+
+<h2> review.date </h2>
+  12-18-2013  
+<h2> review.text </h2>
+
+ <p> I really liked the books view of the role of women and from the visual impaired.  It was refreshing!  Please write more! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> wonderful book </p>
+
+
+<h2> review.date </h2>
+  11-23-2013  
+<h2> review.text </h2>
+
+ <p> Another great Halsey Brothers story!  Like the others books in this series, this book keeps you engaged throughout the story.  I particularly enjoyed Clay and Rachel's journey to realizing that just because they were each different in their own way that didn't mean that there should be limitations on what they could do or how they could live their lives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doctor in Petticoats--Another Success </p>
+
+
+<h2> review.date </h2>
+  09-02-2012  
+<h2> review.text </h2>
+
+ <p> I have enjoyed this series of 5 books with only two criticisms.  1) It was difficult to keep the books in the correct order.  I prefer that "Book One", "Book Three", etc., be somewhere when you offer a series.  2) It is my personal preference to have the sex scenes suggested, but then left to my imagination.  The descriptive sex is something I simply skip over, but I often wonder if I missed something important to the story.  This author is so good at writing an interesting themed story, that I stuck with her through the "hot stuff".  Reader; if you like the hot stuff, this is the series for you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doctor in Petticoats (Halsey Brother Series) </p>
+
+
+<h2> review.date </h2>
+  03-14-2013  
+<h2> review.text </h2>
+
+ <p> Liked the idea of these books running in series.  You feel you get to know the characters.Liked the style of writing and a little different. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read </p>
+
+
+<h2> review.date </h2>
+  01-06-2013  
+<h2> review.text </h2>
+
+ <p> Great representation of woman emerging into their own professions as thia country was settled.  A great portrait of thegeneration of men that learned to love the woman was to accept her profession and all.  This was the 4th book about theHalsey brothers and I can't wait to read the rest </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful romantic fiction with historical theme </p>
+
+
+<h2> review.date </h2>
+  06-22-2012  
+<h2> review.text </h2>
+
+ <p> I had the book almost immediately, but have not had a chance to read it yet. I love the quickness of getting a book so fast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ocpz </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> I started reading about these brother by accident. I am now following hat is going to happen to the brothers from book to book.I wa hoping that the brother would get his eye sight back and that he would see that beauty he fell in love with was truly  a interbeauty that we all should look for in another person. I ca honestly say that I have not been disappointed with any of the books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Why this is a good series </p>
+
+
+<h2> review.date </h2>
+  08-21-2010  
+<h2> review.text </h2>
+
+ <p> Rachel Tarkiel's life changed the day she saved her sister from certain death as she pushed her out of the way of an out of control wagon.  She was not quick enough to save herself from harm's way as the wagon hit her in the face and left a jagged scar.  With her disfigurement, she gave up her dreams of having a happy life as a wife and mother; instead she focused all of her energy on becoming a Doctor.Clay Halsey had put all of his trust in a childhood friend and was betrayed in the worst way when he turned on him resulting in his blindness. After six months of living in darkness, Clay knows he must come to terms with his disability.  He enrolls in the School for the Blind to learn skills that will help him adjust to his blindness, and also to be able to help his brothers in the family business.Upon arriving at the School for the Blind, a feminine voice gains his attention.  The voice belongs to Dr. Rachel Tarkiel, the school doctor.  He senses that she is a woman that is filled with kindness and compassion.  The two of them develop a friendship, one that deepens into something neither one of them were expecting.Clay fears that his blindness will become a burden on Rachel if he allows his feelings to be known.  Rachel is concerned that once Clay discovers her scar he will want nothing more to do with her.  Will they be able to put their past hurts behind them and take a chance on the kindling love that wishes to ignite?Historical romances just don't get any better than Paty Jager's DOCTOR IN PETTICOATS.  This book is a magnificent tribute to one talented author.  I was literally swept away from page one of this highly addictive novel.  This is the type of romance that will leave an empty spot in your heart once you finish the last page.  There is no way that you will not be able to resist Clay or Rachel, their tragedy to triumph romance is one of the finest this reviewer has ever experienced. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Suzie Housley, Romance Junkies Book Review </p>
+
+
+<h2> review.date </h2>
+  07-13-2010  
+<h2> review.text </h2>
+
+ <p> Ms. Paty Jager has written another saga concerning the Halsey brothers. This is the first I have read. It didn't take away from the meaning or my understanding of this book. It did, however, make me determined to read the others. While interested in finding out about the other brothers' stories, this one was definitely written so it would stand-alone.Jager's characters are multifaceted and quickly captivated my interest. They were dynamic people who allowed the story to develop effortlessly. I absolutely couldn't put the book down. The underlying mystery man who followed them throughout their travels was incredibly handled.I applaud Jager for this series. I love western historical and this is one of the best I've read. I highly recommend that anyone will also fall in love with this series. You will be glad you read this book. - Brenda Talley </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 5 Hearts from TRS! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

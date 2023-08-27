@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B003QF1N52 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-18-2011  
+<h2> review.text </h2>
+
+ <p> I have this movie myself and I LOVE IT, it's an EXCELLENT movie. I decided to buy this DVD for my best friend as a belated birthday present because I know he's gonna LOVE IT too. :O) I have seen it about 11 times now, just finished it a few mins ago </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EXCELLENT MOVIE </p>
+
+
+<h2> review.date </h2>
+  06-11-2013  
+<h2> review.text </h2>
+
+ <p> I'm not into wrestling or boxing -- especially because westerns and boxing/wrestling was mainly what families watched at the onset of television in the early 1950's -- but this picture has intricacies which will hold your attention, be morally uplifting, and be OK for the whole family to view. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Great & Uplifting Film </p>
+
+
+<h2> review.date </h2>
+  09-06-2012  
+<h2> review.text </h2>
+
+ <p> One of the best movies we have seen in along time . Heart warming and real I think allot of people would buy this it's a true story about a boxer in Oklahoma very good movie </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Movie </p>
+
+
+<h2> review.date </h2>
+  12-12-2012  
+<h2> review.text </h2>
+
+ <p> This is no great shakes, but I liked it.  It's not as good as Vision Quest (the story is about a high school wrestler), but it is fun and John Cena is impressive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A family story via the WWE </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> I borrowed this from a friend and proceeded to buy it when I returned her copy.  It's an awesome film.  Was very impressed with John Cena's performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cried first time I watched it! </p>
+
+
+<h2> review.date </h2>
+  09-14-2010  
+<h2> review.text </h2>
+
+ <p> high praise for legendary if your a true wrestling fan you will love this movie john cena is great in this I don't like everything wwe does these days but this one's a hit the wwe product may have hit a bump in the road but don't let that stop you from going to see the movie can't wait for the dvd to come out cheer's for cena not boo's fan's who boo him go see it you might enjoy this </p>
+
+
+<h2> review.summary </h2>
+
+ <p> legendary is a well done movie & deserves to be seen </p>
+
+
+<h2> review.date </h2>
+  12-16-2011  
+<h2> review.text </h2>
+
+ <p> this movie stinks i really really really hate this movie its boring dull stupid and totally unintelligent this movie is one big epic fail!!!!!!!!!!!!!!!!!!!!!!!!!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> one of the lamest & most boring movie ever made!!!!!!!!!!!!!!!!!!! </p>
+
+
+<h2> review.date </h2>
+  07-20-2012  
+<h2> review.text </h2>
+
+ <p> this movie had nothing good in it and it rehashes other movies that have already been made this movie should never have gotten greenlighted or made this movie is a waste of time and money wwe films stink wwe stinks!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> this movie is lame & boring </p>
+
+
+<h2> review.date </h2>
+  01-16-2012  
+<h2> review.text </h2>
+
+ <p> My sons a wrestler. But I enjoyed it more. Love the courage and passion, good family movie. Recommend you get this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Legendary </p>
+
+
+<h2> review.date </h2>
+  11-25-2010  
+<h2> review.text </h2>
+
+ <p> After being an ex-Marine & a New Orleans detective, John Cena returns to another WWE film with "Legendary."  The movie revolves about a book-smart teenager named Calvin Chetley a.k.a. "Cal" (Devon Graye) who goes to high school in Oklahoma, lives with his mom Sharon (Patricia Clarkson), has a female best friend name Lulu (Madeleine Martin) who clearly has more than just "friendship" feelings for him which he's obivious to, and developed a friendship with an older man (Danny Glover) who looks out for him with good advice.  He goes out for the wrestling team knowing the history with his brother & late-father having success in the sport, despite the fact that his mother is against it, but just has no luck at it.  On the other side is Cal's brother Mike (Cena) who is a former All-American but very distant from his family, hard on his luck, and somehow keeps getting into trouble.  Cal asked Mike to help train him initially & refused until Cal helped him out in court causing Mike to return the favor & train Cal leading to the brothers bonding together & Cal having better success wrestling.  However they both still have to deal with issues throughout the movie like facing the issue that caused Mike to be so distant from not just Cal but his mother, Lulu & Cal's relationship evolving into something more, and Mike's past catching up to him.This movie was unlike any previous WWE film in that this wasn't an action based movie as it was more focused on being a more serious family drama.  Cena's role in the movie was very similar to Mr. Kennedy's (now Mr. Anderson in Total Nonstop Action wrestling) role in a previous WWE film "Behind Enemy Lines: Columbia" where he played more of a supporting role than the main character he was in his previous two movies.  I think this was definately Cena's best acting effort as his first two movies had him playing the sterotypical strong "superman" good guy while he showed diversity here with him playing a guy who clearly had some emotional issues with a bad attitude in the first half of the film.  The acting with everyone else was very good & the best cast put together for a WWE film to date along with the multiple stories being told throughout the film.  In the end, I enjoyed the movie & stories being told (I've personally had a situation like this happened to me so I could heavily relate) so I would recommend this for a viewing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WWE Studios First Drama...And A Pretty Good One </p>
+
+
+<h2> review.date </h2>
+  01-29-2011  
+<h2> review.text </h2>
+
+ <p> i have not seen cena in movie FRED but it wasnt about him or by wwe but i will still look for it to watch.now onto main reason wrestling fan or not you will like this movie wwe movies are getting better with each one they release in theaters or direct to dvd i think this was theater for short time but i missed it i watch it today it was great you thinnk you know what is going to happen at the end but it surprrises you what the end result is if you like drama movies you will like danny glove has short parts but hes good in it.if your fan of wwe films or cena himself i recomend buying this but if your one those people who act like critic, criticizes every little thing and not watch movie for what it is then i dont know i dont criticize movies i watch bad movies with bad effects, bad dubbing with english i happen to like them, and i alos like movies that are good dark night, titanic.i leave criticizing up to people who get paid to do it the critics them selves keep an open mind if your one those hard critic people that do not get paid to judge movies by 5 stars, or 1 star leave to the critics only movie are meant to entertain if your only watching movies to judge every littel detail then your missing out on fun, adventure, fantasy, most of all experiance to see a new world or learn soemthing new in world titanic for example </p>
+
+
+<h2> review.summary </h2>
+
+ <p> one jhons cenas best movies to date </p>
+
+
+<h2> review.date </h2>
+  11-12-2013  
+<h2> review.text </h2>
+
+ <p> I rate this cause I am a WWE wrestling fan of any superstar like John Cena. I never seen this movie before, until I got from amazon.com. It's my first time watching it and this movie is okay. No problem with the movie. This movie comes with special features. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A True Legend </p>
+
+
+<h2> review.date </h2>
+  11-25-2011  
+<h2> review.text </h2>
+
+ <p> Mel Damski, the director of this flick, has a history comprised almost entirely of work in television and it shows here. This is a short putt from being an 'after school special.'Here's the scoop. Cal Chetley is a bright, good-hearted high school student. He lives with mom. Dad died in a car accident some years earlier. His older brother hasn't been around in years. He has a casual, but affectionate, relationship with a very sweet and left of center neighbor named Luli. As the bookish type he tends to be put upon by  some of his school chums. He wants to join the school wrestling team to help beef up his physical confidence and hopefully bring his brother back to the family who, himself, was a championship wrestler. It's a tough road.This is a well intended, paint by numbers endeavor. There are few surprises but I didn't really care much because I liked the characters. Patricia Clarkson, as the mom, is always good and she does well with what she's given. John Cena is decent as the big brother. He's separated himself from his family for reasons which are made clear later in the movie. He's a laborer who lives in a trailer, drinks and fights a lot which leads to issues with the law, and has a string of girlfriends with whom he cannot become intimate. Will he help coach little brother to a title and will he get back with the family and kill the demons inside of him? Danny Glover is one of the locals and provides the voice of reason to Cal, played nicely by Devon Grey. Madelein Martin, as Luli Stringfellow, is a hoot. She's as sweet as can be and has a sense all her own. She marches to a different drummer and has a thing for Cal.Like I said, there is no ground being broken here. You've seen it all before and it sets out to manipulate the audience which isn't necessarily a bad thing. Sometimes I like being led around by the nose, particularly in something such as this where you want these people to succeed. They're good people trying to get their lives back on track. This is a decent watch for a family type, PG-13 kind of movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If You Like Being Manipulated </p>
+
+
+<h2> review.date </h2>
+  03-04-2011  
+<h2> review.text </h2>
+
+ <p> This movie has beautiful subtlety from start to finish.  There are many moments in this movie that have the potential of being sappy or overacted or dumb, but the director did a great job of not allowing any of that to happen.  If you have Netflix it is available for Instant Viewing.  I highly recommend this film! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly Good! </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> LEGENDARYI will admit right here and now that I am a fan of John Cena's movies, yes it is true. I thought "The Marine" was a fun pointless action movie and that "12 Rounds" while seeming like a "Die Hard" spin off was just as fun. This was Cena's third film for WWE and I have to say that it may be his best. It is a realistic drama in which John had to actually act and he was in a co starring role. For some reason when this first came out I wanted to see this more so than any other he had been in.Cal Chetley [Devon Graye] is one of those kids who is just an outcast and is having problems at home. His mother [Patricia Clarkson] is over protective, his father is dead, and his older brother [Cena] is the black sheep of the family. While he is a scrawny guy he wants to join the schools wrestling team like his father and brother did before him. the thing is he knows nothing about it and his mother is strongly against it.Now I know some of you are reading that and are saying "that does not sound to interesting". Well if you were thinking that then you would be very wrong for thinking that, especially seeing Cena in this type of film. I have to say that I was very impressed by John here in this film as the brother who has to come back to help his little bro. He is actually really good here especially during the first half of the film. Seeing him play the drunk outcast haunted by his past it is new side of Cena. The last half is more of the guy that you see in the WWE helping out kids and such. Don't get me wrong the role called for that but still.Devon is really good here in the lead role and makes the film more believable. And for any out there that says a kid like that would never make it in amateur wrestling has no idea what they are talking about. As someone who wrestled all throughout school and trains it every day even now I can tell you the little guys are usually the nastiest and most hard workers. Was I one of those guys, maybe, maybe not. Patricia is also excellent here as their mother and Danny Glover is always fun.I was glad to see Mel Damski directed this since he is a producer and directed many episodes of one of my favorite shows of all time, "Psych". Also it should be noted that the writer of this film John Posey is also in the film as Coach Tennent. He did a good job on both fronts. Anyway this is actually a good film from the WWE and is one of the few dramatic films they have made. I say give the film a chance, I liked it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ONE OF WWE'S BEST </p>
+
+
+<h2> review.date </h2>
+  03-13-2013  
+<h2> review.text </h2>
+
+ <p> great feel good movie showing that one should never give up on ones' dreams or those that you love and believe in! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> triumph of the human spirit </p>
+
+
+<h2> review.date </h2>
+  04-05-2013  
+<h2> review.text </h2>
+
+ <p> I love the story behind this movie.  Very touching and heartwarming when it comes to family troubles.  Everyone has something that has happened in there lives within their family.  Most of the time it is a tragedy.  The way this family finally brought peace within the home again.  Beautiful! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Legendary!  Very good movie. </p>
+
+
+<h2> review.date </h2>
+  03-02-2014  
+<h2> review.text </h2>
+
+ <p> my daughter was happy to finally see and own her own version of the movie, not a bad movie, good story line </p>
+
+
+<h2> review.summary </h2>
+
+ <p> yeah </p>
+
+
+<h2> review.date </h2>
+  09-28-2010  
+<h2> review.text </h2>
+
+ <p> "I told their father I'd watch out for them if anything ever happened to him ?" That sounds a lot like a line you'd here in a war movie doesn't it ? Legendary isn't a war movie though, it's about high school wrestling. Yet, when Cal Chetley (Devon Graye) reveals to his mother Sharon (Patricia Clarkson) that he wants to join the wrestling team, she reacts as if he said he wants to join the marines.Cal's brother Mike (John Cena) and his father were so into wrestling that the father died in a car accident on the way to scope out one of Mike's opponents. So Mike is now a drunk bar fighting loner that keeps himself as far away from his family as possible due to blaming himself. When Cal needs to get better at wrestling, he goes see Mike behind his mother's back. Mike is hard to convince at first, but of course Cal eventually gets his help.Cal becomes more confident, gets a girlfriend and takes on his bullies, no this isn't the Karate Kid. The film is over the top sentimental, but it won me over anyway due to Graye and yes John Cena having chemistry. The film even got a tear or 2 out of me.Cena, I found surprisingly solid in the first half. I bought that he was a troubled man and he was better than usual and I almost believed that he could act. In the second half when he becomes nicer and a role model, he just phones in his performance and is about as wooden as he usually is in movies. Madeleine Martin however was adorable as Cal's girlfriend. Legendary may not be original but compared to all the other WWE films it's the best. It's a good family film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the WWE's better films </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> This was a great movie that I would watch over again. My friends would enjoy it if you like Jon Cena </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Movie </p>
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> Keeping with the theme of the sport of wrestling to include one of the most wonderful WWE Stars was a great idea. Plot was predictable but then, how can it be a great movie without a happy ending.The only con was John Cena wasn't in every scene enough 8o). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice movie. </p>
+
+
+<h2> review.date </h2>
+  04-06-2013  
+<h2> review.text </h2>
+
+ <p> It truly is, this movie got very poor reviews. But in my opinion it's a very good movie and better than the blind side. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than The Blind Side. </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> It may be predictable, but it is well worth watching.  I loved it, but I am an Oklahoma State graduate, so wrestling is in our blood.  I thought it was well done and a good family movie.  I am glad I purchased it after viewing it on Amazon Prime. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heart warming story. </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> I personally didn't like this movie at all number one when you add bad words period in a movie it messes it up . I do understand many people don't mind but I'm not one of them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thank you for Amazon </p>
+
+
+<h2> review.date </h2>
+  03-30-2011  
+<h2> review.text </h2>
+
+ <p> I HAVE ALL OF  THE JOHN CENA DVDS INCLUDING THE WRESTLING ONES AND THEY ARE ALL GREAT!!! ,I HAD MY KIDS WATCH THIS AND THEY COULDN'T FIGURE THE MOVIE OUT TOWARDS THE ENDAND LIKE ALWAYS, I HAD TO EXPLAIN TO THEM THE ENDING, GREAT MOVIE THOUGH! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT JOHN CENA DVD </p>
+
+
+<h2> review.date </h2>
+  03-14-2012  
+<h2> review.text </h2>
+
+ <p> A nerdy high schooler tries to reunite his estranged family by becoming a champion wrestler in this surprisingly strong,well-done drama.The script is well-written and very solid for a sports movie,and director Mel Damski brings it to life beautifully.He gets top help from his production team and excellent performances from his wonderful cast.Patricia Clarkson and Devon Grayeare marvelous,but surprise-it's John Cena who steals the movie.He shows surprising range and strength as the troubled Mike,and proves he could become a real movie star if given the right roles.And the camera loves him.This one is a real sleeper worth watching.The Marine (Unrated Edition)12 Rounds (Rated + Unrated)The ReunionThe Wrestler </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A real surprise </p>
+
+
+<h2> review.date </h2>
+  05-04-2014  
+<h2> review.text </h2>
+
+ <p> Okay, boy wants to become a wrestler, he seeks out his father to teach him how to wrestle,he makes friends with (little did he know was a former wrestling champion) who encourages himto wrestle.  Boy makes finals and looses to another wrestler which makes him come in assecond best.  A typical feel good movie with a few boring moments in it, but definitelydeserves to be watched. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This movie will never become a classic but it certainly does deserve *4* stars... </p>
+
+
+<h2> review.date </h2>
+  09-03-2011  
+<h2> review.text </h2>
+
+ <p> This review is short and sweet.  The story line followed the general flow of movies like this. However, it had a few twists and the bad guy was not so bad and the mean mother became understanding the the boy brought them together, got a girlfriend and the "water pump" he wanted (you will see it about 4 times)LOL.Worth a purchase. Good clean movie, great acting, with a feel good storyline with likeable characters and even the "so so" bad guys end up loosing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great family movie with limit violence </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

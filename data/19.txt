@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0009PLO0Q <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-03-2006  
+<h2> review.text </h2>
+
+ <p> Let me take that back; it DOES work, in the sense that it throttled a good amount of my bandwidth. I was getting a consistent 5 MBit connection speed...I set up the "booster"...and then my speed got no higher than 2.4MBit. !!!!!!! I followed the directions to modify the settings to see if it was something that was mis-configured, and I could not even get to the administration page.I took it out of the chain and my speed came back. I think that the idea is good but the implementation needs work. Avoid for now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It doesn't work </p>
+
+
+<h2> review.date </h2>
+  08-28-2005  
+<h2> review.text </h2>
+
+ <p> This item is very simple to install; just plug it in between the modem and router.The jury is still out on performance.  I have Comcast 6MB/358.There seems to be some slight improvement on throughput.  I use Skype when I am gaming online (SWAT 4 and Ghost Recon). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to install, appears have a slight improvement </p>
+
+
+<h2> review.date </h2>
+  02-03-2007  
+<h2> review.text </h2>
+
+ <p> I originally purchased a Linksys OGV200 in an attempt to solve my online gaming lag problem.  I was so disappointed with the performance of the Linksys that I returned it within 15 minutes of powering it on.  I then ordered the Hawking HBB1 and I couldn't be happier.  Overall, the quality seems be much better and the performance is worlds apart.  The Linksys gobbled up over 80% of my available download bandwidth while the Hawking does it's thing with no noticable bandwidth penalty.  The real test came when I attempted to play an online game while two other PCs in my network were simultaneously downloading streaming video and sufring the internet.  My game never gave the slightest hint of a lag and this is something that I could never have done before.  I am extremely pleased with this product.  Definately 5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Product </p>
+
+
+<h2> review.date </h2>
+  12-08-2005  
+<h2> review.text </h2>
+
+ <p> I purchased this product to help manage data traffic for my voip calls. I have AT&T; Callvantage and had orginally setup the booster to assist in managing traffic when someone is on the phone and someone else is on xbox live or downloading from the web. My original configuration was the HBB1 right after my VDSL modem with my home WRT54G next, and then my AT&T; TA behind the 54G router. I can't say that I noticed any improvement in call quality but the booster did show that traffic was being managed. Even still, I had issues on out going voice where my voice would drop off for 5 secs or so. I have a 1mb upload pipe so bandwidth was not the issue.I then moved my AT&T; TA in right behind the booster with my 54G router behind the TA. With this configuration I was seeing a number of dropped calls. In the middle of a conversation the phone would cut off. In trying to fix this issue I removed the booster from the configuration. After that change the dropped calls went away. My call quality is good now as well.So in the end I can't say that the booster helped but it did cause me some issues so I have it turned off now and will probably put it up on ebay. For me the regular voip recommended setup of TA first and then any home router attached behind it provided the best quality and that configuration was free.My last issue is with the rebate offered by Hawking. Their site showed they received it in late August and I still have not received the rebate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Didn't notice any improvement on voip calls </p>
+
+
+<h2> review.date </h2>
+  11-02-2005  
+<h2> review.text </h2>
+
+ <p> Pros: Works as advertised - makes better use of limited upstream bandwidth.Cons: A bit black-boxy. Not a whole lot of info out there on how it works - some reviewers test it all wrong.Despite the lack of solid information, I took the plunge and got one - and I'm glad I did. In my opinion, this is the most innovative home networking product I've seen since the first broadband router came out.Installation was a breeze - all you do is hook it up. It is the size of a deck of cards with 3 connections (network in, network out and a tiny transformer). Plug it in and it tests your upstream line speed. About 30 seconds later, the 4 lights come on and the thing is up and running.One thing Hawking did which is really nice, is the last LED goes from green (indicating standard traffic) to bright, super intense blue when the booster does something to optimize the network traffic. Let me tell you, once it is plugged in, you'd be surprised how much that light stays blue.What this thing does is to prioritize outgoing traffic. Outgoing, you say. Who cares, right? That's what I said until I hooked this thing up. The small, outgoing broadband upstream pipe (usually 128k - 384k) is pretty overloaded with all the Internet-aware applications we're all running these days, and the pipe gets used pretty inefficiently.The official press states that the booster prioritizes the traffic, so more "time sensitive" requests such as voice-over-IP, gaming and certain UDP packets are sent out first. Bumped to the bottom are the HTTP web page requests, FTP traffic and so forth. This is seems to do as advertised.What was not advertised (and was quite surprising) is what happened when only ONE machine is on the network. We turned on my wife's computer and she connected to work via a Citrix connection - which is always extremely slow even when noone else is on the network. I shut down all the other machines on the network to ensure it was as slow as normal, then I installed the booster. When she reconnected, the booster's little blue light came on and hardly went out. The remote session became as responsive as working with a non-remote machine! Three days later, she is still happy. Now I'm just guessing, but it seems as if the booster is not only prioritizing, but is actually combining the barrage of small, outgoing packets of data into larger ones.I didn't go crazy and bog down the network with a ton of artificial activity - plenty of other folks have tried that. I did fire up two more machines with browsers and my XBox Live. They had no effect on the Citrix session and my XBox Live session (voice and gaming) seemed a bit more zippy than normal.A friend at work did some similar tests on his network and was equally blown away by the results.Bottom line... I'd whole-heartily recommend this to anyone who:1. Has more than one machine running on their home network. I'm guessing it would help a lot if you had kids doing any sort of file sharing.2. Has a single machine performing a lot of Internet-related activity that you want prioritized (e.g. FTP's to the back of the line).3. Anyone who runs remote connections a lot - I will definitely be recommending this to folks at work that complain about slow Citrix and Remote Desktop connections. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some reviewers are being too harsh - this thing is great! </p>
+
+
+<h2> review.date </h2>
+  09-06-2005  
+<h2> review.text </h2>
+
+ <p> My wife and I have 3 meg DSL Pro from SBC in the San Francisco area. She works from home and VPN's to several clients. I occasionally work from home and VPN to my office. In addition she sometimes uses a VoIP phone for one of her clients.  I had noticed considerable slowdowns on our network. I'm hardwired to a netgear wireless g router, she's wireless. The router & DSL modem are on 7x24. My PC's off when not in use. 75% of the time when I boot, I get a message on IE saying "Broadband Booster is measuring your connection...", and wait 2-3 minutes before I can browse, or retrieve email. On the bright side, the congestion has been cleared up to some extent. I can have my PC streaming from Music Match, have my work laptop VPN'd and have my wife also VPN'd and it all goes pretty fast.I would not spend the $ just thinking it would improve my browsing. If you're an online gamer it might be a good tool, but I don't really game online. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No big difference/Minor gripe </p>
+
+
+<h2> review.date </h2>
+  09-08-2005  
+<h2> review.text </h2>
+
+ <p> I purchased this "broadband booster" for a network of 10 PC's and VOIP to see if some of the lag experienced by some of the network users would decrease. After a few days of testing, this device seems to do what it's supposed to do though I'm sure my network didn't improve by the advertised 400%.One major gripe concerns the preliminary network check that the broadband booster automatically runs when you open Internet Explorer for the first time. The check seems to take about 3-4 minutes, which may be a problem if you want to start surfing the internet right away. Other than this annoyance, the device is a decent value for the money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Seems to improve network lag </p>
+
+
+<h2> review.date </h2>
+  05-27-2008  
+<h2> review.text </h2>
+
+ <p> I have Vonage VoIP on cable internet connection. The voice quality used to suffer during heavy download and upload activities such as using BitTorrent to download/upload movies. After I got this device, voice quality has certainly improved. I can continue to download and upload movies on BitTorrent and call quality does not suffer. Great product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Improved VoIP quality </p>
+
+
+<h2> review.date </h2>
+  01-05-2011  
+<h2> review.text </h2>
+
+ <p> After a couple years of intermittent VPN sessions and laughter over how I sounded (or didn't sound at all) on Vonage, everything is running great on my network. I have a 10mbps (typical) down/768 kbps up connection and while using this booster I can synchronize a massive Outlook queue through my VPN, talk on Vonage and stream NetFlix in HD without any losses. I inserted the HBB1 between my modem and router and life has been extraordinarily better ever since!Two critical points to consider:1) You must de-select Auto Rate Detection and specify a value for the Upstream Data Rate. Run a speed test, verify what you are getting and enter the value. Otherwise, you will periodically lose your uplink when the booster decides to recalibrate itself.2) this device ONLY works if you put it between the modem and the router and run all traffic through it. If your ISP gave you an all-in-one device, you may be unable to use the booster. Read on for more information.If your ISP gives you an all-in-one device (modem+firewall+DHCP+wireless), you need to disable its firewall and NAT functions. You want to dumb it down until it acts like nothing more than a modem. That means you must also turn off any built-in wireless, and should disable NAT (network address translation - part of the firewall) and IP addressing features (DHCP - dynamic host configuration protocol). After you do this you can set up a separate router and put the booster in between. Look around and you will find hundreds of postings from people who prefer to control their own router for a variety of reasons. Typically a cable company or a telco can offer you a basic modem where it is easy to revert to a barebones configuration that's known as "bridge mode". In bridge mode, the cable modem simply passes on the IP address given to you by the ISP and then your router takes over for everything local at your house. Basic units are made by several companies, I typically see cable providers offering a Motorola Surfboard, and the telcos might offer a Westell Liteline. You will have trouble with AT&T; UVerse which only offers a bulky all-in-one unit from a company called 2Wire, but you can turn off wireless and set LAN port 1 to operate in DMZ+ mode with all firewall functions disabled. You still need this monster for other tasks, because it functions as your home video server for set-top boxes.References below. Replace (dot) with the required "period")You can find instructions for normal hookups and for workarounds in the HHB1 user manualhawkingtech(dot)com/downloads.php?file_id=2405and elsewhere including here:Vonage and Uversevonage-forum(dot)com/ftopic25280.htmlUsing your own wireless router with u-verseforums(dot)att(dot)com/t5/High-Speed-Internet-Access/Using-your-own-wireless-router-with-u-verse/m-p/2314693/highlight/true#M69832Wire equipment notessupport(dot)2wire(dot)com/?page=view&article;=210support(dot)2wire(dot)com/?page=view&article;=210&text;=vonage&cat;=&sort;=port forwarding guide: portforward(dot)com/english/routers/port_forwarding/2wire/3800HGV-B/default.htmNote that you might be able to plug your router into an all-in-one box without the configuration changes but you are creating a situation called "Double NAT" and it can lead to problems with some of your internet access services.Companies like 2Wire are foolish (or lazy) for not including layer-2 packet scheduling as an integral feature of their equipment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Everyone needs a packet scheduler </p>
+
+
+<h2> review.date </h2>
+  08-17-2006  
+<h2> review.text </h2>
+
+ <p> I have a 1.5 mbps DSL connection and use Skype as my primary home phone. When my kids are on the internet viewing websites with a lot of Macroflash video, playing games or downloading music, my VOiP quality simply goes down the tubes. Lags, echoes, choppiness, you name it. I tried adjusting the QoS on my router but that didn't really do much. So I tried looking for something to solve my problem and that's when I stumbled across this excellent product by Hawking Technologies. It pretty much does what routers with built in QoS does, only 100x better. It utilizes a proprietary chip called StreamEngine that is dedicated to streamlining and prioritizing the packets sent by all of your internet applications with a focus on real time applications such as VOiP and Games. The key word here is "sent" because it does nothing to your download stream. The result is a much improved internet experience for the whole family!I've had the HBB1 for about a month now and it did more than just solve my problem! My VOiP quality improved significantly even with all 3 computers simultaneously connected to the internet. It may not have "boosted" my uplink speed by 400% as advertised but it did what I needed it to do. It's cool when callers comment how clear we sound, especially for a free VOiP service like Skype. I also noticed that my other internet applications run smoother. Set up was fool proof and literally took no more than 5 min to get it up and running. The bright blue LED confirms that the unit is connected correctly and packet management is working. Although no adjustment is necessary right out of the box, the GUI was a nice option to have as it shows your up/down stream speed, modem and router IP addresses and it gives you access to a few other manual adjustments. An average user wouldn't have to mess with it though.As I opened the box, I was greeted by an impressive packaging that complimented the product very well. Hawking included everything you need for a plug and play set up. Heck, they even included a 3 inch converter cable allowing you to plug in the AC adapter to a regular power strip without blocking the socket next to it. Although its a little tough keeping the unit in place because of the power cord and 2 ethernet cables connected at both ends, the added weight was a nice touch. All things considered, I would highly recommend this product to anyone who has more than 1 computer on their network that engages in a lot of internet activity. Thanks Hawking for a wonderful product!System set up:1.5 Mbps connectionLinksys WRT54G Wireless RouterActiontec DSL Modem10/100 Network CardInternet Explorer 7 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Money Well Spent! </p>
+
+
+<h2> review.date </h2>
+  09-30-2010  
+<h2> review.text </h2>
+
+ <p> To save a few bucks I switched my cable internet to the "Economy Service" which is limited to no more than 1.5Mbs...thought I was going to need to switch back because my VOIP and streaming video quality went in the toilet. Hooked up the Hawking box (which could not be easier BTW) and after a few minutes of playing with where it went in the chain of devices, it started providing a very noticeable boost to performance. Speed doesn't measure any faster but clearly the way packets are being handled has improved dramatically. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As advertised </p>
+
+
+<h2> review.date </h2>
+  04-24-2008  
+<h2> review.text </h2>
+
+ <p> I've had one of these between my modem and router for years. I forget it's even attached. Well, today I changed from a slow DSL connection to a speedy cable connection, and decided to try a couple of tests uploading and downloading a few big files to an FTP site and see how the Broadband Booster would affect the speeds. It seems that the Broadband Booster usually sped the download time by a little, but it ALWAYS severely SLOWED my upload speeds. I'm talking slowing the time of a 3 minute upload to 8 minutes when it was connected! So my assumption is that the Broadband Booster speeds the negotiation of a lot of random internet traffic, but if you need to focus on uploading a lot of data, I think you'll wish you didn't have the Hawking Broadband Booster connected. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Speeds a lot, but severly slows my upload speeds </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

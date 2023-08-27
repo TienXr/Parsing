@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1609136195 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-17-2012  
+<h2> review.text </h2>
+
+ <p> Bought this book to keep at my desk at work.  It's very helpful when doing prior authorizations on medications and giving patient's information on side effects and what questions they have regarding their meds.  Thanks!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Help for Work </p>
+
+
+<h2> review.date </h2>
+  11-08-2011  
+<h2> review.text </h2>
+
+ <p> As a health care professional, I have referred to the Nursing Drug Handbook for many years.  It is comprehensive and very easy to use.  It also very reliable and current in the information provided.  I have tried other drug handbooks but keep referring to this one as the gold standard. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Old Friends </p>
+
+
+<h2> review.date </h2>
+  07-10-2013  
+<h2> review.text </h2>
+
+ <p> I buy this new edition at least every2 years.  It is, as any nurse will tell you, the &#34;quick find Bible&#34; of medications and is especially helpful at targeting side effects and labs that must be done to track safety and progress of medication. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Always dependable and accurate </p>
+
+
+<h2> review.date </h2>
+  11-07-2013  
+<h2> review.text </h2>
+
+ <p> Not the best nursing drug handbook... It's pricey, too. . . But it's ok if you have nothing else to use.Saunders is a lot better (in my opinion). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the best </p>
+
+
+<h2> review.date </h2>
+  12-09-2012  
+<h2> review.text </h2>
+
+ <p> I needed to be educated about the new drugs for HEALTH, and now I can understand the medications that are available to me.  Thankl You </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I was a nurse for a long while. </p>
+
+
+<h2> review.date </h2>
+  10-31-2011  
+<h2> review.text </h2>
+
+ <p> I bought this book for my grandson who is training to be a Paramedic. He tells me it is of much use to him, & will be as time goes on. Well worth the purchase price, which is always great on Amazon no matter what one seeks to buy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nursing 2012 Drug Handbook </p>
+
+
+<h2> review.date </h2>
+  10-30-2011  
+<h2> review.text </h2>
+
+ <p> I think I will get good use of this drug book.  It gives me all the answers I am needing for my own use and at work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nursing </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> I can't understand why the publisher has ruined this book by changing the layout.  I've used this book for years (over a decade) and this year they decided to change from organizing by category to alphabetical by generic name.  Totally useless.  That's what an index is for.  The main feature of this book, and the reason that I've continued to purchase them, is the organization by category.  This makes it very easy to find alternative medications for the same function, etc.I was going to buy a new version, but instead I purchased the 2011 edition since it is the last one organized by category.  Hopefully the publisher will eventually come to their senses and restore some future edition of the book to its proper order (by category). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Drugs NOT listed by category - buy 2011 revision instead </p>
+
+
+<h2> review.date </h2>
+  01-13-2013  
+<h2> review.text </h2>
+
+ <p> Difficult to locate drug I want to view, cumbersome to use. Not user friendly. Too costly for worth. Would not buy this book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Drug book </p>
+
+
+<h2> review.date </h2>
+  12-29-2011  
+<h2> review.text </h2>
+
+ <p> I purchase these drug books for nursing units because they are concise and nursing focused without sacrificing vital information for patient care.  For example, there are still the expected nursing considerations listed but information such as evidenced-based off-label uses are also included.  Other nice points:1. I love the alpha listing of drugs as opposed to listing by drug category first2. The cover remains one of the most durable drug book covers I have ever used (so important when in constant use)3. Alphabet markings on the thumbing side of the book for quick location of entries4. Free online and mobile access to a constantly updated Lippincott "Nursing Drug Advisor"5. There is an attached book marking ribbonMy one suggestion for change, loose the pink color for the book mark.  It makes it look like an adolescent girl's diary. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality drug book that is quick to use </p>
+
+
+<h2> review.date </h2>
+  12-09-2012  
+<h2> review.text </h2>
+
+ <p> It bought it for help in my Pharmacology class, and still use it regularly at home and for other classes. Very easy to understand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's great. </p>
+
+
+<h2> review.date </h2>
+  04-12-2012  
+<h2> review.text </h2>
+
+ <p> I purchase the Nursing Drug Handbook every year because it contains the information I need in order to obtain the details about medications I take (and I take a lot of meds due to failing health).  This book offers me the information I need to either agree with my medical providers' medication decisions, or to ask them informed questions about my meds.  I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nursing 2012 Drug Handbook </p>
+
+
+<h2> review.date </h2>
+  10-31-2013  
+<h2> review.text </h2>
+
+ <p> This is a good guide, but it's very vague when it comes to mechanism of action. I wish it would say more than &#34;unknown&#34; for so many of the drugs. Otherwise, it has patient teaching, nursing considerations, side effects, etc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, but not enough on Mechanism of Action </p>
+
+
+<h2> review.date </h2>
+  03-06-2013  
+<h2> review.text </h2>
+
+ <p> This book is a must for any person atttending a nursing or LPN program. Easily written and well documented and a definite must </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Must </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

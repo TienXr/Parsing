@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00004W46O <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-03-2014  
+<h2> review.text </h2>
+
+ <p> Casper has been around for many years. It is still a clean movie and not like some of the trash they show the kids today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good movie for little kids and big kids! </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> Casper movies are always fun, and this one isn't an exception.  I've seen it a few times over the years and will likely see it again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great </p>
+
+
+<h2> review.date </h2>
+  02-07-2010  
+<h2> review.text </h2>
+
+ <p> I choose this rating because the movie is good. What I like about the movie is that Casper, The Friendly Ghost, is home for the holidays in this spooktacular adventure! Casper is tasked to scare at least one person before Christmas Day. As usual, the kind hearted Casper has a hard time trying to scare anyone, so The Ghostly Trio hires Casper's identical cousin, Spooky, to do the job. What I dislike about the movie is that I wanted to see more of it. I would recommend this movie to other people. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CASPER'S HAUNTED CHRISTMAS </p>
+
+
+<h2> review.date </h2>
+  03-15-2014  
+<h2> review.text </h2>
+
+ <p> This is a holiday favorite with my family and I would certainly recommend to fans of Casper the friendly ghost.  It's fun and entertaining! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Family Favorite </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> It was just not what we thought it would be so we stopped watching it since we were so bored with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boring </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> Great Christmas show that the kids enjoyed and had a good Christmas message.  I enjoyed the old time characters too! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> See Casper show some Christmas SPIRIT! </p>
+
+
+<h2> review.date </h2>
+  01-31-2014  
+<h2> review.text </h2>
+
+ <p> A fun movie that my 9 year old son loved.  It was his first Casper movie and he really enjoyed it.  I am sure he will watch it again next Christmas. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Christmas Movie </p>
+
+
+<h2> review.date </h2>
+  09-01-2005  
+<h2> review.text </h2>
+
+ <p> I purchased this for my nephews birthday. He loves old cartoons just like me and my brother watched when we were little. This is a great example of old cartoons my nephew loves it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great for kids </p>
+
+
+<h2> review.date </h2>
+  04-06-2013  
+<h2> review.text </h2>
+
+ <p> IT LOOKS LIKE A LOW END COMPUTER GAME AND WATCHING ONE FOR A LONG TIME.  DIDN'T LIKE IT.  DIDN'T LIKE IT FOR THE KIDS, NOT ANIMATED ENOUGH. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> POOR GRAPHICS </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> This movie may have been progressive when it was first released but the graphics are a bit silly and dated now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute for small ones </p>
+
+
+<h2> review.date </h2>
+  01-23-2013  
+<h2> review.text </h2>
+
+ <p> Our kids love casper and this video was a great addition to our vast movie collection. We had a great experience watching Casper's Haunted Christmas. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Casper's Haunted Christmas </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

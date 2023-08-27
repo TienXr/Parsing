@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00634MLO0 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-18-2012  
+<h2> review.text </h2>
+
+ <p> This is my first WB Triple Feature blu-ray set so I was a little weary of how these sets would be produced mainly due to some pretty crummy standard DVD sets I've seen over the years. Luckily with these blu-rays, this doesn't seem to be a problem.  Like the previous reviewer has said, you get each film on its own individual disc complete with its own special features.I won't go into specific reviews but overall I am extremely happy with this Nature Gone Wild-themed set. Here you get the two 4-star movies Twister and Poseidon as well as the 3-star, made for tv feel movie The Perfect Storm.  All three look and sound amazing and are sure to entertain for years to come without losing a single pixil or color scheme. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrific Space Saver </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> The Poseidon disk skips about half way through. Not a bad flaw, just annoying. The Twister soundtrack is just amazing in BluRay. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of three disks skips a bit </p>
+
+
+<h2> review.date </h2>
+  01-12-2013  
+<h2> review.text </h2>
+
+ <p> So, I can never get enough of A Perfect Storm, I just think it's a great movie! I just love the story and I've always respected fishermen, their work is pretty bad-a** to be honest, and this film sort of gives a realistic view on that lifestyle.Twister is nostalgic to me, it's the movie I watched on my first date ever, and I still enjoy it. Hadn't seen it in a long time before this purchase, and I must say; I still like it. It's not the best movie you'll ever see, but it's cool. If you think tornadoes and stuff are fun then this movie is something for you. Action for both men and women, even better if you're together. Some awesome members of the cast, like Phillipe Seymore Hoffman.Poseidon: Don't really care for it, but I guess it's a decent movie for that one day when you don't really know what to watch, and you just wanna see something that's a totally average movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love two of them </p>
+
+
+<h2> review.date </h2>
+  01-11-2013  
+<h2> review.text </h2>
+
+ <p> This dvd came fast and with no problems. I'm watching twister off this 3 movie set. No problems so far with the dvd. The twisters look so real and amazing. The blu-ray is great sound and picture. Real clear. If you love these 3 movies I would get them. Haven't watched the other 2 yet but at the price you can't beat it. Go for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great dvd </p>
+
+
+<h2> review.date </h2>
+  01-22-2013  
+<h2> review.text </h2>
+
+ <p> Yes, you read right. this is Two great movies for the price of one. plus an extra movie to kill some time with. I saw twister, and Perfect storm in theatres and if you haven't seen these movies before. I'm guessing you live under a rock. but you can't beat this deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2 Great movies for the Price of One </p>
+
+
+<h2> review.date </h2>
+  03-11-2013  
+<h2> review.text </h2>
+
+ <p> Having watched all of these movies before in standard def, i thought i would buy the blueray version.  Well honestly, there isn't much difference, but since i only owned twister, for the price getting the three movies so cheap was a nice deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay.  Good for the price </p>
+
+
+<h2> review.date </h2>
+  02-24-2013  
+<h2> review.text </h2>
+
+ <p> great movie all of them and in one case saves room and space so I can buy more to fit on shelves. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great movie </p>
+
+
+<h2> review.date </h2>
+  03-22-2013  
+<h2> review.text </h2>
+
+ <p> I received this yesterday, opened and played The Perfect Storm. Problem with this order is that there was only one disc in the case and I see from other reviews that the case is supposed to contain 3 separate discs. I didn't get what I ordered. Now how do I contact customer service to let them know the product received was not as described. I ordered this because what I really wanted was Twister in Blu Ray. I'm disappointed because the only movie in the case is The Perfect Storm. While that's a great movie it's not the primary reason I ordered this particular disc. I thought it would be a great value with 3 movies. I certainly didn't get my monies worth on this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Other reviews say there are 3 discs in the case </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> Perfect combo of 3 movies. Love them all! :) If you are fan of something pretty realistic related to real life, i'll say get this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great! </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> I have only watched Twister so far. We were a bit disappointed in the reproduction of this classic as some seems become blotchy, pixelated, and lacked vividness in color. Other parts looked very good. In fairness we have not watched the other two movies as of yet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Twister/Poseidon/The Perfect Storm Blue-ray DVD </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> The Triple Blu Ray collection : Twister a disaster action drama film released in 1996 PG starring Helen Hunt & Bill Paxton as storm chasers chasing tornadoes across Oklahoma trying to perfect a data gathering instrument design to be released in to the funnel of a tornado called Dorothy while competing by a better funded team racing to get to the tornadoes outbreak first with a similar device also starring Jami Gertz , Cary Elwes and Philip Seymour Hoffman & directed by Jan De Bont from a screen play by Michael Chrichton & Anne Marie Martin & executive produces Steven Spielberg , Walter Parkes , Laurie Macdonald and Gerald R Molan .Poseidon is a disaster film about a luxury cruise ship on a year end transatlantic crossing to New York & gets hit by a Rogue Wave tipping the ship up side down similar story to the original released in 72 by Paul Gallico's Novel The Poseidon Adventure except better especial affects & directed by Wolfgang Peterson released in 2006 PG with a good documentary by the History Channel about Rogue Waves starring Josh Lucas - Kurt Russel - Richard Dreyfuss - Emmy Rossum - Jacinda Barret - Mike Vogel - Mia Maestro - Jimmy Bennett - Kevin Dillon - Andre Braughter - Fergie and Freddy Rodriguez .The Perfect Storm is another disaster Drama Action film  based on a true story directed by Wolf Gang Peterson released 2000 starring George Clooney - Mark Wahlberg - William Fitchner - John C. Reilly - Diana Lane - Mary Elizabeth Mastrantonio - Karen Allen - Bob Gunton and Michael Ironside  based on a non fiction book released in 97 with the same title by Sebastian Junger about the crew of the Andrea Gail that got caught in the perfect storm of 1991 , The Sword fishing boat The Andrea Gail returns home to port in Gloucester Massachusets with a poor catch after a month out at sea and desperate for extra cash the crew went back out to sea after 2 days rest heading to the Flemish Cap where their luck improves unfortunate the ice machine breaks and the only way to sell their catch before it spoils is to hurry back with two powerful storms and a hurricane the crew underestimate and get caught up in the middle of the perfect storm .The Triple Feature are Three Good Blu Ray Movies for a Great Price worth buying . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Triple Feature : Twister - Poseidon - The Perfect Storm  , Blu Ray </p>
+
+
+<h2> review.date </h2>
+  04-26-2012  
+<h2> review.text </h2>
+
+ <p> I've seen these DVD sets in the past that have "Double Features" and it's sometimes one movie one each side of the disc, or both movies on one side, and you choose which movie you want with the menu. It was very low budget, in my opinion.This Blu Ray "Triple Feature" actually has all THREE movies on their own disc, but in one case. It has dividers, just like a CD double album.I was very surprised and satisfied.So, for the price of $9.99 ( that was what I paid here on Amazon ) you get THREE Blu Ray movies.Very Cool </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Case ACTUALLY includes THREE discs !! </p>
+
+
+<h2> review.date </h2>
+  12-16-2012  
+<h2> review.text </h2>
+
+ <p> My kids love watching this so am I. Came fast and good packaging. The quality is awesome too and enjoy more </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My kids love it </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> I had twister and the perfect storm in regular dvd. but I wanted to get these movies in blu-ray. much clearer and better sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> triple feature </p>
+
+
+<h2> review.date </h2>
+  03-15-2013  
+<h2> review.text </h2>
+
+ <p> This package is a great deal. It is worth it for the great transfer of Twister alone. The other movies I don't like nearly as well, but they are good time wasters as well. 5 Stars for Twister, 3 Stars for the other 2, which leaves me with 4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Twister! </p>
+
+
+<h2> review.date </h2>
+  03-25-2013  
+<h2> review.text </h2>
+
+ <p> Great selection of great movies to put in 1 case  loved them all couldn't wait to get them and watch in blu ray </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> I love the combo pack blu-rays, not only do you get three great action films but also all in one case and ease of access. I also highly suggest checking out the origination Poseidon Adventure with Gene Hackman, the new one is fun but nowhere near as good as the original. Twister looks great and the audio is amazing and the perfect storm also gets a standard blu-ray transfer </p>
+
+
+<h2> review.summary </h2>
+
+ <p> you cant beat the price </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> Well I was looking to get the movie Twister for some time and getting it with two other movies and at that price what a deal </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Movies </p>
+
+
+<h2> review.date </h2>
+  01-11-2013  
+<h2> review.text </h2>
+
+ <p> This is a very good deal. 3 movies in one - for less than $10.00. I will not repeat what others have said about this triple features on bluray for they are all true! They are also encoded with the latest bluray audio tech - 5.1 DTS Master Audio, so, to those of you who have a Home Theater System (HTS)like i do, this is a deal. YES! some movies are not encoded, for the price. This one IS !!Damn ! that perfect storm and twister is SOOOO darn excellent on bluray 5.1 DTS Master Audio.Enjoy !! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bang for your Buck ! </p>
+
+
+<h2> review.date </h2>
+  02-21-2013  
+<h2> review.text </h2>
+
+ <p> Wow what a package. You get 3 great movies for less than you would pay for most DVD's and this is a Blu Ray set! Will keep you on the edge of your seat for a couple evenings! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3 Great Movies </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B006A1Z06W <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-17-2012  
+<h2> review.text </h2>
+
+ <p> I really don't understand why some didn't at least give this a 4 star. I really loved this book. I am so glad I got this on one of the free days because it was why more then worth it. Uncle Andy is really the guy every girl wants to find & bring home. But, his web of lies to get close to the girl of his dreams will cost & that's what keeps this story hopping. The layers of his web. A nice Christmas story to pass the time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Vision Of Sugarplums </p>
+
+
+<h2> review.date </h2>
+  12-01-2013  
+<h2> review.text </h2>
+
+ <p> I loved this story  :-) Rick was an idiot to do what he did in the first place, but i'm so glad things worked out in the end for him and Meghan :-)  and Annie was a little doll of a matchmaker :-) although it has its moments, it was a great feel a good book for the holidays, or really any time of year :-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great holiday read </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> This story was interesting and had me turning the pages trying to see if my suspicions were correct.  I have to tell you, I kept going back and forth with my thoughts due to the fact the story seemed predictable, but at the same time not convincing enough in one direction or the other.  The author did a great job with the story line. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Threw me for a loop </p>
+
+
+<h2> review.date </h2>
+  12-12-2012  
+<h2> review.text </h2>
+
+ <p> Jennifer Blake is an amazing author! I have read many of her novels and never disappointed. A Vision of Sugarplums is a wonderful Christmas romance. You fall in love with little Annie and her uncle Rick and "Aun moma". I believe anyone that loves babies and Christmas will love this book. Happy reading! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love, Love, Love! </p>
+
+
+<h2> review.date </h2>
+  01-13-2012  
+<h2> review.text </h2>
+
+ <p> A Vision of Sugarplums by Jennifer Blake is a romantic novella that goes against Mark Twain's adage that "truth is stranger than fiction," because fiction has to stick to possibilities (make sense). While Blake is very talented when it comes to painting a picture for the reader and she can write a moving love scene, I can't remember when a story has made me so furious. It requires one to stretch the imagination so far that you can't truly enjoy it. I can't go into all the details without giving away the story, but what I can say is if a man treated me the way Rick Wallman did Meghan, there is no way I would want a future with him--no matter his motivation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Atypical Romantic Novella </p>
+
+
+<h2> review.date </h2>
+  01-21-2012  
+<h2> review.text </h2>
+
+ <p> I don't think the author of A Vision of Sugarplums intended the story to be realistic so I was not disappointed when I found that it wasn't. I enjoyed reading this sweet story especially the parts about the baby, Annie, which brought back lots of good memories of my own daughters when they were little. The writing style was quite good and held my attention for the entire story. The characters' personalities were well-developed and likable. If you are looking for a light-hearted romance, then I recommend that you read this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet, though unrealistic, romance </p>
+
+
+<h2> review.date </h2>
+  01-03-2012  
+<h2> review.text </h2>
+
+ <p> Wish I could give zero stars.The story is unbelievable. It seems like the beginnining of a story you'd see on Dateline. I wonder if this all took place in the male character's mind and the untold story is that he used the baby to lure our heroine in and then murdered her.Spoiler Alert- this guy sits his sleeping baby niece under a Christmas tree while he shops and when the store owner mistakes her for an abandoned orphan, he doesn't correct her because he is lonely on Christmas Eve and wants to go home with the woman rather than go home by himself. He later realizes the only way this fantasy can end happily is if he gets the woman (a widow who lost her husband and young son in a car accident) to fall in love with him, so he works his magic and ends up seducing her so that he can intentionally get her PREGNANT to replace not only the baby she lost, but also the baby he wanted but his ex terminated. Super unselfish plan. Later, the woman discovers his 'lie of omission' and abruptly leaves. Yay! Good for her! Soon, however, the baby's real mother (Romeo's sister in law) brings the baby by the store and tells the woman that her walking away hurt Romeo so badly that he won't see the baby anymore.. and she should feel awful that she is depriving the baby of time with her uncle. So what does our heroine do? She hunts him down at his office to confess her undying love for him and beg him to father their child.1) who finds an abandoned child and and decides to take it home instead of immediately calling the police?2) what mother goes on a ski trip with her husband and leaves her 9 month old with her husband's unmarried brother for the baby's first Christmas?3) what sane woman invites a stranger to come home with her to help care for the orphan baby, even allowing him into her bed and a key to her apt to come and go as he pleases over the next week?I have other questions but I'll just say, I was more than disappointed in these characters, unable to believe they could ever really exist or that any part of this story could ever be true. This is easily the worst story I have ever read and I am sorry I wasted my time. I wonder why the author wasted hers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> waste of time </p>
+
+
+<h2> review.date </h2>
+  01-20-2012  
+<h2> review.text </h2>
+
+ <p> This was a free book from Kindle, my only reason for having it to read. It is short and sweet, something I read in between two intense books to help cleanse the palate, so to speak.It's Christmas Eve and Meghan Castle finds a nine-month old baby under her Sugar Plum Christmas tree display after closing her store. There was a lingering customer still there, Rick Wallman, who convinces her to take the baby home instead of calling social services. He also volunteers to help her.You shouldn't expect to find anything realistic about this story and it lives up to that expectation. While it's a sweet tale for the most part, it was hard for me to get around a deception of of this magnitude, perpetrated by Rick. He had many opportunities to redeem himself and chose not to. Of course, there's a happy ending but in the back of my mind I kept thinking Meghan shouldn't ever trust this man.I would have been okay with this being just a light fare romance if Rick had come clean as soon as he became aware of Meghan's history. That he didn't just turned me off in the end and tainted the "happily ever after." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not quite so sweet </p>
+
+
+<h2> review.date </h2>
+  01-18-2012  
+<h2> review.text </h2>
+
+ <p> This was a cute story and I loved both Meghan and Rick.  I love a story with a good HEA and this story delivers on that wonderfully.  As you read the story you can feel the magic of Christmas.  The only reason I didn't give this book a five was because frankly given the circumstances I'm not sure I would have been as quick to forgive Rick as Meghan was but I guess true love does conquer all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet HEA for the Holidays </p>
+
+
+<h2> review.date </h2>
+  01-01-2012  
+<h2> review.text </h2>
+
+ <p> I have NEVER read a book where I wanted the male lead to go to jail more than get the girl. Start to finish I just kept hoping against hope that the story didn't move in the direction it did. The guy is a grade-A jerk for keeping up his charade after hearing her life story, and the way he ensures she stays his his life after the big reveal is just skeezy. Jail. Seriously. UGH! Just wrong. I find the book completely repugnant, not romantic. Should be a lesson in when to file a restraining order... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Repugnant, not romantic </p>
+
+
+<h2> review.date </h2>
+  01-04-2012  
+<h2> review.text </h2>
+
+ <p> With just a small stretch of the normal scope from the reader, Blake plunges us into a fantastical holiday story of loss and the love that overcomes it.  Kept me in stitches, pretty much from beginning to end, mostly because I predicted it (bad personal habit, I'm afraid).  Still, I found the characters to be deep, if the language was somewhat flowery and over-the-top at times.  All in all, I enjoyed it, and it's inspired me to try my hand at the Holiday Romance genre. . . . Coming Thanksgiving 2012, lol! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Comical Holiday Read </p>
+
+
+<h2> review.date </h2>
+  12-12-2012  
+<h2> review.text </h2>
+
+ <p> Aww nothing sweeter than romance and babies. This is a sweet though slightly unrealistic story.  I enjoyed it and will seek out more by this author </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nothing better than babies and Romance </p>
+
+
+<h2> review.date </h2>
+  12-10-2013  
+<h2> review.text </h2>
+
+ <p> This was a great novelette with a heartwarming ending. The hero was lovable and I highly recommend this wonderful book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a great holiday story </p>
+
+
+<h2> review.date </h2>
+  03-24-2012  
+<h2> review.text </h2>
+
+ <p> First off I have to say that the story is well-written; the author is definitely talented.  I thought it started out well and was excited for an enjoyable read. But the actions of the hero were repugnant and I don't see how one could ever forgive him!SPOILER ALERT *******************It's bad enough that he was so arrogant as to decide he knew what was best for the Meghan but then the way he put it into action.  To me to deliberately and deceptively impregnate a woman (who you know doesn't want children) is tantamount to rape. Shame on Rick and shame on Meghan for forgiving him and welcoming him back into her life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointing </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> Manipulation to the nth degree!! It's more than enough for him to presume he knows what's best for her but he manipulates her into doing exactly what he wanted by getting her pregnant!! I usually love this author, and even this book is well written and engaging but this is just wrong. There were just so many other ways this book could have gone w/out turning it into something morally reprehensible and just disturbing. I'm sorry, but that's how it feels. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wrong on so many levels!! </p>
+
+
+<h2> review.date </h2>
+  06-04-2012  
+<h2> review.text </h2>
+
+ <p> I enjoyed this book and thought the author did a great job.  Very moving and fun to read.  I'll get more books from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sugarplums </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> This is a very sweet story. I enjoyed reading it and actually read it twice before I stopped. Its a nice quick read that will leave you with a smile. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good read </p>
+
+
+<h2> review.date </h2>
+  01-03-2012  
+<h2> review.text </h2>
+
+ <p> This was a cute story even if totally unrealistic and a little heavy on the adjectives/flowery language.  I figured out the "secret" before it was revealed, but you don't read romance novellas for their unexpected plot twists. As of this moment, it's a free read so if you have a Kindle or are willing to read on your computer, it's a risk free read.  Grade:  B- </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unrealistic, but cute </p>
+
+
+<h2> review.date </h2>
+  01-13-2012  
+<h2> review.text </h2>
+
+ <p> This story held my interest over a two day reading span (with other tasks between.) The character development was well done with both main and supporting characters coming to life in very short time. There is no hero in this story ... a somewhat villain dressed in rescuer's clothing, but found out and thoroughly scorned as result. The ending of the story was a bit idealistic, but that's what Christmas stories are! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet Visions, Sad Memories </p>
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> This was a well written very short novella.  Jennifer Blake is a talented writer and I expected this to be a well done story.  But, it is almost like a handsome stalker sets his sights on an unsuspecting woman.Rick is a very nice man who has charm and intelligence and a great sense of humor.  But, he misrepresents himself from the very beginning.Meghan owns a holiday store and has the hardest time of her year dealing with Christmas because of her past.There is a baby who is absolutely adorable and the catalyst for the entire story.I recommend this book to any romance reader who can set aside a sense of realism and simply enjoy the ride toward true love. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VERY SHORT - VERY SIMPLE - THE ROAD TO TRUE LOVE </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

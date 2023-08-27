@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1940415217 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun romp with Bill, not much new </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This entry in the series introduces the new big bad that will be the primary driver of the dramatic conflict for the next book or two.  Favorite characters are back, Bill is still a mensch.  Saying anything else is a spoiler.  All-in-all, workman-like entry in the series -- you want it if you mean to continue the series..... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great series! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am so in love with this series! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love Bill the Vampire </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really, really enjoy the Bill the Vampire series.  The characters are interesting and the plot continues to hold my interest.  Rick Gualtieri's style reminds me a bit of Chris Moore who is another of my favorite authors.  I eagerly await the next book and was glad to read that the series is only half way complete. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good monster / vampire story but series is starting to take itself too seriously </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sally returns with snarky flirting, Bill and his nerd friends continue on the edge of stupidly, baiting those who can rip their throats out.  The war enters early stages and at least one major new player is introduced.  While Bill does not show any signs of brilliance his previous total lack of a clue and ineptness is also missing.  He reacts as if he is not a complete dimwit as he faces new challenges.  Unfortunately this results in a much more traditional story.  A good story but lacking the unique quirkiness of the first Bill vampire novel, which I feel was the best in the series because of this blend of monsters, humor and the ultimate dweebs.So if you like vampire versus monsters with humans as a sideline this still a good book.  But it more of straight forward monster story and the overall plot of Bill's final destiny and the war between monsters does not progress much.  Gan, the tweenage kickass, anime look alike, does not make an appearance.  Alexanders showing is fleeting but the Wanderer (James) has a large role albeit little insight into his character or past.Although you can read this book stand alone, don't start series here.  You will miss the sly innuendos, the references to past happenings and mostly this book is just not as much fun as earlier books in the series.  While this book is OK for followers of the series to keep track on Bill's progress and entertaining, it leaves no closure and opens new mysteries creating a slightly frustrated reader hunger for closure on some topics.Also as a passing thought since Bill is such a  sympathetic smuck I am also rooting for him to take advantage of opportunities and get laid more often (not just in his make believe fantasy lies to his friends). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> not so happy </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> While I will continue to read Bill's story. I was mildly disappointed with the lack of conclusion. I despise cliffhanger endings and usually get angry and return the book and refuse to buy anymore.Otherwise book was up to the task </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great fun! Can't wait to see what happens next. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Though reminiscent of The Dresden Files, I love the humor and the interactions of Bill's friends.  The series is easy to read and fun. I recommend the entire series and I can't wait to see what happens next. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Felt short with no real conclusion to this "chapter" </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Let me start by saying, I really like the Tome of Bill series and I was excited to see this new installment. This book is setting the stage for the remainder of the series. The world gets bleak and crazy with a lot of bad supernatural stuff happening. It's kind of like &#34;The Empire Strikes Back&#34; in that way where this isn't a happy ending.I was disappointed however in the lack of a big ending of any kind. There's a showdown, of course, but it doesn't have a real conclusion. Overall it was a pretty soft ending which was disappointing and caused me to deduct a couple stars.Overall this felt like a brief transitional title, wrapping up the end of the events in the last book and setting the stage for next few. If you've been reading the series you still -have- to buy this one (and it definitely is priced right) but you should lower your expectations on what to expect from this chapter of the story. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> disapointed, couldnt finish </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Five books in and bill is even MORE one dimensional than he started as.At this point i find myself more interested in every other character that has a dialogue, internal or external, that doesnt consist of two swear words, one of which is in the title.I think...im done. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Although it wouldn't be possible to recapture 100% of the fun from the first book </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm addicted to the Tome of Bill series.  Although it wouldn't be possible to recapture 100% of the fun from the first book, Mr. Gaultieri does a fine job with the fifth installment (sixth if you count Sally's solo adventure - a great read BTW).  As with any series, balancing character development with action and pacing is a challenge - one which the author meets and handles deftly.  Due to the plotline's development (essentially leading towards Armageddon of some sort), this story takes a darker turn, but preserves the overall comic touch that makes the series so enjoyable.  The Tome of Bill series is a unique blend of humor/sci-fi/horror and urban fantasy - a must read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> "Bill the idiot" returns... </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yet another episode of Bill moving the story-line backwards, making things even more difficult for &#34;everyone&#34;, since the world is now included.The interactions between Bill and his apartment-mates, &#34;cute&#34; in the first book or two, have become annoying. A &#34;Kill Bill&#34; episode might move the story along a bit more quickly.I understand that the author is writing &#34;Bill&#34; as someone who resists change, often to the point of idiocy. He's trying to maintain his connection to his pre-vampire days, though everything has changed. It's about time that Bill (and his friends) did a bit of growing up, and for Bill to actually take responsibility for his actions... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've been reading 100-150 books a year for over a decade. And that's quite a few authors worth of books. Gualtieri's Tomes of Bill rank right up there with the best I have ever read. When we almost had another generic tragic vampire with smoldering good looks, Rick Gualtieri stepped in with sarcasm and Bill and saved the day. In other words, read the book, you won't be disappointed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GREAT Book!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Once again well worth reading! I Love Bill the &#34;Geek&#34; vampire's adventures! Now I have to wait and wait for the next book........ </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> oh, come on - we are in "let's see how long i can make this series" territory </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sorry, but i have to say things are not just getting repetitive, but i get the feelingThe author is in "let's milk this" mode. let's see now. Cliff hanger finish to prpare next book? Check.New menace rises up to fight against, with no resolution? Check. Plot turns with no intenal consistency? Check.So basically a whole book with our hero and his buddies staying in basically the same place they were before.Pity - i think the author has the ability to spfinish this series, and move on to other and better things. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GreAt Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like but unless the next installment is in don't read the bonus chapter unless you like a cliffhanger.  I really can't wait for it, as these books are like a non stop rollercoaster of action. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good read! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> More books sooner!  Bill, vol 6, should be a really good book to laugh with as he continues to stumble into success.  Looking forward to the next release. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hello </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you have been following the tome of Bill you know things are headed downhill for the world.  Bill is no Owen Pitt, Hard luck Hank or Repair man Jack...and he seems to screw up royally.  An enjoyable read with a nerdy vamp that may have unleashed the end of the world as we know it.  Bought, downloaded, and consumed in one afternoon. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> another winner!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved this latest installment. Although it does end in a cliff hanger, it makes me even more anxious for the next book!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> If Your A Boorish Snob Move On </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> But if your not, this is a very good choice.If you have followed the misadventures of Bill you'll enjoy Goddamned Freaky Monsters.If not I would suggest starting from the beginning otherwise you will not get the references and miss out on a great ride.This installment while a bit short will leave you wanting more and is hard to put down.As always it is a quick paced and fun book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent addition </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was slightly hesitant with this book because it seemed like the story in the last book was getting more serious.  This entry into the Tome of Bill hearkens back to the earlier books.  It's got shenanigans, raunchy bits, it's just funny.  Pick it up, you'll like it.  The only complaint i have is that the ending didn't really go anywhere.  Had something been wrapped up, it would have been a 5 star review from me for sure. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

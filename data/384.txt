@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1937830969 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-31-2014  
+<h2> review.text </h2>
+
+ <p> Unbelieveable life, yet it is all documented.  Challenging.  The book is beautifully presented--photos,inserted quotes, etc.  Easy read, though not what I would call light reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OUTSTANDING </p>
+
+
+<h2> review.date </h2>
+  12-01-2013  
+<h2> review.text </h2>
+
+ <p> My heart and mind have been opened. I laughed, cried and prayed right along with the story and recommend it to anyone who needs a clearer view of what sacrificing our hearts and lives to God really means. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The windows of my heart have been opened!! </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> Growing up, I wasn&#8217;t much of a reader. However, for the last twenty years that has changed. I have read literally hundreds of books, sixteen already just in 2014. I tell you this because I truly feel that Dying Out Loud by Shawn Smucker is the greatest book that I have had the pleasure of reading. With every turn of the high-quality glossy page, I was personally challenged.This book is a biography of sorts, which chronicles the life of San Diego Police Officer-turned-missionary, Stan Steward. Though he was serving his community and the youth at his local Teen Challenge Center, he felt like God was calling his family to something more. That something more would take them &#8220;to where no Christians have been.&#8221;The Steward family packed up and moved to Istanbul, Turkey, a place that is 99% Muslim. It is a place of 17 million people and less than 3,000 Christians. Hardly an easy locale to move your wife and two kids.This beautiful story takes you into the heart of a family whose heart is broken for the Muslims in Turkey.Stan had the ability and blessing from the local imam to pray in the mosque to his Jesus. He would later be diagnosed with terminal cancer and would choose to die out loud, showing these people that there is a hope after this life, in Christ.I highly recommend this book to every reader, regardless of age. Definitely view the videos (via a QR Code) at the beginning of many chapters.It&#8217;s an amazing story of an amazing person who has challenged me to love my neighbor and it has changed the way I view the Muslim people.Disclaimer: I was provided this book from the publisher and my views and thoughts are that of my own and have not been influenced by any outside resource. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A truly beautiful story </p>
+
+
+<h2> review.date </h2>
+  10-12-2013  
+<h2> review.text </h2>
+
+ <p> Dying Out Loud is a beautifully crafted biography. Mr. Smucker has the soul of a poet,  and in his able hands the faith journey of Stan Steward soars among the heights. And it is the faith of the Stewards, their absolute trust in a loving, and good,  God which shines through on every page.Read this book to be encouraged. Read, and be challenged to pray "God, use me." For He does indeed use willing vessels.Even if they are poured out like a drink offering. In the end, I'm put in mind of that scripture, which says "Unless a grain of wheat falls into the ground and dies it abides alone." Stan Steward become, like His Lord, that grain of wheat (in God's hands) for the Turkish people he loved so much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> God, Use Me </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> This was an interesting account of a man and his family's call to the Muslim people. I was so impressed with how they respected the culture and fit it. This opened the door for them to speak about their faith. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sold-out for Jesus </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> Wow!  How inspiring and encouraging!  To reach the lost souls...incredible how our God works!  Wonderful book...Thank you for sharing from your hearts! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic read </p>
+
+
+<h2> review.date </h2>
+  11-02-2013  
+<h2> review.text </h2>
+
+ <p> It's inspirational and shows that with love and kindness people can live and work together well.  However more important is the fact that God has a plan for us and will lead us down the right path. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inspirational & informative </p>
+
+
+<h2> review.date </h2>
+  10-04-2013  
+<h2> review.text </h2>
+
+ <p> Stan was a man after God's own heart. He lived his faith in what the world sees as a hostile environment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Faith in Action </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> This was purchased as a gift for a friend who heard it being talked about.  They have been thrilled with the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gift for friend </p>
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> Truly a family called and empowered by God to die out loud. I hope as I am now able to live my life out loud that I too will find the grace to one day die out loud as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing </p>
+
+
+<h2> review.date </h2>
+  11-30-2013  
+<h2> review.text </h2>
+
+ <p> I liked several aspects of how this book portrayed missions and emphasized that the Bible is for everyone, even Muslims. As is often the case, on the mission field, the local people are often what makes or breaks an experience - and the author did a good job in portraying the Turkish people. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read. </p>
+
+
+<h2> review.date </h2>
+  11-01-2013  
+<h2> review.text </h2>
+
+ <p> Marvelous story of one family's walk down the road of long obedience together. Inspiring, convicting, thought provoking, moving.  Looking forward to the hearing how God uses their work for Him in others' lives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Obedience to the end </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> Shawn Smucke us a *bleeping* fine author,but this isn't his best book, because it's confusing.It's described as a biography, but it's written in the first person.  That would make it an autobiography, wouldn't t?  And yet the details are all wring.  The protagonist is from the left, not Pennstlvania, and the wife's name is wrong.  I know,you're thinking &#34;big deal&#34;, but a lot of these things make it difficult to understand.It's not a spoiler if I point out that the protagonist dies, right?  I mean,it's right there in the title.  However, there are hints of things to come scattered through the book,suggesting tha tthis is a memory,rather than a contemporaneous journal.  I kept wondering how this could be written after death.  I mean, I died in the hospital, and doctors resuscitated me, but if I referred to that as death in a title, readers would feel cheated.And he really DOES die,in the way one ordinarily thinks of death,but that;s not the last page of the book; again,I was confused.Now I'm wondering if the protagonist actually existed, or is a fictional construct.Despite all the confusion, Shawn's writing is strong enough to make this an enjoyavle narratuve.  I'm glad I invested the time to read it.  Shawn continues to impress me as one of the finest writers of his generation, </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A luttle confusing </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

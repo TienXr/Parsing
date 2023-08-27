@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B008KBGAT6 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good price, looks great, forget replacement  these are better than the originals. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good price, looks great, forget replacement  these are better than the originals.  Length is good, quality is good ( surprised) . </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Made my headphones work like new </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> not authentic but perfect for this price </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> as much as my kids destroy thier cords this is the cord at the right price and i bought more then one just so i had extra on hand </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been needing a new cable for well over a year and a half, but had not been able to purchase it due to high price ranges.. Back when beats was with Monster cable, they were charging me $60 for this same cable.. So Glad I got it at this price! Paid less than $5.00. They work like a Charm!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> These works outstanding </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> they are high quality, and are exactly like the one that came with my beats originally. I don't think that they are authentic however, and I believe they are mock ups </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's a stereo cable alright. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perhaps I misunderstood. I thought it was an actual Monster Priducts made cable. It isn't. The cable lacks the soft, suppleness of the original stereo cable that came with the headphones. This replacement cable is thick and stiff.I actually still have my original cable, but I bought this because I liked the idea that the 1/4&#34; adapter was tethered to the cable because I lost mine. Well, the tether is just a flimsy rubber bungee that I'm certain will break if put to the test.Oh well  I guess I have a cable that I can leave behind plugged in my sound board while I take my headphones with me to enjoy w/ my MO player. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good cable </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great cable, working in a studio this is exactly what I needed, only issue is how they package it.. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exellent replacement cord </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This cord is easily as good as the original cord that came with my set of Beats Pro headphones. I can see or hear no difference in quality. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent replacement! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was having trouble with the original cord on my Beats by Dre (Detox Edition). With the purchase of this cord I'm not having any trouble with my headphones. I can actually hear out of BOTH headphones now! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Better than the Original </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought these to replace my original Beats Pro cable and they fit nicely! Would be again if needed, but looks like they will last longer than the original ones. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

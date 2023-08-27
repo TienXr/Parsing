@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 6302841771 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-17-2012  
+<h2> review.text </h2>
+
+ <p> Ghost of Frankenstein, 1942 filmThere is a meeting in the village, people complain about the poor economy due to the monster. Igor plays a horn beside a grave. The people want to destroy the castle of Frankenstein. [No thought of a tourist attraction?] They will blow it up. Igor throws stones down at the people. Explosives create damage. Will this free the buried monster? The pair travel into the country. A lightning bolt hits the monster. They continue to travel to see Ludwig, the second son of Doctor Frankenstein. Children play in the village street. A girl gets her ball back. Men attack Franky (the monster) and put him in chains. Igor asks Dr. Frankenstein to cure Franky. He looks into the old records. The Prosecutor questions Franky. That little girl has no fear of Franky. The sound of the horn calls Franky, they make a getaway in a wagon. Frankenstein's daughter Elsa reads the notes on the experiment.It is a dark and stormy night. The man-made monster enters the house. Gas is released into a closed room to disable its occupants. Frankenstein decides to destroy the monster. "It would be murder!" Can Franky be cured by a brain transplant? But whose brain? Franky is kept in a hidden room. Igor has a suggestion for the operation. The police search for Franky. [No search warrant?] But Igor and Franky are gone! Later they return to the castle. Franky wants the brain of that girl! [A problem with gender identity?] Igor will gamble for life everlasting. The village people march to Frankenstein's mansion to search for Franky. But a fire erupts to destroy Frankenstein's mansion. Will this be the end of Franky? [Not if they can sell another movie.] Will Frankenstein meet the Wolf Man next year?Note the changes in actors in these films, few continued for a sequel except the stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't Mess with Nature </p>
+
+
+<h2> review.date </h2>
+  06-25-2000  
+<h2> review.text </h2>
+
+ <p> This was the first in the long line of slickly produced Universal monster programmers that cannot compare to the old creaky atmospheric thrillers of the early 1930s Universal era(Frankenstein,Dracula,Bride of Frankenstein,  Invisible Man, The Mummy, Dracula's Daughter,etc).  Lon Chaney plays  the monster like some kind of mindless robot and Karloff's monster was more  true to the sense of Shelley's creation in the novel.What makes this film  good, but not great is the great character acting of Lugosi as Ygor, the  quick pace of this style of programmer film, beautiful Evelyn Ankers(SCREAM  QUEEN OF UNIVERSAL!), and plot that would later become characteristic of  the Hammer-Cushing Frankenstein series where he was always doing those  crazy brain transplants! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ghost Lacking, but still slick Universal horror </p>
+
+
+<h2> review.date </h2>
+  05-31-2004  
+<h2> review.text </h2>
+
+ <p> This text refers to the transfer for the Frankenstein Legacy Collection.The fourth film the series of Frankenstein films began the swan dive that ended as a belly flop. The return of the monster was kept as plausible as could be expected. It also retained continuity with the series. Ygor's return didn't make any sense though. No decent explanation is ever given for it. It just proves that a good villain can't stay in bad guy heaven when there's megabucks to had from a sequel it seems. The studio heads decided the film needed new "Frankensteins" so they made up a new set of relatives. The plot took a (ridiculous) turn that started and finished right there. And so it goes ...The news isn't all bad though. The overall "look" of the film is excellent. Universal had creating the atmosphere for their "creature features" down to a fine art. The sets are good. The lighting (as usual) is excellent. Today's filmmakers could learn a lot by studying the work done in these features. Some of the acting is pretty good as well. Evelyn Ankers is every bit as engaging as she was in anything she appeared in. That lady always filled the screen with charm and presence. She never seemed to turn in a bad performance and could deliver the most inane dialogue with the utmost of conviction. Her "screams of terror" are classics. And she always seemed to enjoy doing these flicks. Lionel Atwil was a regular player in Universal's line of horror and mystery pictures. He's great as the humbled but still proud Bohmer. He never turned in a bad performance. Cedric Hardwicke is perfect as the father figure gone wrong. Most of the characters these people portray were pretty shallow ones, basically fixtures needed so the action could take place. That they could become sympathetic ones is a tribute to the actors who portrayed them. Bela Lugosi reprised his role as Ygor and he managed to add some depth to the character. He gives a pretty good insight into the pain the character suffers, enough to make him sympathetic, but not enough to make him likeable. It takes a good actor to pull that off.Lon Chaney's portrayal of the monster appears to be a case of a good actor being handed a bad deal. For some reason the monster was cast as a one-dimensional brute. He was stiffer than before as well. It's hard to say whose idea this was. It's not likely to have been Chaney's. Lon was notorious for being drunk on the set but he generally brought intelligence and commitment to most of his roles. He still brought an air of menace to the role and he conveyed the pure raw power of the creature well but the other facets Karloff had given the character were missing. The make up job on the monster looks cheap as well. It's hard to believe it was done by Jack Pierce, the man who did the work in the previous "Frankenstein" features. Pierce was probably faced with budget cuts and/or time restrictions. Whatever the cause, he was far better at his craft than this vehicle shows. These things were probably the result of decisions made by the people who controlled the studio. In ay case they set the trends characterized the portrayal of the monster throughout the rest of the series.The film is a lot of fun to watch though. Yes, a lot of things were done wrong but it's still enjoyable enough that it's hard to refer to it as really bad. The transfer to DVD for this edition is excellent. If you sit back and enjoy it for what it is it's still worth a look or three, even after all these years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Enjoyable to be Judged as Really Bad </p>
+
+
+<h2> review.date </h2>
+  01-05-2000  
+<h2> review.text </h2>
+
+ <p> This movie is a continuation of Son of Frankenstein with the monster, player by the great Lon Chaney, and Ygor, played by the Immortal Bela Lugosi, in search of the other son of Frankenstein. I felt that Chaney  played a more aggresive monster than Karloff did in Son of Frankenstein and  that the movie was faster paced.But it was never explaned how Ygor survived  getting shot in the last film and how if lighting could hurt the monster in  the previous film how getting struck by it this time made him stronger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as Good as the First four but still worth owning. </p>
+
+
+<h2> review.date </h2>
+  05-27-2004  
+<h2> review.text </h2>
+
+ <p> Much to my surprise, I actually enjoyed Ghost of Frankenstein much more than Son of Frankenstein.  I think the turn toward the big, dumb Frankenstein monster stereotype took place in Son of Frankenstein, so by this point (1942), all hope was lost for ever bringing to life the creature envisioned by Mary Shelley (I say creature because Dr. Frankenstein, not the creature, was the true monster).  There's no denying that Lon Chaney, Jr., who took up the role of the creature here in Ghost of Frankenstein, pales in comparison with Boris Karloff, but I actually found the monster more sympathetic this time around than last.  You won't see the type of pathos and innocence that Karloff brought to the role in the first two films, yet Chaney subtly shows a human side to the creature on a couple of occasions (and, to be frank, the script didn't allow him much room to maneuver in terms of developing his character).This film could easily have been called The Other Son of Frankenstein because, lo and behold, the son who restored life to the creature in Son of Frankenstein has a brother.  The timing aspects of the whole thing aren't very clear.  The film opens with the villagers we know so well storming the castle to destroy the curse of Frankenstein.  Ygor (Bela Lugosi) despite being shot numerous times by Dr. Wolf Frankenstein in the last film, still lives (hey, he had already survived a broken neck at the gallows years earlier); in the course of fleeing the besieged castle, he finds his good, monstrous friend (whom we last saw sinking into a pit of boiling sulphur).  After escaping the castle, Ygor decides to take the monster to the other Frankenstein brother.  Ludwig (Sir Cedric Hardwicke), a respected mental health doctor, is none too happy to see Ygor or to deal with the creature he believed had finally been killed, yet rather than destroy the monster, he decides to give him a new brain.  In this way, he believes, he can resurrect his father's shattered reputation and renew the good name of Frankenstein.Ludwig must be around fifty years old, which creates a problem.  The events of Son of Frankenstein took place some twenty-five years after the creation of the Bride of Frankenstein.  The original Dr. Frankenstein reportedly died very soon after bringing the female creature to life.  Obviously, very little time has passed since the events chronicled in Son of Frankenstein, so Ludwig should be, at most, in his mid-twenties.  I suppose that's neither here nor there in the final scope of things, however.  I must say I loved Hardwicke's performance here.  Ludwig is a serious fellow who never slips into the madness that claimed his father and brother.  He does agree to harbor the monster and to replace his &quot;criminal&quot; brain with a good brain, but his desire to substantiate his infamous father's work and to restore the family name are the driving forces behind his decision-making.  Everything might have turned out all right, too, if it weren't for Ludwig's assistant Dr. Bohmer (played by Leonard Atwill, who stole the show in Son of Frankenstein as the indomitable Inspector Krogh).  Bohmer taught Ludwig almost everything he knows, but one little &quot;miscalculation&quot; destroyed his career and forced him to assume the role of assistant to his former prot&eacute;g&eacute;.  It is in the pool of Bohmer's bitterness that the ever-resourceful Ygor finds the leverage he needs to pull one over on Dr. Frankenstein.  Ygor, you see, wants his own brain transplanted into the creature's body.As much as I respect and idolize Bela Lugosi, I really wasn't that impressed by his performance in Son of Frankenstein - I should say that I didn't think his character, Ygor, was worthy of Lugosi.  In Ghost of Frankenstein, however, I found Ygor to be a much more engaging fellow.  I still don't believe it is one of Lugosi's better characters, but clearly Lugosi contributed a great deal to the overall success of this movie.  Is Ghost of Frankenstein as impressive a film as the first two Frankenstein films?  Hardly.  It is, though - at least in my opinion - a much better film than Son of Frankenstein.  Chaney, despite his proto-Herman Munster appearance, turns in a very solid performance as the creature; he is not in the same league as Boris Karloff, yet he deserves much credit for his contributions to the evolving Frankenstein storyline. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Other Son of Frankenstein, with Chaney as the monster </p>
+
+
+<h2> review.date </h2>
+  12-07-2008  
+<h2> review.text </h2>
+
+ <p> The Ghost of Frankenstein was released in 1942 and was the last time the Monster would have his own movie, after this he would appear in only crossover movies. The Ghost of Frankenstein was the first movie in the series to have another actor to play the Frankenstein Monster who was of course played by the brilliant Boris Karloff. Lon Chaney Jr. now steps into the role of the Monster and he was probably the best choice for the role even if his performance was slightly flawed, which isn't all because of Lon Chaney.Despite popular belief the Monster isn't a walking idiot or is he really a villain. Whenever people refer to him as that I have to laugh since they obviously never watched these movies even though they claim they did. The Monster was very sympathetic at least when played by Karloff and the only time he was really dangerous is when provoked or scared. The Monster had almost this childlike quality that Karloff brought to the role, but he was hardly an idiot. Lon Chaney made a name for himself in the masterpiece The Wolf Man where like Karloff's Frankenstein's Monster Chaney also played a sympathetic character.But here in The Ghost of Frankenstein the Monster is not exactly a villain, but he's not the sympathetic character he was when played by Karloff. Quite honestly I liked Lon Chaney as the Monster. At first I didn't, but I was comparing his performance to Karloff's too much, which is understandable since he is playing the same character, but now after viewing this movie again and not comparing Chaney to Karloff I quite liked him and I would possibly rate Chaney as my 2nd favorite actor to play the Monster, but he is a distant 2nd.The Ghost of Frankenstein is a better movie than often given credit for and better than I have given it credit for in the past, while it offers nothing really new to the Frankenstein series in its own right it is an enjoyable flick. The original is a masterpiece of the genre and Bride of Frankenstein is one of very few sequels that actually matches the greatness of the original and in some ways out does it. It's not easy to keep that going and it's also easy to dismiss this movie when compared to the first 2 and I suppose even the 3rd part Son of Frankenstein. But again in its own right The Ghost of Frankenstein is a semi-classic.The screenplay by Scott Darling is actually pretty good overall; while not as creative as the previous parts and as I stated earlier this one doesn't really offer anything new to the series it is well written and has a solid bunch of characters. Maybe not everything here works, but the good is good enough to make up for any shortcomings. The script does borrow heavily from the original, which is fine since the original had a terrific script.This was the first of 3 Monster movies directed by Erle C. Kenton, as he would later to go on and direct the crossover movies House of Frankenstein & House of Dracula. Of the three, The Ghost of Frankenstein in my opinion was by far the best of the three. The movie runs at a nice pace, while the middle sections slowdown a bit Kenton always keeps the movie interesting and is able to build some decent suspense. Erle C. Kenton may not make a masterpiece of the genre, but he does make a really fun movie.Like I said before this time around the Monster is a bit more of a villain rather than the sympathetic character he was when played by Karloff. The Monster is a bit angrier and is a lot quicker to attack than he was previously. There are moments when you can see the humanity in the Monster in particular the scenes with the little girl Cloestine played by Janet Ann Gallow. But besides those scenes the Monster is a bit angrier and meaner and is quite different at times than he was in the other parts, but I suppose a different director and a different take on the Monster. But this time around he's a bit more of a villain. Even in Son of Frankenstein even though played by Karloff the Monster was a bit different than he was in the first 2.I did like what Lon Chaney Jr. brought to the role, but he was failed by his writer and director. While I did like the script and the directing, but the Monster wasn't given much to do. When I brought up how people see the Monster as a walking idiot it did sort of start around this time; even in Son of Frankenstein, the Monster wasn't given much to do, but just sort of stumble around. And here we have the same problem; I guess they both lacked the James Whale touch who really knew how to use the Monster. The problems with Chaney really weren't due to him. Bottom line is he's no Boris Karloff, but he does manage to bring a little more to the role than what he was given to work with.Bela Lugosi returns as Ygor and again is excellent in the role. By this time in Lugosi's career he was pretty much reduced to Poverty Row and when in a movie by a studio like Universal it was normally a cameo or a part that was either non-speaking or very little dialogue. Cedric Hardwicke is great as Ludwig Frankenstein and Evelyn Ankers one of the scream queens of the 40s provides an excellent performance as well as Elsa Frankenstein. Lionel Atwill is often forgotten, but he appeared in many of these movies for Universal and is always a pleasure to watch.This was also the last of the Monster that was created by Dr. Frankenstein, well sort of. I don't wanna give away any major details of the movie away, but after this in the next installments it isn't the same Monster by right, but in the next movie Frankenstein Meets the Wolf Man the final act of this movie was ignored and the Monster was back to being that of the original creation of Dr. Frankenstein. Bela Lugosi stepped into the role and is often knocked for his performance of the Monster, but he played the role the way it was meant to be played, but due to the editing all mentions of Ghost of Frankenstein were taken out and thus ruined Lugosi's performance, which wasn't so bad when taking into fact he's not the same Monster, but due to editing the Monster is now back to being the same Monster from previous parts his performance was ruined.Overall The Ghost of Frankenstein is a better movie than if often gets credited for. While this might be the weakest of the series (ignoring the crossover movies) it's still a pretty good movie with solid characters and solid acting. While Lon Chaney isn't anywhere near the level of Karloff as the Monster, Chaney still delivers an excellent take on the Monster and is probably my 2nd favorite. His performance was a lot better than even I originally gave him credit for. Again he's no Karloff, but Lon Chaney still made a great Frankenstein Monster. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly enjoyable sequel </p>
+
+
+<h2> review.date </h2>
+  11-26-2001  
+<h2> review.text </h2>
+
+ <p> When we think the classic Frankenstein's Monster, we think of Boris Karloff.  When we think of the Wolf Man, we think of Lon Chaney Jr.  This is part of the feel of this movie.  We are expecting to see Boris Karloff, but get Lon Chaney Jr.  The result is there is something missing in the pathos of the Monster.  Instead of looking at something not human, we look at some creature on the verge of tears.Following in this train of thought, we are not dealing with Victor Frankenstein.  He has died and his eldest son, Wolf, has been exiled.  Instead, we have Wolf's brother, who is a neurosurgeon helping patients of insanity and dementia.  He decides to destroy the creature, but upon a visitation of his father's ghost (which unfortunately was not played by Colin Clive), he decides to try to save the creature.Due to other characters' power trips, the brain-transplant experiment does not transpire as he hopes.The image of the Monster bringing a small child to Dr. Frankenstein and asking that the child's brain be transplanted to his body is a good one.  The doctor and his daughter point out that the operation would kill the child.  Upon hearing this, the monster allows them to take the child from him.Does the Monster think that he is helping the child, or does he simply want the innocence, trust, and understanding?  We never know for sure.  That is part of the draw to the Frankenstein movies.  What is the Monster thinking?Although Bela Lugosi is good as Ygor, he really can't pull this movie along.  It is a few films removed from the original and has the feel of a motion picture company trying to milk the Frankenstein schtick for all it's worth.  The music even sometimes seems to hint at lofty things that don't seem to follow with the film.If you are a fan of Universal Studios' monster films, then you must have this film for your collection.  If you are new to the films, then you should, at least, watch "Frankenstein," and "The Bride of Frankenstein" first. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Karloff </p>
+
+
+<h2> review.date </h2>
+  08-12-2005  
+<h2> review.text </h2>
+
+ <p> Boris Karloff was wrong when he objected to having the monster speak in "Bride of Frankenstein."  The progression of the character from the inarticulate brute of first "Frankenstein" movie was a smart move and the second film in the Universal series is the best of the bunch.  How wrong Karloff was about his most famous creation is amply proven in "The Ghost of Frankenstein," the fourth film in the series and the first with someone other than Karloff playing the monster (Karloff's daughter agrees with me).  Lon Chaney, Jr. gets the honors and he follows Karloff's lead from the previous film, "The Son of Frankenstein," where no longer speaks and is shuffling with a much stiffer gait.  In other words, Chaney is reinforcing the stereotype of the Frankenstein Monster that exists today.It is easy to defend the earlier films in the Universal "Frankenstein" series.  After all, the first two were directed by James Whales and stuck the closest, all things considered, to Mary Shelley's original novel, and Karloff played the monster in the first three.  By when we get to "The Son of Frankenstein" and "The Ghost of Frankenstein" the driving force of the stories is no longer the monster or his creator, but Bela Lugosi's Ygor.  Ironically, Lugosi had turned down the role of the monster in the first "Frankenstein," which then catapulted Karloff to stardom and codified his performance as the finest monster in screen history.  Consequently, I can look at Lugosi's two Frankenstein movies as his revenge (and not in a good way)."The Ghost of Frankenstein" was written by Scott Darling ("Charlie Chan at the Opera") from a story by Eric Taylor ("The Black Cat"), and was directed by Erle C. Kenton ("Island of Lost Souls").  Actually, this 1942 film is more "The Son of Frankenstein II" because the Dr. Frankenstein of this one is Ludwig von Frankenstein (Cedric Hardwicke of the 1939 version of "The Hunchback of Notre Dame"), another son of the original Dr. Frankenstein.  Ludwig helps people suffering from diseases of the mind and when he finds out that his father's monster is still running around his solution to the creature's apparent immortality is dissection.  If his father could sew a body together, then unsewing it to take it apart makes sense.  But Dr. Bohmer (Lionel Atwill) thinks this is a bad thing and Ludwig does not feel compelled to argue the point, especially after the ghost of his father shows up and tells him to play along in the family business.When their colleague Dr. Kettering (Barton Yarborough) is killed by the monster, Ludwig comes up with the bright idea of replacing the criminal brain in the monster's skull with that of Kettering.  However, Ygor, who has survived having his neck broken after being hung, and now has also survived the three bullets that Basil Rathbone put in his chest in "Son," has a better idea.  So the question is whose brain is going to end up in Chaney's skull, especially since the monster has his own weird suggestion.  There is a minor plot line involving Ludwig's daughter Elsa (Evelyn Ankers) and the local proescutor (Ralph Bellamy) adds little to this 67-minute film.Basically, the problem with this movie is that Lugois's Ygor is a more interesting character than Hardwicke's Ludwig and breaking the fundamental dynamic of a Frankenstein movie to make the insane assistant more important than the mad doctor is not a smart move.  I was almost going to round up on this one because of the twist provided by one of the basic medical concepts regarding transplants that comes into play at the end, but not quite.  The idea of transplanting a second, "better" brain into the monster's head is pursued more successfully in later films, most notably Hammer's "Revenge of Frankenstein" and "Frankenstein and the Monster From Hell."  Certainly the makers of these later films were inspired by the failure of "The Ghost of Frankenstein" to even come close to maximizing the story line's potential. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lugosi's Ygor completes his takeover of the Frankenstein monster </p>
+
+
+<h2> review.date </h2>
+  01-21-2009  
+<h2> review.text </h2>
+
+ <p> The Ghost of Frankenstein is one hour and 7 minutes long and was released on March 13, 1942. This would be Lon Chaney, Jr. only portrayal of the Monster. The film picks up years after the Monster is supposed to have died in the sulfuric pits. Instead his body has been in a coma like tomb. Ygor who we assumed was shot to death in the last picture is alive. The villagers at the town hall say that there is a curse on the town and it s the curse of Frankenstein. The villager's wants to blow up the castle and the Mayor thinks this is all non-sense, but does not want to be ousted in the next election. The Mayor gives and let the villagers blow up the castle. Later that evening the villagers head to the castle to blow it up, but Ygor puts up a losing fight to defend the castle. Ygor escapes through the catacombs and during one of the explosions some of sulfur falls off the Monster. Ygor removes the rest of the sulfur off the Monster and the two makes their escapes before the villages finally do them in. During a thunderstorm the Monster is struck by lightning and becomes strong again. In the last movie it made him and left him in a comatose state. The two head off to Wolf's brother, Dr. Ludwig Frankenstein so he can make the Monster better. The two are in the town of Vasaria and Dr. Ludwig Frankenstein lives in a chateau at the end of town. Before the two can head over there, the Monster wonders off and befriends a little girl named Cloestine. A bunch of bad boys have knocked her ball on a roof. Cloestine asks the Monster if he can retrieve her ball. (In Frankenstein and the Ghost of Frankenstein, little girls are not afraid on the Monster.) The Monster picks up Cloestine and heads up to get her ball. Why on his quest a couple of the town villagers try to take the Monster down and are killed. The Monster retrieves the ball and escorts Cloestine off the roof. He hands the little girl over to her father and the police arrest him. Erik Ernst, the town prosecutor, seeks out Dr. Frankenstein and asks him to come to the police station to examine the Monster. Dr. Frankenstein agrees to do so after he has finished some work. After Erik leaves, Ygor visits Dr. Frankenstein and blackmail the doctor into making him well. Ygor tells Dr. Frankenstein that he would expose the family heritage to the village Dr. Frankenstein reluctantly agrees to do so. At the police station, the Monster is being interrogated by the prosecutor and Ludwig makes his entrance. The Monster seems to recognize the doctor, but when Ludwig denies knowing the Monster, the Monster goes into a fit of rage. It is only through Ygor's music that the Monster calms down and escapes from the station. The two flee the village and later that evening heads to the doctor's chateau. Once there the Monster gets angry and accidently kills Dr. Kettering. Dr. Frankenstein and his daughter Elsa her some noise and hurry to the lab. The Monster captures Elsa and Dr. Frankenstein heads to another room and turns on some form of knock out gas on The Monster, Elsa, and Ygor. When everybody awakes, Elsa is in her bed, Ygor is now a prisoner, and the Monster is strapped to a lab table. The Monster is able to free himself from the straps, but before he can get completely loose Dr. Frankenstein is able to sedate the Monster. It is in the lab that Dr. Frankenstein decides the only way to kill the Monster is through dissection; take him apart piece by piece. Dr. Frankenstein asks for Dr. Theodore Bohmer assistant, but Dr. Bohmer will not do it. Later in the movie just as Dr. Ludwig Frankenstein is about to do the operation, the spirit of Dr. Henry Frankenstein appears. He tells them the Monster has a brain of a criminal but if good brain was but in there then the name of Frankenstein is restored. This convinces Dr. Ludwig Frankenstein to use the brain of Dr. Kettering. This time Dr. Bohmer agrees to help Dr. Frankenstein because it is not murder. Ygor wants nothing to do with it because the Monster will longer be his friend. The tell Ygor it is a new brain or he will dissect the Monster. Ygor reluctantly agrees to the operation. Ygor tells the Monster he is getting a new brain and he will be better. Between then and the operation the Monster leaves the chateau and head to the home of Cloestine Hussman. How the Monster escaped and how he knew with Cloestine lives the movie did not explain. The Monsters hears Ygor music and at first ignores it. The Monster kidnaps Cloestine and grabs her ball. In grabbing the ball he unknowingly knocks over a lantern and a fire begins. The Monster is back at the chateau Ygor tries to convince the Monster to let her go, but the Monster pushes Ygor and nearly crushes Ygor to death. In Ludwig study the Monster brings the girl to Dr. Frankenstein indicating he wants her brain in his head. Dr. Frankenstein is able to free Cloestine and gives the girl to Elsa. Dr. Frankenstein lures the Monster back to the lab. Early on Ygor had convinced Dr. Bohmer to put Ygor's brain into the Monster. When the procedure begins Dr. Bohmer removes Ygor's brain and presents it to Dr. Frankenstein believing it to be Dr. Kettering's brain. At then end of the operation the Monster face is wrapped in bandages. Back at the village and two weeks later the villagers are wondering what ever happen to Ygor and the Monster. They believe that Dr. Frankenstein is hiding the Monster. One of the policemen alerts Erik and he gets on his horse and rides over there. Erik convinces the villagers not to do anything until he has had a chance to talk to Dr. Frankenstein. Once inside the home he tells Dr. Frankenstein that his safety is in jeopardy and at that time Dr. Frankenstein takes him to the dungeon room to show what he has done. Once there Dr. Frankenstein starts talking and asking the Monster do you know who I am. The Monster speaks back in Ygor voice and Dr. Frankenstein is startled and shock by this. Ygor tells Dr. Frankenstein that he convinced Dr. Bohmer to put Ygor's brain into the Monster and now he has the strength of a hundred men. Erik escapes and locks the door as he leaves. Ygor breaks open the door and along with Dr. Bohmer and Dr. Frankenstein heads into the lab to gas the villagers. Dr. Frankenstein tries to stop them but is shoved aside. It is that moment that Ygor realizes that he is blind. Dr. Frankenstein tells Ygor that he has Dr. Kettering' blood in him and that his brain and Dr. Kettering's blood are not compatible and won't feed the senses. Ygor outraged by this kills Dr. Bohmer and start tearing the lab apart. In do this he sets the lab on fire and quickly the chateau catches fire. How Ygor got from the lab to the study the movie does not indicate, but Ygor is in the study when a beam falls on him and meet his end. During the fire scene of the movie, you can see the facial make-up melting off Lon Chaney, Jr. face. In Son of Frankenstein, the Monster and Ygor are portrayed as best buddies. In The Ghost of Frankenstein their relationship seems to come apart as the Monster no longer responds to Ygor control over him. The Monster is back in his old clothes like the original Frankenstein movie. One must assume the sulfur burns his old clothes and the sulfur cost him his eyesight as well. During the whole filming his eyes are not wide open. The movie loses itself after forty minutes and also is gone is the magic as well. The movie would mark the last time the Monster appears as a solo. Starting with Frankenstein Meets the Wolf Man, he must share movie with his fellow horror monsters. Ghost of Frankenstein movie gets a B- from me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You can't keep a good monster dead </p>
+
+
+<h2> review.date </h2>
+  02-22-2008  
+<h2> review.text </h2>
+
+ <p> Exit Karloff enter Chaney Jr. in the role of the monster! 'Ghost of Frankenstein' has the great sets and the atmosphere, but it lacks Karloff's depth in the monster department. Chaney Jr. is stiff as the monster and so enters the beginning of the brainless robot monster that inhabits the 'Frankenstein' films hereafter.Although this is not a classic, it is a very entertaining installment in the series. Lugosi,Atwill and Hardwicke..they're all here in this low budget fright fest which was one of the first cheap 40's Universal horrors. This is available on DVD in the Frankenstein Legacy collection and on a double bill with 'Son of Frankenstein'. The DVD transfers are very good. I rate this film 3 1/2 stars </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A GHOST OF IT'S ORIGINS, BUT IT'S STILL A LOT OF FUN! </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> The first film decides to explore the paranoia angle. Now that Frankenstein and Ygor are supposably dead, the son of Frankenstein has been exiled, villagers have reported seeing the supposedly dead Ygor and thinking that the Frankenstein's have cursed their town. Excited by the prospect of ridding themselves of evil once and for all, they set out to destroy the Frankenstein estate where the madness implanted itself years before. There they run into Ygor and discover that the monster has been trapped in lava of some kind, which has worked some kind of therapeutic healing on him. Determined to kill both of the villains, Ygor takes Frankenstein and escapes to another village, Vasaria, where Dr. Frankenstein's second son resides.There Ludwig is at first reluctant to involve himself, especially seeing how demented and evil natured Ygor is, but all chaos ensues anyway, particularly when the monster tries to befriend another young girl in the village and is misunderstood yet again. Ygor has plans on his plate, particularly acts of revenge against the jurors who originally ordered him hanged and are responsible for his broken neck.Social commentary is still strong in the films, and here it is pronounced even clearer. Frankenstein does commit crimes this time, but it's not because he is 'evil' necessarily, but in a way driven to it through ignorance of others around him and as a result of these treatments. He is led astray by a friend who he trusts, but of who is not someone to be trusted, and yet again this is another reflection on how the monster is treated. He knows no different because to him kindness is kindness and, because of lack of experience, he cannot differentiate between kindness and being used versus just simple, ordinary kindness. (Did that come off clue or have the drugs not wore off yet?)There are some nods to the previous installments, all of them well noted and pleasing. Director Erle C. Kenton is responsible for this production. This third sequel is still beautiful and gothic, although it may not be held in such high regards as its predecessors. Writers Scott Darling and Eric Taylor apparently gave this plot a lot of thought. Even though there are holes (like how the hell is Ygor still alive??), they are still trying with what they have and achieve a commendable enough effort.The ending wrap up is ironic, depressing, and eventful. It's a worthy ending to a strange and dark series, letting no one really come out as winners. A worthy finale to the series, yet still the weakest of the group because the plot is a bit too outlandish, it is still worth watching, enjoying, and of course remembering. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as good as some, but still great </p>
+
+
+<h2> review.date </h2>
+  06-22-2013  
+<h2> review.text </h2>
+
+ <p> Seriously underrated Frankenstein film that features Lon Chaney Jr. as the monster & Bela Lugosi reprises his great role as Ygor from the previous "Son of" movie.Unlike the previous "Son" movie, where the monster for the most part just follows Ygor's orders & kills people, I thought the monster in this movie was a bit more sympathetic & back to being that tragic "more sinned against than sinning" character. I especially enjoyed Chaney's scene with little Janet Ann Gallow who befriends the monster & in return the monster helps her get her ball back.Of course, the villagers who see this hulking brute carrying a small child up on a rooftop freak out & try to use force against the monster who lashes out in self-defense. As usual, the villagers are the ones who seem irrational & are provoking the monster based solely on his appearance which in turn doesn't lead to feelings of sympathy when the monster crushes one of them.As I said before, Lugosi is back as Ygor & just as he did in "Son", he completely steals the show, which is to take nothing away from Chaney, who I thought did an excellent job as the monster.Overall, I would say the "Ghost" is on par with "Son of Frankenstein" & one of the more underappreciated of Universal's classic horror films. 4 1/2 stars </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Ghost of Chaney... </p>
+
+
+<h2> review.date </h2>
+  09-27-2000  
+<h2> review.text </h2>
+
+ <p> Director James Whale created cinematic art in his horror films. Erle C. Kenton, this film's director, grinds out a programmer. Fear not.  We who bleed classic horror black &amp; white assert an entertaining programmer is good enough.  The first part of this movie has an exciting &quot;monster resurrection and revitalization&quot; segment.  The vengeful townspeople of the village of Frankenstein (look fast to see Dwight Frye) decide to destroy the castle ruins that housed the monster and Ygor in &quot;Son of Frankenstein.&quot;  The ensuing explosions disturb the earth around the dried sulfur pit containing the comatose monster (Lon Chaney, Jr.).  With Ygor's help, the revived creature wanders out into the desolate forest.  An electrical storm rages, and the monster embraces the lightning that strikes him in the neck bolts.  This wonderful visual image transcends the film's otherwise Grade B demeanor.  As Ygor exclaims, &quot;Frankenstein was your father, but the lightning is your mother!&quot;From this exciting beginning, the plot slides into a maze of betrayal, violence, and brain transplants.  Bela Lugosi scores as his second most famous film character, the crook-necked Ygor. His diabolical cunning exudes an aura of true evil.  The way he soothes the troubled monster by playing weird music on his strange horn enhances his mystique.  Ygor's scheming combined with the brute strength of the monster are a formidable force of darkness.  Lon Chaney, Jr's monster is not up to Boris Karloff's classic portrayal, but he does emote enough to make his scenes with the little village girl poignant.  Together, Ygor and the monster travel to Vasaria where another son of the fecund mad-doctor runs a hospital for the insane.  Cedric Hardwicke portrays Dr. Ludwig Frankenstein.  Ludwig considers dismantling the monster, part by part, limb by limb.  As he ponders, his father's ghost (hence, the title) appears to him framed against the dread machines and lab paraphernalia that can generate the electric violet ray of life.  The gauzy shade argues against Ludwig's plan to destroy the fruit of his father's labor.  Ludwig then decides to transplant a healthy brain into the monster, and the usual fiery result becomes certain.Fans will enjoy this monster-movie jolt from the Universal fright factory.  Collectors of classic horror films certainly need this addition to their video shelf.  Suspend disbelief and adjust your expectations accordingly.  ;-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lon Chaney fills in for Boris Karloff. </p>
+
+
+<h2> review.date </h2>
+  10-30-2001  
+<h2> review.text </h2>
+
+ <p> Boris Karloff saw the writing on the wall when he made his final bow as the Monster in "Son of Frankenstein" (1939). The actor knew his beloved characterization would become a one-dimensional prop in subsequent films - and he was right! Despite Universal's fine production values, "The Ghost of Frankenstein" (1942) represents a decided comedown from the high standards established by directors James Whale and Rowland V. Lee. It's B-movie hokum all the way, enlivened by an impressive opening sequence and Bela Lugosi's bravura return as Ygor. Admittedly, filling Karloff's boots was a daunting task, but Lon Chaney Jr. doesn't even try - it's a sullen performance that evokes neither sympathy nor terror. With the exception of Lugosi and the always-reliable Lionel Atwill, the actors go through the motions. W. Scott Darling should have been banned from screenwriting for his brain-transplant idea. Director Erle C. Kenton would do a better job with the underrated "House of Dracula" (1945). Though Lugosi reigns supreme, "Ghost" remains the weakest of Universal's Frankenstein sequels. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Decline of Frankenstein </p>
+
+
+<h2> review.date </h2>
+  06-25-2004  
+<h2> review.text </h2>
+
+ <p> Lon Chaney Jnr tries his guts out in this next installment of the Frankenstein series but unfortunately falls a little flat. Don't get me wrong , this is still a quality movie from Universal but Chaney is a little away from his usual character of the Wolfman and it is difficult to see him in any other role. I think Universal struggled a little with the Monster with Chaney and then Lugosi in the main role until Glenn Strange came along. Lugosi's Ygor becomes a little laborious but how could you not love the Master of Horror. Sir Cedrick Hardwick adds his professionalism to the screen and probably holds the movie together. All in all this is a pretty good flick and is great addition to anyones collection </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chaney tries hard </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

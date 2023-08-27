@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004G6TA1Y <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-25-2013  
+<h2> review.text </h2>
+
+ <p> This should be such a simple part to manufacture, yet they fail at reproducing the simple quality of the original Apple part. It doesn't fit right, it's not solid when inserted in the wall outlet and it doesn't stay put in the device (airport express in my case)I do not recommend this part, at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very bad copy of the original </p>
+
+
+<h2> review.date </h2>
+  12-28-2011  
+<h2> review.text </h2>
+
+ <p> The quality of this plus isn't perfect but acceptable. Its color is gray and not white. But for $2 - great deal! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm satisfied </p>
+
+
+<h2> review.date </h2>
+  09-06-2012  
+<h2> review.text </h2>
+
+ <p> saludoseste accesorio es muy conveniente para viajes, reduce la incomodidad de llevar m&aacute;s cable sino el del cargadorpuedo decir que es una muy buena ideagracias </p>
+
+
+<h2> review.summary </h2>
+
+ <p> muy conveniente </p>
+
+
+<h2> review.date </h2>
+  10-11-2011  
+<h2> review.text </h2>
+
+ <p> This little item was just what I was looking for. The plug on my MacBook was getting screwy (prongs flipping independently, not making a secure connection) and I didn't want to pay $30 or more for a new power adapter. The item arrived sooner than promised (from seller Gamesalor) and in fine shape. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just the thing for my old MacBook </p>
+
+
+<h2> review.date </h2>
+  02-12-2011  
+<h2> review.text </h2>
+
+ <p> I got this for my macbook air charger. The color is off purple, where the rest of the adaptor is white. Other than that it works fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Off color </p>
+
+
+<h2> review.date </h2>
+  11-22-2011  
+<h2> review.text </h2>
+
+ <p> I ordered 10 "duck heads" so that I could have them available for customers who simply needed that one part and didn't want to buy a brand new power adapter. When they came in virtually every single one was defective. Not only that but some of them had dirt all over them. The prongs were glued in the down position, making them useless. Before leaving a review I gave them a chance to correct the wrong and they claimed to send replacements, but sent them to the wrong address. DO NOT BUY FROM THIS SELLER!!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ordered 10 - All were Broken - Incompetent Seller </p>
+
+
+<h2> review.date </h2>
+  09-21-2012  
+<h2> review.text </h2>
+
+ <p> Works, price was good and no complaints. Five stars all the way. Quality made product that should give years of service. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what it is advertised to be </p>
+
+
+<h2> review.date </h2>
+  01-27-2012  
+<h2> review.text </h2>
+
+ <p> Someone commented on the color and they were right, it's like an off-white grayish type color. It's a bit stiff, but once you plug it in, it works for my macbook pro.My only real problem with this duck head is it doesnt sit firmly in place, I see space between the connections and I have to force it in.You can't have it in cake and in bake I guess - for the price and productivity, I'm okay with this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as expected...but works! </p>
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> Nice and small, lightweight, pretty strong. I mean it's mostly plastic but it does work like it's supposed to. I'd buy it again </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product </p>
+
+
+<h2> review.date </h2>
+  10-12-2011  
+<h2> review.text </h2>
+
+ <p> Camera battery chargers sometimes come with long cords which are detachable at the charger end.  That is a good thing because they are miserable to travel with. These plugs can pop right in where the long cord comes out to make a small and handy package.  A very good option when you travel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very handy item </p>
+
+
+<h2> review.date </h2>
+  10-31-2012  
+<h2> review.text </h2>
+
+ <p> This item is the same as the one we bought from apple.  It is exactly as described by the seller and we received very quick delivery.  We ordered 3 to reduce the cost of shipping which is a bit high for the price of the item.  Overall it was worth the price of the item plus the shipping. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Item </p>
+
+
+<h2> review.date </h2>
+  02-10-2013  
+<h2> review.text </h2>
+
+ <p> To me, this unit has achieved its purpose, so it is ok. However, I must state that it doesn't fit perfectly on mac book's charger, what means that you'll have an ugly aspect when you hold the charger in your hands (you'll see gaps of spaces between the adapter and the charger as if it is warped - and I think it actually is). Conclusion: for the price, 4 stars is fair. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works ok. </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> Lost original duck head. This works just fine as a replacement. It's not the same color like other reviews have mentioned and doesn't exactly fit perfectly either but it works </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works </p>
+
+
+<h2> review.date </h2>
+  08-10-2013  
+<h2> review.text </h2>
+
+ <p> I bought this little gizzy to allow me to eliminate the power cord to the battery charger to my Canon T4i. It has long been a mystery as to why Canon supplies some cameras with a charger that plugs directly into the wall receptacle, while other of their cameras come with a charger and a power cord. I'm ad advocate of keep it simple, stupid (KISS) ! That external power cord is just something to loose. This little item solves the problem. I only bought two of them. Now I need a couple more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  06-23-2014  
+<h2> review.text </h2>
+
+ <p> This is really nice as it it so small.  It takes up virtually no room to carry with you and provides AC power to your chosen device. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great compact adapter. </p>
+
+
+<h2> review.date </h2>
+  11-09-2012  
+<h2> review.text </h2>
+
+ <p> I ordered this for the MagSafe charging block I currently have for my MacBook. This product looks like, fits like, and performers like the original. It simply does what it is supposed to do. I would recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great!!! </p>
+
+
+<h2> review.date </h2>
+  08-28-2013  
+<h2> review.text </h2>
+
+ <p> Works great on my Macbook Pro adapter after I lost the original piece.  I have no idea why these are called &#34;Duck Heads&#34; though.  Took me forever to find these, due ot the naming. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great for Macbook Pro </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00ATZ9I90 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good for protecting your device from little scratches and knicks </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This film screen is very light and goes on clearly and efficiently; it is also easy to remove. I am all about protecting my investments from scratches and dents and fingerprints, so I always get the sturdiest cases and apply screens on all touch devices. The problem is that some screens don't go on the device tightly, and then bubbles are formed. Not to mention the aesthetic problems that arise from trying to put a screen on the beautiful iPad retina display. This screen protector is light enough that the touch screen capabilities will not be lost.An additional bonus is that this screen is also great at reducing glare, something that's annoying about the iPad, epecially when one is reading on it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A bit tricky to install depending on your case </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> We have two iPad Minis in the family, one in a folio style case and the other in a special foam kid's case that wraps around the tablet and has a handle.Because the kid's one was the one I wanted to protect the most, this is the one I tried to install first.  Turns out that the case itself was leaving little bits of dusty foamy bits on the screen which may have been causing the problem.  After a few tried I was able to get it on and feed it back into the wrap around foam case.On the folio style case, we had no problems installing the film, but maybe because it was the second one.The protection has been good, at least so far as we can tell so far.  Obviously if anything changes, I will make an addendum. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An all in one kit for applying screen protectors to your iPad Mini </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Screen protectors are always an adventure to put on. Air bubbles, dust, lint, mystery stringy things, dog hairs and just about anything else floating around seems to instantly attract to the sticky surface just as you're trying to carefully affix it to your freshly cleaned screen. The larger the screen, the more likely you are to get something in them. No matter how hard you try, there's just always that chance they something will get inside and eventually drive you crazy as you look at your screen. So thankfully there are two protectors in this package, but at almost twenty dollars for two pieces of sticky plastic, you're definitely paying for both of them.Once you've got the protector on your iPad mini, it looks great. The screen is still just as clear and is as responsive to touch screen commands as ever. Protectors like these are a must-have for keeping your mini's screen in perfect condition. However don't try and use these kinds of screen protectors with cases like theOtterBox Defender Series Hybrid Case for iPad Mini. The types of cases that have their own built in screen protector don't work properly if you try and use them while you also have these stick on protectors on them at the same time. They will stick together and give your screen an wet blotchy appearance.This Vector Guard screen protector works great and looks quite nice once you have it affixed to your iPad Mini. With an included cleaning cloth and a card for helping press out any bubbles that get trapped, the kit gives you all the tools needed for the best possible application of the protector to your screen. And should you need to take your first protector off, you still have a second one to reapply! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very nice product, but a little tricky to put on </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have placed a number of these types of covers onto my devices, so when I received this one, I let my wife do it.  I gave her the instructions and let her proceed to ruin the first one.  Then we re-read the instructions, moved to a completely dirt free and dust free zone and placed the second one onto the iPad Mini.  It is a very nice product, just a little difficult to put on properly without any prior knowledge of these types of covers.  Was it the fault of the manufacturer - maybe... a little more direction as to what can happen should have been discussed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Display was unaffected, looks the same </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like that this screen protector didn't change how my Mini display looks.  It's just clear, no foggy look or rainbow effect.I've seen several screen protector instruction videos and was able to apply it well.  If bubbles are a problem, it's good to use tape to help lift up the film and then again reset it.This seems like a very strong and tough screen protector from the feel of the film. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Good Results </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a well designed product with all the appropriate cutouts well aligned. Application can be a bit tricky. The sides are labeled 1 and 2 and one side needs to be attached to the face because it contains adhesive which makes the screen adhere to the advice. This kit comes with two screens, a lint free rag, and a cardboard squeegee.If you have had the advantage of applying similar screens, application should be a snap. Thoroughly clean the surface area of the mini so it is dust and lint free. Remove the backing film from the adhesive side, align the screen protector to the mini's screen, and use the squeegee to adhere the film protector and remove air bubbles.The end result was pretty nice though the application for the unexperienced may be a little tricky which is why I am giving it 4*. The quality of the screen film is good and protects the device nicely. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works as designed - economical packaging </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love my iPad mini. It is the perfect size and meets all of my basic connectivity and entertainment needs. That is, of course, unless you try to use it in bright sun or in any bright light. Then, the shiny glass screen gives you lots of glare and makes reading difficult, if not impossible. This product cures that problem for a realistic price. It is easy to apply too and, more important for me, comes packaged simply and economically. I love that. Esthetically. the matte screen does detract a bit from the beauty that is an Apple product, however, it makes the product more useful so I will learn to live with it.One star for the price. One star for the ease of installation. Two stars for performance.Recommended </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 2 Decent Screen Protectors </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Lots of people make screen protectors, and they are seemingly all the same.  Here Infinite Products differentiates themselves by including TWO screen protectors in the same package.  This one went on the iPad that is normally used by my daughter, was quite easy to apply, although the including cloth wasn't very good so I used my own microfiber.  The plastic squeegee wasn't great either which is kind of par for the course here, but it worked.  Bubbles came out easily, edges had a few issues, but the case that is on it cover it up.  Great way to protect from little fingers (or big fingers) and other damage.  Won't prevent it from breaking, but might protect it from being scratched. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hard to get on, but worth it once it's there </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've put screen protectors on my phone several times in the past.  It's never a really easy thing to do.  Something never seems to be straight or it bubbles somewhere.  This was no different.  The first one ended up being completely ruined after I had to readjust a few times.  The second one was a little easier, but it was probably because I had already been putting a screen protector on it for twenty minutes.  Practice makes perfect?  It's imperative to get a pack of two or higher because you need at least one to practice on before it is on correctly.Once on, it works wonderfully.  You can barely tell there is something over the screen.  There is no loss of touch screen sensation and it has far fewer finger marks even after several days of use.  Another positive is that it seems to help with the glare a little bit when you are outside. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> not a bad screen protector </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've been using this screen protector for a while now. It's pretty basic - not anything fancy like the Invisible Shield. For lack of a better term, it's cut out of a fairly stiff material - if you peel it away, it gives some resistance. This is a good and bad thing. On one hand, it also gives a good amount of protection without getting scuffed up itself. One time, I accidently dropped my iPad Mini in such a way that it slides across the floor - I picked it up, dusted it off, and then proceeded as normal. There is no way a naked screen would have survived that. On the bad side, if you get, say, a small piece of dust or hair trapped underneath, it forms a fairly obvious and ugly bubble around it.Overall, not a bad screen protector. I recommend it. Just, as usual, be careful upon application. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nicely Cut Protection that Holds Well </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-31-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like the nicely cut screen protectors. These came with a small microfiber cloth, a small plastic applicator squeegee and a blank sticker. I chose to use the broad edge of the packaging for a squeegee, and it made for a nice, level sweep.Each screen ships protected on both sides with plastic covers with tabs numbered "1" and "2." Though both sides seem the same, the side marked "1" goes face down against the iPad Mimi's touch screen, and "2" comes off after the cover is placed satisfactorily.The screen looks bright and clear, and I am happy with the protection that this Infinite Products Screen Protector provides. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great and was easy for me to apply </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great screen protector at a good price and easy to apply. It comes with 2 screen guards to start and a cleaning wipe. I wiped my Mini really well before applying the screen and it went on mostly smooth. There were a few bubbles that were easy to get rid of. I don't have an issue applying these guards since I've used similar screen guards for iphones and ipods. You want to be sure to clean the screen really well with the enclosed cloth so no debri or fingerprints will be under the protector. I've also tried using a small amount of soap and water to apply the protectors, which makes the process really easy and seamless, for anyone that is having trouble applying without bubbles and lumps.Once it's on it works great as a guard against fingerprints, smudges, and scratches. It's also a surprisingly good anti-glare protector. I wasn't expecting that but it definitely helped cut down on that. I use the cloth to clean off the protector once a week or so but it's not necessary really. The clear protector acts like it's not even there and you can't see it. My only critique (if I had one) was the top right corner is starting to peel back ever so slightly. It might be a weaker area as the screen guard is seated correctly on the screen but like I said, this is incredibly minor and not a problem. I'm impressed with these guards and know it'll be a while before I go through both of them and have to get more.I'll buy this brand for any future electronics too. It's the most light weight and clear of the protectors I've used. You can't see that it's even on there. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Product </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This type of product is a MUST HAVE for any tablet.  VectorGuard was easy to apply and is durable.  Keeps fingerprints and debris from damaging or messing up your screen.  Great product! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Infinite Products VectorGuard Screen Protector for iPad Mini - Functional But Costly </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> TheInfinite Products VectorGuard Screen Protector Film for iPad Mini - 2 Pack (IP00697_F)is a functional product.  Like most screen protectors, it comes at a premium.  It gives your device basic screen protection but the durability could be better.  It is similar in thickness to theInfinite Products PhotonShield Anti-Glare and Anti-Fingerprint Screen Protector Film for iPad Mini - 2 Pack (IP00701_F)but does not have the anti-glare properties.PROS:++ Custom designed with cutouts for the Apple iPad Mini++ Basic screen protection with maximum clarity++ Does not interfere with the device's touch screen++ Includes a cleaning cloth and a small applicator card++ Includes 2 screen protectors so you have a backup++ Online installation videos are provided at "screenprotector dot TV"CONS:-- Plastic surface seems easily scratched by the applicator card (cover it with the cleaning cloth when smoothing out the surface)-- Applicator card is small, less effective than a credit card for smoothing bubbles-- More costly than other screen protectors-- No warranty information is providedCONCLUSIONThis product provides basic screen protection without glare reduction.  It comes at a premium but it's worth considering. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I'll pay almost anything for a bubble-free screen! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> After using MANY different screen protectors, I find that the VectorGuard was the easiest to place and get the least amount of bubbles. This could be because it was on my mini's instead of our reg. ipads, but I dooubt it, as I had problems with bubbles on phones. The real trick is making sure that you have a super clean surgace! Also, do not handle the underside of the protector. You don't want any oils to get anywhere. I put it on diagonaly, from one corner and any bubbles that come up I was able to push out to the edge. I don't mind a void on the edge, but I hate to have a bubble in the middle! The price is also reasonable, as you get two, and if you have young kids, you might end up using the second. It does protect the screen from scratches, etc., and is really great when the kids forget to close the cover and place something on top of the device! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Infine Products </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am really happy with the Vector Guard Screen protector.  I hate all those smears and fingerprints all over my iPad. I uses to have to clean it all the time because of fingerprints.I like that it is easy to put on and you do not have to cut it to fit like the last one that I brought . All you have to do is place it on and thats it. It fits that easy. It takes all the guess work out.Overall easy to use and a great add on item needed for the iPad Mini. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A bit tricky to install, but this works nicely to keep the screen from scratching and looks like nothing's on there </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've tried a few different protective screens, on an iPad 2 and an iPad mini and an iPhone.This one works pretty well. It's a bit of a pain to install. You have to clean off the iPad Mini thoroughly - using the included microfiber wipe. Make sure you're in a clean space - if you get any dust on there, it will leave air bubbles that you can't get rid of. Then you have to orient it just right, and lay it on slowly. Mostly, it should lay on clean, but every once in a while a bubble will appear and you can't do much about that at this stage. Then you lay it on completely, and remove the outer layer film, and then use the included "squeegee" or a credit card to push the bubbles off - it takes some time, it took me about 15 minutes, to get them all out.Once it's on there, it looks good - almost like nothing at all - but if it gets a scratch, you can just replace the protector rather than living with it. I've tried a few other protectors from this brand, and this one's my favorite. They also have an antimicrobial screen - that seems to me just like this one but I guess it's got a little something extra. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is easy to use.  It is not too sticky so it doesn't cling right away which makes some screen protector difficult to reposition.  The plastic is thick and clear with both holes perfectly aligned. You get two protectors and all accessories you need for installation - including a piece of cloth and a bubble pusher cardboard. I got a couple of small (very small) lint trapped under the protector which is fine with me.  I still have a spare when I need it.I still think Moshi is the best, but I don't want to pay something close to the price of an iPad Minicase. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My New Favorite, Unbelievably Invisible </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> First, the summary: this film is a little tricky to put on but that's because it's not cheap and flimsy, but WOW does it look great. There are so many brands out there (and I've probably tried a dozen or more), but once this film was on the iPad Mini screen, it was invisible in normal ambient light. I need to get their iPhone 5 version because the cheapo one I have on there now is a smudge machine. I don't know how Infinite Products designed this one, but it really looks nice. FINALLY, a protector I can live with. I did take my time and kept lightly wiping the screen under a bright architect lamp to make sure no dust nodules would get trapped under it as I laid it down, but once I smoothed out the air bubbles and removed the protective film off of... the protective film (lol), it looked like it wasn't there. Truly 5 star. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works as advertised with minimal installation issues </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This Infinite screen protector is easy to install. Instructions were described in 3 steps.  The hardest part for me was aligning the screen.  After several attempts, I managed to succeed, avoiding air bubbles and any noticeable amount of dust.  There is also a thin piece of plastic that can used to force out air bubbles if needed (Not used in my case).The screen protector also comes with a cleaning cloth, which works well at removing fingerprints.  With a little elbow grease, fingerprints are eradicated from the screen.  I do not notice much glare after installing these screen protectors.  The film is also scuff and scratch resistant, and there is no sticky residue when removing these protectors (they attach and lock on via static cling).  The infinite VectorGuard works for my Mini! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Easy to install </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I often have trouble installing screen protectors and end up with lots of air bubbles or dust under the protector.  This one was comparatively easy to install.It comes with a cloth to clean the iPad mini screen.  That cloth works quite well as the screen was full of fingerprints.  It took some rubbing with the screen but they all come off.  It also comes with a "squeegee" -- a small thin piece of plastic to use to get the air bubbles out.The screen protectors are in three parts.  The instructions have you pull tab A off first and as you do so, position the screen protector over the screen.  The 2 holes in the protector exactly fit the camera lens and other opening on the iPad mini.  Then you pull off the layer that is attached to Tab B and use the little piece of plastic to get the air bubbles out.  It took me a couple tries to get the protector evenly lined up with the screen and there were a lot of air bubbles.  The plastic piece did a good job getting them all out.I thought this was a good product. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Durable, but expensive... </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This Infinite Products VectorGuard Screen Protector Film does a good job of protecting the screen of my iPad Mini.  I let my 3 year old play games on it, and I am typically nervous that she is going to scratch the screen, especially when she uses a stylus to practice writing the alphabet letters.  With this protector film on, my worries are minimized.  The product is expensive, but that being said, it is less expensive than replacing an iPad Mini screen.The screen resolution does not seem adversely affected by this screen protector.  Like all products of this type, make sure the screen is extra clean, and try to install it in a dust free area.  Bubbles usually disappear within a day or so if you have installed it properly. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

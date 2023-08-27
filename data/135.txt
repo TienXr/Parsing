@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00BLPCAZG <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-25-2013  
+<h2> review.text </h2>
+
+ <p> One of the primary "knocks" against the UV-5R series of radios (made by the same company - Baofeng) is that their receivers in these little radios are as wide as barn doors.  Sensitive, yes, selective - no way.  Yes I know they can transmit from 136-174 and 400-520 mHz (even though other reviewers aren't aware of this apparently), but up until now selectivity (the ability of the receiver to ignore things that you don't want to hear) has been, well, wanting to say the least.Until now.  The B6 series (when set to narrow-band mode) simply blows away any UV-5R series receiver - period.  One word of caution, however, you'll won't see much difference in the receivers (between the UV-5R series and the B5/B6 series) if both radios are set to wide-band mode (the default setting on both rigs).  When you change both receivers to narrow-band it's like comparing black and white tv to HDTV, you just can't believe the difference.One of my close friends is an EE specializing in RF design.  When we compared the two radios (in wide-band mode) he wasn't too impressed with either of them (to say the least), but when we re-ran the tests with both radios in narrow-band mode he couldn't believe the difference on the B6 and checked his instruments again just to make sure he hadn't made a mistake in the measurements.For most folks considering a radio purchase the narrow-band receive capabilities of this radio will simply be wasted, as many will use it for prepping, scanning, FRS, or GMRS (legal or not), and for those folks (most of which barely understand how to program it let alone what narrow-band is), either radio (UV-5R or B6) is a quantum leap ahead in technology vs. the poor FRS/GMRS bubble-pack radios available in warehouse stores.  For those folks that need a radio that truly can do both Part 90 transmit AND receive, this B6 may just be the low priced unit that they have been looking for.  By the way, the B5 model is the same radio without the built-in LED flashlight, otherwise the units are identical.I own both radios, so let me explain some of the differences of the two different series units so you can decide which one is "best" for your needs:Standard Battery Size:1800mAh (UV-5R)  2000mAh (B5/B6)Battery Size / Options Available:3800mAh Extended Battery, AA 6-Cell Pack, AAA 6-Cell Pack, & Car Battery Adapter (UV-5R)NO Battery Options available for the B5/B6 (although the radio is new, so Baofeng may eventually add some options)FM Commercial Radio Receiver Memory Channels:None on the UV-5R (although you can direct enter one FM frequency at a time to listen)16 Memory Channels on the B5/B6 SeriesTotal Programmed Frequency Memories Available for "Talking":128 (UV-5R)  99 (B5/B6)Number of available alpha-numberic spaces (to name your displayed frequency):6 (UV-5R)  5 (B5/B6)Colors of radio available:Black, Blue, Camo, Red, Yellow (UV-5R)Black Only (B5/B6)Transmit Frequency Range:136-174 mHz (VHF)400-520 mHz (UHF)Both radios support this.There may other differences I'll discover as I use the B6 longer, if so, I'll revise the review and post them here.In short, if you want the maximum number of options available, you'll love the original UV-5R series.  If you need narrow-band receive capabilities, you'll love the receiver in the B5/B6 series and will (for now at least) have to give up some of the options the UV-5R series folks have already.  My choice was easy, I got both.I can't wait to see what the newest UV-82 series will have (available soon)!Update: 01-23-2014Sadly, the UV-82 series isn't better than a UV-5R when comparing transmit or receive functions (dealers are already giving the same radio different labeling so that they can claim their radio is "newer" than the other guy's radio).  It is slightly wider and they finally moved the 0 (zero) on the keypad to the correct location, but it doesn't have more power, or any new features (when comparing a stand UV-5R to a standard UV-82).  Some folks have discovered that the UV-82 is available with 2m and 222MHz (which is true), but that option is also available in the UV-5R (just not on Amazon).  Again, because the case design of the UV-82 is different, none of the battery or power options that work on the UV-5R will even fit a UV-82. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Baofeng Receiver Yet ! </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> Great distance, clear sound </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  11-19-2013  
+<h2> review.text </h2>
+
+ <p> A little less user friendly compared to the Wouxun, but comparable capabilities.For 1/3 the cost of the Wouxun this is a great value! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A little less user friendly compared to the Wuxoun, but comparable capabilities. </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> For the price you pay for these they are a great deal! I'm only giving it 4 stars because, at least for me, it's very difficult to program by hand. I use it on a couple of local repeaters and have had no complaints. I did find that a program called "CHIRP" was easier to use than the supplied SW </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ... the price you pay for these they are a great deal! I'm only giving it 4 stars because </p>
+
+
+<h2> review.date </h2>
+  05-09-2014  
+<h2> review.text </h2>
+
+ <p> I do like how this rig feels while I hold it in my hands. The only reason why it was 4star is due to no current FCC license stamped on this rig. It does the job though & can beat the $ when I ordered it, I should of ordered a 2nd one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An addition to my Baofeng collction </p>
+
+
+<h2> review.date </h2>
+  06-03-2013  
+<h2> review.text </h2>
+
+ <p> If you see all my reviews of Baofengs you will see I have them all, The difference with this one is the ability to go to 512 MHZ which is what I need. I am a radio nut, but not a techie, so all of my reviews are based on ease of use, reliability, and function.YOU MUST GET THE PROGRAM CABLE- It is possible to program without the cable, but time consuming. Also when programming with a computer you must make sure the version of radio, matches the version of software.  In addition, if you have programmed other Baofengs on a particular computer,and have trouble programming a new one, use a different computer. I found this to solve my problem when I had an issue programming. I have a $600 Yaesu which became a paperweight after I got the Baofeng. I am not convinced they are really putting out the watts they claim, but for point to point communication, they are awesome. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These radios do everything and more then the expensive $$$$$$$ big boys. </p>
+
+
+<h2> review.date </h2>
+  01-03-2014  
+<h2> review.text </h2>
+
+ <p> I got the radio sooner than expected, and I am impressed by what I see. Looks well made, and feels solid. I am going in to the study phase for my license, and expect to get more into the radio as that process goes on. Will update review when I am on the air, and have some real time experience with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks good so far... </p>
+
+
+<h2> review.date </h2>
+  07-19-2013  
+<h2> review.text </h2>
+
+ <p> As I mentioned in another review about the Baofeng speaker mic, I've owned more than $40,000 worth of Ham Radio gear since 1992, including four HF rigs, about 20 HTs, and more than a dozen mobile rigs.  Until now, all of it was name brand gear, Icom, Yaesu, Alinco, and Kenwood.  And the crown jewel is still the Icom IC-706MKIIG.The Baofeng UV-B6 was my first foray into the Chinese gear market.  Since my wife and three kids are all Hams, I decided I wanted to standardize the gear, sell off some unused radios, and streamline the shack.  It's a royal pain the neck to help everyone program different radios on the fly.  The accessories and menus are all non-standard.  Bleh.  Time to standardize.By selling off just my Kenwood D7A (almost never used) I was able to float the purchase of FOUR Baofeng UV-B6s.  (Side note...  also ordered the Baofeng speaker mic.  DO NOT make that mistake.  BAD microphone.  See my other review for details.)From the moment I unboxed the radios, I felt a good vibe.  Light on the manual, heavy on the quality.RECEIVE AUDIO...  As good as any of my other HTs.  As good as the VX-7, the D7A, the F6A, the IC-91AD...  Okay, maybe not as good as the IC-91AD, but pretty close.TRANSMIT AUDIO...  Are you kidding me?  This is a Chinese radio?  Clear, vibrant, and consistent.  Clarity is the name of the game and it is among the clearest analog radios I've owned.FRONT END...  ROCK SOLID!  I live in the shadow of a 100 watt repeater and I have YET to see it bleed.DUAL WATCH...  Not bad, not great.  The biggest problem with the implementation of the dual watch feature is the overall scanning speed.  C'mon, Baofeng...  You can scan faster than this.FEEL IN THE HAND...  Oh my...  My, my, my...  It's been a LONG time since I handled an HT that felt this nice.  My old Alinco DJ1T came close, but...  It feels professional in the palm with a rounded chassis and just enough weight to be firm. in the hand.BELT CLIP...  It isn't going anywhere once you put it on your belt.  A little too tough, I think.ANTENNA...  The best "stock" dual band antenna I ever used was on the IC-91AD.  I could hear and get into repeaters with the 91AD antenna that I couldn't reach with any of the other stock antennas I own.  Guess what?  This one is that good.  Of course, an add-on with a 14" whip will do ya better, but for stock, Baofeng has hit the sweet spot with this one.BATTERY LIFE...  I'm on Day Three as I write this and I'm just now dropping it back into the charger.  It makes you ask yourself, how come Baofeng can drop a 1800mah battery on this thing and Icom, Yaesu, and Kenwood are still skimping by with 1100 and 1400?  C'mon, Japan.  Catch up.  LiON isn't that expensive anymore.But now we come to the biggest gripe most people have with the Baofeng products...PROGRAMMING.I just don't get all the gripes.  Having used everything, the only radios that make programming stupid simple are the Icom D-Star units and the Kenwood D7A and D72.  The rest of them require a Masters degree.Once you get the hang of it, the Baofeng UV-B6 is just as easy as the rest of them.It's not the programming that's the problem.It's the nomenclature.  Baofeng needs to hire on an American or a Brit to handle their feature translations.  It took me a while before I figured out that "Duplex" was...  well...  it's not Duplex.  It's...  Well...  As I write this I just can't figure out which menu is the "Duplex" setting.  (I could figure it out by visiting [...] but why should I have to?  It should be clear enough for me to figure it out without needing to resort to some aftermarket site.)So how did I handle it?Using the CHIRP programming software.  I had no problem getting the stock Baofeng USB cable working on my Windows 8 laptop and I fired up CHIRP.  Badda bing, badda boom, and I was rockin' and rollin' with 99 memories full of frequencies, splits, duplex settings, yada, yada, yada.Oh yeah...  And forget about programming channel "Skip" functionality for scanning without the software. There isn't a manual way to handle that.Oh yeah...  And forget about manually programming a 2.5Khz step.  You can program it with the software, but not on the fly.  If you want a radio that handles 2.5k steps, you need the UV-5R, but that baby has a front-end that's about as wide open as Aunt Tillie's barn doors.So that's why I ding this baby one star.  It's the radio I grudgingly don't want to love.  I DO love it.  It's FUN!  But it's also just a little bit shy of "great."Is it worth $45?Are you kidding me?Your ARES/RACES team could buy up 20 of these things, program them in about 10 minutes with all your tactical frequencies, drop 'em in the chargers, and be ready for everything short of nuclear Armageddon.YES!  It's worth $45 bucks!  What they heck are you waiting for?Oh yeah...  It's probably made in a People's Republic of China sweat shop.  Hold your nose while you're dropping your coin.WHAT WOULD I DO DIFFERENTLY?PASS on the UV-B6.  Get yourself the UV-B5 and ditch the gimmicky LED light.  Go for the rotary knob on the top of the radio (UV-B5) and you'll be thankful you did.  The up-down button thing gets old in a hurry.  Not old enough for me to send the radios back, but tedious nonetheless.73 de N3LJZ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So Far, So Great!  Lack of 2.5Khz and rotary selector hampers otherwise solid radio. </p>
+
+
+<h2> review.date </h2>
+  07-24-2013  
+<h2> review.text </h2>
+
+ <p> The Baofeng UV-B6 Dual Band VHF and UHF Walkie Talkie, 5-watt, is a low cost radio that has a lot of potential to be a great radio. Unfortunately it fails in this respect. The biggest issue that seems to impact all Baofeng radios is one of quality control. Every Baofeng radio I own seems to have issues that detract from the quality of the radio. For under $50 you are getting a good deal on a low cost ham radio. Unfortunately, quality control seems to be the tradeoff. This is well documented by many Baofeng users.The BaoFeng UV-B6 has the potential of being a very good radio but there are two problems that really detract from this radio.1. There is a significant quality control problem with this radio. Essentially, you may end up with a good radio or a bad radio. It can be a crap shoot. The charger that came with my radio does not always work and I will need to have it replaced.2. Programming this radio is not user friendly. Yes, you can do it but there are a lot of steps involved which increases your chances of making an error. The "user manual" is for this model is much better than the manual for the UV-5R Plus but that isn't saying much. Go to the Miklor website for good information on this radio.Pros:+ 5 watts+ Very small, compact, and portable+ Rugged and durable+ Has the ability to name channels+ Voice assisted which is nice for the hearing impaired+ Ability to listen to and program FM radio stations+ Stores up to 99 channels (not the most but enough)+ Comes with Automatic Number Identification (ANI) which can be a very useful function depending on your needs+ The flashlight is surprising bright for short distances+ Good volume control and sound quality+ Excellent battery life+ Accessories are inexpensive+ Can program FRS/GMRS/MURS frequencies to both receive and transmit (Note: this is an illegal function to transmit on these frequencies with this particular radio. Also, GMRS requires a license from the FCC which currently costs $85 for a five year period.)Cons:- Programming is not user friendly and requires a lot of keystrokes. I recommend using Chirp software to program the radio. I highly recommend the following programming cableKenwood 2-Pin USB Radio Programming Cable FTDI Chipset KPG-22, Also works with Baofeng, FDC, Linton, Puxing, Surecom, Weierwei, Wouxun, and Quansheng. This cable is FTDI and will work without problems as opposed to all the counterfeit cables on the market that will just frustrate you.- User manual is a poor translation from Chinese to English. Some of the translations do not make sense.- The radio does not automatically know the offset so you end up having to enter both transmit and receive frequencies. With radios such as Yaesu you do not have to do this making programming much more simple and error free.- The charger that came with my radio does not work properly- The volume cannot be turned down all the way. Even when turned to the lowest setting you can still hear the radio.- The channel display tags can be difficult to read- In order to have the channel names appear if you use Chirp programming software you need to go to either menu 18 or 19 and change the setting to "name" otherwise it will continue to show the frequency and not the provided nameThe main purpose of this radio should be as a backup radio to your primary radio. Unless BaoFeng makes some changes and improves quality I would never recommend this as a primary radio. If you decide to go with this radio be very patient with the programming until you get it down. Once you get used to the steps it is not too bad but there are a lot of steps and a lot of room for error.Overall Assessment:If you are trying to decide between the UV-B6 and the UV-5R Plus I recommend the UV-B6.If BaoFeng were to fix the following three issues this radio would easily be a 5 star radio:1. Eliminate quality control issues as there is too much variance from radio to radio2. Make programming easier so that both Tx, Rx, and offset frequencies do not have to be entered3. While the user manual is improved over prior models it still has a way to go.I would only recommend the BaoFeng UV-B6 as a backup to another radio. While my logical side only wants to give this radio 3 stars I am giving it 4 stars because it is a slick radio despite some flaws.If you are into emergency communications I recommend the book:Emergency Radio Communicationsby Caleb Watts.Side Note:I compared performance of the Baofeng UV-B6 and UV-5R Plus with aYaesu FT-60R DualBand Handheld 5W VHF/UHF Amateur Radio Transceiver - Dual Band. The Yaesu significantly outperformed both of the Baofeng models. It was able to receive signals from a further distance and the sound clarity was much better. Yes, the Yaesu costs three times as much as the Baofeng models but it is a much better radio. The Yaesu is a basic model that doesn't have all of the same features as the Baofeng's such as FM radio or a flashlight. The UV-5R Plus is a 4 watt radio and the UV-B6 is a 5 watt radio. I suspect that they may not be putting out the amount of watts that they claim which has been verified by other reviewers although I personally have not tested this out for myself. Again, as a backup radio the Baofeng's will be fine but I would not recommend them as a primary radio. If you are a new ham radio operator looking for a high quality, low cost radio I recommend the Yaesu FT-60. Be aware that low cost for the Yaesu is about $149.00 but you are getting a quality radio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent Radio but Not Without Quality Control Issues </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> i just ordered this over the UV-5R due to reviews here mentioned a slightly better antenna with the UV-B6 and narrow-band function.i do see many folks on the net getting a "Diamond RH771 SF SMA" for their UV-xx and wanted to ask if i should invest in one for this UV-B6.very new to this.tia </p>
+
+
+<h2> review.summary </h2>
+
+ <p> do i need antenna upgrade </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

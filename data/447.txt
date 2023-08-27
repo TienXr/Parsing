@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00D0AMQ2C <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Stupid </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was boring it took me 2 weeks maybe three to read this book, thank God it was free I would have been upset if I bought this one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Terrible </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Don't waste your timr. This storyhad no purpose. There was no plot. It was mildly entertaining but not worth the time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> what happened? </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good intentions, tons of potential. I was interested but then it simply ended, almost as if the writer ran out of time to finish and had to quickly end it. Too bad. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hmmm!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This very short story was destroyed by bad editing and spelling errors. The plot was completely under developed. It would have had potential if it was better thought out. Tamika and Rasheed are smitten with each other and fashion. Both work for McFashions boutique. That's short lived when it gets sold and new mgmt has other plans. Feelings are hurt, relationships and trust are destroyed and relocation looks like a brighter future for one of the two. All within 27 glorious pages. Too short for me. If better thought out, it could have been a good full novel. Remember good editing is a must </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Horrible </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was the worst book I've read since joining Amazon March, 2013and I have read over 250 books since March. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> clouded rainbow </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Tear jerked. Started slow but left me feeling bad about the unfairness of life. One moment happiness, next an acciident that alters outcome to the unexpected for me. People can be so insensitive. The real cause of Rogers death is not told to his coma recovering wife. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Snap </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Snap is the correct word for this book.Snap too short, Snap too boring...Snap back to writingSnap back to proof reading </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Rubbish </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I couldn't get past the sheer forced Ebonics of this trash. Who in the right mind talks like this? I'm am educated black women who's getting her master's and I downright feel ashamed of this book. Nah me.Where did you get these ideals from? I couldn't even past the first chapter. There wasn't a point. The names, the actions was if I was getting forced a false allusion of what being black entails. Complete rubbish. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Poorly written </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The grammatical errors and storyline of this book left a lot to be desired. This short story should have been proofread a couple of times before publishing. I would not recommend this story to any of my fellow avid readers. Completely atrocious. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Small Firecracker Needing Additional Spark </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Actual rating (2.5 out of 3)Extended review can be found on The Review Board: [...]Disclaimer: I did try not to give too much of the action away. However, I may slip up when trying to describe certain characteristics of the tale.One of the parameters I use to decide whether I want to read a book or not is if the synopsis intrigues me; whether it says enough for me to grab it. With Snap, I wanted to know, "What was the snap?"Even with the title Snap, one has an expectation of a story with a jaw dropping or unexpected ending as well as a quick pace. I wanted to see if this short story could deliver.I. PaceWhen it comes to the pace, it was a bit sluggish at first but began to pick up some speed going into Chapter Three when the takeover took place-basically, painted down as the watering down of fashion; from hip and stylish to overly manufactured.II. Unpredictability factorThe unpredictability factor in Snap was ZERO. There were too many indicators that pointed to how the story was going to end.Although the premise of the story was a draw in, there were many opportunities for improvement in addition to those mentioned:III. Proofreading is FundamentalIt is better to take your time and fully proofread the work before submitting it for publication. If you don't have time to do it yourself, put a few more eyes on your work before sending it out. In fact, it's best to have some more eyes on it, for they may catch what you miss. There were spelling and formatting errors sprinkled throughout this story, which would have been caught if the author would have taken the time to double check.IV. More dynamic dialogueAlthough there were some very comedic barb between Tamika and Rasheed, the denouement was very flat.Although there was great effort, Snap does not resemble dynamite but a small firecracker needing additional spark. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What in tarnation? </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> WTF did I just read? Why is this book called snap? Nobody snapped. Tamika smacked Rasheed in the head with a wine bottle after finding out he slept with their boss which was made obvious that he was going to do from the beginning.There was no love scenes, no sex scenes, steamy scenes, just some juvenile kissing moments, so please tell me how was this a romance book? Got another question; who in the hell says, &#34;oh snap&#34; before they hit someone? Usually when someone says oh snap, they are witnessing or is hearing something off the chain. No one yells oh snap then commits a violent act. I mean, where do they do that at? Christ. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyable book to read. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The book was good entertainment  and made you want to continue to read. It was a fast read and I recommended to other readers . </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not worth it </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The first book was great but this one left a lot to be desired with entirely too many errors. Glad I didn't pay for it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

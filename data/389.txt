@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002BDU5ZE <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> Interesting insight on golf from the days of Sam Snead. Would probably only recommend to die hard fans of golf books </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book once you get past the age </p>
+
+
+<h2> review.date </h2>
+  05-15-2013  
+<h2> review.text </h2>
+
+ <p> Because its written by a golf legend with his thoughts and story I rated this a 4 star.  As for the writing itself it is maybe a 3.  Good book for those interested in the greats and history of golf. Snead spans 40 years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Part of Golf History </p>
+
+
+<h2> review.date </h2>
+  10-02-2012  
+<h2> review.text </h2>
+
+ <p> I owned the paperback of this one 30 years ago when I was just learning to play golf. The lessons are timeless and the anecdotes are priceless. If you like Sam Snead you'll love reading this one </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Resurection </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> This book tells so many inside stories from the gambling to the life of a boy from the hills of Virginia.  Sam playing golf barefoot at Augusta and running through a series of years with the yips really delivers a true sense of what these guys back then dealt with on the tour....great life story... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny, Interesting, Sam from front to back </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> The book was not a good read, but I am a huge golf junky, so I am glad I read it.  Only if you really love golf, otherwise do not bother. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good perspective, bad writing </p>
+
+
+<h2> review.date </h2>
+  03-04-2014  
+<h2> review.text </h2>
+
+ <p> Sam Snead was one of the greatest golfers of all time. His somewhat &#34;folksy&#34; story telling and antidotes were entertaining and made for enjoyable reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sam Snead </p>
+
+
+<h2> review.date </h2>
+  09-06-2012  
+<h2> review.text </h2>
+
+ <p> To a golfer, a very entertaining account.. It was published in the1960's, but, really interesting about the professional golfers lifefrom the late 1930's to 1960. Some of the instruction material, givenin the book, is still valid.  Life before steel and graphite shafts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Entertainment golf </p>
+
+
+<h2> review.date </h2>
+  04-19-2013  
+<h2> review.text </h2>
+
+ <p> This is a highly readable and fun book to read from an acknowledged expert in the field. I really love it and uniquely for my reading habits, I may read it again as it's got good helpful tips as well as biographical information. I feel like I learned a lot about the game as well as about the author, being a famous legend of the game. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Expert advice from a legend </p>
+
+
+<h2> review.date </h2>
+  06-27-2013  
+<h2> review.text </h2>
+
+ <p> There is no substitute for self belief that Snead displayed in himself despite all his bravado , really highlights how a champion overcomes doubt </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Snead was real and believed </p>
+
+
+<h2> review.date </h2>
+  01-25-2013  
+<h2> review.text </h2>
+
+ <p> I like to hear what the great golfers of the past have to say about the game.  I can use all the education on golf that I can get. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Education of a Golfer </p>
+
+
+<h2> review.date </h2>
+  04-09-2013  
+<h2> review.text </h2>
+
+ <p> Sam Snead was one of a kind in many ways and his storytelling ability comes to the fore (pun intended!) in this book he probably had ghost-written for him. That notwithstanding, this book gives the reader a great sense of what Sam considered important in life and golf. A lot of the lessons hold true today which is why this has been a timeless classic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still a classic </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> he was a student of the game who did a good job sharing the high points of his career and what he learned. a fun and quick read for golfer who like to learn both how to play and the history of this great sport </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good stuff </p>
+
+
+<h2> review.date </h2>
+  05-19-2012  
+<h2> review.text </h2>
+
+ <p> Great stories  with golf instruction in a great mix to keep one interested. I was much more interested in his life stories as I am way beyond help on the golf course. One has to know his complete life story to fully appreciate his athletic abilities. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable Reading </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

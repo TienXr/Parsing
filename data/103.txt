@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0069VXRLS <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-16-2013  
+<h2> review.text </h2>
+
+ <p> This is a must have for anyone getting into astronomy! You will not need to buy any more eyepeices when you get this kit. the neutral density filter works really well when you look at the moon, makes it bearable to watch! The only downside is that the other colored filters don't help too much. They give whatever you're gazing at a different color, but does not make the features of the object much more vibrant. Get it for the eyepieces, but don't expect to be amazed by the color filters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great kit! </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> Having very recently getting in to all things high in the night sky, I had made the mistake of buying a very low end department store telescope. After doing a fair bit of reasurch on how I could get out of the silly mistake I had made (returning wasnt an option). I bought this eye peice set! INSTANTLY I noticed a 100% difference, these peices give you every magnification that you could want if your just getting in to the night sky. I would suggest doing a bit of reasurch on what each of the filters do and you will need to play around to figure out what eye peice is best for the telescope you have. But the images coming through are crystal clear and extremely sharp, to the point that I cant actually imagine how a more exspensive set would be better. Doller for doller you will not be disapointed with this set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth every penny! </p>
+
+
+<h2> review.date </h2>
+  08-25-2012  
+<h2> review.text </h2>
+
+ <p> OK, this set is a bargain at the price, but you are kind of at a loss if you are a novice with a telescope.  This set will pretty much see you through whatever viewing you want to do, although a 4 or 3mm lens would give you more magnification, if you want it later on.This set doesn't come with either a list of the contents or any sort of description of what you have.  The video at the company website is sort of helpful, but not as much as I want to know about what these do.  Actually, the Orion telescopes website does give this information if you go to the more info, but it would have been nice to have had it in the box rather than dig at the website (Note: I bought another set of filters from Orion which came with a manual).I bought this on the recommendation of the other reviews and I am sure that these are worth the money,  but it's a bit frustrating for the neophyte who has no idea of what they are for and then have to go to the website and hunt for the information.Actually, I can say that this is a pretty good set for the money and will allow you to get quite a bit out of your telescope if you have something similar to what I have (Orion SpaceProbe 130ST Equatorial Reflector Telescope).  If you have a backup scope like the Go Scope, these are also pretty useful.I will say this about Orion, they are incredibly helpful.  The website has more, and better, information than what comes with the scope. And customer service will answer any question you have.But, the reason I give this set a 4 instead of a 5 is that it would have been nice to have had this info come with the set.BTW, after figuring out what I have here, this is a good set for the money.  The Barlow Lens will do the trick--especially if you are a neophyte!  This is OK for beginners, someone starting out with a telescope.But, as I said, you are going to have to hunt to figure out how to use them.BTW, this is the info:Five 1.25" Sirius Plossl eyepieces - 40mm, 17mm, 10mm, 7.5mm, and 6.3mm focal lengthsFive 1.25" color eyepiece filters - #12 Yellow, #23 Orange, #25 Red, #58 Green and #80A Blue1.25" 2x Shorty Barlow Lens1.25" neutral-density 13% transmission Moon filter for telescope eyepiecesFoam-lined hard (aluminum) carry caseFive 1.25" Sirius Plossl Telescope EyepiecesUsing different eyepieces enables you to "zoom in" on details with low focal-length high-magnification eyepieces to view, for example, a specific cratered region of the Moon. Conversely, using moderate to long focal length eyepieces provide a wider field of view to take in larger swaths of the night sky to view, for example, the entire disk of the full Moon, or a wide-field open star cluster or gaseous nebula. Five Sirius Plossl eyepieces are included to provide a comprehensive variety of viewing magnifications. Plossl eyepieces feature four-element optics that are multi-coated and a pleasantly wide 52 apparent field of view (43 for the 40mm eyepiece).The 40mm focal length eyepiece will show a very wide area of sky in most telescopes. The 17 and 10mm eyepieces provide a moderate viewing power for taking in more detail on target objects. The high magnification 7.5mm and 6.3mm Plossl eyepieces yield very high viewing powers.1.25" 2x Shorty BarlowThe included Shorty 2x Barlow doubles the magnifying power of any 1.25" eyepiece used with it, providing an easy way to effectively double the number of magnification options at your disposal. The Shorty's 2x amplifier lens is an achromatic glass doublet that is multi-coated with anti-reflection coatings to ensure excellent light transmission. The machined and anodized aluminum housing is internally baffled to eliminate unwanted reflections and increase contrast, and features filter threads to accept any 1.25" Orion eyepiece filter.1.25" 13% Transmission Moon FilterA neutral density Moon filter reduces distracting glare during brighter phases and optimize contrast of lunar landscape features. Not only will you see more surface features, but you can study them in greater comfort. This telescope filter reduces irradiation, which is the distortion at the boundary between light and dark areas, such as along the lunar terminator.Five 1.25" Color Eyepiece FiltersFive color eyepiece filters are included to accentuate lunar and planetary features and details as indicated below:#12 Yellow*  Enhances contrast of lunar features*  Coaxes out details of dark features of the Martian landscape and cloud detail in Mars' thin atmosphere*  Improves contrast on the crescent of Venus*  Helps resolve the cloud belts and polar regions of Jupiter#23 Orange*  Adds contrast to lunar features*  Enhances edge surface detail on Mars*  Improves contrast of Jupiter's cloud belts, festoons, and the red spot*  Helps define the belts and poles of Saturn#25 Red*  Enhances Martian surface details*  Augments bluish cloud regions on Jupiter and Saturn*  Increases contrast of Mercury against blue sky*  Improves cloud definition on Venus#58 Green*  Improves contrast of blue and red structures on Jupiter*  Reveals melt line detail around Martian polar caps*  Enhances views of cloud belts on Saturn#80A Blue*  Enhances details in Jupiter's cloud belts and Red Spot*  Increases contrast of high clouds and polar caps on Mars*  Highlights lunar surface details*  Adds contrast to cloud features on Venus </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent, but... </p>
+
+
+<h2> review.date </h2>
+  07-18-2013  
+<h2> review.text </h2>
+
+ <p> As a beginner to a telescope, I knew I would want more than just the 25mm eyepiece (EP) that came with my 8" Orion Dobsonian.  This kit from Orion is the PERFECT fit for someone like me.  The planetary and moon filters, along with the various magnifications from the multiple eyepieces give you a lot of versatility.  The 40mm EP is great for wide views and helping make the first identification of your observation target.As the focal lengths decrease and magnification increases, the exit pupil (size of the hole you're looking into) also decreases on these EPs.  As an eyeglasses wearer,  I can only go down to the 17mm EP with my glasses on.  the 6.3, 7.3 and 10mm EPs have short enough eye relief that I must remove my glasses.  Fortunately for me, my glasses are mostly for reading, so I can still get crisp enough views without my glasses.  If you wear glasses and cannot see well without them, this kit might not be a good fit.The EPs are not par focal, you will need to make small focal adjustments with each change.  This is not a big deal, but worth mentioning.  The filters can be a tad tricky to get started into the EPs at times, but also not a big deal.  The case is wonderful and everything is well protected.Of course, with more money, you can get par focal EPs that do not require refocusing with each EP change.  You can get EPs with wider apparent fields of view, which show more width at a given magnification.  You can get EPs with larger exit pupils / more eye relief, so that you can comfortably wear your eye glasses even with short  focal length, high magnification EPs.  All of these things do cost much more money, which is why I find this kit a great value for a beginner.After using this kit, I have a better idea of what EPs I would like to upgrade to in the future.  At the present, this kit is very functional in its own right and gives me the versatility that I want now.  For the money, this is truly the best option for a beginner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best value for a beginner </p>
+
+
+<h2> review.date </h2>
+  02-18-2013  
+<h2> review.text </h2>
+
+ <p> The eyepiece selection is awesome,  I have been combining them with the Barlow trying to find out what works best.  The wide angle one is especially good for my startblast 4.5.  However the filters I have been at a loss with so far.  They just tint everything a different color.  I haven't really noticed any difference using them with Jupiter but the neutral density is good for the moon when it is too bright to look at.Being a newbie to astronomy I really learned what eye relief was with these also.  It is a good variety of pieces that really help you experiment and get better images.  I saw Jupiter in more detail last night with the 10mm and the barlow than I could with my 6mm that came with the telescope.  Using the 40mm I was also able to locate Andromeda for the first time,  a slight fuzzy dot in the sky around the Detroit area.  Light pollution sucks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really loving the variety and the case </p>
+
+
+<h2> review.date </h2>
+  03-10-2014  
+<h2> review.text </h2>
+
+ <p> I purchased this accessory kit to complement the telescope we bought and found this to be an outstanding addition and actually a much needed addition to help us really enjoy our telescope. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding lens collection </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> All of Orion's products are well made that I've purchased so far and I am very pleased with this set. I had some cheap eyepieces that came with my 10+ year old 102mm scope and these are SO much better.The quality of the case better than expected and very attractive. All the lenses fit snugly as do the filters with the ability to add more. The eyepieces are solid and provide bright crisp views even able to resolve Sirius' double. The options for different zooms has been very helpful with the moon and planets too. Highly recommended for entry level astronomers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> I bought it and it works as expected, but you might want to consider getting a good eye relief Televue for close up viewing. But its a good set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice </p>
+
+
+<h2> review.date </h2>
+  12-26-2013  
+<h2> review.text </h2>
+
+ <p> I bought this kit with the StarBlast 4.5 Equatorial Reflector Telescope at the same time, right before Thanksgiving of 2013. The kit is more intensive than a new user needs or can use, but as I become more acclimated to the whole experience, I realize the kit is a much needed tool for stargazing, planet viewing or moon watching. My kit had an included moon filter and a 2x Shorty Barlow Lens, both of which I have used and can say with total honesty - cool! Included color filters are used to bring out details of planets, (I have not yet found one, but I've been trying!), and the moon is awesome with a red or green filter on the lens. I have seen Venus, I think, and the filters have not really helped due to the extreme cloud cover or atmospheric cover or something! It is a very bright star-like object in the SW and the red filter makes it appear to be Martianesque! In short: The kit is great, with wide lenses, powerful ones and narrow focus 6.3mm lens that shows the details of the moon in especially clear light. I just ordered a camera for the telescope and will write a review on that when I've used it a bit. As for the kit: Price, lenses quality, filter inclusion, moon filter inclusion (I think this may have been discontinued on the newest cases), sturdy foam-lined metal case, and instructions all make this a fantastic deal, and the new price is $20 lower than I paid, so it's even better! Price the lenses alone and you'll find the kit is FAR more practical and affordable than buying the parts individually. Excellent choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent kit for the money </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> I bought this set as an addition to my Celestron 90SLT telescope, and they were a huge improvement. The build quality of these eyepieces far exceed the ones that came with my scope. The two wide field lenses are really nice, and easy on the eyes. My single complaint is about the cases the filters come in, as they're completely unusable. Getting them open with gloves on it almost impossible, and sometimes they don't go back together. I'll be purchasing a separate case to hold them in. This isn't enough of a problem to take away a star from the product though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Set </p>
+
+
+<h2> review.date </h2>
+  04-14-2012  
+<h2> review.text </h2>
+
+ <p> I wanted to avoid accessory fever with my new SkyQuest XT8 but after a few nights of observing I decided I need more eye pieces and filters to get the most out of the scope. I was on the wire between this and the similar Celestron version with an extra eye piece/filter or two for $30 less. I did a bit of research and felt that the quality of this kit must be better. Reviews mentioned that the Barlows in the Celestron kit essentially duplicated a lot of the larger eye pieces and others mentioned the Orion accessory kit was better suited for the XT8 due to the focal lengths. I went a head and got this one.Shipping was pretty fast (3 days) and the package was well packed. The small lock and key mechanism on my case does not work, but it is not a deal breaker because I have no intention in ever using it. The case is also plastic, not aluminum but I did not expect this kit to go that far. It does feel pretty solid though. On the inside is plenty of room for filters, extra spotting scope, and maybe two 1.25" or one 2" eye piece if you cut the foam right. I used the space for a spotting scope for some laser pointers and a (red) flash light instead. I also was able to tuck the XT8 manual and tools under the foam just in case.The eye pieces and filters seem pretty good quality for the price. They are all metal bodied and feel of solid construction. I was impressed with the difference between the eye pieces. Going from the stock XT8 25mm EP to the 40mm was like the difference between a 19" monitor and a 40" tv. The image was also surprisingly bright. The smallest EP is great for looking at tiny objects. I was able to read a bill board on the Las Vegas strip from about 12 miles away with it. The filters impressed me quite a bit too. I was expecting the same effect you get as looking through cellophane but they were all very clear.I would recommend this to anyone new to astronomy without a club near by to sample different EP's/filters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good starter kit </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

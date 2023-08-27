@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 157224268X <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-08-2012  
+<h2> review.text </h2>
+
+ <p> This workbook is geared more towards people with manic depression. I have Aspergers Syndrome and major depression, and a lot of the exercises don't apply to me as I never really experience any highs. But I enjoyed the exercises that did. I really wish there was an Aspergers Workbook out there. :-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Geared more towards bipolar </p>
+
+
+<h2> review.date </h2>
+  10-25-2002  
+<h2> review.text </h2>
+
+ <p> I've owned this book for several years and I refer back to it again and again.  It not only contains tips for helping yourself out of a depression, but its checklists and forms actually encourage you to do the work you need to do. This book is also good for someone who is not depressed but just needs help with their lifestyle. Wonderful book.  I think it will help anyone who actually uses it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Wonderful Addition To Medication </p>
+
+
+<h2> review.date </h2>
+  03-15-2003  
+<h2> review.text </h2>
+
+ <p> This is an extremely practical book that everyone suffering from depression or manic depression should own.  It reminded me of Miklowitz's &quot;Bipolar Disorder Survival Guide&quot; in that it was filled with hands on, useful suggestions for how to cope with these mental illnesses.  The suggestions aren't always obvious, especially if you're depressed.  This book should be used in conjunction with therapy and/or medication.  Avery Z. Conner, author of &quot;Fevers of the Mind&quot;. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Helped me get through the day </p>
+
+
+<h2> review.date </h2>
+  01-13-2013  
+<h2> review.text </h2>
+
+ <p> Help for those with this diagnosis.  I found this useful for self-study.  It will engage you to challenge your thinking and help you identify those automatic thoughts that have destructive with ways to over come.  Certainly worth your money and time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Use in your fight against depression. </p>
+
+
+<h2> review.date </h2>
+  05-15-2013  
+<h2> review.text </h2>
+
+ <p> i use this with my cleints everyday.  A very useful tool.  i purchased this book several years a go and lost it.  I am so glad i bought it again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love it </p>
+
+
+<h2> review.date </h2>
+  06-21-2013  
+<h2> review.text </h2>
+
+ <p> Any workbook written by Mary Ellen Copeland is excellent for clients and written in a way they can understand and learn from.  I recommend any of her materials. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  06-09-2007  
+<h2> review.text </h2>
+
+ <p> This is a great book but I found that it was suited more for people with bi-polar issues or manic issues.  In addition, if done alone at home, it can bring up some really difficult issues.  I think this is great to use in a group setting or in a partial or full hospital program, but I found it to bring up too many emotions and prefer to use it in group settings only. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Non bi-polars beware </p>
+
+
+<h2> review.date </h2>
+  08-22-2006  
+<h2> review.text </h2>
+
+ <p> I found that this book was heavily skewed to bipolar depression.  While the information and exercises given are no doubt helpful to those with bipolar depression, I found that they did not really pertain to my unipolar (postpartum) depression.  I would look for different resources if you are suffering from unipolar depression. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Somewhat helpful </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> This is a practical workbook with real life suggestions on understanding depression and bipolar disease and living with it safely.  The author discusses many of the most common treatments, with their pros and cons.  There are also exercises to work through.  This book is also good for anyone who knows or lives with someone with either of these conditions.  The books describes ways to tell if an episode is beginning and ways to counteract things before they get out of hand.  It also gives realistic advice on ways to help people determine if another person is thinking about suicide vs actively planning on doing something.  She also suggests ways to help such an individual, including ways to get the person to a hospital.  Very useful book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> outstanding workbook </p>
+
+
+<h2> review.date </h2>
+  03-20-2003  
+<h2> review.text </h2>
+
+ <p> As a workbook, this is very good, and works very well. The author seems to have a chip on her shoulder about the medical community, which is her right; however, I take her opinions with a grain of salt. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical-with a grain of salt </p>
+
+
+<h2> review.date </h2>
+  04-28-2006  
+<h2> review.text </h2>
+
+ <p> Some of the reviewers have stated that the book made them more depressed because they were so depressed they couldn't follow the suggestions in the book. I will be the first to admit that you can be so depressed that you can't do much of anything including reading. This book does contain useful suggestions for times when you are not at the extremes of mania and depression when you can follow through on ideas in the book. It also addresses how to make some practical plans for what to do when these mood crises occur and how to moderate their disruptive effects on your life.The book provides a wide range of different approaches for detecting your symptoms, maintaining stability, moderating the effects of mania, developing a support network, and methods for stress reduction. In many ways, the book can be used the way you'd use a cookbook. Go through the ideas presented and find the ones that appeal to you and try them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical Options for Managing Bipolar </p>
+
+
+<h2> review.date </h2>
+  08-13-2006  
+<h2> review.text </h2>
+
+ <p> Depression is a horrible illness that I would not have survived if it were not for books like this one.  I researched and sought information endlessly when in the black hole of this horrible illness.  This book provides resources and information that is necessary for anyone suffering from depression or those working with the suffering individuals.  Always remember there is help and its not as bad as it seems.  Depression is an illness that effects your entire being so treatment is necessary.  You cant just shake it off.  This book helps.Definitely recommended for the depressed and those working with these individuals. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Help for Depression </p>
+
+
+<h2> review.date </h2>
+  07-20-2013  
+<h2> review.text </h2>
+
+ <p> I have TBI and found this to be informative, understandable, well written, pleasant and applicable to me and my questions/concerns. Enjoyable and recommendable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well written, easay to read, informative </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

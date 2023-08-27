@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000068TP7 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-19-2004  
+<h2> review.text </h2>
+
+ <p> When I first watched this movie I found it to be very disturbing, but it was original all the same.  I recommend that you rent this movie before you buy it.  The movie goes off into different tangents and during the movie I wondered if there was a beginning, middle, or end.  The plot twists are abrupt and you may have to watch it a couple of time to truly make sense of the movie.  I would not recommend this movie to someone who does not like gore or violence. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Disturbing Original Movie!!! </p>
+
+
+<h2> review.date </h2>
+  12-14-2010  
+<h2> review.text </h2>
+
+ <p> Terror Toons is a creative horror-comedy. It's not scary at all, and it's not too funny either (except for when Candy and Cindy's parents are onscreen), but it's got gore galore. It's about cartoons who pop out of the televison screen and start killing people in some of the grisliest ways imaginable. Jason Voorhees, Freddy Krueger, and Michael Myers don't even do this much damage when they murder people. I'm talkiing decapatations, intestines, and some poor guy even loses his brain. Recommended strictly for gorehounds. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best Movie I've Seen Today </p>
+
+
+<h2> review.date </h2>
+  11-21-2009  
+<h2> review.text </h2>
+
+ <p> Doctor Carnage and his faithful, go-rilla cohort, Max Assassin have come from TV-land in order to commit mass murder in the real world! Thankfully, they've brought their zany brand of homicidal humour along with them. Just imagine if BUGS BUNNY, THE ROAD RUNNER AND COYOTE, or THE 3 STOOGES had blood, brains, intestines, etc. in their routines. You wouldn't have to change a bit of the action, it would be the gooshy red stuff that would be shocking! Well, that's what TERROR TOONS is all about! Total butchery wrapped in sight-gags and groan-inducing jokes. So, if you have a weak constitution or a bad attitude, forget this one! Otherwise, enjoy the drippy fiesta of ferocious fun. Also available on DECREPIT CRYPT OF NIGHTMARES... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slippery Fun... </p>
+
+
+<h2> review.date </h2>
+  03-12-2003  
+<h2> review.text </h2>
+
+ <p> This movie is neat. The acting blows my mind. Also, rubber monkies and scary. I love when movies go nowhere and the story consists of people in a room somewhere find 2 rubber things and kill them and a man delivers a pizza then a superhero talks to satan and breaks a machine. All in only 2 hours. I was on the edge of my seat. not really. This movie made me attempt suicide. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review </p>
+
+
+<h2> review.date </h2>
+  06-08-2006  
+<h2> review.text </h2>
+
+ <p> I can't begrudge anyone for having fun making a homemade horror movie. I used to do that when I was a kid, and I would always have a great time. The best thing about it was that I didn't have a script going into it; I just made up the sequence of events and the dialogue as I went along. After it was completed, I'd show it to my parents and friends. Everyone had fun watching it, including myself. However, my pleasure in making horror movies didn't delude me into believing I had to share it with the general public, and I'm sure those of you who own a video camera would agree. The only ones who don't seem to agree are the people behind "Terror Toons," a film that proves anyone (and I really do mean anyone) can write, produce, and direct a film. These are the kinds of people I begrudge: the ones who feel that a cheaply made home video qualifies as a professional movie.It's absolutely incredible that this film got released; no one in his or her right mind could have expected this blatantly amateurish work to be taken seriously, and if they did, then they need some seriously expensive professional help. It's a crude, barely half-hearted attempt at entertainment, setting into motion a wrongly conceived excursion into the world of storytelling. Its foray into violence and gore was so juvenile that it barely passes as laughable, and its intentionally cartoonish special effects were so low grade that "special" doesn't deserve to be mentioned in the same sentence. Who really wants to see a doctor scooping bloody entrails out of a person whose eyes are spinning like the googly peepers of Cookie Monster? For that matter, who would want to watch performances or hear dialogue that wouldn't even pass muster in an elementary school play? It wasn't a case of bad acting for the sake of satire or comedy; the people cast in "Terror Toons" simply could not act.Even the story leaves a whole lot to be desired. When sisters Cindy (Beverly Lynn) and Candy (Lizzie Borden, of all names) are left home alone for the night, Cindy and her friend, Amy (Kerri Liu) decide to invite a couple of boys over for a little party. Of course, the conveniently absent parents have strictly forbidden this. But as we all know, teenagers never listen to the rules their parents set (especially since, in this case, the "mother" is played by a man). Candy initially protests. But as soon as she gets a mysterious package in the mail, her attention is averted. It contains a DVD called "Terror Toons," and she immediately runs upstairs to watch it. I guess she didn't care that she was given an item she didn't send away for. Then again, why should she? Despite the fact that Lizzie Borden is a twenty-something busty blonde, she's playing a character whose mental capacity can't be above that of a ten- or eleven-year-old (if you don't believe me, watch the scene of her taking a bath while singing "Rubber Ducky").Upon inserting the disc into her player, Candy immerses herself in a fast-paced, frenetic freak show of a cartoon series (despite the fact that all the characters are real, physical people). The two most prominent characters are the twisted Dr. Carnage (Matty Moo)--a mad scientist stereotype with a green colored, goblin-like face--and Max Assassin (Scott Barrows)--a monkey genetically altered into a gun-toting killing machine. Their appearances can only be compared to mass-produced Halloween masks, a quality that didn't do much to add to the film's credibility. But apparently it's credible enough for Candy, who watches their shameless exploits with the quiet enthusiasm of a kid watching a Saturday morning cartoon. At least, that's how she behaves at first; eventually, the show ends, leaving her with nothing but a shot of a hypnotically swirling spiral. She then falls asleep, giving Dr. Carnage and Max Assassin ample time to cross through the television screen into our world.Meanwhile, Cindy and Amy invite Rick (Brandon Reininger) and Eddie (Fernando Pedilla), two typical horror movie males who like to work out and bring alcohol to parties. Their arrival leads to a discussion of what they should do, and almost immediately, it becomes a sexually charged debate: the guys want to play Strip Poker while the girls want to fool around with a Ouija board. They eventually compromise on a game of Strip Ouija. Even though I have no idea how this game would work, I wouldn't have minded watching this scene. I actually didn't mind it at first. Then I noticed the board itself; the filmmakers actually spelled out the name of the game as "Weegee." Was this done on purpose or did they genuinely not know how to spell the word properly? Ultimately, I realized it was pointless to try and figure it out.It was also pointless to understand the direction this film went in. The demented toons eventually make their presence known to the rest of the cast, resulting in a mishmash of cinematic blunders, including a slew of over the top death scenes, most of which involved a series of oversized props. All of these murderous moments make use of slimy animal organs that are drenched in stage blood. And from that description alone, it's obvious that this is the kind of unnecessary drivel that would barely appeal to immature teenagers, let alone the horror movie demographic. How could it when it includes a cop (James Sullivan) that follows the rubber-faced killers into the real world? For him, the motto, "To protect and serve" amounts to nothing more than an excuse for an incredibly condescending attitude. And would it surprise you to learn that he likes donuts?When Cindy meets the Devil (Jack Roberts), I came to the conclusion that the public should never have seen this. I'm sure the actors had a lot of fun working on "Terror Toons." In fact, I hope they did; no one working on something this bad deserves to be stressed in the process. But it can't be denied that this has all the qualities of a made-to-be-laughed-at personal film, something to be viewed only by family and friends. It's a disgraceful attempt at filmmaking, and it has no place in video stores or even in the thoughts of the movie going public. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This Gives Cartoon Violence a Bad Name </p>
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> After watching the trailer for this, it looked like the ultimate so-bad-its-good movie...but boy was I wrong.  It tried SO hard to be that, that it fell completely flat on its face on every level.  I watched this with other friends who also enjoy so-bad-its-good films and they also thought this was awful.  It was also far too long, even at 75 minutes.  Everything about this is so bad, and so obvious that it was intentionally bad, that it loses all of the charm that gives most so-bad-its-good movies their appeal.  They even had a porn actress playing the role of a little kid, nudity and all.  Avoid this, unless you're really looking for the worst of the worst. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Seriously Awful </p>
+
+
+<h2> review.date </h2>
+  07-03-2006  
+<h2> review.text </h2>
+
+ <p> I took a gamble and bought this from the $5 bin at Block Buster.Ever since, I have given up gambling for good.Thank you, $5 bin. You have shown me the light. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hoo boy. </p>
+
+
+<h2> review.date </h2>
+  10-10-2005  
+<h2> review.text </h2>
+
+ <p> This movie is funny,corny, stupid and gory AND NOT AT ALL TO BE TAKEN SERIOUSLEY which all wroks well for this film. Dont expect something serious just something ridiculous.A couple of satanic cartoon characters are released into a  house hold from a cartoon dvd delivered to the house by Satan. These 2 cartoon characters are there to kill who ever possible.In all sorts of cartoonish ways.The acting is bad but to the point where you will keep watching, the gore is definitly there and not bad at all.The 2 daughters must be porn stars as some else stated, when you see you will be able to tell why. The plot it self is funny as the 2 cartoon killers are definitly hmorous.To watch this you got to have an open mind on what it is. Its not really a horror movie just quit funny, silly and gorey, just watch it to have fun, that is all, and enjoy it for what it is.A destined cult classic, I dont know ** MAYBE ***, but a film that should be viewed by horror fans that have an open mind and can watch something as ridiculous as this and enjoy it I did. Its just fun and humorous.With some very bad acting.Also if you are willing to see this then you should check out " Meet the Feebles" ( Direcyed by Peter Jackson ) or if you already saw it then you will be able to enjoy this, cause you must be open minded to watch a movie that contains no human chgaratrers just puppets. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny movie with GORE, take it for what  it is... </p>
+
+
+<h2> review.date </h2>
+  05-27-2003  
+<h2> review.text </h2>
+
+ <p> It was a rainy "memorial day weekend", the local theatres were mobbed, so a friend and I rented this steaming pile of ...Yeah, I've made intenstinal sculptures that were more appealing than this mess.  I fully expected to MST3K this movie to death, and oh boy, did I ever.  The VHS version has the producer/director/some dude behind the scenes, come out in a leather jacket, spiked hair and the worst "i'm a bad guy fear me" tone in the history of cinema and deliver the entire plot in 1 minute, before the actual "feature" begins.  The plot, the acting, the sets, the characters... it's all toilet tissue.  The single greatest special effect was the 4 seconds of nudity provided by the "little girl" (who looked like a 20something stripper with amazing fake boobs, Lizzie Borden? yeah..right) Not to mention this cross-dressing troglodyte who through 9 pounds of make-up, hair, and nail extensions was unable to pull off 12 lines of dialogue (as the MOM character no less!) in anything resembling a high range voice.  Indeed, the gales of laughter my friend and I received when "she" attempted to 'scream' and at the conclusion of the movie, and "her" voice was lower than "DAD's".... reminded me of Herman Munster in drag.... sad.  (Eddie Izzard you aren't...)I can go on and on about this train wreck, I am still trying to figure out how the heck this junk made it to the shelf of my local video store...... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MST3K vs Terror Toons </p>
+
+
+<h2> review.date </h2>
+  01-08-2006  
+<h2> review.text </h2>
+
+ <p> This movie is a total piece of S**T. I rather watch House Of The Dead 20 times in a row than watch this movie again, and you all know how bad House Of The Dead was. Nuff Said. Save your money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NEGATIVE 5 stars </p>
+
+
+<h2> review.date </h2>
+  06-28-2003  
+<h2> review.text </h2>
+
+ <p> A few months back, I named "Not Another Teen Movie" as the worst movie ever. Well, as horrible and not-funny as that movie is, this one, called "Terror Toons" is even worse. At first it's fun to laugh at it. The production value is terrible the acting is atrocious and there is absolutely no plot. Then the movie gets annoying. Then gross. Then finally it gets unwatchable. This happens in the first 25 minutes of its ghastly 110-minute running time. There is tons of gore, many scenes that tease with possible nudity, endless scenes that have nothing to do with the rest of the movie, and not to mention the worst villains ever. The funniest part of this farce is the pitiful introduction by what we assume is the director. Words fail to describe the horrible execution. Imagine some loser with punk clothing and spiked hair speaking in what he hopes is an evil voice telling you about the villains of the movie and trying to make them sound evil and ferocious. The saddest part of all of it is that he looks proud of this movie. This is what happens when idiots with absolutely no creativity decide they can make a movie. The little kids in my neighborhood have done better than this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The new worst movie ever... </p>
+
+
+<h2> review.date </h2>
+  09-22-2002  
+<h2> review.text </h2>
+
+ <p> Terror Toons is a film worthy of rental, but only if you are looking for a gory good time. The plot isn't necessarily scary, but instead it relies on some of the nastiest scenes of gore and over-the-top violence that I have seen in a movie to date. Think I've just got a weak stomach? Rent this film, and see how well you can stomach some of the scenes. However, if gore and a raunchy good time is what you are looking for, then rent it, but don't purchase it! Trust me, the film has enough blood, guts,  insanity, and above all, laughs to keep you from turning it off, but I just couldn't see myself watching this more than once. Plus, it's shot on a home video camera...so...3 stars for the fun factor involved. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> See it once, don't see it again... </p>
+
+
+<h2> review.date </h2>
+  07-14-2008  
+<h2> review.text </h2>
+
+ <p> Possibly one of the most bizarre horror movies out there. Worth seeing for novelty value alone.Two sisters get bothered by a creepy cartoon video, sent by the devil, no less. (Of course no-one knows it comes from the devil at this stage).One sister loves it so much she inadvertently releases the characters from it into real life, so we get to see Dr. Carnage and Max Assassin (!) on a fun-filled, murderous rampage amongst the ranks of the silly sisters and their friends, boyfriends, whoever, it doesn't really matter, no-one is going to seriously care about any of the characters in this movie, it is just throwaway fun. The region 1 dvd cover is so crazy, I just love it!I see there is also a "Terror Toons 2" out! A murderous Hansel and Gretel. Have to see that too! LOL. (Though the dvd cover for that is not as fiendishly freaky as this one. This rules for effective cover art!). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dr Carnage and Max Assassin. Everybody's favourite cartoon characters! (Wonderful weirdness rules!) </p>
+
+
+<h2> review.date </h2>
+  11-04-2005  
+<h2> review.text </h2>
+
+ <p> Basic Plot: The diabolical duo of doom -- the goofy "Dr. Carnage" and his whacky ape-like creation "Max Assasin" -- have been unleashed from the cartoon dimension and into our world via a DVD produced by Satan himself.Terror Toons is the type of horror-comedy that gets trashed by so many people who were expecting something different when they slid the DVD into their player. I'm here to tell you, if you're not a fan of the cheesiest, dumbest, kookiest film making available to the public, then this is not for you. TT presents a warped reality of murder, gore, and silly gimicks that -- as far as I can soberly tell -- makes no sense whatsoever. And that's how I like it! From over-sized slaughter weapons, to clownish sound effects, to hammy acting, to ridiculous rubber-masked killers, this film's got it all. There's even a spontaneous disco dance breakout. Just be warned, only devout "so bad bad it's good" fans will enjoy this. Those and, of course, people who are stoned out of their mind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's Twisted, It's Outrageous, It's...Terror Toons! </p>
+
+
+<h2> review.date </h2>
+  05-31-2014  
+<h2> review.text </h2>
+
+ <p> I actually enjoyed this movie, but part of that may stem from my twisted sense of humor and love of most cartoons, esp. Looney Tunes. This film was clearly inspired by cartoon characters and various antics, with a much more gruesome set of results. Independant, very low budget, b-movie cast, but now, I'm very curious about the sequel. I'm well aware of those who despised this film, obviously, I must be in the minority. Oh well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> low budget once again, doesn't mean worthless. </p>
+
+
+<h2> review.date </h2>
+  06-25-2009  
+<h2> review.text </h2>
+
+ <p> I have had this movie for about a year, and I finally finished it! It's extremely crazy, and makes you feel like you are tripping on acid! There are melodramatic moments, silly dialogue, a transvestite mother, weird lookin' killers, and much more! When their parents are out of town, Candy and Cindy are home alone. Candy receives a 'Terror Toons' dvd in the mail, so she goes to her room and watches it. Cindy calls some friends to come hang out. Soon, Dr. Carnage and Max Assassin escape from the tv and turn reality into their world. I'd probably recommend TERROR TOONS!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kinda Silly!!! </p>
+
+
+<h2> review.date </h2>
+  06-24-2003  
+<h2> review.text </h2>
+
+ <p> I don't know about anybody else. But I think this movie is just plain awesome. As in most B-flics the acting isn't the best in the world, in fact it is just plain awefull. But if you can put that asside, you should really enjoy this movie. The movie is about Dr. Carnage(Matt Falletta) and Max Assassin(Scott Barrows), they get out of the cartoon world through a DVD that is made by the Devil. Young Candy(porn legend, Lizzie Borden) watched this DVD and sends these Creatures free in our world.The only one who can save us, is Cindy(Beverly Lynne, Candy's older sister.Now tell me. How can you not get behind a movie like this. And for those who liked it, be prepared for Terror Toons 2. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great B-Flick Movies </p>
+
+
+<h2> review.date </h2>
+  11-10-2004  
+<h2> review.text </h2>
+
+ <p> This movie looks just like someone's high school film project. The background props are so cheap and fake. The film quality looks just like a home camcorder.The two monsters in the movie are just 2 guys dressed in Halloween costumes. This movie is so horrible it's not worth even a rental. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A teenager's cheap homemade movie </p>
+
+
+<h2> review.date </h2>
+  06-02-2005  
+<h2> review.text </h2>
+
+ <p> Dr. Carnage & Max Assassin kick a** they stalk, torment and kill in wild and kooky cartoon traditions this is one of my favorite movies the animated violence in this movie alone is woth the price a must have for every B movie fanatic! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Animated to KILL!!!!!!!!!!!!!! </p>
+
+
+<h2> review.date </h2>
+  02-23-2004  
+<h2> review.text </h2>
+
+ <p> Terror Toons...what can be said about this huge pile of crap? I really don't even know where to begin, probably from the begining, yes? It starts off with the story of dr.carnage and his assistant, then it soon moves to Lizzi Bordon naked, with the mind of a 5 year old...as if thats not expected...then, you discover the parents are going to a wedding...a two day wedding?...The parents tell the girls not to have anybody over, but, as you never would of guessed, the older sister has a few people over while the younger sister is upstairs watching a newly arrived dvd in the mail titled "Terror Toons", which is of course directed by satan himself. Soon the toons come out of the TV and terrorize the teens. But wait! thats not all! The older sister turns into a super hero and visits satan, then, of course, destroys the toons and all is well again. I give one star to whoever directed this simply because he had the guts to put this out, and two stars for the side-splitting laughs I got out of this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another work of gold </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 158115206X <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-02-2008  
+<h2> review.text </h2>
+
+ <p> Aside from the contracts themselves, the author provides you with a negotiating checklist for each contract to help you edit the documents to meet your personal job needs.  It also helps prepare you for presenting the contract to your customer.  Lots of helpful tips as well.One type of contract that I found missing is a release that allows a client to print and display the photos without totally transferring the copyright over.  I like to keep my own rights to my work, while allowing clients to use them as well.The index could be easier to use. I tend to have to hunt for some types of contracts.  Still, this book is a resource that is well worth it's price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrific resource.  The CD makes editing each contract easy. </p>
+
+
+<h2> review.date </h2>
+  06-13-2008  
+<h2> review.text </h2>
+
+ <p> I bought this book and its utter waste of paper and money. There are much better forms available for free to be downloaded from the internet. This book is completely useless for anyone who lives outside USA. I think Americans are smart enough to google the kind of forms they are looking for. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really bad </p>
+
+
+<h2> review.date </h2>
+  08-11-2003  
+<h2> review.text </h2>
+
+ <p> Great book as a reference tool.  Why reinvent what others before us have used?  Using actual forms and a CD to personalize, this is a great tool for all photographers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Book! </p>
+
+
+<h2> review.date </h2>
+  04-30-2009  
+<h2> review.text </h2>
+
+ <p> I ordered this without really thinking.  I thought of how to photograph my ceramic works professionally.  I did a wrong choice.  So I am not reviewing the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Business & Legal Forms Photographer </p>
+
+
+<h2> review.date </h2>
+  09-14-2006  
+<h2> review.text </h2>
+
+ <p> Tad Crawford has written a whole series of books out of his expertise in the law and creative arts, with a special focus on photography.  I'd suggest looking at Tad's other books, too, since this one is more action-focused without extensive explanations of the whys and wherefores of it."Business and Legal Forms" has the documents you'll need, such as Wedding and Portrait contracts, model and property releases, copyright transer forms, publishing contracts and stock photography forms. His descriptions are very helpful.  Of greatest practical use, though, is the included CD-ROM containing MS Word documents of all of the forms.If you're just getting started in photography, you need this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tad Crawford Does It Again </p>
+
+
+<h2> review.date </h2>
+  04-03-2013  
+<h2> review.text </h2>
+
+ <p> If you are thinking of a carer in photography I would buy this book!  It provides all the forms you might need and some great information. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Get this book! </p>
+
+
+<h2> review.date </h2>
+  04-13-2009  
+<h2> review.text </h2>
+
+ <p> This book is exactly as advertise -- copies of the legal forms you will need as a professional photographer, from the expected model releases to wedding contracts, book contracts, stock photography, etc.Whether you plan on writing your own contracts or using these boilerplate templates, the most important part is the education provided on each contract type.  If you receive a contract from another source or one is offered to you, compare it to these and see what is included and missing and learn to think about why and what it means to you.As such, an invaluable book for any pro. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly as stated, no more but just enough. </p>
+
+
+<h2> review.date </h2>
+  05-15-2009  
+<h2> review.text </h2>
+
+ <p> This is a great book for general content and advice on how to write a contract. Do not expect to take this book and copy the forms and have them be applicable to your business needs today. If I recall correctly, this book has a copyright date of 2001. At that point in time, there was not a heavy contingency of professional photographers shooting digital. The contracts contained within the book are geared towards film and negatives, and proofing books, which are largely becoming obsolete as digital continues to march ahead.Furthermore, the included CD-ROM of forms, do not port over to modern versions of Office suite products. I tried opening the forms in Office XP, Office 2007 and Office 2008 for Mac, and the formatting was largely lost. Check boxes were no longer recognized, and borders were lost.I'd recommend the book if you're looking for advice on what to put into a contract, not something that you can open the documents, make some edits, and be ready to go in 30 minutes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So-so book </p>
+
+
+<h2> review.date </h2>
+  05-23-2007  
+<h2> review.text </h2>
+
+ <p> This is a perfect book for photographers, with sample forms, explanations as to how and when they would be used, and a CD with the same forms that can be customized. Very very useful, and excellent purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> perfect for photographers </p>
+
+
+<h2> review.date </h2>
+  11-29-2008  
+<h2> review.text </h2>
+
+ <p> This is a very beneficial book.  And for the price, you can't go wrong. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> The book works great to give you a starting point for your photography contracts, I have already recommended it to other photographers because contracts is always a hard thing to write up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great foundation for contracts </p>
+
+
+<h2> review.date </h2>
+  03-08-2007  
+<h2> review.text </h2>
+
+ <p> This title is a great addition to any photographer's library.  If I ever need to find a contract or form to use, this book has it.  If it doesn't have it, it does have something similar to what I need so I can adjust it to work for me.Speaking of working for me...the CD included with this title is a God send.  It has all the forms from the book in RTF and Word form.  This is nice because you can just go add names or make edits as you see fit without having to retype everything on a page.It also explains thing you need for each form if you want to create your own (such as basic guidelines for a consent form).I'd recommend this book to any photographer without an attorney or many years of business/legal experience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great title for photographers </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

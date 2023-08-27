@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B008I640QS <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this extra coverage for a Sony speaker system. It was a fair price to gain a extra year. Only problem I had was I returned the speakers because I found out I needed a amplifier to make it work. Therefore, I had to cancel the extra insurance. But, if I buy anything in the future and the price is right, I would get it from this company. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT OFFER </p>
+
+
+<h2> review.date </h2>
+  05-24-2014  
+<h2> review.text </h2>
+
+ <p> My daughter had her Iphone insured with them and it took over a month to get a replacement. Better to get Apple's own Applecare. Don't waste your money. Very few (other than Applecare) warranties are worth the cost. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too many exceptions in their terms; takes too long for them to process claims. </p>
+
+
+<h2> review.date </h2>
+  12-16-2013  
+<h2> review.text </h2>
+
+ <p> Nice peace of mind for my Roku just in case anything goes wrong. I normally don't buy extended warranties, but this was very affordable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good peace of mind </p>
+
+
+<h2> review.date </h2>
+  12-26-2013  
+<h2> review.text </h2>
+
+ <p> I purchased a blu-ray player for my parents on Amazon and not having purchased the greatest one ever made, for a few extra bucks I decided to go ahead and get this extra warranty. The blu-ray player was supposed to be a Christmas present (but we ended up giving it to them early!) so I had it sent to our home, and therefore the warranty was set-up in our name, initially. I got one or two friendly e-mails about registering the product (nothing spammy and since then nothing!) and a letter in the regular mail with set-up instructions but since it was a gift I just gave all the info to my dad for him to set-up since it was going to be HIS blu-ray player.Well, having been bought under my name and address, he couldn't complete the setup online (my dad isn't computer saavy so this may have been doable online just not obviously so!) so he called the number on the snail mail letter. I subsequently got a call, on three way (me, my dad and the rep) with a very courteous, friendly Square Trade representative who quickly and politely took my information and easily transferred the warranty to my dad's name. The rep was easy to understand, which makes me think they keep their customer service in the US (yay!) and later on I called my dad to make sure he got everything taken care of and we both were impressed with the guy who helped transfer the warranty.It's been maybe six weeks and we haven't had any problems with the blu-ray, but if the warranty set-up was any indication, these folks are the ones to pick when you need help! Would not hesitate to purchase from them again and would HIGHLY recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AMAZING AMAZING AMAZING! </p>
+
+
+<h2> review.date </h2>
+  03-15-2013  
+<h2> review.text </h2>
+
+ <p> seems like a good warranty . Hopefully I will not have to use it . Provides peace of mind for the user . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sense of security </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> Hard to really evaluate the Protection Plan when I haven't had to use it.  It seems to be a great bargain and if they honor it, then I would judge it five start. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good bargain, but haven's had the opportunity to use it. </p>
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> Seldom do you find the cost of warranties justifiable.  Many time the warranty cost is close to the replacement of the product.  Not so with Square Trade.  A 2-year warranty in my case was very affordable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Warranty </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> Between my wife and I, we have three kindles. An original, a Fire and a paperwhite. I wouldn't buy anything from amazon without getting a protection plan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent protection plan. </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> Better then the price charged by the big box stores by far and still the ease of shopping from home! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great price </p>
+
+
+<h2> review.date </h2>
+  07-13-2014  
+<h2> review.text </h2>
+
+ <p> it a piece of paper </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One Star </p>
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> Hopefully, I won't have to use it to review...the square trade av protection plan seemed to be a good price for the coverage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I do not want to try it... </p>
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> This is an inexpensive option to protect your valuables after the fact.  It's a great option at its price.  Definitely would recommend. to others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheap plan </p>
+
+
+<h2> review.date </h2>
+  11-17-2013  
+<h2> review.text </h2>
+
+ <p> Purchased warranty, but have not needed it yet. Hope that I do not but is a lot of peace of mind for only a few dollars. WIsh I had known there was a three year warranty offered. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A lot of peace of mind for only a few dollars. </p>
+
+
+<h2> review.date </h2>
+  01-03-2014  
+<h2> review.text </h2>
+
+ <p> SquareTrade is a pretty solid protection plan.  They ship quickly without much fuss or hassel.  They don't cover theft or loss, but they seem to cover everything else.  If you're prone to breaking things, this is a good service to have! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick and Easy </p>
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> I got it just in case the stereo unit falls apart and I have to ret it. reviews were good but you never know. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Protection Plan </p>
+
+
+<h2> review.date </h2>
+  12-15-2012  
+<h2> review.text </h2>
+
+ <p> I can't really say if they stand up when needed but I've got SquareTrade coverage on 3 different products and have never had to use it. It covers everything and is too cheap to pass up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product </p>
+
+
+<h2> review.date </h2>
+  04-22-2013  
+<h2> review.text </h2>
+
+ <p> Actually, I had to cancel my associated Amazon order for the Sony dvd player twice. The first time because Amazon didn't deliver in time for Christmas. This time I received the order in time for a birthday present but someone else had already given my granddaughter the same thing. So I had to once again return it.On the first order, I called Square Trade and you graciously cancelled the order and issued a refund. This time, I returned the Amazon order for credit but I did not call Square Trade again. Guess I was embarrassed to ask once again for a refund. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My Bad </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> For the price this is a good option! Super easy plan, order it and print it out to go with my gift!! Hopefully the item I bought will hold up and I wont have to use it. But nice to have a protection plan! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Option </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> It is very hard for one to evaluate a protection plan until you have had to use it. I do feel everyone needs one for electronic items purchased on line. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mr. Bill </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

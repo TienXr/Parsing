@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00D4NX6MY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> So far, so good. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Snaps on snug; hard plastic won't cushion from drops, but will prevent nicks and scratches if transported around.Bought for my high school son's Chromebook that he takes to school with him every day. So far it's lasted over two months without anything breaking on it. Good quality. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Protection for your Samsung Chromebook </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have 2 Chromebooks and purchased 2 of these covers. It is similar to hard shell covers of many cellphones. It provides all around protection from scratches and dirt (depending on where you use a Chromebook). Cleaning is easy with just a wet napkin. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this to protect my new Samsung Chromebook; it was incredibly easy to snap on and I feel as if my netbook is really protected. It does smudge easily, however, but a quick swipe of a damp cloth takes care of that. If the prices come down on the other colors (I bought black because it was the cheapest), I would buy another. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect Fit </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The snap on case for my Chromebook just arrived. It's opaque black rather than a solid color but it's opaque enough. The two halves snapped right on. The side anchor tabs appear to be adequate and aren't blocking anything. It appears to be a good product. It's a plastic cover and not much more to say about it.After a few days there's a bit more to say about the case. It's a fingerprint magnet. The half that covers the display is snug enough and no issues there. The bottom half is quite another. It doesn't fit snug against the Chromebook case in the front corners and there's no attachment tabs near either front corner. The tabs are front center and midpoint on the right and left sides. I now have a significant creaking noise from the cover when I open it up.Another day with the creaky iPearl case. Today I needed to finish up a document. I opened up the legs to tilt the Chromebook on the desk, rested my palms and, creeeeaaakk. Each time I put downward pressure on the palm rests the ill-fitting front corners of the lower half of the case creak loudly and this without moving the Chromebook. The source of the creak is actually plastic rubbing against plastic. The lower case right and left front corners are rubbing against the Chromebook case edge at each point. Had there been two attachment tabs, one on each side and in front next to each corner this wouldn't be an issue. Over a long term this will just wear away the Chromebook corners.I give up. I can't stand the creaking. It's off. I'll try to fit some thin foam in the corners when I have time. Others say theirs is a perfect fit, this one isn't. Maybe mine was formed on Wednesday (old American car humor anyone over 55 might remember). I shouldn't have to call whatever tech support might be for a piece of plastic but I'll give it a try before I return it for a refund. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for Protecting Your Chromebook </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Its great for protecting the Chromebook, but because the clasps pull the edge of the case down the mouse pad sometimes doesnt work correctly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Samsung Chromebook Case </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the only shell case I have seen. I bought a broken and scuffed up Samsung Chrome book and repaired it. This skin case looks good and fits tight but it creaks and feels cheap compared to a similar design on my IPad. The bottom shell also seems to retain heat although it is not hot.  When using the Chromebook without the shell it seems cooler. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A good buy! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Snapped in place easily, and protects the unit from bumps and so forth.  It's not a &#34;protective&#34; case as much as it make the unit (especially the top with the LCD in it) more rigid and less likely to bend and break the LCD.  It looks great in place and I'm totally satisfied. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect because </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My chromebook is my go to, throw around, use all the time laptop, As such, it was starting to get some scratches and wear. I like this case for several reasons. It is hard plastic, not a decal or skin. It still adds no bulk to the chromebook. It comes in 2 pieces, a top and a bottom. I installed the top and put the bottom in a drawer, probably never to be used. By using just the top my chromebook looks like new, is protected, and is still thin. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Protection low cost </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The 2 piece hard shell case snaps on nicely to the Samsung Chromebook.  It gives the whole book more rigidity and durability.  My biggest complaint about my chromebook is how flimsy the plastic case and screen seem to be.  This makes me much more confident that it will not be damaged. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice Fit Nice Look! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This fits well and looks very nice. It actually makes it look like a regular lap top! I have a translucent one as well for another Chromebook and it looks and fits nice. Since it is translucent it retains it's Chromebook look since you can see the Chrome logo! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This stupid case scratched up my chromebook </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The bottom cover fits fine, but the top cover does not. When I put I tried to open the laptop the little black cylinder shaped (shown in the picture - look at the top cover then move down to the base of it and you see 2 semi-cylinder black pieces) connector gets in the way. It moves into the seem of the laptop as I try to open it and I have to press down on it as I open the laptop in order to get it completely unfolded. So I take off the case and guess what? The stupid thing scratched up my chromebook. I am so furious. I bought this case even before the I got the chromebook itself so that I could keep it in perfect condition from day one, yet the case itself has ruined that. DO NOT buy this case. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Only Hard Case for the Chromebook, Good Thing It's a Good One </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p>  </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great case </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have to say that I love this case. It absolutely transforms the look of the Chromebook to that of a much more expensive looking machine. The pictures don't do it justice; it looks much better in person. The case fits perfectly, and everything snaps into place. Overall, I'm very pleased with my purchase. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Does it's Job </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ordered the black cover. It installed easily.Had a problem with the lid cover. It would not stay in place after opening the lid once or twice. The 2 small hinge covers would work up and and start to bind. Called IPearl they apologized and sent me a new one. They told me that I could cut off the 2 hinge tabs if I wonted too and it should still work. I did that and every thing worked. When the new lid cover arrived. I decided to keep it for a spare.  Looks Great </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice Cover </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This case not only protects your ChromeBook from scratches, it looks good too.The fit is right-on. Excellent quality at a low price.Unfortunately I returned the case because I returned the Chromebook. I decided that it wasn't for me.An Apple iPad did what I wanted the Chromebook for and so much more.But if you've got a Chromebook I'd definitely recommend that you check out this iPearl case. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Poor or inconsistent quality </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Top half of case came warped.  Every time I open the Chromebook the curved portion around the hinge catches on the lower half of the case and make a horrendous cracking sound unless I hold it down.  Poor quality craftsmanship. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great protection </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's a bit bulky and slips around on the lid a little bit, but it is very nice otherwise.  I approve. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> iPearl mCover </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love the iPearl cover for my Samsung Chromebook. Price was great and it fits perfectly!I bought the iPearl to keep my year old Chromebook looking nice without any scratches.The bottom cover works especially well in that it stops the Chromebook from flexing when you are reclining in a desk chair and typing or using the track pad. The Chromebook now feels more solid without additional weight.Money well spent!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Received my cover today </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I received mine today and like the others I love it.  It makes the Chromebook sturdier and I prefer this color.  I might get the blue one too just for a different flavor.  I won't repeat what the others said.  Just wanted to reiterate.Also, my shipping was quite fast and I didn't pay extra.  2 day I think? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice cover but ..... </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> THE GOOD - the cover is very well made - nice and small - tight fitting - light weight - good quality - easy to install, easy to remove and it looks like it offers the protection needed for the small Chromebook - plus the price is rightTHE BAD - as I used the Chromebook with the cover I noticed it became more and more difficult to use the trackpad with any accuracy - hum? - thought for sure it was the Chromebook and was ready to pack it up as defective - took the cover off to return the Chromebook and just for the heck of it I started to use the Chromebook again - Wow no problems with the trackpad - put it back on - same problems - took it off - everything works as designed </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Only hardshell case for chromebook... </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The screen piece fits rather snug but leaves every single finger print possible on it. As for the bottom part, there are 2 legs to prop the chromebook up that are not the best quality and are pretty loose. Also, whenever I put my hand on the chromebook (left of the mousepad) I hear a clicking noise because the bottom piece isn't completely snug against the machine. NOT the best product, but I guess it does it's job in protecting it as it is the only hard case available. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect fit...perfect protection... </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like the security of knowing that my chromebook is protected from scratches, but also that my white chromebook now looks like the black variety and thus cool factor has increased. It has a perfect fit and snaps in place perfectly...although I do suggest cleaning your laptop before putting the case on. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

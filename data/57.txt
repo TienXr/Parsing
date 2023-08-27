@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002QRZLMC <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great fan </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved the fan it worked great until i decided to take my xbox apart and solder it the right way. This mod is not for new people. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Fans </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Got this fan for my older modeled case. This fan sucks the hot air from the case as the back exhaust. The LEDs are extremely bright and continue to be bright. I have not seen a change in brightness since i bought the thing. Only problem i would say the fan has is that after a while the LEDs melt the holes they are in. However this does not effect the fans performance, i just assumed that was what the manufacturer intended. At the end of the day it is a great product and i am happy to recommend it. It has been 6 months since i bought the fan and it continues to blow/glow strong to this day. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Quiet fan </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a very quiet fan to run. And the lights out of it are very bright. If you are going for a light theme like I did, then these fans are perfect. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bright!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Pros- Very bright and move a good volume of airCons-  Loud !! but i guess thats the sacrifice for having a push/pull configuration on the CPU </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Powerful but loud </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Plugged 2 as case fans via the PSU and boy,  are they loud! However, they sure push a lot of air and are even more effective than my 120mms. In fact, I'd say one can displace close to my Silverstone AP180 on high.On a side note, one of them shipped without the wires soldered to the board. I had to solder it myself thus the 3 stars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good.  Moves a lot of air. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Just put this in a microATX build for my son, as it had a 92mm rear exhaust mount.It looks good, the blue LEDs are quite a bit brighter than I expected.  Make sure you know what you're getting into.Moves a lot of air (a LOT of air, especially for this size--I feel like the exhaust is pushing out what my 120mm exhausts push out, but I did not scientifically measure), and consequently, there is some noise to it.  Unfortunately, the motherboard in the system only had a non-controllable fan header left available, so I cannot comment how this fan looks/sounds on lower voltage/RPM, as in my configuration it's always on max.  But I'm guessing at 50% power you wouldn't hear a thing.I'd buy it again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> MASSCOOL BLD-09025S1M </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> MassCool Fans are the best and at such a great price, I keep my systems Rockin' and cool. MassCool is Cool </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great 92 mm fan. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Just got this fan to add to my new Cooler Master Hyper TX3 for my AMD FX8350.  This fit into my bracket for the second fan like a charm and only took a minute to install.  Moves a significant amount of air, I am sure it is helping with cooling.  Blue LED's look great with the rest of my blue hardware. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Buy this right now! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-12-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> ok so i was using a stock fan of an hp pavilion p7 1010 on my hp pavilion 6510f, here is my specsXFX Radeon 6870 1gb880 watt cool power gamer series3.5 970 amd phenom x48gb ram1 terrabyte 7200 rpmand one cyclo pci led exhaust fanmy heat before buying this on my video card and other parts was 50+ CelciusVideo card sometimes reached 82 Cunder full load with this fan installed it barely even comes close to 50 Conly thing that stays up past that is my core going at 51 C or lowerAnd For Shipping, i got it way faster then delivery estimate, i was so surprised i got this fast. comes with one year warranty on order details.has a 3 pin connect for the motherboard and a 4 pin molex going from your powersupply (i have both plugged in)Well Update on Any problemsI Have the fan blowing inside my case.Cons:Screws dont fit, doesnt come with screws either, i got them in but with them to hold the fan in place enough. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Fan, but bet careful </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Shined bright and spun fast, but bought two and both were defective. One was DOA while another's fan had to manually start the spin. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> MassCool BLD-09025S1M 92mm Blue LED Case Fan </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Item functions as it should and is less noisy than my previous case fan (a delta 92mm). However, if the room is quiet, you can hear it humming away; not very annoying though. Good air flow, and blue LEDs give a nice effect. Recommended. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

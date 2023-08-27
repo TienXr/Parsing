@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004ZCHWBY <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-11-2011  
+<h2> review.text </h2>
+
+ <p> Got it today, installed it without any problems.Previously had 2 Radeon HD 5570 with crossfire enabled.Was playing Skyrim at the lowest settings possible and still had some frame problems, now playing at High settings, frame rate is high and steady and no problems at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very satisfied so far </p>
+
+
+<h2> review.date </h2>
+  02-13-2012  
+<h2> review.text </h2>
+
+ <p> I just installed this video card in my new small form factor build. I am very pleased with is performance. It handles StarCraft 2 like a dream. I am sure it will also run Skyrim with modest performance.The card is 8.5" long and will fit easily in most all cases. It is very efficient and consumes low power at idle.I love this card! I am so glad I chose the 6770 for my new build. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent GPU On a Budget </p>
+
+
+<h2> review.date </h2>
+  02-27-2012  
+<h2> review.text </h2>
+
+ <p> The Sapphire Radeon 6770 is a great bang for you buck card that is easy to install and windows will download the correct drivers almost immediately. I had no issues with this card and it performs great on SW:TOR on the highest settings with shadows on fleet at peak gaming hours getting around 20-50fps quest areas 50-110fps. PVP WZs 50-70fps, and while questing fight mobs on multiple planets I have maintained 109fps. I have the card currently Overclocked just a few 100mhz over factory so Im sure with more tweaking this card will perform past my expectations. For those debating with the 550ti (especially the Asus brand that comes overclocked). I had to return that card just to put out a tid bit more information. I have had the card currently 8 days with no issues at all. While the 550ti worked for about 2days with no ocing and crackpotted lol. I don't know if it was ToR that killed the card or just a defective card but I currently have an AMD build custom PC running amd phenom x4 960T 3.0ghz, asus m5A97 mobo, kingston hyperx 8gb ram, antec green 500w, radeon 6770 and it flows nicely and fastly with my system. I will highly recommend this card to anyone that needs one. At the current price I would wait it out for another sale when I bought mine for $99.99 with a $10 buck rebate. I just mailed it in but I hear nothing but good things from the sapphire brand.Additional Note: If you get a defective card do not allow that to change your judgement on this card; defective cards are completely normal and happen. Do a replacement through amazon.com and the new card will usually be out the same day with 2-day shipping. I chose to not have the 550ti replace because of the 40 dollar difference between cards, the hassle of getting a rebate from asus, and the continuous issues I have heard about the 550tiUpdate: After 2 weeks the card has died, I ran prime 95 and I suspect that may have killed the card when it was testing my system showing that the card is not stable. I tested it at factory. Maybe its SW:TOR although I doubt it because my laptop is fine. If this one craps out Im just going with the gigabyte 6850 that is on the way to test my sytem. If it works better with that card itll be worth the $5.00 to send it back. Maybe its just the company I do not know but I would suggest being really careful with this card. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> $99.99 ($89.99 after Rebate)=AWESOMENESS </p>
+
+
+<h2> review.date </h2>
+  10-19-2011  
+<h2> review.text </h2>
+
+ <p> This is a good card, but you might as well go for the HD6950 or save your money and get the HD5770 (almost identicle card).  Also when you install this GPU yhe fan faces down and forces air out the back of this double slot card.  So make sure to have more more air being forced into your case than out (this will help cool the GPU faster). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good GPU </p>
+
+
+<h2> review.date </h2>
+  11-27-2011  
+<h2> review.text </h2>
+
+ <p> I bought this card specifically to play The Elder Scrolls V: Skyrim. It runs the game great! I have a HP p6267c which has an Intel Core 2 Quad CPU Q8300 2.50GHz with 8GB RAM running Windows 7. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bought for The Elder Scrolls V: Skyrim, works great </p>
+
+
+<h2> review.date </h2>
+  12-03-2011  
+<h2> review.text </h2>
+
+ <p> This card you wont notice its there, I test it with battlefield3 mid quality graphics works perfect, excellent quality, all the heat is pumped out the case, the video card its not even warm after 2-3hours of continuous use. When the video card it not in high quality graphics mode it has a very low watts consumption, but when playing, my crappy  power supply (agiler 700w) overheats in an hour, so consider using this video card for long periods together with a certified power supply o an extra cooled one.Instalation with windows 7 was super fast, I think it took me 5 minutes to fully install hardware and software, took me longer to uninstall the nvidia drivers. For the price its amazing! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> dont even notice </p>
+
+
+<h2> review.date </h2>
+  10-11-2011  
+<h2> review.text </h2>
+
+ <p> Radeon vs Nvidia, age old question...For me, i had to compromise and head to radeon for my card BUT i didn't want some old hunk of junk. I know its expensive to buy present gpu's so i looked for a little older model, and well, what do you know, the hd6770, happened to be just what i was looking for!At a nice price, it was worth it for me since i really needed DX11, and since this is for a gaming computer, i needed something a bit more than average.I can confirm that this ran (while it was in beta) the Battlefield 3 beta! And that's exactly why i wanted it, i needed a whole new system just for this game... go figure... And not only did it run it, it did it on HIGH graphics settings across the board! Albeit i am running a quad core cpu and 8 gigs of ram.... but the GPU really pulled it all together to bring me the best gaming experience ive had since many years ago thinking BF2 had great graphics.pros:-affordable-good output selection-easy to install and set up drivers-quiet (at least compared to my case fans)-powerful!cons:-uhhh, a year old? or so?nothing to complain about really. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Powerfull Card, Easy on the wallet. </p>
+
+
+<h2> review.date </h2>
+  07-09-2012  
+<h2> review.text </h2>
+
+ <p> I had put together a brand new PC running Windows 7 Home Premium, with a core i5 2500, 16 gig of ram, a spinning hard drive (a terabyte or two in size...don't recall exactly, but I know I paid for a larger built-in cache), and had been running on the built in graphics capability of the core i5 (with the proper motherboard). I was able to play older games just fine (Falcon 4, Neverwinter Nights, Half-life Team Fortress Classic). However, I tried to play a few newer games like DCS A-10, DCS Black Shark, or Half Life 2, and then I saw that all this horsepower was being invalidated by insufficient graphics.I did NOT buy this machine for gaming. I bought it for video work, system level programming, and running virtual machines. However, I do enjoy the occasional game...especially hard-core flight simulators...so I went looking for an inexpensive graphics card. This one was a great price (under $100 with rebate) and has given me dynamite performance.I don't play the latest and greatest games, but DCS A-10, DCS Black Shark, Half Life 2, as well as America's Army, are no slouches either.I don't know how well this card would hold up on the absolute bleeding edge games...but thus far I have not run into any problems with whatever I've wanted to play. Complex, high-fidelity flight sims are my thing...and this lets me load up whatever I want without a worry.Your mileage may very, but for the price, I think this was a GREAT deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Bang for the Buck is Incredible </p>
+
+
+<h2> review.date </h2>
+  02-18-2012  
+<h2> review.text </h2>
+
+ <p> This Graphics Card is incredible for the price point. Having only spent $100 on it, it was the perfect buy for the computer I built. It will easily let you play any new game at medium resolution and quality. For me, that was more than enough, and it was so cheap! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Value! </p>
+
+
+<h2> review.date </h2>
+  10-13-2013  
+<h2> review.text </h2>
+
+ <p> Whoosh!!! That is the sound of my games when played on this card. Fast, Quiet, and powerful for its Category. Playing World of tanks highest settings, Splinter Cell Blacklist High settings, and others all with fast Frame rates. Every game so far has played with very acceptable frame rates. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rock and Roll </p>
+
+
+<h2> review.date </h2>
+  07-20-2012  
+<h2> review.text </h2>
+
+ <p> This is not a small card. It fits in myboardandcasebut there is not a lot of room to mess around, so if you have a compact board this might not work. Running this over HDMI to my TV works like a charm right on boot and I never had to really mess around with the settings for the card (but of course I did). I don't have much in terms of a technical review but for my purposes, a server, development system, home theater and gaming box, this with my i7 has never failed me. I can't really say much to it's limits because I haven't really found any. Everything looks awesome, from Minecraft to Skyrim, and I'm excited to eventually get more displays and try out the DisplayPort on this puppy. It is what it is, there are higher graphics cards, but I don't have any reason to look past this for the next few years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great "Little" Card </p>
+
+
+<h2> review.date </h2>
+  11-16-2013  
+<h2> review.text </h2>
+
+ <p> i have 3 of the Sapphire Radeon HD6770 video cards in computers around the house. The price is good and works well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good value </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00JSY2XNQ <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-15-2014  
+<h2> review.text </h2>
+
+ <p> I come from a traditional Swiss family so we have swiss cheese fondue and/or beef fondue for most holidays.  My wife and I were looking to break out of the traditional recipes we use and found some of the best fondue we've ever eaten in this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Think outside of the traditional fondue box </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> I grew up with fondue parties.  I saw this book and thought it would be a great weekend dinner to introduce the kids to fondue.  We love gruyere cheese so definitely trying the fondue neuchateloise first.  As a kid, we only ever had oil fondue, so I can't wait to try some of these other ones.  Bread dipped into a cheese fondue just sounds like the best food ever! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great recipes - can't wait to try them! </p>
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> In our household, we have a cheese fondue a few times a year. Everyone in the family likes it and it's always a fun event. We even use a 40-year old fondue set. Now I'm going to channel my inner Don Draper and expand the repertoire with some of these great recipes from &#34;Mad Fondue&#34;. We might even bring in some friends and organize a party along the lines of some of the fun suggestions from author Vikk Simmons. This book was a fun find that will be getting a lot of use in our kitchen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a fun find that will be getting a lot of use in our house </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> These recipes take me back to my childhood when my family would all gather around the fondue pots and really have fun. It was as much about the food as it was the company. These recipes are all worth trying and will be a huge hit at your next fondue or should I say &#34;FUNdue&#34; party. Nothing like a cheesy joke for a book full of cheesy goodness.I personally loved the Steak de Fromage and Quick Tomato Cheese Fondue. If you have never tried fondue before it is a must. Follow the authors advice and buy the right brand of fondue pots. Having the proper equipment makes a fondue party so much more fun. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mad About Fondue </p>
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> Vikk Simmons does a great job withe finding really fun old style fondue recipes.There are some great recipes in here.Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> Now I know why I saved the fondue pot I received as a wedding gift all those years ago. I can hardly wait to try a few of these tasty-sounding recipes on my daughter and her husband! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mad Fondue </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> What a fun book!  I have a set of fondue pots that were my mother's, and I've never known exactly what to do with them.  This book gives you all the instructions and a ton of recipes.  It even has ideas on how to give a fondue party!  Highly recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great idea! </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> This book is very interesting. It has lots of information on the history of fondue, the pots, tips to make your fondue and much more. After having read this book you will be ready to surprise your guest with the best mad fondue party!We have fondue several times during the cold month of winter but we always have the already made kind you buy at the grocery store. Now I can't wait to make my own. There are several recipes that got my attention: the fondue Neuchateloise,  the three cheese red wine fondue and the dark chocolate frangelico fondue as dessert. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Retro Fondue Recipes </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> Perfect book for entertaining and dinner parties. Fondue is always a delicious party meal to have, plus its bundles of fun for everyone! This book y Vikk Simmons is packed with tonnes of delicious, gooey, fondue recipes for your retro parties!If you love dipping food into melted awesomeness - then grab this book. Just be careful some of the recipes are addictive hah! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don Draper move over </p>
+
+
+<h2> review.date </h2>
+  05-02-2014  
+<h2> review.text </h2>
+
+ <p> This is an excellent book that shares some really fun and creative fondue recipes. I mean, c'mon.. who doesn't love a good ole fashion fondue? I especially liked the &#34;steak de fromage&#34; and the &#34;simple scallop seafood fondue&#34;. Great recipes! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yum! </p>
+
+
+<h2> review.date </h2>
+  04-30-2014  
+<h2> review.text </h2>
+
+ <p> This book will take you by the hand to the wonderful retro world of fondue recipes. Vikk did a great job at collecting these recipes and editing them into a fun book. I think you will enjoy this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Having fun with fondue </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001FRNB9E <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-02-2011  
+<h2> review.text </h2>
+
+ <p> I love the actress Robin Tunney in anything she appears in. Although this particular movie has a very strong message for all who have ever been raped. Tunney performed excellently as a victim of such a horrific crime. She possesses a personal quality not only making her a great actor but giving her the ability to transform herself into that role. The Writer/Director, Mia Goldman, being a victim herself many years prior to the making of this movie,("Open Window") expressing in her own words a very emotional story only adding an certain understanding of the part being portrayed by Tunney. A terrific movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very serious subject matter </p>
+
+
+<h2> review.date </h2>
+  04-25-2011  
+<h2> review.text </h2>
+
+ <p> Very good acting by all.  It almost seems a little too real at times.  Be forewarned, some scenes are very difficult to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disturbing </p>
+
+
+<h2> review.date </h2>
+  06-11-2012  
+<h2> review.text </h2>
+
+ <p> The screenwriter of this movie was herself a victim of sexual assault, and this shows in the way the subject is handled and the thoughts and emotions the victim and her boyfriend go through.  The trauma and brutality of the rape are shown, but only briefly, mostly in flashbacks.I was frustrated with how the victim refused to talk to police, which I understand is fairly common, and during a counseling session, she reveals why (and it totally makes sense).  Actually, there were several points brought up that I'd never thought of, and I consider that to be a hallmark of good writing.Though this movie doesn't hold up very well as a movie to watch purely for entertainment, it's well done and worth seeing, if for no other reason than just the fact that, chances are, you will someday know a victim of sexual assault. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Explicit, but not salacious </p>
+
+
+<h2> review.date </h2>
+  07-31-2013  
+<h2> review.text </h2>
+
+ <p> A different look at response to sexual assault, how it affects a marriage and the relationship between victim and attacker. Robin Tunney is very good in this movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good </p>
+
+
+<h2> review.date </h2>
+  07-05-2013  
+<h2> review.text </h2>
+
+ <p> Rape is a horror, Robin Tunney plays it with the void of emotion one might think would be the case. She is a beautiful woman best known for her TV roles .. and the young vamp in some movies. Here it is a real woman and she nails it ... Chilling story... but it is a real love story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Difficult love story played very well. </p>
+
+
+<h2> review.date </h2>
+  04-25-2011  
+<h2> review.text </h2>
+
+ <p> Mia Goldman both wrote and directed this fine little film that deals with the butterfly effect of an event affecting a whole family.  The subtlety of the film is enhanced by unforced, subtle performances by a solid cast and further enhanced by a quality of filming (cinematographer Dennis Maloney)  that creates disturbing images without obsessing over them.Photographer Izzy (Robin Tunney) is deeply in love with Peter (Joel Edgerton) whose lives are brutally assaulted when Izzy is raped.  Unable to cope with the concept and in the midst of a healing phase, Izzy and Peter breakup, consoled by Izzy's mother Arlene (Cybil Shepherd) and father John (Elliott Gould).  Once the incident that is the driver of this story is revealed and discussed, the ramifications are bitter.  How Izzy and Peter survive the ordeal is beautifully and subtly written and acted.  Cameo roles by Scott Wilson and Shirley Knight add depth to the story.  This film has some very disturbing moments, but the subject of rape has always and will always be a disturbing topic.  How writer/director Goldman handles this is one of the finest moments on film.It is a pleasure to see Robin Tunney, best known now for her ongoing role on televisions 'The Mentalist', tackle a role so demanding and make us stay with her character all the way.  Joel Edgerton is also exception in a tough role.  In all, this is one of those unnoticed films that deserves a larger audience.  Grady Harp, April 11 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Aftermath of Physical Invasion </p>
+
+
+<h2> review.date </h2>
+  07-30-2013  
+<h2> review.text </h2>
+
+ <p> Movie does show a little skin but the story is really missing in action. Not a great movie, do not recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a great movie </p>
+
+
+<h2> review.date </h2>
+  01-14-2013  
+<h2> review.text </h2>
+
+ <p> I thought this movie was very good at showing how traumatic events don't just effect the person they happen to.  It shows how these events effect the people who love the one who experienced the trauma and how each of these people has to learn to overcome in their own way.  I think it also shows how that when each individual seeks healing for themselves that is what enables them to help others heal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Overcoming </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> Okay, it's a good movie in that it deals well with the subject of rape - meaning it seems realistic and the rape scene is done in such a way that it's not too graphic and not all at once.  I'm still not sure how much Robin Tunney can act - I want to like her - in her own way she reminds me of Wynona Ryder but less emotional and maybe that's the problem..the less emotional part - she always seems like she's either contemplating what laxative to take or if she should be taking a nap.  But despite whet I perceive to be her at times wooden acting ability - the movie is decent - Cybil Shepards Mom/passive aggressive type is a bit over the top but she's Cybil Shephard she can pull it off.  I kind of find the characters selfish - and passing each other by like ships in the night BUT she was just raped.  Who wants to be all light hearted after that?  What was hard for me is that she had the luxury of NOT having to go back to work after being raped - she's a photographer - which we all know means - unless you are a famous one means ur either poor or have private income.  I doubt many women who have had such a terrible thing happen to them have been able to take such a respite...but I know that's not really the point but these and other little things annoyed me about the movie.  But that could be because I'm currently pretty low on money, don't like my job and don't have a cute fiancee like the guy (Joel Edgerton) in the movie - check him out in the movie Warriors where he plays a retire boxer -- he's excellent.;-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent but slightly annoying/slow moving (to me) at times... </p>
+
+
+<h2> review.date </h2>
+  01-07-2012  
+<h2> review.text </h2>
+
+ <p> Had the feel of poorly done made for TV movie. Cybil was horrendous! Overacting as usual, and melodramatic to a flaw. Elliot Gould in another role with all the charisma of cardboard. Husband was a tool and Tierney actually seemed to enjoy the pathetic rape scenes. Ignore all reviews! You will be very disappointed in the sloppy, long, drawn-out mess with unbelievable scene after another. Acting beyond lousy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pure Garbage </p>
+
+
+<h2> review.date </h2>
+  08-15-2012  
+<h2> review.text </h2>
+
+ <p> Open Window looks like a made-for-television film,but it tackles a traumatic event with relative nuance. Soon after a professor Peter (Joel Edgerton) proposes to his photographer girlfriend Izzy (Robin Tunney), she is raped by an intruder. Izzy slips into depression and gradually exposes the truth to friends and family. The movie is unusual in that it tracks the reactions of those around her, showing that they, too, are in a kind of shock. Even the best friends misread the situation or don't know what to say.The script is also ambitious in its exploration of how a violation can bring up past griefs. We see both Izzy's and Peter's strained relationships with their parents and catch glimpses of their professional lives. Robin Tunney is very believable, and Joel Edgerton gives a relatively sensitive performance. Unfortunately, Izzy's obnoxious mother (Cybill Shepherd) comes across as a caricature, though she eventually reveals hidden layers. Izzy's father (Elliott Gould) is more kindhearted but rather lackluster. Several awkwardly acted scenes are further dulled by the bland cinematography. I won't even ask how the young couple can afford such remarkable housing.The film might have an air of mediocrity, and it doesn't exactly punch you in the gut. Nonetheless, it is an improvement over, for example, David Schwimmer's supposedly true to life film Trust (2010) which busts myths about sexual assault with remarkable heavy-handedness. Open Window is an unexpectedly subtle and realistic portrayal of the complicated recovery after a terrifying attack. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3.5 stars </p>
+
+
+<h2> review.date </h2>
+  02-06-2010  
+<h2> review.text </h2>
+
+ <p> When a young woman is raped in her photography studio in the garage,life changes for her and her boy friend.The rocky months that stand between themand getting it rightmake new people of them both.I liked the movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> trauma mars a young couple's lives </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

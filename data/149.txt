@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00H7Z7YMI <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> This is the only bright spot in my recent attempt to upgrade my computer. I replaced an A8 cpu with this one and I'm very happy with the improved graphics.  The speed is Very fast and the included fan and heatsink is quiet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! </p>
+
+
+<h2> review.date </h2>
+  06-01-2014  
+<h2> review.text </h2>
+
+ <p> This is the top of the line A series APU drom AMD. Great performance and better value than Intel.I am looking forward to the A12 8850 ???? next gen from AMD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best A Series APU </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> AMD continues to cling to their godawful CPU "design" while pairing it with a decent iGPU.  Adding to this they are ATTEMPTING to combine functionality of the extremely poorly designed CPU cores with the decent GPU cores, however what bites them on the ass as has been my experience with AMD/ATI is that their software ENTIRELY SUCKS!So what we have here are half-a--ed cpu design, decent GPU cores but ENTIRELYT HOBBLED by poor software support.Overall it is a phailwhale, offering no value over Intel products.(Yes, I built one of these a10-7850k, built a fx-9590/r9 280x(hey they figured out how to restore display after uninstalling old driver then re-installing new), i7-4770k hackintosh/GTX 670 FTW(kick AMD/ATI butt, and really costing about as much as the fx-9590) and my primary desktop an i7-3930k/780ti(which just kicks the but of the amd machines). Add to the mix 2 i7-4800mq notebooks, one 13.3" 765m and one 15.6" 780m and those still crush teh amd attempts at cpus(yes, their APU nomenclature is pure BS ATM, MIGHT be useful someday just probably not this decade...)AMD is just a dead end, they don't have the power efficiency, they don't have anywhere close to IPC efficiency as intel, their software is garbage, and Ioverall I'm feeling VERY GENEROUS giving them even 2 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AMD tries and fails again... </p>
+
+
+<h2> review.date </h2>
+  06-28-2014  
+<h2> review.text </h2>
+
+ <p> I love to build bang for the buck systems, with all the rage about mantle and HSA I gave this A10-7850k a try.  I admit, i got a great deal on mine.  $129 with motherboard but my review is based on the current MSRP of $169 without motherboard.Performance wise it feels a lot like my A10-6800k which felt a lot like my A10-5800k... were splitting hairs here, i admit in the future things could change if they are optimized for the 7850k new design, but if you want to build a low budget gaming machine id recommend a10-5800k which generally on sale for $99 or go with AM3+ FX6300 and then pair it with a dedicated graphics card.I tried a few new games on my a10-7850k without dedicated graphics, rust played like crap -- other games like world of warcraft played quite well.  No matter how powerful these iGPU are, you are still limited to your memory bandwidth.  Im using 8gb of 2133mhz ram, which is about 33gb/sec  my PCS 270x is around 175GB a sec.  when your trying to load high res 1080p+ textures it makes a big difference.I highly recommend the 7850k for people who want the smallest possible footprint (ITX) otherwise get a cheaper processor and a more powerful dedicated graphics. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My review is based on todays value. </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> amazon llc prepairing shipping for 7 days was bogus. i will not be ordering from them anymore.. anyway  no video card.. just this apu. and im playing bf4, metro lastlight and call of duty ghost on ultra.. without even a hiccup. thanks amd you fing rockdont listen to all the intel fanboys that are not amazon verified buyers.. i bought and payed for this apu here and it is just awesome.. lets be honest if intel did come close to matching this apu.. guaranteed double price just for the name.youll notice all the 1 star ratings are people that didnt purchase the apu.. and the one that did had a problem with the motherboard not the apu.. so go figure </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best amd cpu/apu ever </p>
+
+
+<h2> review.date </h2>
+  02-07-2014  
+<h2> review.text </h2>
+
+ <p> Well, after much ruckus, many delays, and endless speculation around the interwebs, Kaveri has finally launched. If you're reading this, I'm assuming you're here because you have some questions. What is this chip capable of? What *is* an APU? Should I buy this? I'll answer questions like these and do my best to give an easy-to-understand, in-depth analysis of what this piece of silicon is all about.=====================I. HSA and a parallel future=====================This chip is a 3rd generation APU, and pretty much the first "true" APU in that it is capable of "HSA". HSA stands for Heterogeneous System Architecture, where the goal is achieving supreme performance while maintaining high efficiency. When utilized properly, this very chip could out-perform a much more expensive and power-hungry CPU + GPU combo. This is due to things like the fact that Kaveri supports things like "hUMA", or Heterogeneous Uniform Memory Access, which allows the CPU and GPU (the on-die GPU) to access the same pool of system memory at the same time and easily and quickly communicate with each other.This eliminates the need for the CPU and GPU to waste precious cycles copying data to pointers and passing them back and forth, which causes high latency, causing lower efficiency. Think of it this way:Without hUMA: Two musicians are collaborating on an ambitious new-wave bossa nova project, but one musician lives in California while the other lives in New York. They can compose bits of music and come up with ideas, but have to send said information across the country multiple times to each other just to get any actual work done. This takes a long time and while eventually the songs will be created, it'll be ages before that debut EP gets released.With hUMA: Two musicians are collaborating on the same type of project as the other two musicians, except that these musicians share a flat together and they go into their home studio to work on their music. They can very quickly and easily come up with ideas and get the music recorded as a result. Coincidentally, they are also doing a new-wave bossa nova project and they get the work done so quickly and efficiently that they're able to get their debut ALBUM, titled "The Kaveri Sessions" released an entire year before the cross-country musicians do. The album goes triple-Platinum within six months.ANYWAY, you get the idea. OpenCL apps and other such programs coded with HSA in mind have already shown impressive boosts (just google it, you'll find them easily). I just wanted to get this out of the way first, because many reviewers from other so-called professional websites seem to gloss over the fact that HSA is a pretty big deal, and is the main feature of this chip.=================II. Features=================The A10-7850k is a true quad-core processor and has a relatively powerful GPU integrated straight onto the die. The CPU on this model is clocked at 3.7ghz for the base clock, and under specific scenarios can turbo to 4.0ghz. The GPU clock is 720 MHz by default. As this processor is a "Black Edition" or "unlocked" SKU, the chip is yours to play with. You can overclock the GPU, the CPU cores, the northbridge, the system RAM, whatever -- have at it. I'll talk more about overclocking results later.Obviously this processor will only work in FM2+ socket motherboards. Make sure you know what BIOS revision the motherboard you get has before you get this processor, as it may need to be flashed before it can actually POST and/or boot with Kaveri installed. If this happens, you'll have to buy another FM2 (non-Kaveri) chip just to flash the BIOS temporarily. If this happens to you, I'd recommend a low-end A4 chip or FM2 Athlon to flash the BIOS.======================III. Practical Use Scenarios======================Going off today's price for this chip (~$180 as of the day this review was posted), this isn't a good buy for the average consumer. This is targeted towards power users like gamers or those who use certain productivity apps. This chip will shine with HSA apps, but currently they are few and far between besides several benchmarks and such.This chip runs very cool, much cooler than previous-generation APU's. Even on the stock CPU cooler, it's easy to reach a 4.1ghz CPU overclock without needing to increase the vCore (CPU voltage) or running into a thermal wall.Power consumption is also comparatively lower than previous-gen APU's. The chip uses very little power when idle and at stock clocks, uses less than Richland at full-load. The 28nm SHP BULK process was indeed APU-balanced and Kaveri shines at lower TDP brackets.Despite what many naysayers will proclaim, this chip will blaze through a vast majority of common desktop applications without breaking a sweat. Browsing the web, watching youtube, chatting with friends on Facebook, doing some image editing? Pfft, Kaveri doesn't care. It's just "whatever".=================IV. Gaming=================Gaming is where things get a little iffy. Compared to Richland, there can either be relatively big gains or hardly any gains at all. This is mainly due to the fact that the iGPU (integrated GPU) is heavily bandwidth-starved, as it uses the system memory (dual-channel DDR3) for the VRAM. You can only get so much bandwidth out of a dual-channel DDR3 setup before you're totally bottlenecked, and this shows when you play recent games at higher resolutions such as 1080p. Granted, these games will still usually be very playable, but for the best experience, you'll want to stick to lower resolutions such as 720p and perhaps 900p depending on the game.Slightly older games will run quite well however, and you can take a quick trip to YouTube to see proof of this. This chip is *not* meant for ultra-high resolution gaming with all the bells and whistles turned on. That is not even physically practical, and the fact that people expect such a thing is quite ludicrous. For onboard visuals however, Kaveri is impressive, and definitely capable of running any modern game at playable framerates provided you know how to tweak the in-game settings to get a better framerate.====================V. Architectural Changes====================The CPU cores use the 3rd generation Bulldozer-family "SteamrollerB" cores, and the GPU is GCN (Graphics Core Next) 1.1-based Volcanic Islands-derived. The processor is based on Global Foundries' 28nm SHP (Super High Performance) BULK CMOS node. This node seems to have been tailor-made for AMD, as it is well-balanced for APU's -- a stark contrast to GloFo's previous 32nm FD-SOI node, which was CPU-biased.As a result of this move to BULK, the processor doesn't scale well past 4.4ghz -- in fact, the average max stable overclock for this chip on the CPU side is 4.5ghz. I've seen several people reach 4.6ghz, but 4.4~4.5ghz seems to be the sweet spot. I've even seen reports of several people reporting higher benchmark results with 4.4ghz or 4.5. 4.5ghz isn't a thermal wall, but a hard wall imposed by the process lithography. Don't expect any crazy Richland 6800k-style 5.0ghz overclocks on air with this one.That said, Kaveri offers a 10~20% raw IPC increase on the x86 side of things, which offset the reduction in stock clocks compared to Richland (4.1/4.4 base/turbo respectively.) Depending on the application you're in, SteamrollerB cores on average can provide anywhere from a 0~30%+ IPC increase clock for clock compared to Piledriver. That's pretty impressive for a single generational leap. However, the average gain is about 10%, which is still decent, and you can squeeze out more performance with some simple overclocking.In terms of die logic, we see the two integer units in a module receive their own independent instruction decoders, which improves multi-threaded performance. The fetch stage is still shared, however this doesn't seem to impact MT (multi-threaded) scaling in a negative manner much.Store/load handling got some big improvements, instruction scheduling efficiency improved by roughly 5~10% as a result of the improved front-end, branch mis-predictions were lowered by 20%, instruction-cache misses were reduced by 30%, and there is a 25% max-width dispatch capability per thread. These improvements account for the improved single-threaded performance you can see in various benchmarks and experience in real-world apps.It is worth noting that the FPU itself seems to have been slightly gimped somehow in SR-B. The FPU performance is down by roughly ~15%+ in some benchmarks. My own educated guess is that Excavator (arriving in early 2015 with the Carrizo APU) will further beef up the FPU as well as other components such as the integer units themselves.The GPU is GCN-based, a first for these APU's. Even with the two extra GPU CU's (compute units, or GCN cores) on this model (for a total of 512 stream processors, over the 6800k's 384), the previously-mentioned memory bandwidth bottleneck restricts this APU from granting a massive lead over the previous-gen parts. However, the gains are present and what you would expect from a new generation part. There are 8 GCN CU's, which can clock anywhere from 0mhz (idle) to 720mhz (default boost clock.)Overall the APU is quite powerful for what it is, but even with the x86 IPC gains, AMD isn't close to catching up to Intel's Haswell chips in terms of single-threaded grunt. This isn't really a major concern for consumers however, and not AMD either, as HSA is proving. Legacy ST apps will still run well enough on this chip. Budget gamers will be well-advised to throw in a more powerful discreet GPU in their rig later to greatly enhance their experience (this chip can do Dual Graphics with up to an R7-250, any higher and Dual Graphics won't work, as it would be rendered moot.)==============VI. Overclocking==============For this testimonial, my experiences with the OC'ing was done from an AsROCK Extreme6+ A88x board, a fairly common and popular choice for the FM2+ platform. For cooling, I used the venerable Cooler Master Hyper 212+. RAM used was 2x sticks of 4GB G.Skill Sniper Series DDR3 memory.I didn't touch the reference clock, since I run my HDD in AHCI mode, and if the ref. clock is taken past 106mhz, the system becomes unstable and refuses to boot for me, so I left this setting at the default 100mhz. I think if you use IDE mode instead, this problem doesn't occur.As previously mentioned, on my sample it was easy to take the CPU to 4.1ghz on default voltage on the stock AMD cooler. Pushing past 4.1ghz, I slapped on the CM 212 and made it to 4.5ghz with voltage at 1.45v stable. Any higher than 4.5ghz and the system would crash in Windows the moment any serious load was placed on the CPU. This was done with just quick and easy adjustments to the CPU multiplier and voltage.The iGPU is where some will be scared breathless. I have prior experience with APU's, starting out with overclocking the A8-3850 back in the day. For this 7850k however, you have many variables to play with to get more performance out of the iGPU. You can grant more voltage to the iGPU section of the APU by increasing the NB (Northbridge, which is also integrated directly onto the die ever since the FM1 days) voltage. I found that an increase to the NB voltage wasn't necessary, but some may need to do so when overclocking the RAM.I set the RAM voltage at 1.75v, and got it at 2400mhz no problem. The iGPU clock was boosted from 720mhz to 950mhz without much trouble. I didn't try past that, though I've heard of people getting past the 1ghz barrier.Higher RAM frequency directly affects graphics performance, thus overclocking the RAM can grant some free performance boosts. E.g. RAM @ 1866 gets 40fps in x game, OC RAM to 2400mhz and get 52fps in x game.Overclocking Kaveri is pretty fun, and depending on your knowledge of APU's, can be fairly easy. As mentioned before, every piece of silicon is different, thus some people will need different settings to achieve stability even if they have the exact same hardware. If you need help with OC'ing, feel free to ask in the comments section.=============VII. Conclusion=============All things considered, the 7850k is a great product for what it is, and it's full potential isn't even realized yet. My biggest complaint currently is the price -- this chip is overpriced right now. It should have replaced the Richland flagship for the $150 spot. Hopefully they drop the prices for this and the 7700k soon, as the prices don't make much sense right now.Users looking for a new chip for a HTPC should target the 7700k or the upcoming A8-7600 models instead, as this model is overkill. However, if for whatever you wish to jump for this chip, you can set your own TDP target in the BIOS, e.g. change the TDP target to 45W and Kaveri will dynamically alter clocks based on workload to never exceed a 45W TDP. This would make a quiet, cool-running chip even quieter and cooler-running than it already is.*Phew!* Everything considered, I give this a 5/5. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The world's most powerful APU (for now.) An in-depth analysis. </p>
+
+
+<h2> review.date </h2>
+  01-26-2014  
+<h2> review.text </h2>
+
+ <p> In general, this &#34;APU&#34; is not that much faster than the previous generation Richland.  I don't think it is worth $50 over them, performance-wise, but feature-wise, maybe?  AMD had made many claims about HSA, Mantle, and TruAudio increasing performance up to 25% or so, but they are still vapor-ware as far as I am concern.Don't be fool by all the gaming claims about not needing a discrete GPU.  Unless you run at low resolution, you will be disappointed by 1080p performance.  Games are barely playable at 1080p unless you turn all the graphics setting to the Lowest setting and disable all the effects, you can manage to get a playable fps.  I was disappointed with the performance and waiting for the Xfire benchmarks to see it if it's worth it to to buy an R7 video card. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These amazon reviews so far are kind of flaky... </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> For casual gaming, AMD is hitting the nail square on the head in its quest for 1080p gaming at 30 frames per second, albeit generally at lower quality settings. There are still a few titles that are starting to stretch the legs of a decent APU (Company of Heroes is practically brutal), but it all comes down to perspective. Let me introduce you to my Granddad. He's an ex-aerospace engineer, and likes fiddling with stuff. He got onboard the `build-your-own' PC train in about 2002 and stopped there - show him a processor more than a Pentium 4 and he'll shrug it off as something new-fangled. My grandfather has one amazing geeky quality that shines through though - he has played and completed every Tomb Raider game on the PC he can get his hands on.It all came to a head this holiday season when he was playing the latest Tomb Raider game. He was running the game on a Pentium D with an NVIDIA 7200GT graphics card. His reactions are not the sharpest, and he did not seem to mind running at sub-5 FPS at a 640x480 resolution. I can imagine many of our readers recoiling at the thought of playing a modern game at 480p with 5 FPS. In the true spirit of the season, I sent him a HD 6750, an identical model to the one in the review today. Despite some issues he had finding drivers (his Google-fu needs a refresher), he loves his new card and can now play reasonably well at 1280x1024 on his old monitor.The point I am making with this heart-warming/wrenching family story is that the Kaveri APU is probably the ideal fit for what he needs. Strap him up with an A8-7600 and away he goes. It will be faster than anything he has used before, it will play his games as well as that new HD 6750, and when my grandmother wants to surf the web or edit some older images, she will not have to wait around for them to happen. It should all come in with a budget they would like as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good processor for grandpa and grandma.  MEH! !! </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> Hey this is not an advanced gamer but it runs games as well as a r7 250x gpu card with 1 GB of memory and can be crossfired with one to run slightly better and have something to talk about.  The apu itself could run an awesome portable medium grade gaming rig using the smallest board you can find and at least 8GB of memory x64 OS with a SSD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> runs pretty awesome for an apu </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> Very Impressed with this APU. I purchased it because I'm not a hardcore gamer, but I wanted more graphics capability than say Intel integrated graphics. I don't really need the latest and greatest graphics card either. AMD APUs seem to meet in the middle between these two extremes. I have a very respectable CPU and a great GPU all in one package, for less money and power draw than I'd need for an Intel CPU of similar power plus a GPU of similar power.This processor craves fast memory, so make sure you're using a motherboard that supports at least DDR3 2133 and buy this speed. For more demanding users, 2400 may be the way to go. I've been very pleased with the 2133 I'm using now.I have no complaints at all. The stock fan is quiet in my case and maintains safe temperatures at all times (I do not overclock), the CPU provides all the power I need even when in Photoshop, InDesign, and in games. The GPU provides solid frame rates in the games I play, which admittedly aren't very demanding. I would recommend anyone purchase this APU if they are interested in better graphics performance than integrated Intel graphics, but maybe don't need all the power afforded by a standalone GPU yet. You can always add another GPU later, and even marry the integrated GPU with it using Crossfire later on down the road. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprising performance, great price. </p>
+
+
+<h2> review.date </h2>
+  04-23-2014  
+<h2> review.text </h2>
+
+ <p> Well the best part of this APU is if you buy a aftermarket cooler like a $30 Cool master evo 212 you can overclock this thing to 4.5GHz without touching the voltage at all, lot of people say AMD cpu side is weak but I NEVER EVER see this thing use 100% cpu on any games I play like Metro, Rust, battlefield, and some MMO's. The iGPU is great it is equal to a 7750/ r7 250 and will let you play just about any games out there just don't expect to play with settings maxed out. If you want a bit more graphical power later buy a r7 250 to crossfire with the igpu its great bang for buck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's great bang for buck. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

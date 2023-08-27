@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00E687JK6 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> I had to buy all seasons of yugioh, I already put in orders for season three through 5, otherwise like before, they will be gone! don't want to suffer a withdrawal from it. As I said before on review on season one, I have been looking for yugioh with subtitles or captions via online or anywhere, cant find them that are working, I mean with captions... so pissed me off...took me ten years since.... and when heard about this seasons of yugioh came out, I was like yay! decided to buy all of them.no point to tell you what going on this seasons, after all there are bunch of reviews already explained. But all I can say... it has captions... need to set television to bring out captions. but It is all great. box look awesome.. It is cheaper to buy a volume case but... box set are way better, more cost but... get a cool box case, like having a book on shelves. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ahha! </p>
+
+
+<h2> review.date </h2>
+  08-10-2013  
+<h2> review.text </h2>
+
+ <p> After the Duelist Kingdom match - Yugi and the others are hoping to get back to normal life, and also find out more about the Puzzle and spirit housed within.  What starts out as a "date" with Taya is the beginning of new adventures and new revelations as Ishizu appears out them and Kiba advising they have a role in stopping a new evil from capturing three all powerful cards and the Puzzle and power within.  But when Bandit Keith challenges Yugi to a duel, the new evil of Marik is revealed.  Now Yugi, Joey, and Kiba must compete in Duelist City (run by Kiba Corp) to stop Marik and ensure the powers that he wants does not fall into his hands.I agree with the other reviewer, this season is the best of the series.  It has some of the best duels and some of the best story lines, from Serenity seeing, to the epic battles between Joey and Yugi and Joey and Odeon.  Witness new cards, like trap destroyer Jinzo, Slifer the Sky Dragon, and my favoite Dark Magician Girl and relive the way the game used to be played. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best of Duels for the entire series </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> Bought this to help complete my Yu-Gi-Oh! collection. Great gift for all Yu-Gi-Oh! fans, and all anime lovers. I cant wait to get my friends into Yu-Gi-Oh! now!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Time to Duel! </p>
+
+
+<h2> review.date </h2>
+  11-27-2013  
+<h2> review.text </h2>
+
+ <p> Continuing off from season 1, season 2 opens with a new arc, the battle city arc which is by far the most iconic arc of the show's history, we are introduced to new characters, new cards, and a new format of dueling, as a tournament to decide who's the best turns into a constant battle for survival for Yugi, and a huge test for Joey who no longer has his main card to use in duels. Both soon have to combine their power to fight off a new evil, and with everything on the line the battles are intense for sure, if you like this show you should definitely pick up this arc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Battle City begins as the story continues. </p>
+
+
+<h2> review.date </h2>
+  10-08-2013  
+<h2> review.text </h2>
+
+ <p> please release english dub seasons of poke'mon through current season and the 4 english dubbed seasons of sailor moon as well as medabots series and beyblade series thank-you </p>
+
+
+<h2> review.summary </h2>
+
+ <p> request for cinedigm </p>
+
+
+<h2> review.date </h2>
+  02-05-2014  
+<h2> review.text </h2>
+
+ <p> I like it so very much it was fun to watch it and then watch it again it was good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yu gi oh classic season2 </p>
+
+
+<h2> review.date </h2>
+  12-18-2013  
+<h2> review.text </h2>
+
+ <p> This has the ENTIRE second season (4 Kids dubbed) of Yu-Gi-Oh! Those that are complaining about them not releasing the Japanese version to DVD need to understand, they don't have the rights to distribute the Japanese version within the US! TV Tokyo won't allow it! That's exactly why 4Kids kept getting into trouble, and went bankrupt to settle their lawsuits. So we just have to tolerate the English dubbed version. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome! </p>
+
+
+<h2> review.date </h2>
+  08-14-2013  
+<h2> review.text </h2>
+
+ <p> I own the orignal release of season 1 set but because if the deck box looks cool  I will get these also </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Own the orignal release </p>
+
+
+<h2> review.date </h2>
+  02-03-2014  
+<h2> review.text </h2>
+
+ <p> Glad yugioh is back,i have been waiting a long time to collect all the seasons,just got it yesterday,took a little while to get to me two days over the expected day,but glad its back </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Classic </p>
+
+
+<h2> review.date </h2>
+  01-17-2014  
+<h2> review.text </h2>
+
+ <p> This season marks the beginning of the Battle City tournament duels, and arguably one of the best seasons in the original Yu-Gi-Oh! anime series. I personally believe that this second season is a pretty big step-up compared to the first season in terms of story and animation. The animation in Season 1 was all over the place and pretty funky looking in certain spots. I noticed a slight animation upgrade within Season 2 (Battle City duels).It all starts off with Kaiba and Yugi being introduced to their ancient past with the original duel monsters cards, which were actually tablets at that point in time. A mysterious woman named Ishizu brings Kaiba to a museum and shows him an ancient tablet of two men playing the same duel monsters game in which they play today, just with ancient carvings and different looking monsters. The two men look identical to Kaiba and Yugi in older times. Kaiba is then given the ancient Egyptian God Card &#34;Obelisk The Tormentor&#34; from this mysterious woman named Ishizu. He is then told how rare and powerful this Egyptian God Card is and alerted to the fact that there is 2 other God Cards (3 total including his). - Desperate for the incredible powers that these God Cards hold, Kaiba decides to begin a tournament of his own in order to find all 3 of these cards. Thus beginning the Battle City Tournament arc. Yugi, Joey and even some old rivals and friends decide to take place in Kaiba's tournament in order to gain power to some of the best duel monsters cards in the game. But only a select few can move on and become finalists in the Battle City Tournament. Who holds the other 2 ancient and all power Egyptian God Cards? Who will make it to the finals in the Battle City Tournament? Find out in this incredible second season of the Yu-Gi-Oh! anime series.Packaging is the same as what you receive within the first season. A slip cover which contains 2 individual cases with 3 discs per case. No paper inserts are included, nor are there any extra additional features on the discs themselves. It is still a pretty good deal for only about $30 dollars on Amazon, I'd say. This is an awesome season and well worth a spot in your anime collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best seasons </p>
+
+
+<h2> review.date </h2>
+  01-12-2014  
+<h2> review.text </h2>
+
+ <p> I have watched Season 2 DVD completely twice in a row, it has a beautiful picture and audio quality, and all 48 Episodes of the season! My Only Nitpick is that there were two episodes on volume 2 that the audio was a little off sync &#34;Let the finals begin&#34; and &#34;Mind Game Part 3&#34; for only one second off. Although it's not big deal overall, dosen't distract me too much. Hope it never happens in Season 3 in 2 days or any other future seasons again. Great Deal Good DVD! Kudos 4K Media and New video!If anybody noticed that those two episodes audio was off sync, let us know on the comments please! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great DVD Set! Only one Nitpick. </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> I couldn't wait for this release. It's the same design as season one's DVD set, only slightly different, as you can see with the product picture. Now, this set contains the start of the Battle City arc to just before the Virtual World arc, the episode where evil Merrick defeats evil Bakura. Now, I know it's the 4kids dub, but it has its moments & this re-release on DVD, has had a long time coming & is a godsend, since the season sets & volume sets can cost you a lot, having been out of print for many years & they were not very good volume releases at that, that I'm told for the video of the episodes being not the best they could've been, unlike on these releases. The video quality is great, for when the show was made, & being put on DVD. It's a great set, with great designs & such, plus I'm looking forward to buying these episodes on iTunes, with the season one episodes. I'd highly recommend these sets to anyone who's a fan of this show, the dub, &/or Cinedigm's DVD releases of classic dubbed anime TV shows from our childhoods. Not much extras, but how could there be?Can't wait for the rest of the series' & the other 2 spin-off series' (GX & 5Ds, Zexal doesn't count worth crap, as it's stupid compared to the others) season releases to come out after these ones, which I'm expecting to come out in the middle of next year, with GX, then 5Ds early 2015, since they're releasing these in almost 2 month intervals of each other, so...yeah. I expect those sets will closely resemble these sets, in appearance & design, so they'll be cool.Please see my Season 1 review, to get a better view on my stance on these releases & my view on the show & dub themselves, if you wanna know it.So, yeah, I recommend these sets for the reasons above. Buy these if you're interested. If not, you're loss. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Product Itself (Season 2) </p>
+
+
+<h2> review.date </h2>
+  02-11-2014  
+<h2> review.text </h2>
+
+ <p> season two is pretty awesome, I like the new dueling rules and the whole battle city thing is cool! ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love it </p>
+
+
+<h2> review.date </h2>
+  11-19-2013  
+<h2> review.text </h2>
+
+ <p> Again like the first release of Season 1, the second season DVD Box Set doesn't disappoint! So far these releases are 100 times better then what Funimation put out years ago. There's no formatting issues. The picture quality is perfect as well as the audio too. The packaging is just like the first Season, cardboard box with two DVD cases that hold 3 discs on three trays. My only complaint is that the cardboard box could of been thicker. In all I'm so happy that 4K Media, and Cinedigm are putting out the first series onto DVD. And can't wait for the rest of the other shows GX, 5D's and the new series. Trust me guys, if you have the old DVD's it's still worth getting this version of the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4K Media, Cinedigm Does It Again! Perfect! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

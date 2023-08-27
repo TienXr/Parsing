@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00ILUWJIM <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> I&#8217;ve been pretty stressed lately with work, so I gave this book a read. It was very refreshing and reminded me I need to take time for myself, as well as focusing on tasks to be done. Simply reading the book reinforced this for me, and I&#8217;m certain through doing this I will get more done! Overall, a superb book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality book </p>
+
+
+<h2> review.date </h2>
+  02-27-2014  
+<h2> review.text </h2>
+
+ <p> This is little book starts off with the triad of Productivity, Play and Prize - which, in my opinion is very important. Many productivity books talk about tips and techniques on how to be productive, and often neglect the importance of &#34;play&#34; (rest and restoration) and &#34;prize&#34; - the sense of accomplishment or fulfillment. In this book, the author asked 3 important questions related to productivity - &#34;What&#34;, &#34;How&#34; and &#34;When&#34; and provide useful tips on avoiding distractions! Chapter 6 (the final chapter) provides a succinct summary of all the steps and techniques discussed in this book. Thumbs up! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical and balanced guide to be productive </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> This book helped me right from the first words! I was needing a change in my life and I'm glad to say I've found the solution here in this short read. I found the solution to stop the laziness. How great is that? I would recommend this book to the whole world because it&#8217;s  excellently written and has simple yet powerful ideas. Thanks Kayla Roxas, you rock! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thanks Kayla Roxas, you rock! </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> This book has some practical tips on how you can manage your time well and make yourself more productive. I've been so busy lately and although I feel like i'm working all the time, I don't think I'm making use of my time the right way. I'm glad I came across this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Tips! </p>
+
+
+<h2> review.date </h2>
+  03-04-2014  
+<h2> review.text </h2>
+
+ <p> I have waiting for this kind of book for a long time ! I was in a need to change my life for better, improve and self educate. This piece of work just hit my spot. I'm very pleased by the authors way of writing about thinking and acting in a certain way, it helps a lot with transformation for better.This is truly an excellent choice for everyone wanting to become a better self. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I have waiting for this kind of book for a long time ! </p>
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> I'm always searching for new self-development strategies and success techniques, and this book is an awesome resource! If you follow the tips laid out in this book you will definitely see you life transform as you start to channel your energy in the direction of what you truly want to accomplish. Being productive is basically knowing how to hold the vision of what you desire and be constantly moving toward it. Without getting sidetracked or losing focus. Nice book for mastering the mental aspects of success! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Tips to Be Productive! </p>
+
+
+<h2> review.date </h2>
+  03-15-2014  
+<h2> review.text </h2>
+
+ <p> Right after seeing the title, I felt like this book was written for me. This is just the right read I need at this time of my life. I can&#8217;t seem to find balance in my personal life and work. Work seems so eat up all my time yet I don&#8217;t feel the fulfillment I&#8217;m entitled to feel. And I have to say I enjoyed reading this book and find the chapter &#8220;Preparations Against Procrastination&#8221; really helpful. The idea of setting a timer to focus on tasks at hand is refreshing and I think would work for me. This book talks about setting priorities and knowing which category the tasks you're working on fall. This is where I fall short so I need to keep this in mind.This book is worth buying and recommending! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Insights! </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> In this book, the author asked 3 important questions related to productivity - &#34;What&#34;, &#34;How&#34; and &#34;When&#34; and provide useful tips on avoiding distractions! I was so impressed with the concept of Productivity, Play, and Prize. Three Ps!! This wonderful book shows you how not to get distracted and remain focused on your work. Brilliant!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Focus Manual </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> Inspiring book which shows you how to eliminate distractions, put plans in to action and what to do if things go wrong. Well written and very encouraging, this is a great book for everyone who is looking to find out how to make the most of their lives and make their dreams a reality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Learn how to eliminate distractions and get things done </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> This book is one of the most comprehensive guide on how to be productive and have a balanced life. I especially like the chapter one and six, where author explains about concept of productivity, play, and prize, and there is chapter 6 (relax, rest, and recovery). These are very informative tips and I highly recommend it to anyone who needs to boost on productivity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent guide on productivity </p>
+
+
+<h2> review.date </h2>
+  03-02-2014  
+<h2> review.text </h2>
+
+ <p> I read a lot of &#34;productivity tips&#34; type books, but this one really knocked my socks off. It's short and concise and, the author doesn't feel the need to repeat himself eighteen million times in every chapter she writes. It's really, really to the point. Yes, it's a quick and simple read, but every chapter is full of quick and brilliant ideas. I'm a total nerd, so I actually took notes while reading it, and can't wait to put some of my notes into action and try a bit of habit formation - I'm really excited to get going with all of these ideas. I've tried a few already and they've had really positive impacts, so I have very high hopes for implementing the rest of Kayla Roxas ideas and systems. I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short and straight to the point book </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> This book was released at the perfect time for me. I have been trying to quit procrastinating and begin developing excellent productivity habits to get everything done. I have been struggling to get everything done on my 'to do' list each day. This book helped me pull apart my day and put it back together.I would suggest this book to anyone who would like to increase productivity in their everyday life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How to be productive </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> Well written, good useful advice, easy to read, enjoyable, highly recommended. If you want to be more productive, organised, better at time management, higher performance, self discipline, self control, then read books like this and eventually be more successful in life and earn more money yay!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Productive and organised </p>
+
+
+<h2> review.date </h2>
+  03-03-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed reading this book its always good to feed your mind with useful information, my productivity has hit a slight stumbling block of late so I wanted some motivation to get my organization back, this book helped with that but it also had useful tips that I can implement to become even more productive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice read on productivity </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

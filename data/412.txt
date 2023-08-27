@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B007QQ6FPK <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a favorite in t he series. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Loved this book also, this author really does go the extra mile, at least in this series of books. The way each book follows from one generation to the next, makes it  really nice. Shiloh made me tear up at one point! Guess I'm just an old softie. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Reading </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I thoroughly enjoy reading r. William Rogers' writing. There are some issues with downloading some of the books, for example, with this download came the little 1/4 at the beginning or ending of some words. It would show up all of a sudden out of nowhere. The plot in this little book is quite good and Rogers sows a good job of I keeping you up to date with all the characters. There are some names in the wrong place but I really enjoyed reading the book. It's not often you can find someone who can weave a good story around a good plot and keep it clean and interesting. Great job rWR. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Change is great! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like the new beginning for Sue. She deserves the new life!  Like how everyone works together and makes things happen.  Sorry to see more of the same old same.  Get a new idea.  Things can change up a little.  Years have passed and then there is 2 children.  I guess that really doesn't matter.  I like info and like to see how it all turns out.  Almost done with this one... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Charlie two buffalo a d Clint. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Arkansas valley series so far has far exceeds my expectations. This is a great book  for all ages to read. There is a great deal of religion in the book  But I did not find it afencive. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyable </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Again it keeps your interest and a Christian book. I really like these authors and the way they write especially. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> No one proofread this crap...Frustrating... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The book in general was just ok, I noted more than 200+ errors. It should have been edited before publishing to Amazon. The errors were as many on 5+ on any given page which also was so distracting for me as I am avid reader. I constantly got frustrated with the errors and had to stop reading it. PROOFREAD BEFORE YOU PUBLISH PEOPLE!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I Enjoyed So Much... </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Obviously, I enjoyed this book.  Otherwise, I wouldn't be rating book #5 in the Series.  The whole series was well worth reading....good wholesome family friendly and the gospel message skillfully woven through out. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love the whole series. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a very well written series of stories. The author moves the story line forward from each book so that you want to know what happens. The characters are interesting and fully rounded. The historical elements seem to be in line. I enjoy reading about the life and struggles of this area and especially of a horse ranch. The other thing I like about these books is that the main characters suffer and sometimes die which makes the story less predictable. The Christianity woven throughout the books isn't preachy but is truly part of the story and part of the characters. With the dangerous and frightening lives these people lived they turned to God for comfort and strength. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another Great book by R. William Rogers </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> His series of book re: Shiloh Ranch should be best sellers. I have enjoyed each of the five books and was so glad to learn there was Books 6 and 7. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Just okay </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Book had a lot of grammar errors. That took away from reading. Grammar errors were not due to dialect. The fraction 1/4 appeared every few lines or sentences. Glad I read it, but disappointed with book as a whole. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another page turner </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a blessing to read about family values and morals and still have such exciting plots. I appreciate the lack of vulgar language and graphic sexual content that today's authors feel like they need to appeal to their audiences to sell their junk. Seems like John " Revolting" and the Hollywood crowd saw how that type of smut sold (pulp fiction) and now it is stinking up films and. T. V. Looking forward to #6, </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Shiloh Ranch </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This series of books were very good.  It kept my interest the whole book.  I would recommend this book to others. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A must read. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the 5th in a fabulous series.  I read book 1 and couldn't wait for the next book in the series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Shiloh Ranch </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-31-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book moved rapidly and held my interest.It was well written and action packed.my friends who enjoy good Webster's would enjoy it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Typos </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great series. This book had so many typos that it was hard to read. Hope the other books in this series are free of the typos. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

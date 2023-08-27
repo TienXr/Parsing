@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B001ULBP8E <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-25-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this television after reading several reviews on C-Net, and am very happy I did.  I was initially skeptical of the network features, but to my surprise I was able to stream almost all of my media to this TV using the newer build of PS3 Media Server running on a Linux server in the basement.  Picture quality is excellent!Paired with an Anynet(sp?) enabled Blu-Ray player has some sweet usability benefits. The ability to control/power down the Blu-Ray player from the television or have the television turn on/switch to the proper input/optimal display mode just by inserting a Blu-Ray disk into our Samsung BDP-1600 is priceless.I look forward to next years model, hopefully the widgets will run a little bit quicker. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent TV </p>
+
+
+<h2> review.date </h2>
+  08-28-2009  
+<h2> review.text </h2>
+
+ <p> This is a fantastic TV.  The design looks great and the red really doesn't distract.  The picture is the best I have seen on a TV for some time.  It's crisp, bright and looks fantastic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great TV </p>
+
+
+<h2> review.date </h2>
+  01-23-2013  
+<h2> review.text </h2>
+
+ <p> Very good quality pictures.  Nice and vivid color.  Small drawback: Sleep timer can only be adjusted at 30 minutes interval. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good TV </p>
+
+
+<h2> review.date </h2>
+  10-21-2010  
+<h2> review.text </h2>
+
+ <p> Although newer models come with netflix and apps, this is still a best buy. You can buy the blu-ray player's for apps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Have used it over 1 year now and it's great! </p>
+
+
+<h2> review.date </h2>
+  06-05-2009  
+<h2> review.text </h2>
+
+ <p> I originally bought this set at Sears, then I came home and checked Amazon's price.  Huge difference.  I cancelled my order with Sears and ordered it from Amazon.  The set works great.  I network it with my pc wirelessly over the home network and grab any media files I want.  The widgets will be great once they get the important ones on there.  I am a little disappointed on how long it is taking to get netflix, blockbuster and some others that they say are coming soon.  But, I still love it.  I am actually waiting today for the cable company to get me my hd box.  It will certainly make a huge difference.  I'm happy....my wife, not so much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent LCD, great price </p>
+
+
+<h2> review.date </h2>
+  08-09-2011  
+<h2> review.text </h2>
+
+ <p> I love this TV. I was worried about how long it would last. I am hoping for 5 years at least. So far it looks to be on it's way to 2 years in January and hopefully that's not even the half way point in it's lifespan!Beautiful picture!EDIT: TV is almost 2.5 years old, and been lightly used. It still works. This is good. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2+ years of great quality and amazing picture! </p>
+
+
+<h2> review.date </h2>
+  10-13-2009  
+<h2> review.text </h2>
+
+ <p> I love everything about this tv except the buttons.  There are no actual buttons, just touch sensitive controls.  This makes it a bit difficult to turn on or off, etc without the remote.Other than the buttons the picture is beautiful (pop a blu-ray in and you'll see what I mean), and at the time I purchased it the technology for the dollar was unparalelled.  I would say for people looking now you may want to consider the 240hz model for a little more or hold off and get the LED tvs coming out now. They are dropping in price, have even sharper picture, very light and thin, and use less electricity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful picture, but a little strange with the styling </p>
+
+
+<h2> review.date </h2>
+  10-20-2010  
+<h2> review.text </h2>
+
+ <p> I scoured the reviews before making this purchase, so I hope this helps contribute to your decision.  I've had the TV for over a month, and I can happily say I haven't had any regrets.  It has a beautifully clear image and the glare from the window next to it doesn't interfere much, though a direct reflection gets a little tough to see through.One thing I wish I had known before buying it is whether the Samsung AnyNet+ feature would work with the PS3 Slim's Bravia Sync (HDMI-CEC feature).  The answer: it can!  Though limited, my experimenting led me to these button correlations:TV Arrow keys --> PS3 D-padCenter/Enter --> XExit --> OFF/RW --> R2/L2Another neat HDMI CEC feature is that when I turn on the PS3, the TV automatically turns on and switches to that input, saving a couple button presses on the remote.  Though when the PS3 is turned off, the TV defaults to the TV coax input, instead of switching back to HDMI 1 (my cable box).  Turning off the TV turns off the PS3, but only if it's idle from what i can tell.  The input switching ONLY works for HDMI CEC compatible devices, unfortunately.I just set up the Panasonic SC HT230 5.1 speaker system with the TV and I learned the difference between HDMI 1.3 and 1.4: 1.4 allows for an Audio Return Channel (ARC), which may have enabled my TV's remote to control my volume (it does connect through Anynet/Viera link for playing dvds and blu rays).  Without this feature, it's not seamless but it does the job.The Internet@TV feature is pretty nifty, though I can't say I plan on using it for more than Pandora streaming.  It's important to not that the Netflix app does NOT come with this TV.  After a bit of research and finally calling their 1-800 number, I've confirmed that the LN46B TV is the 2009 model that comes with "widgets" but if you want the "apps" then you need to buy the 2010 LN46C model.  There is no Netflix 'widget,' just a Netflix 'app,' and the nice customer service representative confirmed that there will not be a firmware update to unlock this functionality.Also notable is that the TV's menu navigation is a bit sluggish out of the box.  Mine was shipped with firmware version 1016 but once plugging it into the internet and updating to 1018, the navigation has become much more responsive.Cons:- Netflix app is not compatible- Automatic input switching only works for HDMI-CEC devices- Does not support HDMI 1.4 (ARC compatibility)If you can justify paying for another TV that has the three features above, it may be worth considering if it matters to you.  If you're looking for a great TV with a handful of neat, albeit minimal utility bonus features, this is the one.  My final conclusion is that the high quality of this TV shadows the few negatives and it was a great purchase for me.  I hope this rather lengthy review helped your decision, and good luck with your HDTV search! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great TV in a nice package with extra features </p>
+
+
+<h2> review.date </h2>
+  09-11-2009  
+<h2> review.text </h2>
+
+ <p> [...]PROS:*Picture is great on blu-ray & HD cable; I LOVE the 4 HDMI inputs*bought the component cable for the wii (ebay) & it looks great on this TV*the red touch of color is SWEET...say it again....SSSSWWWWEEEET!*TV audio is more than adequate; I've never turned it up past 22 (out of 50)*menus animations are creative*remote is ergonomic and well thought out*out of the box, the brightness/contrast viewing settings were fine*widgets/internet/picture in picture are good, though I have yet to put them to repeat use; it's worth mentioning you can't have two HD signals Picture in picture...1 must be analog/RF*TV demos are wonderful to illustrate certain settings/featuresCONS:*the glare is pretty bad (I knew this could be a problem ahead of time); if you have windows/lamps anywhere in your viewing room, YOU WILL HAVE A GLARE!*the delivery experience was a disaster - I selected a delivery day/time (10am - 1pm)...long story short, the delivery company called me on the delivery day @ 5pm (4 hours AFTER) and asked to deliver it a couple days beyond the white glove appointment - HELLO!  I took off of work to arrange being there....thanks for nothing!*the image quality sucks on non-HD channels...this is a global problem, not specific to this or any model...just felt like jabbing...*the cdnet menu tweaks seemed to be for a previous menu release b/c some of the menu locations changed...I wasn't a fan of the dark room watching settings...*no svideo input (this I also knew ahead of time)I haven't quite figured out the 120Hz setting that perfects both sports and game play, but I'm working on it...All in all, I would make this purchase again in a heartbeat.  Rock on Samsung...you complete me.PS - Jesus is Lord! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Got a great TV for a great price... </p>
+
+
+<h2> review.date </h2>
+  05-08-2009  
+<h2> review.text </h2>
+
+ <p> The LN46B650 has the best HD picture I have ever seen. The contrast is amazing and the colors are accurate and vivid. Black backgrounds are black, not gray. My only complaint was that Samsung did not include a quick start guide, only a basic sheet explaining how to connect the USB thumb drive that contains the manual. Shipping by Pilot Freight Lines was exceptionally fast (4 days) and damage free. The delivery sub-contractor set up the TV and carried away the shipping container. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great TV and Great Purchase </p>
+
+
+<h2> review.date </h2>
+  03-02-2010  
+<h2> review.text </h2>
+
+ <p> Considering that I am what most people would consider to be a tight wad, it took a considerable effort for me to spend $1300 on a TV. After living with an 18" TV for 11 years, about 2 of which half the time I had to unplug it because it would not turn off, I decided it was time to get a new TV. I began by looking for used ones on Craigslist but finaly decided to bite the bullet and get a new one. I spent months comparing reviews online and comparing in stores. I had it narrowed to the Vizio SV471XVT, mainly because it seemed like a lot of bang for the buck, the Sony Bravia KDL-46V5100 and this of Samsung LN46B650. I had pretty much decided on the Vizio but, if I was going to spend around $1000 on anything, I wanted to see one in person. This turned out to be a futile effort. I found lesser and smaller models at Wal Mart and Costco, but not this one. This made me begin to look at spending the extra money for the Samsung or the Sony. Again I spent hours staring at these Tv's in Best Buy, Sears, and Fry's. Even though the sales people were all pretty much in agreement that the Sony had a clearer picture, I fell in love with the picture on this TV. It is simply fantastic. I do believe that part of the great picture comes from the glossy screen, so this should be kept in mind when looking at this TV. I ended up putting good quality curtains in my living room to fight reflection. It is still worth it. The picture is that good. I also like the fact that the set up of all the settings, there are many, is fairly intuitive and I was able to figure it all out in an afternon. I realy like all of the customizable settings. If there is anything that I could say that could be improved on this TV, it is the automatic volume control that is supposed to level the volume of comercials. I have found that, with this feature turned on, movies or shows that have a wide range of volume levels from action to dialogue, it tries to level it out and it can be a bit annoying. My only other thought is that the inputs on the back of the TV and the power cord should be on the same side. This would make hiding the cables when it is wall mounted a bit easier.I also decided to spend the money on the Monster Home Theater PowerCenter(tm) HTS 1000 MKIII with Clean Power(tm) Stage 2 that has line conditioning. I actualy got this before my TV was delivered and noticed a better quality picture even on my old TV. And besides, if I was spending $1300 on a TV, spending $100 to protect it seemed very reasonable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Tv </p>
+
+
+<h2> review.date </h2>
+  07-08-2013  
+<h2> review.text </h2>
+
+ <p> Bought this set from Amazon in the spring of 2009. About a month ago we started noticing vertical colored ghost lines and it finally got so bad we took it in for a service diagnosis. Found out that the fix is a new LCD panel that costs more than the original $1600 cost. Can't express my disappointment more that a modern piece of electronics only gives me about 4 years of serviceability. I thought about making a stink with Samsung, but in reading about multiple issues that folks like me have had with Samsung sets, I realized I'd just be wasting time. Loved the tv while it was working, but this has surely soured my taste for anything Samsung. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Made a mistake buying Samsung </p>
+
+
+<h2> review.date </h2>
+  03-11-2011  
+<h2> review.text </h2>
+
+ <p> Two years ago when I bought this TV I thought I was being very careful and making a good buying decision, turns out I was mislead by Samsungs very confusing presentation of the specs. Features I thought were there weren't and some features you'd expect to be there like s-video input, are completely abscent!If I had to do it all over again, I'd buy a Sony! At least with them you know what you are getting!*** Update ***Definitely avoid this TV! I have just started using the automatic timers to turn on the TV to catch the national and local evening news and to turn it off afterwards. The timer works great except that the TV keeps changing the times. First it changed both the on and off times to an hour earlier. After fixing the times the TV then changed the off time to turn off three hours later than I had set!After my experiences with this TV I will never buy Samsung again, their products look nice but beauty is only skin deep, what's underneath is pretty ugly! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beware of this TV, some specs are mislieading or wrong </p>
+
+
+<h2> review.date </h2>
+  08-08-2011  
+<h2> review.text </h2>
+
+ <p> I bought this TV in May of 2009. Just a little over a week ago, all of these lines appeared on the TV. They covered the entire picture and even though the picture was being displayed behind it, you could not get rid of the lines. I tried different inputs thinking (hoping)it was just that input, but unfortunately that was not the case. I called Samsung support, they had me try one other thing and the lines were still there. At this point all they said was "yes, it does appear your TV needs to be serviced but I see you are out of warranty."Great, I spent over $1500 to buy Samsung because I thought they were a "good TV", but all I got was two years out of the unit! To make matters worse, when I called around to see about having it repaired, the TV shop told me it was a "jungle board", that it would cost anywhere from $400-$800 to fix it, but the part was on back-order and Samsung would not give them any ETA as to when they could expect it! Unbelievable! So now I have a $1500 paper weight, just perfect :(FYI to anyone considering buying a Samsung Television, DON'T DO IT!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Picture was great, just didn't last past two years! </p>
+
+
+<h2> review.date </h2>
+  01-31-2010  
+<h2> review.text </h2>
+
+ <p> The Samsung LN46B650 blew away my expectation! I don't have Blu-Ray, but I do have high-def cable feed and it is gorgeous! Everything from movies to football looks crisp and clean. Discovery Channel was playing Planet Earth again and it looked amazing, particularly in terms of the colors.  My brother brought over PS3 and Modern Warfare2 looks great, too, with no visible lag or signs of being overwhelmed. My laptop plugs in nicely and I was also able to browse the internet and play movies from there, too.The only couple of nitpicks that I have is that sometimes the 120hz smooth motion can create artifacts and that sometimes, the audio sync is not spot on.For me, the next purchase would be a Blu-Ray player and maybe that wireless Samsung ethernet connector. Any feedback or suggestions on either items?? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A high-quality HDTV! </p>
+
+
+<h2> review.date </h2>
+  04-17-2010  
+<h2> review.text </h2>
+
+ <p> Bought this television in February, wanted to have a chance to use it for two months before writing this review. Most the previous reviewers have covered the technical aspects and features with using this television so I won't bore you repeating what has already been said. Bottomline, this is a great television,way ahead of the  competition. The picture is stunning as are the colors.I have been a Sony fan in the past, but this television clearly beats out Sony,LG, Toshiba, Vizio, many others. Amazon had the best price I have seen for this television beating out big box retailers, Sams etc.Buying a television from an internet retailer was a big concern for me due to shipping and handling concerns of a large, delicate item like this. However, after reading a few other reviews on shipping, I went with Amazon who uses a special carrier, Ceva Logistics. The television arrived in perfect condition, no visible damage to the box, the driver brought the television in the house, unpacked it and wanted to ensure the television worked, no cracked screen, dings or dents. No issues found. All in all a great purchase and television. Go Samsung! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Samsung HD LCD Televisions Rock! </p>
+
+
+<h2> review.date </h2>
+  07-13-2009  
+<h2> review.text </h2>
+
+ <p> Wonderful picture, especially with HD input.  Totally sharp, no fringes or visual noise.The delivery and installation was very professional.  One recommendation:  put something like an old sheet on the floor where they will open the box.  From the delivery truck floor, the box can pick up some black smudges, which can transfer to your floor.We have the TV in a corner facing diagonally out away from windows in both walls of the corner, and this way glare is no problem on the glossy face.  The 46" is a good size for our small living room.It's a good looking unit, and the few wires can be hidden behind the center post with a built-in strap and a supplied wrap-around white tube.  The Red Touch is nice, but barely noticeable.A USB thumb drive can be plugged in behind the right-hand edge.  One way to use that is to use a computer to load the drive with pictures (jpg) and/or tunes (mp3).  Then press "MEDIA.P" on the remote, select the thumb drive (with the red remote button), and select a stream of music or pictures.  Pictures that are sized 1920x1080 pixels fit the screen perfectly and are very sharp.The built-in speakers are OK, but we found a big improvement by adding a "ZVOX 550" powered-speakers unit.  It is one flat box that lies flat beneath and supporting the TV.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great HDTV </p>
+
+
+<h2> review.date </h2>
+  04-12-2009  
+<h2> review.text </h2>
+
+ <p> There are lots of in-depth reviews of this TV on the web, so I won't go in to too much detail here.  I will say that the picture quality is awesome on this model, and that I'm very happy with my purchase.  The red touch of color isn't too obvious (I still wish Samsung would abandon the TOC though).  The swivel base is nice, too.The "auto-motion plus" (AMP) feature is improved over the 2008 model by allowing you to fine-tune the settings more.  AMP is the technology that fills in extra frames (120Hz) so video doesn't look so "jerky".  Owners of the 2008 model sometimes had complaints that they could not adjust the AMP setting enough to their liking.  The 2009 model allows greater customization."Game mode" helps eliminate the lag when playing games.  Once I turned this mode on, there was no lag when playing "Rock Band" and other games on the PS3.I am using HDMI v1.3b cables that only cost a dollar from BargainCell.  Images are awesome.  Don't spend more than that for HDMI cables!!!  Research the web or look at the reviews for HDMI cables on Amazon to find out why.  You will not notice any difference in image quality no matter how expensive an HDMI cable is.The sound on the TV is a little flat, and doesn't have much bass.  But I am hooking my PS3 and DirecTV sound to anOnkyo receiverandEnergy speakers(which sound great!), so it didn't matter to me.Keep in mind that the 650 models (like this one) have a gloss panel.  This causes reflections to show from windows and lights.  If you're looking for the semi-matte screens that help cut down on this, you'll want to check out the 630 models.My TV was shipped via Pilot freight services.  They made a courtesy call to me stating that because of where I live, that one of their partners (a moving company) would be making the delivery.  As a result, it tacked on a few extra days for the product to arrive, but it arrived in perfect condition and the moving company set up the TV and made sure it worked and that I was happy with it before they left.All-in-all, I'm definitely pleased with this TV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Samsung makes great TVs... 5 stars for this model! </p>
+
+
+<h2> review.date </h2>
+  02-06-2013  
+<h2> review.text </h2>
+
+ <p> bought this a few years ago and just wanted to let folks know how to get a movie to look like a movie on this tv.first turn off the auto motion 120hz you don't need it.then turn the game mode to ON, otherwise you will still see that soap opera effect (i saw it on my bluray ps3 (which has its own settings as well that need to be set right)).when those settings are set right you get what the filmmaker intended. a film that looks like a film and not like General Hospital.Enjoy. awesome tv when you use it right. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> awesome tv and how to get your movies to look like movies </p>
+
+
+<h2> review.date </h2>
+  05-28-2009  
+<h2> review.text </h2>
+
+ <p> My wife and I have been upgrading our old bedroom furniture; so we decided to get a nice TV as a part of that effort.  I had planned to get the 2008 Samsung("A")model; but the 2009 Samsung LN46B650 came out just in time.  Since the prices were not that different; we went with the newer model, which has worked perfectly!  The HD reception with a Tivo box and cable card has been great.  And the ethernet connection has allowed us to stream audio and photographs - no video yet!  I'm using Linksys Powerline Adapters to connect via ethernet.  The TV is beautiful and the swivel action allows us to watch from different places in our bedroom. Great HD TV! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Samsung LN46B650 </p>
+
+
+<h2> review.date </h2>
+  10-08-2009  
+<h2> review.text </h2>
+
+ <p> for the price this is the best deal i couldve gotten (i paid $1,099 at Frys in store!!), i also am a huge samsung fan and they make top notch displays, the colors are great, easy to calibrate on my own with the DVE bluray  hd essentials disc, the contrast and colors are awesome, 120hz is perfect for everything i watch, i'm seriously in the process of watching every bluray movie i own over again because it just looks THAT good in 1080p on this set, and even 1080i sources like Netflix HD instant watch look great from my xbox 360, the brightness and contrast also make it easy on the eye to watch, plus it has widgets! even connecting my macbook pro to the display looks great, and it has FOUR hdmi inputs! also my living room is pretty bright and i dont catch glare that easy as long as the window behind me is dark, light from the side doesnt effect the tv too much,  i'm glad i waited for the price to go down, i still cant find it cheaper anywhere, and buy your hdmi cables at MONOPRICE! but seriously buy this tv, it is awesomethe only downside for me is the ToC red bezel (which is IN the actual frame, it's not something that turn on and off people, i dont know where you are getting that idea) it just doesnt really match with anything i got, luckily you cant even tell its there when youre watching the tv, there is also a little bit of glare, but like i said, if its off to the side it wont matter but if its behind you youll have to do something about thatthe showroom and the settings they use at a store does not do this tv justice, it is twice as good in your living room, trust me </p>
+
+
+<h2> review.summary </h2>
+
+ <p> i am in love with a tv!? </p>
+
+
+<h2> review.date </h2>
+  11-28-2010  
+<h2> review.text </h2>
+
+ <p> 12/18/2010 Update:  The tecon board finally came in.  They put the board in and tested it and the TV fried the new board.  So it's an issue with the LCD capacitor itself.  It will cost $1300 to replace the part.  So my TV is now being recycled.  What a piece of junk!See this review for more info:http://www.amazon.com/review/R1YZR5GL7FVRKM?_encoding=UTF8&ASIN;=B001413D94&cdPage;=&nodeID;=&ref;_=cm_cr_pr_cmt&tag;=&linkCode;=&newContentNum;=1&cdMSG;=addedToThread&newContentID;=MxRJ94XFAUODO2#CustomerDiscussions--------------------Be careful, I'm NOT the only one this has happened to.  I got mine back in May 2009 and it's November 2010 and my TV is in the shop.  Read the most current reviews for the Samsung LN46A650 too.  They're experiencing similar problems.I've had HDMI connection problems for a while where it would flicker and look for HDMI signal.  Since this is my first 46" LCD TV I thought this was normal.  But now that my big TV is in the shop I'm now using my small Philips 19" LCD TV (purchased from Amazon back in December 2007) and I have NO PROBLEMS with the Philips.  So it's not my HDMI cable, it's the TV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only works for a year or so </p>
+
+
+<h2> review.date </h2>
+  09-13-2009  
+<h2> review.text </h2>
+
+ <p> Based on an expert review at CNET, the Samsung 46B750 is the "best LCD TV" while Samsung 46B650 was rated "better than most LCD TVs" on the market.  After watching numerous TVs for about 2 months at various stores, I tend to agree with CNET.  Since The Samsung 46B750 was going for $1699, I decided to get the Samsung 46B650 for only $1365.Beautiful picture out of the box and after some minor adjustments, I could not be happier.  I always bought Sony TVs for the last 25 years but this Samsung had a better picture and a better contrast ratio than the Sony 46V5100.  I have a 32 inch Sony LCD in my bedroom and the picture on the Samsung is much brighter, clearer and more user friendly.  The Samsung stand swivels and is more stable than my non-swiveling Sony stand.The Samsung remote has a keyboard light button and the menu is easier to navigate.  Programming your favorite channels is easy and pressing the favorite button on the Samsung remote allows you to "surf" your favorite channels just like your regular "channel" button.  My Sony remote does NOT allow you to surf your favorite channels because you have to press the favorite button on the Sony remote which displays all favorite channels but then you have to scroll down to highlight the channel you want to watch.  I did not realize how cumbersome my Sony remote was until I got this Samsung.I set the dejudder to zero and anti-blur to 10 as recommended by CNET and I have yet to see any blurred picture in fast action sporting events.  The colors are bright and perfectly balanced and natural looking.  Watching Blu-Ray DVD will amaze you.  Watching 480i standard definition on Comcast cable is just OK but 720p and 1080i Comcast cable programming will make you appreciate this TV.  The only negative issue that I found is that the colors become washed-out (lighter) if you are watching the television about 45 degrees off angle.Unless Sony improves their product line, I will now buy Samsung for the next 25 years.Dec 09 UPDATE:I visited Fry's Electronics and found that their display samsung 46B650 was even better than my samsung 46B650 at home... so I copied their calibration settings.  Sure enough my picture is now "eye-poping and stunning".  Here are the settings:Mode: DynamicBacklight:  10Contrast:  100Brightness:  45Sharpness:  55Color:  55Color Tone:  CoolDigital N/R:  AutoFilm:  OffAutoMotion plus 120Hz:  StandardYou may have to deviate slightly to suit your own personal taste but the above baseline settings will make most people say "wow". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best LCD under $1400 </p>
+
+
+<h2> review.date </h2>
+  04-23-2010  
+<h2> review.text </h2>
+
+ <p> I just had to write a bad review about the same size Sony Bravia and it was pretty painful. I traded it for this knowing it would be better, but not knowing how much better. The picture is just amazing right out of the box, i made a few adjustments with the smoothing, and a few other things just to suit myself. Right away i viewed some trialers, Iron Man 2, Shrek 4, How to Train Your Dragon, and a few other things, and the difference is just like night and day. There is no grainyness to the picture what so ever, the smoothing is flawless and the sound is well, almost TO loud depending on how you fix it up. But hey i'd rather have to much volume than not enough. I got this bad boy on clearance at Best Buy for 1199$, regular price was 1899$, showing its definitely a higher end model TV, even if its not this years model. So stay away from the Sony Bravias and if you try to compare them, don't bother, the Vizios i have seen people have even far surpass the Sony, and even though i'm a huge fan of them i just can't believe how bad the Bravia i purchased was. So stick with Samsung folks, i remember back in about 2007 when the LCDs really started getting big and i saw a Samsung for the first time right next to a few others. I told my wife at the time wow look at the difference in the quality of this compared to the others, she was pretty mistified herself, which was unusual. These Tv's are rated number 1 for a reason, and when you pop it out of the box and feast your eyes on everything from Blu rays to HD tv channels to games, you'll see why they are so. Now lets just hope reliability wise it lasts. Later.:D </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing as expected </p>
+
+
+<h2> review.date </h2>
+  11-06-2010  
+<h2> review.text </h2>
+
+ <p> This TV is sweet! Great delivery, though a day late (they called to reschedule). Couldn't imagine my living room without it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

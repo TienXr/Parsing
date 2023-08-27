@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1933784571 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-18-2008  
+<h2> review.text </h2>
+
+ <p> This is an amazing look at the development behind the film. I bought this book based on just some small screen captures and havent even seen the feature film. But you can tell that it has had so much put into the development by the many many pages of hand drawn and painted character designs, environments and colour scripts. These images have also been used to not only guide the final CGI animation, but the wonderful traditional animation at the start and end of the film...its wonderful to see this development in a Dreamworks film, compared to the not so great Shrek development. This is a must for anyone who loves art of animation books or just want to see what SHOULD be done for the development of any animation project. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing! </p>
+
+
+<h2> review.date </h2>
+  02-18-2011  
+<h2> review.text </h2>
+
+ <p> If you have any appreciation for character design, buy this book. Nico Martlet is an up and coming force of nature. The sketches are delightful for the average person to look at, and a wealth of knowledge for anyone pursuing or currently in the character design field.Since this book is out of print, I recommend getting the Art of How to Train Your Dragon, which also features art by Martlet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding "Art of" book. </p>
+
+
+<h2> review.date </h2>
+  08-07-2008  
+<h2> review.text </h2>
+
+ <p> I'm pretty picky when it comes to art books, especially when the art style isn't what I'm looking for.  This book, however, has various styles that I actually enjoyed, and it isn't even in a style I'm particularly fond of either! What makes it so interesting, you ask? Well, for one, you get to see and understand why the producers chose the particular art style for the movie, and it makes a lot of sense.If you've seen the movie already, you know how the intro movie goes (all in 2D at first), the author explains why they chose to go with that style and how they came up with the idea.From 2D sketches from various character designers to the final 3D output of the characaters and environments, you won't be disappointed at how they all turned out.  Most of them didn't make in the movie, but you eventually find out why. Some of the art is so good, you won't even be able to tell if it's 2D or 3D.  Vibrant colors fill up the pages in this book, and the overall design for the cover inside and out will make you want to come back to this book, even if it's just for fun or for your personal reference to character/environment design. PICK THIS ONE UP! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SWEET! </p>
+
+
+<h2> review.date </h2>
+  06-04-2008  
+<h2> review.text </h2>
+
+ <p> (I must admit, I cannot possibly imagine reviewing this book based on the peripheral merchandise it may or may not come with.  An "Art Of" book should be for showcasing the art, and nothing more- however it goes about doing that, if it is successful, is trivial.)Regardless of the final product that is the movie of "Kung Fu Panda", it cannot be denied that the concept and production art leading up to its inception is breathtakingly beautiful.  Nicolas Marlet's hand is strongly felt throughout its pages, but rightfully so- his ability to distill an animal and character into so few fluid shapes and lines is rarely equalled in today's animation industry.  Pages are filled with his seemingly effortless character and pose studies, all of which are, somewhat inevitably, stronger even than the final product we see on screen...  But so it is with polished animation.The environmental work and colour keys are, of course, equally strong- the book ranged from great to greater, and there is hardly a dull page within its covers...  Definitely worth the price of purchase.  Though I am hearing more and more good things about Kung Fu Panda as the days pass, it is the Art Of book, not the trailers or billboards or hype, which has convinced me to go see this film in theatres opening night, without a doubt.-C </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A masterful compendium of animation artists at the top of their game. </p>
+
+
+<h2> review.date </h2>
+  01-19-2009  
+<h2> review.text </h2>
+
+ <p> A great book on the art of an exceptional film. Beautiful and thorough. A terrific gift. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent in its total awesome=ness! </p>
+
+
+<h2> review.date </h2>
+  06-29-2008  
+<h2> review.text </h2>
+
+ <p> From the moment I held this book I knew I was in for the best artistic motivation I've ever had. I recently saw the movie and was highly entertained. Story, production and quality are the items that come to mind about the movie and "especially this book."Kung Fu Panda is truly the best combination of 2d and 3d animation.I will look through this book until the ink fades! Then I'll purchase another copy and continue to study the wonderfully illustrations!Looking forward to the sequel! Cheers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A true inspiration for any artist and animator!!! </p>
+
+
+<h2> review.date </h2>
+  12-06-2009  
+<h2> review.text </h2>
+
+ <p> For sure, the bestest artbook ever. The 1st place were Tarzan's Artbook from disney... now, it's "The Art of Kung Fu Panda" THE best one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bestest Artbook </p>
+
+
+<h2> review.date </h2>
+  06-16-2009  
+<h2> review.text </h2>
+
+ <p> The Art of Kung Fu Panda is a fine companion book to the film and an excellent acquisition for any serious animation arts collection. It explores the DreamWorks Studio results, examining the making of the film and providing over 300 pieces of visual development artwork as well as behind-the-scenes stories and insights from the filmmakers themselves. From storyboarding and color theory to special effects, chapters are loaded with full-page color artwork and make for an exceptional acquisition for any film or arts collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chapters are loaded with full-page color artwork and make for an exceptional acquisition for any film or arts collection </p>
+
+
+<h2> review.date </h2>
+  05-26-2009  
+<h2> review.text </h2>
+
+ <p> Picture books as beautiful as this one are not often published. If you are an animation artist, a cartoonist, an illustrator, or a fan of graphic arts, you'll enjoy its pages more than the movie itself. If you didn't like the movie, have your head examined! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's AWWWWWWWESOME! </p>
+
+
+<h2> review.date </h2>
+  07-16-2008  
+<h2> review.text </h2>
+
+ <p> First of all, a confenssion - Kung Fu Panda is probably my favorite movie of 2008. I ordered this book on a whim, thinking it would be a nice little book to look over and remember the movie. Boy was I wrong! This  book is stuffed to the gills with the history of each and every character in the movie, as well as those that didn't make the final cut. It's awesome to read the different directions the characters took before they settled on what would appear in the movie. It's also cool to read some of the background of the characters that I didn't know, like Oogway being from the Galapagoes and traveling the world before settling in China. It only adds to the depth and richness of a great story of a great movie. And the art is beautiful to look at - I've taken hours just staring at the detail of all the pictures. To quote Master Oogway, "Yesterday's history, tomorrow's a mystery. Today's a gift - that's why they call it the present." Do yourself a favor and give yourself the present of this book - Today!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A truely amazing book! </p>
+
+
+<h2> review.date </h2>
+  05-13-2009  
+<h2> review.text </h2>
+
+ <p> I have The Art of The Incredibles" and it is absolutely fantastic! I like the characters alot in Kung Fu Panda and based on the other reviews figured it would be a great book. It is a good book and very complete but way too many digital paintings and renderings for my taste. The thing that I liked most about the Art of The Incredibles was all of the artwork done in traditional mediums like pencil, marker, gouache, watercolor, even collage. I am not a fan of digital artwork and this book is about 98% digital.I am oldschool though, and most people buying this book will be excited that most of it is digital... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book, but not for me.... </p>
+
+
+<h2> review.date </h2>
+  07-31-2008  
+<h2> review.text </h2>
+
+ <p> As a rule "Art of (fill in the movie title)" books routinely published in connection with the release of animated films are a grand way to continue enjoying the movie after the credits roll and the theater lights come back on. Typically, they include lots of theme or story development sketches, iterations of the characters as they evolved, gorgeous background paintings, and related pieces of art that inspired the creators. Given that I consider Dreamworks animation the "B" team to Pixar, I was surprised by the quality of Kung Fu Panda, the movie. This book reenforces my appreciation for the artistry and imagination that went into the project. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lush collection of beautiful artwork </p>
+
+
+<h2> review.date </h2>
+  02-03-2011  
+<h2> review.text </h2>
+
+ <p> This is one of my very favorite Art of books. It's up there with Monsters Inc., but for different reasons. I really enjoy all of the renderings in Monsters, but  The Art of KF Panda does not disappoint with the sheer wealth of character sketches and backgrounds. It's one of the thicker and taller Art of titles also. The spot varnish printing on the dust jacket is a very nice touch. This also happens to be one of my favorite Dreamworks animations, and I feel they did an awesome job with continuing the excellence of the Art of titles. Highly recommended and highly encouraged to get before it's ridiculously expensive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the top 3 Art of Books </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

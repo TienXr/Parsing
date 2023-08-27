@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1594773440 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-05-2010  
+<h2> review.text </h2>
+
+ <p> This is an excellent beginning book for Enochian magic.  The focus is quite narrow, covering only the 30 aethyrs, but does it very well.  There is more historical context than most other books and he is sympathetic to Edward Kelly.  The exposition is lucid and kept to the essentials.  Of possible interest to more advanced practitioners is his take on the pronunciation.  My complaint about the book is the CD, hence the four stars.  Inexplicably DeSalvo begins his reading of the nineteenth call on the sixth line of the book text.  And his cadence reminds me of someone reading a list of names at a roll call.  This may just be his way of making the pronunciation as clear as possible. Other than that I was quite satisfied.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An excellent intro book </p>
+
+
+<h2> review.date </h2>
+  04-02-2011  
+<h2> review.text </h2>
+
+ <p> If you take the traditional religous perspective of western magick, deeply Christian and God-fearing, this book is for you.  However, if you have a more modern, skeptical perspective, reading this book will be a waste of time.  De Salvo is clearly a devout religous fundamentalist, mentioning God on every page as well as his own personal opinions on a wide variety of subjects.  This becomes annoying, however, when he makes obvious falsehoods such as asserting that the American founding forefathers based the Constitution on Biblical principles.  Even a cursory reading of the personal writings of these men shows that they were secular humanists and skeptics.  De Salvo seems to live in an ideal world where there is black and white, good and evil, right and wrong, typical of someone whose religious views have got the better of him.  He also asserts the "belief" that John Dee never did magick for any other purpose than to grow closer to God.  Just read some of his diaries in "True and Faithful Relation" to learn of Dee's interest in gaining information about worldly affairs, even the weather, and influencing those outcomes in his conversations with the angels.  The whole point to the 91 Parts of the Earth system is to gain control over the geopolitics of those areas.  One of Dee's primary motivations in magick was to wield control in the world in support of Queen and Country.Overall, De Salvo writes in an uncritical style suited to simpleminded beginners in magick who share his blind faith in his religion.  He asserts this attitude as a necessity in performing angelic evocations and in all magick besides.  He might as well have been writing in the Middle Ages.  I have proven in my own books that the religious attitude is not a prerequisite in communing with the transcendent forces and commanding the descendent powers.  Ceremonial magick can be performed with a skeptical and rational attitude.  Exact pronunciation of any magical language is not necessary.  Beware of those who claim to have "rediscovered" the "right" pronunciation of a lost language.  It is manipulation, most likely for religious domination.  Beware religious fundamentalism in all its forms. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beware of religious fundamentalism in magick </p>
+
+
+<h2> review.date </h2>
+  05-24-2013  
+<h2> review.text </h2>
+
+ <p> OK? I guess with time I will get to understand what this teaches. I shall learn what I can and go from there </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK? </p>
+
+
+<h2> review.date </h2>
+  01-01-2013  
+<h2> review.text </h2>
+
+ <p> should have stayed lost... unless you have a penchant for Aramaic and Enochian phrases. Isn't there a hotline to heaven? I'm trying to think of something good to write about this book, okay, the font was easy to read... there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jon Dee </p>
+
+
+<h2> review.date </h2>
+  07-11-2010  
+<h2> review.text </h2>
+
+ <p> Dedicated students of metaphysical studies will recognize John Dee as an iconic figure. In "The Lost Art of Enochian Magic: Angels, Invocations, and the Secrets Revealed to Dr. John Dee", John DeSalvo (current director of the Great Pyramid of Giza Research Association) offers a 232-page informative guide to John Dee's angelic magic, including practical instructions for performing Enochian magic meditations. This body of magic is named after the biblical prophet Enoch and was given to John Dee by angels in the 16th century. "The Lost Art of Enochian Magic" traces the history of magic beginning with the Akadians and the Egyptians, through the Greco-Roman cultures, and down to the present day. Of special note are the insights into how magic has influenced the religious beliefs and practices of the Abrahamic religions (Judaism, Christian, Islam). Enhanced with the inclusion of a CD featuring Enochian calls demonstrating the correction pronunciation to be used when practicing Enochian rituals, "The Lost Art of Enochian Magic" will prove to be an invaluable and greatly appreciated addition to personal and academic library Metaphysical Studies reference collections and supplemental reading lists. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An invaluable and greatly appreciated addition to personal and academic library Metaphysical Studies reference collections </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> I have read this book twice now and when I originally read it, I was receptive to the message but it wasn't the right time to put it to practice.  Now having read it again I got so much more out of it than originally.  Now I am ready and able to put it to practice and will update later.  I just ordered the follow up book by Dr. DeSalvo will get it the first week of 2014!  Also ordered the book by Jon Milo Duquette and the Enochian Dictionary and will review them in the future.  This book leaves you wanting more! And I'm getting them soon! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read! </p>
+
+
+<h2> review.date </h2>
+  01-26-2013  
+<h2> review.text </h2>
+
+ <p> A very good book for the novice working in Enochian arts. This is a very simple meditative ritual. If one wants to advance a good book is Enochian Vision Magic by Lon Milo DuQuette (who wrote the intro to this book). All in all good history and a very simple ritual for the novice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good for novice </p>
+
+
+<h2> review.date </h2>
+  05-05-2014  
+<h2> review.text </h2>
+
+ <p> The cd that comes with it is really nice.  Anyone interested in actually performing enochian magic this is the book and cd to get.  It goes through the pronunciation of how to do the call on the cd and it has step by step instructions on how to go to the aethers.  So anyone wanting to go to the thirty aethers you can get there using this book.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great book. </p>
+
+
+<h2> review.date </h2>
+  07-06-2010  
+<h2> review.text </h2>
+
+ <p> This book's best part is its chapter on the "Enochian Meditation" which is somewhat innovative and very interesting. To get to this chapter, though, people familiar with Dee and Enochian have to suffer through several chapters of introductory material that is pretty redundant unless you are a complete beginner on the subject. For this reason the book, while a good one, was a disappointment to me because there was very little presented that was new. Even the meditation followed theories similar to those I had developed in the course of study for this magic -- though the book presented a more coherent and organized meditation than any I had come up with.Regardless of my own disappointments, I believe that this book is worth getting. The author does have some interesting insights into the magic which are worth examining, and the meditation presented is definitely worth studying and adding to anyone's magical practices. Just don't let your expectations get too high. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It is OK, once you get to the meat... </p>
+
+
+<h2> review.date </h2>
+  05-26-2013  
+<h2> review.text </h2>
+
+ <p> Best book with a CD talk you can use. I personally knoew Nick Norcerino. For the beginner this is the book to begin with and then continue reading other books on Enochian magic with Angels. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Book on Enochian Angel Magic </p>
+
+
+<h2> review.date </h2>
+  06-08-2010  
+<h2> review.text </h2>
+
+ <p> First of all, a bit of information.  The accompanying CD is missing part of the Enochian calls.  However, the reader will find the entire Enochian call on audio (for free download) at De Salvo's website dedicated to the book.  The name of that website is: myangelmagic.I gave the book 5 Stars, because it provides a good historical background, and very detailed explanations of a simple Enochian ritual in which no specialized equipment is used.  This is quite a boon for the would-be magician, as the props used in other Enochian rituals either necessitate that you be a good carpenter/artist or that you make considerable expenditure to obtain such items.  That said, I would have liked De Salvo to explain further why he thinks this particular Invocation can forgo such furnishings.  After all, according to the book, the angels told Dee and Kelly they would need a holy table, the Sigillum Dei Aemeth, Ensigns of Creation talismans, breastplate, magic ring and emblems.De Salvo advises that these exercises be used to get closer to God, rather than as a tool for obtaining earthly desires.  However where do you draw the line between the spiritual and the profane in this matter?  Surely, one can understand the problems that arise when spiritual tools are put to the service of the ego and its cravings.  However, what about helping the ill?  De Salvo believes that it should not be used even in that case; however, didn't Jesus and the Apostles heal the sick?  Of course, such works should always be prefaced by, "Let Thy will be done".What to make of working exclusively with the Aethyrs and not the Elementals, as De Salvo does in this work?  I am a novice at magic and cannot speak with any authority, however, questions do come to mind in this regard.  Much has been written about the need to integrate the Shadow,lest one fall prey to it.  Does this have some application to magical work?  Do these estranged entities, dubbed evil, grow more evil due to our unwillingness to encounter them (or when we do to use them for our own purposes)?  I don't know the answer to this question, but would like to hear from others more seasoned than I on the subject. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Getting Started With Enochian Magic </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

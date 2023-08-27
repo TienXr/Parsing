@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00EDYWA7A <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-09-2013  
+<h2> review.text </h2>
+
+ <p> I like this "Where does it come from" series. The books are great for children and all of them has a very good life lesson and beautiful hand drawn illustrations. At the end of each of the books there are some good information about the topic in some books even a few recipes. Great books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent  story, illustrations and lesson </p>
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> Bought it to my children and they loved it. My boy is just starting to read and it's great. I also read this with them and it is very nice. Well done, the author did a great job and I'm posting this review on behalf of my children and I also liked it a lot as a mother. Thanks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very cool! </p>
+
+
+<h2> review.date </h2>
+  08-12-2013  
+<h2> review.text </h2>
+
+ <p> This book is a compelling children's tale about the perils of vanity and the importance of kindness and community! I really enjoyed the illustrations, and as someone who has both taught and worked with children for many years, I can see this book really capturing and keeping the attention of young readers. I also enjoyed the information about corn that came at the end, which is informative and ties in really well with the story.  Great book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun Book with Great Message! </p>
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> I love this book, it is well written, it has a great life lesson and most of all it has a beautiful ending. Well done! I highly recommend this book, it is a perfect bedtime story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great life lesson! </p>
+
+
+<h2> review.date </h2>
+  08-12-2013  
+<h2> review.text </h2>
+
+ <p> Where Does it Come From?  -  The Legen of Corn by Gilston is another great book that tea he's yet another important life lesson. Reminding us to focus on what's important in life and not let the frivolous things interfere- thanks for the smiles! :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Great Lesson On Morals </p>
+
+
+<h2> review.date </h2>
+  08-14-2013  
+<h2> review.text </h2>
+
+ <p> A cute little tale about a young girl who is a bit too obsessed with her golden hair.  Trauma and a happy ending ensue.  There's a nice little bonus section with facts about corn as well as a few recipes.  The only downside is that the book is a bit short, but it's great for a quick bedtime story.  Nice illustrations, too.  My five year old loved it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute, but brief, story </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> Gifted this book to my nephew. He really got into the characters and we had a good conversation about selfishness afterwards. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great morals </p>
+
+
+<h2> review.date </h2>
+  08-11-2013  
+<h2> review.text </h2>
+
+ <p> I loved reading this story!  This is entertaining, fun and educational.  There is a lesson to learn as well.  This story is about Corneille, a young girl with beautiful golden hair.  But she was so obsessed with her hair that she became an ugly person, full of vanity.I also love the educational facts about corn at the end of the story.  Jackaroo Gilston managed to combine several aspects in this book.A wonderful story to read to small children, but also by older children who can read on their own.  I look forward to the next book in the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A delightful story </p>
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> A delightful storyI loved reading this story!  This is entertaining, fun and educational.  There is a lesson to learn as well.  This story is about Corneille, a young girl with beautiful golden hair.  But she was so obsessed with her hair that she became an ugly person, full of vanity.I also love the educational facts about corn at the end of the story.  Jackaroo Gilston managed to combine several aspects in this book.A wonderful story to read to small children, but also by older children who can read on their own.  I look forward to the next book in the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Legend of the Corn </p>
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> This book had cute illustrations and a good story line. It was a fun read and had some good lessons for children ...  and adults. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute book with good lessons </p>
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> This book has a great story that any child would love reading with their mom or dad. The illustrations are colorful and fun, while to reading is not too difficult for children. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a fun and clever read </p>
+
+
+<h2> review.date </h2>
+  08-16-2013  
+<h2> review.text </h2>
+
+ <p> Another fun book from Jackaroo Gilston! His approach to storytelling it just great--he creates (and nicely illustrates) a mythical story around something that kids might be interested in, and then he follows it up with some fun facts, and, in this case, some recipes to try out. Recommended for kids of all ages! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Fun Book! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

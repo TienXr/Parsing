@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 157324080X <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The perfect book about pilgrimage </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-21-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> Anyone who loves to travel (or loves armchair travel, for that matter) would enjoy this book. I've been interested in the idea of travel as pilgrimage for several years, which is what drew me to this book. I found the discussion of what pilgrimage is and what it can mean to anyone very engrossing and thought-provoking. I look forward to reading Phil Cousineau's other books. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Call of the Road </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-14-2002  
+<h2> REVIEW TEXT </h2>
+
+ <p> Chances are, if you're looking at this book, you're already planning a trip, and are of a mind to make your travel special. If you are not already of a mind to travel, you will be after reading even a little of "Art of Pilgrimage". Read it on the plane, on the bus, at rest stops...but if you read it sitting at home, expect to travel soon...To put it simply, Cousineau loves to travel, and has written a book that will speak to the traveler in all of us. We are descended from nomads; the instinct is in all of us, but we get bogged down in Mundania. Cousineau mixes great quotes along with observations from his own quests and adventures. The results will most certainly help you to make your own journey a transformative event. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> New level of mindfulness for travelers </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed the anecdotes about other travelers.  I really liked the suggestions for becoming more intentional and mindful in my own preparations for travel. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Part Travel-logue part philosophy of travel, a gentle good read </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-06-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is part travelogue, but very much a deeper philosophical insight into why we travel - and by talking it Cousineau expresses much of what I felt about travel but hadn't really put into words before. It is very much about getting meaning from the places you visit rather than simply visiting them, which is why spiritual and religious pilgrimages mean such a great deal.The early christian church recognised this and put together a book of pilgrimage sites, places and ways with details of what was on the way and what was there so pilgrims could make their journey. These early travel books make it clearer the inner motive we have to travel.Certainly the majority of people these days don't travel on pilgrimages as such any more. Yet to use a similar concept, Cousineau talks about getting meaning from the places you visit in the same way. Visiting a place is about understanding it and finding meaning from it. The more you know and understand why you are visiting somewhere the more satisfying the visit.there are a great number of anecdotes in here - from people like an Anti-nuclear campaigner to inveterate travelers like Peter Ustinov and Cousineau's own experiences. some of these anecdotes are less successful than others, but it is the mix which gives the book strength.On a purely aesthetic note, I really liked the hardback version of this book from Conari, the jacket is nicely illustrated with faux letters and stamps, and it also comes with a nice little green ribbon place marker. This would make a lovely gift for someone.While you might not find deep spiritual insight into your pilgrimage or quest, you might get a deeper understanding of the drive and how to make travel a more profound experience. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a life-changing book. If you are interested in seeing what you can awaken in yourself on a pilgrimmage, this book will guide you on your path. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Overbearing </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sort of pompous.Not a good read. Thought I was getting more substance, but that turned out not to be the case. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The end justifies the means... </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-24-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> Have you ever felt a need to reach a certain physical destination or bring  some effort to fruition before you die? Why is the human reverence for  places such as Notre Dame, Jerusalem, or Mecca so strong? In times past,  people made pilgrimages to holy shrines and sacred spots to atone for sins,  seek a cure, keep promises, or recover holy ground from barbarians. Today,  many people travel to escape reality, or to break a routine.In  &quot;The Art of Pilgrimage&quot; Phil Cousineau says travel can take on a  larger role.  He proposes a &quot;seeker's guide to making travel  sacred.&quot; The book explores the steps of the sacred pilgrimage:  &quot;The Longing&quot;, &quot;The Call&quot;, &quot;Departure&quot;,  &quot;The Pilgrim's Way&quot;, The Labyrinth&quot; and &quot;The  Arrival.&quot;Cousineau has set down in print an idea that has been  floating around my head for some time. I don't seek out the traditional  holy places, but I have wandered from one artist's home to another--Nohant  or Bath or Rye or Waldon or Bloomsbury or Salisbury.  In doing so, I have  felt connected to the spirit of the artist who once lived and worked in  that space. Perhaps they are my lost saints. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A guide to mindful travel </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> My husband bought this book last year on the recommendation of a friend and I came across it recently while sorting through our kindle account. In light of my (then upcoming) trip to Morocco I thought I would give it a read. I thoroughly enjoyed and was moved by this book. As I read through I highlighted thirty-nine passages, and each one, when I go back and read now, sets ablaze a host of ideas and reflections.One of the highlights of travel is attaining those moments of travel nirvana. Turning a corner and seeing the Eiffel Tower was one such moment for me. It's the times when you suddenly realise you've arrived somewhere that you've always dreamed of. It's a strange sense of achievement and pride and excitement and awe. It's stepping into one of your fantasies, all the while feeling the ground hard beneath your feet.But all too often that rush of emotion is reserved for the big ticket items: Woohoo! Eiffel Tower/Grand Canyon/Big Ben/Robben Island/Victoria Falls. And yet even for the regular traveler, in practise those moments are few and far between. They're two hours in two weeks. And in between?I suspect that &#34;in between&#34; there is a choice.There's routine and familiarity (possible even in the most remote of places) and frustration, maybe a general level of interest with what is passing us by. It's enough to fill a day and feel rewarding but doesn't necessarily speak to your soul, or kindle that fire in the pit of your stomach.Or there's, what shall we call it? Mindfulness? Awareness? Presence? It's the art of seeing what you're not conditioned to see. It's looking up and down, and in gutters, and on rooftops. And all around.It's watching the orange fall off a cart and roll down a street, dodging between feet, chased by a stranger and then thrown through the sky, back to its rightful owner. It's a cat in a thunderstorm hiding from the rain under a brown plastic stool. Or it's a man running from his building on his way to work, kicking a coke bottle top with the energy of early morning and then almost dying of embarrassment when it collides with a passerby.But perhaps most importantly it's finding a way to not only to remember to notice, but to stop and enjoy and capture those moments, and bring them inside, preferably with a sense of wonder and pleasure, and holding them there forever.And it all takes practise. Reading this book is one of those practises. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Traveler's Lamp </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> If I think about the criteria for a sacred journey as outlined in The Art of Pilgrimage, I have been applying Cousineau's suggestions for the past decade or so. (1) Ask yourself what would constitute a sacred destination for you. (2) Read deeply on the desired goal. (3) When you get there try to absorb the mystery of the place and the spirits that have preceded you. As a travel writer that is what I do. What he does not emphasize is how important it is to go by yourself so that you may sink into the experience without the distraction of others. Possibly this is because he leads cultural tours and acts as a guide for groups seeking a more intense travel experience.My most sacred journey was a trip to Waipio Valley on the Big Island of Hawai'i. This verdant valley framed by 3,000-foot cliffs has been the resting place of chiefs for centuries. The bones of ancestors are hidden in caves in the walls of the cliffs. The gateway to Milu the underwater spirit world of Po is on the edge of the crescent shore at the mouth of the valley. It was imperative that I make this pilgrimage alone so that I might commune with the ancients.Reading one of Cousineau's books is like a refresher course in art history and English literature rolled into the new age. There are enough quotable quotes to get you through the most erudite gathering with flying colors. Always well written, and thought provoking, I find his books a welcome respite from the ordinary.Linda Ballou[...] </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good read for serious pilgrims </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I recently read this book after coming back to the US from Bhutan.  It was just what I needed to help me find meaning out of the many mixed emotions I had while traveling.  It was very difficult returning to the US after being in such an incredibly different culture.  This book helped me integrate my process.  It was amazing how much I could relate to the sacred journey of a pilgrimage.  This is a precious book I will keep and read again.  Traveling has so much more meaning to me than simply being a "tourist". This book helped me realize why traveling is such a powerful experience for me. I highly recommend this book to anyone but especially to those who seek a spiritual path. It is well written and encourages the reader to self examine. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One for my get-away kit </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-01-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> Phil Cousineau could have had an ordinary life. Or perhaps that would NEVER have been possible, because he is attuned to the nature of journey. I admit I had not been able to think of travel as a sacred activity, because it is so arduous. &quot;The Art of Pilgrimage&quot; is Phil's guide to finding the sacred in all that hard work itself. Pilgrimage is not easy by its nature, and those who try to ignore the tough journey by focusing on an all-important goal will find the journey even more tedious and the pleasure of the goal over-blown or elusive.  Phil's stories are authentic and humble. His illuminations of the way of sacred travel are utterly attainable. I left this book with the hopeful thought that what he offers, I can pursue. This is refreshing when compared with so-called &quot;how-tos&quot; that require one to BE the author. A seeker can advance through appropriation of the gifts offered in this volume. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love It! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Deep and full of heart and soul. I am organizing a group for a spiritual journey to Machu Picchu and this will be suggested reading. It contains many, many ideas for deepening your travel experience and integrating it for a more soulful journey. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An exceptional guide for spiritual travelling </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-29-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> Despite the name, this guide is useful to all people who wish to visit any place which they regard as special. Be it a cathedral, a mountain, a football field, or an ancestors grave, we all hope to be moved and to feel  something more, when we embark on a pilgrimage of any kind. How  disappointing it is then, to get where we want to only to find no sense of  spirit or wonder.This book is about preparing for your journey both  mentally and spiritually, so that you really will find what you seek. It  guides your thoughts and feelings from your departure, to your return home,  and helps you to find that something extra that all pilgrims seek.An  excellent read. I took this book with me to Israel although it is not a  religious book, but rather a spiritual one. I found the ideas and guidance  it offered invaluable and it really did help to make my journey  special.5 stars for a unique and original book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A trip on words </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-1999  
+<h2> REVIEW TEXT </h2>
+
+ <p> The books gets caught up in its verbosity and  long windedness </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Superficial </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-06-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was expecting something more "deeply spiritual". This book was so superficial, that I never finished reading it. Lastly, it jumps around through so many different religions, it's hard to keep focus. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Stories  On Travel Today </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great travel stories here. A short book but great to read on people traveling in different part of the world. Would recomment this book to everyone who loves to read about travel. Enjoy this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> sentimental, cliche </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-03-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was looking for genuine, practical insights into pilgrimage. Rather than spirituality, I found unchecked sentimentality; rather than insights, I found endless cliches. There were a few interesting anecdotes, but on the whole the book is merely cleverness and pretentious references to elite culture. The book won't help anyone who wants to make a pilgrimage; it helps people who want to feel warm and fuzzy about pilgrimage. Cousineau throws around (and manipulates) religious traditions like a child plays with her mother's jewelry: without any notion of their true value. In short, the book is superficial and sentimental. Unless this appeals to you, spend your money on something else. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

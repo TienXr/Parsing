@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004BDP94E <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-20-2013  
+<h2> review.text </h2>
+
+ <p> This is a great series and have loved all the books, it was great to watch them fall in love and believe in love again </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it </p>
+
+
+<h2> review.date </h2>
+  10-22-2012  
+<h2> review.text </h2>
+
+ <p> The second book set in Bardville, WY. was equally as good as the first. The seamless storyline was amazing. You learn about the two main characters in Book 1 as you read about Boone and Cambria. Then, Jessa and Cully's story becomes the main story. McLinn continues telling us about the Bardville characters and landscape and how they all work together to make a community of people who care about one another. I love the fact that you know who she will write about next. The relationships seem real. The characters are revealed as different people just as you'd expect them to be in a circle of friends. I am enjoying all of McLinn's books. Catch up! You're missing out on some great reading full of adventures and passion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wyoming Heat! </p>
+
+
+<h2> review.date </h2>
+  04-05-2014  
+<h2> review.text </h2>
+
+ <p> This was a great read. Made me laugh and cry.  It was a very well written story  as all of her books were. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Trust. </p>
+
+
+<h2> review.date </h2>
+  02-21-2013  
+<h2> review.text </h2>
+
+ <p> These series are getting better. It was really hard for me to get into the 1st book but then once I got into them you can't put then down. Really good books to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Getting better. </p>
+
+
+<h2> review.date </h2>
+  07-16-2013  
+<h2> review.text </h2>
+
+ <p> Book 2 was just as good as the first one.  Showed how past hurts and circumstances mold us into the people we become.  Great read and don't miss any of this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> I liked book two the best.  There was a few more tangles to untie.  It is fun reading more about the names just mentioned in Book one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Opposites really do attract! </p>
+
+
+<h2> review.date </h2>
+  08-07-2011  
+<h2> review.text </h2>
+
+ <p> I loved the characters is book one. In book two Cully took my heart. There is more suspense than in book one, but both of them are terrific, the characters well developed. It's a lovely book with great romance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Stranger to Love </p>
+
+
+<h2> review.date </h2>
+  12-23-2012  
+<h2> review.text </h2>
+
+ <p> Wonderful part 2 to a story of a tight community. Really nice to see chemistry develop between the characters even with bumps in the road and family ties. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stranger to Love </p>
+
+
+<h2> review.date </h2>
+  01-22-2014  
+<h2> review.text </h2>
+
+ <p> I love this trilogy, but this one is my favorite. The sizzle that is Cully and Jessa is AMAZING. Their romance was a lot of give and take, and it never felt like the author lost her pace with it. I'm so glad that I found this series, and I look forward to reading more by Patricia McLinn. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfection </p>
+
+
+<h2> review.date </h2>
+  06-27-2012  
+<h2> review.text </h2>
+
+ <p> I really liked Cully...but Jessa I just wanted to strangle her! She pissed me off throughout the book; she never even acted like she had any feelings for Cully and always keep him at a distance. Definantely not someone you would even want to marry or have a physical relationship with! If you feel like putting your hate on for the heroine go for it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> KILL THE GIRLFRIEND!!! </p>
+
+
+<h2> review.date </h2>
+  09-19-2013  
+<h2> review.text </h2>
+
+ <p> I loved it will keep it in my mind to read again.  great series encourage everyone to read and enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> Very nice book in the series. I like the way she has woven the storyline of all the series together </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

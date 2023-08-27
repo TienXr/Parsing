@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0015I2S6U <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-23-2013  
+<h2> review.text </h2>
+
+ <p> Everyone in this movie is hilarious in it. This is one of the most underrated comedies. I only recommend for guys between the ages of 15-25. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like it </p>
+
+
+<h2> review.date </h2>
+  03-03-2014  
+<h2> review.text </h2>
+
+ <p> This move got pooped on by the critics and a 0% rating on rottentomatoes.com.  It's really not that bad.  This isn't an Oscar worthy movie or a particularly smart movie, but if you take it for what it is, it's a fun, enjoyable movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Darn Funny </p>
+
+
+<h2> review.date </h2>
+  02-05-2008  
+<h2> review.text </h2>
+
+ <p> This movie preview has it all, a great cast, a great story and best of all it was produced by Adam Sandler's company. Right?It sucks, bad! I was so excited to see this movie, I went last weekend and was totally disappointed. Do not waste your money at the theater!Superbad, Hot Rod, Accepted, Knocked Up, Grandmas Boy, now those movies are funny!Obviously with the amazing cast in "Strange Wilderness", there were several funny parts, but the movie as a whole was a "DUD"!!Youve been warned! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strange Wilderness = BUST!! </p>
+
+
+<h2> review.date </h2>
+  05-20-2008  
+<h2> review.text </h2>
+
+ <p> Fred Wolf's directorial debut, Strange Wilderness, was pushed back time and again before it finally had its theatrical release, however short-lived it may have been. Surrounded by a hapless crew, a barebones script, and low viewership, the plot (or lack thereof) of Strange Wilderness self-reflexively, and perhaps inadvertently, sheds some light on what went wrong with the film in general.  When Peter Gaulke (Steve Zahn)'s attempt to carry on his father's "in the wild" reality show faces cancellation, he sets out to find Bigfoot in order to boost ratings.  While Peter and his friends certainly aren't making quality programming, they do share quite a few laughs along the way.  Unfortunately, the same cannot be said for Wolf's film, which drags out crude inside jokes, interspersed with random animal footage equally crudely voiced-over, and just leaves the audience wishing they were lost in the wilderness.What was once seen as a clever, little tongue-in-cheek plot device of a show within a show, simultaneously mirroring and mocking the entertainment industry, has just become tired after so many repeated usages, and Strange Wilderness, in turn, is a stale formula. Furthermore, with a cast of improv comedic greats like Jonah Hill and Justin Long, Strange Wilderness had the potential to boast some classic one-liners, genuine laugh out-loud moments, and awkward pausing, but unfortunately it falls short on all but the latter.  Instead, Wolf keeps Hill, Long, and others like Peter Dante and Kevin Heffernan in the background; they are barely even supporting players, as their characters' moments don't add anything to push the plot along but instead seem more like desperate filler than anything substantial.  Side anecdotes, like Heffernan's character's alcoholism, reveal themselves presumably for more laughs (because they certainly don't add another dimension to the characters!) but end up just being awfully, tragically unfunny and awfully redundant... or maybe they're just plain awful.  In general, Strange Wilderness suffers by not being nearly as snappy as one has come to expect from a slacker comedy, and in its best moments, only induces weak chuckling.Both "Strange Wilderness," the fictional reality show and Strange Wilderness, the movie, rely on the token hot girl (Cheryl, portrayed by Ashley Scott), as well as physical humor (animals mating in the former and stoned falls in the latter) to keep people interested.  Scott, for her credit, manages to hold her own amidst the testosterone-- even if it is a question mark as to why she'd want to get involved with these perpetual screw-ups in the first place-- but she often gets swallowed up in the mess and her dialogue cut out, as is evidenced by some of the extended and deleted scenes on the DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'd Rather Be Lost In The Wilderness </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> Strange Wilderness is a largely unknown cult classic that combines the comic talents of some of today's best.  Watch it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cult Classic </p>
+
+
+<h2> review.date </h2>
+  07-04-2008  
+<h2> review.text </h2>
+
+ <p> I had no hope for this film. The trailer had a couple of goofy moments and simply promised a great cast, but considering it came and went in the theater, I didn't expect much. Still, as far as dumb comedies goes, this could be worse. There are a couple of great moments (the best moment: the turkey gag -- oh, that's a pun; the rival wilderness film teams' death scene) worth the price of rental. I'm not sure about some of the other stupid jokes (a guy just named "dick" whom the cast then makes a bunch of jokes about for a full minute and a half).Jonah Hill has a funny accent and doesn't spend too much acting like himself; Zahn has a great moment where he freaks out in frustration; and the voiceovers he does for the "show" are fantastic.Essentially, don't expect genius, but if you're in a silly mood (and no, this does not mean "if you're high") this should make you laugh enough not to regret the trip to the DVD rental place. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bad reviews are not surprising, but I'm not sure the movie was aiming very high anyway </p>
+
+
+<h2> review.date </h2>
+  03-24-2009  
+<h2> review.text </h2>
+
+ <p> Okay, people, this movie was hilarious! I really don't know what these other dullards around here think funny is...With so few good comedies coming down the pipe these days, it is refreshing to have something like this that doesn't have the blatant and unnecessary profanity like Zack & Miri, Me, Myself & Irene, and Superbad. This movie had me laughing from beginning to end!Steve Zahn does a great job as the hapless animal show host, and hissupporting cast are as funny as ever. Good fun! Nothing more needs to be said. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This one's FUNNY! Don't let the dullards fool you! </p>
+
+
+<h2> review.date </h2>
+  03-03-2014  
+<h2> review.text </h2>
+
+ <p> This is a very bizarre movie.  It's a mash of toilet humor, hilarious random-type humor, and shock humor.  You're not expecting some great American cinematic experience for the ages, but this was weird even for a stoner/college guy movie.I wish the entire movie was the actual wilderness show they did within the movie with their hilarious commentary.  One scene where Jeff Garlin's character is going through footage from their show and asks basically what the heck the background music is and why they would show it, after having shown other similar random footage (like a guy on fire), made my friend who rarely laughs at movies just lose it and crack up for about three minutes to the point of tears coming down his eyes.  Quotes like, "Bears are a proud people, although they're not people per-say. They're animals." were awesome.  Unfortunately those parts only last a few minutes.  An entire movie of just completely ridiculously-made up facts with animal footage would've been so much better.Unfortunately however the movie continues to get weirder and stupider.  It ends with the actors in the movie seeming to actually start laughing in real life, randomly.  We thought it was the kind of movie the director probably lost future gigs directing for having done this movie.  Unless the director was a 12-year-old, then I suppose he'd have his whole life in front of him still.The random pretty gal I've never seen before in any movie seemed like someone where when casting they were like, "Oh no, we need an attractive woman too - yoo hoo, hey, Miss, come be in a movie?" And she probably looked in a nearby mirror with a blank expression on her face for a half hour and eventually replied, "Okay."The other characters in this movie were generally irritating and repeats of the same characters each actor has done in other movies.  Jonah Hill with a southern accent made me want to drink southern comfort.  Justin Long being an irritating stoner (basically his same character from Idiocracy) made me want to light up.  And I don't drink hard liquor or smoke.  Kevin Heffernan, who did nothing in the movie, needed a paycheck apparently.  Covert and Zahn, with Garlin briefly, were the entire movie.It is very funny at parts.  Unfortunately those parts are very sporadic and unpredictable.  I would say if you like Grandma's Boy and Half Baked a lot (which were both great), then you may still enjoy watching this movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gets really really REALLY dumb, though still worth renting (but not buying) </p>
+
+
+<h2> review.date </h2>
+  08-26-2008  
+<h2> review.text </h2>
+
+ <p> I have my theory on movies.  Most of the time, if a film is under 90 minutes.  It is going to lack quality.  Now don't get me wrong.  This is not true 100  percent of the time.  But 9 our of 10 times it is for me.  So even though I saw that the time was only 84 minutes I still decided to buy it.  I paid like 20 dollars for this and I feel that I got ripped off.  20 dollars for a good movie that is about and hour and 40 minutes is a lot.  But for a movie that after the previews is about 82 minutes is a complete rip off.The movie has some good actors.  Some are more well known than others.  The cast includes Steve Zahn who has been in films like That Thing You Do 1996 and Saving Silverman 2001.  Allen Covert who you have seen in films like The Waterboy and Mr. Deeds and Jonah Hill whom you have seen in movies like Knocked up and Superbad.  My favorite of these is Steve Zahn.  If you have never seen him in Rescue Dawn I would say buy or rent it.  It is a different part than I am used to seeing  him in and he does an amazing job.Now for the plot.  This shouldn't take long because it is a pretty weak plot.  The movie is about some guys who have a nature show.  They don't do a very good job making the show nor do they know about anything they are talking about.  They get canceled and decide to go find big foot.  They all think this will make them famous and there show will be back.  That is the entire story folks.  Along the way some low grade comedy will happen.  Think of Adam Sandlers first few movies.  I didn't really laugh at any of it.  Perhaps if I watched it a second time I would understand it more.  But as of this moment I think it was unfunny.  I do think it's cool though that the actors chose to be in a movie like this.  There are some great actors in this movie and they still chose to be in a movie that wasn't guaranteed to make millions and millions of dollars.  It's cool when great actors still play parts in lower cost movies like this.  Maybe that is why I still have mine and haven't sold it yet.I wanted to take a second to talk about my rating.  I gave this movie a 3 out of 5.  What I think that means is the movie a alright to watch once.  I would not watch it over and over again.  Maybe if there was nothing great on and that was on TV I would watch it.  A 1 and 2 would be movies that I couldn't watch all the way through or ever again.  A 4 is a movie that I can see watching more than once.  A movie that really did well at everything it tried to do and finally a 5 is a movie that is perfection.  Everything about it is great.  Anytime it was on I would more than likely watch it.  So with all that in mind, that this review as you will and thanks for taking time to read it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A movie that's short length makes it better. </p>
+
+
+<h2> review.date </h2>
+  11-13-2013  
+<h2> review.text </h2>
+
+ <p> I think this is the one of the worst movies I have ever seen. However my cousin and good friend has been looking for this DVD all over! She did not think I would find it but Amazon had the DVD and she is very happy! It has some funny moments but she says it is hard to find. Thanks! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MKS </p>
+
+
+<h2> review.date </h2>
+  03-07-2013  
+<h2> review.text </h2>
+
+ <p> Not as funny as it could have been with all the great actors, but Steve Zahn saved this film for sure! He's sooo cute! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> They didn't need to kill Sasquatch!!!!!!!!!!!! </p>
+
+
+<h2> review.date </h2>
+  06-02-2009  
+<h2> review.text </h2>
+
+ <p> For a Happy Madison production, I expected this one to be a lot better. It makes me wonder how they got such a cast together, and it still falls flat on it's butt by the end of the film?So it stars the guy from Joyride, who is a Wilderness show host who is trying to follow in the footsteps of his father, making a mockery of the show by adding stupid dialog over wilderness footage. That was kinda funny for a while, but went pretty dry by the end of the film.Farvar from "Super Troopers" and the fat guy from "Knocked Up" are here as well. However, the fat guy has some decent lines and a funny song to sing about family, but Farvar... why even bother to cast him for the role he played in this?The other regulars of Happy Madison movies really where the ones who let this movie down a lot. The second-hand man and the dopey rocker from "Little Nicky" really where the odd ones out in this movie. I dunno, either their faces are too well known to be believable as these dimwits, or if they weren't friends with Adam Sandler, they'd never have gotten the roles for this one.The movie has some decent scenes, and some funny lines, but by the end, it's just not enough to save this movie from being crap. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice casting, just, bad writing. </p>
+
+
+<h2> review.date </h2>
+  11-21-2008  
+<h2> review.text </h2>
+
+ <p> Wow...So Happy Madison, hot of the heels of the sleeper hit Grandma's Boy, puts out a new movie with most of the familiar faces from other Happy Madison productions (such as Allen Covert and Peter Dante) as well as Judd Apatow's go-to-guys Jonah Hill, Broken Lizard's Kevin Heffernan,  and Justin Long who seems to be everywhere nowadays.  The lead went to Steve Zahn, who's a decent actor, but was he the best choice for an R-rated comedy romp?  I dunno...The story centers around a group of guys who are determined to have their nature-based TV show go from being considered embarrassing to supreme, despite lacking any originality or direction in regards to nature shows.  The group finds themselves on an adventure and usually falls victim to their own ineptitude.Much like the TV show in the film, the movie itself tends to lack originality or direction.  It features a lot of the elements found in other Happy Madison productions, including the dopey heroes, unethical villains, and slapstick comedy where everything seems to fall apart until the end.  The most telling point was the end of the film, where the ending came at such an anti-climactic measure that by the time it was all said and done, it would leave you asking yourself "... was that it?"Bottom line:  There was too much talent in the film for it to have performed the way it did.  Maybe another lead man could have injected a little more life into it (instead of a cast consisting primarily of supporting actors), but it was largely the weak premise and weaker delivery that robbed this movie of the energy these guys have had in other movies.I can't recommend it to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I would have rather I imagined what it could have been as opposed to what it was. </p>
+
+
+<h2> review.date </h2>
+  04-12-2009  
+<h2> review.text </h2>
+
+ <p> OK, if you saw the trailer for this film many months ago you knew what to expect, I know I did. The film lived up to my expectation and kept me entertained through most of it's hour and 24 minute length.With a cast this good at "dumb dumb" comedies, it would be hard to believe they couldn't pull it off. If your in the mood for this sort of thing 'Strange Wilderness' will deliver somewhat.The voice over stuff is the best, but there are several laugh out loud moments in this silly and harmless film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BRAINLESS, BUT ENTERTAINING! </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> this movie was ok guess one of those ones you have to be really into after awhile it started to get tedious like i say you have to be into it its ok.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> okay </p>
+
+
+<h2> review.date </h2>
+  05-31-2008  
+<h2> review.text </h2>
+
+ <p> this is a "challenging" movie, mostly boring for the first hour, full of attempted "dude" moments that fail to make any of the characters likeable or relatable and barely even holding a thread of a plot, but it's worth rewaching after the last half hour puts everything into context by taking sharper more obviously deliberate wrong turns and proves it's not so much a failed attempt at writing a "proper" movie as it is a decent attempt at pure nonsense. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Please enter a title for your review </p>
+
+
+<h2> review.date </h2>
+  05-16-2013  
+<h2> review.text </h2>
+
+ <p> Why does everybody hate this film? It is a lot better than the critics and others think it is. I mean they go on one crazy adventure and this has a great cast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hater gonna hate </p>
+
+
+<h2> review.date </h2>
+  08-21-2008  
+<h2> review.text </h2>
+
+ <p> ***1/2"Strange Wilderness" is a good-natured, frequently hilarious takeoff on all those nature documentaries that play on the Discovery Channel and Animal Planet, and whose pedigree stretches all the way back to the granddaddy of them all, "Mutual of Omaha`s Wild Kingdom."  Peter and Fred are the producers of a wildlife series entitled "Strange Wilderness" that has been foundering in the ratings ever since Peter's father, a Steve Irwin-type naturist and the original host of the show, passed away, leaving his less-than-stellar son to carry on his legacy.  The sheer scientific illiteracy of much of the commentary that Peter provides for his footage probably hasn't helped matters much in this regard.  Now faced with the prospect of series cancellation, Peter and his crew of incompetent dweebs head off to the wilds of South America to file an exclusive report on the famed Bigfoot who has recently been spotted there.Though adolescent in the extreme, "Strange Wilderness" turns out to be a zany, endearingly random and unflaggingly energetic little comedy whose likable cast is obviously dialed into what the moviemakers are trying to do here.  Steve Zahn, Allen Covert, Covert, Ernest Borgnine, Jeff Garlin, Kevin Heffernan, Justin Long and Harry Hamlin seem to be having the time of their lives here and their enjoyment rubs off on us as well.Is it dumb?  Of course it is.  Is it lowbrow, inane and hopelessly juvenile?  You betcha'.  But unlike so many other films that fall into those categories, "Strange Wilderness" has a shrewd mind for parody and a liveliness of spirit that actually make the movie funny.  Credit scenarist Peter Gaulke and co-author/director Fred Wolf (who first developed this concept as sketches on "Saturday Night Live") for some excellent joke-writing and pacing and for their willingness to pull out all the stops in their effort to get the laugh.  In fact, the crew's ill-fated encounter with Bigfoot is alone worth the price of admission. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> inspired silliness </p>
+
+
+<h2> review.date </h2>
+  05-20-2008  
+<h2> review.text </h2>
+
+ <p> This is basically Grandmas boy, it made no money and theaters and it will become a cult hit, its basically the same slacker movie, except this has a lot more talented comedic actors, a lot funnier than i thought it would be </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very funny </p>
+
+
+<h2> review.date </h2>
+  05-27-2008  
+<h2> review.text </h2>
+
+ <p> This is easily up in my top 10 worst movies I have ever seen.  If you've never had a complete thought in your head (and I've been there) and are so baked that you won't even remember watching it (been there too) then you might get some chuckles out of it.This is pretty much random potty jokes (most of which have been used before) very very VERY thinly strung together by the storyline.Imagine the wost 2 dimensional, annoying character you've ever seen, clone him and you've got the cast of Strange Wilderness. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 90 minutes I'll never get back </p>
+
+
+<h2> review.date </h2>
+  06-07-2009  
+<h2> review.text </h2>
+
+ <p> Saying Strange Wilderness is a bad movie, is a little bit of an understatement. I personally would never go so far as to say I hated any movie in it's entirety, there's always a few shining good moments one can decipher and enjoy; but then again in that context, this movie has very few.Peter's(Steve Zahn) father was the charismatic host of 'Strange Wilderness' before his passing, a show about exploring wildlife, animals, and adventures. Of course, Peter inherits the show and wants to be just like his notable pop, but lacks so very much of his father's grace and know-how, or even common sense?With his eccentric crew made up of Cooker(Jonah Hill), Junior(Justin Long), Cheryl(Ashley Scott), Danny(Peter Dante), Whitaker(Kevin Heffernan), and Fred(Allen Covert) the Strange Wilderness crew departs on their expedition to finding, filming and capturing the legendary Bigfoot.As can be expected the gang runs into varies traps, and misfortunes along their path to Bigfoot, some of those being, finding their competition program's team attacked by pygmies, a guide eaten by piranhas, and one of them being brutally mauled by a shark.Someone with an odd or different sense of humor then myself might find enjoyment in this flick(and don't get me wrong here, I enjoy plenty ridiculously silly, similar comedies), but I personally found it near impossible. I had a handful of laughs and not too much more. The violence and stupidity crosses over the line from funny to annoying, and a little pointless. I found it hard to sit through, even with a friends' persuasion.I still find it hard to fathom that the great Ernest Borgnine signed on for even his small part in this stinker!This is just more proof that a fantastic cast certainly doesn't guarantee a good movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Monkeys make up over 80% of the world's monkey population." [not the smartest tools in the shed] </p>
+
+
+<h2> review.date </h2>
+  04-18-2009  
+<h2> review.text </h2>
+
+ <p> Version: U.S.A / Paramount / Region FreeMPEG-4 AVC BD-25 / High Profile 4.1 / AACSAspect ratio: 2.40:1Running time: 1:24:57Movie size: 19,34 GBDisc size: 22,87 GBTotal bit rate: 30.36 MbpsAverage video bit rate: 23.49 MbpsDolby TrueHD Audio  English  3141 kbps  5.1 / 48 kHz / 3141 kbps / 24-bit (AC3 Core: 5.1 / 48 kHz / 640 kbps)Dolby Digital Audio  Spanish  640 kbps  5.1 / 48 kHz / 640 kbpsSubtitles: English (SDH), English, French, SpanishNumber of chapters: 11# Cooker's Song (SD - 5 min)# The Turkey (SD - 6 min)# What do we do? (SD - 6 min)# Reel Comedy Strange Wilderness (SD - 21 min)# Deleted Scenes (SD - 22 min) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strange Wilderness - Blu-ray Info </p>
+
+
+<h2> review.date </h2>
+  05-31-2008  
+<h2> review.text </h2>
+
+ <p> A friend recommended this to me, and insisted that I would find it hilarious. He was wrong, seeing as how I laughed maybe two or three times. As the title of this review states, this is a waste of film and so I am not going to waste any of my time writing a lengthy review for it. I've already surrendered 80 minutes of my time to this film, and I'll never see them again. You don't have to make the same mistake. SKIP IT. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A waste of film. </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> It was kind of funny, but over all I was not super impressed.  I can't say that I would recommend it to my friends </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny but pretty crass </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

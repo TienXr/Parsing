@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004VA0IP2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> It worked really well for 5 months. Now it is dead, the light won't lite up and does not charge the batteries. I am going with a Sony original charger now, it's cheaper in the long run. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did not last long </p>
+
+
+<h2> review.date </h2>
+  05-15-2014  
+<h2> review.text </h2>
+
+ <p> The battery is a little different from the Sony battery. Sony battery is 7.2V 1020mAh. This battery is 7.4V and 1500mAh.The Sony battery holds the charge a little longer, but this one is great as a back up.Great price. Nothing to complain about. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Good </p>
+
+
+<h2> review.date </h2>
+  07-15-2013  
+<h2> review.text </h2>
+
+ <p> I wasn't expecting much for the price. I wanted the Sony version, but it was out of stock and I needed a charger ASAP for vacation. I ordered this and used it configured as a car charger and for my hotel rooms plugged into a regular outlet. It just worked. The LED is red when charging and green when charged.. makes sense. Nice and light weight too.I didn't even notice that charger comes with a car connector, but it does, and it works great. I was camping and relied on this for a week before heading off to hotels after camping. Since it was so fast, I was just fine on 2 batteries for a nex6, taking hundreds of shots of daily with lots of flash use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exceeded expectations given the price </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> The first time I tried plugging it into an AC outlet it starting arcing internally. It would not charge the Sony NP-FW50 lithium battery from an AC outlet. Save yourself time and aggravation and buy the Vivitar NP-FW50 Rapid Travel Charger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dangerous charger </p>
+
+
+<h2> review.date </h2>
+  11-01-2013  
+<h2> review.text </h2>
+
+ <p> This charger works perfectly, the only draw back is that the plug is a flip out plug in that the whole unit is plugged into a wall outlet. Would have been better if it came with a cord instead. Comes with a car power port cord.Works perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Travel Charger </p>
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> I have a third party and the first party Sony battery (NEX-6), and it charges both without issue.I has an indicator light which lets you know it's charging or has been charged. This was a good purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job </p>
+
+
+<h2> review.date </h2>
+  03-24-2014  
+<h2> review.text </h2>
+
+ <p> STK's product works as well as the original Sony. The plug folds into the body. I do seem to have a full charge once the indicator light tells me charging is finished. The price was right.What else is there to say? Well, to recap, the product works as advertised and the price is far better than Sony's. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Replacement/Addition for the Sony Charger </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> Let's face it, once you get the electronics right, how hard can it be to design a battery support system to effectively hold the battery in a connected (charging) position.  This charger does deliver a charge to the battery BUT you have to secure the battery into the unit or it  will will easily lose contact with the metal connectors.  I have used scotch tape, which leaves a sticky residue on the battery, ( bad idea as the battery will adhere to the battery slot in the camera).  Now, I keep the charger in a plug strip that allows the battery to sit in a horizontal position on the charger bed.  I coax the battery into the connectors and fiddle with it until the charging light turns from green to RED, which means that a charge is being delivered.  Any jarring or movement can cause the battery light to turn to green which means that the charge is not being delivered or the charging process is completed.  You determine the charging status by putting the battery back into the camera, powering up the camera and checking the battery status.To the seller - STK - plastic molding is a standardized process, do us all a favor and modify the mold to include plastic tabs that actual secure  the battery into the charging bed in any position, if you put the charge in a vertical position in a wall receptacle, the battery will almost always fall out.If starting out, I would just pay the extra $$$ for the overpriced Sony charger.  The lesson learned is to : Always check the availability of a reliable battery charger before buying a camera or factor in the cost of purchasing one into the total camera cost. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just a little effort would have made this a great product </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> I have no idea what unit the other reviewer was talking about. I just received this very unit from Amazon, and it DOES work just fine from the wall!  It seems to work very nicely, in fact. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wall charging works fine </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> works as advertised. upgraded from a nex-5n which sony provided a battery charger for. Nex-6 doesn't have a seperate charger and must use a usb to the camera to charge which is slow and a pain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works as advertised </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> First off, I do not like the way the battery snaps into the charger, seems awkward. It only charges the battery to about 89 % (According to my NEX-5) It was a lot cheaper but less effective. I have three batteries for my camera so not such a big deal for me. Plus I still have my Sony Original charger which gives me best resultsThree stars, just ok </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Battery charger not so great </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> I purchased a Sony NEX-3NL and knew that it didn't have a battery charger iincluded.  I can't stand to charge the battery with the supplied cable (takes so long) so I needed an inexpensive charger since I wasn't positive the camera was going to be just the right one.  Sony's charger was too expensive and I found the reviews to be harsh on many of the other chargers available.  This one was inexpensive and seemed to have the least bad reviews.I'm very glad I did!  I have been pleased with it and have used it numerous times--I'm keeping the camera and don't see any need to upgrade to a different charger.  Here's some of the comments on chargers and how I think this model compares:Materials it is made of.  Yes, it is plastic..but I have an authentic Sony battery charger for another Sony camera and don't find it of any less quality.Plug into the wall:  the battery itself is quite heavy.  I didn't find it a problem to plug in and it to stay. However, if you do you might try using an adapter or extension cord.  The plug-in holes seem smaller on those cords/adapters and might make a tighter fit.Over-charge.  I was a bit apprehensive about this but forgot and left it on all night but woke up to a completely charged battery that had turned itself off as soon as it was charged.  I now have no reservations about leaving it pluged in if I forget.Speed:  Wow...the battery charges fast! no complaints on that score.Tight fit putting the battery in the charge: I didn't find this to be a problem.  You put in the top part of the battery first and the bottom just clicks into place.It is well worth trying, and the company seems to have good customer service.  I would think if you did have a problem they would make it right. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price! </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> not much to add. it gets the job done. I have 2 batteries and before a day of picture taking I charge 1 battery in camera using microUSB and another one in this external charger. 2 batteries is a plenty for my Sony NEX-6. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good battery charger </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> At first I did not realize it was a wall charger and was disappointed, but once I opened it up and realized it was a car charger AND a wall charger, I was happy. Happier still when I charged the battery both ways and it worked perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great as a wall charger or car charger </p>
+
+
+<h2> review.date </h2>
+  08-07-2013  
+<h2> review.text </h2>
+
+ <p> The battery charger works very well.  It took a few tries to figure out how to get the battery into the charger easily, but once figured out, it works fine.  With an added battery, I always have a battery ready. Why Sony does not include a charger with their camera is beyond my comprehension. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Battery charger for Sony NEX 6 </p>
+
+
+<h2> review.date </h2>
+  08-07-2013  
+<h2> review.text </h2>
+
+ <p> This is a pretty simple charger that does the job well for my Sony camera.  You can either plug this base unit directly in the wall via the collapsible plug, or you can use the included car cigarette adapter charger.  Plugging the battery in overnight, the camera battery charged up 100%.  The fit with the battery on to the charger is a little tight, and may require you to have a little "oomph" to get it on and off, but not a problem for me.  With pricing at $14.99 here on Amazon, this is significantly cheaper than the Sony-branded replacement. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the Job Well </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> Purchased this as Sony doesn't provide a separate battery charger, expecting you to charge the batteries in-camera.  This charger seems to charge the NP-FW50 batteries fine, and has an LED that changes from red to green when the charge is complete.  It has a 12V connection for the car, as well as swing-out prongs so you can plug it into an AC outlet.  For the price, you can't complain about the functionality.The one drawback I've become aware of is that the battery isn't held all that securely by the charger.  I plugging into a vertical outlet (like a wall socket), make sure to position the unit so it hangs down from the socket as that seems to be a bit more secure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well, but battery could be held a bit more securely. </p>
+
+
+<h2> review.date </h2>
+  01-10-2014  
+<h2> review.text </h2>
+
+ <p> Tougher than it should be to get Battery seated for charging...then very slow to charge. It works, but I can not recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tougher than it should be to get Battery seated for charging...then very slow to charge. </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> It was cheap and it works great. I have charged the Sony A7r battery about 6 times so far so good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works great </p>
+
+
+<h2> review.date </h2>
+  01-19-2014  
+<h2> review.text </h2>
+
+ <p> It does the job it is meant to do.  If you are like me and go through batteries quickly its nice to have other options for charging them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

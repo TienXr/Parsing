@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004OFR6AY <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Awesome for the price! If you want something cheap for testing your PSU on the fly, this will do it. If you need better quality and actual readouts get a Multimeter. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works for me </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've used this to rougly diagnose PSU.  It's not super accurate, but it can at least tell you to either keep going with the PSU trouble shooting or stop right there, PSU is broken- due to the ease of use.  It was also cheap. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It really works </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-29-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is excellent! It does what it is suppose to do . I have no problems at all with it. It is quite easy to use. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Save Some Time </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you suspect your PS may be toast spend a few dollars on this tester and find out of sure.  Worked well for me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For the price Can't go wrong . </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a good little tester with light indicates that power is running through all wires in the power supply of the PC.Very Basic .for the price Can't go wrong. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> works exactly like it should </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I tested my first power supply I had and only one light was showing up, obviously it was a bad power supply... tested another one I bought and bam! The tester lit up light a christmas tree.  This is a handy device if you don't have a multimeter! :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> works great </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very easy to use and so far totally accurate .Check your PS with this unit first when you experiencecomputer problems with no power lights or boot-up. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice Basic PSU Tester </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This power supply tester does what it's supposed to do, alert you to missing voltage, etc.  However, (not a con, especially at this price) you could have a problem where the voltage is either too high or too low, but is still present, and this tester would not be able to tell the difference.  It is however, nice to have to provide a quick diagnosis in cases where a dead power supply is suspected.  It also tests for the -5v, which the majority of modern power supplies no longer use, so it will beep at you as if something is wrong, when in reality, no power on the -5v rail is perfectly normal for current power supplies.  Overall, I'm glad I bought it, it's much easier to just hook up the PSU to this tester than it is to completely disconnect and reconnect a different power supply to see if the it's the problem.  This has found a nice home along with my other &#34;must have&#34; tools, testers, etc when working on clients' computers. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This power supply tester has been a great help. Most supply's are very temperamental. I would highly recommended this checker to anyone doing computer repair. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Helpful little device. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This device will detect a certain voltage on a cable. I use this tester to see if there is a 3.3V on the SATA power connector. Not all power supplies provide this 3.3V but not all SATA drives require it also. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Handy and It Works!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Got the item on time. Product was packaged ok, wrapped in a plastic bag. I tested it with a new power supply I bought and I guess it really works, (unless I find a bad PSU then I will try it to make sure it really works) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Power supply tester </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This power supply worked like it should right out of the package and it was quickly shipped. It makes a quick diagnosis for power failure. I'd recommend this product. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> cheap but functional </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-30-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I would have have liked to see a switch for the power supply, but otherwise works at testing power outputs </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

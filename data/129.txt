@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B009V1CCGY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-13-2013  
+<h2> review.text </h2>
+
+ <p> Plain, clear plastic, definitely scratchable, but a cheap and adequate solution that snapped right onto the laptop, product as expected. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits the computer </p>
+
+
+<h2> review.date </h2>
+  12-19-2013  
+<h2> review.text </h2>
+
+ <p> I got this case almost immediately after getting my new MacBook Pro Retina. I had never used a shell case before, but I'm really happy with this one. It fits perfectly and doesn't get in the way - no unzipping or clasps or anything. It's just there and I forget it's there because it's so streamlined. I haven't dropped my MacBook yet (hopefully never, though I do have AppleCare just in case), but I'm sure it will help prevent scratches, scuffs, and dings, all of which usually aren't repaired by AppleCare unless they interfere with function. The shell has four foam feet in the bottom. I was worried they would come out, but so far I haven't had any problems and I've used it on lots of different surfaces - couches, pillows, hard table, grass, carpet, and my lap (jeans, khakis, etc.). The bottom shell is also vented, which probably helps dissipate heat a little bit. That's important to me because I often have Photoshop, Illustrator, and Xcode all open at the same time, sometimes along with Maya and Lightroom, so my MacBooks get hot. I would definitely purchase this again and probably will get another one when I replace this MacBook in a few years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits Perfectly </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> Seller sent me the rubberized instead of the &#34;crystal hard case&#34; that I'd ordered. But if anyone is curious, the rubberized teal color is exactly the Tiffany's blue color (if that what you're into!) good luck! (: </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sent me the wrong cover </p>
+
+
+<h2> review.date </h2>
+  01-15-2013  
+<h2> review.text </h2>
+
+ <p> I shipped okay and was in great shape. Item installed on iMac easily but is also easily removed. I was hoping it was secure enough to take a tumble. Wouldn't want to chance it. Looks great though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Protects </p>
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> Case is excellent! Exactly what I was looking for (hard case that didn't detract from the looks of the macbook) the little foot pads on the bottom work great and keep the macbook in place wherever you set it, I find that the case actually inhances the look of the macbook (like puting a shinny coat of wax on top of your car). Installed on haswell/crystal well late 2013 MacBook Pro retina 13.3 and fit perfectly. Case does pick up some light scratching easily but better the case than the macbook. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case!!! </p>
+
+
+<h2> review.date </h2>
+  01-10-2014  
+<h2> review.text </h2>
+
+ <p> The Kuzy crystal hard case does the job of protecting my macbook really well from scratches without breaking the bank.  I purchased a clear one to show off the beautiful silver color of the macbook pro, and thus the finish looks really good with the case on it.  One shortcoming would be the four rubber bumper feet came off within a few days.  Too bad, because it makes the case move around a bit more that one would like when working on the laptop.  Please put better cement/glue on those rubber bumper feet next batch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It does the job of protecting my macbook really well </p>
+
+
+<h2> review.date </h2>
+  06-03-2013  
+<h2> review.text </h2>
+
+ <p> I have a macbook  going strong and it is mint condition.  I decided to try this case and to my surprise i am very pleased.  It does its job and does it well.  I must admit that near one of the edges it does not snap on but the case has never fallen off nor has it shown signs of coming apart.  the vents and ports align perfectly.  Throw in rubber port plugs, keyboard cover, screen protector and the elements has a task at hand to destroy this macbook. With this installed, my new retina macbook would last even longer than the previous and in mint condition also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Smack Boom </p>
+
+
+<h2> review.date </h2>
+  04-08-2013  
+<h2> review.text </h2>
+
+ <p> The bottom piece is just a little bit flimsy, meaning it doesn't completely hold tight, but it's really not a big deal.  I just wanted something inexpensive to keep the lid and bottom of my macbook from scratching.  This thing will definitely do the job.  It's actually pretty sleek and it's very light.  I barely notice it's even on.  I'd definitely buy again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't beat this for the price </p>
+
+
+<h2> review.date </h2>
+  05-26-2014  
+<h2> review.text </h2>
+
+ <p> Sorry to have to leave a less than stellar review, but I feel it's important to be honest with these reviews so that people who are looking to purchase things and spend their hard earned money on them have a fair basis to do that with.I ordered this cover and thought it was like a previous one I found on Amazon (which is tough as steel and still going strong!).  Unfortunately this was not the same one.  I had to find the &#34;other&#34; one because just about a month after using this one on my new laptop (with NO HARD USE) the bottom shell cracked on one corner, buts fell off, and the side continued to crack until sharp edges remained and parts were missing.  Finally it just fell off and wasn't any protection at all.  I wouldn't buy this one...look for the ipearl one on amazon, it is far superior. (and cheaper!  you get a free keyboard cover and stylus with purchase!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed </p>
+
+
+<h2> review.date </h2>
+  07-08-2013  
+<h2> review.text </h2>
+
+ <p> We are very happy with this purchase. We did some research, and found this to have favorable reviews. It was easy to install, but secure enough that it won't easily come off if dropped. The fit and finish is very good. We are very happy with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bought for son's MBP </p>
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> Previously I had a MacBook air with a clear Spec case which I really liked It gave that laptop protection from dirt and I assume light damage. It really has a great fit. Since the Spec case for MacBook pro retina is over 40.00 I decided to give this a try. In the package it did not impress me much as it looks like a few pretty thin pieces of plastic. Once I put it on though I noticed that It looks pretty similar to the spec case. I remembered that the spec case also looked like thin plastic before I put if on the laptop. This will do the job as intended. I use this and put my laptop in one of the memory foam sleeves. That will give it excellent protection against dents and such. These sort of case are not intented to take really hard drops or hits. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Decent Deal and it works </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00CO38W1A <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> I am a firm believer in getting fit and this book has some really great exercise tips. What better workout can you do besides one that is tailored for a Navy Seal? I will definitely be adding some of these workout tips. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Training at its finest </p>
+
+
+<h2> review.date </h2>
+  05-11-2013  
+<h2> review.text </h2>
+
+ <p> The author begins with an easy to understand explanation of the different types of training. Then proceeds with outline of different types of exercises. I would have liked them to be explained in a step-by-step method...but maybe that is just an indication of my learning style.The author provides links to a comprehensive set of resource.This book would be good for someone who wants to be a "weekend SEAL" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Are You a Weekend SEAL?? </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> If you are looking to get in fit then this book will help you do just that. The Navy Seals have long been the top fit people and they stay fit because of the training they received. Great guide. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Navy SEALs Training </p>
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> This "book" is about 10 pages of slightly reworded public domain material lifted from an excellent workout guide that can be found on the official Navy SEAL website. ([...])It contains nothing original and has links to public domain videos on Youtube. I don't expect much from a $2.99 book, but this one was obviously thrown together in a hurry.For a book that contains solid Navy SEAL-type workouts, consider this book by Mark Divine:8 Weeks to SEALFITand this one by Stew Smith:The Complete Guide to Navy SEAL Fitness, Revised Edition.Not recommended - BUYER BEWARE! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointing - Buyer Beware! </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> If you follow the program in this book not only will you be ready for the Navy Seals but you will be in the best shape of your life.  Lots of guidance and workouts to get you ready! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intensive training program </p>
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> This book was my first introduction to NST and as a jogger myself I found it very educational and will be definitely applying some of the lessons learned. There are also some great resources included. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I will be using some of these tips </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> After reading this book, I now know one of the most effective training methods for becoming a SEAL. Trust me, I'll be sticking to this plan for a while! What these guys go through is MIND BLOWING!Whether you wanna be a SEAL or not, definitely a great and interesting read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a rush! </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> Good guide for overall and all around getting in shape and staying there. I've always been impressed with the Navy Seals training and found this book very informative and useful for everyday application. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hoorah for good exercise! </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> Navy SEALs Training by Rob Goyette is about the physical preparation for BUD/S. It is a 26 week program designed to get you prepped for the world's elite Navel Special Warfare (NSW) training. It consists of a lot of public domain information and links which is not a big deal because the information is relevant. One drawback to the book is that is fails to really cover the mental aspect. Being in great physical condition is one aspect that does not guarantee passing all the phases of SEAL training. An excellent book that is complementary to this one isBecome a U.S. Navy SEALwhich covers a lot of information that is not covered in this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Emphasis on Physical Fitness </p>
+
+
+<h2> review.date </h2>
+  05-07-2013  
+<h2> review.text </h2>
+
+ <p> This is a very comprehensive training program basedon the real deal... the navy seals training. Thesame Jesse Ventura went through.The program is 26 weeks, I would have liked to seea cut down version for us... normal people.It also has tonso fo resource linked to so you cna goand seek out the specifics of each element of thetraining and nutritional support. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Comprehensiv Training program </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

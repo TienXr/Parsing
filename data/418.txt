@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B008AQPYUM <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-24-2014  
+<h2> review.text </h2>
+
+ <p> If you are looking for some short, but engaging horror tales, you'll enjoy this collection. I had read this one before, though not quite sure when and where. Possibly one of the free MWR books when we deployed to GITMO. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good short horror stories </p>
+
+
+<h2> review.date </h2>
+  05-13-2014  
+<h2> review.text </h2>
+
+ <p> South West Virginia is a portal to all that is unholy and paranormal.  The creatures were known by all who lived there from 3 year old Cynthie to old farmer Bennett.  Only Fin McCoy had the knowledge and experience to eradicate the problems in Meade County.Like Scott Langrel says; &#34;There were bad things out there and the were sneaky as hell.&#34;This book was a fun and quick read.  Other than a few missed placed and missed spelled words, I found it quite enjoyable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> There is monkey business in them there hills! </p>
+
+
+<h2> review.date </h2>
+  03-30-2014  
+<h2> review.text </h2>
+
+ <p> The five stories in this collection, take place in bigfoot/ logging country (imagine dark woods, deep shadows, and secluded cabins), where various residents are being terrorized by the evil that also resides there. Whether it's monsters, mutations, or something worse - these stories will keep you hooked.As the stories all take place in the same (unfortunate) location, there are various references in them, to each other. This works, and is done subtly enough so as not to take over or spoil the flow.Normally around now I would mention a favourite, but in this case it's quite difficult. (Five minutes passes). I think it is going to have to be the title story - &#34;The Grass Monkey&#34; where a couple find that their most basic of instincts, to protect their child, becomes easier said than done. Has a nice unsettling feel to it, and being the first story, shows what's on the cards. All the stories are -The Grass Monkey - As a couple move into their &#34;dream home&#34;, a neighbour gives their daughter a present, which they have mixed feelings about.Wood - A maintenance man finds himself out in the cold, when he takes a job which leaves him facing his fears.The Moss God - A logging crews close friendship is in danger of being cut short, when they decide to scare a nature lover.The Sinkhole - A farmer reluctantly agrees to visit with his neighbour, after hearing about the arrival of something strange.The Otter King - When a woman is feeling alone and terrorized by something in the woods, she hears about an ex-local who might be able to help.If you fancy some dark & sinister stories, that don't (necessarily) promise a happy ending, then take a walk in the woods with this nice little collection. You won't regret it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A walk in the woods... </p>
+
+
+<h2> review.date </h2>
+  06-28-2014  
+<h2> review.text </h2>
+
+ <p> Love the stories but especially the Finn MCCoy paranormal thrillers. There fun, engaging and humorous. Now I gota hunt up some extra cash and order more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Grass monkey </p>
+
+
+<h2> review.date </h2>
+  02-05-2014  
+<h2> review.text </h2>
+
+ <p> I love these kinds of short stories!  Very imaginative and intriguing.  I will be looking for more from this author! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME!!! </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> This book was okay for a collection of short stories. I got it for free so I can't complain. I would not get the other series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Grass Monkey </p>
+
+
+<h2> review.date </h2>
+  06-26-2014  
+<h2> review.text </h2>
+
+ <p> Interlocking tales of horror, often with a twist. The final tale joins them together with it's own twist. Looking for more from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good reads </p>
+
+
+<h2> review.date </h2>
+  01-27-2014  
+<h2> review.text </h2>
+
+ <p> I really liked this collection of short stories. Although some of the plots have similarities to other horror stories (which is very common these days) the authors writing skill does a good job of making them his own. The characters are well fleshed out (a treat especially when reading short stories,) the pacing is spot on and the stories contain vivid imagery.My favorite stories were The Grass Monkey, where a dad learns the importance of protective charms, and the story where the telephone repairman goes out in a winter storm and finds the woods to be less than inviting.Highly recommended for fans of short stories and/or horror fiction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting and Engaging Horror Shorts </p>
+
+
+<h2> review.date </h2>
+  05-05-2014  
+<h2> review.text </h2>
+
+ <p> This is just what I was looking for.  I was between my free books on Amazon and wanted a few little horror stories to fill in the time.  This is not earth-shattering, or something that will keep you up at night, but pretty good short little creepy stories.  An easy read and something to keep you interested for a short period of time.  I didn't bother with the two excerpts at the end, of two of the author's full length novels.  My only complaint was there could have been a couple of more stories, instead of these excerpts.  The stories all take place in the same little town and seem, in some way, connected to each other.  The best one is the first one, The Grass Monkey.  I recommend this as a fun little read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice little creepy stories to fill in your time </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> Loved the first story and liked the later ones better once I got to the last one and it tied things together.  I really enjoyed the Finn McCoy previews also, if you enjoy dark fantasy you should check out this or one of Scott Langrel's other books&#60; and I'll be going to look for more of his writing myself! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Up and down but overall good! </p>
+
+
+<h2> review.date </h2>
+  11-15-2013  
+<h2> review.text </h2>
+
+ <p> What a lovely find! No gore, just the kind of stories the old folks might tell around a brazier on a long cool evening, just as the sun is setting, in a small backwoods town where things look fine on the face of it, but dread bubbles beneath the surface.. Something to chill your bones while the fire warms your body. It's a short read but enjoyable - especially if you like Stephen King's short tales in and around Derry. It also serves as an introduction to Mr Langrel's creation 'Finn McCoy' . If Bobby Singer (from the TV show Supernatural), had a backstory I think this would be it. I'm curious to read more of Finn's adventures now. Job well done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No monkeying around here </p>
+
+
+<h2> review.date </h2>
+  06-13-2012  
+<h2> review.text </h2>
+
+ <p> The writer uses the same small town area in each short story,so the reader immediately makes the association with suspense and danger. The author threatens with unearthly,otherworldly creatures and unexplainable paranormal events that brings forth pictures of horror to the readers mind.Vivid scary descriptions placed me right in the middle of the deep dark wooded mountains where tis said that no one really knows what true evil lurks here. As for myself, I really want a grass monkey doll. Well written, sir! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Backwoods Scary! </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> This reminded me very much of the feel of a Repairman Jack (F. Paul Wilson) book. It's hard to say why- Jack never deals with the Fey: but Repairman Jack and Finn McCoy are both &#34;fixers&#34; so maybe that's it. Both are independantly wealthy, and do what they do for internal, moral reasons. Both show similar personality characteristics. These are prequel tales to the 1st actual Finn McCoy book, and the first book would be hard to understand if you don't read them. Then I definitely recommend thast you read &#34;Homecoming&#34; by Scott Langrel, which is book 1. I really liked them </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you like Repairman Jack... you might like this stuff </p>
+
+
+<h2> review.date </h2>
+  03-10-2014  
+<h2> review.text </h2>
+
+ <p> All these stories are tied in to each other.  They kept me glued to my kindle the whole time.  I would recommend any one who enjoys creepy and supernatural stories to this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These are creepy and addictive stories. </p>
+
+
+<h2> review.date </h2>
+  04-07-2014  
+<h2> review.text </h2>
+
+ <p> this is a pretty good book little crazy but still a good read give it a try and see for yourself </p>
+
+
+<h2> review.summary </h2>
+
+ <p> read me </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> This little book of stories wasn't too bad.  I didn't find anything scary in the stories, but a couple were kind of neat.  The Grass Monkey was pretty good.  I really enjoyed that story.  Not a bad read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad </p>
+
+
+<h2> review.date </h2>
+  06-16-2012  
+<h2> review.text </h2>
+
+ <p> Thank you to Scott Langrel for writing The Grass Monkey and Other Dark Tales.  I just loved it, all the stories were great but I did have my favorite two.  First I like The Grass Monkey, just fun and odd story.  Second was The Otter King, now this was awesome.  My absolute fave from this book.  I loved the characters of Amanda and McCoy.  Now that story I can see as a series, especially having McCoy tell about his "work" and experiences with Amanda in for the romance interest.  Just a great book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Grass Monkey and Other Dark Tales </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

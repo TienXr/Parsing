@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B001DHXT48 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-01-2009  
+<h2> review.text </h2>
+
+ <p> It was a great movie and it was also a great T.V. series. The only other movie to have a good T.V. series made from it was MASH. Tony Randall and Jack Klugman are great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oscar, Oscar, Oscar </p>
+
+
+<h2> review.date </h2>
+  06-12-2013  
+<h2> review.text </h2>
+
+ <p> The Odd Couple is a show that was extremely popular at one time and now is hard to find. You can find fragmented episodes on YouTube that vary greatly in quality. Even when edited a better option would be a CD set like this one. The Odd Couple is one of the few shows, along with MASH that were successful spinoffs from a motion picture. It is very rare that a show that has two leads that would have almost perfect chemistry. Both Jack Klugman and Tony Randall have nearly perfect comic timing in this series. I would say these two leads are actually better than the ones in the Odd Couple motion picture.Like most shows that have a cult following, the Odd Couple was not a big hit in its original run. It was not until syndication that the show became popular.Some of the classic shows includes the password episode where Felix gives ridiculously obtuse clues to Oscar. The mystified expression on Oscar's face is priceless.  Another funny episode is when they have a funeral for a pet parrot. Felix is overly moved by the ceremony, where Oscar is indifferent and a little annoyed at the cost.I think one of the reasons this show has stood the test of time is due to the perfect casting of the lead characters, which is rare is any comedy show. There is nothing forced about their performances and chemistry. They are genuine human beings that we can relate to.  When they get themselves into certain situations we can relate to how they feel. The producers were lucky to get these actors at the height of their craft </p>
+
+
+<h2> review.summary </h2>
+
+ <p> classic show </p>
+
+
+<h2> review.date </h2>
+  12-31-2013  
+<h2> review.text </h2>
+
+ <p> I've had the complete collection from another source for 10 yearsbut the quality of the dvd's didn't hold up and some freeze or skipor don't play. I thought the price of this series when first came outwas too expensive so i waited for the price to come down and I'mglad i did! there are deleted scenes in some of the episodes! Thereisn't much special features or commentary either! Gary Marshalldoes a few comments but he sounds like he's not into it at all! Thereare about 5 blooper scenes and that's it! seems CBS didn't putmuch into this series when released. I'm glad i waited til the pricecame down and got the complete set for 59.00! Even though it'snot perfect it was worth the price about 12 bucks a season! I knowsome people wrote they weren't happy but I'm happy enoughfor the price I paid. I don't seem then releasing this series again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Odd Couple Complete Series not Complete! </p>
+
+
+<h2> review.date </h2>
+  08-29-2008  
+<h2> review.text </h2>
+
+ <p> First some remarks about the series itself. This show proves that opposites may not attract, but, with some work, they can at least peacefully coexist. Felix is not just compulsively neat, he literally worships at the altar of order. Oscar's philosophy is not to sweat the small stuff and thinks everything is small stuff. One of the reasons this show is still funny today is that most people have personalities that lie between these two extremes and can therefore sympathize and laugh at the actions of both men. The first season focuses on the relationship between Oscar and Felix, pretty much stays in the same neighborhood as the 1968 movie from which it sprang as to storylines, and even has the same actresses from the film playing the Pidgeon Sisters. The first season is good, and helps establish the complete personalities of Oscar and Felix in a way a two hour film just doesn't have time to do, but I think it lacks something in the way of the energy and pace that the subsequent seasons had. "The Odd Couple" had the misfortune of premiering right before shows like "All In the Family" would give birth to modern television as we know it today, along with the frank discussion of controversial subject matter in a comic context.Quite frankly, I think the show would probably have been canceled after its second season if it had not changed to the live set it used from seasons two forward and started breeching more modern topics like it did to help keep pace with the great changes that were taking place in television during the early 70's. I have to give credit to producer Garry Marshall - if he saw something that wasn't quite working in one of his shows, he wasn't afraid to make drastic changes to try and get things back on track. I would say that the "Odd Couple" is one of the few shows that managed to never jump the shark during its five year run. Considering the fact that it aired during a period of great change in American culture - 1970-1975 - that is saying something.Now for the presentation of the series. The first season, which is probably its weakest, is the only one worth purchasing. If there are edits, I haven't noticed them. That is because the modern music starts getting inserted into the show in the second season, part of the effort that I previously mentioned to keep the show current. Unfortunately, it has also been its undoing in syndication and on home video. The RIAA, demanding outrageous royalties for anyone as much as humming a copyrighted song, ruined the video release of WKRP in Cincinatti, and is responsible for Ally McBeal on DVD being an impossibility in the U.S. If Paramount were to pay what the RIAA wanted, it would have to charge us two hundred per season. However, Paramount decided to deface this show anyway and release cut up sets from season two onward. That part of the blame definitely lies at their feet.In short, avoid this set, and buy season one if you haven't. Subsequent seasons are so cut up it will ruin your enjoyment if you remember this series in its original run. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The WKRP treatment of this series ruins your enjoyment </p>
+
+
+<h2> review.date </h2>
+  01-23-2010  
+<h2> review.text </h2>
+
+ <p> Yes, it's true. Some dolt with nothing but a calculator for a brain decided to cheat fans by editing these DVDs to avoid royalty dealings. It's as simple as that.Shame on Paramount for damaging a sweet slice of TV history and showing zero respect for fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awful DVDs of a great show </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> If youiked this tv show when it was on the air, or if you're just discovering it, you are very likely yo enjoy this classic tv show! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Odd Couple </p>
+
+
+<h2> review.date </h2>
+  08-31-2008  
+<h2> review.text </h2>
+
+ <p> I love this set.  AWESOME!  I don't understand the fuss about this set--it's still enjoyable throughout.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FELIX AND OSCAR TOGETHER AGAIN! </p>
+
+
+<h2> review.date </h2>
+  12-05-2008  
+<h2> review.text </h2>
+
+ <p> These words were used in the opening credits of every Odd Couple episode ..."On November 13, Felix Unger was asked to remove himself from his place of residence. That request came from his wife. Deep down he knew she was right. But he also knew that someday he would return to her. With nowhere else to go, he appeared at the home of his childhood friend, Oscar Madison. Some time earlier, Madison's wife had thrown him out, requesting that he never return."Can two divorced men share an apartment without driving each other crazy?"... but you won't hear them on this set of DVDs! I've waited until the release of the final season to see if perhaps they only appeared in that one year. Not so - they've been completely edited out of the entire series. Surely that was part of the charm of the show - the expectation of hearing those words in the opening titles. In those few seconds the entire premise of the show is set up. Many other little things have been cut, clipped and altered in this DVD set and the other reviewers (on this listing and on the individual season listings) have touched on many of them. The one that bothers me is the complete removal of Pernell Robert's singing of "In Some Secluded Rendezvous" which is the whole punchline of the "Strike Up The Band or Else" episode during which, in the final seconds of the episode, he steals the theme song of Felix' band, The Sophisticados. It simply fades to black just as he's about to sing and that's the new ending of the show. That's all, folks. It just trails away to nothingness leaving us with a hopelessly lame ending never imagined by the original writers.This original series gets my 5-stars but this DVD release gets only 4. I'm totally baffled and frustrated as to why anyone would want to edit these episodes. Don't they realize that customers are buying them to see exactly what they saw when these great shows first aired on TV? When you watch a comedy more than once you know what you're about to see and hear so there's an expectation on the part of the audience that the producers of the DVD have completely failed to realize. There's no such thing as "better" when you tinker with nostalgia. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> There's no such thing as "better" when you tinker with nostalgia. </p>
+
+
+<h2> review.date </h2>
+  05-27-2009  
+<h2> review.text </h2>
+
+ <p> Count me in as one of the dissatisfied customers who has patiently waited for so long to get The Odd Couple on DVD.  When it's finally released this is all we get?!  There is no way on earth you could get me to buy anything past season 2.  Season 1 was excellent, season 2 had a few edits but nothing too noticeable.  Seasons 3, 4 and 5 were edited to such a degree that the show was no longer enjoyable.  Paramount, you blew it!  Do yourselves a favor and look elsewhere for the proper  versions of the show.  (If you still have a VCR you might be able to get a Columbia House set.)  But do not buy this set.  Doing so will only encourage more sloppy releases from Paramount. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Complete Series?  I Think Not! </p>
+
+
+<h2> review.date </h2>
+  01-17-2012  
+<h2> review.text </h2>
+
+ <p> THE ODD COUPLE-THE COMPLETE SERIES: NEIL SIMON's classic play, movie, and TV series THE ODD COUPLE mined a rich mismatched roommates theme that's been resurrected countless times since, from LAVERNE & SHIRLEY to TWO & A HALF MEN. The only major film spinoff (other than M*A*S*H) to succeed on the small screen, JACK KLUGMAN and TONY RANDALL expertly inherited the roles of hard livin' slob sportswriter OSCAR MADISON and persnickity neat-nick photographer FELIX UNGER from the incomparable WALTER MATTHAU and JACK LEMMON...divorced men coping with each other's idiosyncrasies in a Big Apple apartment. Former joke writer GARRY MARSHALL executive produced, bringing in his then unknown sister PENNY as OSCAR's nasal-voiced secretary MYRNA TURNER, while AL MOLINARO's bumbling flatfoot MURRAY also figured prominently in the hijinks (both would turn up in future MARSHALL-produced sitcoms LAVERNE & SHIRLEY and HAPPY DAYS). Hilarity ensued in a weekly war of OSCAR's stogies, gastrinomic indecencies, and poker games vs. FELIX's fastidious housekeeping, champagne taste, and multitude of allergies. Often imitated but never duplicated (and in this case, unfortunately, edited), THE ODD COUPLE cleaned up for five funny seasons.RATING: FOUR PAIRS </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NO USE CRYING OVER SPILLED BEER </p>
+
+
+<h2> review.date </h2>
+  06-27-2012  
+<h2> review.text </h2>
+
+ <p> paramount, get your act together.  With so many video sets out there & this being so frequent to cut the series, HOW IN THE HELL do these companies actually believe they can get away with this?  It's 2012, and we have choices shaped by input reviews & ratings.  I just don't get it.  There wasn't a better show than the Odd Couple ever, and look what they did to it.  Artistry is lost on financial gain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CUT  not Uncut </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> I know there was a lot of editing done to the tv series, per other reviewers and from what my husband tells me, but we love this. It's our go-to comfort tv.  Fantastic NYC-based comedy for the ages! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What can I say, Felix and Osc Forever! </p>
+
+
+<h2> review.date </h2>
+  10-02-2011  
+<h2> review.text </h2>
+
+ <p> Do not pass up the chance to own these seasons. I lived in New York and grew up with the re-runs. Personally, I find that some parts that people are complaining are edited are also replaced with scenes we did not see in the 70's. Keep in mind in re-runs, more commercials were added so parts were cut that were shown during their original run.Also, it was rare they even released this. For years, they were even unavailable on Vhs. Then, Time Life put out only 10 tapes with 3 episodes and stopped leaving us 300.00 in a hole and only 30 episodes in. Then their was the dvr version available. So to finally see them professionally, in any form, is a real treat.If you want to ever own them, now is the chance. Although they will probably stay in production, as a loyal fan, are you willing to give up the chance to own "The Odd Couple"? I bought it 3 times now just to make sure I would never be without them. If you are a New Yorker, it would be like not owning "The Honeymooners 39". Do not listen to the reviews about not bothering to buy them. If this is what is available, then it is what it is. As well, the picture and sound are excellent. The individual boxes are professional. You won't have any regrets unless you are just a complainer and willing to spite yourself. Some would have nothing. And say "I will show Paramount. Show them what? You think they will lose out or feel your individual unhappiness. Life is too short. Go buy the complete series and enjoy yourself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> buy this set regardless of negatives </p>
+
+
+<h2> review.date </h2>
+  03-24-2011  
+<h2> review.text </h2>
+
+ <p> This is one of the greatest sitcoms of all time.  The DVD releases, for the most part, are a disgrace.  Season 1 was originally put out by Time Life and had unedited episodes and extras.  The rest of the seasons put out by Paramount have no extras whatsoever.  Season 2 had no major edits - I think some unrecognizable background music was changed.  Seasons 3 - 5, the edits get worse and worse.  They are VERY noticeable.  For instance, there are scenes where someone will be in the middle of a sentence and the scene will just jump ahead.  Jokes and comedic timing are ruined, important scenes are left out.I bought the first 3 seasons.  After noticing a handful of edits in the third season I decided to rent the rest first.  There are so many edits in the last two seasons, I refuse to buy them.  I would have never thought a show of this stature would be treated this way.  Word is Paramount also messed with the last few seasons of Cheers as well.If only Time Life could have released all the seasons, they gave the show the treatment it deserves.  I would have rather Paramount not release the show at all instead of these butchered versions.  I hope one day this show will be released unedited but it doesn't seem likely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This show deserves better than this. </p>
+
+
+<h2> review.date </h2>
+  01-31-2014  
+<h2> review.text </h2>
+
+ <p> I gave this collection a FIVE star even thought it is really a Four for one reason. This series set is the ONLY and the LAST set you will get a chance to buy. The big media companies are NOT gonna keep spending money to put out this or a bunch of 40 year or older TV shows that all have an ever dwindling population of fans who MAY shell out $100+ to buy these. In fact this set was priced a lot higher and had to be reduced (big) to get them selling and now most are gone. Why does all that matter? Because even though this series set could be a bit better , if you are a fan you better not take the chance and let them go and then you never get a shot at a set again. The minor things that make this set not a 100% Top Shelf item in some people's minds are easily overlooked by me. So here are some sticklers complaints (not mine) #1 The intro song with the narration is not on the start of every single episode (so what) , some start with just the music. #2 There are several episodes where Felix sang some little 20 - 30 second song mostly at the end that are cut for some reason. #3 One of the most popular episodes with Pernell Roberts (sings that little 20 second song) at the end of the Barn Dance Party is cut off. These I can honestly say are the ONLY things I can see anyone could say a negative about. Now the POSITIVES #1 Audio / Video is fantastic (I have had home made sets I bought years ago that were very poor. #2 You get all kinds of 10 - 20 second bits and pieces that were long ago cut for TV time airing / commercial management that are a real treat #3 The over all quality of this set is so great my wife and I have watched one disc a night since we bought it and though we owned a bootleg / home made set we bought years ago we had long since quit watching as the quality was so bad. Now with this set we can not get enough. If you are a fan its simple, IGNORE the negative - buy this set and enjoy and you will never regret it. You will do like us - discover the Odd Couple all over again !!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Odd Couple Complete Series (Happens to be the only set available so you better get it if you are a fan) </p>
+
+
+<h2> review.date </h2>
+  04-14-2013  
+<h2> review.text </h2>
+
+ <p> I'm glad I bought this dvd set, even though there are some episodes that are shorter than they should be. While it's perplexing they decided to omit some parts of the episodes, I still enjoyed watching the shows for nostalgia as well as the humor that I did & didn't get when I was a child. I haven't seen the shows since the early 70's on our b&w tv set when I was a child so I didn't remember every show. It's nice to see them all in color of course.  Surprisingly, I did notice a few omissions in episodes 4 & 5. There are probably omissions in all the seasons but I didn't notice. The dvds worked perfectly with no defects. Since I read all the reviews here, I was aware there would be omissions & was hesitant to buy it but then decided some Odd Couple is better than none. If they decide to publish a truly uncut version of all the series' episodes, I would buy that.  In the meantime, I'll enjoy what I have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyed watching even though there are omissions in some of the episodes </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

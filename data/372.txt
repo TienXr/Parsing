@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1888827394 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-04-2013  
+<h2> review.text </h2>
+
+ <p> This is the first time we are using this book in our homeschool work, and although it seems intimidating at first, I think it is going to be a great piece in our curriculum!! And what a bonus that it is the last spelling book I will have to buy for my third grader!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book that will last years to come! </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> As a homeschooling mom, I find this program very overwhelming and boring.  Just to even begin using it, you have to spend at least two or three hours reading and trying to figure it out.  So not worth it.  We trashed this one and are now using Sequential Spelling!  Much much easier to use!  Not to mention my daughter loves it!  Don't waste your money on this program! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a headache </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> Just pay attention and anyone can do this.  I have autism (grown adult) and I was still able to follow the instructions (step by step, no skipping ahead trying to figure it out myself) and I am able to teach my own son who has autism as well. Once your in, YOU GOT IT! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like it </p>
+
+
+<h2> review.date </h2>
+  03-08-2010  
+<h2> review.text </h2>
+
+ <p> I have tried a couple of other highly rated spelling curriculums for my daughter and son.  The others seemed to be too much busy work and not effective in learning new spelling words.  The student only works on words that they do not know how to spell.  This program only takes 15 minutes a day and is easy to learn.  It also ensures that the student learns to spell each word into their long term memory.  This one book has all you need for all your children for the rest of their grades.  So, it costs more up front, but it is all you will ever need.  The CD that comes with it includes all the worksheets that you will need.  Just print from your own computer and you have your own student book! I only wish that I had learned how to spell using this program, but at least my children will benefit from it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally found a spelling program/curriculum that I love! </p>
+
+
+<h2> review.date </h2>
+  01-24-2012  
+<h2> review.text </h2>
+
+ <p> I bought this program for my 9-year-old daughter who recently tested far below grade level in spelling. We have had a difficult time finding a way to teach her spelling, because the old-fashioned list of words/copy each word several times was just not working for her.  Some words she would never "get," while others she might get right on a test then forget how to spell them by the next week.But something about this program has clicked for her.  We have been using it faithfully every day for two weeks, and I have already noticed a definite improvement.  Some of the things that have been helpful for us:1. The initial placement test that you give your child helps them start right where they need to be.2. She is not only seeing the word, but hearing the word as I repeat the spelling out loud. This is better suited to her auditory learning style.3. If she misses a word, it is immediately corrected.4. The 10 steps really reinforce what she is working on. She gets most of those words right the next day, or at most, asfter 2 days. It seems to be sticking, because she is doing well in the review part, too.5. We really do only spend 15 minutes a day on spelling, but we feel like that time is making a difference.I was so impressed with the program that I decided to use it with my 7-year-old and 12-year-old, who are both average to above-average spellers. Even though they did find with a traditional approach to spelling, they seem to be doing even better under this approach.  I could not be more pleased!  Highly recommended!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really Helps Our Daughter </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> Once we got a routine down, this was so easy to use.  My 8 year old loves only having to practice the words he missed.  At first it seemed like so many steps to remember, but once you walked through them, you see the author was meticulously listing each one.  In practice, the steps are smooth to use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Become routine.... very easy </p>
+
+
+<h2> review.date </h2>
+  09-19-2011  
+<h2> review.text </h2>
+
+ <p> I was a bit worried about the review say how complicated this could be, but I found it fairly easy to figure out. I didn't use any video instructions or anything. I just went by the quick start. I did order the workbooks for the students to write in and I find that helps direct me in the recommended steps. They aren't very expensive and I would recommend them if you're planning on utilizing this program. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spelling Textbook </p>
+
+
+<h2> review.date </h2>
+  01-11-2013  
+<h2> review.text </h2>
+
+ <p> We have been homeschooling our two boys for 4 years.  We have mostly been using Abeka, but this year decided to switch.  I decided to give this a try and I have not regretted it.  I love how it helps you to evaluate each student and places them where they need to be, not where everyone else is.  It also allows them to progress at their own pace while having them work on only the words they are having trouble with.I would definitely recommend this to anyone that is thinking about homeschooling.  My kids like the activities and seem to actually be doing better since we switched. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product! </p>
+
+
+<h2> review.date </h2>
+  03-30-2010  
+<h2> review.text </h2>
+
+ <p> I bought this book based on a review from another homeschool family.  It has worked out great.  I have one book for all three of my children.  They all love to do their spelling now.  The only complaint that I have is the website says it will work with a mac.  It does not.  We are mainly a mac family but thankfully do have a windows run computer so we are able to access the cd rom. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kids come asking to do their spelling. </p>
+
+
+<h2> review.date </h2>
+  12-30-2011  
+<h2> review.text </h2>
+
+ <p> We are using this book for homeschooling. It's bloody expensive, but it contains all the words they will need to learn from grade school to high school. So when breaking the price up to cover all those years, it really isn't much. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent book </p>
+
+
+<h2> review.date </h2>
+  12-01-2013  
+<h2> review.text </h2>
+
+ <p> Love this book. My daughters spelling has gotten so much better since starting spelling power and I love that even in college my brother can use it as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great buy! </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> Great simple way to look a teaching spelling.  Instead of a week of &#34;busy work&#34; of copying and games if you know the word you move on.  It can be as fast paced as you need or as slow moving as you need.  Overall a great book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple Method to teach Spelling at your own pace. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

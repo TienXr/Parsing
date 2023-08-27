@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BHDX6XM <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-12-2014  
+<h2> review.text </h2>
+
+ <p> Small .. light .. good for everyday carry of a small laptop. iPad pocket is good, BUT, small for an iPad with a cover. extra pockets good for charger and phone.  This is pretty much what you can put in there .. greatest benefit - - it is light.****** UPDATED REVIEW ******down to 1 star from 4 .... A bit over a month of light use, the zippers on the backpack failed.  Signs of problem started when zippers would not close well.  Twice this past week zippers opened up while on my back ... nothing came out, but, can not risk a laptop falling out ... this backpack is now retired. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Small .. light .. good for everyday carry of a small laptop </p>
+
+
+<h2> review.date </h2>
+  12-20-2013  
+<h2> review.text </h2>
+
+ <p> I really love the portability. I just needed a backpack for my laptop, charger and a few cables and that. Just perfect. If you need more space, let's say to pack your DSRL camera, just forget it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pocket backpack </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> After years looking for the perfect backpack ...I found it!LightCleanCheapNo extra pockets....that I will not to use them! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> PERFECT! UNFORTUNATELLY WE DONT HAVE IT IN BRAZIL </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> Great backpack for my MacBook Air, tablet, several chargers and cables, notebooks and miscellaneous items. It's definitely not meant to hold a ton of stuff but suited my purposes beautfiulky! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light, durable, stylish. Just what I needed! </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> All of the brilliant reviews you read about this bag are true.  It may just be a tad bit too small but that is because I like to carry around lots of "extras".  So far its strong and provides good protection for my ultrabook convertible.  You can tell that someone actually put some thought behind the  design of this bag. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent choice if you have an ultrabook </p>
+
+
+<h2> review.date </h2>
+  02-22-2014  
+<h2> review.text </h2>
+
+ <p> This is a great backpack when you aren't trying to bring the kitchen sink with you. It's small and lightweight and easy on the back. Don't plan on putting a bunch of books in here with your laptop though, they just aren't going to fit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice SMALL backpack... </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> I ordered this because its not a HUGE bag which is what I am looking for. I have a Dell V131 (13.3&#34;) and it doesn't fit. I think ONLY 13&#34; Macs will fit not sure how a 14&#34; will fit if my 13.3&#34; doesnt. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like it BUT my 13" laptop did not fit so be careful </p>
+
+
+<h2> review.date </h2>
+  08-04-2013  
+<h2> review.text </h2>
+
+ <p> Very compact and fits my MacBook Pro Retina 13" perfectly! Very comfortable and with just the appropriate number of pockets and features. Professional and minimalistic look.UPDATE January 2014: Downgraded the star rating for this backpack because the zippers broke after 7 months of usage. The zipper lining started to come off at the corners of the backpack. Eventually the the whole zipper stitching came off. I still like the stylish and compact design of the backpack, but the quality does not live up to the what I expected. I have backpacks that have lasted me for years without an issue. Had to buy a new backpack when the zipper came off while on a business trip. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful backpack! Update: Zipper came off </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> The all-black design -- including nearly black zipper pulls and no colored logos -- makes this backpack look neat and clean and professional.  You won't look like you're about to go camping, unless camping happens to be part of a corporate retreat : )  This is a fairly flat backpack, so you won't be able to stuff a pair of athletic shoes in there or a fat Thermos, for example.  I love that there are separate, well-padded compartments for both an iPad and a laptop.  My only criticism is that I wish it were not quite as tall; I have a 13-inch White Macbook and cutting an inch or two off the height would have made the backpack appear even more compact.  Still, it is not overly large or bulky, and it is an impressive-looking and secure way to carry your computer and a few personal items. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sleek-looking and businesslike </p>
+
+
+<h2> review.date </h2>
+  06-09-2014  
+<h2> review.text </h2>
+
+ <p> This backpack is just OK.  It's a backpack.  Not super comfortable.  The excess of padding and little provision for air flow make it very hot on a warm day.  The water bottle older net is just a joke.  You could hold a test tube full of water.  A bike sized water bottle isn't even close to fitting.  If you consider water a fashion statement and don't ever plan to actually drink it, this could work for you.This seems designed on paper more than by practical testing.  For the $ it ought to be better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not super well designed.  Too warm.  Excess of padding for a compact backpack </p>
+
+
+<h2> review.date </h2>
+  04-25-2014  
+<h2> review.text </h2>
+
+ <p> I have been looking for a backpack that is small and will fit my 12 inches laptop and IPad. This one is perfect. It has a separate compartment for each of them. The compartments are padded and will protect you electronic device. I am going to use this for traveling. Really glad I found this. Either the packs or two big or too small. This one is just right! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect small backpack </p>
+
+
+<h2> review.date </h2>
+  06-08-2014  
+<h2> review.text </h2>
+
+ <p> Best slim backpack, the only caveat - I would prefer more small zipped pockets inside main zipped sections for small things. Actually there are no closed/zipped pockets inside at all.  Currently I need to use additional small bags inside to overcome this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good slim backpack. </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> i cant reccomend this highly enough. It is the perfect size to hold your ultrabook, tablet, a pad of paper a couple of magazines, a paperback, chargers, cables, earphones, sunglasses, a small snack .  You get the idea --  it is accomodating.  It is small and light weight and yet it is sturdy, well-made and comfortable.  And even with all this it tucks under the seat in front of you with plenty of room for your feet.  i bought four other bags to compare to this one before settling on this one. it is the best of them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> this is a perfect backpack for the frequent flyer </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> This backpack is like I wnted, The is size is perfect for my laptop. I don't need a big backpack because I don't have a big laptop, It is the right size, and I can keep all my stuffs. I loved it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It is like I wanted </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

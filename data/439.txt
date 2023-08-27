@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00BWBOQNI <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-11-2013  
+<h2> review.text </h2>
+
+ <p> The author hooked me from the first sentence and kept me turning pages without stop.  If you like were stories, you'll love Victoria Storm, her conflicts, and her pack.  The ending left me howling for more from Melissa Snark. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Howl of a Christmas Story </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> I gave it a 5 star rating because the story keeps the reader motivated to turn the pages without stopping. Read the whole story and now waiting for the sequel to come out. Keep up the good work.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great novel </p>
+
+
+<h2> review.date </h2>
+  04-15-2013  
+<h2> review.text </h2>
+
+ <p> I found this book to be a fantastic read.  I really enjoyed reading it and can't wait for more to come.  I love the characters she created both paranormal and human by adding additional dimensions.  I think it is great how she pulled in different characters from occult, paranormal, myths, legends, supernatural, and fantasy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great story that didn't last nearly long enough!  ;) </p>
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> I was sucked into the story the moment a ghost was mentioned, which was page one. I've never read a book about shape-shifting werewolves before and I have to say . . . I enjoyed this very much! I liked the little things that made the characters believable such as catching scents and snarling.Melissa Snark's writing is perfectly descriptive, offering great visuals of the characters and everything that happens. I could see the monster (the child thief), and Victoria's transformation into wolf in my mind. Her battle with the monster is vivid and gruesome. Just the way I like it! I know how hard it is to write fight scenes like that and thought Melissa did an exceptional job. I love, love, love tough heroines and Victoria is the definition of tough. I gladly rooted for her!I wished for more of a back story to explain just what happened to Jack's son and her lover, and more details about the battle that killed her parents, but I didn't need those details to enjoy this story. I also know this story is a bit of a teaser for the sequel, which I can't wait to read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Werewolves, monsters, hunters . . . what more could you want? </p>
+
+
+<h2> review.date </h2>
+  09-06-2013  
+<h2> review.text </h2>
+
+ <p> Melissa Stark's 40+ page paranormal was not enough! I loved the way she combined Norse mythology with shape shifting humans who become wolves. When we meet Victoria, she's on the run. Most of her pack has been massacred and she's the alpha with a bit too much on her plate at the moment. Her pack needs healing, she's being hunted and a ghost needs her help. Victoria, as a priestess of Freya, must find the ghost's small child and put this wrong to rights before she can tackle any other business. I found the depiction of Victoria's change from woman to wolf realistic, and was rooting for her to save the day. Not going to spoil this for you. She's got it up for $0.00 right now, so go read:) And for those of us who need more, there's a full length sequel: "Hunger Moon." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More Victoria, Please! </p>
+
+
+<h2> review.date </h2>
+  01-28-2014  
+<h2> review.text </h2>
+
+ <p> A nice blend of a couple of mythologies, Norse Valkyries and werewolves. I would recommend this to folks interested in folklore fiction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Left me wanting more. </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> This seems to be the prequel to a full length novel.  It also promises to not be your typical werewolf novel.  The tone is dark and surreal, which is a good thing considering the subject matter.I recommend it to anyone looking for something slightly different in the genre.  And I will give the author kudos for creating an alpha female werewolf, which is almost never done.I definitely think it is an interesting introduction to the author's other novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting Opening </p>
+
+
+<h2> review.date </h2>
+  08-29-2013  
+<h2> review.text </h2>
+
+ <p> Victoria Storm is the alpha of a nearly destroyed pack. She has lost her love to murder and her family to revenge. As Victoria and her pack seek a safe place to regroup, Victoria is asked to find a kidnapped child. She finds more than she expected.This is a very good novella and I plan to read more by this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loki's Wolves -Victoria Storm </p>
+
+
+<h2> review.date </h2>
+  03-02-2014  
+<h2> review.text </h2>
+
+ <p> A great short story with just enough detail to make it exciting and still know and understand the characters. The only downside is that it is written sort of like a prequel. So you'll get an end to one line of the story but it leaves it open for the next installment. Happy reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick read </p>
+
+
+<h2> review.date </h2>
+  11-20-2013  
+<h2> review.text </h2>
+
+ <p> What a great story. So much pain in so little words. I can't wait to read the rest of the story </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The child thief </p>
+
+
+<h2> review.date </h2>
+  04-06-2013  
+<h2> review.text </h2>
+
+ <p> Talk about exciting, I love this series.Lucky me got to beta read Hunger Moon before I read this intro story and I cannot say enough about both. They're well-written and masterfully developed. Original, exciting, and so much fun.Victoria is five foot tall, fierce, smoking hot, and a female Alpha. How endearing is that? She faces real problems that the reader feels and she kicks ass too. I highly recommend this magical urban fantasy as one of the most fun ways to spend an evening! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This series rocks! </p>
+
+
+<h2> review.date </h2>
+  07-04-2013  
+<h2> review.text </h2>
+
+ <p> Walki's ReviewA pack of werewolves is hunted by hunters hell-bent on vengeance. In Albuquerque, a ghost begs Victoria Storm, their alpha, to rescue her son who has been kidnapped by a monster who eats children. Reluctantly, Victoria agrees, and while also trying to save one of her own, finds herself caught in an uneasy alliance with the very hunters who want her dead.With Victoria, Melissa Snark created a conflicted heroin and an alpha that no one intent to challenge because of her strength of character, her willingness to serve justice, and her devotion to her pack.Readers might find this captivating short story too short and wish to know more about Victoria and the Storm pack, and the thread of Norse mythology the author has woven with this tale. Victoria Storm is worthy of an in-depth, full-length novel. Fortunately, there is a 348-page sequel, 'Hunger Moon'.This short story is full of promises and full of characters worth developing to their full potential. A new pack is in town - or on the run - and they are worth watching out for.Review Disclaimer: Book was provided free of charge in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4.0 on the Masq Scale </p>
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> Great introduction to what I hope will be a great series.  A small pack flees murderous hunters. The leader wants revenge for his son's death. The pack alpha can speak to the dead and is asked to save a young boy who has been taken by a monster.  I could not put this book down. This book is not a cliff hanger, thank heaven.  But there is clearly going to be many more trials for this pack and their alpha who is a werewolf and a Valkerie.  I am going to go buy the next book right now and start it immediately. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> POWERFUL STORY </p>
+
+
+<h2> review.date </h2>
+  11-24-2013  
+<h2> review.text </h2>
+
+ <p> As really great book. Was not sure if it was what I was thinkingabout it but will be reading this one many more times later on </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Child Thief </p>
+
+
+<h2> review.date </h2>
+  03-21-2013  
+<h2> review.text </h2>
+
+ <p> First disclaimer: I am not a fan of the shape-shifting werewolf genre, but I purchased this story because it popped up on my Facebook Newsfeed. I liked the cover, and have only a faint online forum's association with author Melissa Snark--causing me to want to read "The Child Thief" only out of curiosity of her ability to write at least competent fiction. I have never written a review of any short story, novella or novel if--no matter how good the plot--it proved to be poorly written. If I can't honestly recommend a work of fiction on Amazon, I will not write a review for that work.  Period.That said, though "The Child Thief" didn't make me any fonder of the genre, I give a four star recommendation to those who enjoy this kind of story: because it is well-written, well-plotted and the characters well-developed. Mostly I recommend Melissa Snark's "The Child Thief" because she pulled off the miracle of making this supernatural tale interesting even to me. No easy task, indeed.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Snark Made This Werewolf Story Even Interesting to Me </p>
+
+
+<h2> review.date </h2>
+  09-05-2013  
+<h2> review.text </h2>
+
+ <p> To short of a story is there more of this story .?  If so when can I read it? I liked this story but sad about  Jasper died.! The story is good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Child Thief </p>
+
+
+<h2> review.date </h2>
+  04-20-2013  
+<h2> review.text </h2>
+
+ <p> I hadn't read anything by this author before, so I had no idea as to her style. I was happy to find her story was creative, original and captivating.WHAT IT IS ABOUT:Victoria is not only a Werewolf, but a Valkyrie as well. She is in charge of her pack after the tragic death of her parents at the hands of her dead boyfriend's father Jake. Jake is hell bent on having his revenge on Victoria. Throw into this mix a ghost looking for her missing child, a Devilish Goat monster, and a kidnapped pack member and it makes for a fast paced action story.THE GOOD:This was definitely original and fun to read. It was written well, with the author having a good understanding of the genre. I was intrigued as to what had happened before the time frame covered in the story and what had happened to Victoria's boyfriend?THE BAD:The Werewolf element was interesting, although I preferred the Valkyrie element more - I am just not that into wolves I guess! The story line could easily have been lengthened into a full length novel, or even scenes lengthened so that the book covered more detail or slowed the fast paced story down a bit, as there was a lot happening. I really wanted to read more, so I guess I will have to wait for the next one.THE COVER:The cover is eye catching and works well with the story.RATING:This story would be perfect for anyone who likes a bit of gritty urban fantasy, including paranormal beings and elements, coupled with a good dose of mystery and action. It was enjoyable and well written. I give it 4 stars because I would have liked it to be slowed down with more thorough attention to scenes.*** I received a free copy of this book in exchange for an honest review *** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Urban Fantasy </p>
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> The Child Thief was a great quick read. Melissa Snark has done a great job of creating a new type of werewolf society while incorporating other supernatural creatures. This is a definite read full of unexpected turns. Mrs. Snark has a wonderful way of telling her story with strong descriptive elegance. I am anxiously awaiting the second part of the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read!! </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> Melissa does a great job introducing this very different, but wonderful combination of mythology and shape shifters.Victoria is a very young girl  forced to take on responsibilities she's not ready for, she is guilt ridden and in pain for the loss of her love, parents and the majority of her pack.  But now she is Alpha and must grow up and lead a broken people.I am so looking forward to reading the continuation of Victoria's story, I can't wait to learn what awaits her and what she is going to do.  She is wolf, communicates with the dead and is a priestess of Freya, wow it is mind blowing!This is going to be hit series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Introduction! </p>
+
+
+<h2> review.date </h2>
+  06-07-2013  
+<h2> review.text </h2>
+
+ <p> My rating: 4 out of 5 starsShe ran because her goddess commanded it, swearing revenge in her heart because she no longer believed in justice, whether she was sworn to it or not.~Victoria Storm**Please note, book was gifted by the author in exchange for an honest review**What a pleasant surprise! Ms. Snark initially contacted me about reviewing book 2 of this series, Hunger Moon (my review is coming soon!) but she also mentioned this novella, as it introduces the heroine to the reader, and that I was welcome to it as well. I am so very glad I read this first.The Child Thief doesn't waste much time "setting the tone" and for me, that is HUGE when it comes to my entertainment level where a novella is concerned. I can be such a child when it comes to the books that I read. I'm anxious the second I turn my kindle on and quite frankly, I don't enjoy the endless rambling about the purple hued sky, rolling mountain tops, the tweety bird in the corner...you get the gist. I want a novella to come out swinging and that's exactly what Ms. Snark did.Victoria Storm is the newly named Alpha of her pack. She questions whether or not she is worthy and the reasoning behind her new title is heartbreaking. Not only is Victoria a were-shifter but she was gifted with spirit sight which adds to her sense of responsibilities when it comes to protecting and making things right. Unfortunately for her, her once allies are now vicious enemies because they blame her for the loss of one of their own. She has suffered great loss that in some ways has made her hard but this strong heroine has a big heart.I love my paranormal creatures, obviously. That being said, there are times where the "creature" is just a little too much, too over the top, for me and that was the case here. Another aspect that I'm struggling with is character development. I love how she didnt' make my head spin by introducing too many characters all at once. Aside from Victoria, there were only a handful of others mentioned. There were three standouts for me and what did the author do? She KILLED TWO OF THEM!!! So here is where I'm torn, on one hand, I'm thinking "WTF? Get me invested and snatch them right out from under me?!" but...on the other, "That's ballsy, I dig that." That in itself deserves a THUMBS UP in my book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great intro! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

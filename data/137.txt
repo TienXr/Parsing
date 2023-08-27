@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00CHYKVPQ <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> This is hanging on the wall in our church lobby to provide interactive updates to our people on various ministries we support around the world. It looks good and functions well. The touchscreen is responsive but don't expect it to work like an iPad. The wifi reception is good and the web pages load well. Included keyboard is OK but after installing it the Android OS tends to default to that keyboard instead of the touchscreen keyboard. Easy to correct,however. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> does what we wanted it to do </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> reminds me of a jumbo size phone bought it for my 62 year old father in law he loves it came fast through amazon free shipping 279 great price I set it up for him he been out it 24 a day lol im glad he is happy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice </p>
+
+
+<h2> review.date </h2>
+  10-12-2013  
+<h2> review.text </h2>
+
+ <p> This unit was purchased with the intent of using it in a public library.  However, creation of multiple users and limited access users is not possible.  Unlike the ChromeBook which also runs Android, a guest user account is not possible.  This desktop would work well in a private single user environment, but not one that would require multiple users. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not allow multiple user accounts </p>
+
+
+<h2> review.date </h2>
+  12-25-2013  
+<h2> review.text </h2>
+
+ <p> This unit at this price point (we paid $299) is one of the best values I found all year. On the account of some less than great reviews I hesitated to purchase this, but let me tell you, as a very &#34;tech person&#34;, the poor reviews are unfounded and authored by people who simply were disappointed that this does not have Windows installed which it does not claim to! You can however plug in your Windows laptop, tablet. tower, etc, and have a full blown huge Windows tablet/touchscreen all-in-one! The screen is beautiful I must mention; it's full HD and crisp - I can't take anyone with issues with the screen seriously and hopefully you won't either. My only disappointment was that I did not get this sooner!Android OS works much better in a desktop manner than I thought it would. Mind you we got this mainly for the kids to use android, and secondly as a monitor solution to get a desktop experience from our smaller Windows tablets. It really works great for all of this and unlike many other &#34;portable all-in-ones&#34;, this unit actually is absolutely portable! For $299, I honestly expected less, but feel I got well more than my money's worth with this product - VERY HAPPY.****PROS****~This unit is truly portable! It's very thin, light-weight, sleek, and just very attractive and high quality all around.~The included keyboard and mouse are very nice - they have a uniqueness in their design that is refreshing.~Crisp, clear, FULL HD touch-screen.~Micro to full HDMI cable & micro to full size USB are included in the box.~Works as a touch screen monitor for any (even non-touch screen) Windows machines.~Adjustable built-in kickstand works great and is much lighter and less bulky than other 'stands' on all-in-ones.~It's dirt cheap for what you get!****CONS****~It's only 2-point multi-touch, compared to other 5-point or 10-point options out there - that's the only con I can think of, though I haven't noticed any limitation(s), not has the wife or kids. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AMAZING VALUE! </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> This desktop combines a a computer and the touch screen so that my granddaughter can move between her iphone, kindle, and ipod with ease.  It incorporates all of what she needs for school.  She said it is so awesome she would like to take it with her to college in a year or so. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Granddaughter loves it! </p>
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> Got this for my dad with the main purpose of video chatting with the family with Skype or Google Hangout.  Both apps work great on this Android ICS computer.  The touch screen is great for making or answering video call.  The camera, microphone, and speaker make a great job with both Skype and Google Hangout.He also uses it to check email in google mail and it does a good job.Web browsing is not as good as in a full power computer but good enough for occasional use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for a Senior that does just simple tasks - great for Skype or Google Hangout </p>
+
+
+<h2> review.date </h2>
+  11-09-2013  
+<h2> review.text </h2>
+
+ <p> The only reason why I gave this 3 stars and not 5 is because it doesn't support flash like the ipad that's the only down side also the touchscreen is a little gittery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great second screen no flash. </p>
+
+
+<h2> review.date </h2>
+  04-01-2014  
+<h2> review.text </h2>
+
+ <p> Although I got a refurb way under half price, it works brilliantly for the most part. The touchscreen works perfectly, the screen gives a fairly good picture, and I get quite peppy response for what is supposed to be a weak processor. Apps and especially widgets often look amazing on the big screen, and can be friendlier than annoying Windows systems.It did take me a long time to set up to my taste. Many apps pretend to be incompatible, but if you force sideload them they often work fine. At worst they may be stuck in sideways mode, and I even may rotate the screen for fun. Having no accelerometer means it is stuck in landscape mode.  Flash player works, and the speakers are pretty good... I love the eccentric thing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very fun </p>
+
+
+<h2> review.date </h2>
+  01-28-2014  
+<h2> review.text </h2>
+
+ <p> As a internet device this works well enough. But dont try to use it as a PC.The device needs one of two things. Either a Android 4.4 update to make better use of the hardware. Or more ram.Could really use both. I really like the idea of Android on a PC because I use Linux and despise all Microsoft products.But as great as this idea is, Acer did a poor job executing it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well enough </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> 1 GB SDRAM is just NOT enough to do much of anything with these days...especially once you add a couple of apps, games and/or photo editing software!! even my tiny acer laptop has 4GB of SDRAM and sometimes with lots of photos it lags. PLUS, for a desktop with such a nice looking monitor, you really need MORE so you can really put this to work & play and have FUN!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NOT enough RAM!! </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> When the early Android tablets were out, especially all the cheap ones, they were all buggy.  I've had a very early one and also recently had a Vizio Coplay (another android device) so I know what their biggest shortcomings are: MEMORY.MUST DOWNLOAD MEMORY MANAGER!  That 1 GB memory is too small for demanding apps like Flipboard or even a simple browser.  The very first thing you must do is download a memory app like Memory Booster that can auto boost as often as possible because you will run out of memory.  When that happens, the unit will slug or hang.  Also, reduce the items to sync with your account.  There is also a setting in settings that says to remove app from memory when you leave it- it helps.The processing speed is just enough, but you will really feel the effects of low memory.  If the Play store doesn't have an app, Amazon Appstore might have it or you can sideload apps which may or maynot work.  You have to test each app to see if it works properly.  Also, update the system immediately, that helped stability right away.  I would also load a lighter launcher like Nova or Solo.  If you want Flipboard to work better, set the cache as small as possible and reduce the number of panes.  The Youtube app runs better and works well.  You can sideload Adobe Flash to play flash games, animations.The Chrome browser is very buggy, I use the stock browser and it is snappy.  I haven't tested the monitor function yet, but this is a good standalone machine to do everyday things like listen to Songza, surf, Flipboard, Youtube. etc.  You can't have multiple windows open when browsing but you can open multiple tabs.I hope these tips can help you have a better experience.  I really think it is a valid breakthrough product, but it is not as polished as an Apple product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only if you tweak it </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> This Computer is really different! It is like having a great, big Android desktop computer. It is as capable of operating with a mouse and keyboard as fully touch capable. It really is more a desktop computer than a tablet. But it will download and play lots of Android Apps and Games. The powerful speakers make game play more enjoyable. The 21.5 inch screen is bright and readable for my aging eyes. It weighs 10 lbs. so it really is not for your lap. It will tilt from 70 degrees to 20 degrees so if you have lots of desk space you may use it almost lying flat. It is not terribly fast (Quadrant Score = 1800), but it keeps up well and does not appear any slower than some of my faster tablets in Chrome. It has NO sensors (accelerometers, g-sensors, position) so a lot of my previous Apps (99 out of 250) will not load from the Google Play Store (most, I think, for the lack of a position sensor). It will actually display Apps that only work in portrait mode but they are lying on their side. It has 2 full size USB ports, 1 micro USB port, a HDMI port, a Ethernet port, and a micro SD card slot. It has lots of pre-installed Apps including Kindle, Amazon AppStore, Chrome, Facebook, Netflix, Play Store, Polaris Office, Skype, and YouTube. I really like this hybrid and would recommend it to anyone that has some Android experience (I say that because Acer provides absolutely NO Android information). It has a three page Quick start guide that only shows how to hook it up. They provide the User Manual on a CD (this computer doesn't have a drive to view it!). You can go to Acer's Web site to download the PDF file. If, like me, you have been a Windows user all your life  and want to try Android give this computer a try. I think you will like it - I do. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Should have bought from Amazon. </p>
+
+
+<h2> review.date </h2>
+  06-21-2014  
+<h2> review.text </h2>
+
+ <p> Before you decide to get this product, you have to be aware of what it is used for. You can&#8217;t use this for office work if you want efficiency and ease of use and you certainly can&#8217;t use this for stuff like gaming on the high end. This is for entertainment purpose through videos and such, and it doesn&#8217;t even do that very well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beware </p>
+
+
+<h2> review.date </h2>
+  08-31-2013  
+<h2> review.text </h2>
+
+ <p> I bought this device several months ago. I have mixed feelings about it. Like similar devices it has it's pros and cons.Lets start with the Pros: The monitor is quite attractive. The colours are bright and vivid, contrary to the views of another reviewer. The touch screen is very good albeit only two point.The mouse and keyboard works well, although I find the mouse to be too small. If you have big hands the discomfort of holding the mouse is quite noticeable. My solution was to ditch the mouse and opt for a good mouse. Now this is where this monitor really shines, windows 8, attached to my Windows 8 laptop it is really nice.Now the cons: The screen does show some graininess as mentioned by another reviewer. This screen seems not even to be a true touch screen  it's more of an optical screen. The screen has this silvery look that resmbles the old cathode ray monitors which I think takes away from the overall look of the monitor. When the monitor is on it is okay , when it is off that is when you get that sort of retro appearance. The biggest problem with the monitor is with windows 8, the monitor has a frame around the mask,so closing an app in windows 8 can only be done with the mouse. Those of you with windows 8 touch screens know what I mean.Conclusion : As an Android tablet it is mediocre as it is currently, even though it runs ICS. There are a lot of apps that won't even install, there are others that will install but won't fit the screen format. Flipboard is one that comes to mind. It will be nice to see a firmware update to remedy such problems. As an external monitor it gets an A. I see it priced on some sites for as much as 500 dollars. One of the other reviewer said that she paid 599.00 I paid 499.00. This monitor is worth just what Amazon sells it for. I would recommend it to others, but at no more than Amazon's price. You might also want to take a look at the Viewsonic VSD200 same monitor, without the skin Also found on Amazon. Acer added their well known ring to their monitor. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good idea,updates will go a long way to making it better. </p>
+
+
+<h2> review.date </h2>
+  07-07-2013  
+<h2> review.text </h2>
+
+ <p> Great execution of a product, but I would wait for the next model.  (Features under "read more")This is literally a 21 inch tablet, the only things that set this giant tablet apart from the smaller ones is that you can't put this one in your lap and you will be more than likely using the keyboard for all of your typing.  Also, you can double this as a PC monitor with a cable so that you can utilize the touchscreen with your PC's operating system.This is quite a bargain considering all of the features it offers as being a touch capable PC screen alone, add in the on-board Android OS and, for the price, this is almost a STEAL!-The screen resolution is noticeably grainy and the colors aren't vivid.  The touch screen is very responsive.  The Android OS is the same as a phone or tablet, meaning that a lot of awkward unnecessary mobile functions are left active such as the zoom prompt (which is useful on a mobile in order to press small web icons, but silly on a giant screen).  If you have low vision problems, this would definitely benefit you.-HD videos will be less than standard definition on this screen.  YouTube videos were rendered at a non-HD quality but was acceptable standard quality.-The keyboard is absolutely perfect, easy to navigate and type on- it is light yet sturdy and good quality.  I really love this keyboard!-The mouse fits well in my hand and is comfortable, unfortunately it wasn't working on the model I tested.  Yet, I didn't need it at all with the touch screen.  The mouse would be useful if you want to sit back from the screen in order to watch a film.-The product is very nice aesthetically and pleasing to the touch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poor resolution, great for kids and elderly! </p>
+
+
+<h2> review.date </h2>
+  04-29-2014  
+<h2> review.text </h2>
+
+ <p> im not happy with this so call tablet. I cant get what I use on my other android tablet. n these apps work when they want to work n not when I need them to work!i simply don't want a tablet that I don't know when it wants or doesn't want to work. I thought this would b nice to have but it nothing but aggravating.when I can get something else that works when I need it, for the 200.00 I spent on a product that aggravates me. I also purchased another acer laptop which doesn't work, the recover system isn't letting me recover anything so now im never buying anything from acer again...... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DO NOT BUY </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

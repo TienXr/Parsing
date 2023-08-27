@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00FIOKXLY <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> This is book 2 in the In Chains series. This series is completely shocking. The author holds nothing back, creating a dystopian romance set in a world that will horrify you that civilization could be so cruel.... While tantalizing you to continue turning the pages! In this book, Simon (the heroine's brother) manages to redeem himself, which was something I hadn't expected. In the first book, we saw a completely different side of him. The romance continues between the hero and heroine in a setting that is not a great place to be. In a plot that should have been impossible to pull off, the author manages to do so in a way that kept me hooked! Michelle Abbott is great about taking you to the very edge with a character, and I really enjoy how far out she takes this series. This isn't a neat, tidy romance. This is a series that will make you cry, make you smile, and then make you hope like heck that the hero and heroine will end up together, because there is nobody else in this dystopian world they could possibly be better with! Locked Together is a must read, but make sure to get the beginning book first. Once you finish it, you won't be able to wait to get your hands on this one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Could it have gotten any better? </p>
+
+
+<h2> review.date </h2>
+  11-25-2013  
+<h2> review.text </h2>
+
+ <p> Originally given 3.5 hearts at Rookie Romance.Locked Together is definitely much better if you've read the first book, In Chains. It would be kind of confusing as a standalone. I was really looking forward to reading this sequel, I wanted to know how life would be in the 'Pound' for Kayden and Savannah and what new trials their relationship would have to endure.Savannah is the same strong character as she was in the previous book. She's very kind, compassionate and loving. She's saved Kayden's life and has chosen to endure her punishment in the slave compound, where she can at least be with Kayden. Savannah is shocked by the treatment of slaves in the compound, although she is lucky to be relatively sheltered by a guard who takes sympathy on her.Kayden was a real let down for me in this book. It took me a while to put my finger on what was bothering me. In the first book I enjoyed the scenes from Kayden's POV because I could see how much he loved Savannah, but I didn't particularly enjoy them this time. They do add to the story, so we can see the way his treatment at the compound affects him. But he can come across as quite immature, and rash in his POV scenes. It's only when I see him through Savannah's eyes that I really remember that they have this strong love between them.They do still have a very strong chemistry and connection, which they need in order to face the challenges that come their way.The plot for about 3/4 of the book was great. It was fast paced with plenty of tension and twists for them to navigate. The last 1/4 was pretty abrupt and I felt, didn't work as well. I won't give away spoilers (even though there's something I'd love to mention). There was a time jump and the events that had unfolded during this time surprised me, and I didn't think it fit with the story very well. I did however, love the ending and epilogue!I've moaned a little bit, but I did still really enjoy this. It's not quite as good as the first book, but it wraps up the loose threads and questions left from the first book. There's some more explanation about the origin of the slavery, which I appreciated as it was one of my big questions after the first book.I'm already looking forward to what Michelle will bring us next.*I received a review copy from the author, for my honest review. Thank you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sequel </p>
+
+
+<h2> review.date </h2>
+  05-06-2014  
+<h2> review.text </h2>
+
+ <p> 4 StarsI finished this book in one sitting.  Locked Together did a great job of grabbing my attention and holding it.  I highly recommend you read the first book in the series, In Chains, so you have a good background of the characters.  I thoroughly enjoyed this book more than I did In Chains.  The first book almost seemed incomplete during some parts, but this one, you get everything you want and more.  This is not your typical romance, love story book.  It is a thrilling, steaming, action packed adventure and 100% worth the read!~Lauren~ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Locked Together did a great job of grabbing my attention and holding it. </p>
+
+
+<h2> review.date </h2>
+  05-07-2014  
+<h2> review.text </h2>
+
+ <p> I WAS A LITTLE DISAPPOINTED IN THE WAY BOOK WAS WRITTEN BUT OH MY BOOK 2 WAS PERFECT. EASY TO GET LOST IN THE STORY, GREAT FLOW WELL WRITTEN. THE STORY CARRIED ON FROM WHERE IT LEFT OFF IN BOOK 1 IN CHAINS. IT WAS A GREAT STORY THAT SHOWS TRUE LOVE CONQUERS ALL. WOULD DEFINITELY RECOMMEND TO NEW READERS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4.5 RATING </p>
+
+
+<h2> review.date </h2>
+  07-16-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed reading this book more than the first one.  While not perfect, the writing seemed smoother than the 1st book.I still very much liked Kayden, the hero.  He loved Savannah intensely and was willing to do anything for her, no matter how painful.  His feelings for her and resolve were tested on numerous occasions and he never once faltered. In fact it was painful to read about how much he endured to be with her.  The poor guy could not catch a break until the end of the story.  I was so happy he did not give into the evil OW.  I was so afraid that it would happen. Not that I would blame him given how much he was tortured but it would have saddened me nevertheless.I am glad that the book at least had a HFN ending as opposed to a bad one.  I would have liked a HEA but knew that was not going to happen.  The author left it open enough to have another book in the series either with the same main characters or new ones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A decent story with a HFN ending and a loving, dedicated and faithful hero </p>
+
+
+<h2> review.date </h2>
+  05-05-2014  
+<h2> review.text </h2>
+
+ <p> A copy of this book was provided by the author in exchange for an honest review.Locked Together picks up immediately after In Chains ends. Savannah has joined Kayden at the Compound where slave training takes place. For Savannah it was an easy choice. She would do and give anything to be with Kayden but giving up her freedom to be with Kayden; Savannah didn't realize what it would involve but her worst nightmare wouldn't have come close. She learns first hand what it's like to be a slave and that being in the Compound was no guarantee of alone time with Kayden. Kayden can't understand why Savannah would choose to be there but is thankful for the time he can spend with her; but there are still those that want to keep them apart.I was pleased with this follow up to In Chains and happy to see how the love between Savannah and Kayden would grow and overcome the many obstacles they faced. With so many against them, they face their self doubt and insecurities, but their love for one another only gets stronger.Locked Together gives us more steam and intimacy between the main characters which results in a much more sexy read. Not only does their love continue as simple and as pure as it began but the sex is on a higher level compared to the first book. Locked Together was a great ending to Savannah and Kayden's story.This Naughty Mom give Locked Together by Michelle Abbot a BIG 4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THOROUGHLY ENJOYED </p>
+
+
+<h2> review.date </h2>
+  05-24-2014  
+<h2> review.text </h2>
+
+ <p> Review of Locked Together by Michelle AbbottLocked together is book two in the series. You do need to read book one in order to understand where this book is, otherwise it will be like a cross-country trip with Tom-Tom, you&#8217;ll get to leave Indianapolis three times. (True story, thanks Tom-Tom) It&#8217;s quite confusing, frustrating, and you&#8217;ll be lucky if you don&#8217;t strangle whomever you are traveling with. Wars have started over less, so save some trouble and read book one first, okay?I really enjoyed book one. I thought that the storyline was more on the original side than anything I had recently read when it came through. It was a bit on the &#8220;soft&#8221; side considering it was about slavery and forbidden love, but it was worth the read. Now, book two picks up where book one left off. We have Savannah feeling horrible that the love of her life, Kayden (the slave), was sent back to be retrained at the Compound. (The Compound is where slaves are born and trained.) Instead of going to jail (you&#8217;ll just have to read book one to know why) she picks going to the Compound instead so she can be with her true love Kayden.I&#8217;m slightly less than excitable about this book. The reason being the naivety that made Savannah lovable in book one, really annoyed me in book two. It was obvious that &#8220;humans&#8221; didn&#8217;t view the &#8220;neanderthals&#8221; as people at all on the outside of the Compound so it shouldn&#8217;t have shocked her that they were treated worse than rats in a cage. I mean, come on already.And the completely sweet, endearing amazement that Kayden had in book one that a human could love a slave?! It was so over the top in this book that I wanted to cry in frustration. Their relationship was just over-wrought with flowery confessions from him and out of the blue carnal desires from her. I mean who really feels like humping while in the worst kind of jail cell imaginable with a couple &#8220;troublemaking&#8221; slaves to watch. Sounds like a fun go round eh?Now as for the story as a whole. It had a ton of potential. It could have taken the dark erotic genre by storm and been what all other authors in the genre aspire to be, but at every turn it felt like the author got scared of where she was going and backed out before it went there. It was a confused and jumbled storyline that really left me feeling bereft. I will go ahead and let you know that the ending for the book made finishing the story/series worthwhile. I&#8217;m always game for a good HEA and Savannah and Kayden get theirs. It&#8217;s just the getting there that was bumpy.I give the storyline in this book three stars and the smutty parts are two steamy-ish panties. Not quite damp&#8230; but not bone dry either.A Mommy&#8217;s a Book Whore review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Meh </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> I picked up LOCKED TOGETHER literally after I put down IN CHAINS. I was desperate to know how Savannah&#8217;s and Kayden&#8217;s somewhat tragic but simply beautiful love continues after ending like book #1 did. While I didn't agree with the two of them all along the way, I was absolutely blown away by that ending and epilogue! Definitely the most stunning ending I&#8217;ve read about in a while.The story starts exactly where IN CHAINS has ended. Per her own will Savannah is now locked in the compound meant for slave training &#8211; her only purpose: to stay close to Kayden. The compound is like a prison, but not exactly. The slaves are treated very badly which Savannah is to discover first hand as she is one of them for a year now. Nevertheless, she does not regret her decision to save Kayden &#8211; even if that means to sacrifice her own freedom.Kayden cannot understand why Savannah would possibly choose being held captive at the compound but is determined to make the best of the time they are given together. Oh, and they do! Regardless of their circumstances &#8211; be it mad guards who do their best to make life miserable for both of them or their own insecurities &#8211; they stick together and the bond &#8211; the love &#8211; between them grows even stronger &#8211; hell, they even manage to have steamy sex at the compound!I really appreciated that Savannah remains the same person she was in book one, before the compound &#8211; genuine, smart yet a bit nave, determined and most of all she kept her pure heart. Kayden does not change as well; he is still Savannah&#8217;s protector who would do anything for her. The person that indeed changes a bit is Savannah&#8217;s brother Simon. Although he is still not happy with her choice, he redeems himself and even helps the two of them at some point.The journey this series takes you on is promising, vivid and very intense &#8211; it makes you believe that love truly can overcome every obstacle that is thrown in its path &#8211; as long as it is strong enough.And , oohh, this epilogue!! I know I mentioned it before, but I cannot even express how much this wonderful ending captivated me, it is plain breathtaking and more than I would have hoped for!LOCKED TOGETHER is a great conclusion to Savannah&#8217;s and Kayden&#8217;s story, and I enjoyed it even more than I did the first book.Don&#8217;t miss out on this beautiful dystopian romance series! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> >>>4.5 Chained Stars&lt;&lt;&lt; </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> So I will admit that I read this book and finished it on Friday. As it is now Sunday, I have finally been able to recover enough to leave my review. I can't say enough how much I enjoyed both books in this series. I wish I could find more books like this that highlight the  New Adult category and combine it with other genres such as was done in this dystopian read. It was sexy and thrilling and I couldn't ask for more. I loved this and hope you all pick up this series. It's tremendous and I can't wait for follow up books by this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still recovering... </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> Again this needs to be a WAY higher rating, but can't so 5 stars will have to represent how I felt about this book.Okay so I finished book 1 and decided I was going to break because of the roller coaster ride of emotions, but I kept glancing at my kindle and had to pick it back up. In just a few hours (can't remember how many) and a VERY late hour, I finished book 2...OMG!!!! If I didn't love Kayden already in book 1, he would have definitely stolen my heart in this one. The sh!t this man went through for the love of his life...GAH! It picks up right where book 1 left off, again I'm biting my nails, screaming at my kindle and crying big fat ugly tears!Kayden is definitely my #1 book boyfriend (and that's saying a lot because not only do I write my own, but I'm kind of a book boyfriend slut hahahaha) and this book left me with such a book hangover, I found myself reading the series over and over again.This series is a MUST READ!!!!! I'll be watching this author! Looking forward to more from her. Seriously I'll say it one last time PICK UP THIS SERIES!!!! You won't regret it!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I freaking love Kayden!!! </p>
+
+
+<h2> review.date </h2>
+  05-07-2014  
+<h2> review.text </h2>
+
+ <p> While reading In Chains (book 1), I fell in love with Kayden and Savannah.  The amazing connection that they develop despite the odds is a wonderful story to read and discover that true love can find a way when you believe.So needless to say, I couldn&#8217;t wait to begin reading Locked Together to find out what was in store for Kayden and Savannah.  How would life be in the pound, did Savannah make the right decision, can their love for one another get them through this obstacle and what is going to come once they are able to be free from the Pound?  In the society that they are from, is it even possible for them to ever be truly free to love one another.Kayden is an amazing individual that will do anything for the ones he loves.  The kindness that he demonstrates to others and his ability to love and care is unbelievable.  Even when they are separated and Kayden doesn&#8217;t have any idea how to find the Savannah&#8217;s brother&#8217;s farm he doesn&#8217;t give up.  Not only does he fight with every ounce of will and strength he has, he manages to find a way to work during the days to help raise money that he plans to give to his Savannah for a future together.The struggles that Savannah has to face in the pound and after escaping are hard and at times seem to be unbearable.  But somehow she is able to live through her love for Kayden and the hope that he will come back to her.I couldn&#8217;t guess from page to page what might happen, if they would make it and have a future or if it was all is for nothing.  Savannah again amazes me with her strength and her ability to look past what others see and do what is best for her.  She lives for Kayden and her family; she refuses to be held back by society&#8217;s stereotypes and rules against slaves.  This book proves to be a story of a true heroine (Savannah) and hero (Kayden) and their journey to find love and happiness.  They might not be able to have a &#8216;normal&#8217; life according to their society, but they are able to have a life that is filled with love, happiness and family and that is all that truly matters.I loved these books and admire the tough issues of prejudice and racism that the author tackled within the story.  The ability to look past another&#8217;s race, skin color, education, place in society and to truly see them as an equal is wonderful.  I just wish more people in the &#8216;real world&#8217; could have the same views, as Savannah, and demonstrate what it truly means to see no difference among people, that no matter what anyone says we are all human beings and deserve to have the same opportunities in life.  To find love and happiness in your life is all that matters and is what everyone deserves&#8230; &#60;3 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I fell in love with Kayden and Savannah.  The amazing connection that they develop despite the odds is a wonderful story to read </p>
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> The world Michelle created is very interesting dark and ugly but interesting. I love how she brings beauty to a world that was filled with such non sense. It's a miracle Savannah and Kayden find each other and hold on to each other as strongly as they do.I cried for the pain that Kayden has to endure in his life but rejoice because he has found someone worth living for. In short I fell in love with the dynamic between Savannah and Kayden. It is simply beautiful.This book is about survival of love not just survival for living but for being accepted for who you are and still being able to have love in your life. I loved it! Michelle did an excellent job in giving her characters a fighting chance in a world that looks down on them. As for the ending... Well I don't want to give anything away but yeah I cried, and that is all I am going to say about it. You have to get this book. No wait not just this book but you have to grab the series because I know that you are going to fall in love with Kayden just like Savannah did and just like this Fairy did! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bravo! I loved it soooomuch!!! Kayden ...Swoon! </p>
+
+
+<h2> review.date </h2>
+  05-05-2014  
+<h2> review.text </h2>
+
+ <p> Wow... I read this book as soon as I put down In Chains, expecting more of Kayden and Savannah's heart-mending, all encompassing, gut-wrenching love story. I've seen this story being compared to Romeo and Juliet, but I honestly don't think so.  These two characters see the love they have for each other as a light in the darkness.  Just as vivid and descriptive, this book broke my heart and mended it back together.  Truly spectacular writing of what seems to be a simple yet logical dystopian future.I was extremely happy to see that Savannah did not change in this book. She is still kind, a bit naive, smart and determined.  The new characters introduced in this book added a new dimension of nastiness and angst, and I could tell, if the author wants you to hate certain characters , she makes sure you hate them completely.  I was also very happy to see Simon, Savannah's brother, become more of a hero , and while he doesn't change his mind completely, at least he isn't such a .... well, you know.  Old characters gain even more perspective in this installment, and we get to know more of their stories.  I also love the great attention to detail this book has, like Savannah reading the pound guidelines and noticing rules weren't being followed by the guards.Now... Kayden and Savannah.  I don't know where to begin.  The author took them to a whole new level.They are locked in together at a compound meant for slaves, its not really a prison.  This NEEDS to be kept in mind, otherwise there are certain events in this book that won't make much sense.  They manage to have some super steamy and intense scenes in the pound,  in very particular places and circumstances.  Their relationship goes through ups and downs, insecurities from both ends, tortures,  crazy guards and much more.  Immensely fun and intense read, this is a great series I can't recommend enough.Complimentary copy received in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 5 intense stars </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

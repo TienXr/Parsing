@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00D0LUO7U <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-22-2013  
+<h2> review.text </h2>
+
+ <p> I could relate to some of the curiosity and insecurities the couple felt . I was hot to read the story as it unfolds  and to see both couples struggle with the arrangement and also have a stronger relationship in the end </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it </p>
+
+
+<h2> review.date </h2>
+  05-30-2013  
+<h2> review.text </h2>
+
+ <p> Wow! What can I say? I love this author and have read all of her work, but this book just took me by complete surprise...Definitely in a good way! I have read few stories featuring married couples because I love the feeling of meeting and falling in love, but Suzy Ayers knocked this one out of the park! The couple's life and marriage were realistic and kept me turning the page even before things started really heating up. The scenes with the Dom were so scorching, I began wondering if I was a closet submissive in need of a Jarred myself :) If you haven't read anything by this author yet, I seriously recommend you do! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Off the charts HOT! </p>
+
+
+<h2> review.date </h2>
+  05-28-2013  
+<h2> review.text </h2>
+
+ <p> I absolutely loved this story. The author did a wonderful job bringing the characters to life, and pulling you into the story. This is a wonderful read, and I will definitely be reading more stories by this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent reading </p>
+
+
+<h2> review.date </h2>
+  12-05-2013  
+<h2> review.text </h2>
+
+ <p> Great new twist on the BDSM genre! Suzy Ayers writes great sex.  Very relatable story for a married couple.  Keira and Tim make a very brave emotional journey together and the reward, hot amazing sex.  Doesn't get any better than that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome love story with a twist! </p>
+
+
+<h2> review.date </h2>
+  06-11-2013  
+<h2> review.text </h2>
+
+ <p> Loved this book!  The main character is someone I sympathize with and can relate to.  The author did a good job taking the male character through a positive change.  And, let's not forget...hot, hot, hot!  Great job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jenna Fox </p>
+
+
+<h2> review.date </h2>
+  11-15-2013  
+<h2> review.text </h2>
+
+ <p> The scene work was ok......not very well thought out for my personal taste.....the kink was tepid for me.....but titillating enough to keep me reading on in hopes of more heat </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Moderately engaging </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> This is a super-sexy book about being submissive and dominating. It's definitely worth a read! It will keep you turning the pages until the very end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Be dominated! </p>
+
+
+<h2> review.date </h2>
+  07-17-2014  
+<h2> review.text </h2>
+
+ <p> I thoroughly enjoyed this book. It looked at mild BDSM through the eyes of a couple trying to save their marriage. The two couples have become friends on line and the decision is made for Kiera and Tim to visit England and see if Carrie and Jared can help bring the spark back to their marriage.The characters are strong and interesting. The storyline is interesting and the story flows well.I am enjoying several different books written by Suzy Ayers </p>
+
+
+<h2> review.summary </h2>
+
+ <p> With a little help from your friends </p>
+
+
+<h2> review.date </h2>
+  07-08-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed this novel by Ms. Ayers. The novel explores the journey of a woman set on bringing some excitement into her sex life. The main character ends up convincing her husband to meet a real D/s couple and be trained. The D/s couple based on a real life submissive allows the main character and her husband to explore and learn about themselves as well what was missing from their own relationship. A good read if you are breaking into the BDSM subgenre. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great novel about exploring your inner submissive! </p>
+
+
+<h2> review.date </h2>
+  07-16-2014  
+<h2> review.text </h2>
+
+ <p> Fantasy Encounter with a Dom was a very fast, easy read. I don't really like the story line at all. There are some parts of the story that I find to be completely boring, which is probably part of the reason it was so fast to read. It's a very short story. I think I would have liked to see the characters explored a little more in depth and less of a rush towards sex (or acts meant to be sexual). Without spoiling it, I guess I just wouldn't go around thinking this is the way things are usually done and it's probably not even the regular exception to the norm. I'm not completely mad that I paid for it, but I am a little irritated that I wasted money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not my Favorite. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004M18EDI <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fast, easy to install, replacement for a failed laptop LAN interface </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My laptop's LAN interface failed shortly after the warranty expired. Rather than replace the motherboard at about $200 (w/o labor) I purchased this and a StarTech.com ExpressCard 34mm to 54mm Stabilizer Adapter. Much faster than my 100Mbps card and an  easy install. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome Product </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-13-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've had this card for over a week now,Installed it in my HP Compaq 610 the drivers installed in less than 5 seconds (win 7), didn't need to see the included CD.I transferred many movies from the Laptop to my Desktop (Gigabyte X58A-UD3R Rev. 1.0) through ASUS RT-N16 Gigabit Router, the transfer rate had an average of 60MB/s, this is the hard drive speed limit for both the laptop and desktop.I'll update this review once I get two SSDs (one for each computer) then we'll know the real peak transfer rate. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I used this about a year before the laptop quit working </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I used this for about a year before the laptop quit working. The transfer speed was great, fitment was good, would buy another one if I did not have a laptop with gigabit Ethernet built in. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wow! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this adapter for a Lenovo 3000 V100 laptop which is about 4 years old. I installed Windows 7 Ultimate but Internet speeds were too slow with the built-in 100Mbps ethernet adapter.When I popped the card into the ExpressCard 54 slot, Windows immediately installed the driver and I was online in seconds. Speedtest.net showed the original peak download speed at 7.9 Mb/sec. With the new card I got 21.6 Mb/sec.Along with this card I also purchased from Amazon the StarTech.com ExpressCard 34mm to 54mm Stabilizer Adapter - 3 Pack ECBRACKET (Black). This snapped right onto the card and provided greater stability to the card's attachment to the laptop.Now my bottleneck is the SATA I drive at 5400rpm. I'll try an SATA II drive at 7200rpm to see what difference that makes.06/21/2011 Well, the new 320GB hard drive runs twice as fast as the old one. That's the good news. I ran a LAN speed test with a 200MB packet size and achieved 640-670Mbps (80-84MB/sec). Although this device advertises 1GB/sec, it's apparent that my laptop won't get anywhere near that speed. I also tested another (fast) desktop PC and got speeds of 500-800Mbps (64-100MB/sec). My max Internet speed is capped at 15Mbps (2MB/sec), so I'm still not sure what the bottleneck is.The bottom line: It's a great device for the money! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GIGABIT! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My old laptop didn't have gigabit but it did have an expresscard slot.  I just popped this in and windows 7 tried to recognize it. Unfortunately, it did not install the drivers. I had to go to the realtek website and find the appropriate drivers. Then I told windows to search for the drivers there. BOOM INSTALLED! I tested it out by dropping a few gigs on my server. Speeds weren't crazy good but much faster than 100mb. I think the limiting factor on my laptop is now my 5400rpm. Worth the small price I paid for this card. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Needed Gigabit LAN solution for dead MacBook Pro port... </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I tested the 3 main brands of these that Amazon stocks in my MACBOOK PRO, I did not test windows functionality.  There is a clear winner of the 3 and that is the StarTech one.  Why:  the ONLY one of these that includes a full-sized driver CD in the box.  They should know these will be used in laptops and you CANNOT put an 8cm CD in a slot-loading CD drive!  Mac drivers, tight slot connection, and having the smallest cable connection module were the winning points for me.Pro/Cons...StarTech Pros: smallest point of cable connection module, full-size driver CD, best "retention" strength in the slot, lifetime warranty, great support website, readily available MAC & Win drivers for the Realtek 81xx chip, didn't get warm at all.StarTech Cons: it is the most $$$ out of the 3, but still only 35 bucks.StarTech.com 1 Port ExpressCard Gigabit Laptop Ethernet NIC Network Adapter Card (EC1000S)I/O Crest Pros: cheapest of the 3, middle-sized point of cable connection module.I/O Crest Cons: worst support website, NO MAC DRIVER for this Agere ET-131x chip, weak slot "retention", only 8cm driver CD, gets pretty warm, only 1 year warranty.I/O Crest Gigabit Ethernet 34mm ExpressCard SY-EXP24006Syba Pros: doesn't get very warm, readily available drivers for the Realtek 81xx chipSyba Cons: 1 year warranty, only 8cm driver CD, weakest slot "retention", very LARGE-blocky point of cable connection module: it sticks WAY out & way UP makes it easy to bump & it slips out killing connection.Syba SD-EXP24010 ExpressCard 34mm Gigabit LAN Network CardI have posted pictures of all 3 side-by-side in the customer images sections, please review them for size comparisons. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Has a few problems but still does what it is supposed to. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This card does give you gigabit speed and it does so with little hassle to install. Unfortunately, I am running Win 7 Ultimate 64-bit on a HP Pavilion and if I shut the laptop down without ejecting this card I get a blue screen on next reboot. I then remove it and reboot again and the laptop boots fine.Best advice is to eject it before any shutdown and you should have no problems. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> works </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-10-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> cheap and works great! Still working after  1 1/2 years and been abusing it since :)you should get 1 for yourself </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent Performance, But Somewhat Large Exposed Ethernet Connector Outside of the Laptop </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have a Gateway M-6827 laptop that had the internal Ethernet network connector stop functioning.  Instead of having to replace the motherboard, I thought I would try this as a solution since it also offered Gigabit LAN speed for my Verizon FIOS high speed LAN.  Given the low price, I felt it was worth the risk to try it.  I also had purchased a 3 pack of StarTech.com Stabilizer Adapters (ECBRACKET2), as my ExpressCard slot is 54mm, but can accept the 34mm ExpressCards.  I inserted the Syba SD-EXP24010 into my ExpressCard and my laptop (MS Vista) recognized the new hardware, installed the drivers automatically and immediately had gigabit Ethernet connectivity to my high speed network.  The card even has the status LEDs to show activity and connectivity speed.  My only negative for the card is the size of the Ethernet connector that physically extends outside the edge of the laptop, as it sticks out 1.5 inches.  Given the low price and the high performance it is a great solution for my needs, just make sure it fits your laptop and that if you have a 54mm slot then also purchase the adapters to firmly seat the card in place in your laptop. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Handy adapter to have </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> My laptop connector works but the cable never clicks in so the slightest movement and it slips back out. Instead of going to the trouble to crack open the ThinkPad, I got this adapter. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> plug and play even in linuix </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> What's more to say?  Plugged it into my linux machine and it instantly configured and started using it.  Too bad I have to un plug and plug it in to get it working after restoring from linux hibernate.  Not sure if that is a device or linux deficiency. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> works great </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> installed on laptop running windows 7 64bit and it was detected and installed instantly. Speeds are good, no issues at all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Syba SD-EXP24010 LAN Ethernet ExpressCard/34 </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> item arrived as described and ahead of time posted.I was actually looking for this same item except I was looking for the ExpressCard/54 version since the 54mm version fits very nicely into the side of my laptop. Since I could not locate a 54mm version of this product I am very pleased with the Syba SD-EXP24010. I have disabled my onboard 10/100 Ethernet and have this Expresscard to use instead. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works as advertised </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had some special needs for a secondary network card in my laptop and this did the job just right. At no fault of the card itself I will say that some laptops will require the purchase of a stabilizer to minimize movement once installed. Again, this is no fault of the network card itself. Here is a link to the stabilizer I purchasedB007UR1PIC </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Plug and Play </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am using windows 7 and what can I say, plug and play.  I noticed that the router I connect to turns this port off now when my computer is idle or hibernating to save energy.  I assume that has to do with the ROHS compliance.  Either way it was a nice surprise.  It just works as an ethernet port should and further a gigabit port should.  Simple. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Error code 10 ? Here's how to fix it for windows 7. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The drivers from Syba, M$, and the Realtek site for this card do not work. What does work is the driver for the chipset family. This is found here: [...] . I found it by googling "realtek 8111c driver windows 7". It was the first link. After going through all the rigamarole of finding a driver that WORKS, the card is working fine. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0012XQBXY <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-05-2012  
+<h2> review.text </h2>
+
+ <p> Upgraded a Dell Dimension 1100 to a much faster speed. Made the past memory chips pedestrian. Customer extremely pleased with the new found speed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Upgrade </p>
+
+
+<h2> review.date </h2>
+  10-03-2012  
+<h2> review.text </h2>
+
+ <p> I looked every place, and always came back here. I took a chance with mixed reviews, and am very happy I did! I took my old dell B110, and took out the old ram and dropped the new ram in, and reformatted from xp to windows 7 32 bit, and now it really moves much faster. Thanks! Now the kids have more fun ,and the drivers on windows 7 picked right up and installed by itself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Much better </p>
+
+
+<h2> review.date </h2>
+  12-13-2011  
+<h2> review.text </h2>
+
+ <p> Listen. I have 3 Dell Dimension desktop computers and they were all on their way out. They had everything from redirect viruses to extremely slow everything. Bottom line I wiped them clean and installed windows 7 on them. The catch is you need at least 512mb of ram for it to work. These guys were running on a mere 256mb. It works OK with the 512mb of ram but once i ordered and installed these 1gigs....WOW. Its like night and day. Now im not saying that I now have a super computer but for what they're being used for, browsing the internet and some word documents here and there, its perfect. Hey, its better than shelling out for a whole new computer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Saved my 3 dying Dell Dimensions! </p>
+
+
+<h2> review.date </h2>
+  01-19-2011  
+<h2> review.text </h2>
+
+ <p> The Samsung memory modules shipped to me were not compatible with my computer, (as thay were advertise to be).  I have subsequently purchased similar (Kingston) memory on e-bay for less, and it functions perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dell 8300 1-gb memory expension </p>
+
+
+<h2> review.date </h2>
+  01-21-2013  
+<h2> review.text </h2>
+
+ <p> I have a client with a very old dell someone gave to them. They wanted to run win7 so I installed 2 of these and the Dell saw them fine and the new operating systen is working fine. They do what they should. Five stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked Great </p>
+
+
+<h2> review.date </h2>
+  12-17-2012  
+<h2> review.text </h2>
+
+ <p> Used this memory when upgrading a Dell to Windows 7. Upgrade went smoothly. Put a new hard drive and memory in - Windows 7 is running very nicely for browsing, email etc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good price - working fine for last 4 months </p>
+
+
+<h2> review.date </h2>
+  11-23-2011  
+<h2> review.text </h2>
+
+ <p> I purchased this memory upgrade from Komputer Bay via Amazon for a Dell Dimension 3000.  Seller delivery was timely with no problems.  The memory itself took under 10 minutes to install and it was recognized immediately by Windows XP and installed flawlessly.  This 1GB upgrade doubled RAM, and all program processing times have improved significantly.  This was well worth the modest cost, even on a seven year old computer, and I wish I had done this years ago. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked Flawlessly </p>
+
+
+<h2> review.date </h2>
+  03-13-2013  
+<h2> review.text </h2>
+
+ <p> My girlfriend works at a fast food restaurant and their store computer was S_L_O_W! XP running on 512MB of RAM is just asking to wait & wait.2 of these fixed that.The old Dell Dimension 2400 has a new lease of life,running quite a bit faster than it ever had. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Baby Bear Soup(Just Right) </p>
+
+
+<h2> review.date </h2>
+  01-24-2012  
+<h2> review.text </h2>
+
+ <p> I had to return these, they went bad a day after install. I guess that  (maybe) I got some bad ones. Buy brand name memory only. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bad memory </p>
+
+
+<h2> review.date </h2>
+  12-01-2012  
+<h2> review.text </h2>
+
+ <p> arrived quick, plugged in, turned on, was autodected & works perfect as a single MODULE. had to remove the old 1/2 gig DDR333 one, both together did post & mem test ok as 1.5 gig, but windows blue screens. This new 1 gig DDR400  is fine alone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works! </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> works, does what it does.it's rather obsolete now, but I needed it for an older computer.If you're fixing your parent's computer or something, go for it, you won't have any issues. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it's RAM </p>
+
+
+<h2> review.date </h2>
+  06-29-2012  
+<h2> review.text </h2>
+
+ <p> DIMMs arrived in good condition, the install without any problem, the PC recognized without any problems and are working perfectly on my PC under windows 7 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My review </p>
+
+
+<h2> review.date </h2>
+  02-23-2012  
+<h2> review.text </h2>
+
+ <p> I had a old dell that I rebuilt and upgraded and the memory chips did the job. The speed is up and the computer has worked great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy </p>
+
+
+<h2> review.date </h2>
+  03-12-2012  
+<h2> review.text </h2>
+
+ <p> Bought this memory for my Dell Dimension 2400 computer. After I installed the memory the computer makes a beeping sound and does not start up. I tried reinstalling and using a different slot but it still wouldn't work. I had to remove this memory for the computer to work. I've never had this problem when installing ram before. Will be ordering memory through Dell for now on. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Memory Incompatible </p>
+
+
+<h2> review.date </h2>
+  01-20-2012  
+<h2> review.text </h2>
+
+ <p> Bought these for a dell gx 260. It wasn't listed in the available models in description but figured they'd work. And man do they. These with a pny fx5200 video card plus windows seven equals very good performance at a fraction of the price. Would definitely buy from again. Came in 2 days before earliest scheduled delivery date too! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2x1gb ram upgrade </p>
+
+
+<h2> review.date </h2>
+  01-28-2014  
+<h2> review.text </h2>
+
+ <p> I am soooooo happy that i got this memory upgrade!! My grand mother's system was running so slow that you would think that it was dialup!!! My grand mother is enjoying the computer again!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Happy!!! </p>
+
+
+<h2> review.date </h2>
+  03-30-2012  
+<h2> review.text </h2>
+
+ <p> Originally received notification the product had an arrival date of more than 2 weeks out. However, it arrived in just a few days and works great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy </p>
+
+
+<h2> review.date </h2>
+  12-07-2012  
+<h2> review.text </h2>
+
+ <p> Great price and fast shipment.  This gave my old dell a performance boost that it needed.  I would recommend this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great upgrade for an old Dell. </p>
+
+
+<h2> review.date </h2>
+  02-12-2012  
+<h2> review.text </h2>
+
+ <p> This memory was inexpensive but works like a charm.  I received it very quickly and was not disappointed when I had installed it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> inexpensive, perfect memory </p>
+
+
+<h2> review.date </h2>
+  12-25-2012  
+<h2> review.text </h2>
+
+ <p> This PC3200 chip works perfectly in the older computer which requires this type. Adding the 1 GB improved performance markedly, as expected. Delivery was prompt and the chip was securely packaged. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Older memory format, well-executed </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

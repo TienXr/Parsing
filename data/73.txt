@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0043TB6HA <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-02-2011  
+<h2> review.text </h2>
+
+ <p> The Macbook cover protects my computer well.  It also looks better than the traditional black covers that you so often see. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stylish and Secure </p>
+
+
+<h2> review.date </h2>
+  11-16-2011  
+<h2> review.text </h2>
+
+ <p> Arrived on time, nice. As described, a soft cushiony zipped case for my 13.3" MacBook Air. Since the Air is slimmer than the standard MacBook Pro, there's room inside for additional items, as in my case, the power cord. You could easily slip in your cell phone or even your iPad if you have both like I do. Does have a slight plastic foam smell to it, but I had to hold it up to my nose to sniff it. Typical for a plastic product thats been packaged. It will dissipate. Zipper works fine, it opens from the short side top for easy access.  A good value for the money spent. Exactly what I was looking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> soft case for my MacBook Air </p>
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> i gave this as a gift to my GF and she loved it. I recommend it as it protects and also has some style </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great protection and pretty case </p>
+
+
+<h2> review.date </h2>
+  03-09-2011  
+<h2> review.text </h2>
+
+ <p> I purchased this for my new MacBook Pro 13".  The case fits fine, although a single zipper on the long side to one of the short sides ( "L" shape ) is more convenient instead of a double zipper on a short side.This product product is potentially a health hazard as the aromatic compounds are readily apparent as I discovered.  Perhaps it needs to air out after manufacturing before packaging or make use of environmentally-safe and human-safe materials.If you must buy this product, consider opening the package outside, letting it air out for approximately 3-4 days before use.Resources:[...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute but off-gasses VOCs for about a week. </p>
+
+
+<h2> review.date </h2>
+  03-19-2013  
+<h2> review.text </h2>
+
+ <p> I bought it for my Sony Vaio 13&#34; Touch and it fits like a dream. Not just for the Apple Mac! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love It! </p>
+
+
+<h2> review.date </h2>
+  04-17-2012  
+<h2> review.text </h2>
+
+ <p> I bought this for my MacBook Air 13 inch and it fits perfectly.. !! I like the fact that it has elastic bands inside to secure the laptop.Great laptop sleeve..!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely worth it </p>
+
+
+<h2> review.date </h2>
+  12-31-2011  
+<h2> review.text </h2>
+
+ <p> It is as beautiful as it was shown in the ad. Soft, nice, and fit very well in the laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> review of the Caf&eacute; in Paris Sleeve Bag </p>
+
+
+<h2> review.date </h2>
+  12-21-2011  
+<h2> review.text </h2>
+
+ <p> I bought this for $9.  I can confirm what the other reviewers said - it smells weird, and has weird white X's in certain places on the case.  To me, not a big deal because I just wanted a cheap carrying case for my MacBook Air.  It fits absolutely fine, so that's my main criteria.  But this is definitely one of those "you get what you pay for" bags.  Don't expect something you'll fall in love with.  But it does the job just fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheap, does the job, has some issues </p>
+
+
+<h2> review.date </h2>
+  01-06-2012  
+<h2> review.text </h2>
+
+ <p> Fits my macbook well. Good deal. It helps protect my macbook. now I can put my mac to any backpack or luggage without worries. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good deal </p>
+
+
+<h2> review.date </h2>
+  10-24-2012  
+<h2> review.text </h2>
+
+ <p> this is nice case for the macbook pro but it will not fit if you us some kind of caseand i received it with a strange mark ( X )but its a very nice casei recommend it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Solid state drive </p>
+
+
+<h2> review.date </h2>
+  10-14-2011  
+<h2> review.text </h2>
+
+ <p> This sleeve bag is quite stylish to me. fits macbook pro 13 perfectly. But there is not much protection. It certainly protects from scratch if you put it in your school bag, but it just doesn't help if you drop it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not much protection </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

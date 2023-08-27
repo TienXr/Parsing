@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 6304012462 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> THIS MOVIE IS ABSOLUTELY THE BEST OF THIS GENRE </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-13-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I first saw this movie nearly 20 years ago on VHS. I ignored it for awhile until one evening I was looking for some movies before the weatherturned bad. I picked this up and decided it would probably be a loser. How wrong I was. This movie stands out above all others in this genre. The production quality was outstanding from start to finish. I thought that I would be doing the FF thing, or just stopping it and rewinding it, instead, I watched and really enjoyed this movie. I rennted it on several ocassions afterwards, and always seemed to notice something I had missed. The VHS version was the theatrical "X" rated version, although it would probably be a hard "R" today. Have I ordered the DVD? You bet I have,as I think it will make a fine addition to my varied collection. This is really a fun & funny movie, but definately not the Alice in Wonderland for kids. I am not at all surprised to see the high ratings for this movie, in fact I would be surprised by anything less. Charlie S. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Three Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A fun adult musical. Hilarious songs and DeBell is a genuine knockout. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Blast From The Past </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ordered because I had seen &#34;Cinderella&#34; x-rated version several years ago and it was very amusing.  I was disappointed in this one - kind of the same thing over and over and the acting wasn't great.  Bought it to watch with my fiance and don't think he really liked it either as we shut it down after about half an hour to change to something else. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Colorful Adult Fun Movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-11-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The DVD contains both X and XXX versions for viewing. I enjoyed the film and thought of it as being an adult version of the novel. The film is a bit grainy at parts but overall the quality is good. Kristine De Bell does a fine acting job as Alice along with the other cast. I would recommend this DVD for adult viewing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Funny Movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> When I ordered this I thought it was X-rated version. But it was R-rated it is well done and funny. So if you're looking for a funny movie that the teenagers can watch with you this is it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Riotously Funny XXX Musical Comedy... Uncensored and Beautifully Restored </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-12-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bravo to Subversive Cinema for finally bringing this gem to DVD. And to Amazon for making it widely available. This DVD contains both the X-rated and the XXX version of this infectiously happy little porno. A true classic from the Golden Age of porn.This Alice is for adults only. The story is straight out of Lewis Carroll. Except that Alice is older. She's a small town librarian. A 20-year-old virgin and a prude. But Alice is the hottest prude you'll ever meet. Kristine DeBell was the Playmate and Playboy Centerfold for June 1976. She is the cutest little hottie, with her tiny upturned nose, petite body, all natural assets, and neatly trimmed bush (this was the 70s).After a tiff with her horny boyfriend, prudish Alice learns all about sex in her daytrip to Wonderland. Her guides are Lewis Carrol's famous cast of characters. With a twist.The Mad Hatter is a flasher with a 9-inch schlong. Humpty Dumpty falls off his wall and needs Alice to "blow" him up again. The White Rabbit is a perv who likes spying on Alice as she plays with herself. Tweedledum and Tweedledee are incestuous twins who can't get enough of each other. They show Alice how to get it on. The King's knights are Gay. The King is a Bongo playing African who speaks in painfully tortured rhyme (70s rap?). The Queen is a leather clad Dominatrix who takes a liking to Alice. And enjoys having her eat at her box. Alice is finally deflowered by the Texaco pump attendant (her boyfriend). It is a total laugh riot.It may be porn but it's not like any porn you've ever seen. With fully choreographed song and dance numbers. Broadway Style and performed with gusto. A constant stream of witty one-liners. And naked flesh galore. Don't know if Kristine does her own singing but she sounds great. Just imagine, a singing, dancing Playboy Bunny. What more could you ask for. If you want sleaze, this is not for you. It is not nasty sex. It is just pure fun. Innocent fun. Even with the hardcore footage restored it remains sweet and innocent. And the cornball jokes never stop coming. Sample:Alice eyeing the Mad Hatter's shrivelled dick with horror: "Oh my goodness... Are you alright? ... I thought I'd broken it."Scrug to a wet Alice: "We don't have any towels. We had one once but a hotel stole it away."Alice, as the Muggie licks her all over: "It feels good... If it feels good, there's a good chance it must be bad."Humpty Dumpty falls and breaks his balls and everyone sings: "He can't get his ding-a-ling up." (Song)Queen to Alice: "I don't want to cut off your head, I want you to give me some head."Alice to girl impaled on Knight: 'What's a girl like you doing on a Knight like this?" (Song)King to Gay Knight on Horseback: "Stay on the Nag, Fag."King to Alice: "May My Rod and My Staff Comfort thee."This Limited Storybook Edition DVD (30th Anniv.) contains the 72min X-Rated Theatrical cut (softcore) and the complete 81min XXX original (hardcore). It also comes with a 37min documentary featuring interviews with Adult Film practorian, Bill Margold, Porn Star and Feminist Critic, Lena Ramone and Larry Gelman who played the White Rabbit. Sadly Kristine DeBell was not involved. The films are presented in their original 1.85:1 widescreen (enhanced for widescreen TV). The X-rated version (softcore) has been fully restored and is as near perfect as you'll probably ever get to see Alice. The XXX version (hardcore) varies in quality depending on the state of each restored hardcore element. Multiple defects still remain. But it's more than acceptable. Sound is in the original Mono. Worth the price? Absolutely. Alice is delightful. It's light and breezy. It's full of fun. It'll leave you happy and smiling. It'll have you humming along with its silly tunes. They just don't make shows like these any more. And Kristine DeBell never looked more adorable than here.Note: No other Extras are included. The originally proposed soundtrack audio-CD has been axed. The Limited Storybook Edition which I bought from Amazon doesn't have any storybook. Just the single DVD.PS. Kristine does indeed do all her own hardcore scenes. All except the final deflowering. The defloration closeup uses a body-double. Apparently Kristine did sing all Alice's songs as well. An amazingly multi-talented girl. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Alice Reviews... :> </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-19-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is one in a series of reviews that will eventually be posted for every Alice in Wonderland title available on Amazon. When the Tim Burton rendition of AIW with Johnny Depp was due out in 2010 I thought it might be a good time to go back and watch the benchmark Walt Disney production from 1951, which I saw -or assumed I saw- as a child. It was a chance to get reacquainted with the many varied characters from the story as sort of a warm up for the Burton film. Upon viewing the Disney classic I was astonished to realize that I had likely never seen more than a few clips (at most) of that beautifully rendered Alice in Wonderland. So much seemed brand new. Nor did I have a memory of ever seeing any other "Alice" production. Then I realized that I had never read the book! Wait a minute. Where then did my memory of the Alice story come from? The curiosity sparked by that question ultimately led me over the next two years to accumulate every version of Alice in Wonderland still in existence. Well over 40 by the way!This general commentary continues over in the review sections for both the 1951 AIW production from Walt Disney (Alice in Wonderland (Masterpiece Edition)) and the 2010 production starring Johnny Depp (Alice in Wonderland). As these are the two most well known Alice's, rather then attempt to add yet-another-review for those two films, it seemed like it might be a more fun use of the provided space to muse a bit on the popularity and remarkable longevity of the story spawned by Lewis Carroll in 1865, as well as to share with you a bit of what I picked up while watching these 40 or so renderings of Alice in Wonderland. All other Alice productions listed by Amazon have a specific review for that title.Review of this 1975 Adult version...I think it is great that someone made an adult movie based on Alice in Wonderland. Why? Mainly because the Alice story has manifested in virtually all other formats (cartoons, musicals, plays, ballets, operas, etc.), so why not?So what are you getting into if you watch this movie? First let's touch on the sex, because that's what everybody cares about. I viewed only the harder to find original uncut version (downloaded it from Youtube). It wasn't that I wanted to see the sex per se, I wanted to see the movie the film makers intended to make. I can tell you that the sex is definitely explicit. Explicit explicit. However, these passages are not long and drawn out. This is not a porno film with some Alice in Wonderland dialog. This is a movie that has a storyline, and that storyline is a transposition of Alice, instead of dealing with the issues of growing up in general, is more specifically dealing with the issues of maturing into a sexual being. It's life folks. So yes, there's some outright porn... but in fact this production is really "erotica".The movie is piloted by young, pretty, sexy, and slightly barely legal 21 year old Kristine DeBell. She's great!An example of how Carroll's plot lines were transposed into sexual themes would be instead of Alice running in circles in a Caucus race to dry off from the pool of tears, the animals lick her dry. Ooooh.Another example is Humpty Dumpty has a broken... you know. And, they showcased Tweedledee and Tweedledum as brothers and sister in love with each other. Ha ha.The writers are clever, and they extend Carroll's tendency to play on words into the topic of the movie. The movie is actually full of humor. There are many dance numbers using actual dancers... It's a musical. A comical, sexy, musical. What's not to love?---------------All the Alice reviews in this series are on Listmania:1) Click on my user name (Everone's_a_critic)2) Click on 'Listmania!'3) The click on See 'Entire List'. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> False advertising </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> What is advertised is not in the box, I was very disappointed in this purchase.,I like collecting rare and unusual movies, but this one is badly edited  and will not make the cut. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sweet </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Even though it took nearly a month for this DVD to ship, it was worth it. This was the very first porn I had seen when I was a young man and it did not disappoint. Kristine DeBell was and still is the best Alice hands down. I was so glad to see that they added the deleted scenes and had a choice between X and XXX version.  If you're looking for an entertaining and at times funny porn, you can't lose with this one and don't worry there are plenty of close ups for you hard core lovers. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Uncalled-for sexual brutality </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-19-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This video is supposed to be cheerful and sexy but it isn't.Take for example one of the first sex scenes -Alice and Caterpillar.The man treats Alice like dirt.He is unsmiling - slaps her - pulls her hair. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Alice grows up </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-19-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> A young librarian makes a trip from a staid library desk after a tiff with her boyfriend. Being a librarian dealing with books, where is there  a better place to work out one's internal personal demons than by taking a mental trip to a wonderland of one's own devisement. Her problems are dealt with through various meetings and conversations with characters she meets in her dream of a trip. She resolves her internal difficulties to her satisfaction as we are given approximated visual descriptions of how she struggles with her problems. I am reminded of the yellow brick road. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A hisrotical document! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-14-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Well, what more can I add to the dooby's review, which is excellent (I based on it when decision on buying this DVD came to my mind)? Not that much, probably some subjective emotional expessions.When I was watching this movie I'd had a feeling that this is probably the one and only example of this kind. The movie has a funny story-line, there are music, songs and choreography, but not a single sign of what the modern hardcore production is about. There was a spirit of the time and.... it was fun!Maybe this movie doesn't offer what the modern understanding of XXX implies, but we have to understand the difference between those who went on exploring the area of adult movie industry in 70-s and 2000-s. This dramatical issue (among the others) is being discussed in "30 years of Alice In Wonderland" 37-minute-length featurette (which I think is very informative and interesting).Pure and innocent. Or maybe I am wrong? Well, watch this movie and tell why if it is so. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good adult version of the movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> this is a good adult version of the movie alice in wonderland, it getts a x rateing I dont know why I have seen films with a lot more nudity to them and other stuff then this film that didnt get a x but I may just have a cleaner version of the movie than the other. but it a good B-type movie and fun to watch. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> it sux royally!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Total sux!! All the good parts cut out!! I mean alice is cute,  but all u get is a n a... n that's itI give it a 0 starWished I knew before hand,  what a sticker it would become =P </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> it's not animated </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> when i saw the cover, front & back, i thought that it was maybe a classic porn cartoon, but i was wrong. this had some classic porn stars in it but not what i was expecting, remember that this a X-rated musical, not xxx like what we are used to seeing now & days. with that being said, it shows nudity, 60's-70's version (bush), a lot of singing, a few sex sense but no penatration shown. please keep in mind that back then, most if not all porn was very low budgeted, & the plots not all that good. it's good to watch if you have nothing to do or you're looking for some kind of erotic to watch while you fall asleep on the couch or whatever.this is not a cartoon </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Its alright, but not great </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-28-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm not fully sure why its rated X, I will say it can be consider light porn.  Its without question a different look on Alice in Wonderland.  I was hoping it was animated but its not. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An erotic, musical version of the Lewis Carroll classic, well made and vividly creative... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-18-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> A lovely librarian, played by Playboy model Kristine DeBell, falls asleep and dreams herself into a strange world filled with extremely uninhibited people... These people love to sing and dance and fool around... Alice has a series of sensual adventures among these characters...The film was originally shot as a poem to eroticism with few explicit sex scenes, which were eventually cut from its theatrical release... Videocassette versions, however, have had some of the original erotic encounters joined at the end with them...For an extremely low-budget picture, the producers of this film did an extremely good job... The cinematography is full of life and energy, the dances and numbers quite professional, and the acting lovable... Without a doubt, it is one of the best adult fairy tales around... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> FREE ON LINE </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you buy the DVD or tape, chances are you are going to get the soft porn version. During the mid 70's Drive-In porn was 90% soft core with 10% hard core. Alice in Wonderland was one of a series of fairy tale adult films that all seemed to have come out in short succession.This one was different as it starred Kristine De Bell, whose appearance in porn provided more excitement than the Ivory Snow girl. This story is about discovering yourself as an extension of the 60's sexual revolution, including the soundtrack. The lines were as corny then as they are today. Certainly details of the film are immaterial, other than that in the XXX version, Ms. De Bell does all those things you would pay to see her do including girl/girl and the oral scene with the Mad Hatter which appears as a sign claiming the scene is deleted in the soft core version.Of course some people wanted the edited version. For those who don't try Empflix. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I must have misunderstood </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'd assumed it was both the x-rated and xxx-rated version and  found out is was simply the first one - only.I'm assuming I misunderstood what I was purchasing from the advertisement on Amazon.Frankly it was my mistake and I'll do more research next time.Cheers </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Okay! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> For an ol school sex video it is alright, don't know what I was doing when I made this purchase but I thought it was gonna be something different - but it is cool for what it is </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Low budget fun! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-12-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> First, for the Alice purists, this is "Alice-inspired" rather than Alice (if you'll pardon the expression) straight up. Second, in case any doubt remains, this is for the grownups only. If seeing a childhood favorite recast as erotic entertainment offends you, you came to the wrong place.If you're still with me, you might find some old-fashioned entertainment here. This dates from the 1970s, so you'll find it very different from modern porn. For one thing, it has some vague semblance of plot. Nothing memorable, but a plot nonetheless, and even some pretensions to being a musical. For another, the actors look like actual huamn beings - I find natural busts more elegant and varied than the silicone sameness so common in more recent adult films, so that was a real plus. Most importantly, though, a sense of fun pervades that just never appears much any more. When that cheerful, consensual aspect is missing, I'm just not interested.Don't get your hopes up too far. Acting is weak, special effects aren't very special, and the sex scenes could be juicier. Despite all that, it's still good fun. And, if you wonder where the recent Burton/Depp "Alice" got the idea for the leading lady's filmy, flimsy, accident-prone attire, this might be it.-- wiredweird </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Laughed til I cried! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-19-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> First off this is an adult title.  With that being said, this movie is hilarious.  From the production value to the acting it tickles the funny bone and doesn't let up.  Even though it is a very farcical lark it surprisingly entertains until the last.  If nudity and one liners is your thing then this movie will not disappoint.  If you are looking for high production value and amazing acting you will be put out. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> sexy and fun </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-08-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Strangely sexy and innocent at the same time. we enjoyed the vision of the story, the costumes or lack of, was not really and issue. this was right out of a highschool kids dreams </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

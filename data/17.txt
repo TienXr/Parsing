@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00083KUVS <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-07-2007  
+<h2> review.text </h2>
+
+ <p> OVERVIEWI had this radio in my Dodge truck. It tucked nice under the dash and was a great performer. Power was good as well as reception. Great Buy!POWERAny CB you purchase is limited to 4 watts output power so dont let size fool you. ALL CB'S are limited to 4 watts due to FCC regulations, look it up!PRICEThe price on this site is high retail to say the least. I purchased this unit from Wal-Mart for 35 dollars.SIZEThis will not take up a bunch of in-cab space that you dont have to spare due to manual tranmissions and transfer case levers. It tucks away nice and doesnt get in the way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compact, Inexpensive, Reliable </p>
+
+
+<h2> review.date </h2>
+  12-16-2012  
+<h2> review.text </h2>
+
+ <p> This quit working after about three months. I would have expected better from a name like Cobra. Would not recommend this unit. Maybe I received a bad one, but for the price and length of time before it quit working is not worth it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poor Quality </p>
+
+
+<h2> review.date </h2>
+  06-17-2011  
+<h2> review.text </h2>
+
+ <p> It's not very loud, an external speaker would go good with it or maybe even an amplified one. It's small so it will fit anywhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Basic cb </p>
+
+
+<h2> review.date </h2>
+  05-31-2010  
+<h2> review.text </h2>
+
+ <p> I got this radio because I wanted a small cheap cb. I pared this with a cobra HG1500 antenna and cobra HG M75. The SWR are 1 from ch1 to ch40. After tunning the radio and mic it will cover 5 miles in the city so not bad, reports come back clean. The stock mic is "staticy". For a small $40 cb if u spend the time to do some work to it you wont be dissapointed but dont expect to get out 20 miles on it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good small radio </p>
+
+
+<h2> review.date </h2>
+  11-30-2012  
+<h2> review.text </h2>
+
+ <p> This unit has met all my expectations for compactness,ease of use and range. The only reason I didn't give ita five star rating is due to a design feature. Every time you turn it on it is on ch. one. Granted,it has a buttonthat will reset to ch. 9 and then 19. I would prefer to be on the same ch. it was on when I turned it off. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> inconvenient innovation </p>
+
+
+<h2> review.date </h2>
+  09-24-2009  
+<h2> review.text </h2>
+
+ <p> this is a perfect CB if your looking for a radio with PA capabilities  that is compact. most radios this size dont offer the PA capability. one consideration is that this unit does not have a scan feature. i have the ext speaker (the one for listening to the other person talk) wired to the smaller factory speaker mounted in the door of my 08 Tacoma, volume is plenty loud. my friend has an 19dx iv also and he is using the unit's integrated speaker which isnt quite loud enough when driving down the road, forcing him to turn it up to a level where the output distorts slightly. an external speaker of some sort is definitely recommended with this (and almost all) CB units.bottom line if you are looking for something cheap to throw in your 4x4 for off roading or whatever the purpose, it has the exact same "broadcast" power as units costing 3x as much; of course you give up features like weather band, blue tooth connectivity,  back-lit knobs etc. but its small, cheap and works well at what its designed to do. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Its a good CP/PA unit and its cheap </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> smaller, great display, good mic,great reception,not many adjustments on the knobs but i only use it for personal use.al </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great replacement for my realistic </p>
+
+
+<h2> review.date </h2>
+  06-30-2011  
+<h2> review.text </h2>
+
+ <p> I installed this cb in my Nissan truck for offroading and caravan communications. I paired it with a 4 foot fiberglass antenna. Installation was strait forward, i connected it to my cigarette lighter power. When powering on it defaults to channel 1. Volume seems pretty good. I can here it fine over my loud offroad tires. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> compact cb that just works </p>
+
+
+<h2> review.date </h2>
+  09-19-2011  
+<h2> review.text </h2>
+
+ <p> Good Radio, Good audio, Good TX and RX.Small enough to fit where ever you want.Using it with my power Mic and it really screams. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cobra CB Radio Review </p>
+
+
+<h2> review.date </h2>
+  07-06-2013  
+<h2> review.text </h2>
+
+ <p> small and compact, this CB fits on the dashboarde of my truck like it was factory installed...easy to install with included bracket and screws, direct ch 9, and 19 access...down the hwy and talk to the truckers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> anybody out there... </p>
+
+
+<h2> review.date </h2>
+  04-18-2014  
+<h2> review.text </h2>
+
+ <p> for the money and if your just trying to talk to your buddies while trail riding its a good unit but I wanted a better signal and able to get my signal out further it could'nt do it but the screen you have to view directly in front witch I didn't its hard to see I had it mounted on my cousel next to seat in my JK by your knee </p>
+
+
+<h2> review.summary </h2>
+
+ <p> its ok </p>
+
+
+<h2> review.date </h2>
+  03-26-2014  
+<h2> review.text </h2>
+
+ <p> Great CB...gonna use this in my jeep for trail rides, or general use.  Cant beat it for the price.  Eventually Ill get something with all the bells and whistles, but this is just what I needed </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great CB </p>
+
+
+<h2> review.date </h2>
+  08-31-2010  
+<h2> review.text </h2>
+
+ <p> This unit and many others made in the last couple of years are totally lacking in quality. I know there has been a resurgence in the use of CB radio in some areas, but to market something with an unusable signal strength indicator, poor sound quality and terrible components makes Cobra look bad overall. This radio is an entry level unit, but still lacks even basic usefulness. I could barely hear anyone, even with squelch properly adjusted. I used an older Cobra unit from several years back, (one that is all in the handset and still in production), and this one is deaf. The microphone connector is well made though. The microphone is huge, the radio itself will pick up all Rf noise from your vehicle, and the controls for volume and squelch are very hard to actually adjust so you can hear anything. I made sure to try several of these and eventually just returned them all. I only bought this since I have an all in one Cobra CB that I bought 5-7 years ago that has worked great. This model I am rating and any other in the series is not recommended. (They will be Cobra 19 and then roman numerals for models numbers.)****Get the Cobra 75WXST instead. Great CB radio there.**** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buy and older CB radio instead! </p>
+
+
+<h2> review.date </h2>
+  12-13-2010  
+<h2> review.text </h2>
+
+ <p> I had purchased this radio because of the size and the display being LCD intead of the typical LEDs for CB radios. I have to say, I've made a huge mistake in buying this radio. Here are the reason why you should not waste your money on this el cheapo radio:1-Case is made of plastic and not typical metal on most CB radios.2-Unless the radio was directly wired to the battery, it loses the last channel set during the time when you turned off the radio.3-Lack of NB/ANL makes it hard to screen out noise, and it really picks up lots of noise from your car and elsewhere.4-In a noisy environment, hard to make out the sound coming from the radio, it's also very hard on the ear. I wound up turning it off more than leaving it on, so it defeats the purpose.If you're on the market for a compact 40channel radio, consider the alternative such as the UNIDEN PRO-520XL, it has much better construction and it has the ANL/Squelch/RF Gain and has much better receive than the Cobra. I know, because I owned both radios and 520XL beats the pants out of the Cobra 19DX IV hands down. I am really hoping for all you potential buyers of this radio to consider the alternatives and don't let the looks of this radio fool you. If you're on a budget, consider the Midland 1001Z 40 Channel CB, these radios can be made to scream and you can easily full truckers making them think that you're running a Galaxy "DX" radio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Consider the UNIDEN PRO-520XL instead </p>
+
+
+<h2> review.date </h2>
+  03-30-2011  
+<h2> review.text </h2>
+
+ <p> I needed a CB for my Jeep, but I already had a Ham radio installed and there wasn't a lot of room.  This radio fit the need. I doubt you'll find a more compact radio and the sound quality is there. I purchased it with a  Midland 18-258 40-Channel Glass-Mount CB Antenna.  The antenna didn't work well at all. I then paired it with a FireStik FS364A8A-B three foot single mirror mount CB antenna kit and it works like a charm.I have an update on this radio. A friend and I have the same Cobra radios in our Jeeps. We are now routinely experiencing the same problem with the radio changing channels by itself. Normally its a one channel jump, for instance from channel 4 to 3 or 5 without user input.  I've not found anyone else experiencing this, but its frustrating.Another update: It took three weeks for Cobra support to get back to me regarding my problems with the radio. All they said was to return it for repair for a flat rate (they didn't say how much- have to recontact them for that) and then wait for another response. My friend and I are now shopping for better radios; not Cobra. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK radio - sometimes. </p>
+
+
+<h2> review.date </h2>
+  07-04-2007  
+<h2> review.text </h2>
+
+ <p> I bought the Cobra 19 DX IV for my wife's car since we needed a small radio without bells and whistles.This radio appeared to be a perfect fit for my needs. But, after using it, I am disappointed with this radio. Here's why:1. Unit resets to channel 01 when it loses power. So either wire it directly to the battery (and remember to turn it off!) or wire it to accessory power and work channel 01 every time you start the car.2. "Poppy" squelch. When a weak signal breaks the squelch then fades, the squelch makes an annoying popping sound as it squelches the audio.3. S/RF meter shows nothing (drops to zero) when squelch activates. If the squelch is set fairly high, the meter shows no signal until someone manages to break the squelch. I personally think the meter should show all RF activity whether the squelch is on or off.Hope this helps someone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Small radio with lots of annoyances. </p>
+
+
+<h2> review.date </h2>
+  11-24-2013  
+<h2> review.text </h2>
+
+ <p> For the price you can't go wrong. I had this cb in my car with a lil wilson antenna and I had great reception. The PA feature works great with the right PA speaker but I did have to replace the MIC because it broke after about 2 years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price, Cheap MIC </p>
+
+
+<h2> review.date </h2>
+  08-20-2008  
+<h2> review.text </h2>
+
+ <p> The 19 DX IV is a great little CB for the money.  Yes, like a previous reviewer said, it does reset to channel 1 each time the power is cut, but....there's an instant channel 9/19 button.  So with two little taps, your on 19, no big deal.  This is a great unit for someone who just wants a basic unit to monitor highway conditions while travelling. It's also good for someone who wants to have a CB for emergencies but wants a step up from one of those useless emergency CBs like you used to see marketed a while back.  Finally, yes, it's great for off-roaders who want a basic CB that can fit in the tight interior of a jeep or smaller truck.  As with any CB, the antenna makes the big difference.  Pair this with a Wilson Little Wil magnet mount antenna and you have a solid performing combo for routine CB use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good basic unit for the money </p>
+
+
+<h2> review.date </h2>
+  06-04-2013  
+<h2> review.text </h2>
+
+ <p> Perfect size for application.  Tucked away between Dash and Frame.  Right size, right price, functions predictably Cobra-Like... that is to say, well.  Good, clear sound, good clear modulation.  Easy to SWR. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

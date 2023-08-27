@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00C2JOLG6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-11-2014  
+<h2> review.text </h2>
+
+ <p> This stuff happens everyday... it's so nice to read a real book excellently written that has real situations.  Sometime life sucks and there can't always be a happily ever after... at least not the one you thought. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Touched </p>
+
+
+<h2> review.date </h2>
+  11-14-2013  
+<h2> review.text </h2>
+
+ <p> Such a great book! Love this series so far and look forward to the rest! I really was hoping for Luke and Tessa to work it out, but you can only deal with so much then get sick of it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love it </p>
+
+
+<h2> review.date </h2>
+  12-01-2013  
+<h2> review.text </h2>
+
+ <p> Amazing story.....sad but amazing!! Loved this series!! My heart broke for the main characters in this story. As sad as it was, it was real. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved!!! </p>
+
+
+<h2> review.date </h2>
+  10-25-2013  
+<h2> review.text </h2>
+
+ <p> I love this book like the last 2 it is a very emotional book if u do not like to cry this book is not for u but I will be reading this series again and again I love this series  and I will be sharing it with friends tessa is a very strong willed woman and very wise she is so in love with Lucas but is very unhappy  but shewould do anything for him  and I also love jade she is very out spoken and sassy and her and ryan where make for one another lucas loves tessa but he do t know how to treat her because he has daddy  issue I laugh but I cryed very hard  this book is about love and loss very great book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very emotional </p>
+
+
+<h2> review.date </h2>
+  10-13-2013  
+<h2> review.text </h2>
+
+ <p> Erm...um... I think this installment is the first one that I've really disliked, not the writing itself but more like Lucas. I mean Tessa that girl I'm not sure how the hell she does it, "I forgot it was up to me to make everything better for everyone else, except for me," she said sarcastically." Lucas good grief where in the hell do I start with his a**, this book he had me so freakin' angry and disgusted and his behavior is just unacceptable, but there were times you couldn't help but fall in love with him, "it's all yours you should just take it," he pulled her hand back to where he knew she wanted it." I mean he still has a way to get you hot and bothered, "I want to eff you right here, baby, nail your a** against the wall," Lucas growled in her ear as he pulled her to the opposite side of the pool." Now let's get to the disgusting factors, and I totally don't give two sh**s if his a** was drunk:She threw up and tried to grab a hair tie from the counter and went back to the toilet and bent over and threw up again, she felt something wet on her leg and looked over. He was pi**ing on her leg."I told you to move," he laughed.She stood up and slapped him, and he continued to laugh."Just marking my territory."Effing hog! Honestly if his sh** doesn't get worked out I'm hoping she finds someone else and makes Lucas work for it, all he has to do is say 'I'm sorry' well hate to break it to ya but Sorries sometime ain't good enough Lucas ole' boy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lucas you a**wipe! </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> Tessa is  strong but she is also very weak where Lucas is concern.  I would have dump him!  Great Book!  I love the whole series!  MJ you did it again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Get Ready to Cry! </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> Wow, what a roller coaster ride this book was.  I don't know how Tessa did it.  Lucas was something else in this story.  I don't know how you can keep saying you love someone for 5 years and go and do the tings that were done.  When these two were on they were HOT! and when they were off.  I wouldn't want to be the one their paths.  You could feel how strong their feelings were for each other.  I'm glad to see one of them grew up a little.  Even though it hurt.  Ready to see what comes next for these two. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Emotional Roller Coaster </p>
+
+
+<h2> review.date </h2>
+  05-24-2013  
+<h2> review.text </h2>
+
+ <p> How much can you love someone who keeps saying he is sorry and keeps doing the same thing again?  Poor Tessa confronts Lucas's failings.  Although it tears her heart, she has to make a decision if she is to preserve her soul and find herself.  Still love this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How much can you love someone? </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> I'm torn, a part of me had hoped she would be with Ben.  i think she needs to be strong and realize he won't change.  i can't wait for the next book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> wow </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> I have to say this book made me both laugh and cry and cry some more.  Tessa wears her heart on her sleeve and Lucas is a down right whore, he is one you love to hate.  He goes from loving the crap out of her one day and cheating the next, telling her he is sorry and Tessa taking him back each time.  Tessa dealt with so much and she still loves him.  I love all the Love Series cant wait for the last book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another awesome book </p>
+
+
+<h2> review.date </h2>
+  10-20-2013  
+<h2> review.text </h2>
+
+ <p> So far this has been my favorite out of the LOVE series, I enjoyed the relationship between Lucas and Tessa (this book really focused on them together for 5 years), I was so sad, and cried and yelled at the story. I really thought that Lucas had his head on straight, and I was so sad when he did what he did to Tessa (what Love she has for him). I really want to see them together but I also think as a woman would I want to work through what he did, and my answer is no. I know going into the 4th book that I am not going to be happy because I want them together in the end, and I know that is not going to happen. I have read the reviews on the last book already. I am going to say it now.........I want a REWRITE of the last book if they are not together in the end....I just feel that we have gotten attached to Lucas and we need to see him turn this around for her, we need to see a HEA for this story and I can't see it with someone else, just saying. Mrs. Field you may need to look at this story again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I WANT A HEA FOR TESSA AND LUCAS </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> Very heart breaking and I didn't see that coming. Why Lucus Why?!! I love this series but it's so hard to see her keep being treated so bad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lucus </p>
+
+
+<h2> review.date </h2>
+  01-06-2014  
+<h2> review.text </h2>
+
+ <p> Lucas...Love/Hate him! Tessa...how do you live through what he has done to you?  This book is so well written..I felt every emotion the characters felt.  I cried so much for the pain Tessa and Lucas were feeling. So much I want to say but I don't want to give anything away.  Supporting characters are so good.  Ben was such a great guy. I kind of wanted Tessa to end up with him but some things are not meant to be.This is book 3 in the Love Series and to get the full impact you NEED to read them in order! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome!! </p>
+
+
+<h2> review.date </h2>
+  03-02-2014  
+<h2> review.text </h2>
+
+ <p> This was such a great series. I laughed and cried.  I didn't want to put it down.  I felt like I knew the characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly recommended read! </p>
+
+
+<h2> review.date </h2>
+  04-24-2014  
+<h2> review.text </h2>
+
+ <p> Will these to ever get it together. The losses of friends ,family , babies. So sad this book and some how i keep coming back for more of these book im in to deep now to turn away </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tessa and Lucas </p>
+
+
+<h2> review.date </h2>
+  11-29-2013  
+<h2> review.text </h2>
+
+ <p> I have been reading this series and have not been able to put it down. I hate that the next book is the last but I don't know if my heart can take much more. Awesomely good seris! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> awesome </p>
+
+
+<h2> review.date </h2>
+  12-04-2013  
+<h2> review.text </h2>
+
+ <p> OH LUCAS!!! Come on why Lucas why!!! I'm having a hard time letting go of him maybe struggling as much as Tessa and I couldn't wrap my mind around if this could be a happy ending without him... matter of fact I didn't want to see life without him... even after everything. I have no clue why I would want to but I just see it &#34;Lucas and Tessa 4 ever&#34; ugh! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not such a happy ending... yet! LYA!!! </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> I have loved watching these characters grow up (or not grow up). Lucas is still a love /hate thing. Tess is such a beautiful soul. I can't wait to read the next but am sad for it to end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't stop reading </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> MJ Fields does it again. I enjoyed reading this book and look forward to he last book of the series. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love this book </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> Oh my gosh my heart broke again reading this book continuing Tessa and Lucas' romance.  The love/hate is so difficult and the pain and loss between these two is just terrible I was heartbroken.  I was not surprised by the ending and yet it isn't how the story ends...must continue to read on </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sad Love </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

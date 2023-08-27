@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B003KRP2VW <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> Creepy to think that anyone could be watching you!  It had a great twist that I think most readers will enjoy.  Very quick read as it is a single. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Freaky book </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> Great book but too short. Story was great and i was really looking forward to reading more but the book ended way too soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved the book but way too short. </p>
+
+
+<h2> review.date </h2>
+  01-11-2013  
+<h2> review.text </h2>
+
+ <p> I was expecting more than like 30 pages. This wasnt even a story. There was no point at all. Left many unanswered questions. This seems more like a clip she pulled from what could have been a good book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Eh not satisfied </p>
+
+
+<h2> review.date </h2>
+  02-25-2013  
+<h2> review.text </h2>
+
+ <p> I am never disappointed by Gemma Halliday's books.  This book delivered all the punch I anticipate every time I turn the page! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> notion is a little creepy - ie that someone is detailing everything that you do.  however like all good books it works out well for them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> romance/thiller </p>
+
+
+<h2> review.date </h2>
+  08-06-2013  
+<h2> review.text </h2>
+
+ <p> I liked watching you , it was quirky and had a few twist. This book was different from most of Gemma Halliday books. Would recommend it to mystery lovers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watching You </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> I too dislike the short novella style books.  If I make the commitment to buy the book, I expect a commitment to the readers in the form of a real story.  I have to say, this book did not disappoint.  While it was a bit cheesy at the end, I didn't mind (no eye rolls involved).  Who doesn't need a suspense story that ends up all romaticay (it's a word!!!).  If you don't- then don't read this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not long but mind capturing </p>
+
+
+<h2> review.date </h2>
+  03-31-2013  
+<h2> review.text </h2>
+
+ <p> A nice short story that seems a little predictable. The only one who is the interest rate and have lunch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watching you </p>
+
+
+<h2> review.date </h2>
+  11-04-2010  
+<h2> review.text </h2>
+
+ <p> This took all of 10 minutes to read and I paid for it!  It was a prelude at best.  I am sure the other reviews are from friends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I cant believe I paid for this </p>
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> Gemma Halliday always delivers! When I want enjoyable, escapist reading, I always turn to Gemma. The right mix of humor, tension and &#34;it could happen&#34;. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Humor and suspense </p>
+
+
+<h2> review.date </h2>
+  09-03-2010  
+<h2> review.text </h2>
+
+ <p> I've never read Gemma Halliday before, but I'd heard of her and was curious, and this short story turned out to be a great way to sample her stuff. It was really good.She pulled me in right away. The narrator is watching a woman for some reason, moment by moment, day by day, and we don't know why. He manages to be cute and not creepy during this.Big dramatic climax, believable ending with hints of happy ever after.Yeah, I'd be happy to read a full length book of it, or more stories like this one. Just the best parts with nothing extra.I'll definitely check out her other work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tantalizing, entertaining read </p>
+
+
+<h2> review.date </h2>
+  09-03-2010  
+<h2> review.text </h2>
+
+ <p> There are a few things I've learned to expect from Gemma Halliday's books (I read her Spying in High Heels series).1. Vivid imagery2. Real characters who leap off the page3. Tight writing and suspense surrounding wonderful mysteries and4. Great storytelling.This book lived up to my expectations. The fact that this was a short story only meant I could get to the conclusion sooner. :) I loved how the author made Isabella (the heroine) and Leo (her friend) come alive through the eyes of Dale. Not once were we in Isabella's mind, yet I know how she shines when she smiles and lives a lonely life, focused on work.The writing is solid, not a word more than necessary, which made for some great sentences and metaphors. I thoroughly enjoyed reading this, and clicked off my Kindle app with a smile on my face. Well worth my time and definitely a bargain for such a strong story. If you love suspense, this is an awesome read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More Than Just A Short Story </p>
+
+
+<h2> review.date </h2>
+  10-17-2010  
+<h2> review.text </h2>
+
+ <p> It should be made clear how long this story was. Not worth the money even though a cute story. this turned me off from buying anything from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Also fooled into buying this short short short story </p>
+
+
+<h2> review.date </h2>
+  09-03-2010  
+<h2> review.text </h2>
+
+ <p> I love Gemma Halliday's style of writing. It's easy and fun and pulls you in. This short was just the perfect little vacation from work. Loved it! Can't wait to read more of her stuff. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fast, fun read! </p>
+
+
+<h2> review.date </h2>
+  07-06-2013  
+<h2> review.text </h2>
+
+ <p> This was a very short easy to read mystery which some people might think badly of as it seems to read like someone stalking a young woman, but give it time and you won't be sorry. It has a surprise ending you won't want to miss. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> short mystery and intrique </p>
+
+
+<h2> review.date </h2>
+  09-07-2010  
+<h2> review.text </h2>
+
+ <p> I've read Gemma Halliday's High Heels series, as well as Scandal Sheet and Confessions of a Bombshell Bandit, and have come to expect seamless writing and excellent characters from her-and this wonderful short really delivers! I love the little bit of mystery and the great attention to sensual detail that drew me right into the story. It's often hard to satisfy in a shorter format, but this author never disappoints! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who says short can't be sweet? </p>
+
+
+<h2> review.date </h2>
+  11-28-2012  
+<h2> review.text </h2>
+
+ <p> I have read too many of these books I suppose.  They all seem to run alike after a while.  Must find a different author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Also too much of the same </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> I loved this short read. I loved the fact that you didn't know why Dale was watching Isabella until the very end! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Short Read </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> Gemma Halliday has a way of bringing you into the book so that it's easily believable at times. She adds some wit and suspense and before you know it, the book is done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A little jewel. Good vacay read </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> I loved it. Wondering what is going on, watching and waiting. You always feel emotion with her characters. I was left wishing there was more to it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gemma never disappoints </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

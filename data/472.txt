@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00GJ3CGCC <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-31-2014  
+<h2> review.text </h2>
+
+ <p> Quick read. Nice story, left some unanswered questions so I wonder if there will be another one about the sister. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beach read </p>
+
+
+<h2> review.date </h2>
+  12-09-2013  
+<h2> review.text </h2>
+
+ <p> I do not know why the author wrote this.  It leads to nowhere but the female character getting into trouble and the male character getting her out then punishing her with a spanking.  I read to 39 percent on my kindle and could not continue. I'm sorry I wasted my time on this garbage.  I do not recommend this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible, no substance </p>
+
+
+<h2> review.date </h2>
+  11-21-2013  
+<h2> review.text </h2>
+
+ <p> A hot beautifully written medieval romance!  I love this story, Natasha you are a fantastic Author.I could not put this book down, I did not want it to end.  Great plot suspense and fantasy adreamy Knight and strong willed young Lady, great character development an enchanting tale whatmore could you ask for :) Looking forward to reading about Alys. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Her Rogue Knight </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> When Gemma&#8217;s sister is kidnapped by outlaws who intend to sacrifice her because they mistakenly believe she is fey, her father enlists the assistance of Sir William, a retired knight and tenant, to rescue her. But Gemma, who IS fey, does not trust that he can do it so she sets out to rescue her sister. He agrees to take her along&#8212;provided she obeys his direction. Of course, she doesn&#8217;t, which leads her into trouble and earns her many punishments. Her Rogue Knight is a blend of medieval historical romance, fantasy and magic, spanking and BDSM &#8211; many elements that somehow flow well together. It has a detailed plot, strong characters and some pretty hot&#8212;although severe&#8212;spankings. (I&#8217;ll never think of nettles again without thinking of this story). The ending is gripping and keeps you on the edge of your seat. If I had one nitpick to mention, it would be that the language seemed too modern for the story&#8212;although all the other elements, the history, the setting, the clothing worked well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good flow, plotting and story </p>
+
+
+<h2> review.date </h2>
+  11-30-2013  
+<h2> review.text </h2>
+
+ <p> I have loved every book I have read by Natasha Knight. This book was no different. It was hot. The characters were lovable, the hero was sexy, the spankings were incredible. No surprises there. I will tell you what surprised me, the story.Not to say Ms. Knight doesn't always offer a substantial plot, but this one caught me off guard. My first impressions were- medieval knight, sassy heroine, kidnapping plot- okay, I see what's coming.No! I did not see this coming. She wraps in legends and Knights of the Round Table and mysterious pasts and supernatural powers. I was enthralled from beginning to end. I would have read this book even without the sex and spankings (although I much prefer my books with).Awesome story, and a kinky knight, what more could a girl ask for? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Come for the Spankings, Stay for the Story </p>
+
+
+<h2> review.date </h2>
+  11-12-2013  
+<h2> review.text </h2>
+
+ <p> I was on the edge of my seat during most of this book. But the last 2 chapters just weren't necessary....unless u need to read about naughty sex, and I'm always up for tht. So all in all. It was pretty good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Good </p>
+
+
+<h2> review.date </h2>
+  11-30-2013  
+<h2> review.text </h2>
+
+ <p> I loved every minute of this book. I read it in one day, though not in one sitting. (Life got in the way) Set in Arthurian times, this is a tale of old. Sir William is asked to go on a quest to rescue Alys, daughter of the land owner where William lives. Gemma is fearful that her sister, 12, will be sacrificed before William can get to her and sets off to do the job herself. What happens is a wonderful story of magic, faith and doing what is right.William has feeling for Gemma right from the start. Gemma learns to love Sir William as the story moves along. Filled with lots of spankings and HOT sex this is Natasha Knight at her best. I agree with the reviewer that pointed out the modern dialog but I preferred it that way. I also had zero problem with Sir Williams interest in her &#34;chocolate starfish&#34;. He was her senior by 15 years and a red blooded Man! This book was more of a DD book than BDsM. I also feel that the last few chapters were GREAT and added much to the story. Yes, it could have been wrapped up sooner but why? It was a relatively short book at about 132 pages so it is not like it droned on and on. I am hoping that Natasha w ill write Alys's story as the door was left open for a book 2. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> PURE MAGIC </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> This was such an awesome story- straight out of King Arthur times!I loved it!It was such a wonderful mixture of magical fantasy and medieval, and had me spellbound from the first chapter!Outlaws capture a young girl, Alys, hoping to sacrifice her for her magic. Unfortunately, they took the wrong sister.  Gemma is the one with the Fae inside her.Their father asks Sir William, a former Knight (with a secret!) to bring back his daughter, and offers Gemma&#8217;s hand in marriage in return.Gemma is a strong willed, feisty young woman, skilled at archery, and as brave as any man.  But she has to accept the help of a dominant, handsome knight, who insists on punishing her when she doesn&#8217;t behave. To make matters worse, she is starting to fall for him!Sir William is strong and handsome, and so deliciously dominant! I love a man who knows how to handle a sword, how to give a good spanking, and how to truly love a woman.  This man has so much heart!I loved the plot, the action, the fantasy, the romance, and of course, the spankings!This book had it all!I hope that there will be a sequel for Alys! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Medieval Mixed with Magic </p>
+
+
+<h2> review.date </h2>
+  11-12-2013  
+<h2> review.text </h2>
+
+ <p> Let me just start off with wow! Look at that cover! Beautiful cover that really fits the story!Okay, now back to the story! It's packed with action and adventure, a real great story line! There is never a dull moment with these two... and Gosh that Sir William is one to die for. He's sexy dominate and just so wonderful. *dreamy sigh*Okay! Fan girl moment over!This book is full of so many luscious sentences, beautiful descriptions, and alluring personalities that I could totally see this being made into a movie! The mysteries take off from there and the storyline has plot twists and turns that will keep you on the edge of your seat. Gemma is such an appealing character that you cannot help but relate to her.This is a beautiful heart pounding love story, achieving a level of romantic passion, emotion, and anguish like that of Jane Austen&#8217;s Persuasion. For me, Her Rogue Knight is like a bottle of wine or a box of really good chocolate (the really, expensive and sinfully good kind). There is an absolute beauty in this book, and it seems to lie in the details. I absolutely adored this story and cannot wait to read more about from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AMAZING! </p>
+
+
+<h2> review.date </h2>
+  03-27-2014  
+<h2> review.text </h2>
+
+ <p> Natasha Knight has an amazing ability to write beautifully flowing stories involving with alpha males. This story has a fantastic plot that complimets the story &#34;Avalon&#34;. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4.5 stars </p>
+
+
+<h2> review.date </h2>
+  12-15-2013  
+<h2> review.text </h2>
+
+ <p> In case you don&#8217;t know how I feel about virgins, I&#8217;ll reiterate that I adore them&#8212;especially when they&#8217;re masterfully defiled. So, as you might have guessed, this book contains a masterfully defiled virgin. It&#8217;s also full of adventure, mystery, and some magic. There&#8217;s a tall, dark, and brooding alpha knight and a defiant and independent heroine. This story is a must read for spankophiles, for sure. Anyone into discipline, strong heroes, and an entertaining story will enjoy this book.For more recommendations and favorite quotes go here: [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Medieval Knight and Virgin Damsel </p>
+
+
+<h2> review.date </h2>
+  11-29-2013  
+<h2> review.text </h2>
+
+ <p> I realize this was bdsm, and well prepared for that, but what I wasn't prepared for, was his obsession with her chocolate starfish, I mean seriously every single sexual encounter involved him playing with it or wanting it, I actually started to feel uncomfortable about it, it stopped being erotic, and just got weird. Also I was always under the impression that bdsm was about the man being in control of the women, well at the same time taking care of her..........yeah he just spanked her a lot and then fingered her butt, which was very painful for her, and then telling her that the next time she misbehaves it was going to his d*ck, he basically threatened to rape her! When a person knows they are the submissive, then they would be ok with this behavior, but she doesn't and this wasn't sexual for her at all!!! This book got three stars because I like the storyline, but i wouldn't recommend it to anyone because the way bdsm is used in this totally takes away from the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a little disturbing </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> Awesome story It is well written has a great plot! This book is Hot with even hotter pages  A must read but only if  you like your stories with Real Men who know just what to do at just the right time with just the right response for their lovely lady then this is the one you don't want to miss. This plot keeps you on the edge of your seat turning the pages and it leaves you filled there is Nothing missing in this story  I could not put the story down until I read the whole thing it was just to good to put down for later I had to finish reading once I started </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Her Rogue Knight </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> I've often said First Knight with Richard Gere was my favorite movie... Hello! I'm sunk, in a whole new world of Knights. Sir Galahad, I want you! I love Natasha Knight and she proved herself again in this book. The characters are very in depth, the plot is fast paced, well thought out and full of delicious spankings. You won't be able to put the book down until you've finished, and if you are like me you will be BEGGING for a SECOND one for Alys' story. If you like panty-melting erotica then this one will get you in the right spot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couldn't put it down! </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> I loved the story, & I didn't want it to end.  The story had good conversation between the 2 main characters, with the Knight saying such hot & sexy things to her, it made me wish I had a Knight of my own! The story has action, romance & some very hot spanking scenes.  I gave it 4 stars because of the scene in the woods when she was disobedient. I would have enjoyed a hot spanking scene instead of the other way he punished her. Those into BDSM will probably enjoy that more than I did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I couldn't put this book down! </p>
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> Let me start by just saying if you are looking for a great book to read then look no further, honestly.  This story grabbed me right away and never let go,  I started reading and literally did not put it down until I was finished.  I adored the romance between Gemma and Sir William (don't want to spoil anything here)and I just had to keep reading.  This book offers a great romance that is wonderfully written, Natasha Knight just keeps getting better and better :), some steamy sex, some fantasy elements which I loved, danger, love and some much deserved spankings.  Seriously I think this may be one of my favorite books ever and I will definitely read again.  Great job!!!  I received this book from Stormy Night Publications as an Advanced Reader Copy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic Read!! </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> This had everything I love in a romance,  great characters well described scenes,  romance and of course spankings.  I loved how the hero William cared about Gemma and he showed her.  This was the first book I've read by this Author but it won't be the last. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful </p>
+
+
+<h2> review.date </h2>
+  11-19-2013  
+<h2> review.text </h2>
+
+ <p> Once again, Natasha's book was amazing.  I love medieval books and this was sooooo juicy!  William is asked to rescue Gemma's sister Alys who has been kidnapped.  Gemma decides that she does not want William to rescue Alys in the morning and sneaks out of the house to find her sister alone.  William then has to rescue Gemma before he is able to rescue Alys.  And so begins their tumultuous relationship.  William is gorgeous, dominant, strict and at the same time sweet and caring.  Gemma is independent, sassy, stubborn, and determined.  They butt heads a lot in this story but the ensuing struggle, discipline, and making up is beautiful.  The sex scenes are HOT and, as is normal for Natasha, she leaves the reader wishing William was here to rescue them.  There is an element of fantasy and magic that enhances the suspense and adds to the plot.  I disagree with the review that states there was no need for the last two chapters.  The last two chapters wrap up what happened to all the characters and sets up the plot for the next book!  In addition, we get to see how Gemma and William have continued in their relationship and it ends with another fabulous discipline/sex scene.If you are looking for a historical fiction book that has romance, suspense, sci-fi, magic, discipline and super hot sex--this is the book for you!  Looking forward to the next book on Alys! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Medieval Romance </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

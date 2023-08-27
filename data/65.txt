@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00392147E <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-02-2010  
+<h2> review.text </h2>
+
+ <p> This televison replaced a 5 year old 42" Panasonic that was excellent but this one is better. The sound is so improved we dont need the speaker sound system. (It did not work with the new set anyway)The delivery system from Amazon makes set up easy. (Through Pilot Truck Lines) I used the size and distance table to get the correct size that corrected the 16ft distance we sit from the set. This helped us see small print on the screen that was worth the change.I did the 100 hour burn in I copied from reviews and now I mainly use the default setting in the menu except my old eyes like the vivid screen that makes a brighter screen. Lastly, we love the blueray (Netflic) feture. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Panasonic TCP54inch Plasma HDTV </p>
+
+
+<h2> review.date </h2>
+  07-31-2010  
+<h2> review.text </h2>
+
+ <p> I also did a lot of research before I purchased this TV (got it to replace a 720p Mitsubishi DLP).  Set-up was a snap, I plugged it in, set it to THX, and threw in a blu-ray.  One word, awesome! The colors are phenomenal and the black levels are far better than most LED/LCD screens.  The anti-glare is fairly good too.  I don't really notice the windows in the background anymore.  I have it hooked up via HDMI to a cable box, PS3, and a HTPC with bridged internet connection so I can use the Viera cast as well.  All work extremely well with this TV.  I highly recommend it and the other more detailed reviews here say it all.  If you have any questions feel free to leave a comment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  02-10-2011  
+<h2> review.text </h2>
+
+ <p> This tv is a great product. We have an "older" (3-yrs old) 50" Panasonic Viera that we love, but not this high of quality. This is exactly what we were looking for when shopping for a tv. One major setback - the remote sensor is in the middle of the tv, so our surround sound mid speaker no longer works since we have our tv on a tv stand. Our old Panasonic had it positioned to the side and out of the way. Which, makes me question, because most people who have a tv of this size have surround sound.They've also moved the input locations from the middle (at back) to the side, which is awesome. Much easier to access. Tad bit harder to hide the wires, but nothing a few wire ties can't take care of. Would absolutely recommend this tv. Great picture quality, and we have all of our other systems Panasonic. Extremely easy to use.THX mode is perfect, and doesn't seem to need adjusting. Panasonic makes quality tvs and we will continue to purchase.Went back and forth on either this one or the new 3d Panasonic, but ultimately chose this because of the price of the glasses you must buy with the 3d tv. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TV display exactly what we were looking for </p>
+
+
+<h2> review.date </h2>
+  10-03-2010  
+<h2> review.text </h2>
+
+ <p> OK, this is my first big screen TV since my rear projection monster bought in 2003. I've been studying the market, and had decided on the new Vizio LED XVT553SV 55" The reviews were compelling. I shopped the prices, and found the best deal at COSTCO (remember the 2yr warranty). On a lark, I stopped by Ultimate Electronics, where they have the best display of HDTV's I've ever seen.  Virtual walls of every brand and type you can imagine. Long story short, I was able to compare the Panasonic next to the Vizio, and was very impressed by the quality of the plasma. They said plasma was dead, and I believed them, until I saw the LED and plasma side by side. Additionally, it was $250 cheaper. That was all I needed to make my decision. Setup was a snap, and the picture does not disappoint. Just finished the burn in period, and colors will impress anyone. Strongly suggest you use a clean power filter because there is a big difference in the quality of the picture.  Anyway, I'm all thumbs up for plasma.  Don't believe everything you read, till you've compared yourself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW!! </p>
+
+
+<h2> review.date </h2>
+  02-25-2011  
+<h2> review.text </h2>
+
+ <p> This tv has gorgeous blu ray picture, absolutely phenomenal. Until you realize that when a conversation is happening between two characters and the camera flips between the two, the tv tries to enhance the blacks by adjusting the overall black level on the screen. That'd be fine if it was instant, but there's a delay and it's the most aggravating thing ever. This is even worse when watching a movie with black bars on the top and bottom (yes, they are still there on a widescreen tv) and the black bars flicker with the black level adjustments. The base is 18" deep and dominates any space you set it on. Viera cast is ok, but the transfer speed is slow enough that panning scenes cause jerky movements that become nauseating after 3 minutes. If you can hardwire it with an ethernet you're probably going to be ok. Standard def tv is sorta lackluster too, but the tv can't just make the stream have more data to display so it's sort of a "crap in crap out" kinda thing. The remote can only control panasonic devices (can't program it to be a universal). Inputs and outputs are pretty good though and the SD card slot is kinda nice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great picture until.... </p>
+
+
+<h2> review.date </h2>
+  11-03-2010  
+<h2> review.text </h2>
+
+ <p> Plenty of reviews on this item, so I won't go into too much detail here on features, etc. But the one main issue I have with the display is a buzzing sound from the back of the unit. Some don't here it at 10 feet, but I do when the volume is low. I rarely, however, watch content with the volume low so it's not much of an annoyance other than knowing it's there and hearing it when browsing menus.I've gone through 3 of these - 2 from Amazon, one from another local source, all of which had the same, audible buzz.THAT ASIDE, it is hands down, the best display for the money. In my opinion, LCD/LED displays suck compared to this display. The image is gorgeous and far outweighs the buzzing issue.I am also at about 5,500 ft in elevation, so that may add to the buzzing issue.Buy it. It's  *almost* perfect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ordered 3 of these - all have a slight buzz </p>
+
+
+<h2> review.date </h2>
+  12-29-2010  
+<h2> review.text </h2>
+
+ <p> This TV was a bargain (w/included Panasonic sound bar & Kelton woofer). Stunning picture & sound and the set-up was easier than I ever expected, so simple with the HDMI cables. The best $1350 I ever spent for home entertainment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantasic TV </p>
+
+
+<h2> review.date </h2>
+  08-06-2010  
+<h2> review.text </h2>
+
+ <p> This is my first HDTV, and I purchased it through Amazon.com, as they had the best price and customers generally had good reviews on delivery and returns.We had an issue with the delivery, as we waited two weeks for the next available date. For their "white glove" delivery service, Amazon contracts it out to 1-2 freight companies. The day of the scheduled delivery, the shipping company called to tell me that that there was a snafu, and the item had not arrived in their Edison, NJ offices. However, Amazon's online information reported that the HDTV had been sitting in Newark, NJ, waiting for the scheduled delivery date. No one I spoke to at the shipping company could explain why the HDTV was mysteriously reported as sitting in Newark. I've always appreciated all the tracking information available that Amazon provides for shipments, but this time the delivery information was completely off. The HDTV was eventually delivered the next day (Saturday.) The delivery men were fine, and upon my request, opened up the box, installed it to stand, and made sure it was working properly. I tipped them, and they were off.In the past month with the television, it's been pretty good. We're in the break-in period, so I'm watching tv using the dimmer THX mode, and avoiding watching SDTV as much as possible. This is a 54" television, so concert footage and movies (and HD versions of television shows) look practically cinematic. Using a PS3 to watch Blu-ray discs and upscale DVDs, movies look great.I did a lot of research on HD TVs, and it was a toss-up between Panasonic plasma technology and Samsung plasmas or LCDs. I've always been partial to plasmas for the response time and black levels, and I've seen some terrible over-processing of video on LCDs. In the end, in spite of Panasonic's problems with black levels on 2009 models, I jumped in bed with a Panny. I'm hoping that if I keep honest during the break-in period, I won't adversely affect the black levels prematurely.For the console gamers out there, as I mentioned earlier, I have a PS3. The response time is great, and haven't noticed any lag with action games.I will make one note for readers here -- There's a lot of talk about a noticeable buzz on Samsung plasma TVs, and it's a dealbreaker for some customers. I checked out a Samsung plasma at a Best Buy, but couldn't hear a buzz. In the 4 weeks that we've had this TV, I've noticed a buzz. It's not as terrible as reported for the Samsung plasmas. I use a recently purchased Pioneer AV receiver and surround system when watching tv and movies. If you keep the volume at normal listening levels, you won't really hear it. I'm pretty sensitive to that kind of stuff, and it doesn't bother me. If the volume is low, and a bright white screen comes up, the buzz is audible. Again, it's not as bad as people have reported on Samsung plasmas. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I recommend the Panasonic TC-P54G25 54" HDTV in spite of shipping problems and a slight buzz </p>
+
+
+<h2> review.date </h2>
+  07-24-2010  
+<h2> review.text </h2>
+
+ <p> We looked at LCD, LED and Plasma was still the best looking for high speed action-and the new burn-in prevention features sold us. Great service and delivery. Great picture!!! Does help to turn down the sharpness as the other reviewers say-the resolution is so fine already the default 75 is not needed. The 75 setting can create some grain with a less than true HD signal. One other thing I noticed-many reviewers say to use THX setting during burn in-but the THX setting is also trying to change the frame rate. This leads to annoying edge signals with standard def signals broadcast in HD. For example try putting on Directv Boomerang HD-with a low def broadcast-like say "Thundarr the Barbarian" and you will see some fuzz at the top of the screen. Flip THX off this goes away. This is not from the standard brightness and sharpness settings. Notice there is more than one page of settings when you change modes. Scroll down. In some of the modes the real changes are taking place on page 2 with color temp and noise reduction etc. So if you want to lower setting for burn in-just goto Custom or Standard and change the brightness etc. there on page 1. If you do want to mess with color temp etc-its neat that when you select these advance options for tuning-the rest of the menu goes away so you can see what the setting is doing to the picture a lot better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Plasma Yet </p>
+
+
+<h2> review.date </h2>
+  10-02-2010  
+<h2> review.text </h2>
+
+ <p> I just got this TV this week but so far I am very happy with it. The picture quality is great, it will blow you away. I was a bit concerned about buying this big of an item  online but everything went just as smooth as could be. Amazon was very helpful and the Pilot trucking company was wonderful as they were very fast on the delivery, called ahead of time and gave a time estimate which was honered, driver removed the TV from the box and we hooked it up and checked it out, I am sure he didn't have to do this but it was very nice of them to do so. I am so happy with this set and knowing Amazon will take care of any problems in the 30 day period makes me feel very confident in the decision I made to buy this set from them. I had a JVC Ilda set before and there is no way to compare the two as this thing is so vivid and I now have the contrast and brightness down for the breakin period. So far I have not seen one thing about it that I don't like and Panasonic overall has a very good track record. I am not a LCD fan, (high cost) and I am not sure any lcd can put out a picture like this thing. I know many like LCDs and that is fine but for me this is the only way to go. I have done much research online on this set in many diferent HD forums and after sorting out the people that try to make something out of nothing I am very confident in this TV. I have yet to checkout all the different things this set can do but I will soon and if my opinion changes in way I will post it. I tried the Viera link and it is pretty neat I am sure that I will be renting many movies over the internet from Amazon. The Amazon customer service has been one of the best that I have experienced from any company and they will be the first place I look from now on for my shopping needs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazon and TV are both great </p>
+
+
+<h2> review.date </h2>
+  10-15-2010  
+<h2> review.text </h2>
+
+ <p> I got this TC-P54G25 TV with the free and scheduled delivery four days ago from Amazon.com. So far the TV looks great although it doesn't seem to out-perform my other TV, a 2-year old Sharp Aquos 120Hz LCD 52-incher. Maybe the Panasonic is not fully broken-in yet. I do want to make some comments about how this new TV was delivered.When I ordered my Sharp TV from Amazon.com 2 years ago using the same free delivery service. The courier company sent 2 guys in, and they opened the box, assembled it, placed it on the TV stand, and tested it. Everything was A-OK. It was smooth and I never had any problem with that TV since (knock on wood). So when I ordered the Panasonic from Amazon again, I kind expect to have the same quality service. But, this time only one guy came (from Pilot), and I could see from the window that he handled the TV box (big and heavy) very carefully, but still saw the TV landed a bit harshly on the groud from the tall truck. I almost ran out and demanded for a replacement. But, what's the point? This was what I saw, and there could be numerous harsh landings on its way here that I didn't see, and perhaps the box was designed to absorb impacts better. There're quite a few complaints I saw in the Amazon.com reviews regarding DOAs or products with extremely short life. Maybe that has some to do with the bare bone delivery services. By cutting cost, Amazon may end up spending more on prduct exchanges and returns (a statistical analysis correlating product returns, types of delivery, and costs could be helpful). The delivery guy is very courteous and pleasant, but said he couldn't assemble the TV for me, citing and showing me the delivery contract. It'd be such an inconvenience, especially for one-person households for there's no way one person can assemble this huge TV alone. Come on! Amazon, you can do, and actually did, better than this!One final comment: the cliche that 'you wish you could have gotten a bigger TV' is really true. I should have ordered the 58-inch S2 model. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Potential Delivery Issue </p>
+
+
+<h2> review.date </h2>
+  11-26-2010  
+<h2> review.text </h2>
+
+ <p> The colors on this tv look great with really dark blacks, and I like the size.  However, I do have two complaints about this tv which seem to be common among many plasma tvs.The first complaint is that the screen is very glossy.  Therefore, it reflects a lot of light and creates glare so it is necessary to light the room appropriately and/or block light from windows if you are going to look at the screen for a long time.My second complaint is that the tv makes a faint buzzing noise.  I had read that plasma tvs often have a buzzing noise before I bought the tv, but the buzzing noise is louder than I thought it would be.  I think this will not be an issue for most people since there is no buzzing that is really noticeable with colorful moving pictures and sound like one experiences when watching tv, movies, or playing video games.  However, if you hook a computer up to the tv and browse the internet like I do, then the buzzing becomes quite noticeable.  The buzzing also seems to get louder the brighter and whiter the image on the screen is.  Once again the buzzing is usually only noticeable when viewing white backgrounds with black text and no sound, but it is more noticeable than I thought it would be.I would say this is a very nice tv overall.  If I were to buy a different tv knowing everything I know now, I might buy an LED tv instead, but I'm not sure.  I know that LED tvs have their own set of problems such as "blooming". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very nice tv, but has some of the problems that plasmas have </p>
+
+
+<h2> review.date </h2>
+  09-20-2010  
+<h2> review.text </h2>
+
+ <p> I don't normally do a review but this tv blows me away! We got the free delivery. Yes, it took a while for delivery but they were very patient to let me check it for damage and even let me connect it to power and cable before me signing off on the delivery bill. I would definitely order through Amazon again. Now to the tv itself: After the initial break in time of 100 hours (of which the picture is not bad even then) the picture is absolutely stunning. Add a blu-ray player to it as we did (initally got the LG top model but had to send it back,kept locking up and replaced it with the Panasonic top model and love it BTW!) and it is out of this world fantastic picture! All the colors are so rich and the black is so deep! I almost got an LG tv model but glad I didn't due to glare problems with it that I read about. Not a problem with this baby! I would definitely buy this one or a smaller version of this one if I need another one in the near future. So don't hesitate to buy this one if you are looking for the best in a big screen tv. I researched a lot of models before buying this one and couldn't be happier! Oh, be sure and get HD on your cable for full enjoyment of the tv's capabilities. You won't regret it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TV is Just WOW! </p>
+
+
+<h2> review.date </h2>
+  12-05-2010  
+<h2> review.text </h2>
+
+ <p> I have spent hours at best buy looking for the best picture, comparing all brands LED LCD, with 3D even. Narrowed it down to Sony, Samsung, and Panasonic. Money was not so much of an issue, I simply wanted the clearest, lifelike picture out there, which could handle fast motion, produce best blacks, and output brightest colors. This TV was it. The price for this size, UNBEATABLE. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> After hours at Best Buy, Panasonic won my eyes. </p>
+
+
+<h2> review.date </h2>
+  02-14-2011  
+<h2> review.text </h2>
+
+ <p> The 54" Panasonic TC-P54G25 TV lived up to its reputation and reviews.  The TV works very well with excellent picture quality.  My living room is very bright with many windows and I was concerned about buying plasma TV.  However, I haven't seen any problems with viewing the TV and the picture appears sharp.  No problems with the reflections.  I highly recommend this TV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent 54" Panasonic PlasmaTV </p>
+
+
+<h2> review.date </h2>
+  05-16-2011  
+<h2> review.text </h2>
+
+ <p> This review summarizes the key points from my TV purchasing/installing experience:1. CAREFULLY FOLLOW THE DIRECTIONS ON OBTAINING THE FREE SHIPPING VIA CARRIER - DO NOT CHOOSE THE SUPER SAVER SHIPPING OPTION!  I had to cancel my first order and reorder it to get the free carrier service scheduling window to pop up.2. It is most likely that Saturday and evening deliveries WILL NOT be available in your area - it was not in mine.  Additionally, "first floor" delivery service is all the carrier would provide - no in-house delivery or setup was available.3. If you buy a low profile or tilting wall mount, you MUST buy a right angle SWIVELING HDMI connector to connect to the TV.  A non-swiveling HDMI right angle connector is OK as long as you get the right HDMI "smile" orientation.4. The universal sound bar mounting arms from Amazon are a must for mounting the Panasonic sound bar to the TV.  The arms worked out extremely well.5. Make sure that you connect the sound bar HDMI cable into the #1 HDMI connection, which enables the Panasonic VIERALink to work seamlessly and control the sound bar completely.  This was mentioned in another review, and it was correct.6. Your home owner's insurance may NOT cover custom 120 VAC wiring solutions within the wall.  I did not want to hire a licensed Electrician, so I ran the power cables outside of the wall using the white Monster cable-it kit from Amazon to cover my two power cables running down my white wall, and it looks great!7. Don't forget the surge protector power strip, and a separate surge protector for the sub-woofer.  The sound bar and TV plug into my surge protector strip, but the sub-woofer is a distance away, and could not reach it.  Hence the need for the separate surge protector.  The average power cable length for each of the three units is about 4 - 5 feet, so plan your locations accordingly.8. The Panasonic soundbar with separate sub-woofer DOES have a sub-woofer adjustment capability using the supplied SOUNDBAR remote!8. A Hydra cable box is more than capable of driving an HDMI signal through a 10 meter long HDMI cable - just expect a high quality cable of this length to be much thicker than a &lt;25 foot cable, and not very flexible!  I ran the 10 meter cable from my basement gameroom up an exterior wall to the new TV, which was a total of 27 feet.9. The Panasonic dongle works fine at a WiFi distance of 30 feet through standard house walls.  NetFlix and Skype directly on the TV!10. It took me 30 hours to lay out the TV and mounting location, install the mounting bracket, run the cables, install the TV, and set up everything.  Proper planning enabled me do it right the first time, and it worked out well!And finally, THIS TV IS AWESOME!  I extensively researched LED TVs, Plasma TVs, and LCD TVs, and this was the best picture and value.  Together, my Panasonic plasma TV, Panasonic soundbar with sub-woofer, and Panasonic dongle, all purchased from Amazon along with all of the accessories from Amazon worked out extremely well, at what I consider a bargain price.  I shopped around for a month at BB and others, and saved about $300 over the next best package price.I hope that this helps with your purchase and installation! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Complete TV Experience </p>
+
+
+<h2> review.date </h2>
+  01-30-2011  
+<h2> review.text </h2>
+
+ <p> I put this tv through its paces for about a month and I opted to send it back...which is a first for me.  I never quite captured the crisp image that others claim they experienced with this tv.  Could be that it was just the way my Panny was destined to be.One nice thing - the blue-ray discs that I tried were impressive and Avatar was very, very nice.  However, watching DishNetwork digital channels just never made the cut.  Honestly, after sending my Panny back last week, I went back to my watching my Pioneer 720p Kuro (I have both a 60 inch 1080p Kuro and the 720p 50 inch models) and I have to tell you I am much more impressed with its picture quality than I was with the Panny - I think that says something.  And the Pioneer is three years old!Amazon's return policy and people are great...so far.  I am hoping that I owe nothing upon the return of this item, but I think (I have a feeling) that Amazon may try to nickle and dime me when it comes to the return....like the free shipping will now be charged to me, etc..  We'll have to sit back and see.  What I was told when I bought the tv was that there was absolutely no risk what-so-ever for me...that if I decided to return it, that Amazon would cover all of the charges and I would owe nothing.  Again, we'll see what this return will costs me...if anything.Roger </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Quite.... </p>
+
+
+<h2> review.date </h2>
+  12-20-2010  
+<h2> review.text </h2>
+
+ <p> I am a user, not an engineer, so this is a consumer's viewpoint. My wife likes the over bright / over sharp LED sets and I like Pioneer plasmas. We both like accurate colors, good blacks and fine details. We operate on the "gut" level.Over the past 19 days I have had the good fortune to have both a Panasonic 54G20 and LG 50PK950 in my living room.Panasonic 54G20:(G20) First in the room. The box was very well designed and building the set took only about 20-minutes from the truck to warm-up. This set does not have a rotating stand (a problem in my installation because we have a large window and 3 sitting locations) but the base does a very good job at concealing the wires. The locking power cord is a tell that Panasonic has engineers who build commercial TV equipment. Program setup was simple and the initial software update went without a hitch.Not really a bad thing, just an observation: This set looks and feels like a minimal plastic appliance. A spare, though not unattractive, design that gives a plastic and sheet metal hollow drumming sound when handled.54" is perfect for my installation and Panasonic controlled reflections very well. This was important because one wall is an 18-foot window. Afternoon sun would still wash-out the picture but it would be a rare set that could survive that effect.I used the THX picture setting exclusively for the G20. The panel has excellent resolving power and its finely detailed picture is glorious. Color showed the tiniest hint of green in skin tones on the fill light side but I didn't try to tweak it out because this set did not seem to allow enough adjustment to address this tiny issue. Both my wife and I found this picture very satisfying. Subjectively, we agreed the picture was about an 87.We are tough graders.Judder. That one word says it all. The panel had an excellent picture but the video processor did nothing to control judder. It seemed this showed on every thing I watched but I didn't take notes. Simply said: pull down was not good with film. This was not a problem with media recorded on NTSC (video) but on film transferred to NTSC using pulldown it was obvious. I didn't like it but, shrug, the picture was soooo good. The first domino has fallen.Buzz - Pandora. I am 57 and my hearing has been impacted by motor city rock, motorcycles, and shooting on air fields. I can always hear a bit of a buzz because of tinnitus. I should not note more in my quiet living room. The G20 added buzz from, I suspect, its power supply. This was most noticeable when the screen was generating light colors: the more colors, the more buzzing. Our primary seat was 13 feet from the set so I was a bit miffed when this was obvious while listening to Pandora, an audio experience. Panasonic did not consider this when designing the Pandora light blue interface. Worse, the screen saver resizes and rotates the Pandora screen after a few minutes so the buzz comes and goes.I called Panasonic and asked the chances of getting this eliminated (because I love the picture) but the very supportive operator said "all plasma sets buzz." She offered a repair but I declined since the set was new. My thinking was once opened the set is forever yours.Reflections: Very well controlled for a plasma. Good work, Panasonic.Other items.-Just enough widgets on the G20. Pandora, Netflix and Accuweather were the only ones I use and this set had them.-The Panasonic remote controlled my hidden Sony BX Blu Ray player; that was a nice surprise.-USB keyboards are supported and the set will record "over the air" materials.-Grand kids love to hammer on big panels.Ok. I was worried about the power supply over time and my wife was worried the buzz would become worse and I would start baying at the moon. I ordered the LG 50PK950. (LG)LG 50PK950. Taking a step down in size for a set I could not return was a gamble. I read online and found a demo set locally but you cannot tell much in a BestBuy show room.The LG came in a crumpled box that looked like Columbo's over coat. The styrofoam packing was broken and there was a suspicious white area on the bottom of the set (by the speaker) that COULD have been damage. I took pictures and called the delivery company...just in case.Second impression: This set is wows where the G20 was cheap. The large glass panel looks like it can handle two or three grand kids on a coordinated attack. I was not impressed with the packing tape applied to the coated glass panel but, other than the poor packing materials, this set inspires confidence.Setup was not as easy as the G20. The set had to be laid down on its screen &lt;gulp> and you build the rotating base on the bottom of the set. I actually had to elevate the screen on pillows to make it work. I did it by myself and was a bit worried but, here is the thing, the LG is SOLID. I suspect LG may have been making a statement about how solid with the base construction. Cable management was not as easy as that provided by the G20 non-rotating base. Initial programing was as easy as the G20 and network setup facilitated with the FREE WIFI stick (Nice touch) but the initial software update was a bit of a fail. I had to spend about 30-minutes restarting the update because it would time out. Failed software updates are not comforting.At this point I noticed the G20 was a good basic panel and the LG was a attempt at delivering a feature rich set. Unfortunately, much of the extra just felt ill considered. I do not want to digress too much on this but I will mention the Wiimote controller. It works great but you will find yourself reaching for the standard controller since support is not universal. Little things make one scratch in puzzlement.In its setting the set looks good on the stand: ultra-modern to the G20 and its decor neutral. That said, the LG leaves a hint of the wires and the end table now has a 3-remotes to the one needed for the G20. (2)The LG needed tweaking where the G20 was perfect with THX "out of the box." Here is the thing: you COULD tweak the LG. I didn't like the LG picture when comparing it to the G20. It seemed soft and, strangely, over sharp all at the same time. So, I compared Flatpanel's and cnet's settings, noticed they were identical, and applied them to my set. (3) Everything, except the black level, was easy to adjust. Black level was grayed out; automatically on "Auto." I read that the black and white levels were a bit flakey so perhaps LG locked this adjustment on the least troublesome option?With these settings the picture rivaled the G20. Safe to say the blacks were close enough that one would not notice a difference without a side by side. I have read about a blue cast in the blacks but I did not notice this issue. The shadows were detailed but a bit less than the G20; again, you would not notice unless doing a side by side comparison. One thing that was striking, for me, was I could never get my wife to say the picture on the LG was as good as the G20. We agreed on this impression but did not know why. The LG does not resolve detail as well as the G20, the colors look a bit enhanced compared to the G20 with its accurate rendering. (4) I suspect all these little details added up to influence our perception. We gave the LG an 77 (wife) 82 (me): she viewed LED sets that rivaled or bettered the LG and I have not.Judder: This set rarely shows judder (but I have noted it in Netflix) and I have not noted flicker.Buzz: Yes Virginia, Plasma has a buzz. However, I could hear the G20 from across the room. It was tough to run the Pandora test, failed by the G20, because the LG didn't have "an app for that." I ran my panel break-in video (5) to find I had to put my head behind the LG to hear the buzz. (I decided it was ok since it is hard to watch a TV with your head between the back of the set and the wall)Reflections: This set does not handle reflections as well as the G20 but I could rotate the stand to negate the difference.Other items:-Many reviews noted Bluetooth support but according to LG Bluetooth is not supported on their sets. If it is supported, I could not find it.-The remote only controls LG components and the controller functions change from feature to feature. Back does not always go back, menu does not always give a menu and exit does not always exit. Frustrating and confusing lack of effort for such an elegent set. Oh, and the Magic Remote does not work on all the TV functions so you end-up with 2 or 3 remotes to watch a movie.-Missing 2 of my most used widgets. (Pandora and Accuweather)-In theory, the 50" LG uses more energy than the 54" G20 but the LG can shut down the panel for audio programs (using only 25 watts) and the G20 cannot.SUMMARY: I am taking the Panasonic back today. Although I thought a TV would be all about the best picture, the G20 has 2 distractions that pull my attention away from the story: buzz and pervasive judder.(1) Sources: Netflix widget (Stargate Universe), DVD (Snow Falling On Cedars), DTT (Digital Terrestrial Television). I did not have Blu Ray material.(2) The LG remote only works with LG equipment. The G20 would control other equipment via HDMI.(3) cnet settings: [...] threads.(4) Reviewers have noted the LG has an issue accurately rendering cyan: it has too much presence. I agree.(5) Plasma Break-in video - [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful Picture; However... </p>
+
+
+<h2> review.date </h2>
+  06-22-2010  
+<h2> review.text </h2>
+
+ <p> After spending a couple of weeks seriously researching tv's, I decided I wanted to go plasma.  I weighed the options of LCD, LED-LCD, Plasma and DLP, and concluded that all along I've wanted Plasma.  Friends and acquaintances tried (hard) to convince me that LCD or even LED was the way to go...especially in my living room with 3 windows.  I spent many hours trying to convince myself that LCD was what I wanted, but no matter what, I always came back to, "...but with Plasma, I can..."  Thus, the search began for the Plasma that best suited our needs.I considered LG (PK750/950), Samsung (C550/590) and Panasonic (S2/G25).  I knew going in that Panasonic was the brand to have (some might argue) if you want Plasma.  Given their purchase of Pioneer's Plasma tech in the last year, I figured they'd be a lot more expensive than the price I paid.  LG's looked great, but although slimmer, were priced a little higher and had a major glare issue.  Not for us.  Samsung is leading the way in tv tech.  Their LCD's are top-notch (from what I've seen), so I figured their Plasmas must be close behind.  They looked good, had good specs, but 2 things kept me from Samsung - Glare (not as bad as LG, but not as good as Panasonic) and Buzz.  So many people complain about their Samsung Plasmas making loud buzzing noises.  I didn't want to take a chance and narrowed it down to Panasonic.  There's about $400 price difference between the S2 and G25, and before yesterday, only 2 reviews existed on Amazon for this tv and both were not-so-good.  But I made the decision to go with the G25 and I couldn't be happier.  On to the review...I purchased from Amazon for almost $250 less than Best Buy's "on sale" price, saved on tax (about $150) and got free shipping.  Amazon contracted Pilot freight to deliver my tv and they did a great job...especially for free shipping.  Wasn't white glove, but the delivery guy was well within the time frame, friendly and put the box exactly where I asked him.  I opened the box and there stood the largest purchase I've made in quite a few years.  I thought the tv stand I had would suffice for this, but it is a little larger than I thought, so we need to shop for a new tv stand.  The pedestal the tv comes with is solid - wide base and has two posts on each end to support the tv.  Eight screws later, the tv is mounted on the pedestal, sitting on my now-dwarfed tv stand.  I didn't have any HDMI cables at that moment, so I hooked up my antenna and ran a quick setup and tuned in to the lcoal digital channels.  WOW!!!  I'm not sure I've ever seen a tv display look so good.  I've always been in awe of my friends DLP and LCD tv's, but from a not-so-great antenna signal, our tv looked way better than theirs.  I purchased HDMI cables last night and hooked up the satellite receiver and my PS3.  WOW again!!!!  I've never seen a movie, game or tv programming look so clear with so many colors and black blacks...not like the LCD we have upstairs in our room.  I switched the tv to THX setting and to my untrained eye, it looked liked a well-calibrated tv.  I softened the contrast, brightness, sharpness, etc down to 50, as Panasonic and other tech-ies recommend a 100 hour "break-in" of the tv.  So I'm gonna be cool with it for a week or two and then modify the settings more to my liking.  The frame of the tv is black, and one of my two least-favorite parts of the tv.  It will definitely retain a lot of fingerprints and smudges, but I figure once the tv is on a new stand and placed where we want it, there will be no need to go touch the tv except to dust it off.  There are 3 HDMI connections (2 back, 1 side), 2 component connections, SD card slot, USB ports and an ethernet port.  Plenty of connections to do what you want...although my second least-favorite part of the tv is the fact that the Digital Optical out only sends out a PCM/Stereo signal to my audio receiver, not Dolby Digital 5.1.  Only what is being pulled in from the OTA tuner will be sent DD/5.1 if available.  From what I understand though, all tv's do this, not just the Panasonic.  The remote is handy, has a "light" button and lights up almost all the buttons in red (helps in the dark).  The menu is not too complicated to navigate through and use.  The speakers a just ok, but I am running all sound through my reciever and speakers.  The screen is large and does and excellent job blocking out glare.  The display is crystal clear and like said earlier, the tv produces such rich, beautiful colors and some very black blacks...and all with very little glare.  Very smooth motion for sports or action flicks to round it out.Overall, the G25 is a top-notch tv with plenty of bells and whistles.  One could go larger for the same price, but will sacrifice many features that this tv provides.  And I'm conviced that no other retailer could beat the price that Amazon sells this for.  For a plasma, or any tv for that matter, at the $1,600 price-point, this is the tv to have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Panasonic G25 54" Plasma </p>
+
+
+<h2> review.date </h2>
+  11-17-2010  
+<h2> review.text </h2>
+
+ <p> Installation was easy for us as the man who delivered it unpacked it, set it up, and made sure it was running before he left.  The extra parts (running the GameBoy, etc.) was a bit more complicated--the young adults who visit and use it set that part up.  Picture quality is beautiful.  We have been using it about a month now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Panasonic TV </p>
+
+
+<h2> review.date </h2>
+  08-26-2010  
+<h2> review.text </h2>
+
+ <p> It's a great TV, but if your reception is bad in your area, not HDTV is going to help.  Outside of that, the TV does everything that I need it to do.  It is sharp and the colors are rich.  The issue is that many channels have their own color rendering and unfortunately some channels look better than others.  It is a monster of a TV, but not too heavy, but will require 2 people to mount it on the wall.  The blacks are deep black and even though there are some reviews that say Panasonic's have problems with blacks fading, so far we haven't had that issue.  We'll see in the next 6 months. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Panasonic TC-P54G25 54" </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

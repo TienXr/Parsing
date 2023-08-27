@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002OHE1O8 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-16-2012  
+<h2> review.text </h2>
+
+ <p> I was disappointed overall -but I have to give Shane Free props for pursuing what interests him and filming it.  I like his passion and enthusiam -but nothing on this DVD made me jump or squirm or feel weird -ever.So -pretty dull even though I'm interested in the paranormal. I just didn't get into it personally -sounds like a lot of folks on here loved it. So watch it and see what you think :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It wasn't THAT interesting :( </p>
+
+
+<h2> review.date </h2>
+  11-24-2013  
+<h2> review.text </h2>
+
+ <p> I did not like graveyards and because I see ghosts, this story was greatly incomplete..... I did not like it at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What Afterlife!?! </p>
+
+
+<h2> review.date </h2>
+  10-24-2009  
+<h2> review.text </h2>
+
+ <p> I hope I'm not giving anything away, but I learned that the IR thermometer measures temperature changes, the EMF detector measures electro-magnetic fields, EVP is electronic voice phenomenon where you hear sounds on tape that you didn't hear when you were doing the recording, a disembodied voice is where you hear sounds that have no known source and orbs are round floating objects that sometimes appear on film.This is a very well made production with expert cutting and a killer soundtrack which keeps you hooked in from start to finish.  I am a skeptic of the subject matter and don't usually pay attention to documentaries relating to the paranormal.  But the quality of the filmmaking kept me interested throughout.I especially enjoyed the deleted scenes where we are introduced to the equipment that was used to detect paranormal activity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As Good as Real Gets </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> I did not even finish this one, it could not hold my interest, and I was surprised that it was reviewed well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not what I expected </p>
+
+
+<h2> review.date </h2>
+  01-04-2010  
+<h2> review.text </h2>
+
+ <p> This was probably the best amateur ghost investigation documentary I've seen. The footage and sound is clear. The evidence is presented very matter of fact without embellishment. I am very impressed by this. I suggest it highly to anyone that is interested in ghost investigation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I actually suggest it! </p>
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> I thought this was good. It is bearable for skeptics and interesting for believers. One of the better &#34;ghost hunting&#34; documentaries out there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Balanced Inquiry </p>
+
+
+<h2> review.date </h2>
+  06-21-2010  
+<h2> review.text </h2>
+
+ <p> This guy's name is Shane Free.  Shane thinks he is a paranormal investigator.  Don't we all?  Shane traveled to Gettysburg to the  Cashtown Inn, the Queen Mary in California, and Ohio's Prospect Place - all places that have been investigated before on television more times than I care to mention.  Shane believes in orbs, and he showed many cringe worthy shots of dust particles that he swears are orbs and spirits.  In fact, one small "orb" is in front of the faces of two investigators in one shot, and as they enlarge the footage, you can see that this orb miraculously has little legs making jerky little motions.  Shane Free cannot tell a spider from an orb. That's really embarrassing.  And guess what else?  Shane bought a Ouija board just for his trip to Prospect Place, even though we are warned again and again and AGAIN that you should never EVER use a Ouija board during an investigation.  It is inviting trouble that you don't want and it is stupid.  And dangerous.  But this is not all!  Shane makes sure that the Ouija board that he buys is haunted.  Yeah, let's not only use a Ouija board that can invoke seriously nasty evil spirits that will follow you home and to the Dairy Queen and anywhere you go, but let's make sure that it is already certified `dangerous' as it comes with a guarantee that it is haunted.Shane opens the package when he receives it and, because he is apparently a seasoned paranormal investigator, throws the enclosed package of sea salt he is supposed to spread around when he is using this board, to the floor.  So on to Prospect Place, where he and two other suckers balance this board on their knees and have a session with it.  What do you know?  That little thing is really moving around that board and eventually goes off the board.  And while one second Shane is beaming, self-satisfied, that he got a response from his haunted Ouija board, in the next second he is whipping this same board up into the air because he suddenly flew off his chair like someone lit a match under his butt.  Apparently, something touched him on the back of the neck and he nearly did a number two in his pants.  Suddenly I am beaming, self-satisfied, that Shane got a taste of why you should never EVER use a Ouija board on an investigation.Nothing Shane Free got as `evidence' was trustworthy or exciting.  It seems anyone can make a DVD nowadays and call themselves a paranormal investigator.  Look, if you do, at least act responsibly and don't be reckless. Take up cooking instead and use the haunted Ouija board to chop carrots on.  And stop taking our money for this nonsense.  Please? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Free Style Investigating </p>
+
+
+<h2> review.date </h2>
+  09-16-2009  
+<h2> review.text </h2>
+
+ <p> If you're interested in ghosts or the paranormal, this flick is a serious treat!We've all watched ghost hunting "reality" shows on TV, and going into this documentary, I was wondering what could they possibly show I haven't seen.  Well, as it turns out, PLENTY.Most ghost hunting programs - and films, for that matter - are so determined to frighten that they spend alot of time flash-cutting, trumping up fakey "results", and building heavy, overbearing "spooky" sound design.  By contrast, INVESTIGATING THE AFTERLIFE shows what the experience of ghost hunting is really like - the patience required, the psychology, and ultimately, the terror.  Instead of "trying" so hard to be scary, INVESTIGATING THE AFTERLIFE actually is.  The process of paranormal investigation is played out, and as a result is WAY more intense and gripping than the editorially manufactured stuff you've seen on TV.Amateur ghost-hunter Shane Free dares to do something so many of us have thought about doing, and by documenting his efforts in an unsensationalized and honest manner, puts us RIGHT THERE with him!  This is a seriously spooky treat and an absolute must-see for fans of ghost-hunting, the paranormal, or anyone just wanting to watch an usually creepy movie! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Realistic and SCARY! </p>
+
+
+<h2> review.date </h2>
+  06-10-2012  
+<h2> review.text </h2>
+
+ <p> I am a avid paranormal hobbyist myself. This video proves what happens when you set out to find evidence of the paranormal and realize that you just can't goto a haunted place and have the ghost put on a show. I think that even the best ghost hunters will tell you that sometimes you strike out and sometimes if you are notcareful to debunk your findings that you may just want to believe what you hear or see as paranormal. This movie shows how amateur ghost hunters who want to seeor hear something so bad will tend to come to a quick decision on things. But the video had enough questionable evidence to satisfy the believer. But not enough to sway anyone who doubts ghosts exists. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The amateur came out </p>
+
+
+<h2> review.date </h2>
+  04-10-2011  
+<h2> review.text </h2>
+
+ <p> bought this book for my sister and she hasn't read it yet so i can't tell you if it is any good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> afterlife </p>
+
+
+<h2> review.date </h2>
+  12-04-2013  
+<h2> review.text </h2>
+
+ <p> This wasn't really what I had expected and was somewhat disappointed, but again I have seen worse, I just wouldnt watch this one again. It was like this dude tried to make the Ghost Hunters team and didn't so went on a quest to video tape his own experiences etc and from what I can tell it just wasn't very good.  This is my opinion but BORING! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boring waste from a sour grapes Ghost Hunter </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> I thought id try it out and see if id like the series and I found it good too id recommend this series to others </p>
+
+
+<h2> review.summary </h2>
+
+ <p> movie channel review </p>
+
+
+<h2> review.date </h2>
+  03-24-2012  
+<h2> review.text </h2>
+
+ <p> This movie was interesting, and I really hope he does another.  It was an honest "ghost investigation" without the "hoopla" and a tv crew of 20.  The evidence that he presented and his evaluation was honest.With all the "ghost hunting" programs on TV, people have to realize, that 99% of the time they are for entertainment purposes only.  They ahould not be taken seriously....it's mostly hype.  The difference with this movie, is that it was a honest documentary of one man's search into the paranormal..........It may not be too scary, but it is real. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Investigating the Afterlife </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

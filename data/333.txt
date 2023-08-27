@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1595820140 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-21-2007  
+<h2> review.text </h2>
+
+ <p> Raiser of Gales is an interesting, and I think introspective and thoughtful adventure.  It more firmly establishes the what and why of D's world.  Also, the wording in this novel is well written, far less "All your base-" than ended up getting through in the first translation.My favorite is that an enemy uses a type of trap that was later incorporated into the second D movie, but I've risked spoiling it enough here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Moody and thoughtful </p>
+
+
+<h2> review.date </h2>
+  01-13-2007  
+<h2> review.text </h2>
+
+ <p> Many have already commented on the translation, so I will just take a moment to note that it has certainly progressed a bit beyond that of the previous novel.  Action sequences in particular seem to have taken on a smoother pace, though the rather spartan and abrupt nature of the original text still causes the occasional coltish wobble.As with all VHD novels there is a haunting quality to the prose that shines moon bright: D is still more or less at war with his soul, and our plucky coquette-du-livre is enjoyable. The odd coyness about Left-hand (the wise cracking sidekick/parasite) remains; though, since the novels are not particularly linear, this may be less noticeable to those who do not read the books in order or back to back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> progress is being made </p>
+
+
+<h2> review.date </h2>
+  10-20-2007  
+<h2> review.text </h2>
+
+ <p> When he's not hunting vampires, D is an excellent detective.Ten years ago, 4 children go missing and only 3 return.  Now vampires are able to walk in daylight.  What happened ten years ago?  How are daylight walking vampires and the 3 missing children that returned (now adults) connected?  The answer will shock you.What I liked about this novel is a thin line is drawn between humanity and monsters.  You have your monsters killing and hunting people, but then you have people being abusive and cruel.  And for a moment. . .for one second, I saw through's D eyes and did not see a difference.And taking Doris's place as The Girl in Love with D (which I will refer to as GLD, "Girl Loves D"), is Lina.  She is annoying at first, I will admit, but she did grow on me through the novel.  I don't like her as much as I liked Doris, but I don't hate her either.This novel is particularly gory and does contain sexual abuse and mentions of violent rape, so definately keep this out of kids' hands and don't read if it offends you.Another plus about this novel, for Vampire Hunter D fans. . .that a criptic clue is revealed about D's past. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Detective D </p>
+
+
+<h2> review.date </h2>
+  09-18-2011  
+<h2> review.text </h2>
+
+ <p> Wow, this writing is just absolutely terrible.  Despite that, it continues to be an awful lot of fun.Was interesting how clear the Lovecraft influences were in this one - somehow I don't remember them being so noticeable in the first, but it's been a while.  Also, dare I say Moorcock?  Idk, I've never heard Moorcock stated amongst Hideyuki's influences, but I was seeing shades of him everywhere.A warning for those with triggers or weak stomachs: this book is coming out all over RAPE.  Rape rape rape, every time you turn around that poor heroine is getting raped or threatened with rape again.  It was kind of ridiculous. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's so terrible and yet I desperately want the next one, I don't even know </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> This order was to help a friend replenish her collection after she lost her house to fire.  Swift service!  Thanks so much! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good </p>
+
+
+<h2> review.date </h2>
+  07-15-2007  
+<h2> review.text </h2>
+
+ <p> I liked this book as much as I love the first one.  This time D finds himself a world he just can't get out of.  It keep repeating itself over and over again.  The girl in this book as quit a charcter and did not annoyed me as much as Doris Lang.  She keeps following D where ever he goes.  And he always tell her to "Go Home"  Which always made me laugh. The girl he meets is very interested in Vampires and D in the novel finds her strange.  WOW that something coming from D.  The book was fantasic as always.  But it's little sad at the end though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yet Again Wonderful Book </p>
+
+
+<h2> review.date </h2>
+  10-23-2009  
+<h2> review.text </h2>
+
+ <p> I read this book years ago when it was finally translated, but I'm going back and reviewing this one because I re-read it again. For some reasons, sequels are always better than the debut. This book is no exception.From the very first chapter I was captivated, and finished it within a week. That's rare for me, but I couldn't put it down. I'm biased, first of all, so take that into consideration. I am a vampire fan, and a Vampire Hunter D enthusiast.This book prompted me to write the story that I wanted to, as far-fetched and far-reaching as the plot is. But after seeing what Kikuchi-san did with it, I had the guts to live in his glory and write what I had in my heart to write. He blends fantasy and sci fi to perfection. In fact, in my will, I have it that I'd like to get cremated with this book and The Vampire Lestat. True story.The ideas this man has are sometimes a bit corny, but always entertaining. The trek mortals try to make to the high castle gave me cold chills in the way he presents the vampires' (called Nobility) science and magic.Other than Anne Rice's The Vampire Lestat, this is my favorite vampire story, and I put it up there with the greats, like Bram Stoker's Dracula.Long live the Vampire Hunter D saga... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sequels Are Always Best </p>
+
+
+<h2> review.date </h2>
+  10-11-2005  
+<h2> review.text </h2>
+
+ <p> I love this book it has all the gothic goodness that I have been looking for. I was into Vampire hunter D ever since The Anime movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally in English </p>
+
+
+<h2> review.date </h2>
+  12-10-2006  
+<h2> review.text </h2>
+
+ <p> Hard to top the first book, where we're introduced to D.  But, the author still manages to surprise the reader with more and more insights into who D is, what his powers are, etc...I especially like the hints about who his father is and how D was "created."  And I'd like to learn more about his hand.  I love this character!!  What actually has me more excited is Vol 3.  After reading the first 20+ pages included at the end of Vol 2, it sounds awesome.  The Marcus clan vs. D reads like the ultimate battle for our favorite dhampir.  Can't wait! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it almost as much as the first... </p>
+
+
+<h2> review.date </h2>
+  10-23-2005  
+<h2> review.text </h2>
+
+ <p> Here we have The Raiser of Gales, the second volume of the Vampire Hunter D novel series. Admittedly I liked the first one despite the fact that it was quite badly written. To sum uf the Raiser of Gales: Second verse, the same as the first. All the problems present in the first novel are back with a vengence and the plot is far more meandering and weaker on the whole. I'm sure this is going to make the anime fans angry, because for some reason that boggles my mind this franchise has a dedicate following, but the truth hurts.Anyway, in this second episode pretty boy vampire hunter, whose best friend is his write hand, D finds himself investigating a town were the vocal vampire victims are rising from the dead... in broad daylight. Curiouser still is that ten years before, 4 children were spirited away, with only three of them eventually returning. Lina, one of the missing children, becomes infatuated with D. It's really unfortunate that a secondary character like her has better character development than the hero of the story.The less than impressive writing style is back, complete with all the weird narration which will go on and on about how pretty and strong D is.On top of everything else, this is an extremely short novel with the entire adventure over with in 215 pages. Not that I wanted it to be any longer, since a lot of the middle felt like filler material anyway, but it took me about 6 weeks to finish it. By the end, after forcing myself to finish, I was positively bored stiff. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Bad It's Not The Raiser of Interest </p>
+
+
+<h2> review.date </h2>
+  08-21-2007  
+<h2> review.text </h2>
+
+ <p> ...but when they're victims start moving about and killing people during the day time hours that can be a problem.  The people of the village of Tepes are starting to become paranoid, seeing evil in everybody and everything.  And they weren't too pure to begin with.  Now they have the tall, dark, and handsome Vampire Hunter D in their town.  And he is not too sure it is a vampire that is the problem.Can D solve the mystery before too many people die at the hands of the new type of vampire?  Can he solve the mystery before too many people die at the hands of their own protectors?Great story, great illustrations, great second book to the ongoing Japanese horror series.  I will be collecting as many as I can.  Get it used or new! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vampires rule the night... </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> This book is a great first sequel to the book Vampire Hunter D. It is a great story filled with exotic and epic characters. The enemy is quite entertaining, but a basic enemy compared to the many creatures and foes D faces in later books. Great read, obvious must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great story </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> The book is great, if you're into vampires and a post apocalyptic futuristic setting. I just feel the book itself should have been kept in its own packaging. The edges of the cover came with slight wear but enough for me as book collector to notice. I won't be returning the book but a plastic sleeve may have prevented this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read! :) </p>
+
+
+<h2> review.date </h2>
+  09-04-2005  
+<h2> review.text </h2>
+
+ <p> D is called to a town where there are vampires capable of walking in the daylight. He has to figure out where the source of this is and how to stop the murders going on in the town. We learn that 10 years ago, 4 people were abducted and returned with no recollection of what happened while they were abducted. A young girl names Lina is one of these 4. She's very intelligent for her age and has always been interested in knowing the history of the Nobility. Unfortunately, her town has other ideas in store for her. She trails along with D aiding him in getting to the bottom of this mystery in order for him to complete his mission and for her own sanity.I really enjoyed this book as well as the first! I felt a whole new atmosphere in this one than the first book which is a good thing. I liked the book cover for the volume one better. However, the illustrations throughout this text I felt were better than the ones we see in the first book. D's quite a gorgeous specimen indeed. I liked how it was much more mystery-like allowing me to unravel some clues on my own. It didn't cause me to lose the sense of action and adventure either. I liked Lina's character. She had to deal with a lot of turmoil, but still acted like a typical love-struck 17 year old. I LOVED D being the romantic one. I loved him trying to figure out Lina and why she had the effect on him that she did. The erotic situations were kind of gross, but it got the point across to make my skin crawl and hate characters. I noticed some stuff out of this book is what we see in the Bloodlust film:The first account was when how Lina talked about the rain making one sentimental. In bloodlust Leila and D have a moment in the rain where she states this.The second was when D was caught in the dimension. He had to deal with the situation somewhat differently in Bloodlust though.Then we see the hallucinations. D sees the woman in a white dress with long black hair in front of her face as to not reveal her identity. I think it was implied that it was his mother like in Bloodlust.I cannot WAIT until volume 3 is released. It is what the second movie is based off of and I totally loved the second movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VHD Vol 2 is another enjoyable vampire story </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

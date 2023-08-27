@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1580911676 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-07-2010  
+<h2> review.text </h2>
+
+ <p> I bought this book half because of the good reviews, but i feel like my money would have been better spent on something else. One thing I do not like about this book is it involves SUPPLEMENTS. Now please correct me if i'm wrong but if your a normal healthy person (for the most part) if you watch what you eat, and eat health, get educated on eating healthy so you can do it correctly why would anyone need supplements!!! But i understand we are all far from perfect and some supplements may be needed, but the amount of the supplement he is suggesting??? is absolutely wrong!!! Another thing i noticed about this book is he "pussy foots" around most topics. If he doesnt know the answer he will dance around the question and not answer it! Why would you do that, just be honest, you could say "more research is needed" instead or dont talk about that topic! (if he did that i feel there would be very little in this book) As you can see I do have some real issues with this book because some claims are not true and I feel when he writes there is A LOT OF WHITE SPACE AND LITTLE REAL EVIDENCE OR SCIENCE. Buy it if you want, if your ignorant you may love the book, but if you know anything about nutrition or how the body works you will understand where i am coming from! Did i read the whole book? NO. Is there correct information in the book? YES. Are there much better books that do a much better job? ABSOLUTELY. Should I spend my hard earn dollars on this book? in my opinion NO.In a nut shell dont buy this book, I feel like I got ripped off, and a fool for not listening to the bad reviews. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> PLEASE READ BEFORE YOU BUY THIS BOOK!!! </p>
+
+
+<h2> review.date </h2>
+  04-27-2010  
+<h2> review.text </h2>
+
+ <p> What a fabulous book! It is full of really good information, written in a very chatty manner and easy to read. If you want to find out where you're going wrong in your lifestyle and diet, this is the book for you. I would recommend this to every single person out there who wants to improve their health and general quality of life from all perspectives. It helps you learn about different heath  theories, eg. the blood group diet, about healthy fats, about unhealthy carbohydrates etc etc etc. Buy this book ... you will not be disappointed! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must-read for everyone who wants to improve health </p>
+
+
+<h2> review.date </h2>
+  06-01-2008  
+<h2> review.text </h2>
+
+ <p> Very updated book, with an integrated approach and broad vision about nutrition. In fact, this is not exactly about nutrition but of Nutriology, the modern science of nutrition. I think it goes more in hand with the field of natural medicine; excelent for Naturopath. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nutrition in the modern world </p>
+
+
+<h2> review.date </h2>
+  04-11-2014  
+<h2> review.text </h2>
+
+ <p> I was very disappointed with the quality of information. I can understand having opposing views about topics, but this book did not list them in such a way. It has many different views about things listed as factual, then another chapter would oppose that view and list it as factual. It was confusing, conflicting and a complete waste of time and money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book is a waste of time and money </p>
+
+
+<h2> review.date </h2>
+  06-06-2014  
+<h2> review.text </h2>
+
+ <p> im taking a class in aromatherpy and this little book has helped alot i should pass my first test with out a problem Thank You for having it in stock I love it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The New Optimum Nutrition Bible </p>
+
+
+<h2> review.date </h2>
+  11-30-2009  
+<h2> review.text </h2>
+
+ <p> This offers nothing new and a lot of regurgitaed opinions taken from a host of sources.  Having studied nutrition for more than ten years, and a doctorate in the same, I do not agree with a lot of information in this book.  The author is in the business of selling supplements and would have us taking them all day.  Eating wholesome organic fruits and vegetables should provide much of what we need with the addition of a few basic supplements.  Eat healthy, enjoy life, worry less and love more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not That Impressed </p>
+
+
+<h2> review.date </h2>
+  01-22-2006  
+<h2> review.text </h2>
+
+ <p> it is very easy to read and practical - not any philosophical fluff. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> i love this book </p>
+
+
+<h2> review.date </h2>
+  08-12-2011  
+<h2> review.text </h2>
+
+ <p> This book provides an easy to read overview on nutrition and vitamins.This book explains how antioxidants work together, how to lower your homocysteine levels, how to reduce cancer risk, the safe limits of each vitamin and mineral (even if the numbers given are quite conservative and so perhaps not very useful) and which foods they are in, plus has sections on detoxing and digestion, lots of information on diet, and lists which foods are highest in antioxidants and much more.Most information is aimed more at maintaining health rather than treating serious disease, so this book is mostly for well people that want to stay well.But even so, this book is still very useful for educating yourself about how the body works in many ways as part of a wider health reading program.The sections on diet are poor and the author recommends a diet still too carb heavy for many of us, and too low in healthy fats and which excludes many very important traditional foods probably due to a vegetarian bias. Yes vegetables and fruit are important but what about how important meat is, or eggs, or raw cultured vegetables, or kefir, or homemade 24 hour yogurt made with unprocessed milk, or organ meats? Vegetables are not the only important health foods!This book is best combined with really excellent books on diet such as Eat Fat, Lose Fat: The Healthy Alternative to Trans Fats and books on reducing your total load and detoxification and so on such as 'Detoxify or Die' by Dr Sherry Rogers and the book on sauna use by Dr Lawrence Wilson as well as Dr Atkin's Vita-Nutrient Solution book.(As with almost all health books what he says about 'CFS' (and even M.E., appallingly) is ridiculous and should be ignored fully by everyone, no matter their diagnosis, but overall this book is very useful. 'CFS' is a wastebasket term and not a distinct disease. Patients need a real diagnosis and real help, not to be fobbed off with this unhelpful MISdiagnosis! M.E. is not the same as 'CFS')This book is still better than most on this topic though and parts of it are very good.Jodi Bassett, The Hummingbirds' Foundation for M.E. (HFME) and Health, Healing & Hummingbirds (HHH) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good in parts but not THE nutrition book </p>
+
+
+<h2> review.date </h2>
+  09-27-2007  
+<h2> review.text </h2>
+
+ <p> I bought this book as background information when I started on the Holford Low GL diet, which helped me to lose 35 pounds fast, after a decade of unsuccessful dieting.The Optimum Nutrition Bible was just that.  It explained the causes of a number of various physical conditions that my family, my friends and I were experiencing, and then gave easy-to-implement nutritional guidelines for overcoming these problems.The data is presented in layman's terms - you don't need a medical degree to understand what he's talking about - and the indexing is good when you need to find something in a hurry.If your health is important to you, and could be better than it is, this book might be just the thing you need to set you on the road to recovery through the simple advice and nutritional guidelines presented. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some sanity in a sea of confusion!` </p>
+
+
+<h2> review.date </h2>
+  03-06-2006  
+<h2> review.text </h2>
+
+ <p> This is an excellent book that is easy to read and understand. The cost and size make it especially appealing for a non-medical person who wants the basic info about diet and nutrition. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great easy to read book on nutrition </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> The book had the information in it that it is needed but it is not what I thought it would be.  I wanted a book that used more vegatables and much less meat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The new opitimum nutrition bible </p>
+
+
+<h2> review.date </h2>
+  08-22-2007  
+<h2> review.text </h2>
+
+ <p> My concern about this book is that I found some very specific but blatant errors of information re: one topic the author discusses, and this makes me wonder what other errors he made.  The rest of the book might be entirely accurate, but unfortunately when there are such basic conceptual errors (not typos, actual wrong info that is thoroughly discussed and analyzed incorrectly) it calls into question the rest of the info.In one section, the author discusses information related to exercise physiology and the expenditure of energy during activity.  There are several fundamental errors in his information, and this makes me question whether some or much of the other info in this book (other than the exercise physiology info) is also erroneous.I will share two specific examples of errors in this author's information.  First, he states that the fitter you are the more calories you will burn to complete a given task.  This is actually the opposite of what is true.  Sure, a fitter person likely has a faster resting metabolic rate which means s/he'll burn more calories throughout the day, but to perform a specific task for a specific period of time (as stated in the author's example) the fitter you are the more efficiently your body will perform that task, and the less energy you'll expend to complete it.  His basic premise is absolutely wrong, and thus the nutritional advice that he provides stemming out of that info is flawed.The second specific example of a blatant error is when the author states that running a mile burns 300 calories.  While I suppose this is potentially true for a few individuals, most exercise physiology experts agree that most people will burn approximately 100 calories to run a mile.  Of course the exact number will vary depending on the individual's level of fitness, body weight, body composition, the speed at which they run, the terrain (flat, hilly, etc) but most people will burn about 100 calories to run a flat mile, give or take maybe 25 calories.  The author's claim of 300 calories is SO far from what is standardly agreed upon as a reasonable ballpark estimate of caloric expenditure it is useless.  Unfortunately, the author also then goes on to make nutritional recommendations that stem from this error.My biggest concern is that if the author made these types of basic errors that demonstrate a fundamental misunderstanding of human physiology (which I caught only because of my exercise physiology knowledge) how reliable are the author's nutritional recommendations?  What other errors has he made that I might not catch if I don't have expertise on some other topic in this book (such as the biochemistry of a specific nutrient).  A thorough and accurate understanding of physiology is an essential part of the foundation upon which sound nutritional recommendations should be based.  I am not convinced that this author has that necessary foundation and for me that makes this book of questionable value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some info is absolutely wrong </p>
+
+
+<h2> review.date </h2>
+  12-30-2012  
+<h2> review.text </h2>
+
+ <p> This book has opened my eyes to the world of Optimum nutrition and i now look forward to living for 100+ years with no diseases </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Changed my life </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

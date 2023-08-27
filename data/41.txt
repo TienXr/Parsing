@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B001FVIU2S <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-18-2013  
+<h2> review.text </h2>
+
+ <p> It's a small diameter cable but works very well due to the short run - 3'.Provides a very clean picture. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HDMI cable </p>
+
+
+<h2> review.date </h2>
+  01-01-2014  
+<h2> review.text </h2>
+
+ <p> Here's a heads up on buying cables. Buy the next size longer. I measured and 3 feet seemed right. 4 feet would have been much better.The cable functions without issue. I have bought some other HDMI cables  in the past that had problems. This one was perfect (except for the length, my bad)Shipped reasonably fast. Price was good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> does exactly what it is supposed to do. </p>
+
+
+<h2> review.date </h2>
+  06-24-2010  
+<h2> review.text </h2>
+
+ <p> THIS HDMI CABLE WORKS GREAT AND PUTS BOTH AUDIO AND VIDEO OUTPUT TO MY BIG SCREEN VERY WELL AND NO STATIC AT ALL. JUST BECAUSE IT LOOKS LIKE A CHEAP CABLE THE CABLE WORKS GREAT FOR ANY PS3 AND XBOX AND ANY COMPUTER. THANKS FOR THE GREAT PRODUCT </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HDMI CABLE </p>
+
+
+<h2> review.date </h2>
+  03-16-2012  
+<h2> review.text </h2>
+
+ <p> Got the cables a day ahead of time.  They all work great, which sometimes does not happen with HDMI cables.  No complaints, will definitely do business with these guys again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Deal </p>
+
+
+<h2> review.date </h2>
+  09-26-2013  
+<h2> review.text </h2>
+
+ <p> Using it as a small patch between a computer and my HDMI switch. Perfect length and haven't had and problems with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice </p>
+
+
+<h2> review.date </h2>
+  09-13-2008  
+<h2> review.text </h2>
+
+ <p> Ordered 2 of the black 6-footers. Shipping was to take 4-14 business days, and they came in just 4 business days to Sterling Heights, MI. Came in individual plastic bags inside a box. Cables themselves had foam wrapping on the connectors, and under that hard plastic caps. Very well protected. Tried out one of the cables (that feel like good solid quality) and it worked flawlessly. 6 foot length ordered just in case 3 foot ones (also ordered) were not long enough. All the reviews were right, Mounts Cable N more is the BEST place to buy cables from. I will never buy cables from any retail store ever again. Just over 50 bucks for 2 3-footers and 2 6-footers, that is a spectacular deal. Monster would have charged two or three hundred at least, and they wouldnt have been any better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just over 50 bucks for 2 3-footers and 2 6-footers, that is a spectacular deal </p>
+
+
+<h2> review.date </h2>
+  08-11-2013  
+<h2> review.text </h2>
+
+ <p> Great value, especially compared to local offerings.  The same cable at Wally World costs 10 times more.  Happy with both vendor and product.  Thanks! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Functions as advertised </p>
+
+
+<h2> review.date </h2>
+  02-15-2012  
+<h2> review.text </h2>
+
+ <p> Tried to by one locally and the lowest price was $35 at WalMart. All the other stores were higher.  This cable works great!!!! Just what I needed to connect my Google TV box to my TV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great! </p>
+
+
+<h2> review.date </h2>
+  11-16-2009  
+<h2> review.text </h2>
+
+ <p> For darn near free, this is an awesome cable.  I don't claim to be a videophile, but I bought a Blu-Ray player for the little TV in my bedroom (actually a combination TV/computer monitor thing) and needed something better than the RCA cable that came with the player.  This works great, picture is noticeably improved.  (now I just have to find a Blu-Ray disc to try to see if it's really as sharp as HD TV reception)  I got two 3' cables and two 6' cables for less than a single cable would cost me at a store (under $20 including shipping!) just so that I wouldn't ever be scrounging for one.  Can't beat that with a stick.If you are looking for something to hook up a high end Blu-Ray to a big screen LCD, then yeah, you might want to spend more - or then again you might not.  Who knows? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good inexpensive cable </p>
+
+
+<h2> review.date </h2>
+  01-29-2010  
+<h2> review.text </h2>
+
+ <p> When I first opened the cable, I had my doubts about it since the cable itself is about 3/5 as thick as the rest of my HDMI cables. It has less shielding than some other brands, and I wondered if that would impact its performance. After testing the two I bought out over a few weeks, I can see no difference between these cables and more expensive (and thicker) cables. It's actually an advantage to have a thinner cable in my application (short run from WD TV Live and DVD player to AV receiver) since it makes managing the wires that much easier.These cables work perfectly fine out of the box. Time will tell if the smaller amount of shielding has an impact on longevity. At least they cost next to nothing so even if they don't last forever, they're still worth the purchase if you need a few very short HDMI cables.I'm satisfied. 4/5 Stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality HDMI Cable </p>
+
+
+<h2> review.date </h2>
+  02-27-2014  
+<h2> review.text </h2>
+
+ <p> I had &#34;lent&#34; my brother a spare HDMI cable... But of course he didn't want to give it back. This was a well priced alternative and works great for what I need. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well </p>
+
+
+<h2> review.date </h2>
+  06-24-2010  
+<h2> review.text </h2>
+
+ <p> This is a great cable at a great price.  Fits well, does not wiggle.  Fast shipping too.  A sure winner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great price great cable </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

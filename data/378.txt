@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1933204877 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-31-2010  
+<h2> review.text </h2>
+
+ <p> I bought this book after hearing Sam on PID Radio. Time travel can get out of hand with some authors, but Sam made it believeable and fun without all the usual technobabble.A thought provoking book for christians,  a fun book for everyone. A real good effort by Sam. I can't wait for his next novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Fun Book. Wayback is Way cool. </p>
+
+
+<h2> review.date </h2>
+  12-31-2009  
+<h2> review.text </h2>
+
+ <p> I picked this book up as a gift for my grandson but read it on the flight home to Seattle... Batterman uses some good science and constructs a scenario that hangs together very well. The characters are finely drawn, and the action really never lags.Christian fiction can either be just plain goofy or really imaginative, and Batterman's novel fits the second category nicely. I like the way his pre-Flood descriptions make a lot of sense and actually shed some new light on some Bible references in Genesis that are not all that clear, especially to modern readers.I'm looking forward to more literary work from this author. If he can keep up the good work, I believe he'll find a growing audience in the Christian, and even the non-Christian, community.Arden Peters </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great plot, characters, action </p>
+
+
+<h2> review.date </h2>
+  05-31-2010  
+<h2> review.text </h2>
+
+ <p> Wayback is an adult Christian fiction sci-fi novel by the first time author Sam Batterman. If I was able, I probably would have given it 2.5 stars, not 3.It all begins with the discovery of a strange and super-powerful futuristic weapon that has been hidden since the fall of Hitler and his Nazis. He had a horrific plan to use it's abilities to transport its user to any time period in the past. Now, a group of handpicked scientists, adventurers, and geniuses have been recruited to put this machine to use as a tool for understanding the true age and history of the world. What they find and the time period they enter proves to be dangerous and eye-opening for science, so-called established facts, and religions.So, in Wayback the machine takes this group to the time of the Flood and Noah's arc in biblical times. I'm not a big fan of biblical fiction, but for those of you who are interested...The writing is of a pretty high level. I felt that Sam Batterman wrote with lovely imagery and descriptions that didn't bore but, instead, enhanced the story. I personally didn't feel a connection with any of the characters, but I could see how a reader interested in this sort of literature could come to enjoy their personalities and their discoveries in this B.C. world, which is full of danger and unpredictable situations.I wasn't really blown away, nor disappointed. As I said, Wayback is not really my personal bibliophile taste, so I don't feel that I really have a right to say if it was good or not.If Wayback had used the same plot device, but transported the characters to a more recent time period and didn't focus on the religious aspects quite so much, I may have been more entertained and invested. In saying that though, I feel that I should point out that I found some of the theological discussions to be fascinating - but again, not escapist enough for me personally. We all have our tastes, and this just isn't one of mine. ;)I wouldn't necessarily seek out more novels by Sam Batterman, but I do feel he is talented and that many readers who love this sort of Christian fiction will become big fans.On a different note, the cover of Wayback is appealing to me with it's cleanliness (I know that sounds odd, but it's just so clear and uncluttered) and seems to suggest some level of science fiction. It isn't as eye-catching as it could be and certainly doesn't really represent any scene of the book, but it does its job well enough.SO - does the premise of Wayback intrigue you? Because, if so, don't take my word for it! Go check it out! :)***And to comment on this review or read more by me go to the Bibliophile Support Group [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bibliophile Support Group Opinion </p>
+
+
+<h2> review.date </h2>
+  01-12-2010  
+<h2> review.text </h2>
+
+ <p> I'm always interested in reading and promoting novels that skillfully integrate a scientific, Biblical view of the Flood into their story, so I agreed when the author asked me to take a look at this novel for possible review. I agree with the others that the writing was, overall, very good and the story was exciting.I had one main concern, though. Sam Batterman uses the hydroplate tectonics model in the novel, which would create a catastrophic, world-wide Flood that would remake the face of the earth and be responsible for depositing most of the sedimentary rock layers. But this also means that precisely pin-pointing the Garden of Eden would be impossible based on the post-Flood landscape and that no pre-Flood cities would remain--even as ruins.I understand the author's desire to set his characters down within a short walk of both Eden and the Ark. However, using hydroplate tectonics in the same novel as he uses the idea that the Garden of Eden can be pin-pointed based on modern rivers and river beds is scientifically contradictory--both can't be true. If he wants people to take Genesis seriously, I wouldn't think using contradictory ideas as foundational points in his novel was the way to do it. So I was disappointed with that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Had one concern </p>
+
+
+<h2> review.date </h2>
+  05-22-2009  
+<h2> review.text </h2>
+
+ <p> "Wayback" by Sam Batterman is a novel, a thriller and a movie all rolled into one. I haven't had this much fun with a book since "Jurassic Park."Utilizng work developed by Nazi Germany as it was collapsing, a group of American scientists has succeeded in creating the means to travel in time. They've run into a problem, however; trying to go earlier than about 3000 B.C. ends in spectacular failure, with the deaths of the crew. More recent times don't represent the same problem. And so they confront a question -- what if the earth didn't exist before 3000 B.C.? Could the account of creation in the book of Genesis be accurate after all? So the scientists assemble of a team of experts, and travel to the approximate time of the biblical account of the flood.Enter some terrorists, bent on changing history -- recent history. They're aiming for the 1967 Six-Day War, when Israel smashed the military of Jordan, Syria and Egypt. The terrorists would like to change what happened.The two stories track and parallel each other, as the tension mounts in both and the reader is propelled into the action. Batterman has an extraordinary gift of describing settings and landscapes -- the reader can see and almost smell what's going on. And it doesn't matter if the landscape contains a gigantic boat or rows of fighter jets and tanks in  the desert.The research undergirding the novel is mindblowing -- not only the sciences of geology, botany and physics but also the history of the Six-Day War and the speculative description of the antedeluvian world. The research makes the novel come alive in a way that's extraordinary. And "Wayback" would be a great basis for a movie -- it's that visual.What a story! And what a storyteller! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a Story! What a Storyteller! </p>
+
+
+<h2> review.date </h2>
+  05-25-2009  
+<h2> review.text </h2>
+
+ <p> Wayback is rare for any book, especially a novel. It posits that the earth is not nearly as old as most believe. Not more than about 6,000 years, in fact. How can this be? you ask. That's part of the fun of reading the book. It fits in very well with what Ken Ham teaches at the Creation Museum in Northern Kentucky.One of the difficult parts of writing science fiction lies in explaining the unexplainable. To do so well requires that either the writer goes into great detail about how the unexplainable can be explained (so Michael Crichton) or the reader is forced to accept the unbelievable (so Dean Koontz). Sam falls in the middle; he explains a great deal, but in the end the reader has to accept the matter of time travel.The characters in the book are well developed and relate well to each other. The difficulties they face even in the problems of setting up the trip to Noah's time make compelling reading. Each character plays a part in showing the truth of the Bible.Each chapter ends with a tease to make the reader continue, which makes putting the book down very hard. But that's good writing. It's why we read fiction, isn't it? Yet nothing is ever written just for fluff. It's all very believable.As a Christian work, Wayback includes the gospel, the message of forgiveness through Christ's sacrifice. This is not a distraction; it is what makes a Christian novel truly Christian. How many will be saved from reading this excellent book? We'll not know until we get to heaven, but I'm sure the effect will be vast.Read Wayback, give it to your friends (especially your unsaved friends). And look for more works from this great author! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Much-Needed Book </p>
+
+
+<h2> review.date </h2>
+  03-21-2010  
+<h2> review.text </h2>
+
+ <p> While I am a spiritual person, I was not ready for the literal evangelical basis for this book, which says that all the mountains of evidence that we have gathered, with our God-given intelligence, is just some sort of put-up job. I couldn't help noticing that when the main pro evolution character (Jim Spruce) dared to mention all of this evidence, the response was "whoa there Jim, there's another point of view" but when the character Neil went off on a speculative tangent about how God created Earth to be a companion of humanity, which is out of someone's imagination, he was totally unchallenged. I can't agree about other reviewers' comments about well developed characters. I think they were cardboard cutouts, which served the useful purpose of preventing the book from being any longer. It did have its moments, but they were overshadowed by the simplistic and overamped action sequences, to say nothing of all the creationist scenarios like dinosaurs running around 4,000 years ago, and people with barrel-shaped skulls. I hope that Amazon keeps such tripe as this from appearing on searches for sci-fi, as I felt duped. I am religious enough though, after finishing the book to have thought "thank God that's over with". My advice to the author: don't quit your day job. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sunday school on steroids </p>
+
+
+<h2> review.date </h2>
+  12-26-2013  
+<h2> review.text </h2>
+
+ <p> The concept of traveling in time back in time to the days of Noah's Ark is done very well in Wayback!  The characters are defined well enough for you to become interested in who they are and care what occurs to them through out the book.  The ideas of what could have happened and how is very exciting to get into.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great premise! </p>
+
+
+<h2> review.date </h2>
+  03-22-2010  
+<h2> review.text </h2>
+
+ <p> This is a fun book. Author Batterman did a good job for his first novel. He had some very interesting ideas to be fleshed out and he did a good job. You can tell he really had a mission in this plot to prove that the earth is only as old as the Bible literally says it is--the "young earth" idea. At times, he was a little too forceful in expressing it--as if he was determined to make the reader believe his ideas. But that was acceptable because of the creative way he expressed it. And I loved the twist ending. Originally the characters went back in time to the time of Noah and you expect that they will just return to their original time. But then he creatively arranges for them to go forward in time but to an even different time period that brings an interesting wrinkle into the relationships among the characters. I was kept interested in the story throughout and enjoyed the characters and the descriptions of the settings. Regardless of whether you're convinced about the earth being young, it does give you something to think about and you have a fun time enjoying the plot. I trust Mr. Batterman has good things up his sleeve for future books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun Plot </p>
+
+
+<h2> review.date </h2>
+  06-26-2010  
+<h2> review.text </h2>
+
+ <p> Wayback is a fun novel that I enjoyed from beginning to end. I love the way it reads--like a Michael Crichton thriller, both educating the reader and challenging him to think outside the box. In fact, I would say it has a more wide-open worldview than most Crichton novels, since it allows for both the secular approach and that of a reasoned faith.Nazi experiments? Time travel to the time of Noah? Why not! Wayback has a cool premise, and the story itself is executed nearly flawlessly--again reminiscent of Crichton at his best. I was so tickled with the idea as I read, I kept wondering why I hadn't thought of it! Big kudos to Sam for bringing it all together.Really, I can find little to criticize here. The only thing I wonder about is whether the secondary time travel plot--while thoroughly entertaining and well written--was even necessary for this story. There were so many fun elements in the main story; the secondary plot could've almost been saved for a second novel. (Which I'm sure I would've enjoyed too.)Wayback is an awesome first effort by Mr. Batterman. I'm excited to see what he has in store for us next. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome first effort </p>
+
+
+<h2> review.date </h2>
+  01-17-2011  
+<h2> review.text </h2>
+
+ <p> "Wayback" starts out strong, with an engaging premise, good science, fascinating historical speculation and a well-defined Christian worldview. The author's writing style is a bit redundant, but shows potential for improvement over time. However, the book as a whole falls flat by the time the reader reaches the ending. I was surprised to find that the author's pro-Israel bias led him to include serious ethical fallacies in the time-travel plot. The characters are willing to sacrifice their lives to prevent history from being changed to suit Islamic goals, but are equally willing to change history based on their own worldview. Looking at time travel from a Christian perspective, if we believe God is in control of history, then changing it would seem to be wrong for any reason. Why would God allow an "incorrect" timeline to be created and then have someone go back and make it "better"? It's disappointing that most secular authors who have tackled this plot premise have done a better job with it than Batterman as far as morals are concerned. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't change the past...unless it helps Israel </p>
+
+
+<h2> review.date </h2>
+  01-02-2010  
+<h2> review.text </h2>
+
+ <p> Sam Batterman, the author of Wayback, emailed me recently and asked if I would be interested in reviewing his book. I read about it - it sounded pretty good, but it is not from a big Christian publisher, so I was a bit dubious, but I went for it, and am glad I did.This is a time travel book, but is the best one I have ever read - and I have read a few. I found it entertaining, fascinating, and even educational. A team of experts in their fields is sent back in time to just prior the Flood. Though the book is the author's idea, based on the Bible and help from Answers In Genesis, I still was intrigued by the description of how things might have been.The author uses a fictional story to show how intelligent design and Creationism have to be right. Through discussions with the characters in the book, he presents the proof for Creationism. Some on the team are Christians who believe completely in God and Creationism, while others are not Christians and embrace the theory of evolution, until they take the trip of a lifetime.I really, honestly enjoyed this book. It came in the mail today, and I took it, climbed in the recliner, pulled a blanket up over me, and quickly got pulled into the story. This was one of my "one sitting reads" - when I read a book in one sitting, other than bathroom breaks or an email check. I learned that a book doesn't have to be from a big publishing company to be quality fiction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome read </p>
+
+
+<h2> review.date </h2>
+  01-23-2010  
+<h2> review.text </h2>
+
+ <p> Batterman's WAYBACK is more than a thriller . . . it's an education. Meticulously researched, this book is an intelligently written, thought-provoking, yet action-packed ride. It gave me much food for thought without taking from the entertainment value.I've often wondered what it would be like to go back to the time of the Great Flood. To see Noah's ark. To experience life as it was lived before the deluge. This book satisfied my curiosity. Time and time again I found myself sharing insights and ideas from the book with my wife.If you're looking for a story that will satisfy on a number of levels, stimulate you intellectually, hold your imagination captive, and keep you turning pages, WAYBACK needs to be at the top of your list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intellectually Stimulating Thriller </p>
+
+
+<h2> review.date </h2>
+  02-14-2010  
+<h2> review.text </h2>
+
+ <p> This is not a book that I would normally read, but I am so glad that I did read it! Wow! When you read about the book, you think, oh man...a science fiction styled book. But it's so much more than that. The author blends Christians and their beliefs with non christian's and their beliefs in such a way that you would think you were sitting in on an actual conversation.As I sat reading this book, I realized there are many aspects to this novel: it's thrilling, it's realistic, it's full of Godly happenings, and full of great characters. It is a book that will have you thinking about things. It is a bit of the sci-fy type thriller, but not in a way that will turn you away from reading it. When you open the book you are immediately pulled straight in, learning of the Flood and technoligies. Batterman mixes that sci-fy thriller type, with God and Scripture, and uses thoses things to make the characters even more realistic and get your mind to thinking.I give high recommendations to this book. I think everyone will benefit from this book in one way or another. It is perfect for book clubs, or discussion books. It is a truly great book with a thought provoking plot, and characters that you won't forget. Batterman's writing style will not disappoint! So, if you like Christian novels, thrilling, page turning events, and thought provoking situations, please grab a copy of this five star worthy book!*This book was provided for review courtesy of the author.* </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thought Provoking 5 star sci-fy twist to happenings in the Bible </p>
+
+
+<h2> review.date </h2>
+  08-31-2009  
+<h2> review.text </h2>
+
+ <p> Two Roads Corporation has been busy. They've discovered a way to transport people back in time. But an expedition to 100,000 BC ended in disaster as if such a time never existed.This leads Two Roads to believe that everything modern-day science believes about how old the earth is could be mistaken. The company plans to send another team to a time period that might answer some of their questions. The team is recruited and sent to 2300 BC, the time of Noah's Ark and the great flood. What they discover will change science forever.I adore books that present theories of Intelligent Design and Creationism. Men and women willing to stand up against the "proof" that Evolutionists claim is so absolute are brave. I think the public should view science like a jury views a man on trial. Unless it can be proven beyond a reasonable doubt, it is not fact. And as of right now, no scientist can prove how the world came to be beyond a reasonable doubt.This book was a joy to read. It starts out with the gripping premise of time travel and takes us to earth, 2300 BC, before the flood. I enjoyed reading what earth might have been like and experiencing how things might have happened. This is a book I will keep around for my kids to read as they get older, to keep their minds open. This book has some great characters from all spectrums of scientific beliefs, which brought great conflict to the story. I liked the antediluvian city and people. I liked that they were advanced and that the Garden of Eden was still there. There were so many interesting ideas presented here. It was so interesting.The book shifted characters a lot. I prefer a few main characters to follow that I can really grow to care about. Also, the first few chapters simply explained how everything worked. I supposed that was necessary, but it slowed down the story in the same way Michael Crichton's scientific descriptions tend to go on and on. So if you loved that about Crichton, you'll love that about Batterman. Once the team went back in time, I was hooked. I recommend this book for anyone looking to open their mind to a Biblical view of creation and the flood. It was well-written, well-researched educational entertainment. Very fun. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well-written, well-researched educational entertainment </p>
+
+
+<h2> review.date </h2>
+  07-22-2011  
+<h2> review.text </h2>
+
+ <p> A mysterious Nazi super-weapon, hidden for more than 60 years, has been discovered by members of a reclusive, private think tank and perfected using modern technology. This fully realized and reliable device is so powerful, so provocative, that the basic beliefs of science, history, and religion could be overturned in an instant.After a cataclysmic system failure kills an expedition attempting to return to the year 100,000 B.C., a team of skeptical scientists and adventurers is dispatched to the Antediluvian world-a word that no one anticipated- full of wonder, danger and advanced civilizations that will rock the accepted theories of science and history to their core.However, the team is unaware of another plan that is unfolding; there are people who will kill to use this remarkable machine to further their own plans for our past and future.About the Author:Sam Batterman makes his living as a software engineer and lives with his wonderful wife, Susan, and their two kids, Samantha and Parker in Southeastern Pennslyvania. Wayback is Sam's first novel, but there will be others. Sam and his wife serve at Valley Forge Baptist Temple in Collegeville, PA.My Review:This is my second book by Sam Batterman after the first book I read of his Maximal Reserve, got me rethinking the way of viewing science and history from what we've been taught in school and what the Bible tells us. There are some things we never really quite put together and often take the words of so-called 'experts' as our belief in some things. When I had the opportunity to review Sam's debut novel, I jumped at the chance.His ability to engage the reader with a topic and keep it evolving throughout the book is what will hook you from the very beginning. After the Nazi scientists develop a means of traveling through time in the midst of war, you realize the possibilities can be frightening. When they program the machine to go back as far as we've been taught to pre-history and the stone age, they soon find out the world isn't really as old as they thought. A devastating accident occurs that will lead Admiral Nathan Turner to discover what is really hiding in Area 51 and it has nothing to do with aliens!I received this book compliments of Bring It On Communications for my honest review and once more I was not disappointed. I would rate this book a 5 out of 5 stars and for those who love a great story with a science fiction, biblical twist, then this is a perfect find for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Once you pick this up, you won't be able to put it down! </p>
+
+
+<h2> review.date </h2>
+  12-22-2009  
+<h2> review.text </h2>
+
+ <p> Borrowed the book from Mom, and just never seemed to have time to read, but finally just sat down and read it.  Was not even slightly disappointed!  I had my doubts, time travel can be an iffy subject, but Sam handled it beautifully. I was totally wrapped up in this novel. I've wondered how the Great Flood could have happened so quickly that ALL the people on earth (except those 8 on the Ark) could have possibly perished, but that was answered as well.I am eagerly awaiting the next novel by this very talented author. Thanks, Sam, for several hours of enlightening entertainment.  Keep up the good work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a story! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0044XAXR4 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-04-2012  
+<h2> review.text </h2>
+
+ <p> Initially, I ordered Zeikos ZE-CVAFN Auto Focus Macro Extension Tubes for Nikon.  That was a big mistake (I almost couldn't separate it from the camera body.  I ordered Zykkor Macro Extension Tube Set for Nikon SLR Film and Digital Cameras as a replacement.  It works great for what I wanted it for - macro photography without having to pay lots of cash for a macro lens. With these tubes you have to use the manual setting on your camera.I'm using an older AF-Nikkor 35-70mm f3.3 lens.  It has manual aperture capability.  There is no provision obviously for shutter speed, you'll have to set the aperture and shutter speed yourself.  I have absolutely no problem interchanging the tubes and connecting the lens and camera.  Each tube segment is threaded.  Each tube segment can be screwed together or used separately.  One drawback is that there is no labeling for the size of the segment, they are just labeled 1,2,3...Overall I'm pleased with these tubes.  I have no concern about them damaging my lens or camera.  They are definitely worth the money and cost a lot less then the original set of tubes I ordered. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a good product... works great for the money. </p>
+
+
+<h2> review.date </h2>
+  08-31-2012  
+<h2> review.text </h2>
+
+ <p> I was quite happy with my quick test on an ant using the full set with my 50mm macro lens.  I am wanting to get ones that auto focus to help me get close.  I could then make minor adjustments to get the focus where i want.They are just hollow tubes, but seem sturdy enough.  I dont know that i would hang a long lens off then and put the camera on a tripod using the camera base to secure it.  Though i would not do that with my 1.4TC either.They did as they were designed, so if you are SURE you dont want ones that autofocus then I would recommend these.I am trying to justify autofocus ones, espcially since i already bought these and RARELY do macro shots.Doing it all over, I would get autofocus ones and bite the bullet on the cost.  You can always disable AF and do it manually. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked well </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> It's worth the purchase. Used it at a wedding, rings came out nice. Once you learn to focus the lens, (use a tripod for best results) your good to go. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice! </p>
+
+
+<h2> review.date </h2>
+  01-15-2012  
+<h2> review.text </h2>
+
+ <p> I bought this product to try to get better macro photos, without shelling out more money for a dedicated macro lens. I'd have to say, they do what I need them to, although it's a pain not to have auto-aperture. I solved this problem by wedging a little piece of wood into place to hold the lens aperture lever open. So that works, though it would be nice to have a way to change aperture without needing to remove the lens. As far as construction, they are fairly well built, with all metal construction. The pieces thread smoothly together, and the lens/body adapters also snap firmly onto the lens/body (they need to be mounted a certain way, or they will not lock on). Overall, I would recommend them to a friend, especially for this price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great way to get good macro photos without spending much </p>
+
+
+<h2> review.date </h2>
+  03-30-2014  
+<h2> review.text </h2>
+
+ <p> You will need to use a very long exposure or very bright lights with this or both. But it works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's ok </p>
+
+
+<h2> review.date </h2>
+  05-05-2012  
+<h2> review.text </h2>
+
+ <p> Bought two of them and used them stacked for macro photography, so far they have worked well with a reversed 50mm lens with raynox 250. I've have had no problems with attaching and detaching the lens and overall they have worked fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> work as intended </p>
+
+
+<h2> review.date </h2>
+  02-10-2011  
+<h2> review.text </h2>
+
+ <p> I ordered these extension tubes to try them out and see if I would like macro-photography enough to invest more money in a dedicated lens.  Since extension tubes are nothing but empty tubes containing no optics whatsoever, I first asked myself why should I pay more for a name brand set?  Then I decided to give these a shot.The above product description isn't complete and there were no reviews, so I was gambling when I ordered these.  I have to say I was pleasantly surprised when they arrived.  For such a affordable set, the tubes are solid metal and appear well built.  The threading clean and clear of metal slivers, so each piece screws/unscrews onto each other smoothly without getting stuck (I also  rubbed the threading a bit with a tiny amount of mineral oil).  This set comes with 5 pieces - 9mm, 16mm, 30mm tube sections, an SLR body adapter, and a lens adapter.  The 3 tubes can be combined in 7 different combinations of extensions (9mm, 16mm, 25mm, 30mm, 39mm, 46mm, 55mm).After testing them out and comparing them with extension tubes I've borrowed from friends, I really can't notice any overt difference.  I've added some pictures I've taken with just the 30mm tube and with all 3 combined (55mm) attached to my Nikon D7000 and a Nikon 50mm 1.4d lens.  As with most extension tubes, the corners are a bit soft, but those can easily be cropped out -- just make sure you compose your shot knowing the corners will need to be cut out.You should note these tubes are manual and do not send any information between the lens and body, so auto-focus WILL NOT work and if your lens doesn't have a manual aperture dial (like the 1.4d), you're stuck taking pictures wide open.  This leads to two major problems: softer pictures and really shallow depth of field.I do have a few gripes about the tubes.1. The tubes aren't labeled with the sizes.  There is a 1, 2, and 3, but no 9mm, 16mm, or 30mm anywhere.  Not a huge issue since you can tell by looking at them which is which, but it's odd that they took the time to label them 1, 2, 3 and not just put the sizes on there.2. There is no  satisfying click when lens is attached all the way, so the only way to tell if it's in there properly is to try to remove the lens without pushing down the release button on the lens adapter.3. The threading isn't aligned perfectly, so depending on which sections you use, the AF/M switch and VR switch on your lens may be on the top, bottom, left or right and not just on the left as it always is when you attach the lens directly to the camera.Overall though, considering the price and quality of construction, I can't complain.  I fully recommend these tubes to anyone who wants to get a feel for the world of macro-photography. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great budget tubes to get a feel for macro photography </p>
+
+
+<h2> review.date </h2>
+  04-27-2012  
+<h2> review.text </h2>
+
+ <p> I received the set of tubes and attached them to my D5100. Attaching the tubes makes everything in the viewfinder extremely dark. maybe i should have gone with the Nikon tubes. worth a try for the price though. Did not have any problems getting the tubes on or off and they do look sturdy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Dark </p>
+
+
+<h2> review.date </h2>
+  02-28-2011  
+<h2> review.text </h2>
+
+ <p> Fantastic little gizmo for cheap macro.  For the price, I was worried that I was going to get something that was going to be difficult to attach/detach from my camera.  That was not the case.  Both camera mount and lens mount surfaces work great.  When mounting it on the camera, it snaps in, just as you'd expect when attaching a lens.  Same for the lens mount... snaps right in.  And in both cases, easily comes off.  It's all metal... no plastic anywhere.Tried all three elements stacked with a 50mm 1.8.  Before, with just the lens, the closest you could get with a focused subject was about 1.5 feet.  With the tubes, you can get within a couple of inches.  Great stuff for just 10 bucks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For the money... awesome </p>
+
+
+<h2> review.date </h2>
+  03-20-2012  
+<h2> review.text </h2>
+
+ <p> I got this tube yesterday. i have D7000, and  attached the tube to camera and Nikon 55-200mm lens, kept camera and lens in manual mode. Its very dark. I can take photos, but those are under exposed( 90% black). I am unable to change the exposure showing "F--". Please help.Update:-------I tried and got photos, but its time consuming. Need more time to focus and need more light. Though i did not got the good photos. only good for having fun with macro photography.About the Tube, its feels strong. need to be very care full while screwing to the body and lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good But not Great. </p>
+
+
+<h2> review.date </h2>
+  11-22-2012  
+<h2> review.text </h2>
+
+ <p> Works great on my nikon d7000Only trouble is when using lenses without the aperture ring. (Most newer lenses)The lens will be in its smallest aperture. Which can be hard to get enough light.The rings work great and fit together very snug, the area of focus is extremely small when using these as well.I don't have much else to say, check out my YouTube video on these tubes. I believe it's titled Zykkor extension tubes or something along those lines. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

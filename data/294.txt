@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B009AGEZ8S <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-18-2013  
+<h2> review.text </h2>
+
+ <p> Mr Data long before Star Trek Next Generation.An android's programing has been corrupted, so he escapes the lab to find his creator to determine his purpose.He enlist the help of his creator's assistant.A study of humanity versus power.Too bad this pilot never turned into a series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Concept </p>
+
+
+<h2> review.date </h2>
+  10-18-2013  
+<h2> review.text </h2>
+
+ <p> This was a series pilot that didn't get picked up.  Lots of humor and also very thought-provoking.  I remembered seeing this on TV and loved it.  I was amazed and pleased to see it available on DVD!  Created by Gene Roddenberry of Star Trek fame, and you can see his style in it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slightly dated, but still fun </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> So glad to find this after all these years of vaguely remembering it. It would have been another great Roddenberry series but alas there is only this pilot that didn't sell. Delightful cast and some great humor. Strange though that one part of the dinner scene that really stuck in my mind -- Questor haven eaten the chicken bones -- isn't here. Were other parts edited out? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pilot for what would have been a great series </p>
+
+
+<h2> review.date </h2>
+  12-04-2012  
+<h2> review.text </h2>
+
+ <p> I am delighted that Gene Roddenberry's &#34;The Questor Tapes&#34; has finally been released on DVD.  I watched it when it originally aired and was very disappointed that it wasn't picked up as a series.  Robert Foxworth plays Questor, an android, who must seek out his missing inventor (Lew Ayres).  While being constructed, his programming was tampered with making him 'incomplete' thus needing human assistance.  He is aided in his quest by a genius scientist (Mike Farrell) but at the same time hunted by other scientists (headed by John Vernon)  who are bent on exploiting the technology or destroying the android.  Farrell helps Questor, but is concerned about a 'secret program' installed in Questor and whether it might mean the doom of all mankind.  Left wide open at the end for many more adventures, one can only be sad that more was not filmed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I remember this unsold pilot well </p>
+
+
+<h2> review.date </h2>
+  01-20-2013  
+<h2> review.text </h2>
+
+ <p> This is a great pilot for a TV series that never got made.Five countries pool resources to build a beyond the state of the art android (Project Questor.) The main inventor Dr. Vaslovik (Lew Ayres) is missing. In Dr. Vaslovik absence they attempt to decipher the programming tapes to be sure there is nothing insidious and destroyed part of them in the process. Now the android, Questor (Robert Foxworth) has to seek Vaslovik and find out why he was made.Unable to do this on his own due to partially destroyed memory and his initial problems with understanding humans he forcibly recruits one of his assemblers, Jerry Robinson (Mike Farrell). Soon Questor gets so good at manipulating people that even we get sumptuous of his purpose.It is not hard to recognize the teleplay writer as Gene Roddenberry of Star Trek fame. Many of the actors are recognizable from other programs of the time. Lady Helena Trimble is played by Dana Wynter of "Lady Godiva Rides Again (Bikini Baby)" fame.Be sure to read the book by D. C. Fontana. The book works well as a stand alone story; However if you saw the pilot the images will still be there as you read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> He is compelled to seek his maker </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> I was too young to understand this film, when it was first broadcast in 1974 - it had been another of Gene Roddenberry's post-Classic Star Trek projects.  He had a few others before this, trying to recapture the magically inspired creativity & high quality of that ground-breaking show from the mid-1960's!I honestly believe that with "The Questor Tapes" Roddenberry finally achieved that very high level of imaginative Science/Speculative Fiction again!!I don't remember this on first broad-cast, and it wasn't until about 1980 (in junior high), that I read a fine article about this 'Lost' tele-Film (that almost became a weekly 'series'), in the pages of the great 'Starlog' magazine - and soon after, I saw a re-broadcast shown in the early 1980's.But watching the film again recently, I am amazed at how current, and prescient this story/ scenario seems = about a highly complex/ incredibly advanced form of artificial intelligence, that becomes very 'human' like during the course of this film - hinting and leading to the ultimate question of what really makes us 'human' in the first place.  And at what point, after the 'artificial' intelligence/ autonomous being accumulates & assimilates all of our acquired knowledge (and even begins to understand the underpinnings of our emotional 'stimuli') = will it ever achieve the right to be called 'human'?!Now, of course, this single film certainly does not answer the above question, but it is presented in such an intelligent & compelling manner, that the viewer can't help but at least begin to contemplate such things - and I am sure Roddenberry's plan was to further explore these intriguing concepts, in a future series.Unfortunately, this was not meant to be - as Roddenberry was much too independent minded to go along with Studio honchos, who wanted to turn this into another 'action' oriented six-million dollar/Bionic man type show (i.e. flexing the mechanical muscle!)Once again, they didn't think the general audiences would go for the 'cerebral' original concept (that's also what they said about Star Trek, at first).In any event, what we are left with is one of the most imaginative, intriguing, and even topical Television Speculative Fiction Movies, ever produced!  And I'm really glad they issued this DVD (with a nice/clean print, as well, not re-mastered but looks good!)post-note:  There is an additional very intriguing 'Big-Scale' concept introduced within this story, perhaps inspired by one of Asimov's great Novels - but I certainly won't give it away, now!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Authentic 'LOST TREASURE' perhaps the Best Television SciFi film, Ever!!! </p>
+
+
+<h2> review.date </h2>
+  04-17-2013  
+<h2> review.text </h2>
+
+ <p> This was a fairly good production, wish they would do a remake with all the special effect technologies we have today and a good cast, it could be terrific.  The story line has such great possibilities. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Questor Tapes </p>
+
+
+<h2> review.date </h2>
+  08-16-2013  
+<h2> review.text </h2>
+
+ <p> This is yet another Gene Roddenberry pilot tragically not picked up by the studios. A bit dated after all these years but still holds up for the most part. Much better than you would expect for Sci-fi after all this time.Yes the video quality is not up to today's standards but for a 1974 television movie it really is pretty good. Clearer than I remember it looked when broadcast originally. I would say more a victim of the short depth of field from the lenses used shoot it than the transfer. Not a big deal in the day but on modern big screen you notice the out of focus backgrounds more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of my favorite movies as a kid is FINALLY available on DVD. </p>
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> Enjoyed it when it was shown on tv. It still looks good. And i always like DANA WYNTER she added beauty to the movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> scy fi tv movie </p>
+
+
+<h2> review.date </h2>
+  04-15-2014  
+<h2> review.text </h2>
+
+ <p> I gave this a gift to my sister. She has always been a fan of this movie since we were kids. When it came to DVD, I bought it so she could enjoy a nostalgic look at one of her a favorite movies from the 70's. She had forgotten that his was a Gene Rodenberry project. Can you believe it; this from a woman who cannot tolerate Star Trek. I had to remind her that Rodenberry did other things besides inventing a science fiction dynasty. She says the transfer process was very good along with the sound quality. She highly recommends this movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A true classic..... </p>
+
+
+<h2> review.date </h2>
+  02-07-2014  
+<h2> review.text </h2>
+
+ <p> The Questor Tapes has always been one of my favorite Roddenberry (with the brilliant and never given enough credit for his assistance, Gene L. Coon) non star trek creations. O only available in a boot leg via conventions, this copy is cleaned up and watchable. The story of an android (a prototype for Data, Roddenberry never let an idea go) planned among us by aliens, this sadly, never went behind this point. My question now is, where's spectre? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> about time! </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> Almost forgot about this one. When I saw it was out, there was no doubt that I had to see this one. Good science fiction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great ending </p>
+
+
+<h2> review.date </h2>
+  10-01-2012  
+<h2> review.text </h2>
+
+ <p> THE QUESTOR TAPES was an excellent two-hour "World Premiere" offering from Universal, and my five-star review is based on the decision to release the title as a MOD (it's not available just yet).  Equally impressive was director Richard Colla's THE UFO INCIDENT, also made for Universal TV and NBC during the 1970s.  Most wanted of all?  FEAR NO EVIL (1969 World Premiere Uni feature for NBC), its sequel RITUAL OF EVIL, THE BORGIA STICK, COMPANIONS IN NIGHTMARE (with a Bernard Herrmann score), HAUSER'S MEMORY (with David McCallum), THE MOVIE MURDERER (bravura performances from Arthur Kennedy and Warren Oates), and countless others.  Please...  keep these vintage Word Premieres coming, Uni-Vault! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More made-for-TV Universal classics, please! </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> A treasure that has been unavailable for years. You are getting what you pay for this TV movie was produced and shot many years ago before private home viewing was even a glimmer in someone's eye, there was no thought to the home market at the time thus the quality, although not sub-par, isn't top drawer - having said that the picture and quality is great considering the source material. The Questor Tapes should have been the next Star Trek, but Gene Roddenberry refused to bow down to vision-less studio heads who wanted to change the dynamic of Roddenberry' s effort. He had learned on Star Trek and let the series go, too bad you can see the potential in this TV pilot - oh what could have been. Shame on the same studio minds who killed off &#34;Alien Nation&#34; &#34;Firefly&#34; and &#34;The Questor Tapes&#34; . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Job </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> Gene Roddenberry & Gene Coon, creative team behind the original Star Trek series, teamed up again for this 90min pilot movie for a series about an advanced android. Calling himself Questor, the machine man is forced to seek out his mysterious creator when a sizable portion of his initial programming files are accidentally destroyed by a handful of the scientists who try to decode the highly advanced data prior to uploading it into Questor's memory banks. Without a complete set of instructions and full knowledge of who and what he is, Questor is forced to put his trust in the only scientist who didn't try to decode the data with the others. Together, they must solve the mystery of Questor's creator, and find him before the nuclear power source in the andriod's chest detonates! The power source doubling as part of it's self defense programming, in order to prevent it from accidentally falling into the wrong hands and being turned into a weapon.Robert Foxworth (Falcon Crest) and Mike Farrell (M*A*S*H) have terrific chemistry together and play off of each other very well. The make-up effects for the android are pretty cool for a 1972 TV movie budget. The entire sequence of Questor prepping himself to leave the laboratory complex for his initial journey to uncover his creator's whereabouts is fascinating. The script, in typical Roddenberry fashion, is fun, well-written sci-fi that incorporates much of the same qualities that Star Trek TOS always had: a profound belief in the basic goodness of mankind and in his ability to overcome his baser self and triumph over adversity in a continuing quest to better himself and the world around him. Sure, this might seem rather heavy-handed & preachy in today's cynical, overly suspicious world, but it's these keystone beliefs that have guided Trek ideology for almost 5 decades and helped it endure thru all of it's various incarnations.The disc is an on-demand DVD-r release from Universal Studio's Vault Series, which are much in the same vein as on-demand product from Warner Bros. Archives, Sony Pictures Choice Collection and MGM Limited Edition. As a DVD-r, that means the disc has ZERO extra features; just the film itself. I don't think it even has closed captioning. Still, it is a pretty rare movie and I was just thrilled to see it get any kind of release at all. The picture & sound quality are quite good for a made-for-TV movie that hasn't seen the light of day in years. I only saw this movie one time, (on a late-night movie viewing I think), many, many years ago as a young boy. But it must have made an impression on me, as many parts of it stuck with me, though I must confess I'd forgotten as much as I remembered. The movie is certainly good enough to warrant repeat viewings. So in closing, let me say that THE QUESTOR TAPES is a very well done, entertaining movie that would have made a very cool sereis. Who knows, perhaps it was just too far ahead of its time? Happily, Gene Roddenberry was able to re-use his android character, with only the slightest bit of re-tooling, as "Commander Data" on Start Trek: The Next Generation. We must have been ready for the concept of an android as a leading character by that time since Data was perhaps the most popular member on that show. THE QUESTOR TAPES gets 5 stars from me!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great pilot film for a series that, sadly, never was </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> Really great movie - so glad it is finally available on DVD after all these years!!!!  Another classic from the mind of Gene Roddenberry -Star Trek Creator!!!!  Every die hard Star Trek Fan will love this movie!!!  A definite must have for the Star Trek fanatic!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must See Movie for Star Trek Fans!!!! </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> Finally. The Questor Tapes on video. This Rodenberry gem never even made it to VHS.  I know. I looked and looked. I thought maybe this film might be dated when viewing it now. i.e. Bell Bottom Pants. But no. It was as fresh as when I saw it that one time in 1974 when NBC showed it. There are a couple of ultra wide ties. But not a bell bottom in sight. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The movie I've been waiting 40 years for ! </p>
+
+
+<h2> review.date </h2>
+  01-30-2014  
+<h2> review.text </h2>
+
+ <p> Roddenberry produced several pilots between the initial run of the original Star Trek series and Next Generation. This is one that we enjoyed watching when it first aired and were not happy that it did not get made into a series. By today's standards, it is dated in terms of technology and FX, but it is still worth adding to one's collection, along with the original series. The four star rating is largely because it is what I consider a valuable addition to my collection, but the overall quality is more along the lines of three stars.A word about the production values of this disc -- it is a &#34;vault&#34; disc, not intended for high sales, and as such, similar to those produced by Warner and Disney, done on an as ordered basis. Generally speaking, the quality is fine and the discs will play on most players, but there are some instances where a player will not play a written disc (rather than a commercially-produced pressed disc). I had no problems playing the disc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An excellent addition to Gene Roddenberry's Genius </p>
+
+
+<h2> review.date </h2>
+  03-20-2013  
+<h2> review.text </h2>
+
+ <p> I hadn't realized that this was a Gene Roddenberry movie.  I remembered seeing it on TV long ago and couldn't get it out of my mind.  I remembered bits and pieces of it.  In true Roddenberry tradition, this is a science fiction show with a morality message.  This is not the typical action movie of today.  It's purpose is to carry a message.  If you like a film that gets you thinking, this may be for you.  I think all Roddenberry fans would like it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thought provoking brain teaser </p>
+
+
+<h2> review.date </h2>
+  01-13-2013  
+<h2> review.text </h2>
+
+ <p> Finally they released this in DVD format, sadly it will not work on a PC. So you have to watch it on a home DVD connected to a tv... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A classic </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> I feel they have been watching, and interfering with our biology, and technology, possibly for centuries. Can't prove it, of course, but believe the probability is high. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I do believe Alien Civilizations are watching us. </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> I remember seeing the show when it was first shown.  I have read the paperback, and have looked for it on DVD for ever.  I don't know why it was not picked up as a weekly show, but I'm sure it would have been cancelled after the first year...that would have been too bad. Good shows, but without support, are always axed! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Old, but Good </p>
+
+
+<h2> review.date </h2>
+  06-30-2014  
+<h2> review.text </h2>
+
+ <p> Classic movie finally available </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> Before Gensis 2 & Planet Earth by Gene RoddenberryGood concept, makes one thinkMakes one want to know Questors roots from movie IE parts , sources, funding.Adapted Asmimovs 3 Laws of Robotics.Love to see in TV serial BUT more updated for Today audience.Have Questor part of some organz or working alone with buddyquasi Govt or NGO organz?Take TV show to 2040?? or 2080 to see changes in Questor from 70s birth.Use CG & other FX, be awesome.Sample titles:Questor Tapes 2.0Next Gen Questor Files.Questor Files.& add more robotics to mix, etcMaybe use Area 51 NV for lab for Questor??More can be done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best early Roddenberry movie </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> I've been waiting to find a decent print of this and this will have to do. It looks like they struck it from a video source and not original film elements. So picture quality is so-so. But that's usually the norm for Universal. But it's watchable if a bit pricy. If you are desperate for a copy (like I was) of this little Roddenberry gem, you will probably be happy with it. Also it is a DVR Movie On Demand disc so it may play only on certain players but I didn't have a problem with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thanks Universal (I think) </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>
